@@ -1,0 +1,56 @@
+ Kann ich mobileTAN in der banking App nutzen?
+
+    Neben iTAN und photoTAN steht Ihnen in der banking App auch das mobile TAN-Verfahren zur Verfügung. Bitte beachten Sie hierbei stets die Kanaltrennung.
+
+ Welche Geräte und Betriebssysteme werden unterstützt?
+
+    Die comdirect banking App steht Ihnen für iPhone, iPod und iPad zur Verfügung. Darüber hinaus kann die App ab Version 3.1 auf der Apple Watch genutzt werden. (Mindestanforderung ab Version 3.0: iOS 7.1)
+
+Warum kann ich als Android-Nutzer die banking App nicht als Alternative nutzen?
+
+    Die comdirect banking App steht nur für Apple-Geräte zur Verfügung. Eine Version für andere Betriebssysteme ist nicht geplant.
+
+Wie kann ich Benachrichtigungen erhalten?
+
+    Aktivieren Sie in den Einstellungen des Betriebssystems (iOS: „Einstellungen" > „Mitteilungen" > „banking App"), dass die comdirect banking App Ihnen Benachrichtigungen (PopUps, Banner in der Mitteilungszentrale) anzeigen darf.
+
+    Bei aktivierter Hintergrundaktualisierung werden Sie dann automatisch über neue Umsätze auf dem iPhone, iPad oder der Apple Watch benachrichtigt. (abhängig vom Betriebssystem) Des Weiteren können Sie sich unter „Menü" > „Einstellungen" > „Erinnerungen" auch auf ausstehende Aufträge hinweisen lassen.
+
+Wie kann ich alle bisherigen Funktionen der mobile App weiterhin auf meinem Smartphone nutzen?
+
+    Sie können jederzeit unsere mobil optimierte Webseite unter www.comdirect.de mit Ihrem Browser auf Ihrem Smartphone nutzen.
+
+ Warum gibt es keine Windows Phone-Version?
+
+    Windows Phone-Nutzer können jederzeit unsere mobil optimierte Webseite unter www.comdirect.de auf Ihrem Smartphone nutzen.
+
+ Werde ich zukünftig auch die Postbox mobil abrufen können?
+
+    Zukünftig können Sie die Postbox über die comdirect mobile App oder über www.comdirect.de mobil abrufen.
+
+Kann ich alle meine bei comdirect geführten Kontoverbindungen über HBCI abrufen?
+
+    Ja. Nach Einrichtung aller bei uns geführten Kontoverbindungen in Ihrem HBCI-Programm ist dies möglich. Je nach Funktionsumfang Ihrer Banking-Software werden Ihnen die vorhandenen Konten und Depots angezeigt.
+
+    Eine Anzeige von Festgeldern erhalten Sie beispielsweise nur über StarMoney, die Darstellung von Fremdwährungskonten ist über unsere HBCI-Schnittstelle generell nicht möglich.
+
+    Weitere Informationen finden Sie auf unserer Website unter Service & Kontakt > Sicherheit > Sichere Online-Banking-Software
+
+
+Kann ich alle meine bei comdirect geführten Kontoverbindungen über HBCI abrufen?
+
+    Ja. Nach Einrichtung aller bei uns geführten Kontoverbindungen in Ihrem HBCI-Programm ist dies möglich. Je nach Funktionsumfang Ihrer Banking-Software werden Ihnen die vorhandenen Konten und Depots angezeigt.
+
+    Eine Anzeige von Festgeldern erhalten Sie beispielsweise nur über StarMoney, die Darstellung von Fremdwährungskonten ist über unsere HBCI-Schnittstelle generell nicht möglich.
+
+    Weitere Informationen finden Sie auf unserer Website unter Service & Kontakt > Sicherheit > Sichere Online-Banking-Software
+
+ Kann ich meine PIN und TAN im Software-Banking-Programm speichern?
+
+    Ja, grundsätzlich ist dies möglich - je nachdem, welche Banking-Software Sie verwenden. Aus Sicherheitsgründen raten wir Ihnen jedoch dringend davon ab.
+
+Wie nutze ich die banking App auf der Apple Watch?
+
+    Um die banking App auf der Apple Watch nutzen zu können, müssen die Geräte gekoppelt sein. Anschließend muss in der banking App das comdirect Girokonto aktualisiert werden um die Kontostandsanzeige auf der Apple Watch zu aktivieren. Nun können Sie sich auf der Apple Watch Ihren aktuellen Kontostand sowie die letzten 5 Umsätze Ihres comdirect Girokontos anzeigen lassen.
+
+    Hier werden keine persönlichen Informationen wie Ihr Name, Ihre Kontonummer oder der Buchungstext mit übertragen, weshalb kein wiederkehrender Login notwendig ist. Ihre persönlichen (Zugangs-)Daten bleiben in der banking App stets verschlüsselt.

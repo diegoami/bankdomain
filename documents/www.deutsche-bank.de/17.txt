@@ -1,0 +1,13 @@
+PSD2
+Kann in Zukunft jeder Drittanbieter Kundendaten abrufen und einsehen, ohne dass Kunden davon Kenntnis haben?
+
+Nein! Auch zukünftig können Drittanbieter nur dann Kontoinformationen abrufen, wenn Kunden explizit ihre Einwilligung dazu erteilt haben. PSD2 regelt streng und unter Einhaltung höchster Sicherheitsstandards den Datenaustausch zwischen Bank und Drittanbietern. Die Deutsche Bank überprüft die ausdrückliche Zustimmung des Kunden, die stets vorliegen muss, damit die jeweiligen Abfragen vom Kunden autorisiert werden. Diese Autorisierung erfolgt durch personalisierte Sicherheitsmerkmale, die der Kunde von der Deutschen Bank erhalten oder mit ihr vereinbart hat (z.B. PIN, photoTAN).
+Warum heißt es in der Presse, dass Drittanbieter ab dem 13. Januar 2018 auf Kundendaten zugreifen dürfen, wenn dazu weiterhin das Einverständnis des Kunden notwendig ist?
+
+In der Vergangenheit war es Kunden gemäß relevanten Geschäftsbedingungen bei einigen Banken untersagt, persönliche Login-Daten an Dritte zu geben. Insofern konnten diese Kunden Drittanbieter nicht nutzen, ohne gegen geltende Bestimmungen der Bank zu verstoßen. Mit den nun gültigen Änderungen der relevanten Geschäftsbedingungen, die kürzlich an alle Kunden verschickt wurden, sind die entsprechenden Passagen nun bei allen Banken einheitlich. Unverändert gilt, dass Kunden gewissenhaft mit ihren Login-Daten und TAN-Verfahren umgehen sollten, um die Weitergabe dieser Daten nur an autorisierte Dritte sicherzustellen.
+Wer kann alles als Drittanbieter am Markt auftreten und ab wann?
+
+Als Drittanbieter (Zahlungsauslösedienstleister, Kontoinformationsdienstleister) dürfen Zahlungsdienstleister agieren, die in ihrer jeweiligen Rolle bei der BaFin angemeldet sind und ein entsprechendes Zertifikat vorweisen können. Da die Register bei der BaFin ab dem 13.01.2018 erst nach und nach angelegt werden und die Zertifizierung von Drittanbietern einige Zeit beanspruchen wird, ist mit einer Übergangszeit bis voraussichtlich Mitte 2019 zu rechnen.
+Wird es weitere Änderungen aufgrund PSD2 geben?
+
+In den kommenden Monaten werden weitere technische Regulierungsstandards (u.a. regulatory technical standards = RTS) durch die European Banking Authority (EBA) in Kraft treten. Unter anderem gelten ab Mitte 2019 strengere Regeln für technische Methoden zum Login sowie zur Autorisierung von Transaktionen, z.B. bei Internetzahlungen. Dies wird weitere Umstellungen auf zukunftsfähige und PSD2-konforme Methoden erforderlich machen (bspw. ersetzt die Deutschen Bank die iTAN-Blöcke).

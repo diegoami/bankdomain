@@ -1,0 +1,41 @@
+Was kann ich tun, wenn ich mich zum Beispiel durch zu häufige Fehleingabe des Passworts in der S-pushTAN-App gesperrt habe?
+
+In diesem Fall muss ein neuer Registrierungsbrief erstellt werden. Melden Sie sich bitte in Ihrem Online-Banking an und nutzen das Formular unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "pushTAN verwalten". Klicken Sie dort auf das Aktionssymbol und folgen Sie den weiteren Schritten oder wenden Sie sich an Ihre Filiale.
+Wie richte ich das pushTAN-Verfahren in der App Sparkasse/Sparkasse+ ein?
+
+Wenn Sie die App Sparkasse oder Sparkasse+ bereits mit einem anderen Sicherungsverfahren (zum Beispiel chipTAN) nutzen, dann müssen Sie das pushTAN-Verfahren neu einrichten.
+
+Hinweis: Die nachfolgende Beschreibung gilt für das Betriebssystem iOS (iPhone und iPad). Für andere mobile Betriebssysteme kann die Vorgehensweise leicht abweichen.
+Kurzanleitung: Einrichtung in der Sparkassen-App
+Wo muss ich den Freischaltcode eingeben, den die S-pushTAN-App erzeugt hat?
+
+Den Freischaltcode müssen Sie im Online-Banking der Stadtsparkasse München im Regelfall auf einem PC oder Notebook eingeben. Die Eingabe des Codes im mobilen Banking ist zur Zeit noch nicht möglich. Verwenden Sie zur Anmeldung im Online-Banking den neuen Anmeldenamen bzw. die neue Legitimations-ID und die neue Online-Banking-PIN, die Sie für die Nutzung von pushTAN erhalten haben.
+Ich habe einen Registrierungsbrief erhalten. Was muss ich nun tun?
+
+Wenn Sie den Registrierungsbrief erhalten haben, müssen Sie noch auf den PIN-Brief warten, den Sie ebenfalls per Post erhalten. Wenn Ihnen beide Informationen vorliegen, können Sie die S-pushTAN-App aus dem App Store laden und starten. Die Anleitungen in der App führen Sie dann durch den Registrierungsprozess.
+Kurzanleitung: pushTAN-Freischaltung
+Ich kann den QR-Code nicht einlesen. Was kann ich tun?
+
+Wenn aus technischen Gründen das Einlesen des QR-Codes nicht funktioniert oder wenn Ihr Smartphone keine Kamera hat, können Sie den 25-stelligen Registrierungscode auch von Hand in die dafür vorgesehenen Felder in die App übertragen. Hierzu betätigen Sie die Schaltfläche "manuelle Eingabe" am unteren Rand Ihres Smartphone-Bildschirms.
+Mit welchen Daten schalte ich mich für das pushTAN-Verfahren frei?
+
+Sie erhalten für pushTAN einen neuen Anmeldenamen bzw. eine neue Legitimations-ID und eine neue Online-Banking-PIN. Den Anmeldenamen bzw. die Legitimations-ID finden Sie im Registrierungsbrief. Die neue PIN erhalten Sie mit einem separaten Brief. Erst wenn Ihnen beide Informationen vorliegen, können Sie den Registrierungsprozess starten. Wenn Sie bereits ein anderes TAN-Verfahren nutzen (chipTAN oder smsTAN), denken Sie bitte daran, dass Sie zur Nutzung des pushTAN-Verfahrens immer den richtigen Anmeldenamen und die richtige PIN verwenden.
+Welche Voraussetzungen müssen erfüllt sein, um pushTAN zu nutzen?
+
+Zunächst müssen Sie sich bei der Stadtsparkasse München für das pushTAN-Verfahren freischalten (Sie müssen ein Smartphone mit dem Betriebssystem iOS oder Android besitzen). Wenn Sie noch kein Online-Banking-Kunde sind, müssen Sie einen Online-Banking-Vertrag abschließen. Wenn Sie bereits Online-Banking-Kunde sind, können Sie sich in unserer Internet-Filiale online für das pushTAN-Verfahren freischalten.
+pushTAN freischalten
+Was muss ich tun, wenn ich ein neues Smartphone oder Tablet kaufe oder ein bestehendes nicht mehr verwenden kann (Diebstahl, Defekt)?
+
+Da pushTAN aus Sicherheitsgründen jeweils an Ihr Smartphone bzw. Tablet gekoppelt ist, müssen Sie ein neues Gerät neu registrieren. Dazu müssen Sie den Registrierungsprozess erneut durchlaufen. Den bestehenden Anmeldenamen/Legitimations-ID und die zugehörige Online-Banking-PIN können Sie weiter nutzen.
+
+Melden Sie sich bitte in Ihrem Online-Banking an und nutzen das Formular unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "pushTAN verwalten". Klicken Sie dort auf das Aktionssymbol und folgen Sie den weiteren Schritten oder wenden Sie sich an Ihre Filiale.
+Kurzanleitung: Gerätewechsel durchführen
+Kann ich auch mehrere Geräte, zum Beispiel ein iPhone und ein iPad, gleichzeitig für pushTAN freischalten?
+
+Im Online-Banking können unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "pushTAN verwalten" > „pushTAN-Verbindung hinzufügen“ ein zusätzliches Gerät ("TAN Medium") definieren, auf dem Sie die pushTAN empfangen wollen. Sie erhalten dann auch für dieses Gerät einen neuen Registrierungsbrief per Post. Auf dem neuen Gerät müssen Sie dann ebenfalls die S-pushTAN-App installieren und den Registrierungsprozess durchlaufen.
+Kurzanleitung: pushTAN-Freischaltung
+Kann ich das chipTAN- oder smsTAN-Verfahren weiterhin nutzen?
+
+Wenn Sie bereits vorher entweder das chipTAN- oder das smsTAN-Verfahren genutzt haben, können Sie dieses Verfahren auf Wunsch weiter nutzen. Setzen Sie sich in diesem Fall mit Ihrer Filiale in Verbindung.
+
+Da Sie für die jeweiligen Verfahren einen eigenen Anmeldenamen und eine eigene PIN erhalten haben, entscheiden Sie durch Eingabe dieser Daten bei der Anmeldung im Online-Banking, welches Verfahren Sie nutzen möchten. Wenn Sie eine Bankingsoftware nutzen, müssen Sie gegebenenfalls das Verfahren auch in der Software umstellen.

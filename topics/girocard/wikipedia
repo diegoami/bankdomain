@@ -1,0 +1,181 @@
+Girocard
+(Weitergeleitet von Electronic Cash)
+Logo auf Girocards und an Akzeptanzstellen
+
+Girocard (Eigenschreibweise girocard), früher und umgangssprachlich Electronic Cash (Eigenschreibweise: electronic cash) ist ein gemeinsamer Rahmen für das deutsche Debitzahlungssystem und das deutsche Geldautomatensystem. Der Name und das Logo Girocard wurden 2007 vom Zentralen Kreditausschuss (ZKA; heute Die Deutsche Kreditwirtschaft) durch Umbenennung der vormaligen ec-Karte eingeführt. Während der Name ec-Karte weiterhin äußerst bekannt ist, hat sich die Kenntnis, dass die Karte umbenannt wurde und Girocard das Nachfolgesystem ist, bei der Mehrheit der Bevölkerung noch nicht durchgesetzt.[1] Karten mit dem "Girocard"- oder „Electronic Cash“-Logo werden nur von Kreditinstituten ausgegeben, üblicherweise in Verbindung mit einem Girokonto. Die Kartenzahlung erfolgt durch Eingabe der PIN (Persönliche Identifikationsnummer) durch den Karteninhaber an einem sogenannten EFT-POS-Terminal (Electronic Funds Transfer Terminal, Terminal für elektronische Überweisungen, „Geldübertragungen“). Ähnliche Debitkartensysteme sind Maestro und V Pay. Oft werden auch Karten von den ausgebenden Kreditinstituten zusätzlich mit Maestro- oder V-Pay-Funktionalität ausgestattet. Zu erkennen sind diese kombinierten Karten am zusätzlichen Maestro- bzw. V-Pay-Logo auf der Karte.
+Inhaltsverzeichnis
+
+    1 Verbreitung
+    2 Zielsetzung
+    3 Akzeptanzzeichen
+    4 Typische Kombination
+    5 Netzbetreiber
+    6 Hardware und Software
+        6.1 Sicherheitslücke
+    7 Chip gegen Magnetstreifen
+    8 Zahlungsautorisierung
+        8.1 Girocard mit Magnetstreifen
+        8.2 Girocard mit Chip, Chip-offline
+            8.2.1 Beispiel
+        8.3 Kosten
+        8.4 Autorisierungsmerkmal
+    9 Zahlverfahren mit Girocard
+    10 Studien zu Zahlungsverfahren
+    11 Siehe auch
+    12 Weblinks
+    13 Einzelnachweise
+
+Verbreitung
+
+Die Girocard ist in Deutschland sehr weit verbreitet. Nach einer Untersuchung des Marktforschungsinstituts GfK vom Juli 2015 besaßen 95 % der Bürger eine Girocard, insgesamt waren über 100 Mio. Karten im Umlauf. 75 % der Karteninhaber nutzten die Girocard zur bargeldlosen Bezahlung im Einzelhandel.[1]
+
+2015 wurden knapp 2,6 Mrd. Transaktionen mit einem Gesamtumsatz in Höhe von 138 Mrd. Euro mit der Girocard ausgeführt.[2] Nach einer Studie der Deutschen Bundesbank zum Zahlungsverhalten in Deutschland aus dem Jahr 2014 wurden ca. 15 % aller Zahlungen mit der Girocard getätigt (womit ca. 30 % des Gesamtumsatzes gemacht wurde); damit war die Girocard das zweitwichtigste Zahlungsinstrument nach dem Bargeld. Kreditkarten erzielten, zum Vergleich, nur ca. 4 % der Umsätze, andere Debitkartensysteme waren ohne Bedeutung.[3]
+Zielsetzung
+
+Girocard soll den sicheren und einfachen Einsatz von Debitkarten unter Verwendung der Persönlichen Identifikationsnummer (PIN) garantieren.
+
+Die europäische Kreditwirtschaft hat mittlerweile den einheitlichen Euro-Zahlungsverkehrsraum (SEPA) eingeführt. Ziel des SEPA ist es, allen Bürgern die Möglichkeit zu eröffnen, Zahlungsverkehrsdienstleistungen im Euro-Raum zu den gleichen Bedingungen ausführen zu können wie im Heimatland. Girocard soll vor allem die internationale Akzeptanz der deutschen Debitkarten im Zuge der Schaffung eines einheitlichen Logos für den SEPA erleichtern.
+Akzeptanzzeichen
+
+Die Akzeptanzzeichen sind die Piktogramme „girocard“ und „Electronic Cash PIN-Pad“. Der Technische Anhang zu den Bedingungen für die Teilnahme am „Electronic Cash“-System der deutschen Kreditwirtschaft (Händlerbedingungen)[4] enthält die Verpflichtung des Händlers, an neu eingerichteten Kassen-Standorten bis auf weiteres „Electronic Cash PIN-Pad“ und „girocard“ als Akzeptanzzeichen parallel zu verwenden. Auf den Debitkarten der Banken und Sparkassen werden die girocard-Akzeptanzzeichen ebenfalls aufgebracht.
+
+    girocard
+    Einführung 2007
+
+    electronic cash PIN-Pad
+
+    ec electronic cash
+
+Die Markenrechte an den Akzeptanzzeichen (girocard-Akzeptanzzeichen und electronic-cash-PIN-Pad-Akzeptanzzeichen) werden von der EURO Kartensysteme GmbH für Die Deutsche Kreditwirtschaft gehalten.
+
+In einer Übergangsphase ist noch das Piktogramm „ec electronic cash“ auf Debitkarten der deutschen Kreditwirtschaft und an POS-Terminals als Akzeptanzzeichen zu finden. Dieses Zeichen wurde für die Übergangsphase von Eurocheque (beleghaftes Zahlen mit Scheck) auf Zahlen mit ec-Karte (kartenbasiertes Zahlen mit PIN) verwendet. Nach Abschaffung des Eurocheque-Verfahrens wurde die Ausgabe von ec-Karten durch die deutsche Kreditwirtschaft eingestellt und die Markenrechte an Eurocheque an Mastercard verkauft. Das Zeichen Electronic Cash Logo.svg „ec electronic cash“ wird von der deutschen Kreditwirtschaft nicht mehr offiziell als Akzeptanzzeichen verwendet. Die noch vorhandenen Karten werden im Rahmen des normalen Kartenaustausches mit den Zeichen „girocard“ und (bei älteren Karten) „Electronic Cash PINPad“ ausgestattet. Neuaufgestellte electronic-cash-POS-Terminals tragen ebenfalls die Zeichen „electronic cash PINPad“ und/oder „girocard“.
+Typische Kombination
+
+Eine Girocard wird meist mit mehreren Diensten kombiniert, u. a. mit aufladbarer GeldKarte, der Funktion Maestro oder V Pay für die Nutzung der Karte im Ausland. Als Nahfeldkommunikationssysteme zum „kontaktlosen“ Bezahlen mittels Near Field Communication (NFC) kommt auf den Karten der Sparkassen das Prepaid-Verfahren Girogo zum Einsatz, bei dem es sich um die kontaktlose und über das Händlerterminal aufladbare Variante der Geldkarte handelt. Seit Juli 2017 unterstützt die Girocard auch das Verfahren „girocard kontaktlos“, bei dem mittels NFC die Kartenzahlung vom Girokonto kontaktlos und unter 25 Euro auch ohne PIN erfolgt. Im Ausland übliche NFC-Verfahren wie z. B. Paypass oder Paywave sind nicht auf der Girocard verfügbar, da es sich hierbei um Verfahren der Kreditkarten-Organisationen MasterCard und VISA handelt.
+Netzbetreiber
+
+Im Arbeitskreis der Electronic Cash-Netzbetreiber sind alle in Deutschland von der DK zugelassenen Netzbetreiber zusammengeschlossen. Nach Angaben des Bundeskartellamts sind die Netzbetreiber, die einen erheblichen Marktanteil haben:[5]
+
+    Ingenico – Ingenico Payment Services GmbH (bis 2014 easycash), Ratingen. Marktanteil 40 % (Stand 2007)[6]
+    TeleCash GmbH & Co. KG, Stuttgart (über 20 % Marktanteil)
+    B+S – B+S Card Service GmbH. Frankfurt am Main (10 % bis 15 % Marktanteil)
+    WEAT – WEAT Electronic Datenservice GmbH, Düsseldorf (unter 10 %)
+    PaySquare – seit 2010 PaySquare SE (bis 2010 Montrada, unter 10 % (Stand 2006), nach eigenen Angaben aus dem Jahr 2010 Nummer 3 in Deutschland)
+    InterCard – InterCard AG, Taufkirchen b. München (unter 10 %)
+
+Ferner hatten 2006 einen Marktanteil von jeweils unter 3 % die Firmen DVB Processing, CardProcess, Tyco/ADT, Bank-Verlag, CardTech, CCV AllCash ecm, EKS, Alphyra, Experian, Paycom, Lavego, Telekurs. Zu den Netzbetreibern gehörten 2010 von den vorgenannten nur noch CardProcess, CardTech und Lavego, aber zusätzlich AGES, SIX Payment Services, Deutsche Bahn, Deutsche BP, Douglas Informatik & Service, Elavon, ESSO Deutschland, ICP International Cash Processing GmbH, Postbank, Shell und transact.
+
+Hardware und Software
+Ein älteres Kartenterminal
+
+Ein Kartenterminal (auch: Händlerterminal oder EFT-POS-Terminal) setzt sich aus Hardware- und Software-Komponenten zusammen. Die Hauptkomponenten im Bereich der Hardware sind das Sicherheitsmodul, das PIN-Pad, der Drucker, das Display, der Magnetstreifenkartenleser, der Chipkartenleser sowie das Kommunikationsmodul und die Energieversorgung.
+
+Die Software setzt sich hauptsächlich aus dem Betriebssystem, der Kommunikationssoftware, der Software des Sicherheitsmoduls sowie diverser Softwaremodule für OPT, EMV sowie Zusatzapplikationen (Prepaid, Kundenbindungssysteme, Fernwartung) zusammen. Das wichtigste Element ist hierbei das sogenannte Sicherheitsmodul. Ohne dieses ist das Terminal nur für den elektronischen Lastschriftverkehr (ELV) geeignet.
+
+Alle Kartenterminals nach dem girocard-Verfahren müssen von der Deutschen Kreditwirtschaft für die Teilnahme am bargeldlosen Zahlungsverkehr zertifiziert sein. Terminals, die ausschließlich das ELV unterstützen, benötigen keine Zertifizierung durch die DK. Der Betrieb eines Kartenterminals setzt einen Providervertrag mit einem Netzbetreiber voraus. Der Provider (technischer Netzbetreiber) führt die weitere Verarbeitung der durch das Terminal gesammelten Daten durch. Durch einen Serviceprovider (kaufmännischer Netzbetreiber) wird der gewerbliche Nutzer (Geschäftsinhaber, Händler) während der Nutzungsdauer des Terminals betreut, kann eine Hotline nutzen, erhält technische Unterstützung und Gewährleistungsdienstleistungen durch Techniker vor Ort und hat einen Ansprechpartner bei Fragen zu Abrechnung, Transaktionscontrolling, Vertragsbetreuung, etc.
+
+Kartenterminals haben eine eindeutige Terminalidentifikationsnummer (TID). Provider haben für ihre Geräte zentral zugeteilte Nummernkreise, mit denen die TID beginnt:[7]
+
+    520 CardProcess
+    525, 528, 725, 728 LAVEGO AG
+    540, 541, 542, 543 TeleCash
+    612, 614 InterCard
+    650, 651, 652, 653, 654 ingenico payment services (easycash)
+    655 ICP
+    660, 661, 662, 670, 671, 800, 860, 861 PaySquare SE
+    680, 681 VÖB-ZVD
+    695 Transact
+
+Sicherheitslücke
+
+Im Juli 2012 wurde bekannt, dass durch eine Sicherheitslücke in einem im Handel weit verbreiteten Lesegerät die Kartendaten inklusive der persönlichen Identifikationsnummer (PIN) über das Rechnernetz ausspioniert und für kriminelle Zwecke verwendet werden können.[8] Die Sicherheitslücke nutzt einen Speicherüberlauf, der typischerweise bei technologisch veralteter Software mit geringer Typsicherheit ausgenutzt werden kann. Der Anbieter der Bezahldienstleistungen VeriFone will die Sicherheitslücke durch eine Aktualisierung der Software schließen.[9]
+Chip gegen Magnetstreifen
+
+Jede Bezahlkarte ist üblicherweise mit einem Magnetstreifen versehen. Der Magnetstreifen wird nur gelesen und enthält damit ausschließlich statische Informationen. Ab 2000 statteten immer mehr Banken in Deutschland die neu ausgegebenen Karten zusätzlich mit einem Chip aus, dem EMV-Chip. 2008 hatten 70 % der ausgegebenen Karten einen Chip. Der Chip kann wie ein kleiner Computer rechnen und Anfragen beantworten, ohne dass sein Inhalt (komplett) ausgelesen werden kann. Magnetstreifen können leicht kopiert werden, Chips dagegen nicht. Um Abwärtskompatibilität, insbesondere zur meist integrierten Maestro-Karte zu behalten, bleiben die Karten trotzdem mit Magnetstreifen ausgerüstet. Zahlungsstellen, die beide Kommunikationsarten beherrschen, wählen im Allgemeinen die sicherere über den Chip. Hier wurde durch die Zulassungsverordnung TA (Technischer Anhang) 7.0 der DK eingeführt, dass der Chip zu nutzen ist, wenn ein Chip vorhanden ist. Seit 2011 ist zwingend der Chip für das Electronic Cash Verfahren zu nutzen.
+
+Der Magnetstreifen einer Karte hat drei Spuren. Bis 30. September 2009 wurde in Deutschland die Spur 3 des Magnetstreifens für Zahlungen ausgelesen; sie wurde für das elektronische Lastschriftverfahren genutzt. Seitdem wird die international übliche Spur 2 ausgelesen.[10]
+
+Das Bundeskriminalamt fordert die Banken auf, standardmäßig Karten ohne Magnetstreifen auszugeben und nur Kunden, die ihre ec-Karte im außereuropäischen Ausland benutzen, eine Karte mit Magnetstreifen auszugeben.[11]
+Zahlungsautorisierung
+Girocard mit Magnetstreifen
+
+Eine garantierte Zahlung an einem POS-Terminal (Point Of Sales) läuft wie folgt ab:
+
+Hauptmerkmal ist die Online-Autorisierung der Zahlung. Während der Online-Autorisierung wird die verwendete Karte gegen eine Sperrdatei geprüft, die eingegebene PIN wird auf Validität geprüft, der eingegebene Zahlbetrag wird dem verfügbaren Betrag (Guthaben plus Dispokredit abzügl. vorgemerkte Abbuchungen) des Kontoinhabers gegenübergestellt. Bei negativer Prüfung eines der genannten Punkte wird die Zahlung abgewiesen. Die Autorisierung sowie die Prüfung der Kontodeckung und der Einhaltung des Tageslimits werden von der Rechenzentrale des kartenausgebenden Instituts durchgeführt.
+
+Allgemeiner Ablauf einer Girocard-Zahlung unter Verwendung des Magnetstreifens:
+
+    Betrag wird eingegeben.
+    Karte wird verlangt und mit Hilfe des Kartenlesers (Magnetleser) ausgelesen.
+        Das Sicherheitsmodul wird aktiviert und verlangt die Eingabe der Geheimzahl.
+    Das Kommunikationsmodul baut die Verbindung zum Provider auf und meldet sich dort für den Datenaustausch an.
+    Per Datenaustausch werden über die Kommunikationsverbindung die Plausibilitätsprüfungen durchgeführt.
+    Per Online-Verbindung mit der Bank wird überprüft, ob
+        kein Eintrag der verwendeten Karte in der Sperrdatei vorliegt,
+        die eingegebene Geheimzahl korrekt ist,
+        der Zahlbetrag innerhalb des verfügbaren Finanzrahmens liegt.
+
+        Die Zahlung wird abgelehnt, falls eine der Bedingungen nicht erfüllt ist.
+
+    Das Kommunikationsmodul meldet sich beim Provider ab und beendet die Verbindung.
+    Der Drucker erstellt ein Protokoll über Zahlung bzw. Abweisung. Das Display zeigt Entsprechendes an.
+    Das Ergebnis „Zahlung erfolgt“ garantiert dem Händler (bei rechtzeitiger Einreichung) seine Zahlung.
+
+Girocard mit Chip, Chip-offline
+
+Allgemeiner Ablauf einer „girocard“-Zahlung unter Verwendung des Chips:
+
+    Betrag wird eingegeben.
+    Karte wird verlangt und mit Hilfe des Kartenlesers (Chipleser) ausgelesen.
+        Das Sicherheitsmodul wird aktiviert und verlangt die Eingabe der Geheimzahl.
+        Die Korrektheit der Geheimzahl wird im Chip der Karte überprüft. Ist die eingegebene Geheimzahl korrekt, wird der Fehleingabenzähler auf null gesetzt. Ist sie falsch, wird der Fehleingabenzähler um einen erhöht, hat er drei erreicht, meldet die Karte ihre eigene Sperrung. (Die Bank kann den Chip mit Hilfe eines Bankensonderfunktionsterminals (BSFT) entsperren.)
+        Der gewünschte Zahlbetrag wird an den Chip der Karte gesendet.
+        Ist im Chip ein ausreichend hoher, zeitlich noch nicht abgelaufener Kreditrahmen hinterlegt, so wird der Betrag subtrahiert und der verringerte Kreditrahmen auf dem Chip abgespeichert, weiter mit Schritt 7.
+    Das Kommunikationsmodul baut die Verbindung zum Provider auf und meldet sich dort für den Datenaustausch an.
+    Per Datenaustausch werden über die Kommunikationsverbindung die Plausibilitätsprüfungen durchgeführt.
+    Per Online-Verbindung mit der Bank wird
+        überprüft, ob kein Eintrag der verwendeten Karte in der Sperrdatei der Bank vorliegt
+        überprüft, ob der Zahlbetrag innerhalb des verfügbaren Finanzrahmens liegt.
+        die Zahlung abgelehnt, falls eins der Merkmale nicht erfüllt ist.
+        eine Zahlungsfreigabe (Autorisierung) an den Chip gesendet und dort abgespeichert. Zusätzlich können folgende Information gespeichert werden: „Weitere Zahlungen bis zur Gesamtsumme von XXX EUR gestattet.“
+    Das Kommunikationsmodul meldet sich beim Provider ab und beendet die Verbindung.
+    Der Drucker erstellt ein Protokoll über Zahlung bzw. Abweisung. Das Display zeigt entsprechendes an.
+    Das Ergebnis „Zahlung erfolgt“ garantiert dem Händler (bei rechtzeitiger Einreichung) seine Zahlung.
+
+Die Schritte drei bis sechs können entfallen, sofern die Karte entsprechend konfiguriert sein soll und sobald der auf dem Chip gespeicherte Kreditrahmen noch nicht ausgeschöpft ist, dadurch fallen nicht bei jedem Bezahlvorgang Leitungskosten an und insbesondere wird der Zahlvorgang oftmals stark beschleunigt, da keine Onlineverbindung aufgebaut werden muss. Die Bank räumt ihrem Kunden hierbei zusätzlich zum Dispo einen Kredit ein.
+Beispiel
+
+    Bei der ersten Girocard-Transaktion wird vereinfacht über 30 Euro verfügt. Das Terminal fragt bei der Bank an und speichert anschließend die Zahlungsfreigabe, weitere Zahlungen sind beispielsweise bis zur Gesamtsumme von 500 Euro gestattet.
+    Im Geschäft nebenan werden 70 Euro wieder mit Girocard bezahlt, eine Anfrage bei der Bank ist nicht notwendig, weil die Zahlungsfreigabe bereits auf dem Chip gespeichert ist. Auf dem Chip wird jetzt ein verbleibender Kreditrahmen von 430 Euro gespeichert.
+    Am nächsten Tag innerhalb desselben Monats sollen 419 Euro mittels Girocard bezahlt werden. Eine Anfrage bei der Bank ist abermals nicht notwendig, weil die Zahlungsfreigabe bereits auf dem Chip gespeichert ist. Auf dem Chip wird jetzt ein verbleibender Kreditrahmen von 11 Euro gespeichert.
+    Am letzten Tag des Monats wird in einem weiteren Laden ein Betrag von 12 Euro bezahlt. Der Kreditrahmen auf der Karte reicht nicht aus. Die Verbindung zur Bank wird aufgebaut. Die Bank meldet, dass 12 Euro sofort in Ordnung gehen und weitere 500 Euro bis zum nächsten Monatsende.
+
+Kosten
+
+Die Kosten einer Girocard-Zahlung richten sich nach der Höhe des zu zahlenden Betrags. Sie betragen für den Händler höchstens 0,2 % des Umsatzes.[12] Hinzu kommen Kosten für die technische Bereitstellung, die vom jeweiligen Netzbetreiber erhoben werden.
+
+Die Händlerbedingungen für die Teilnahme am ec-System sahen einst vor, dass die Händler die Karten „zu Barzahlungspreisen und -bedingungen zu akzeptieren“ hatten, das heißt, dass die Händler die Gebühren trugen und bei Zahlung mit Girocard dem Kunden nur den Bargeldbezugspreis der Ware oder Dienstleistung in Rechnung stellten. Im Einzelhandel ist es deshalb bis heute noch üblich, dass Beträge teilweise erst ab einer bestimmten Höhe (z. B. 10 oder 15 Euro) mit der Karte beglichen werden können. Seit November 2014 werden Zahlungsgarantieentgelte in einem marktorientierten Prozess zwischen den Kartenherausgebern und den Händlern ausgehandelt. Es gelten auch neue Händlerbedingungen. Des Weiteren erlauben es die neuen Bedingungen den Unternehmen, Rabatte zu gewähren oder einen Aufschlag auf den Barzahlungspreis bzw. einen eventuellen Barauszahlungsbetrag vorzunehmen. Ein solcher Aufschlag muss jedoch angemessen und an den tatsächlichen Kosten des Unternehmens ausgerichtet sein.
+Autorisierungsmerkmal
+
+Auf Kontoauszügen werden Buchungen meist wie folgt dargestellt:
+
+    ELV68197325 26.04 18.07 ME0
+    EC 68197325 260410180710OC0
+
+Zuerst kommt die Zahlungsart „EC“ oder „ELV“, dann die Terminal-ID (hier: 68197325), dann Datum und Uhrzeit (hier: 26. April 2010 18:07:10 Uhr), dann ein zweistelliges Autorisierungsmerkmal, dann die Kartenfolgenummer (hier: 0)
+
+Es gibt folgende Autorisierungsmerkmale, die jeweils angeben, mit welcher Technik die Zahlung autorisiert wurde:[13][14]
+
+    ME/MK – magnetstreifenbasierte Autorisierung girocard mit (ME:) Debitkarte ohne Einschränkung (früher: ec-Karte) oder (MK:) sonstiger Karte, Bankenkarte, Kundenkarte
+    CE/CK – chipbasierte Autorisierung girocard mit (CE:) Debitkarte ohne Einschränkung (früher: ec-Karte) oder (CK:) sonstiger Karte, Bankenkarte, Kundenkarte
+    FE/2E – Spur 2 (FE:) Fallback (2E:) kein Fallback
+    IC/OC – EMV Autorisierung (IC:) Offline (OC:) Online
+
+Zahlverfahren mit Girocard
+
+Geldkarte und Girocard bieten dem kartenakzeptierenden Händler eine Zahlungsgarantie, ELV-Zahlungen sind dagegen nicht garantiert und damit mit einem potenziellen Ausfallrisiko verbunden.
+
+    Der Marktanteil von Girocard (mit PIN-Eingabe) lag 2012 bei 21,1 %,[15] im Jahre 2009 mit 71 Milliarden EUR bei 19,4 %.[16]
+    Die elektronische Geldbörse GeldKarte kann ebenfalls zur Zahlung verwendet werden. Sie hat mit einem Jahresumsatz von 0,1 Milliarden EUR einen Marktanteil von unter 0,04 %.
+    ELV (Elektronisches Lastschriftverfahren) online oder offline. Im Jahr 2005 wurden 12 % des Umsatzes im Handel mit diesem Verfahren abgewickelt.[15] Der Marktanteil betrug mit 45 Milliarden EUR im Jahre 2009 12,2 %.[16] Das Verfahren wurde 1984 eingeführt.[15] Bei ELV online (auch zuweilen OLV genannt) wird jede Zahlung online bei einem Netzbetreiber gegen eine bundesweite Sperrliste und Scoring-Parameter geprüft. Bei ELV offline wird auf eine Telefonverbindung und Prüfung verzichtet. Es ist für Händler die preiswerteste Methode. Aus dem Magnetstreifen bzw. dem Chip werden bei allen Verfahren einzig die Kontonummer und die Bankleitzahl sowie die Kartennummer ausgelesen. Der Kunde erteilt abweichend zum Electronic Cash mit seiner Unterschrift eine Lastschrift mit Einzugsermächtigung. Gegen Ausfälle (Rücklastschriften) kann ein Vertrag über Forderungsankauf abgeschlossen werden. Im Gegensatz zum abgeschafften POZ-Verfahren ist das Kreditinstitut des Karteninhabers bei Zahlungsausfällen jedoch nicht verpflichtet, Name und Adresse des Karteninhabers an den Händler weiterzugeben,[17] was ein erhöhtes Risiko für den Händler darstellt.
+    POZ (Point of Sale ohne Zahlungsgarantie), im Gegensatz zum OLV und ELV, die Verfahren des Handels sind, war POZ von seiner Einführung im Jahr 1994 bis zu seiner Abschaffung am 31. Dezember 2006 ein Verfahren des Zentralen Kreditausschusses (ZKA, wie die DK damals hieß). Während des Bezahlvorganges erfolgte eine Sperrabfrage bei der Kopfstelle des Karten ausgebenden Kreditinstituts. War die Karte nicht als gesperrt gemeldet, wurde vom Händler eine Lastschrift erstellt. Der Kunde erteilte mit seiner Unterschrift eine Lastschrift mit Einzugsermächtigung und gab sich damit einverstanden, dass sein Kreditinstitut auf Anfrage Name und Adresse an den Händler (bei Ausfällen bzw. Rücklastschriften) weitergibt. Die Kosten lagen bei 5 Cent pro Sperrabfrage. Am Einzelhandelsumsatz hatte POZ im Jahre 2005 einen Anteil von 2,3 %.[15]

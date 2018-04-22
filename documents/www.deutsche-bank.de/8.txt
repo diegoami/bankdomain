@@ -1,0 +1,19 @@
+photoTAN
+Wie kann ich das photoTAN-Verfahren nutzen?
+Bitte fordern Sie zuerst im Online-Banking unter dem Menüpunkt „Sicherheitsverfahren“ im Reiter „Services“ Ihren individuellen Aktivierungsbrief an. Nach Erhalt Ihres Aktivierungsbriefes können Sie den Registrierungsprozess abschließen und das photoTAN-Verfahren für die Freigabe von Transaktionen nutzen.
+Muss ich als bestehender Online-Nutzer etwas umstellen?
+Nein, die photoTAN ist ein zusätzliches Verfahren und kann auf optionaler Basis neben vorhandenen Verfahren (iTAN, mobileTAN) genutzt werden.
+Was ändert sich im Mobile-Banking?
+Dort kann die photoTAN als zusätzliches Verfahren genutzt werden. Dabei besteht bei gleichzeitiger Installation der „photoTAN“-App und der „Deutsche Bank Mobile“-App die Möglichkeit, Aufträge auf einem Gerät zu erfassen und freizugeben.
+Wie viele Konten kann man mit einem photoTAN-Gerät verwalten?
+Es können bis zu acht verschiedene Aktivierungen auf einem Gerät verwaltet werden.
+Ich nutze Online-Banking an verschiedenen Arbeitsplätzen. Muss ich das Gerät immer mitführen?
+Nein, Sie können bis zu acht verschiedene Geräte für Ihr Konto aktivieren, sodass Sie z. B. ein Gerät im Büro und ein anderes zu Hause nutzen können.
+Kann auch mein Bevollmächtigter das photoTAN-Verfahren nutzen?
+Ja, auch für Bevollmächtigte kann das Verfahren bestellt werden. Der Aktivierungsbrief wird dem Kontoinhaber zugestellt.
+Was kann ich tun, wenn ich meinen Aktivierungsbrief verloren oder nicht bekommen habe?
+Wenn Sie den Aktivierungsbrief verloren oder nicht erhalten haben, können Sie im Online-Banking in der photoTAN-Verwaltung („Services“ >> „Sicherheitsverfahren“) jederzeit kostenlos einen neuen Aktivierungsbrief anfordern. Darüber hinaus kontaktieren Sie bitte Ihren Kundenberater oder unseren 24h-Kundenservice (069) 910-10000 und lassen den verlorenen Aktivierungsbrief sperren. Dabei überprüfen Sie bitte die bei uns hinterlegte Adresse.
+Was kann man im Falle eines Verlust oder Diebstahls eines Gerätes tun?
+Wurde das Smartphone oder ein Lesegerät verloren oder gestohlen, können Sie dieses im Online-Banking in der photoTAN-Verwaltung („Services“ >> „Sicherheitsverfahren“) ohne TAN-Eingabe wieder deaktivieren. Alternativ wenden Sie sich bitte an den 24-h-Kundenservice (069) 910-10000 oder Ihren persönlichen Kundenberater. Ab dem Zeitpunkt der Löschung kann das Gerät nicht mehr für die Freigabe von Transaktionen genutzt werden.
+Kann ich das photoTAN-Lesegerät auch für andere Banken nutzen?
+Ja, die Geräte funktionieren für Konten bei der Deutsche Bank AG, Deutsche Bank Privat- und Geschäftskunden AG und norisbank GmbH.

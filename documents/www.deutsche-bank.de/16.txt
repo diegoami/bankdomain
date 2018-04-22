@@ -1,0 +1,36 @@
+StarMoney
+Gibt es eine andere Möglichkeit als StarMoney Business – Deutschen Bank Edition, Online-Banking bei der Deutschen Bank zu nutzen?
+
+Der Hersteller von StarMoney Business ist Marktführer in Deutschland für Online-Banking-Software. Das Produkt bietet insbesondere Geschäftskunden viele Funktionen an, die die tägliche Arbeit erheblich erleichtern. Da der Kommunikationskanal FinTS (HBCI Plus bzw. HBCI mit PIN / TAN), personalisierte HBCI/FinTS-Chipkarte, HBCI-Datei / -Chipkarte mit INI-Brief sowie EBICS aber auch von den meisten anderen Online-Banking-Software-Varianten unterstützt wird, können Sie natürlich auch andere Produkte einsetzen. Eine weitere Alternative ist unser browserbasiertes Online-Banking, das Ihnen jederzeit kostenfrei unter https://meine.deutsche-bank.de/ zur Verfügung steht.
+Muss der Zugangskanal HBCI Plus bzw. HBCI mit PIN / TAN für mich freigeschaltet werden?
+Ja. Die Freischaltung ist im Deutsche Bank OnlineBanking möglich. Nach Anmeldung rufen Sie dazu den Karteireiter „Services“ auf. Nach Auswahl von „Online SelfServices“ können Sie unter „Sonstiges“ HBCI Plus freischalten.
+Kann ich Datenbanken aus anderen StarMoney-Produkten übernehmen?
+In StarMoney Business 8 können alle Datenbanken aus allen vorherigen StarMoney-Versionen übernommen werden.
+Was muss ich bei der Installation von StarMoney Business 8 bei speziellen Netzwerken beachten?
+StarMoney Business 8 kann als Netzwerkapplikation genutzt werden. Wichtig: Wird in dem Netzwerk ein Proxyserver genutzt, ist bei der Installation die Datenbankkonvertierung abzubrechen, um zunächst den Proxyserver einzurichten. Anschließend kann die Datenbank konvertiert werden. Weitere Informationen dazu gibt es im StarMoney-Handbuch.
+Gibt es Probleme bei der Installation von StarMoney Business 8, wenn das Betriebssystem des Servers Linux, dasjenige der Clients aber Windows ist?
+Die Installation ist problemlos möglich, wenn die Installation vom Client durchgeführt wird und dem Netzwerklaufwerk ein Laufwerksbuchstabe zugewiesen wurde.
+Meine Online-Verbindung mit StarMoney Business 8 wird über eine LAN-Verbindung hergestellt. Für das Online-Update muss ich in der LAN-Verbindung die Adressen (URL / IP) und Anschlüsse (Ports) freigeben. Wie lauten diese?
+
+Die Verbindung zum StarMoney-Update-Server wird über eine sicherheitsverschlüsselte HTTPS-Verbindung hergestellt. Geben Sie bitte die Adresse services.starfinanz.de sowie den Port 443 frei.
+Wie kann ich verschiedene Mandanten in StarMoney Business 8 abbilden?
+StarMoney verfügt über die Möglichkeit, mehrere Datenbanken anzulegen, für die unterschiedliche Benutzerrollen zugeordnet werden können. Damit ist eine funktionale Abgrenzung von Kontendaten möglich. Alternativ kann auch eine Datenbank über alle Mandanten angelegt und die Zugriffsrechte über die Benutzerrollen gesteuert werden.
+Können XML-/DTA-Aufträge in StarMoney verarbeitet werden?
+Extern erzeugte Aufträge können auch in StarMoney Business 8 verarbeitet werden. Eine Anleitung für den Import von Zahlungsverkehrsdateien finden Sie hier.
+Wie kann ich mehrere Überweisungen im Ausgangskorb zusammengefasst darstellen?
+
+Über Einstellungen/Allgemeines – Ausgangskorb oder direkt im Ausgangskorb über das Zahnradsymbol kann die Funktion „Sammelüberweisung automatisch erzeugen“ aktiviert werden.
+Fehlermeldung „Diese Änderung kann nicht gespeichert werden“ bei Änderung der Bestände von übernommenen Lastschriften.
+Nach einer „Dummyänderung“ (z. B. Hinzufügen eines Punktes im Verwendungszweck) ist die Speicherung des Datensatzes möglich.
+Kann ich in StarMoney Einzellastschriften einziehen lassen?
+Seit StarMoney Business 5.0 Deutsche Bank Edition können Sie neben Sammelaufträgen auch Einzellastschriften einziehen.
+Ich setze eine Firewall wie z. B. Norton Internet Security oder ZoneAlarm von Zonelabs ein. Was muss ich bei der Arbeit mit StarMoney beachten?
+
+Eine Anleitung zur Arbeit mit Firewalls finden Sie hier.
+Kann ich meine bestehende Version von StarMoney Business 7 um das PlusPaket erweitern?
+Eine Erweiterung für die Version 7 ist nicht mehr möglich. Sie können Ihre Version zum günstigen Updatepreis in StarMoney Business 8 aktualisieren und nach erfolgter Umstellung das PlusPaket direkt in Ihrer Software zubuchen.
+Muss der Zugangskanal EBICS für mich freigeschaltet werden?
+Um den Zugangskanal EBICS nutzen zu können, benötigen Sie eine Vereinbarung zur Teilnahme am EBICS-Verfahren. Diese erhalten Sie in Ihrer Filiale der Deutschen Bank.
+Ich kann das PlusPaket nicht sehen. Was muss ich tun?
+
+Die Lizenzdaten können unter Einstellungen/Lizenzdaten aktualisiert werden. Wenn das Modul bereits aktiv ist – ist dieses dort auch unter den Modulen zu finden. Falls die Modulangebote ausgeblendet sind – können diese über „Einstellungen/Übersicht“ – „Modul-Angebote anzeigen“ eingeblendet werden.

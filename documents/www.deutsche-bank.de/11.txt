@@ -1,0 +1,16 @@
+Personalisierte HBCI/FinTS-Karte
+Welche Karte kommt bei diesem Verfahren zum Einsatz?
+
+Die personalisierte HBCI/FinTS-Karte (Electronic Banking Karte) ist eine SECCOS Karte mit einer Schlüssellänge von 2048 bit. Sollten Sie noch eine Karte einsetzen, deren Herstellungsdatum vor 09/12 liegt, so empfehlen wir Ihnen, diese gegen eine neue Karte auszutauschen.
+Wie installiere ich den Chipkartenleser und die dazugehörige Software?
+
+Bei der Nutzung unseres REINER-SCT-Lesers liegt dem Paket eine CD bei. Alternativ können Sie den aktuellen Treiber auf der Herstellerseite herunterladen.
+Gibt es – ähnlich wie beim PIN- / TAN-Verfahren – eine Sicherheitssperre, nachdem die falsche Geheimzahl eingegeben worden ist?
+
+Ihre personalisierte HBCI/FinTS-Karte wird nach dreimaliger (Karten ab Bestelldatum 01. September 2012) bzw. achtmaliger (Karten vor Bestelldatum 01.September 2012) Fehleingabe der Geheimzahl automatisch und unwiderruflich gesperrt. Die Sperrung der Karte kann nicht wieder rückgängig gemacht werden.
+Wird der Fehlversuchszähler auf der Karte nach Eingabe der richtigen Geheimzahl wieder zurückgesetzt (analog zum PIN- / TAN-Verfahren)?
+
+Wenn die richtige Geheimzahl vor Erreichung der maximalen Anzahl an Fehlversuchen eingegeben wird, erfolgt die Löschung des internen Fehlversuchszählers auf der Karte.
+Kann ich meine personalisierte HBCI/FinTS-Karte während der Sitzung aus dem Chipkartenleser entfernen?
+
+Ja, die Karte darf entfernt werden. Bei der nächsten zu signierenden Transaktion werden Sie dann erneut zur Eingabe der Chipkarten-PIN aufgefordert.

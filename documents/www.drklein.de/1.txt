@@ -1,0 +1,17 @@
+https://www.drklein.de/beleihungsauflauf-faq.html
+
+Beleihungsauslauf – was versteht man darunter?
+
+Bei der Finanzierung einer Immobilie begegnen einem früher oder später die Begriffe Beleihungswert und Beleihungsauslauf. Der Beleihungswert gibt an, mit welcher Kreditsumme die Immobilie insgesamt beliehen werden kann – sprich: Welche Summe ist eine Bank bereit, Ihnen für die Immobilie maximal zu leihen? Der Beleihungsauslauf hingegen ist eine Prozentzahl, die das Verhältnis zwischen Ihrem Darlehen inklusive bestehender Vorlasten und dem Beleihungswert Ihres Objekts wiedergibt.
+
+Die Berechnungsformel dazu lautet:
+
+Beleihungsauslauf = (Darlehenssumme + KfW Darlehen + bestehende Vorlasten) / Beleihungswert
+
+Dazu ein Praxisbeispiel: Der Beleihungswert Ihres Objekts beträgt 300.000 Euro, und Sie möchten dafür ein Darlehen von 130.000 Euro aufnehmen. Zusätzlich benötigen Sie ein KfW-Darlehen über 50.000 Euro, um die Finanzierung auf die Beine zu stellen. Wir gehen außerdem davon aus, dass keine Vorlasten vorhanden sind. Das bedeutet, auf dem Haus lasten keine fremden, noch offenen Kredite.
+
+Beleihungsauslauf = (130.000 Euro + 50.000 Euro + 0 Euro) / 300.000 Euro = 0,6 = 60 Prozent.
+
+Der Beleihungsauslauf beträgt in diesem Fall also 60 Prozent - das heißt, Sie beleihen die Immobilie nur zu 60 Prozent. Theoretisch haben Sie noch Luft nach oben und könnten die Baufinanzierung zum Beispiel zu einem späteren Zeitpunkt noch mal aufstocken, wenn Sie beispielsweise einen Modernisierungskredit für eine neue Heizung benötigen.
+
+Wichtig zu wissen ist aber: Je höher ein Darlehen im Verhältnis zum Objektwert ist, desto höher ist der Beleihungsauslauf und desto größer das Finanzierungsrisiko für die Bank. Das schlägt sich auf den Bauzins nieder, den sie Ihnen anbietet. Es gilt also: Je höher der Beleihungsauslauf, desto schlechter der Zins. Auf unserer Seite rund um das Thema aktuelle Bauzinsen sehen Sie an konkreten Beispielen, welchen Unterschied die Höhe des Beleihungswertes hinsichtlich des Sollzinses machen kann.

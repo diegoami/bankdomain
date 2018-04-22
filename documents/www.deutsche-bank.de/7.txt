@@ -1,0 +1,54 @@
+Login mit VERIMI
+Was sind die Vorteile von VERIMI?
+Mit VERIMI gehören lange Registrierungsprozesse und die Suche nach dem richtigen Passwort der Vergangenheit an – denn VERIMI ist ein zentraler Account, mit dem Sie sich einfach, schnell und sicher bei verschiedenen Online-Diensten registrieren, einloggen und ausweisen können.
+Wie kann ich VERIMI nutzen?
+Sie können VERIMI nach der Registrierung direkt als alternativen Login bei allen teilnehmenden Service-Partnern verwenden. Um auch andere Funktionen, wie z.B. eine verifizierte Identität zu nutzen, können Sie Ihr VERIMI Profil um weitere Informationen, wie z.B. Kontakt-, Adressdaten und zukünftig auch Ausweisdaten erweitern.
+Als Deutsche Bank Online-Banking Kunde können Sie Ihr VERIMI Profil schnell und einfach erweitern, indem Sie Ihre bei der Deutschen Bank hinterlegten Kontakt- und Adressdaten in Ihren VERIMI-Account übertragen.
+Was kostet die Nutzung des VERIMI Logins?
+Die Nutzung von VERIMI ist kostenlos. Dazu gehören u.a. der Login bei Service-Providern (z.B. im Online-Banking der Deutschen Bank) und die Datenübertragung von der Deutschen Bank zu VERIMI.
+Wer kann den VERIMI Login bei der Deutschen Bank nutzen?
+Der VERIMI Login steht Deutsche Bank Kontoinhabern mit Zugang zum Online-Banking zur Verfügung. Sowohl Privat-, als auch Geschäftskunden können den VERIMI Login nutzen. Aktuell ausgeschlossen sind juristische Personen und Gemeinschaftskonten mit gemeinschaftlicher Verfügung.
+Welche Voraussetzungen gibt es für die Nutzung des VERIMI Logins bei der Deutschen Bank?
+Für die Nutzung des VERIMI Logins bei der Deutschen Bank benötigen Sie einen Zugang zum Online-Banking, einen VERIMI Account und die VERIMI Smartphone App. Die VERIMI Smartphone App ist zur Authentifizierung bei VERIMI erforderlich und ist für iOS und Android verfügbar.
+Auf welchen Geräten kann ich den VERIMI Login bei der Deutschen Bank nutzen?
+Der VERIMI Login steht Ihnen aktuell von jedem beliebigen Browser auf PC oder MAC zur Verfügung.
+Für die Deutsche Bank Mobile App und die mobile Version der Deutsche Bank Online-Banking Website ist der VERIMI Login aktuell nicht verfügbar.
+Kann ich mein Deutsche Bank OnlineBanking Konto mit verschiedenen VERIMI Accounts verknüpfen?
+Aktuell ist es nicht möglich das Deutsche Bank Online-Banking Konto mit verschiedenen VERIMI Accounts zu verknüpfen. Sie können Ihr Deutsche Bank Konto zurzeit mit genau einem VERIMI Account verbinden und diesen für den Login nutzen.
+Kann ich bei meinem VERIMI Account mehrere Deutsche Bank Konten hinterlegen?
+Aktuell ist es nicht möglich mehrere Deutsche Bank Konten bei Ihrem VERIMI Account zu hinterlegen. Zurzeit können Sie genau ein Deutsche Bank Konto mit einem VERIMI Account verknüpfen.
+Muss ich für die Nutzung des VERIMI Logins etwas installieren?
+Um den VERIMI Login für das Online-Banking der Deutschen Bank nutzen zu können, müssen Sie die VERIMI App auf Ihrem Smartphone installieren.
+Sie benötigen die App bei der erstmaligen Anmeldung mit VERIMI im Online-Banking, um sich zu authentifizieren. Für die nachfolgende Nutzung des VERIMI Logins im Online-Banking ist die VERIMI App optional.
+Die VERIMI App ist für iOS und Android verfügbar.
+In welchen Sprachen ist der VERIMI Login für die Deutsche Bank verfügbar?
+Der VERIMI Login ist auf Deutsch und Englisch verfügbar.
+Ist der VERIMI Login sicher?
+Der VERIMI Login bietet hohe Sicherheitsstandards und entspricht den Anforderungen der Deutschen Bank.
+Wenn mein VERIMI Login gesperrt ist, wird dann mein Deutsche Bank Online-Banking Login auch gesperrt?
+Wenn Ihr VERIMI Login gesperrt sein sollte, so steht Ihnen Ihr der Deutsche Bank Online-Banking Login mit Filiale, Kontonummer und PIN weiterhin zur Verfügung.
+Datentransfer zu VERIMI
+Was ist der Datentransfer und wozu kann ich diesen nutzen?
+Mit VERIMI haben Sie die Möglichkeit eine verifizierte digitale Identität zu erstellen, um sich z.B. für Vertragsabschlüsse bei VERIMI Service-Partnern zu identifizieren. Als Deutsche Bank Online-Banking Kunde können Sie das ganz schnell und einfach, indem Sie Ihre bei der Deutsche Bank hinterlegten Daten (Name, Kontakt- und Adressdaten) in Ihren VERIMI-Account übertragen.
+Welche Voraussetzungen gibt es für die Nutzung des Datentransfers von der Deutschen Bank zur VERIMI?
+Für die Nutzung des Datentransfers ist der Zugang zum Deutsche Bank Online-Banking, sowie ein VERIMI Account notwendig.
+Wie führe ich den Datentransfer von der Deutschen Bank zu VERIMI durch?
+
+Die bei der Deutschen Dank hinterlegten Daten können Sie ganz schnell und einfach in Ihren VERIMI-Account übertragen:
+
+    Loggen Sie sich bei VERIMI ein und gehen Sie in den Bereich "Mein Profil", klicken Sie auf "Meine Personaldokumente" und dann auf "Hinzufügen" und folgen Sie den dort aufgeführten Erklärungen.
+    Es öffnet sich die Deutsche Bank Online-Banking Seite, auf der Sie gebeten werden Ihre Anmeldedaten für das Online-Banking (Filiale, Kontonummer und PIN) einzugeben.
+    Daraufhin können Sie die Informationen auswählen, die Sie übertragen möchten.
+    Sobald Sie Ihre Einwilligung zur Datenweitergabe an VERIMI erteilt haben, öffnet sich ein Popup zur Bestätigung.
+    Mit dieser Bestätigung werden Ihre Daten dann bei VERIMI gespeichert.
+
+Muss ich zusätzliche Software zur Nutzung des Datentransfers installieren?
+Sie können den Datentransfer von jedem beliebigen Browser auf PC oder MAC durchführen. Dazu müssen Sie die VERIMI App auf Ihrem Smartphone installieren (verfügbar für iOS und Android) und das VERIMI 2-Faktor-Authentifizierungs-Verfahren in den Sicherheitseinstellungen der App aktiviert haben.
+Wer kann den Datentransfer von der Deutschen Bank zu VERIMI nutzen?
+Der Datentransfer steht Deutsche Bank Kontoinhabern mit Zugang zum Online-Banking zur Verfügung. Sowohl Privat-, als auch Geschäftskunden können den VERIMI Login nutzen. Aktuell ausgeschlossen sind juristische Personen und Gemeinschaftskosten mit gemeinschaftlicher Verfügung.
+Kann ich die erteilte Einwilligung zur Übertragung meiner Deutsche Bank Daten an VERIMI widerrufen?
+Sie können Ihre Einwilligung zur Übertragung der Deutsche Bank Daten an VERIMI jederzeit widerrufen. Klicken Sie dazu einfach auf den folgenden Link: https://api.db.com/gw/oidc/managegrants
+Werden meine Deutsche Bank Daten bei VERIMI automatisch aktualisiert?
+Ihre Deutsche Bank Daten werden nicht automatisch bei VERIMI aktualisiert. Die Aktualisierung Ihrer Daten erfolgt nur auf Ihren expliziten Wunsch, d.h. wenn Sie die Datenübertragung erneut durchführen.
+Auf welchen Geräten kann ich den Datentransfer durchführen?
+Der VERIMI Datentransfer steht Ihnen aktuell von jedem beliebigen Browser auf PC oder MAC zur Verfügung. Zudem können Sie diesen auch von der VERIMI App aus durchführen.

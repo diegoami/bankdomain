@@ -1,0 +1,79 @@
+Mobile-Banking
+Muss ich mich für das Mobile-Banking separat registrieren?
+Nein. Alle Kunden, die für das Deutsche Bank OnlineBanking und Deutsche Bank Online-Brokerage freigeschaltet sind, können das Mobile-Banking sofort nutzen. Es bedarf keiner weiteren Registrierung oder Freischaltung. Sind Sie noch nicht für das Online-Banking und Online-Brokerage freigeschaltet, können Sie Ihre persönlichen Zugangsdaten unter Online-Antrag db OnlineBanking / db TelefonBanking beantragen. Ansonsten können Sie mit Ihren persönlichen Zugangsdaten aus dem Deutsche Bank Online-Banking auch das Mobile-Banking-Angebot nutzen. Die Zugangsdaten bestehen aus Ihrer Filial-, Kontonummer und Ihrer persönlichen PIN, die Sie auf der Log-in-Seite eingeben. In der „Deutsche Bank Mobile“-App können Sie sich darüber hinaus auch mit Fingerprint-Log-in anmelden.
+Wie kann ich das Mobile-Banking nutzen?
+
+Für iOS- und Android- Geräte steht Ihnen im Mobile-Banking die „Deutsche Bank Mobile“-App zur Verfügung. Diese finden Sie im jeweiligen App-Store des Herstellers.
+
+Deutsche Bank Apps für Android Deutsche Bank Apps für iOS Deutsche Bank Apps für iOS
+
+Ohne die App zu nutzen, erreichen Sie das Mobile-Banking mit Ihrem mobilen Browser direkt unter den folgenden Adressen:
+für Tablet: https://meine.deutsche-bank.de/
+für Smartphone: https://meine.deutsche-bank.de/trxm/mobile/
+Auf welchen Geräten und mit welchen Betriebssystemen funktioniert das Mobile-Banking?
+
+Es lässt sich mit allen Smartphones und Tablets nutzen, die den Aufruf von mobilen Internetseiten über den Browser ermöglichen. Die Geräte müssen keine spezifischen Voraussetzungen erfüllen, brauchen aber eine aktive Internetverbindung. Die „Deutsche Bank Mobile“-App funktioniert mit folgenden Betriebssystemversionen:
+
+• iOS für iPhones mit Version iOS 9 und höher
+• Android für Smartphones mit Version 4.4 und höher
+Können die persönlichen Zugangsdaten für das Mobile-Banking gespeichert werden?
+Zum Teil: Im Log-in-Bereich können Sie die Filial- und Kontonummer speichern. Die persönliche PIN müssen Sie aus Sicherheitsgründen bei jedem Log-in erneut eingeben. Bei iPhones ab 5s mit Apple iOS 8 können Sie sich über die „Touch ID“ von Apple auch ganz einfach mit Ihrem Fingerabdruck einloggen.
+Wie werden Aufträge im Mobile-Banking freigegeben?
+Alle Transaktionen im Mobile-Banking müssen mit einer Transaktionsnummer (TAN) freigegeben werden. Für Smartphones können Sie photoTAN oder iTAN nutzen, mit Tablets außerdem die mobileTAN.
+Welche Funktionen bietet das Mobile-Banking für Smartphones?
+
+Es bietet Ihnen die wichtigsten Funktionen für Ihre täglichen Bankgeschäfte. Hier finden Sie eine Finanzübersicht für alle Konten, Karten und Depots sowie Bausparverträge mit aktuellen Salden. Darüber hinaus bietet es eine Umsatzanzeige und -suche mit Detailinformationen zu einzelnen Buchungen der vergangenen 180 Tage. Dazu kommen folgende Funktionen:
+
+    Inlandsüberweisung inkl. IBAN- / BIC-Konvertierung (SEPA)
+    erneutes Ausführen vorhandener Transaktionen
+    Lastschriftrückgabe wegen Widerruf
+    Daueraufträge ins In- und Ausland erstellen, ändern und löschen
+    Überweisung auf ein Unterkonto
+    Vorlagen für Überweisungen und Daueraufträge
+    digitales Postfach mit Ihren persönlichen Kontodokumenten
+    Wertpapierhandel (Kauf und Verkauf)
+    Vermögensaufstellung
+    Orderbuch mit der Übersicht aller Wertpapiertransaktionen
+    Wertpapier- / WKN-Suche
+    IBAN/BIC-Anzeige für alle Unterkonten der eingeloggten StammnummerSpeicherung der Filial- und Kontonummer. Für zukünftige Log-ins können Sie Ihre Filial- und Kontonummer auf der Log-in-Seite speichern.
+
+In der „Deutsche Bank Mobile“-App stehen zusätzlich diese Funktionen zur Verfügung:
+
+    Fingerprint-Log-in (ab iOS 8 und Touch-ID-Sensor)
+    Fotoüberweisung
+    esafe
+    FinanzPlaner Multibanking
+
+Welche Funktionen bietet das Mobile-Banking für Tablets?
+
+Für Tablets steht Ihnen der volle Funktionsumfang des Online-Bankings zu Verfügung. Über die Bankingfunktionen auf dem Smartphone hinaus gehören dazu: FinanzPlaner (demnächst), Auslandsüberweisung, Terminaufträge, Lastschriften sowie umfassende Selfservices wie die Verwaltung der Sicherheitsverfahren und die Möglichkeit, Bankprodukte direkt über das Tablet abzuschließen.
+Zusätzlich stehen Ihnen bei der Nutzung der „Meine-Bank“-App diese Funktionen zur Verfügung:
+
+• Fotoüberweisung
+• Filial- und Geldautomaten-Finder
+• Kontakt- und Feedbackbereich mit Servicerufnummern und Rückruf-Service
+• aktuelle News und Servicehinweise
+Unterstützt das Mobile-Banking-Angebot der Deutschen Bank auch SEPA?
+Ja, das Mobile-Banking unterstützt SEPA-Überweisungen. Über Smartphones und Tablets können Sie Inlandsüberweisungen und Daueraufträge ins In- und Ausland beauftragen. Auch die Fotoüberweisung in der „Deutsche Bank Mobile“-App erkennt SEPA-Überweisungsträger
+Können im Online-Banking angelegte Überweisungsvorlagen auch im Mobile-Banking verwendet werden?
+Ja, alle Vorlagen für Überweisungen und Daueraufträge, die bereits im Online-Banking angelegt wurden, sind auch im Mobile-Banking nutzbar.
+Kann das Mobile-Banking der Deutschen Bank im Ausland genutzt werden?
+Ja, grundsätzlich steht das Angebot im Ausland zur Verfügung. Generell unterstützen alle deutschen Mobilfunkanbieter den mobilen Internetzugang (GPRS-Roaming) auch im Ausland. Diesen benötigen Sie, um das Deutsche Bank MobileBanking nutzen zu können. Für die mobile Internetnutzung können je nach Mobilfunkvertrag Roaminggebühren entstehen. Genauere Informationen hierzu erhalten Sie bei Ihrem Mobilfunkanbieter.
+Was kostet mich der Mobile-Banking-Service?
+Das Mobile-Banking der Deutschen Bank ist grundsätzlich kostenfrei. Es fallen lediglich die Verbindungskosten für das mobile Internet beim Mobilfunkanbieter an. Diese Kosten entnehmen Sie bitte dem Datentarif Ihres Mobilfunkvertrages. Darüber hinaus können für einzelne Aufträge Kosten anfallen. Deren Höhe entnehmen Sie bitte dem Preis-Leistungs-Verzeichnis, dazu bekommen Sie bei Bestätigung des Auftrags einen Hinweis auf eventuell anfallende Kosten.
+Wie sicher ist das Deutsche Bank MobileBanking?
+Die Sicherheit Ihrer Daten hat beim Deutsche Bank MobileBanking höchste Priorität. Deshalb setzen wir stets auf die aktuellen Sicherheitsstandards: Eine Firewall verhindert den nicht autorisierten Zugriff von außen auf die Daten in unseren Systemen. Darüber hinaus sorgt ein mehrstufiges Verschlüsselungs- und Identifikationssystem dafür, dass Unbefugte Ihre Daten weder erfragen noch abfangen oder lesbar machen können.
+Welchen Beitrag zur Sicherheit im Mobile-Banking kann ich selbst leisten?
+Zu Ihrem eigenen Schutz sollten Sie auf Ihren mobilen Geräten ein aktuelles Antivirusprogramm nutzen. Darüber hinaus ist es sinnvoll, einen PIN-Schutz auf Ihrem Gerät einzurichten. Loggen Sie sich möglichst nicht über ein fremdes Gerät in das Mobile-Banking ein.
+Was ist das Fingerprint-Log-in der Deutschen Bank und welche Vorteile hat er?
+Durch die Aktivierung des Fingerprint-Log-in können Sie sich mit Ihrem Fingerabdruck komfortabel, schnell und sicher in Ihr Konto im Mobile-Banking einloggen. Dabei wird die Online-Banking-PIN verschlüsselt auf dem Gerät abgelegt und nicht auf Systemen Dritter gespeichert.
+Mit welchen Geräten kann ich Fingerprint-Log-in nutzen?
+Fingerprint-Log-in funktioniert ab dem iPhone 5s mit Touch-ID-Sensor und iOS 8. iPads, Android- und Windows-Phone-Geräte werden noch nicht unterstützt.
+Für wie viele Konten kann ich Fingerprint-Log-in aktivieren?
+Momentan kann Fingerprint-Log-in für ein Konto aktiviert werden.
+Wie lässt sich die Anmeldung via Fingerabdruck deaktivieren oder das dafür freigeschaltete Konto ändern?
+Nach dem Login in der "Deutsche Bank Mobile"-App können Sie im Menü die Funktion ein/ausschalten.
+Funktioniert der Fingerprint-Log-in noch, wenn die Online-Banking-PIN verändert wurde?
+Nein. In diesem Fall müssen Sie Fingerprint-Log-in für dieses Konto erst deaktivieren und dann erneut aktivieren. Dabei melden Sie sich dann mit Ihrer neuen Online-Banking-PIN an.
+Was sollte ich bei der Nutzung des Fingerprint-Log-in beachten?
+Aufgrund der Geräteeinstellungen von iOS 8 können alle Fingerabdrücke, die unter Touch ID hinterlegt wurden, für die Funktion Fingerprint-Log-in genutzt werden. Achten Sie daher bitte darauf, dass nur Ihre eigenen Fingerabdrücke für Touch ID hinterlegt sind. Wenn Sie Ihr iPhone verlieren, ändern Sie bitte Ihre Online-Banking-PIN in den Sicherheitseinstellungen im Online-Banking oder fordern Sie bei Ihrem Filialberater eine neue Online-Banking-PIN an.

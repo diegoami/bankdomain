@@ -1,0 +1,63 @@
+Welche Anforderungen muss mein PC für das Online-Banking erfüllen?
+
+Ihr PC muss über MS Internet Explorer oder Firefox verfügen. Java-Script und Cookies müssen aktiviert sein, ein Popup-Blocker müsste ggf. deaktiviert werden. Haben Sie einen anderen Browser als den MS Internet Explorer (ab Version 5.0) oder Mozilla Firefox installiert, so kann das die Nutzung des Online-Banking stören oder ganz verhindern.
+
+
+Warum sollte ich mein Passwort sofort ändern?
+Das Passwort, das von der Bank erstellt wird, wird beim ersten Einloggen gleich durch ein von Ihnen selbst gewähltes Passwort ersetzt. Auf diese Weise hat niemand Zugriff auf Ihre Bankdaten außer Ihnen selbst.
+
+
+Ist das Online-Banking auch aus dem Ausland möglich?
+Natürlich. Sie können sich weltweit ins Online-Banking einloggen. Selbstverständlich benötigen Sie dazu Ihre Zugangsdaten.
+
+Zu welchen Zeiten ist das Online-Banking möglich?
+Das Online-Banking steht Ihnen bei der GarantiBank an 7 Tagen in der Woche, 24 Stunden am Tag zur Verfügung (Wartungsarbeiten ausgeschlossen).
+
+
+Wie kann ich Geld auf mein Kleeblatt-Sparkonto einzahlen?
+Sie erteilen Ihrer Bank den Auftrag, Geld auf Ihr Kleeblatt-Sparkonto zu überweisen. Geben Sie dabei Ihre Kleeblatt-Sparkontonummer sowie Ihren Namen an.
+
+
+
+Wie ändere ich meinen Benutzernamen?
+Sie können Ihren Benutzernamen nicht ändern.
+
+Wie ändere ich mein Passwort?
+Indem Sie sich mit Ihrem bestehenden Passwort unter Online-Banking einloggen. Klicken Sie anschließend im Menü auf 'Passwort ändern'. Durchlaufen Sie dann das Verfahren, das das System vorgibt.
+
+Was mache ich, wenn ich mein Passwort vergessen habe?
+
+Über den Link "Passwort vergessen" auf der Login-Seite können Sie ganz einfach ein neues Passwort beantragen. Wir senden Ihnen dann Ihr neues Passwort zu.
+
+Welche Sicherheitsmaßnahmen hat die GarantiBank für das Online-Banking getroffen?
+
+Wir haben die folgenden Maßnahmen getroffen: Beim ersten Einloggen werden Sie erst weitergeleitet, nachdem Sie ein neues Passwort erstellt haben. Das Passwort der GarantiBank wird damit ungültig. Wir sind im Besitz des Sicherheitszertifikats für sicheres Online-Banking. Sie erkennen das an dem Kürzel 'https' beim Einloggen in Ihr Sparkonto. Es kann nur Geld auf ein festes Gegenkonto gebucht werden. Buchungen auf andere Konten sind nicht möglich. Sie müssen uns Änderungen Ihrer Daten immer schriftlich und per unterzeichnetem Formular mitteilen.
+
+Kann ich auch selbst zu mehr Sicherheit beim Online-Banking beitragen?
+
+Sie können zu mehr Sicherheit beitragen, wenn Sie folgende Punkte beachten:
+
+Benutzen Sie kein Passwort, das zu leicht zu erraten ist. Beispiele für leicht zu erratende Passwörter sind: Ihr Vor- oder Nachname, Ihr Geburtsdatum, Ihr Wohnort und Ihre Kontonummer.
+
+Geben Sie Ihr Passwort an niemanden weiter, auch nicht an die Polizei oder einen Mitarbeiter der Bank.
+
+Geben Sie das Passwort niemals ein, wenn sich jemand in Ihrer Nähe aufhält.
+
+Notieren Sie sich das Passwort nicht so, dass jemand anderes es als solches erkennt.
+
+Ändern Sie Ihr Passwort regelmäßig.
+
+Bewahren Sie Ihr Passwort niemals zusammen mit Ihrem Benutzernamen auf.
+
+Was passiert, wenn der Brief mit meinen Zugangsdaten auf dem Postweg verloren geht?
+
+Wir senden Ihnen Ihr Passwort und den Benutzernamen aus Sicherheitsgründen mit zwei separaten Schreiben zu. Damit stellen wir sicher, dass Ihre Daten nicht in die falschen Hände gelangen.
+
+
+Auf der Webseite wird angezeigt, dass mein Passwort gesperrt wurde. Was bedeutet das?
+
+Es wurde dreimal ein falsches Passwort eingegeben. Aus Sicherheitsgründen sperrt die GarantiBank Ihr Passwort bei drei Fehlermeldungen. Sie können ein neues Passwort über den Link "Passwort vergessen" beantragen. Sobald Ihr Antrag bei der GarantiBank bearbeitet wurde, erhalten Sie per Post ein neues Passwort von uns.
+
+Beim Ändern meines Passworts ist mein Computer abgestürzt. Wurde mein Benutzername und/oder Passwort jetzt geändert?
+
+Ihr Passwort wurde nur geändert, wenn Ihnen dies auf der Webseite angezeigt wird. Falls nicht, versuchen Sie es noch einmal, sobald Ihr Computer wieder funktioniert.

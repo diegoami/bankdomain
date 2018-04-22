@@ -1,0 +1,250 @@
+Transaktionsnummer
+
+Eine Transaktionsnummer (TAN) ist ein Einmalkennwort, das üblicherweise aus sechs Dezimalziffern besteht und vorwiegend im Online-Banking verwendet wird.
+Inhaltsverzeichnis
+
+    1 Realisierung
+        1.1 TAN-Liste (klassisches TAN-Verfahren)
+        1.2 Indizierte TAN-Liste (iTAN)
+            1.2.1 Indizierte TAN-Liste mit Kontrollbild (iTANplus)
+        1.3 TAN mit Bestätigungsnummer
+        1.4 SMS-TAN (smsTAN, mTAN)
+            1.4.1 Funktionsprinzip
+            1.4.2 Sicherheit
+            1.4.3 Kosten
+            1.4.4 Mögliche Angriffe
+                1.4.4.1 Zugriff auf die PIN des Opfers
+                1.4.4.2 Angriff auf das Festnetztelefon
+                1.4.4.3 Angriff auf das Mobiltelefon
+                1.4.4.4 Angriff auf das Mobilfunk-Netz
+                1.4.4.5 Angriff auf den Netzbetreiber
+                1.4.4.6 Anforderung einer neuen oder zweiten SIM-Karte
+                1.4.4.7 Portierung der Rufnummer
+                1.4.4.8 Social Engineering
+        1.5 pushTAN
+        1.6 TAN-Generator
+            1.6.1 sm@rt-TAN
+            1.6.2 eTAN-Generator (z. B. BW-Bank, Consorsbank)
+            1.6.3 chipTAN manuell/Sm@rtTAN plus/SecureTAN plus1
+            1.6.4 chipTAN comfort/SmartTAN optic (Flickering)
+        1.7 photoTAN/QR-TAN
+            1.7.1 photoTAN
+            1.7.2 QR-TAN
+            1.7.3 Betrachtung
+    2 Sicherheit
+    3 Geschichte
+    4 Siehe auch
+    5 Weblinks
+    6 Einzelnachweise
+
+Realisierung
+
+Es gibt verschiedene Ansätze, um TANs zu erzeugen, zu prüfen und an den Nutzer zu übertragen. Einige davon werden im Folgenden beschrieben.
+TAN-Liste (klassisches TAN-Verfahren)
+
+Beim klassischen TAN-Verfahren erhält der Teilnehmer beim Electronic Banking, meist per Post, eine Liste von Transaktionsnummern. Bei jedem Buchungsvorgang – der Transaktion – muss eine beliebige TAN der aktiven Liste eingegeben werden. Sie ist eine Ergänzung zur Persönlichen Identifikationsnummer (PIN). Falls die Bank nach Eingabe der korrekten PIN einen Buchungsauftrag mit korrekter TAN erhält, geht sie davon aus, dass der Auftrag vom Kunden abgesendet wurde. Die TAN wird von der Bank als Quasi-Unterschrift interpretiert. Sie verfällt nach einmaligem Gebrauch. Wenn die TAN-Liste zur Neige geht, erhält der Kunde von der Bank nach Anforderung oder automatisch eine neue.
+
+Auf Grund stark anwachsender Phishing-Angriffe wurde diese Art der TAN-Liste von vielen Banken ab etwa 2005 durch die indizierten TAN-Liste ersetzt.[1]
+Indizierte TAN-Liste (iTAN)
+Eine ausgelaufene iTAN-Liste
+
+Einen Schritt weiter als das klassische TAN-Verfahren gehen die indizierten Transaktionsnummern, kurz iTAN: Der Kunde kann hier seinen Auftrag nicht mehr mit einer beliebigen TAN aus seiner Liste legitimieren, sondern wird von der Bank aufgefordert, eine bestimmte, durch eine Positionsnummer (Index) gekennzeichnete TAN aus seiner zu diesem Zweck nun durchnummerierten Liste einzugeben. Der TAN-Aufforderung muss der Kunde innerhalb weniger Minuten folgen. Außerdem wird die angeforderte TAN auch im Falle einer Nichtverwendung im Bankrechner als verbraucht gekennzeichnet.
+
+Dieses Verfahren kann von Hackern auf zwei verschiedene Weisen angegriffen werden:[2]
+
+    Infektion des Systems des Opfers mit einem Trojaner
+    Man-in-the-Middle-Angriff
+
+In beiden Fällen ist das Ziel des Angreifers, sich unbemerkt in die Kommunikation der Bank mit dem Kunden einzuklinken und dem Bankkunden zu suggerieren, dass er sich auf einer Bank-Website befinde, obwohl er sich tatsächlich auf einer gefälschten Bank-Website befindet. Durch Einblenden eines Formulars innerhalb eines gefälschten Online-Banking-Systems kann dann der Online-Banking-Kunde z. B. zur Eingabe mehrerer TANs inklusive Indexnummer aufgefordert werden.
+
+Die Schadsoftware tauscht im Hintergrund die Überweisungsdaten aus; mit der angeforderten TAN bestätigt der Online-Banking-Kunde also in Wirklichkeit die betrügerische Überweisung des Hackers. Auf seinem PC-Bildschirm sieht er immer noch seine Originalüberweisung. Selbst die Umsatzanzeige und der Kontosaldo können somit manipuliert werden, um keinen Verdacht aufkommen zu lassen.
+
+Immer mehr Banken sehen die iTAN-Liste nur noch als Mindestschutz und empfehlen ihren Kunden andere Verfahren (siehe unten).
+
+Ein Nachteil der iTAN ist, dass für Überweisungen von unterwegs (z. B. aus dem Urlaub) immer die komplette iTAN-Liste mitgeführt werden muss. Bei dem einfachen TAN-Verfahren ist es möglich, wenige TANs so mitzuführen, dass sie von Fremden nicht als solche erkennbar oder nicht korrekt lesbar sind, zum Beispiel in einer Telefonliste. Eine iTAN-Liste ist schwerer zu tarnen, und einem Dieb fällt auch immer die komplette Liste in die Hände. Diese ist jedoch wertlos, solange der Dieb nicht auch im Besitz der PIN ist. Erst dann kann er durch Überweisungen Geld erbeuten.
+
+Dagegen besteht ein praktischer Vorteil der iTAN gegenüber der einfachen TAN darin, dass man verbrauchte iTANs nicht von der Liste streichen muss. Dadurch kann man beispielsweise unabhängig ohne Synchronisierungsprobleme mit mehreren verschlüsselten elektronischen Kopien einer iTAN-Liste arbeiten.
+
+Das iTAN-Verfahren gilt seit Einführung nicht als 100 % sicher.[2] Phishing-Angriffe sind durch iTAN zwar schwieriger geworden, aber nicht unmöglich. Das BKA hat im Jahr 2008 rund 1800 erfolgreiche Phishing-Angriffe registriert, die in aller Regel durch die Einschleusung von Trojanern erfolgten.[3]
+
+Anfang 2007 tauchten demnach erste Phishing-Kits auf, die in der Lage gewesen seien, über die bereits genannte Man-in-the-middle-Attacke abgefischte iTANs in Echtzeit für eigene Transaktionen zu benutzen.[3] 2010 wurden mit einem entsprechenden iTAN-Trojaner 1,65 Millionen Euro erbeutet. Der Trojaner manipulierte dabei im Hintergrund sowohl die Überweisungsdaten als auch die Kontoübersichtsseite, sodass die tatsächlich getätigten Überweisungen verborgen blieben.[4]
+
+2012 empfahl die Europäische Agentur für Netz- und Informationssicherheit (ENISA) daher allen Banken, die PCs ihrer Kunden grundsätzlich als infiziert zu betrachten und deshalb Sicherheitsverfahren zu verwenden, bei denen der Kunde noch einmal unabhängig vom PC die tatsächlichen Überweisungsdaten kontrollieren kann. Beispiele sind laut ENISA – unter dem Vorbehalt, dass die Sicherheit des Mobiltelefons gewährleistet werden kann – mTAN oder Smartcard-basierte Lösungen mit eigenem Kontrolldisplay wie chipTAN.[5]
+Indizierte TAN-Liste mit Kontrollbild (iTANplus)
+
+Der beim iTAN-Verfahren mögliche Man-in-the-middle-Angriff wird durch das sogenannte iTANplus-Verfahren erschwert, aber nicht verhindert.[6] Bei diesem Verfahren wird vor Eingabe der iTAN ein Kontrollbild angezeigt, in welchem sämtliche Transaktionsdaten noch einmal aufgeführt werden. Außerdem wird als digitales Wasserzeichen das Geburtsdatum des Kontoinhabers angezeigt[7], welches einem Man-in-the-middle-Angreifer in der Regel nicht bekannt sein sollte. Dadurch soll ein automatisches Generieren eines manipulierten Kontrollbildes durch einen Angreifer erschwert werden. Nachteil dieses Verfahrens ist die Verschlechterung der Ergonomie, da das Kontrollbild schwieriger zu lesen ist als die Aufforderung zur iTAN-Eingabe in normaler Textform.
+TAN mit Bestätigungsnummer
+
+Das Verfahren kann um eine Bestätigungsnummer (BEN) erweitert werden, mit der die Bank die Auftragsannahme im Gegenzug quittiert. Das bedeutet, dass ein Angriff als Man-in-the-Middle und nahezu in Echtzeit stattfinden muss, um nicht aufzufallen. Phishing und Pharming fielen auf, da keine (korrekten) BENs zurückgegeben würden.
+SMS-TAN (smsTAN, mTAN)
+SMS-TAN von der Postbank
+Funktionsprinzip
+
+Die Variante SMS-TAN (smsTAN) wird oft auch Mobile TAN (mTAN) genannt und besteht aus der Einbindung des Übertragungskanals SMS. Dabei wird dem Onlinebanking-Kunden nach Übersendung der ausgefüllten Überweisung im Internet seitens der Bank per SMS eine nur für diesen Vorgang verwendbare TAN auf sein Festnetz- oder Mobiltelefon gesendet. Der Auftrag muss anschließend mit dieser TAN bestätigt werden.
+
+Wird für die mTAN auf ein Festnetz-Anschluss benutzt, so ist dieses Verfahren weit sicherer als beim Mobilnetz. Als Mobiltelefone werden heute hauptsächlich Smartphones mit Betriebssystem Android oder iOS benutzt, welche durch Viren, Bots und unsichere Apps angreifbar sind. Diese Möglichkeit entfällt bei Festnetztelefonen, da dort meist keine Software installiert werden kann.
+Sicherheit
+
+Durch den SMS-Versand der TAN gilt mTAN als sicherer als iTAN oder das klassische TAN-Verfahren. Dadurch, dass die Gültigkeitsdauer der TAN begrenzt ist, zusätzlich die Zielkontonummer (oder Teile davon) sowie der Überweisungsbetrag in der SMS angegeben werden und die TAN nur für genau diese Transaktion gültig ist, soll eine Umleitung auf ein anderes Konto durch einen Man-in-the-middle-Angriff auf die Homebanking-Webseite verhindert werden. Auch werden Phishing-Angriffe auf TANs im mTAN-Verfahren erschwert. Der TÜV Rheinland bescheinigte im Jahr 2006 dem mTAN-System der Postbank AG eine „wirksame Absicherung der von außen zugänglichen technischen Systeme gegen unbefugte Nutzung“.[8] Mitte 2007 erhielt auch das mTAN-System der Fiducia IT AG (IT-Dienstleister der Volks- und Raiffeisenbanken) diese TÜV-Zertifizierung.[9]
+
+Als Vorteil wird angesehen, dass man für Transaktionen unterwegs keine TAN-Liste dabei haben muss. Erfahrungsgemäß wird auch der Verlust des Mobiltelefons eher vom Nutzer bemerkt als der Verlust der Bankkarte oder des TAN-Bogens. Zusätzlich erfährt der Nutzer womöglich per SMS von unautorisierten Überweisungsversuchen, sodass eine Sperrung des Kontos veranlasst werden kann.
+
+Da Mobiltelefone zunehmend mit Internetzugang ausgestattet sind, hat das mTAN-Verfahren grundsätzliche Schwächen, etwa wenn die mTAN auf dasselbe Gerät gesendet wird, das auch für das Online-Banking genutzt wird. Bei einem Verlust des Mobiltelefons besteht zudem der einzige Schutz vor missbräuchlichen Transaktionen in den Zugangsdaten zum Banking. TAN-Generatoren bieten in dieser Hinsicht wesentlich mehr Sicherheit, da die Geräte nicht vernetzt sind.
+
+Entsprechend kann auf einem Smartphone ein Trojaner, der die Kontrolle über das System übernimmt, zuerst Benutzernamen und Passwort des Online-Bankings abhören und anschließend vollautomatisch Überweisungen durchführen, indem er sich erst ins Online-Banking einloggt, dann eine Überweisung ausfüllt, anschließend die SMS der mTAN abfängt und damit die Überweisung legitimiert. Es reicht also für einen Trojaner ein einmaliges Einloggen beim Online-Banking über das Smartphone, damit diese Sicherheitslücke ausgenutzt werden kann. Das Ganze funktioniert auch, wenn der Angreifer Benutzernamen und Passwort des Online-Bankings auf einem anderen Wege in Erfahrung gebracht hat, z. B. durch einen weiteren Trojaner auf dem PC.
+
+Im September 2010 wurde erstmals über neue Varianten des Banking-Trojaners ZeuS berichtet, der mit einer mobilen Variante entsprechende Parallel-Infektionen durchführt.[10] Im Dezember 2012 wurde berichtet, dass durch diesen Trojaner bereits über 36 Millionen Euro erbeutet worden sind.[11]
+
+Eine weitere Schwachstelle ist die mit der Rufnummer verknüpfte SIM-Karte des Mobiltelefons. Diesbezüglich wurden Angriffe bekannt, bei denen mithilfe etwa per Trojaner erbeuteter Nutzerdaten die Rufnummer des Opfers auf eine neue SIM-Karte portiert[12] oder von den Angreifern eine Zweit-SIM angefordert wurde[13], mit der sie anschließend das mTAN-Verfahren aushebeln konnten.
+Kosten
+
+Der Versand der TAN-Nachrichten per SMS wird dem Kunden von einigen Banken in Rechnung gestellt oder dieser erhält unter Umständen nur begrenzte Frei-Kontingente.[14] Banken dürfen nach einer Entscheidung des Bundesgerichtshofes[15] von Juli 2017 jedoch nur für den SMS-Versand von solchen TANs Gebühren abrechnen, die tatsächlich verwendet werden.[16]
+Mögliche Angriffe
+
+Denkbare Angriffe gegen das mTAN-Verfahren basieren darauf, dass die PIN für das Onlinebanking im ersten Schritt über herkömmliche Methoden wie Phishing oder Trojaner ausgespäht wird. Sobald der Phisher die PIN hat, kann er sich im Onlinebanking des Betrugsopfers einloggen und dessen persönliche Daten auslesen, unter anderem Kontonummer, Bankleitzahl, Adresse sowie die hinterlegte Mobiltelefonnummer für das mTAN-Verfahren. Das genutzte Mobilfunknetz kann über eine Netzabfrage herausgefunden werden. Daher wird die hinterlegte Mobilfunknummer im Onlinebankingportal nicht komplett angezeigt.
+
+Im zweiten Schritt müsste es dem Phisher gelingen, auch die mTAN zu manipulieren.
+Zugriff auf die PIN des Opfers
+
+Sobald man die PIN hat, kann man sich selbst (d. h. das eigene Mobiltelefon) für das mTAN-Verfahren registrieren lassen. Die dabei von den Banken vorgenommenen Authentisierungsverfahren sind noch nicht ausgereift, es wird aber ständig an einer Optimierung der Prozesse gearbeitet.
+Angriff auf das Festnetztelefon
+
+Einfache Festnetztelefone haben keine Software, hier wird die SMS vorgelesen (siehe dazu auch Festnetz-SMS). Bei modernere Komfort-Festnetztelefonen mit (Text-)SMS-Funktion ist die Firmware in einem integriertem Schaltkreis oder in einem EPROM und somit eine Veränderung von außen technisch nicht möglich.
+Angriff auf das Mobiltelefon
+
+Eine Möglichkeit bestünde darin, auch das Mobiltelefon des Betrugsopfers zu kompromittieren, insbesondere Smartphones sind hier gefährdet. Ein bereits infizierter Computer kann auch das Mobiltelefon des Betrugsopfers infizieren, wenn das Betrugsopfer sein Mobiltelefon mit dem Computer verbindet, zum Beispiel für den eigentlichen Zweck der Synchronisation. Auch denkbar wäre SMiShing oder exploiten des Mobiltelefons.
+
+Auf Grund der anfangs noch geringen zu erwartenden Gewinne durch Betrug mit mobilen Geräten und durch die damals vielen verschiedenen miteinander inkompatiblen Plattformen (Betriebssystemen) der Mobiltelefone, waren Handyviren früher nicht zahlreich verbreitet.
+
+Inzwischen werden fast ausschließlich Smartphones mit den Betriebssystemen Android, iOS und in geringem Maße Windows benutzt, damit hat sich das grundlegend geändert. Deshalb verbieten aktuelle Bedingungen der Geldinstitute die Verwendung ein und desselben Mobiltelefons zum Onlinebanking und zum Empfang der mTAN.
+
+Sobald das Mobiltelefon des Betrugsopfers kompromittiert ist, kann der Betrüger beliebige Überweisungen ausführen, während die Anzeige und Signalisierung der mTAN nur für den Betrüger sichtbar sind, nicht jedoch für das Betrugsopfer.
+
+Ein solcher Angriffsversuch mittels Spyware auf dem Mobiltelefon wurde im April 2011 tatsächlich entdeckt.[17]
+
+Einen weiteren Angriffspunkt, unabhängig vom Handy-Modell, stellen darüber hinaus ältere SIM-Karten dar, die noch mit der inzwischen geknackten DES-Verschlüsselung arbeiten. Über eine präparierte Service-SMS ist es dadurch möglich, unbemerkt die SIM-Karte des Opfers zu übernehmen. Aufgrund unzureichend gesicherter Java-VMs auf der SIM-Karte kann man darüber hinaus auch deren Master-Key auslesen und damit die SIM-Karte klonen.[18]
+Angriff auf das Mobilfunk-Netz
+
+Weitere Möglichkeiten wären der Einsatz eines IMSI-Catchers oder das Brechen der inzwischen nicht mehr sicheren GSM-Verschlüsselung. Diese Methoden erfordern allerdings örtliche Nähe zum Betrugsopfer, wofür erheblich mehr kriminelle Energie notwendig ist als beim Phishing, das ohne räumlichen Bezug ausgeführt wird.
+
+Durch Ausnutzen einer Sicherheitslücke in dem in Mobilfunknetzen eingesetzten Signalling System 7 ist zudem auch das Abfangen von SMS aus der Ferne möglich, wie Tobias Engel 2014 auf dem 31. Chaos Communication Congress demonstrierte.[19] Anfang 2017 wurde diese Schwachstelle von Kriminellen erfolgreich genutzt, um mTANs umzuleiten und so Geld von Bankkunden zu stehlen[20][21].
+Angriff auf den Netzbetreiber
+
+Eine weitere Möglichkeit wäre ein kompromittierter Netzbetreiber, entweder durch einen menschlichen Komplizen oder durch Sicherheitslücken.
+Anforderung einer neuen oder zweiten SIM-Karte
+
+Ein Angreifer kann im Namen des Opfers bei dessen Mobilfunkanbieter eine neue SIM-Karte beantragen und sich zusenden lassen oder teilweise sofort im Geschäft austauschen lassen. Bei den meisten Mobilfunkanbietern ist dies relativ einfach möglich. Allerdings wird üblicherweise die alte Karte 1–2 Tage vor Eingang der neuen Karte gesperrt, so dass das Opfer den Angriff leicht bemerken kann.
+
+Des Weiteren wurde 2013 in Deutschland ein Angriff bekannt, bei dem die Angreifer, nachdem sie – vermutlich per Trojaner – die Online-Banking-Zugangsdaten sowie die Handynummer des Opfers ausgespäht hatten, eine zweite SIM-Karte als Multi-SIM unter dem Namen des Opfers beim Mobilfunk-Provider bestellten. Bei diesem Angebot der Netzbetreiber wird unter derselben Rufnummer eine weitere SIM-Karte ins Mobilfunknetz eingebucht, die sich per Kurzwahl so konfigurieren lässt, dass alle SMS nur von dieser zweiten SIM-Karte empfangen werden.[22] Das Opfer muss dies nicht bemerken, da mit dessen Handy und der ursprünglichen SIM-Karte weiterhin ein- und ausgehende Anrufe möglich sind.[13]
+
+Die Täter haben dann die uneingeschränkte Kontrolle über das Konto des Opfers: Da die zur Legitimation erforderliche mTAN an ihre SIM-Karte gesendet wird, können sie das Überweisungslimit ändern und beliebig viele Überweisungen auf Fremdkonten tätigen. Entsprechend hoch sind die Schadenssummen bei diesen Angriffen.[23][24]
+
+2014 wurden mehrere Fälle bekannt, bei denen die Täter in Handyshops Zweitkarten erhielten, weil sie sich dort nicht, wie eigentlich vorgeschrieben, mit amtlichem Ausweis als Erstkarteninhaber identifizieren mussten.[25]
+Portierung der Rufnummer
+
+Der Angreifer kann den Laufzeit- oder Prepaidvertrag des Opfers kündigen und danach eine Rufnummernmitnahme zu einem neuen Mobilfunkanbieter auslösen. Für die Kündigung beim alten Anbieter sowie für den neuen Laufzeit- oder Prepaidvertrag und die Rufnummernmitnahme beim neuen Anbieter wird nur die Unterschrift benötigt. Diese lässt sich mit wenig Aufwand fälschen und wird teilweise auch nur ungenügend oder überhaupt nicht geprüft. Ein entsprechender Angriff wurde 2009 in Australien festgestellt.[12]
+
+Es ist möglich, eine betrügerische Adressänderung sowie Kündigung in einem Schreiben an den alten Anbieter in einem Brief gleichzeitig zu formulieren. Die Kündigungsbestätigung sowie die neue SIM-Karte könnte also an eine vom Angreifer frei wählbare Adresse gesandt werden.
+
+Im für den Angreifer günstigsten Fall würde die Rufnummer des Opfers auf seiner alten SIM-Karte um 24 Uhr abgeschaltet werden und für ihn um 6 Uhr angeschaltet werden, was ein erfolgversprechendes Zeitfenster darstellt.
+Social Engineering
+
+Bei diesem Angriff wird versucht, den Benutzer mittels „Social Engineering“ dazu zu bewegen, von sich aus freiwillig eine Überweisung zu Gunsten der Betrüger zu tätigen. Dazu wird der PC des Opfers mit einem Trojaner infiziert und danach im Onlinebanking-Auftritt der Bank etwa die Meldung angezeigt, der Kunde solle im Auftrag der Bank zu „Testzwecken“ eine angebliche „Test-Überweisung“ zu Gunsten der Betrüger ausführen[26] oder es wird angezeigt, eine größere Summe sei fälschlicherweise auf das Konto des Kunden überwiesen worden und dieser solle nun Geld „zurücküberweisen“.[27] In anderen Fällen soll der Nutzer per Überweisung an einem Gewinnspiel teilnehmen oder Daten synchronisieren.[28] Die Banken warnen vor diesen Betrugsversuchen. Eine Bank würde einen Kunden niemals auffordern, eine Überweisung zu tätigen, die dieser nicht selbst veranlasst hat.
+pushTAN
+
+pushTAN ist ein App-basiertes TAN-Verfahren der Sparkassen, das einige Nachteile des mTAN-Verfahrens beseitigt. So fallen für die Versendung der pushTAN-Nachrichten bei manchen Geldinstituten keine Kosten an und es ist kein SIM-Karten-Betrug möglich, da die Nachrichten mithilfe einer speziellen Textmessaging-App über eine verschlüsselte Internetverbindung an das Smartphone des Benutzers gesendet werden. Wie bei mTAN werden zur Kontrolle gegen verdeckte Manipulationen der Überweisungsdaten durch Trojaner auf dem PC die bei der Bank tatsächlich eingegangenen Überweisungsdaten noch einmal in der pushTAN-Nachricht mitgeschickt. Allerdings besteht analog zur Nutzung von mTAN mit einem Smartphone das Risiko, dass sowohl PC als auch Smartphone von Schadsoftware infiziert werden. Zur Verringerung dieser Gefahr verweigert die pushTAN-App auf gerooteten Geräten ihre Funktion.[29]
+TAN-Generator
+
+Mit einem TAN-Generator können TANs elektronisch erzeugt werden. Hierfür gibt es mehrere unterschiedliche Verfahren.
+sm@rt-TAN
+sm@rtTAN-Generator
+
+Bei diesem Verfahren erhält der Nutzer von seinem Kreditinstitut einen TAN-Generator ohne Zifferntasten. Sobald die Kundenkarte (z. B. eine Maestro-Card oder eine V-Pay-Karte) in den Generator eingesteckt wird, können auf Knopfdruck TANs erzeugt werden. Diese TANs können nur der Reihe nach im Online-Banking eingegeben werden. Werden beispielsweise 5 TANs generiert, jedoch nur die zuletzt erzeugte TAN für eine Transaktion verwendet, sind die vorherigen vier TANs ungültig. Das Kreditinstitut kann als Herausgeber der Kundenkarte die TANs überprüfen.
+
+Die Generierung der TANs erfolgt über den Chip auf der Kundenkarte des Kunden. Der TAN-Generator selbst ist nicht auf den Kunden individualisiert. Bei einem Verlust der Karte können mit einem beliebigen TAN-Generator gültige TANs erzeugt werden. Da für Transaktionen auch die PIN notwendig ist, stellt dies eine überschaubare Gefahr dar.
+
+Dieses Verfahren ist anfällig für Phishing- bzw. Man-in-the-middle-Angriffe, da die generierten TANs für beliebige Transaktionen verwendet werden können. Eine Auftragsbindung findet nicht statt. Die Verbreitung dieses Verfahrens ist gering.
+eTAN-Generator (z. B. BW-Bank, Consorsbank)
+eTAN-Generator der BW-Bank
+
+Im Dezember 2006 hat die BW-Bank dieses Verfahren eingeführt.[30] Kunden erhalten einen individualisierten TAN-Generator, der unter Einbeziehung eines geheimen Schlüssels, der aktuellen Uhrzeit und der Kontonummer des Empfängers eine temporär gültige TAN erzeugt. Die Empfängerkontonummer muss über das Ziffernfeld des TAN-Generators eingegeben werden. Weitere Personendaten werden nicht verwendet.
+
+Dieses Verfahren schützt vor Phishing- bzw. Man-in-the-middle-Angriffen, sofern die korrekte Empfängerkontonummer eingegeben wird. Die manuelle Eingabe der Kontonummer ist wenig komfortabel. Bei einem Verlust des TAN-Generators können weiterhin TANs generiert werden. Da für Transaktionen auch die PIN notwendig ist, stellt dies eine überschaubare Gefahr dar.
+
+Bei weiteren Banken (z. B. der Santander Consumer Bank) muss statt der Empfängerkontonummer eine für die jeweilige Überweisung generierte Kontrollnummer (Startcode) eingegeben werden. Im Gegensatz zur Eingabe des Empfängerkontos ist dieses Verfahren für Man-in-the-middle-Angriffe anfällig, da die Empfängerkontonummer nicht kontrolliert wird.
+
+Einige TAN-Generatoren anderer Banken erstellen zeitlich begrenzt gültige TANs nur anhand eines individuellen geheimen Schlüssels und der Uhrzeit, ohne Eingabe einer Kontrollnummer oder eines Empfängerkontos. Hier ist weder Kartenlesegerät noch Tastatur am Generator erforderlich. Da keinerlei Auftragsbezug besteht, ist das Verfahren ähnlich Phishing-anfällig wie das vorher beschriebene sm@rt-TAN-Verfahren. Allerdings müsste die unerwünschte Transaktion innerhalb des kurzen Gültigkeitszeitraums der TAN veranlasst werden.
+chipTAN manuell/Sm@rtTAN plus/SecureTAN plus1
+Sm@rtTAN plus-Generator der ersten Generation von VASCO
+
+Zahlreiche Volks- und Raiffeisenbanken[31] sowie viele Sparkassen bieten dieses Verfahren an.
+
+Es wurde 2006 auf der CEBIT vom Deutschen Genossenschafts-Verlag in der ersten Version (HHD 1.2) vorgestellt.[32] Mit den folgenden Versionen HHD 1.3 und HHD 1.4 (ab 2010[33]) wurde danach unter der Bezeichnung „SmartTAN optic“ bzw. „chipTAN comfort“ die Möglichkeit geschaffen die Auftragsdaten nicht mehr nur manuell, sondern auch per optischer Schnittstelle zu übertragen (siehe chipTAN comfort/SmartTAN optic (Flickering)) sowie jeweils die Menge der Auftragsdaten, die an das Gerät übertragen werden und in die TAN-Berechnung mit einfließen, erhöht.
+
+Nachdem eine Überweisung im Online-Banking erfasst wurde, wird ein (Start-)Code am Bildschirm angezeigt. Nun muss die persönliche Bankkarte in den TAN-Generator eingesteckt werden und der (Start-)Code über das Ziffernfeld des TAN-Generators eingetippt und bestätigt werden. Bei den meisten Instituten müssen danach noch die Empfängerkontonummer (bzw. Teile davon) sowie in manchen Versionen der Betrag der Überweisung eingetippt werden. Ist dies nicht der Fall (wie etwa bei der Wüstenrot Bank), ist der Schritt am TAN-Generator ohne Eingabe zu bestätigen.[34]
+
+Nach Eingabe der TAN im Online-Banking wird der Auftrag ausgeführt. Durch die Eingabe der Kontonummer und des Betrags am TAN-Generator sowie deren Miteinbeziehung in die TAN-Berechnung ist das Verfahren vor Phishing bzw. Man-in-the-middle-Angriffen geschützt.
+
+Auch wenn die Geräte verschiedener Hersteller anders heißen und aussehen, sind sie innerhalb derselben HHD-Version technisch gesehen gleich und funktionieren mit Karten verschiedener Kreditinstitute.
+
+Bei einem Verlust der Bankkarte können durch den Finder mit einem beliebigen TAN-Generator, der für dieses Verfahren geeignet ist, weiterhin TANs generiert werden. Da für Transaktionen auch die Online-Banking-Zugangsdaten notwendig sind, stellt dies eine überschaubare Gefahr dar. Sobald eine Bankkarte gesperrt wird (z. B. bei Diebstahl), werden mit dieser Karte erzeugte TANs vom Kreditinstitut abgelehnt.
+chipTAN comfort/SmartTAN optic (Flickering)
+chipTAN-Generator mit optischen Sensoren (oben).
+
+Dieses neue, optische Verfahren findet in Deutschland eine zunehmende Verbreitung. Viele Sparkassen und Volks- und Raiffeisenbanken sowie die Postbank setzen es bereits ein. Die Sparkassen und die Postbank nennen es „chipTAN comfort“, während die Volksbanken die Bezeichnungen „Sm@rtTAN plus“ und „SmartTAN optic“ verwenden. In Österreich ist das System hingegen unter dem Namen „cardTAN“ bekannt[35], wobei cardTAN einen technisch eigenständigen Standard darstellt.[36]
+
+Die Kunden erwerben hierbei einen TAN-Generator mit Ziffernfeld und Karteneinschub. Auf der Rückseite des TAN-Generators befinden sich fünf optische Sensoren. Nachdem eine Überweisung im Online-Banking erfasst wurde, erscheint am Bildschirm eine Grafik, die fünf flackernde Schwarz-Weiß-Flächen enthält. Nun muss die persönliche Bankkarte in den TAN-Generator eingesteckt werden. Sobald der TAN-Generator am Bildschirm an die Grafik gehalten wird, erfolgt eine Datenübertragung durch Lichtsignale. Hierbei werden Teile der Empfängerdaten übertragen, bei einer Einzelüberweisung beispielsweise der (Start-)Code, die Empfängerkontonummer sowie der Überweisungsbetrag. Auf dem Display des TAN-Generators werden im Anschluss die übermittelten Daten zur Kontrolle und Bestätigung angezeigt. Der TAN-Generator errechnet nun eine auftragsbezogene TAN, die im Online-Banking eingegeben wird.
+
+Das optische Übertragungsverfahren Flickering mit seinen schnell blinkenden weißen Balken auf schwarzem Hintergrund ist für Personen mit Epilepsie nicht geeignet, da der optische Flickercode epileptische Anfälle auslösen kann. Auf diese Gesundheitsgefahr wird in der Gebrauchsanleitung des optischen TAN-Generators explizit hingewiesen.
+
+Dieses Verfahren schützt vor Phishing- bzw. Man-in-the-Middle-Angriffen, sofern die im Display angezeigten Daten vor der Bestätigung auf ihre Richtigkeit geprüft werden. Durch die optische Übertragung müssen keine Auftragsdaten am TAN-Generator eingegeben werden. Da für Transaktionen zusätzlich auch die Online-Banking-Zugangsdaten notwendig sind, stellt dabei auch der Verlust der Bankkarte eine überschaubare Gefahr dar. Sobald die Bankkarte gesperrt wird (z. B. bei Diebstahl), werden mit dieser Karte erzeugte TANs vom Kreditinstitut ohnehin abgelehnt.
+
+Angriffsmöglichkeiten zeigen sich in Verbindung mit Sammelüberweisungen. Hier wird im Display des TAN-Generators nur die Anzahl der Posten sowie der Gesamtbetrag angezeigt. Auf die Anzeige der einzelnen Empfängerkontonummern wird verzichtet, da dies bei umfangreichen Sammelüberweisungen nicht darstellbar wäre. Bei einem Angriff könnten nun die einzelnen Posten der Sammelüberweisung verändert werden. Solange deren Anzahl und der Gesamtbetrag gleich bleibt, wäre die Manipulation im Display des TAN-Generators nicht erkennbar.
+
+Eine weitere Angriffsmöglichkeit wäre die Umwandlung einer Einzelüberweisung in eine Sammelüberweisung mit einem Posten. Der Nutzer würde in diesem Fall im Display des TAN-Generators nur die Anzahl der Posten (hier „1“) und den Betrag angezeigt bekommen. Nachdem dies bekannt wurde[37][38], haben die deutschen Sparkassen die Displayanzeige bei Sammelüberweisungen mit nur einem Posten umgestellt. In diesem Fall werden trotz Sammelüberweisung die Empfängerkontonummer sowie der Betrag angezeigt. Bei Volksbanken im GAD-Umfeld sind hingegen Sammelüberweisungen mit nur einem Posten nicht zulässig und werden abgewiesen.
+
+Kritisiert wird bei diesem Verfahren allerdings von einigen Benutzern, dass das Gerät bei unterschiedlichen Displaytypen den Flickercode nicht zu erkennen scheint. Hier hilft es dann oftmals, das Gerät in einem leicht schrägen Winkel (insb. bei S-PVA-Displays) an den Bildschirm zu halten oder die Bildschirmhelligkeit zu erhöhen. Weiterhin kann es helfen, die Flicker-Geschwindigkeit zu verändern und direkte Einstrahlung von Lichtquellen auf dem Monitor zu verhindern. Auch kann es helfen, die Hardware-Beschleunigung im Browser zu deaktivieren.
+
+In allen Fällen ist die Sicherheit mindestens so hoch wie bei Benutzung von TAN- oder iTAN-Listen. Kontrolliert der Benutzer aber die angezeigten Daten im Display des TAN-Generators und benutzt keine Sammelüberweisung, ist die Sicherheit deutlich erhöht.
+
+Allerdings wird aufgrund der Sicherheitsmaßnahmen von chipTAN inzwischen versucht, den Benutzer mittels „Social Engineering“ dazu zu bewegen, von sich aus freiwillig eine Überweisung zu Gunsten der Betrüger zu tätigen.
+photoTAN/QR-TAN
+photoTAN
+Beispielansicht eines photoTAN-Codes (mit Zufallsdaten)
+
+Beim photoTAN-Verfahren werden die Transaktionsdaten verschlüsselt als mehrfarbige Mosaikgrafik auf dem Bildschirm angezeigt. Mit einer entsprechenden Smartphone-App wird dieser Code eingelesen und entschlüsselt, die Transaktionsdaten zur Kontrolle auf dem Smartphone angezeigt und die zugehörige TAN generiert. Die so generierte TAN wird dann zur Freigabe der Transaktion eingegeben.
+
+Zur Initialisierung des Verfahrens muss die App auf dem Smartphone ein eindeutiges Erkennungsmerkmal bekommen und dieses Merkmal muss mit dem Bankkonto verbunden werden. Dazu erhält man i. A. einen Brief mit einem Freischaltcode oder einer Freischaltgrafik, welche man mit der App einscannen muss. Gibt man nach der Initialisierung bei einer Überweisung die von der App generierte TAN im Online-Banking-Portal ein, so kann dadurch bewiesen werden, dass die Bestätigung von einer registrierten Smartphone-App erzeugt wurde. Alternativ zur App bieten einige Banken auch spezielle TAN-Generatoren (Lesegeräte) für photoTAN an.[39] Auch hier ist eine initiale Verknüpfung des Gerätes mit dem Bankkonto erforderlich.
+
+In Deutschland wurde das vom britischen Spin-off der Universität Cambridge, Cronto Ltd., entwickelte Verfahren Anfang 2013[40] von der Commerzbank[41] und deren Direktbank Comdirect[42] eingeführt und wird ebenfalls von den Schweizerischen Raiffeisenbanken[43] sowie der Deutschen Bank[44] eingesetzt. Darüber hinaus wurde es von der niederländischen Rabobank zusammen mit einer weiter entwickelten Version des Lesegeräts (Rabo Scanner) eingeführt.[45] Cronto Ltd. wurde 2013 von VASCO Data Security International Inc. übernommen.[46]
+QR-TAN
+
+Ähnlich arbeitet das bereits seit Ende 2012 bei der 1822direkt[47] ausgerollte QR-TAN-Verfahren, das zusammen mit der LSE Leading Security Experts GmbH[48] entwickelt wurde. Dieses basiert auf dem offenen OCRA-Algorithmus (RFC6287[49]) und transportiert die signierten Transaktionsinformationen in einem QR-Code. Der Rollout, bei dem das Smartphone registriert wird, geschieht über die getrennten Kanäle einer HTTPS-Verbindung und eines Briefversands per Post.
+Betrachtung
+
+Beide Verfahren können im Vergleich zu iTAN aufgrund der PC-unabhängigen Kontrollmöglichkeit der Überweisungsdaten als geschützter gegen Angriffe von Trojanern oder Man-in-the-Browser-Attacken angesehen werden[50], solange die Sicherheit des Smartphones bzw. des photoTAN-Lesegeräts gewährleistet ist.[51] Für die Verwendung ist eine Internetverbindung des Smartphones nicht zwingend erforderlich, zwischen Onlinebanking und Smartphone besteht keine Verbindung. Werden allerdings beim mobilen photoTAN-Banking sowohl die Banking- wie auch die photoTAN-Funktion via App auf einem einzigen Smartphone zusammengeführt, sodass die photoTAN-App und die Banking-App direkt miteinander kommunizieren, lassen sich die Überweisungen wieder manipulieren. Solche Apps werden zum Beispiel von der Deutschen Bank, der Commerzbank und der Norisbank bereitgestellt.[52]
+
+Für die Banken haben beide Verfahren den Vorteil, dass trotz hoher Sicherheit die Investitions- und Transaktionskosten verhältnismäßig niedrig sind, da keine eigenen TAN-Generatoren erforderlich sind und z. B. im Unterschied zum mTAN-Verfahren keine SMS versandt werden müssen.
+Sicherheit
+
+Generell kann ein Betrüger versuchen, eine TAN zu erraten. Bei einer 6-stelligen TAN ist die Wahrscheinlichkeit 1 : 1.000.000, eine bestimmte TAN mit einem Versuch zu erraten. Wenn der Kunde zur Legitimation aus einer Liste von beispielsweise 100 TANs eine beliebige auswählen kann, ist die Wahrscheinlichkeit für den Betrüger, eine dieser TANs zu erraten, 1 : 10.000. Wenn der Betrüger drei Versuche hat, ergibt sich damit eine Erfolgswahrscheinlichkeit von ungefähr 0,03 %.
+
+    P = 100 10 6 + ( 1 − 100 10 6 ) ⋅ [ 100 10 6 − 1 + ( 1 − 100 10 6 − 1 ) ⋅ 100 10 6 − 2 ] = 0,000 2999703 … ≈ 0 , 03 % {\displaystyle P={\frac {100}{10^{6}}}+\left(1-{\frac {100}{10^{6}}}\right)\cdot \left[{\frac {100}{10^{6}-1}}+\left(1-{\frac {100}{10^{6}-1}}\right)\cdot {\frac {100}{10^{6}-2}}\right]=0{,}0002999703\ldots \approx 0{,}03\,\%} {\displaystyle P={\frac {100}{10^{6}}}+\left(1-{\frac {100}{10^{6}}}\right)\cdot \left[{\frac {100}{10^{6}-1}}+\left(1-{\frac {100}{10^{6}-1}}\right)\cdot {\frac {100}{10^{6}-2}}\right]=0{,}0002999703\ldots \approx 0{,}03\,\%}
+
+Anstatt zu raten, kann der Betrüger versuchen, TANs auszuspähen. Des Öfteren wurde bereits versucht, durch Phishing in den Besitz von Transaktionsnummern zu kommen. In einer Variante wird hierbei dem Bankkunden eine E-Mail mit einem Link auf eine falsche Internetadresse der Bank geschickt. Der Text der E-Mail bzw. Internetseite soll den Kunden veranlassen, auf dieser falschen Internetseite seine Kontonummer, seine PIN und auch noch nicht verwendete TANs einzugeben.
+
+Phishing ist erfolgreich, weil viele Nutzer des Online-Bankings nicht genau überprüfen, ob die im Browser angezeigte Seite auch wirklich von der gewünschten Bank stammt. Beim klassischen TAN-Verfahren ist der Betrüger erfolgreich, wenn er Kontonummer, PIN und eine beliebige, noch nicht benutzte TAN erfährt, d. h. der Kunde diese Daten auf der gefälschten Internetseite einträgt. Beim iTAN-Verfahren hat der Betrüger eine geringe statistische Wahrscheinlichkeit, eine erbeutete iTAN verwerten zu können.
+
+Die Sicherheit des iTAN-Verfahrens ist differenziert je nach Bedrohungstyp zu sehen. Während beim klassischen TAN-Verfahren im Mittel 50 TANs auf einem TAN-Bogen gültig sind (der TAN-Bogen enthält 100 TANs, von denen im statistischen Mittel die Hälfte bereits verbraucht sind), ist beim iTAN-Verfahren jeweils nur die einzige TAN gültig, welche die Bank während der Transaktion abfragt. Es bietet daher einen guten Schutz gegen Phishing, sofern der Bankkunde nicht zu viele iTANs in eine Phishing-Seite eingibt. Es bietet keinen Schutz gegen Man-In-The-Middle-Angriffe, worauf verschiedene Veröffentlichungen hingewiesen haben.[53][54][2]
+
+Entsprechende Angriffe werden per Trojaner, z. B. durch Ändern des verwendeten DNS-Servers sowie der SSL-Root-Zertifikate[55], oder durch direktes Eingreifen des Trojaners in die Programme auf dem Rechner, etwa per Man-In-The-Browser-Angriff, durchgeführt. Hierbei werden die tatsächlichen Überweisungsdaten im Hintergrund durch die der Betrüger ersetzt sowie auch die Kontoübersichtsseiten so manipuliert, dass der Betrug nicht auffällt.[4]
+
+Die Sicherheit des klassischen TAN-Verfahrens sowie des iTAN-Verfahrens ist begrenzt, da die TAN nicht direkt mit dem Inhalt der Überweisung verknüpft wird. Dadurch kann die Bank nicht alleine mit Hilfe der übermittelten TAN entscheiden, ob der Auftrag korrekt ist. Dagegen bietet das mTAN-Verfahren einen besseren Schutz gegen Phishing- und Man-in-the-middle-Angriffe. Bei einigen Geldinstituten wird dem Kunden beim Versand der mTAN der Überweisungsbetrag und die Empfänger-Kontonummer im Text mitgesendet. Dadurch hat der Kunde die Möglichkeit, diese Daten mit der bei der Bank eingegebenen Überweisung zu vergleichen und einen möglichen Betrug zu bemerken. Dabei muss der Kunde beim Empfang der SMS aber nicht nur die mTAN lesen, sondern auch tatsächlich Betrag und Empfänger-Kontonummer überprüfen.
+
+Allerdings wurde das mTAN-Verfahren bereits durch parallele Schadsoftware-Infektionen von PC und Mobiltelefon gebrochen. Entsprechende mobile Schadprogramme sind für Symbian OS, Blackberry OS, Windows Mobile und Android bekannt.[56] Darüber hinaus wurde mTAN mehrfach dadurch ausgehebelt, dass sich die Angreifer unter Vorspiegelung falscher Tatsachen Ersatz- oder Zweit-SIM-Karten für die Handynummern der Opfern von den entsprechenden Mobilfunk-Providern ausstellen ließen.[57][25]
+
+Auch Verfahren, die auf elektronischen Unterschriften basieren, wie das HBCI-Verfahren mit Chipkarte, bieten keinen höheren Schutz. Hier wird aus dem Inhalt der Überweisung mit kryptographischen Verfahren eine Prüfsumme berechnet und an die Bank übermittelt. Die Bank kann hier anhand der Prüfsumme feststellen, ob die Überweisung vom Kunden kommt oder nicht, und auch, ob die Überweisung seit dem Signiervorgang unverändert ist. Sofern der PC des Kunden mit Schadsoftware (Trojanern oder Viren) infiziert ist, könnten Daten bereits manipuliert an den Kartenleser geleitet werden. Sofern nicht ein Secoder-fähiges Kartenlesegerät verwendet wird und die jeweilige Bank sowie die Homebanking-Software die Secoder-Erweiterung mit den Secodervisualisierungstexten für HBCI unterstützen, ist nicht sichtbar, welche Daten zur elektronischen Signatur vorliegen.
+
+Neuere TAN-Verfahren mit einem TAN-Generator (z. B. chipTAN comfort/smartTAN optic) verknüpfen die TAN mit den Auftragsdaten. Die damit erzeugten TANs können nicht für abweichende (betrügerische) Überweisungen genutzt werden. Sofern Überweisungsdaten durch Schadsoftware verändert werden, sind diese veränderten Werte auf dem Display des TAN-Generators sichtbar. Der Bankkunde kann die Transaktion in diesem Fall abbrechen. Da der TAN-Generator nicht an den PC angeschlossen wird, ist eine Manipulation der Displayanzeige ausgeschlossen. Alle bisherigen, technischen Angriffsarten können damit wirkungsvoll verhindert werden. Einzige Gefahrenquelle bleibt der sorglose Umgang mit den angezeigten Auftragsdaten im Display des TAN-Generators.
+
+Allerdings wird aufgrund der hohen Sicherheit von Verfahren mit dedizierten Signaturgeräten mit eigenem Display zur Kontrolle der Überweisungsdaten wie chipTAN oder photoTAN inzwischen versucht, den Benutzer mittels „Social Engineering“ dazu zu bewegen von sich aus, freiwillig eine Überweisung zu Gunsten der Betrüger zu tätigen.

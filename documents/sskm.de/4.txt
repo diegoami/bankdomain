@@ -1,0 +1,50 @@
+Die smsTAN kommt nicht auf meinem Handy an. Woran kann das liegen?
+
+Hierfür kann es mehrere Ursachen geben. Bitte prüfen Sie Folgendes:
+
+    Hat Ihr Handy Netzempfang oder befinden Sie sich in einem Funkloch? Ihr Handy kann nur eine SMS erhalten, wenn es Kontakt zum Handynetz hat.
+    Können Sie andere SMS empfangen oder ist der SMS-Speicher Ihres Handys voll? Bitte löschen Sie in diesem Fall alte SMS, damit der SMS-Speicher Ihres Handys neue SMS empfangen kann.
+    Ist die korrekte Mobilfunknummer bei der Stadtsparkasse für Ihr Online-Banking hinterlegt? Falls Sie eine neue Mobilfunknummer benutzen, die Sie bei der Stadtsparkasse noch nicht für Ihr smsTAN-Verfahren angegeben haben, müssen Sie diese ändern. Dazu wenden Sie sich bitte an eine unserer Filialen.
+
+Wenn SMS mit TANs über einen längeren Zeitraum nicht ankommen, wenden Sie sich bitte an Ihren Mobilfunkanbieter.
+Die SMS zeigt eine andere Empfängerkontonummer und einen anderen Betrag an. Was ist zu tun?
+
+Überprüfen Sie die Daten in der TAN-SMS immer genau. So können Sie Manipulationen rechtzeitig vor der TAN-Eingabe feststellen. Wenn die angezeigten Auftragsdaten nicht mit den von Ihnen eingegebenen Daten übereinstimmen und Sie sicher sind, dass Sie die Daten richtig eingegeben haben, sollten Sie davon ausgehen, dass der Auftrag während der Datenübertragung durch Schadsoftware auf Ihrem PC gefälscht wurde.
+
+Brechen Sie den Auftrag sofort ab. Dann entsteht noch kein Schaden, weil Sie noch keine TAN eingegeben haben.
+
+Bevor Sie den PC wieder für Online-Banking nutzen, säubern Sie ihn mit einem aktuellen Virenscanner oder lassen Sie ihn durch einen Fachmann gründlich überprüfen.
+
+Bei Fragen wenden Sie sich bitte an unseren Online-Banking-Support:
+
+    Für Privatkunden: Telefon 089 2167-49149
+    Für Firmenkunden: Telefon 089 2167-49049
+
+Ich habe mein Handy verloren. Was soll ich nun tun?
+
+Lassen Sie Ihre SIM-Karte bei Ihrem Mobilfunkanbieter sperren. Und lassen Sie Ihren Online-Banking-Zugang für smsTAN bei der Stadtsparkasse München sperren. Das können Sie im Online-Banking unter "Online-Banking" > "Service" > "Online-Banking sperren" oder in einer unserer Filialen veranlassen. Sie können die Sperre Ihres Online-Banking-Zugangs auch per Telefon unter der Nummer 089 2167-0 oder rund um die Uhr unter der Nummer 116 116 veranlassen.
+Wie lange ist die mir zugesandte smsTAN gültig?
+
+Die TAN in der SMS ist 12 Minuten gültig. Wenn Sie Ihren Auftrag nicht innerhalb dieser Zeit abschließen, wird die TAN zu Ihrer Sicherheit entwertet. Dann müssen Sie eine neue TAN anfordern.
+Ich habe meine Mobilfunknummer gewechselt. Was muss ich tun?
+
+Wenn Sie eine neue Mobilfunknummer für smsTAN nutzen möchten, die Sie bei der Stadtsparkasse München noch nicht dafür angegeben haben, müssen Sie diese ändern. Dazu wenden Sie sich bitte an eine unserer Filialen.
+Warum muss ich bei der Stadtsparkasse München für die SMS mit der TAN bezahlen?
+
+Die Stadtsparkasse München verlangt pro SMS mit TAN 9 Cent, weil sie selbst den Versand bei der Telefongesellschaft bezahlen muss. Als Alternative bieten wir Ihnen das kostenlose Sicherungsverfahren pushTAN an.
+Hinweis: Für das pushTAN-Verfahren brauchen Sie ein Smartphone mit Internetverbindung.
+Kann ich meine Mobilfunknummer bei mehreren smsTAN-Zugängen nutzen?
+
+Ja, Sie können dieselbe Mobilfunknummer bei mehreren Online-Banking-Zugängen hinterlegen.
+Kann ich mehrere Mobilfunknummern für meinen smsTAN-Zugang freischalten?
+
+Wenn Sie mehrere Mobilfunknummern für Ihren Online-Banking-Zugang nutzen möchten, fragen Sie dazu bitte in einer unserer Filialen nach.
+Wie lange ist der mir per SMS zugesendete Freischaltcode gültig?
+
+Der Code zur Freischaltung, den Sie per SMS auf Ihrem Gerät erhalten haben, ist unbeschränkt gültig. Sie können sich also in Ruhe bei nächster Gelegenheit im Online-Banking freischalten unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "smsTAN verwalten".
+Was benötige ich für das smsTAN-Verfahren?
+
+Für die smsTAN können Sie jedes SMS-fähige Gerät nutzen, also ein Mobiltelefon, Smartphone oder Tablet. Das smsTAN-Verfahren kann nur mit einer inländischen Mobilfunknummer genutzt werden, der TAN-Versand an ausländische Mobilfunknummern ist nicht möglich.
+Warum muss ich beim smsTAN-Verfahren eine Telefonbezeichnung für mein Handy angeben?
+
+Von Ihrer Mobilfunknummer werden im Online-Banking aus Sicherheitsgründen nur die letzten vier Ziffern angezeigt. Die Telefonbezeichnung hilft Ihnen bei der Unterscheidung, wenn Sie mehrere Mobilfunknummern für das smsTAN-Verfahren hinterlegt haben. Die Telefonbezeichnung benötigen Sie außerdem für die Einrichtung einer Zahlungsverkehrssoftware SFirm oder StarMoney. Bei Neuanlage eines smsTAN-Vertrages erhalten Sie an die hinterlegte Mobilfunknummer eine SMS auf Ihr Handy. In dieser SMS ist ebenfalls Ihre Telefonbezeichnung genannt.

@@ -1,0 +1,49 @@
+Was ist FATCA?
+
+FATCA (Foreign Account Tax Compliance Act) ist ein US‑Gesetz zur Förderung der Steuerehrlichkeit. Aufgrund dieses Gesetzes hat Deutschland mit den USA ein Abkommen getroffen mit dem Ziel, die Steuertransparenz zu erhöhen. Deutschland hat sich demnach bereit erklärt, die FATCA‑Bestimmungen in deutsches Recht umzusetzen, darunter auch die Bestimmungen, nach denen Banken dazu verpflichtet sind, die steuerpflichtigen US‑Bürger unter ihren Kunden zu identifizieren. Ähnliche Abkommen wurden auch mit zahlreichen anderen Ländern weltweit getroffen.
+
+Welche Auswirkungen hat FATCA?
+
+Meldepflichtig sind alle Kunden mit einer US‑Staatsangehörigkeit oder einer steuerlichen Veranlagung in den USA. Gemäß FATCA sind alle Banken daher dazu verpflichtet, ihre Kundendaten auf US‑Bezüge hin zu untersuchen. Kunden mit einem Anlagevermögen von unter 50.000 US‑Dollar sind hiervon ausgenommen. Im Falle einer US‑Steuerpflicht sind wir verpflichtet, unsere Kunden einmal im Jahr beim Bundeszentralamt für Steuern zu melden. Eine Meldepflicht besteht auch dann, wenn der Kunde keine ausreichenden Dokumente zur Verfügung stellt, aufgrund derer ein US‑Bezug bzw. eine US‑Steuerpflicht entkräftet wird.
+
+Geht die Ikano Bank als einzige Bank so vor?
+
+Nein, alle deutschen Banken sind dazu verpflichtet, die Bestimmungen von FATCA einzuhalten.
+
+Ich wurde auch von einer anderen Bank kontaktiert. Warum fordert diese Bank andere Unterlagen von mir an als die Ikano Bank?
+
+Banken verwenden bei der Einholung der benötigten Daten zur Erhebung des FATCA‑Status ggf. unterschiedliche Formulare. Wir können Dir zu Deiner FATCA‑Einstufung oder Deinem US‑Steuerstatus keine Auskunft erteilen. Bitte wende Dich an einen Steuerberater, solltest Du weitere Hilfe benötigen.
+
+Was muss die Ikano Bank tun, um FATCA‑konform zu handeln?
+
+Wir haben die Pflicht:
+
+    Den US‑Steuerstatus unserer Kunden zu klären
+    Die Daten der Kunden, die eine US‑Steuerpflicht bestätigt haben, einmal im Jahr an das Bundeszentralamt für Steuern zu melden. Wir müssen allerdings auch die Daten der Konten melden, deren Inhaber die Fragen zu ihrem US‑Status nicht beantworten haben. Das Bundeszentralamt für Steuern leitet die Daten an die amerikanische Finanzverwaltung (Internal Revenue Service – IRS) weiter.
+
+Gemeldet werden müssen Name, Adresse und ID‑Nummer von US‑Steuerpflichtigen sowie deren Kontonummern und Salden.
+
+Welche Dokumente muss ich vorlegen?
+
+Wir kontaktieren betroffene Kunden und informieren sie im Detail, welche Informationen benötigt werden und welche Formulare gemäß FATCA auszufüllen sind. Bei diesen Formularen kann es sich etwa um Selbstauskünfte, US‑Steuerformulare oder Einbehaltungsbestätigungen (sogenannte W‑Formulare) handeln.
+
+Ich bin kein US‑Bürger. Inwiefern bin ich betroffen?
+
+Für die meisten Kunden, die keine US‑Bürger sind, hat FATCA praktisch keine Auswirkungen und sie brauchen auch nicht tätig zu werden. Trotzdem können wir Dich eventuell kontaktieren, um uns Deinen Status als Nicht‑US‑Bürger zu bestätigen, sollte Grund zu der Annahme bestehen, dass Du ein US‑Bürger im Sinne von FATCA sein könntest.
+Solltest Du ein gemeinsames Konto mit einem US‑Bürger führen, beachte bitte, dass dieses Konto so behandelt wird, als unterliege es den FATCA‑Bestimmungen.
+
+Was ist bei der Meldepflicht von US‑Personen (FATCA) zu beachten?
+
+Weitere Informationen findest Du unter folgenden Links:
+
+    US Department of Treasury
+    Internal Revenue Service (US Steuerbehörde)
+    Bundeszentralamt für Steuern
+
+Was tut die Ikano Bank, sollte ich die angeforderten Daten gemäß FATCA nicht vorlegen?
+
+Gemäß den Bestimmungen von FATCA sind alle Banken dazu verpflichtet, Kunden, die die angeforderten Informationen nicht vorlegen, wie meldepflichtige US‑Bürger zu behandeln. Das bedeutet, dass die Ikano Bank dem Bundeszentralamt für Steuern dieselben Daten über diese Kunden meldet, als würde die vorgelegte Dokumentation ihren Status als US‑Bürger belegen.
+
+Ich bin ein US‑Bürger. Inwiefern bin ich betroffen?
+
+Wenn Du ein US‑Bürger bist, müssen wir ggf. weitere Dokumente anfordern. Wir sind dazu verpflichtet, einmal jährlich die Daten über Dich und Deine Konten ans Bundeszentralamt für Steuern zu melden.

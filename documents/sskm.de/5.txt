@@ -1,0 +1,44 @@
+Wie lautet der öffentliche Bankschlüssel?
+
+Der Hashwert des öffentlichen Bankschlüssels lautet:
+
+E001: 9F735BA24EF505E1062B8429A5821CBF1BAFB28C
+X001: F079C72C3BC201EA983A48D578616A609B5761BD
+E002: E3B6FAB67E1001A707FD81D4EBEB052B54A086A0C7183E189BC785EF188AAF40
+X002: A3AA53939CA580EE312682C6B66BC64F5D209E87661C1B562D8C5FCB5299BDFC
+Wie lauten die Zugangsdaten für den EBICS-Bankrechner?
+
+Hostname:     D86-ELKO
+URL:                    https://by6ebics.sparkasse-banking.de/ebicsweb/ebicsweb
+Welche Auftragsarten werden bei EBICS unterstützt?
+Sendeaufträge:
+
+AZV Auslandszahlungen
+CDB Firmen-Lastschrift
+CDD Basis-Lastschrift
+CD1 Express-Lastschrift
+CCT Überweisung
+CCU Eilüberweisung
+HCA Schlüsselerneuerung Authentifikations-/Chiffrierschlüssel
+HIA Teilnehmer Authentifikations-/Chiffrierschlüssel
+HVE VEU - Unterschriften einreichen
+HVS Auftragsstornierung INI Passwort-Initialisierung
+PUB Public Key zur Unterschriftsverifizierung
+PWA Passwort-Änderung
+SPR Sperren der Zugangsberechtigung
+VPK Publik Key des Kunden zur Verschlüsselung
+
+Abholaufträge:
+
+DKI Devisenkursinformationen
+HKD Teilnehmerberechtigungen
+HPB Abholung der Bankschlüssel
+HPD Bankparameter erfragen
+HTD Teilnehmer-Berechtigungen erfragen
+HVD VEU - Status abrufen
+HVT Auftragsdetails einsehen
+HVU Unterschriftsmappe einsehen
+HVZ VEU-Übersicht von Zusatzinformationen
+PTK Protokolldatei
+STA SWIFT Tageskontoauszüge (MT940)
+VPB Public Key der Bank zur Verschlüsselung

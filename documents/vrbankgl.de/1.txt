@@ -1,0 +1,9 @@
+Kann ich auch mittels App auf das Online-Banking für Firmenkunden oder Vereine zugreifen?
+
+Ja mit der App "Online-Filiale" verwalten Sie alle Konten der Genossenschaftlichen FinanzGruppe Volksbanken Raiffeisenbanken. Mit der App "Online-Filiale+" verwalten Sie Konten unterschiedlicher Banken.
+
+    Banking-Apps
+
+Was ist EBICS?
+
+EBICS steht für Electronic Banking Internet Communication Standard. EBICS überträgt Daten über das Internet schneller, da die Geschwindigkeitsbegrenzung durch ISDN entfällt. EBICS ist multibankenfähig und kann große Datenmengen übertragen. Mit EBICS können Aufträge unabhängig vom Standort freigegeben werden.

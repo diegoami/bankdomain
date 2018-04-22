@@ -1,0 +1,102 @@
+Was sind IBAN und BIC?
+
+    Mit der IBAN (International Bank Account Number) und dem BIC (Business Identifier Code) wurde ein einheitliches Format zur Identifizierung von Bankverbindungen festgelegt.
+
+
+
+    Die IBAN identifiziert das Bankkonto und setzt sich folgendermaßen zusammen:Ländercode (2-stellig) + Prüfziffer (2-stellig) + Kontoidentifikation (länderspezifisch - max. 30-stellig)
+
+
+
+    Eine deutsche IBAN ist 22-stellig und hat folgendes Format:
+
+
+
+    •    Länderkennzeichen „DE“ für Deutschland
+
+    •    Prüfziffer (2-stellig) •    Bankleitzahl (8-stellig)
+
+    •    Kontonummer (10-stellig)
+
+
+
+    Der 11-stellige BIC identifiziert den Zahlungsdienstleister bzw. die Bank, die die Zahlung abwickelt, und hat folgendes Format:
+
+
+
+    •    Bankcode (4-stellig)
+
+    •    Länderkennzeichen (2-stellig)
+
+    •    Ort/Regionsangabe (2-stellig)
+
+    •    Filialkennzeichen (3-stellig)
+
+
+
+    Die Angabe des BIC ist bei Überweisungen ins außereuropäische Ausland oder in fremder Währung erforderlich.
+
+Wie kann ich einen Scheck einreichen?
+
+    Senden Sie uns Ihren Scheck bitte per Post. Unterschreiben Sie den Scheck auf der Rückseite und notieren Sie Ihre zehnstellige Kundennummer. Diese finden Sie auf jeder Seite Ihres aktuellen Finanzreportes oder online im Persönlichen Bereich unter Verwaltung > Meine Daten > Kundendaten.
+
+    Für die Einreichung eines Inlandsschecks nutzen Sie bitte das Formular unter folgendem Link:
+
+    www.comdirect.de/formulare/scheckeinreichung
+
+    Für die Einreichung eines Auslands- oder Inlandsschecks in Fremdwährung nutzen Sie bitte das Formular unter diesem Link:
+
+    www.comdirect.de/formulare/scheckeinreichung_ausland
+
+    Wir berechnen für die Bearbeitung von Inlandsschecks ein Entgelt von 2,90 Euro pro Scheck (für Beträge ab 10 Euro). Für Auslands- und Inlandsschecks in fremder Währung fällt ein Entgelt von 0,15 % des Betrages (mind. 12,78 Euro) an.
+
+    Bitte beachten Sie: Senden Sie Ihre Schecks direkt an comdirect und nicht an eine Filiale der Commerzbank AG
+
+
+Wie kann ich eine Überweisung aufgeben?
+
+    Sie veranlassen Überweisungen online im Persönlichen Bereich unter Konto > Überweisung. Hier klicken Sie auf den Reiter „SEPA“ oder „Ausland“. Alternativ nehmen wir Ihren Auftrag telefonisch bis max. 12.500 Euro, per Fax bis 250 Euro oder per Brief mit Originalunterschrift entgegen.
+
+    Ihr individuelles Überweisungslimit erfassen Sie einfach und schnell online im Persönlichen Bereich unter Verwaltung > Überweisungslimits. Das neue Limit ist direkt im Anschluss gültig.
+
+ Gibt es ein Überweisungslimit?
+
+    Der maximale Betrag für Ihre Onlineüberweisung, ist begrenzt durch die Deckung auf Ihrem Konto und Ihr Überweisungslimit. Dieses können Sie im Persönlichen Bereich unter Verwaltung > Überweisungslimits einsehen und ändern.
+
+Wie kann ich eine Überweisung rückgängig machen?
+
+    Ihre Überweisung wird nach Freigabe direkt ausgeführt und kann nicht rückgängig gemacht werden. Die Gutschrift auf dem Empfängerkonto erfolgt zeitnah. Sollten Sie eine fehlerhafte Bankverbindung angegeben haben, ist eine Anfrage zur Rücküberweisung bei dem abgebenden Kreditinstitut möglich. Das Einverständnis des Zahlungsempfängers wird in diesem Fall durch die Empfängerbank angefordert. Ihren Auftrag zur Rücküberweisung erteilen Sie bitte telefonisch über unsere Kundenbetreuer. Diese stehen Ihnen rund um die Uhr gerne zur Verfügung. Für die Bearbeitung berechnen wir ein Entgelt von 14,90 Euro.
+
+
+Kann ich Lastschriften zurückgeben oder widersprechen?
+
+    Ja, Sie können einer Lastschrift innerhalb von acht Wochen nach Belastung widersprechen. Die Rückgabe veranlassen Sie online in Ihrem Persönlichen Bereich unter Konto & Karte > Umsätze direkt an dem vorgesehenen Umsatz über den Button „Lastschrift zurückgeben“.
+
+
+
+    In folgenden Fällen ist die Rückgabe nicht möglich: Visa-Umsätze, Zahlungen per girocard mit Eingabe der PIN, Verfügungen am Geldautomaten, Aufladungen des Geldkartenchips.
+
+
+Wann wird der Scheck meinem Konto gutgeschrieben?
+
+    Inlandsschecks werden Ihrem Konto im Allgemeinen innerhalb von fünf Bankarbeitstagen nach Eingang gutgeschrieben. Die Gutschrift erfolgt vorbehaltlich der Einlösung durch die bezogene Bank. Ihre Schecks werden mit Buchungstag plus ein Bankarbeitstag wertgestellt.
+
+    Auslandsschecks und inländische Schecks in Fremdwährung werden Ihrem Konto so schnell wie möglich gutgeschrieben und mit Buchungstag plus zwei Bankarbeitstage wertgestellt. Die Gutschrift eines Auslandsschecks mit einem Gegenwert von mehr als 5.000 US-Dollar erfolgt nach dem tatsächlichen Geldeingang. Bis dahin können sechs bis acht Wochen vergehen.
+
+    An gesetzlichen Feiertagen - auch im Heimatland der Fremdwährung - verschiebt sich die Wertstellung entsprechend.
+
+Wie kann ich sicherstellen, dass meine Überweisung noch am gleichen Tag beim Empfänger eingeht?
+
+    Eilüberweisungen sind in der Währung Euro an eine inländische Bankverbindung möglich. Sie erteilen eine Eilüberweisung bis maximal 12.500 Euro telefonisch über unsere Kundenbetreuer. Um eine taggleiche Ausführung sicherzustellen, ist es erforderlich, dass Ihr Auftrag bis spätestens 12.30 Uhr bei comdirect eingeht. Für eine Eilüberweisung belasten wir ein Entgelt von 19,90 Euro.
+
+Kann ich die IBAN des Zahlungsempfängers über einen IBAN-Rechner selbst ermitteln?
+
+    Die aktuell gültige IBAN erfragen Sie bitte beim Zahlungsempfänger. Bei Nutzung eines IBAN-Rechners sind Fehleingaben bei Kontonummer und Bankleitzahl möglich. Ein IBAN-Rechner prüft nicht, ob z. B. die Bankleitzahl oder das Format der Kontonummer korrekt ist. Die Gültigkeit der errechneten IBAN ist nicht garantiert.
+
+Wie lange dauert eine SEPA-Überweisung und welche Kosten entstehen?
+
+    SEPA-Überweisungen benötigen maximal einen Geschäftstag, beleghafte SEPA-Überweisungen maximal zwei Geschäftstage. Zahlungsaufträge, die comdirect nach 18.00 Uhr erreichen, gelten als am nächsten Geschäftstag zugegangen.
+
+    SEPA-Überweisungen werden seitens comdirect kostenlos ausgeführt. Bei Auftragserteilung per Telefon, Fax oder Post berechnen wir ein Entgelt von 4,90 Euro.
+
+    Unser Hinweis: Bei Überträgen innerhalb einer Kontoverbindung fällt ein Entgelt von 1,90 Euro an. Online aufgegebene Überweisungen sind kostenlos.

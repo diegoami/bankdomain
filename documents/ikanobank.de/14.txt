@@ -1,0 +1,71 @@
+Was genau ist 3D Secure?
+
+Der MasterCard® SecureCode  ist ein Service von MasterCard® und der Ikano Bank, der Dir beim Online-Shopping zusätzlichen Schutz vor der unberechtigten Verwendung Deiner online angemeldeten Kreditkarte bietet. So kannst Du unbesorgt einkaufen.
+
+Wie schützt mich 3D Secure?
+
+Durch die korrekte Eingabe Deiner mTAN während eines Online-Bezahlvorgangs weißt Du Dich als rechtmäßiger Karteninhaber aus, der Internet-Händler erhält eine entsprechende Meldung und der Kaufvorgang wird abgeschlossen. Gibst Du eine falsche mTAN ein, erhält der Internet-Händler keine 3D Secure-Autorisierung und die Transaktion kann nicht zu Ende geführt werden.
+
+
+Benötige ich für die Nutzung von 3D Secure eine neue Kreditkarte?
+
+Nein. Du kannst Deine bestehende Kreditkarte einfach wie gewohnt nutzen.
+
+Was passiert, wenn ich meine Kreditkarte verliere bzw. wenn sie gestohlen wird?
+
+Melde uns den Verlust bitte unverzüglich. Die Karte wird umgehend gesperrt. Die Sperrung gilt automatisch auch für 3D Secure. Hast Du bei der Sperrung gleich eine Ersatzkarte beantragt, wird diese automatisch wieder für 3D Secure registriert
+
+Kann ich sofort nach der Registrierung einkaufen?
+
+Ja. Du kannst 3D Secure unmittelbar nach Abschluss der Registrierung verwenden.
+
+Wie benutze ich 3D Secure?
+
+Wenn Du bei einem teilnehmenden Händler im Internet einkaufen möchtest, erscheint ein Eingabefenster. Hier wirst Du zur Eingabe einer mTAN aufgefordert. Nachdem Du Deine Bestellung und Deine angezeigte Mobilfunknummer überprüft hast, gibst Du die per SMS erhaltene mTAN ein, um den Bezahlvorgang zu autorisieren und durchzuführen.
+
+Kann ich bei Händlern einkaufen, die nicht am 3D Secure -Verfahren teilnehmen?
+
+Ja, aber Du wirst bei diesen Händlern nicht nach einer mTAN gefragt. Der Kaufvorgang kann wie gewohnt durchgeführt werden.
+
+Wie kann ich meine hinterlegte Mobilfunknummer ändern?
+
+Die Änderung Deiner Mobilfunknummer kannst Du in unserem Onlineservice selbstständig vornehmen. Aus Sicherheitsgründen kannst nur Du die Mobilfunknummer ändern. Telefonische oder schriftliche Aufträge zur Änderung der Mobilfunknummer sind leider nicht möglich.
+
+Wie funktioniert 3D Secure im mobileTAN-Verfahren?
+
+Sobald Du registriert bist und eine Mobilfunknummer hinterlegt hast, öffnet sich bei jedem Online-Einkauf (bei teilnehmenden Händlern) ein Eingabefenster, in dem Du nach einer mTAN gefragt wirst. An Dein Mobiltelefon wird parallel die mTAN gesendet. Sobald Du die mTAN korrekt eingibst, wird vom System bestätigt, dass Du der rechtmäßige Karteninhaber bist. Der Kaufvorgang ist damit abgeschlossen und es erfolgt eine entsprechende Bestätigung.
+
+Wie schützt mich 3D Secure?
+
+Sichere Internet-Zahlungen: 3D Secure ist für Dich kostenlos und sichert Deine Kreditkartenzahlungen im Internet vor unbefugtem Zugriff zusätzlich ab. Alle Daten werden mittels SSL (Secure Socket Layer) verschlüsselt übertragen. Alle Beteiligten (Händler, Karteninhaber, etc.) werden als rechtmäßige Teilnehmer am jeweiligen Bezahlvorgang identifiziert.
+
+Hohe Flexibilität: Du kannst weltweit und rund um die Uhr im Internet einkaufen und sicher mit Deiner Kreditkarte bezahlen. Du musst Dir kein zusätzliches Passwort merken, denn die für die Transaktionsfreigabe erforderliche mTAN wird für jede Transaktion per SMS auf Dein Mobiltelefon übertragen.
+
+Keine Software-Installation: Für 3D Secure benötigst Du keine Software-Installation auf Deinem PC, Laptop, Tablet oder Smartphone. Die Anmeldung und Nutzung ist für Dich ganz unkompliziert.
+
+Welche Systemanforderungen stellt 3D Secure?
+
+3D Secure erfordert mindestens die Microsoft Internet Explorer Version 5.0, Netscape Navigator 4.0, Mozilla Firefox Version 2, Safari bzw. America Online 4.0. Darüber hinaus solltest Du die Software deaktivieren, welche die Anzeige von PopUp-Fenstern blockt. Dies kann zu Konflikten beim Einsatz von 3D Secure führen.
+
+Des Weiteren muss dein Browser Java Script akzeptieren. Java ist nicht notwendig. Für den Empfang der mTAN wird ein Gerät zum Empfang einer SMS (z.B. Mobiltelefon) benötigt.
+
+Wie kann ich mich für 3D Secure anmelden?
+
+Im Onlineservice der Ikano Bank musst Du die Rufnummer angeben, die die mTAN erhalten soll. Damit bist Du automatisch für das 3D Secure Verfahren registrier.
+
+Was kann ich tun, wenn ich während der Registrierung Fragen habe?
+
+Wenn Du während der Registrierung Fragen hast oder Hilfe benötigst, kontaktiere bitte unseren Kundenservice. Du erreichst uns Montag bis Freitag von 8 Uhr bis 18:30 Uhr unter der Rufnummer +49 6122 999 270.
+
+Was muss ich tun, wenn beim Online-Shopping kein Fenster mit der Eingabeaufforderung für eine mTAN angezeigt wird?
+
+Vergewissere Dich, dass Du die richtige Karte verwendest.
+
+Vergewissere Dich, dass der Händler am Programm teilnimmt.
+
+Vergewissere Dich, dass jegliche Software deaktiviert ist, die die Anzeige von PopUp-Fenster blockiert.
+
+Was ist, wenn meine Mobilfunknummer nicht oder falsch angezeigt wird?
+
+Wenn während des Bezahlvorganges die letzten 4 Stellen Deiner Mobilfunknummer nicht oder falsch im Eingabefenster mit der mTAN-Eingabeaufforderung angezeigt wird, darfst Du die mTAN nicht eingeben, die Transaktion muss abgebrochen werden. Bitte informiere uns schnellstmöglich damit wir Dir helfen können.
+

@@ -1,0 +1,130 @@
+Sicherheit
+Ist eine fünfstellige PIN noch sicher? Warum haben PINs bei Ihnen nicht acht oder mehr Stellen?
+
+Ja, eine fünfstellige PIN ist sicher. Wenn Sie für Ihre PIN die komplette Auswahl von Groß- und Kleinbuchstaben sowie die Zahlen Null bis Neun nutzen, so gibt es dafür 625 Kombinationsmöglichkeiten, also etwa 916 Millionen mögliche verschiedene PINs. Ihre PIN kann außerdem nicht einfach durch Ausprobieren herausgefunden werden. Ihr Zugang zum Online-Banking wird nach drei Fehlversuchen gesperrt und kann nur durch Ihre kontoführende Filiale oder durch Eingabe der korrekten PIN und der angeforderten TAN wieder entsperrt werden.
+
+Beachten Sie daher bitte folgende Regeln für den Umgang mit Ihrer PIN:
+
+• Notieren Sie die PIN nirgendwo, auch nicht auf dem TAN-Block.
+• Achten Sie darauf, dass Ihre PIN keinem Dritten bekannt wird.
+• Wenn Sie den Verdacht haben, Ihre PIN könnte Dritten bekannt geworden sein, ändern Sie sie bitte sofort im Online-Banking unter „Services“ unter „PIN ändern" oder lassen Sie Ihre PIN von unserem 24h-Kundenservice unter (069) 910-10000 sperren.
+• Eine gute PIN nutzt Klein- und Großbuchstaben und Zahlen.
+• Eine gute PIN ist nicht aus Ihrer Umgebung zu erraten – verwenden Sie keine Geburtsdaten, Nummernschilder, Telefonnummern, Namen von Verwandten und Freunden, einfachen Wörter o. Ä.
+• Ändern Sie Ihre PIN regelmäßig, mindestens einmal pro Quartal.
+Wie kann ich eine gute PIN bilden, die ich mir merken kann?
+Eine gute Methode, eine PIN zu bilden, besteht z. B. darin, sich einen leicht einprägsamen Satz zu überlegen und den Worten jeweils einen Buchstaben zu entnehmen, z. B. den zweiten.
+Beispiel: „Mein Auto ist sehr schön“. In diesem Beispiel entstünde „eusec“. Um noch Zahlen hineinzubringen, ersetzt man z. B. das „s“ durch die „5“ und das „c“ durch die „6“. Die PIN wäre dann in diesem Fall „eu5e6“.
+Meine PIN wurde gesperrt. Was muss ich tun, damit ich online wieder auf mein Konto zugreifen kann?
+
+Aufgrund dreimaliger falscher PIN-Eingabe wurde Ihr Kontozugang zur Sicherheit gesperrt. Ihre PIN entsperren wir gerne, nachdem Sie uns einen legitimierten Auftrag auf einem der folgenden Wege erteilt haben:
+
+schriftlich
+Per Brief oder Telefax an (069) 910-10001, mit Ihrer Unterschrift versehen.
+
+telefonisch
+Über die Rufnummer (069) 910-10000 mit Ihrer Telefon-PIN.
+
+persönlich
+Bei einem Mitarbeiter in Ihrer Filiale vor Ort.
+
+über Ihren Online-Banking-Zugang
+Mit der richtigen PIN und einer TAN. Folgen Sie nach dem Einloggen einfach den Anweisungen in der Maske und geben Sie abschließend Ihre TAN ein.
+Ist das Online-Banking bei der Deutschen Bank sicher?
+Ja, das Online-Banking der Deutschen Bank ist außerordentlich sicher. Die Deutsche Bank verwendet im Online-Banking die modernsten Sicherheitsverfahren. Alle Online-Transaktionen werden durch ein spezielles Sicherheitsprotokoll geschützt, das die Daten mit einer Verschlüsselung von bis zu 256 Bit überträgt. Die Deutsche Bank verwendet hier einen weltweit anerkannten Sicherheitsstandard, die SSL-Verschlüsselung (SSL = Secure Socket Layer). Trojanische Pferde oder Viren sind nicht in der Lage, dieses Sicherheitsprotokoll direkt anzugreifen. Allerdings können trojanische Pferde Ihre Log-in-Daten auf Ihrem PC mitlesen und unbemerkt über das Internet auf andere PCs übertragen. Sie suchen ihren Weg zu den Daten über die auf Ihrem PC installierte Software. Beachten Sie unsere Sicherheitshinweise unter https://www.deutsche-bank.de/sicherheit.
+Welche Sicherheitsvorkehrungen sollte ich beim Online-Banking grundsätzlich beachten?
+
+Sie sollten sich auf keinen Fall von einem Ihnen unbekannten Computer aus in das Deutsche Bank OnlineBanking einloggen. Das gilt vor allem für Internetcafés, da die dort vorhandenen Computer für die Allgemeinheit zugänglich sind. Sie sollten ein Sicherheitsprogramm auf Ihrem Computer installieren, das nach möglicherweise vorhandenen Viren oder Trojanern sucht, welche Zugangsdaten ausspionieren. Diese Sicherheitsprogramme sollten immer auf dem neuesten Stand sein. Führen Sie immer aktuelle Updates für das Betriebssystem und die Anwendungssoftware (z.B. Browser, Media Player, PDF-Reader, Office-Programme) durch. Software aus Ihnen nicht bekannten Quellen sollten Sie auf keinen Fall auf Ihrem PC installieren. Für den Fall, dass Sie Ihren Computer nicht allein benutzen, sollten Sie nach dem Verlassen des Online-Bankings grundsätzlich den Zwischenspeicher (Cache) löschen.
+
+Microsoft Internet Explorer:
+
+Extras > Internetoptionen > Allgemein > Löschen… > Temporäre Internetdateien anhaken > Löschen.
+
+Microsoft Edge
+
+… > Einstellungen > Browserdaten löschen > Zu löschendes Element auswählen > ‚Zwischengespeicherte Daten und Dateien‘ auswählen > Löschen
+
+Mozilla Firefox:
+
+… > Einstellungen > Datenschutz > Chronik > kürzlich angelegte Chronik > Im Dropdown ‚Alles‘ auswählen > Jetzt löschen.
+
+Google Chrome
+
+… > Einstellungen > Erweiterte Einstellungen anzeigen > Browserdaten löschen … > Bilder und Dateien im Cache anhaken > Browserdaten löschen
+Woran erkenne ich, dass meine Internetverbindung sicher ist?
+
+Eine sichere Internetverbindung können Sie u. a. an der Adresse erkennen. Beginnt sie mit „https“, so ist dies ein Symbol für eine sichere Verbindung (z. B. https://meine.deutsche-bank.de). Ein weiteres Signal ist das geschlossene Schloss in der Adresszeile Ihres Browsers.
+
+Kann ich die Funktion „Autovervollständigen“ bzw. „Kennwörter speichern“ für das Online-Banking ohne Sicherheitsverlust nutzen?
+
+Die verschiedenen Browser bieten die Möglichkeit, Einträge und Passwörter in Formularfeldern automatisch zu ergänzen und zu speichern. Aus Sicherheitsgründen sollten Sie diese Funktion deaktivieren.
+
+Microsoft Internet Explorer:
+
+Menüpunkt Extras > Internetoptionen > Inhalt > Persönliche Informationen > Autovervollständigen. Entfernen Sie hier per Mausklick sämtliche Häkchen, die neben „Webadressen“, „Formulare“, „Benutzernamen und Kennwörter für Formulare“ und „Nachfragen, ob Kennwörter gespeichert werden sollen“ gesetzt sind. Um bereits gespeicherte Kennwörter zu löschen, klicken Sie auf „Formulare löschen“ und „Kennwörter löschen“.
+
+Microsoft Edge
+
+Entfernen Sie unter … > Einstellungen > Erweiterte Einstellungen > Datenschutz und Dienste die Haken vor ‚Speichern von Kennwörtern anbieten‘ und ‚Formulareinträge speichern‘
+
+Mozilla Firefox:
+
+Entfernen Sie unter … > Einstellungen > Sicherheit den Haken vor „Zugangsdaten für Websites speichern“.
+
+Google Chrome:
+
+Entfernen Sie unter … > Einstellungen > Erweiterte Einstellungen > Passwörter und Formulare den Haken vor „Speicherung Ihrer Webpasswörter anbieten“.
+Kann ich die Funktion „Autovervollständigen“ bzw. „Kennwörter speichern“ für das Online-Banking ohne Sicherheitsverlust nutzen?
+
+Der Microsoft Internet Explorer und Mozilla Firefox bieten die Möglichkeit, Einträge und Passwörter in Formularfeldern automatisch zu ergänzen und zu speichern. Aus Sicherheitsgründen sollten Sie diese Funktion deaktivieren.
+
+Microsoft Internet Explorer:
+Menüpunkt Extras > Internetoptionen > Inhalt > Persönliche Informationen > Autovervollständigen. Entfernen Sie hier per Mausklick sämtliche Häkchen, die neben „Webadressen“, „Formulare“, „Benutzernamen und Kennwörter für Formulare“ und „Nachfragen, ob Kennwörter gespeichert werden sollen“ gesetzt sind. Um bereits gespeicherte Kennwörter zu löschen, klicken Sie auf „Formulare löschen“ und „Kennwörter löschen“.
+
+Firefox:
+Entfernen Sie unter Extras > Einstellungen > Sicherheit den Haken vor „Passwörter speichern“.
+Ist das Online-Banking sicher, wenn ein trojanisches Pferd auf meinem PC ist?
+
+Wenn Ihr PC von einem trojanischen Pferd oder einem Virus befallen ist, sollten Sie auf keinen Fall Online-Transaktionen durchführen, bis Ihr PC wieder virenfrei ist. Wir empfehlen Ihnen folgende Maßnahmen, einen Befall Ihres PCs trojanischen Pferden oder Viren zu verhindern:
+
+• Installieren Sie ein Schutzprogramm, einen sogenannten Virenscanner, der auch Schutz vor trojanischen Pferden bietet. Es ist wichtig, dass Sie den Virenscanner stets aktuell halten.
+• Installieren Sie niemals Software, die Ihnen von unbekannten Absendern „zum Ausprobieren“ zugeschickt wird. Löschen Sie E-Mails, deren Absender Sie nicht kennen, ohne sie zu lesen. Im schlimmsten Fall kann bereits das Aufrufen der Nachricht zum Virenbefall führen.
+• Laden Sie nur Software von seriösen Softwareherstellern auf Ihrem PC herunter und auch nur dann, wenn es wirklich zwingend erforderlich ist. Je weniger Programme Sie installieren, desto kleiner ist Ihr Risiko.
+
+Bitte beachten Sie außerdem unsere Sicherheitshinweise unter www.deutsche-bank.de/sicherheit.
+
+
+Kann ich meine PIN und TAN auf der Festplatte speichern?
+Einen wichtigen Beitrag zur Vermeidung eines missbräuchlichen Zugriffes auf Ihr Konto / Depot leisten Sie selbst. Verhindern Sie, dass Dritte Kenntnis von Ihrer PIN bzw. den TANs erlangen, und speichern Sie Ihre PIN und die TAN-Blöcke nicht auf Ihrem Rechner, Ihrem PDA oder Handy ab. Gleichermaßen ist von Software abzuraten, die solche Informationen verschlüsselt auf der Festplatte ablegt.
+Was bedeutet „Phishing“?
+Bei verschiedenen Unternehmen wurde über E-Mails mit gefälschtem Absender versucht, an vertrauliche Kundendaten zu gelangen. Beim „Phishing“ wird die E-Mail-Absenderadresse von bekannten Unternehmen und Dienstleistern vorgetäuscht.
+Was ist „Pharming“ und wie kann ich mich schützen?
+
+Pharming hat sich als Oberbegriff für verschiedene Arten von DNS-Angriffen etabliert (DNS = Domain Name System). Eine Methode dabei ist z. B. die lokale Manipulation der Hostdatei. Dabei wird unter Zuhilfenahme eines Trojaners oder eines Virus eine gezielte Manipulation des PCs vorgenommen mit der Konsequenz, dass von diesem PC nur noch gefälschte Websites abrufbar sind, selbst wenn die Adresse korrekt eingegeben wurde. Der Begriff Pharming rührt von dem Umstand her, dass die Pharmingbetrüger eigene große Serverfarmen unterhalten, auf denen gefälschte Webseiten abgelegt sind. (Quelle: Wikipedia.)
+
+Um diese Manipulation zu entdecken, achten Sie bitte immer darauf, dass die Adresse des Online-Bankings mit https beginnt. Überprüfen Sie außerdem immer, dass Ihr Browser ein Geschlossenes-Schloss-Symbol anzeigt, und kontrollieren Sie das Zertifikat des Servers (siehe nächste Frage „Wie kann ich prüfen, ob ich tatsächlich mit der Deutschen Bank kommuniziere?“). Installieren Sie eine Firewall und einen Virenscanner sowie eine Antispionagesoftware und aktualisieren Sie diese Programme regelmäßig. Lassen Sie den Virenscanner und die Antispionagesoftware regelmäßig Ihren PC überprüfen.
+
+Bitte beachten Sie außerdem unsere Sicherheitshinweise unter www.deutsche-bank.de/sicherheit.
+
+
+Wie kann ich prüfen, ob ich tatsächlich mit der Deutschen Bank kommuniziere?
+
+Wenn eine sichere Internetverbindung hergestellt wird, bestätigt ein sogenanntes Zertifikat die Echtheit des Kommunikationspartners. Das Zertifikat, mit dem sich der Server identifiziert, wird von einem vertrauenswürdigen Drittanbieter, z. B. Verisign, erstellt. Bei einer sicheren Internetverbindung zeigen die verschiedenen Internetbrowser ein Geschlossenes-Schloss-Symbol in der Statusleiste. Mit diesem Symbol können Sie auch die Zertifikate überprüfen. Es ist wichtig, darauf zu achten, dass die Zertifikate gültig sind und auf meine.deutsche-bank.de sowie die Deutsche Bank ausgestellt sind.
+
+Microsoft Internet Explorer:
+
+Das Schlosssymbol erscheint bei einer sicheren Verbindung in der Adresszeile rechts. Durch Klick auf dieses Symbol und dann auf Zertifikate anzeigen öffnet sich das Dialogfenster mit Eigenschaften und Inhalten des Zertifikates. Unter „Allgemein“ ist aufgeführt, für wen („meine.deutsche-bank.de“) und von wem das Zertifikat ausgestellt ist und bis wann es gültig ist. Weiter gehende Informationen erhält man unter „Details“: Das Datum im Feld „Gültig bis“ muss in der Zukunft liegen, und Antragsteller muss die Deutsche Bank AG sein.
+
+Microsoft Edge:
+
+Das Schlosssymbol erscheint bei einer sicheren Verbindung links in der URL-Eingabe-Zeile und/oder unten rechts in der Statuszeile. Mit Klick auf das Symbol und dann auf das Zertifikat öffnet sich das Dialogfenster mit den Sicherheitsinformationen. Klicken Sie hier auf den Button „Zertifikat anzeigen“ in der Mitte des Fensters. Unter „Validität“ können Sie das Verfallsdatum sehen und unter „Ausgestellt für“, ob das Zertifikat für die Deutsche Bank AG ausgestellt ist.
+
+Mozilla Firefox:
+
+Das Schlosssymbol erscheint bei einer sicheren Verbindung links in der URL-Eingabe-Zeile. Mit Klick auf das Symbol und dann auf das Zertifikat öffnet sich das Dialogfenster mit den Sicherheitsinformationen. Klicken Sie hier auf den Button „Zertifikat anzeigen“ in der Mitte des Fensters. Unter „Validität“ können Sie das Verfallsdatum sehen und unter „Ausgestellt für“, ob das Zertifikat für die Deutsche Bank AG ausgestellt ist.
+
+Google Chrome:
+
+Das Schlosssymbol erscheint bei einer sicheren Verbindung links in der URL-Eingabe-Zeile. Mit Klick auf das Symbol und dann auf Details öffnet sich das Dialogfenster mit den Sicherheitsinformationen. Unter Zertifikat anzeigen können Sie das Verfallsdatum sehen und unter „Details“, ob das Zertifikat für die Deutsche Bank AG ausgestellt ist.
+Wie kann ich meinen PC vor Viren und trojanischen Pferden schützen?
+
+Viren und trojanische Pferde verbreiten sich über das Internet – diese Schadsoftware kann überall lauern und ist ein grundsätzliches Risiko bei allen Computeranwendungen. Wenn sich Nutzer ungeschützt Daten und Anwendungen aus dem Internet auf ihren PC – z. B. via E-Mail oder Download – herunterladen, können sich trojanische Pferde einschleichen. Diese manipulieren – vom Nutzer unbemerkt – die auf dem PC installierten Programme. Dies kann dazu führen, dass Eingaben und Bildschirmanzeigen Ihres PCs über das Internet an fremde PCs weitergeleitet werden. Diese Gefahr besteht für alle Anwendungen am PC. Wir empfehlen die Installation eines Virenscanners, und einer Firewall. Führen Sie außerdem immer aktuelle Updates für das Betriebssystem und die Anwendungssoftware (z.B. Browser, Media Player, PDF-Reader, Office-Programme) durch. Geeignete Schutzprogramme können Sie im Fachhandel erwerben. Bitte beachten Sie außerdem unsere Sicherheitshinweise unter https://www.deutsche-bank.de/sicherheit.

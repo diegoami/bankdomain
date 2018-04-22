@@ -1,0 +1,39 @@
+Können Kontoinformationen im Cache meines Browsers gespeichert bleiben?
+
+Solange Sie Ihren Browser geöffnet haben, bleiben Ihre Kontoinformationen (Umsatzanzeige, Kontostand etc.) im Zwischenspeicher, dem sogenannten "Cache" Ihres Browsers, gespeichert. Nach 12 Minuten werden die Inhalte automatisch gelöscht. Dies verhindert, dass Unbefugte, die Zugang zu Ihrem PC haben, in einem unbeobachteten Moment "im Nachhinein" einen Blick auf Ihr Konto werfen können. Deshalb sollten Sie auch nach Beendigung Ihrer Bankgeschäfte das Online-Banking mit Klick auf den Button "Abmelden" verlassen und die Browser-Anwendung beenden.
+Warum benötige ich Cookies beim Online-Banking?
+
+Online-Banking per Internet erfordert, dass Sie Cookies zulassen. Ein verschlüsseltes Sicherheits-Cookie ermöglicht unserem Bankrechner Ihren PC eindeutig zuzuordnen. Nach Ablauf Ihrer Internetsitzung macht sich das Cookie selbst und die im Zwischenspeicher Ihres PC gespeicherten Seiten ungültig. Nach dem Ende der Anwendersitzung wird es automatisch von Ihrem PC gelöscht.
+
+So ermöglichen Sie die Annahme von Cookies:
+
+    Firefox: "Extras" > "Einstellungen" > "Datenschutz" > "Cookies akzeptieren"
+    MS Internet Explorer: "Extras" > "Internetoptionen" > "Datenschutz"
+    Google Chrome: "Menü Google Chrome anpassen" > "Einstellungen" > "Erweiterte Einstellungen" > "Inhaltseinstellungen"
+    MAC Safari: "Menü Safari" > "Einstellungen" > "Datenschutz"
+
+Kann ich die Funktion "Autovervollständigen" meines Browsers beim Online-Banking verwenden?
+
+Die Funktion "Autovervollständigen" kann sehr praktisch sein, birgt aber auch Risiken. Wenn die Funktion aktiviert ist, speichert der Browser Ihre Angaben in Online-Formularen und füllt diese Felder automatisch aus, beim Online-Banking zum Beispiel Kontonummer und PIN.
+
+Allerdings bietet das System wenig Schutz für diese sensiblen Daten. Das wird beispielsweise dann zum Problem, wenn Sie Ihren PC nicht allein nutzen, sondern auch andere Personen darauf Zugriff haben. Dann besteht die Gefahr, dass ein anderer Nutzer Ihren Online-Banking-Zugang aufruft und sich über Ihre Finanzen informiert. Auch besteht die Möglichkeit, dass sensible Daten wie Ihre Kontonummer und Ihre PIN von Ihrem Konto im Browser hinterlegt und von Hackern ausgespäht werden, um so Zugang zu Ihrem Konto zu erhalten.
+
+Deshalb empfehlen wir, die Funktion "Autovervollständigen" generell abzuschalten, wenn Sie Online-Banking verwenden.
+Kurzanleitung: Funktion „Autovervollständigen“ deaktivieren
+Ich komme mit den Aufklappmenüs nicht zurecht. Kann ich diese ausschalten?
+
+Die Aufklapp-Navigation lässt sich nicht ausschalten, aber die Verwendung ist optional. Sie können wie bisher jede Funktion ohne deren Benutzung erreichen: Klicken Sie beispielsweise für eine Überweisung einfach auf "Online-Banking" > "Banking" > "Überweisung".
+Was kann ich tun, wenn die Flicker-Grafik im chipTAN-Verfahren fehlt (optische Variante)?
+
+Wenn innerhalb der Flicker-Grafik die weißen Balken nicht erscheinen und das Bild schwarz bleibt, kann dies mit den individuellen Einstellungen in Ihrem Browser zusammenhängen.
+
+Die Nutzung bestimmter Add-ons und/oder Toolbars verhindert die Flicker-Animation. Für die fehlerfreie Darstellung der Animation ist entweder eine Aktualisierung oder Deaktivierung der Add-ons und/oder Toolbars notwendig. Je nach Browser prüfen, aktualisieren oder deaktivieren Sie bitte diese Einstellungen:
+
+    Firefox (Menü Add-ons): Shockwave Flash, AdBlock, FlashBlock, ASK-Toolbar, TrueSuite
+    MS Internet Explorer: (Menü Extras > Add-ons verwalten) Adobe-Shockwave, ASK-Toolbar, TrueSuite
+
+Die aufgeführten Browser sowie Add-ons und Toolbars sind lediglich Beispiele. Bei anderen Browsern können weitere Add-ons und Toolbars die Darstellung der Flicker-Animation ebenfalls blockieren.
+
+Zusätzlich zur optischen Variante steht Ihnen auch immer die manuelle TAN-Erzeugung zur Verfügung:
+
+Auf der TAN-Eingabeseite klicken Sie einfach auf "Alternativ gelangen Sie hier zur manuellen Eingabe über die Gerätetastatur". Folgen Sie dann den Anweisungen auf Ihrem Bildschirm. Das manuelle Verfahren bleibt solange aktiv, bis Sie Ihre Online-Banking-Sitzung beenden. Bei einer erneuten Anmeldung wird wieder auf das chipTAN-Verfahren zurückgegriffen, das Sie unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "chipTAN: Verfahren festlegen“ voreingestellt haben.

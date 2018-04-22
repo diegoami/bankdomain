@@ -1,0 +1,30 @@
+Was ist HBCI Plus?
+HBCI Plus ist eine Variante des HBCI-Standards. Im Gegensatz zum „klassischen“ HBCI nutzen Sie dabei Ihre Online-Banking-PIN und -TAN zur Legitimation von Aufträgen statt einer Chipkartenlösung, eines USB-Sticks oder einer Diskette. Ihre Auftragsdaten werden dabei über eine SSL-gesicherte Internetverbindung verschlüsselt übertragen, daher können Sie jeden Internetprovider für HBCI Plus nutzen.
+Wie schalte ich mich für HBCI Plus frei und was benötige ich zur Nutzung?
+Die Freischaltung ist im Deutsche Bank OnlineBanking möglich. Nach dem Login rufen Sie dazu den Punkt „Services“ auf und klicken im Bereich „Online SelfServices“ auf den Button „Services nutzen“. Im Bereich „Sonstiges“ klicken Sie bitte auf den Link „TelefonBanking PIN bestellen und HBCI+ Freischaltung“. Über den Button „Jetzt aktivieren“ und die darauf folgende TAN-Bestätigung wird der Zugang über HBCI Plus für Sie freigeschaltet. Zur Nutzung benötigen Sie neben einer geeigneten Software nur Ihre Online-PIN und -TAN sowie die Zugangsdaten zu unserem HBCI-Plus-System. Lesen Sie dazu auch die nächste Frage.
+Wie richte ich HBCI-Plus-Software ein?
+
+Wenn Sie ein neues Konto in Ihrer Software einrichten oder den Zugang zur Bank für bestehende Konten ändern wollen, konsultieren Sie bitte zunächst die Hilfeseiten zu Ihrem Programm bzw. Ihr Handbuch. Ergänzend benötigen Sie folgende Informationen:
+
+
+Ihre Benutzerkennung:
+
+Diese besteht aus Ihrer Filial-, Konto- und Unterkontonummer, also z. B. 700123456700.
+
+
+Ihre User-ID:
+
+Bitte lassen Sie dieses Feld leer oder, falls dies nicht möglich ist, füllen Sie es ebenfalls mit Ihrer Filial-, Konto- und Unterkontonummer (z. B. 700123456700) aus.
+Ihre Bankleitzahl:
+
+Bitte prüfen Sie auf jeden Fall, ob hier von der Software auch die richtige Bankleitzahl vorgeschlagen wird, weil es sonst zu Fehlern kommen kann.
+
+
+Die Adresse des Bankservers:
+
+https://fints.deutsche-bank.de/
+
+
+Ihre Online-Banking-PIN und -TAN:
+
+Sie können einfach Ihre PIN und TAN für Ihr Online-Banking auch hier benutzen.
