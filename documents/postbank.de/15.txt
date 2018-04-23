@@ -1,0 +1,199 @@
+Wie kann ich im Telefon-Banking einen Dauerauftrag einrichten?
+
+
+
+Nachdem Sie Ihre Kontonummer und Telefon-Geheimzahl erfolgreich eingegeben haben, wird Ihnen der aktuelle Kontostand genannt. Anschließend befinden Sie sich im Hauptmenü. Teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte einen Dauerauftrag einrichten". Sie werden dann zu einem Mitarbeiter durchgestellt.
+
+Wie kann ich im Telefon-Banking einen Dauerauftrag ändern/löschen?
+
+
+
+Nachdem Sie Ihre Kontonummer und Telefon-Geheimzahl erfolgreich eingegeben haben, wird Ihnen der aktuelle Kontostand genannt. Anschließend befinden Sie sich im Hauptmenü.
+
+Teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte einen Dauerauftrag ändern/löschen".
+
+Wie kann ich online Daueraufträge einrichten, ändern oder löschen?
+
+
+
+Um einen Dauerauftrag einzurichten, gehen Sie wie folgt vor:
+
+Klicken Sie bitte in der Navigationsleiste auf "Kontenübersicht" und wählen Sie rechts im Menü die Funktion "Dauerauftrag". Hier können Sie dann neue Daueraufträge erstellen.
+
+Für die Änderung oder Löschung gilt:
+
+Klicken Sie im Postbank Online-Banking auf "Auftragslisten". Dort wählen Sie den Reiter "Daueraufträge". Hinter jedem einzelnen Dauerauftrag finden Sie rechts das Symbol "ändern" oder "löschen", damit erreichen Sie die gewünschte Möglichkeit. Bitte bestätigen Sie abschließend Ihre Eingabe mit einer gültigen TAN.
+
+Eine Schritt-für-Schritt-Anleitung finden Sie hier.
+
+Wie bekomme ich meine bisherigen Daueraufträge und Lastschriften von meiner alten Bank auf mein neues Konto?
+
+
+
+Natürlich unterstützen wir Sie bei der Änderung Ihrer Bankverbindung.
+
+Sie haben Ihr neues Postbank Girokonto schon eröffnet? Über unseren "Kontowechsel-Service" bieten wir Ihnen einen ganz besonderen Service an. Sie benötigen dazu Ihre Kontonummer und die Online-Banking PIN.
+
+Sie haben noch kein Postbank Girokonto? Informieren Sie sich unter Girokonten über unsere Angebote. Wenn Sie eines unserer Girokonten eröffnen, können Sie im Auftrag angeben, dass Sie den Kontowechselservice nutzen möchten.
+
+Wie kann ich einen Dauerauftrag im Postbank Online-Banking löschen?
+
+
+
+Bestehende Daueraufträge können Sie über den Menüpunkt "Auftragslisten" einsehen, ändern und löschen.
+
+Klicken Sie dazu im Online-Banking bitte auf den Menüpunkt "Auftragslisten" und dann auf den Reiter "Daueraufträge". Dort finden Sie Ihre bestehenden Daueraufträge und können diese anhand der Symbole hinter dem Datum entweder "Anzeigen" (Brief), "Ändern" (Stift) oder "Löschen" (Papierkorb).
+
+Ausnahmen davon sind Daueraufträge zu Spenden, Lotterien und Auslandsdaueraufträge. Diese können nur schriftlich verwaltet und gelöscht werden.
+
+Weiterhin können Sie den Dauerauftrag über das Telefon-Banking unter 0228 5500 5500 löschen. Halten Sie hier bitte Ihre Telefon-Banking PIN bereit.
+
+Oder Sie teilen uns die Löschung schriftlich mit.
+
+Zusätzliche Informationen finden Sie im Tipp der Woche.
+
+Was ist der Unterschied zwischen einem Dauerauftrag auf ein Sparkonto und dem Komfort-Sparen?
+
+
+
+Der Unterschied zwischen einem Dauerauftrag und dem Komfort-Sparen liegt darin, dass Sie beim Komfort-Sparen Ihren Auftrag noch flexibler gestalten können.
+
+Sie können zu einem gewünschten Ausführungstermin den Gesamtbetrag, einen Teilbetrag Ihres Girokonto-Guthabens überweisen lassen, oder auch einen Sockelbetrag (Restbetrag) festlegen, der auf dem Girokonto verbleiben soll.
+
+Bei einem Dauerauftrag wird exakt der Betrag überwiesen, den Sie vorab eingegeben haben, mehr nicht.
+
+
+Kann man nach Einrichtung eines Daueraufrages im Online-Banking der Postbank das Auftragslimit für die Daueraufträge wieder auf 0,00 Euro setzen, ohne das der gerade eingegebene Dauerauftrag ungültig wird?
+
+
+
+Ja, das Auftragslimit im Online-Banking kann sofort wieder auf Null gesetzt werden.
+
+Der Dauerauftrag wird nicht gelöscht.
+
+Mein Tipp:
+
+Das Gleiche gilt auch bei Überweisungen. Sobald man den Auftrag mit der TAN bestätigt hat, kann das Limit sofort wieder verändert werden. Gerade bei höheren Beträgen ist dies aus Sicherheitsgründen sinnvoll.
+
+
+Wie kann ich eine regelmäßige (monatliche) Auslandsüberweisung beenden? In der Buchungsübersicht erscheint kein Dauerauftragssymbol.
+
+
+
+Auslandsdaueraufträge können im Online-Banking der Postbank weder eingerichtet, geändert oder gelöscht werden.
+
+Beauftragen Sie bitte schriftlich die Löschung des Dauerauftrags. Senden Sie dazu ein formloses Schreiben an Ihre kontoführende Niederlassung. Oder nutzen Sie das Telefon-Banking unter 0228 5500 5500.
+
+
+Wie kann man einen Dauerauftrag mit einem wöchentlichen Rhythmus im Online-Banking der Postbank einrichten?
+
+
+
+Bitte rufen Sie sich zunächst im Banking die Maske zum Dauerauftrag auf.
+
+Geben Sie wie gewohnt die Empfängerdaten und den Betrag ein und klicken dann auf die Funktion "Alle Optionen".
+
+Setzen Sie hier die Markierung auf "Alle Wochen" und wählen abschließend noch den genauen Tag aus.
+
+
+Muss man, wenn ein Dauerauftrag z.B. über 2000 Euro eingerichtet wurde, das Überweisungslimit permanent mindestens auf dieser Höhe belassen?
+
+
+
+Nein, denn die Überweisungslimite im Online-Banking wirken nur unmittelbar bei einer Auftragserteilung.
+
+Das bedeutet, daß Sie nach einer Überweisung oder einem Dauerauftrag das Limit heruntersetzen können, ohne das es eine Auswirkung auf die bereits erteilten Aufträge hat.
+
+Wenn Sie online einen Dauerauftrag einrichten, muss das Limit für Daueraufträge zunächst entsprechend angepasst sein. Nachdem Sie den Auftrag aber mit einer TAN abgeschlossen haben, können Sie sofort das Dauerauftragslimit herabsenken.
+
+
+Wie kann man einen Dauerauftrag von einer Postbank-SparCard auf ein Postbank-Girokonto einrichten?
+
+
+
+Sie können keinen Dauerauftrag von einem Sparkonto aus einrichten, da es sich hierbei nicht um ein Girokonto handelt.
+
+Vermutlich bezieht sich Ihrer Anfrage auf die SparCard-Umbuchung, z.B. im Online-Banking. Diese Art Aufträge müssen bei Bedarf immer einzeln erteilt werden.
+
+
+Kann bei einem zu spät gelöschten Dauerauftrag die letzte Buchung zurückgeholt werden. Wenn ja, wie?
+
+
+
+Nein, das ist nicht möglich.
+
+Ein Dauerauftrag ist nichts anderes als eine automatisch ausgeführte Überweisung. Diese können Sie nicht nachträglich stornieren.
+
+Bitte wenden Sie sich an den Zahlungsempfänger und bitten um eine Rücküberweisung.
+
+
+Mit welcher max. Vorlaufzeit kann ein zukünftiger Dauerauftrag eingerichtet werden?
+
+
+
+Sie möchten jetzt schon einen Dauerauftrag einrichten, dessen erstmalige Ausführung in der Zukunft liegt?
+
+Im Postbank Online-Banking können Sie jederzeit, ohne Einschränkung in der Datumsangabe der erstmaligen Ausführung, einen Dauerauftrag erteilen.
+
+
+Was muss ich bei Einrichtung eines Online-Dauerauftrages beachten, damit dieser nicht doppelt ausgeführt wird?
+
+
+
+Die Postbank unterscheidet zwei Angaben zur Ausführung eines Dauerauftrages: „erste Ausführung am“ und „Intervall“. Unter „erste Ausführung am“ bestimmen Sie, wann der Dauerauftrag erstmalig ausgeführt wird.
+
+Mit dem „Intervall“ legen Sie den Tag fest, an dem die Überweisung künftig immer ausgeführt werden soll.
+
+Das Intervall muss mit dem Tag der ersten Ausführung identisch sein. Wenn beispielsweise eine Überweisung immer am Ersten eines Monats ausgeführt werden soll, sollte auch die erste Ausführung am Ersten des Monats erfolgen. Setzen Sie dagegen die Erstausführung auf den Ersten des Monats, den Intervall dazu auf den 15., so wird im ersten Monat der Auftrag zweimal, nämlich am 01. und am 15. abgebucht. Für die Folgemonate kommt dann nur noch das Intervall, in unserem Beispiel der 15., zum Einsatz.
+
+
+Lässt sich der Starttermin eines Dauerauftrages online einsehen?
+
+
+
+Nein. Bestehende Daueraufträge werden zwar unter dem Menüpunkt "Auftragslisten" im Online-Banking angezeigt, aber nicht mit dem damaligen Startdatum
+
+Bitte wenden Sie sich mit dieser Anfrage telefonisch an unser Kundenberatungscenter unter 0228 5500 5500.
+
+
+Wird die Löschung eines Dauerauftrages von der Postbank bestätigt? Wenn ja, wie?
+
+
+
+Ja, es wird automatisch eine Löschungungsbestätigung erstellt.
+
+Diese kommt immer als Anlage im nächsten Kontoauszug.
+
+
+
+
+Folgende Möglichkeiten stehen Ihnen für eine Dauerauftragsänderung zu Verfügung:
+
+    per Dauerauftragsformular. Das Formular erhalten Sie auf Nachfrage in allen Postbank Finanzcentern. Ein Finanzcenter in Ihrer Nähe finden Sie unter Filialsuche
+    per Telefon-Banking. Halten Sie hierfür bitte Ihre Telefon-Banking PIN bereit. Die Rufnummer finden Sie hier: Privatkunden
+    per Online-Banking: Bitte melden Sie sich im Online-Banking an und klicken Sie auf "Auftragslisten". Hier finden Sie die Angabe "Daueraufträge". Wählen Sie jetzt den gewünschten Dauerauftrag und rechts das Symbol "ändern" aus. Bitte bestätigen Sie abschließend Ihre Eingabe mit einer TAN.
+
+    Unter welcher Option im Online-Banking der Postbank kann man gelöschte Daueraufträge ansehen oder als PDF-Datei runterladen?
+
+    Antwort der Postbank von Daniel P.
+
+    Ein gelöschter Dauerauftrag wird im Online-Banking nicht mehr angezeigt. Die Bestätigung über den gelöschten Auftrag erhalten Sie als Beilage zum nächsten Kontoauszug.
+
+
+
+Können für die Handyaufladung auch Daueraufträge eingerichtet werden.
+
+
+
+Nein ein Dauerauftrag für eine Handyaufladung ist nicht möglich.
+
+Es geht immer nur als Einzelauftrag im Online-Banking unter dem entsprechenden Menüpunkt.
+
+
+Gibt es im Online-Banking der Postbank eine Historie zu den bestehenden Daueraufträgen, z.B. über deren Veränderungen im Laufe der Zeit?
+
+
+
+Nein, eine solche Funktion gibt es im Online-Banking nicht.
+
+Jedesmal, wenn zu einem Dauerauftrag eine Änderung durchgeführt wird, erhält man mit dem folgenden Kontoauszug eine Änderungsbestätigung zugesendet.

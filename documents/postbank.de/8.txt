@@ -1,0 +1,34 @@
+Was ist ein Verlusttopf?
+
+
+
+Unter einem Verlusttopf versteht man einen fiktiven "Topf" in Form von internen Konten, welche von den Banken für jeden Anleger eingerichtet werden. In ihnen werden taggleich positive und negative Kapitalerträge der Kunden entsprechend den Anforderungen der Abgeltungssteuer verrechnet.
+
+Insgesamt gibt es drei verschiedene Verlusttöpfe und zwei sogenannte Steuertöpfe.
+
+Aktienverlusttopf: Im Aktienverlusttopf kumuliert die Bank alle Verluste des Anlegers aus Aktiengeschäften. Dabei werden ausschließlich Kursverluste berücksichtigt, da es keine negative Dividende gibt. Ihm gegenüber steht der Steuertopf Aktien, in dem ausschließlich Kursgewinne des Anlegers Berücksichtigung finden.
+
+Allgemeiner/Sonstige Verlusttopf: In diesem Verlusttopf werden alle anderen Erträge oder Verluste, dazu gehören auch die Kursgewinne aus Investmentfonds, Zins- und Dividendenerträge oder Stückzinsen kumuliert. Ihm gegenüber steht der Steuertopf Sonstige.
+
+Quellensteuertopf: Im Quellensteuertopf wird die Quellensteuer aus ausländischen Kapitalanlagen berechnet, sofern diese veranlagt, aber nicht an der Quelle (im Ausland) abgeführt wurde.
+
+Nachdem alle positiven Erträge zunächst mit den Inhalten der Verlusttöpfe Aktien und Sonstige verrechnet wurden, wird der verbleibende Betrag um den jeweiligen Freibetrag reduziert. Im Anschluss findet noch die Quellensteuer Berücksichtigung. Als Ergebnis erhält man den zu versteuernden Betrag, der nun in die Steuertöpfe Aktien und Sonstige einfließt.
+
+
+
+Wenn ich eine Aktie mit Verlust verkaufe, wird automatisch ein Verlusttopf angelegt?
+
+
+
+Werden Wertpapiere verkauft, die nach dem 01.01.2009 angeschafft wurden, so wird automatisch die Abgeltungsteuer berücksichtigt.
+
+Der Kursverlust wird in den Verlusttopf gebucht und gegen spätere Gewinne verrrechnet.
+
+
+Wenn eine Aktie mit Verlust verkauft wird, bildet die Postbank dann automatisch dazu ein Verlusttopf?
+
+
+
+Werden Wertpapiere verkauft, die nach dem 01.01.2009 angeschafft wurden, so wird automatisch die Abgeltungsteuer berücksichtigt.
+
+Der Kursverlust wird in den Verlusttopf gebucht und gegen spätere Gewinne verrechnet.

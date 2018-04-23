@@ -1,39 +1,42 @@
-Können Kontoinformationen im Cache meines Browsers gespeichert bleiben?
+Electronic Banking Internet Communication Standard
 
-Solange Sie Ihren Browser geöffnet haben, bleiben Ihre Kontoinformationen (Umsatzanzeige, Kontostand etc.) im Zwischenspeicher, dem sogenannten "Cache" Ihres Browsers, gespeichert. Nach 12 Minuten werden die Inhalte automatisch gelöscht. Dies verhindert, dass Unbefugte, die Zugang zu Ihrem PC haben, in einem unbeobachteten Moment "im Nachhinein" einen Blick auf Ihr Konto werfen können. Deshalb sollten Sie auch nach Beendigung Ihrer Bankgeschäfte das Online-Banking mit Klick auf den Button "Abmelden" verlassen und die Browser-Anwendung beenden.
-Warum benötige ich Cookies beim Online-Banking?
+Der Electronic Banking Internet Communication Standard (kurz: EBICS) bezeichnet einen neuen, in Deutschland multibankfähigen Standard für die Übertragung von Zahlungsverkehrsdaten über das Internet. EBICS löst nach einer Übergangszeit den bisherigen Standard BCS-FTAM ab, für den es kein Internetprotokoll gibt.
+Inhaltsverzeichnis
 
-Online-Banking per Internet erfordert, dass Sie Cookies zulassen. Ein verschlüsseltes Sicherheits-Cookie ermöglicht unserem Bankrechner Ihren PC eindeutig zuzuordnen. Nach Ablauf Ihrer Internetsitzung macht sich das Cookie selbst und die im Zwischenspeicher Ihres PC gespeicherten Seiten ungültig. Nach dem Ende der Anwendersitzung wird es automatisch von Ihrem PC gelöscht.
+    1 Historie und zukünftige Entwicklung
+    2 Technische Details des Protokolls
+    3 Berechtigungskonzepte
+    4 Varianten des EBICS-Systems
+    5 Weblinks
+    6 Quellen
 
-So ermöglichen Sie die Annahme von Cookies:
+Historie und zukünftige Entwicklung
 
-    Firefox: "Extras" > "Einstellungen" > "Datenschutz" > "Cookies akzeptieren"
-    MS Internet Explorer: "Extras" > "Internetoptionen" > "Datenschutz"
-    Google Chrome: "Menü Google Chrome anpassen" > "Einstellungen" > "Erweiterte Einstellungen" > "Inhaltseinstellungen"
-    MAC Safari: "Menü Safari" > "Einstellungen" > "Datenschutz"
+Der EBIC-Standard wurde vom Zentralen Kreditausschuss (ZKA; heute Die Deutsche Kreditwirtschaft) entwickelt und zum 1. Januar 2006 in das DFÜ-Abkommen aufgenommen. Seit dem 1. Januar 2008 besteht eine Verpflichtung für Kreditinstitute zur Unterstützung von EBICS. Zum 31. Dezember 2010 endete für die Banken die Verpflichtung, BCS-FTAM weiter zu unterstützen.
 
-Kann ich die Funktion "Autovervollständigen" meines Browsers beim Online-Banking verwenden?
+In Voraussicht einer möglichen Entwicklung zu einem europaweiten Standard wurde mit dem führenden „E“ des Akronyms die Möglichkeit geschaffen, die Bezeichnung in „European Banking Internet Communication Standard“ zu ändern. Die französischen Banken, vertreten durch das Comité Français d’Organisation et de Normalisation Bancaire (CFONB) haben mit dem ZKA bereits ein grenzüberschreitendes Kooperationsabkommen zur gemeinsamen Nutzung von EBICS geschlossen.[1]
 
-Die Funktion "Autovervollständigen" kann sehr praktisch sein, birgt aber auch Risiken. Wenn die Funktion aktiviert ist, speichert der Browser Ihre Angaben in Online-Formularen und füllt diese Felder automatisch aus, beim Online-Banking zum Beispiel Kontonummer und PIN.
+Im Rahmen der SEPA-Einführung im Jahr 2014 hat EBICS eine entscheidende Rolle gespielt. Die Deutsche Bundesbank unterstützt EBICS für die Einreichung von SEPA-Zahlungsverkehrsaufträgen seit dem 28. Januar 2008.
+Technische Details des Protokolls
 
-Allerdings bietet das System wenig Schutz für diese sensiblen Daten. Das wird beispielsweise dann zum Problem, wenn Sie Ihren PC nicht allein nutzen, sondern auch andere Personen darauf Zugriff haben. Dann besteht die Gefahr, dass ein anderer Nutzer Ihren Online-Banking-Zugang aufruft und sich über Ihre Finanzen informiert. Auch besteht die Möglichkeit, dass sensible Daten wie Ihre Kontonummer und Ihre PIN von Ihrem Konto im Browser hinterlegt und von Hackern ausgespäht werden, um so Zugang zu Ihrem Konto zu erhalten.
+Alle Daten sind in einen XML-Container eingebettet und werden über HTTP mit einer TLS-Verschlüsselung versandt, um die sichere Übertragung zu garantieren. Die Daten werden Block für Block übertragen und jeder Block mit einer elektronischen Signatur gesichert. Bei Übertragungsfehlern ermöglicht eine Wiederherstellungsfunktion die Wiederaufnahme des Transfers ab dem letzten erfolgreich übertragenen Block. Mit Blick auf PKI-gestützte Modelle wird der optionale Einsatz von X.509-Zertifikaten für den Austausch der aktuellen RSA-Schlüssel zwischen Kunde und Kreditinstitut unterstützt.
+Berechtigungskonzepte
 
-Deshalb empfehlen wir, die Funktion "Autovervollständigen" generell abzuschalten, wenn Sie Online-Banking verwenden.
-Kurzanleitung: Funktion „Autovervollständigen“ deaktivieren
-Ich komme mit den Aufklappmenüs nicht zurecht. Kann ich diese ausschalten?
+In der EBICS-Kommunikation können im Gegensatz zur Kommunikation über F-TAM (via Telefon/ISDN-Leitung) verschiedenste Berechtigungsmöglichkeiten abgebildet werden:
 
-Die Aufklapp-Navigation lässt sich nicht ausschalten, aber die Verwendung ist optional. Sie können wie bisher jede Funktion ohne deren Benutzung erreichen: Klicken Sie beispielsweise für eine Überweisung einfach auf "Online-Banking" > "Banking" > "Überweisung".
-Was kann ich tun, wenn die Flicker-Grafik im chipTAN-Verfahren fehlt (optische Variante)?
+    Elektronische Einzelunterschrift
+    Geteilte Elektronische Unterschrift
+    Verteilte Elektronische Unterschrift
 
-Wenn innerhalb der Flicker-Grafik die weißen Balken nicht erscheinen und das Bild schwarz bleibt, kann dies mit den individuellen Einstellungen in Ihrem Browser zusammenhängen.
+1.) Dieses Berechtigungskonzept sieht vor, dass erfassende User nicht dem empfangenden EBICS-System bekannt gemacht werden. Im Falle einer Zahlungsverkehrsapplikation, in der Dateien erfasst werden können, wird beispielsweise meist die Variante vertreten, dass nur ein technischer Teilnehmer mit einer sogenannten E-Unterschrift (Einzelunterschrift) die Übertragung initiiert und mit seiner elektronischen Signatur versieht. Das empfangende System kontrolliert die Empfangsberechtigung und führt die Zahlung aus.
 
-Die Nutzung bestimmter Add-ons und/oder Toolbars verhindert die Flicker-Animation. Für die fehlerfreie Darstellung der Animation ist entweder eine Aktualisierung oder Deaktivierung der Add-ons und/oder Toolbars notwendig. Je nach Browser prüfen, aktualisieren oder deaktivieren Sie bitte diese Einstellungen:
+2.) Dieses Berechtigungskonzept sieht vor, dass erfassende User dem empfangenden EBICS-System bekannt gemacht werden. Es werden im Normalfall die Varianten A-Unterschrift, B-Unterschrift und T-Unterschrift (Transport-Unterschrift) genutzt. Z. B. eine Erfassungskraft, die im Außenverhältnis keine Unterschriftsberechtigung besitzt, wird im Empfangssystem mit einer Transportunterschrift versehen. Die Prokuristen und ähnlich unterschriftsberechtigte Personen des Unternehmens treten mit ihrer jeweiligen A- oder B-Unterschrift auf. Die zum Empfangssystem geleitete Datei enthält dann neben der Zahlungsverkehrsdatei auch die A- und B-Unterschriften.
 
-    Firefox (Menü Add-ons): Shockwave Flash, AdBlock, FlashBlock, ASK-Toolbar, TrueSuite
-    MS Internet Explorer: (Menü Extras > Add-ons verwalten) Adobe-Shockwave, ASK-Toolbar, TrueSuite
+3.) Dieses Berechtigungskonzept ist eine Anlehnung zu Punkt 2. Der Unterschied besteht jedoch darin, dass die Unterschriften nicht in einem Transportauftrag versendet werden, sondern dass die Datei nur mit einer T-Unterschrift versandt wird und erst im Nachhinein mit einem anderen Transportauftrag unterschrieben wird. Der Vorteil kann darin bestehen, dass einige Unternehmen Zahlungsverkehrsprovider zur Erstellung der Daten benutzen, aber das Bestätigen der Daten lieber in ihren Händen behalten möchten.
+Varianten des EBICS-Systems
 
-Die aufgeführten Browser sowie Add-ons und Toolbars sind lediglich Beispiele. Bei anderen Browsern können weitere Add-ons und Toolbars die Darstellung der Flicker-Animation ebenfalls blockieren.
+Innerhalb des EBICS-Systems wird zwischen zwei Varianten unterschieden:
 
-Zusätzlich zur optischen Variante steht Ihnen auch immer die manuelle TAN-Erzeugung zur Verfügung:
+    Das von vielen benutzte Kunde-Bank-System. In diesem Fall kann auf jedem internetfähigen PC die benötige Software aufgespielt werden. Der Kunde kann Zahlungen oder andere Dateien an seine Bank senden und Protokolle und Auslieferungsdateien wie Elektronische Kontoauszüge (MT940/STA) etc. herunterladen.
+    Eine neue Variante ist das Bank-Bank-System. Diese wird neben der SWIFT-Kommunikation von Banken eingesetzt, um sich gegenseitig Zahlungen und andere im Zahlungsverkehr benötigte Dateien zuzusenden. In diesem Fall wird die Software auf einen internetfähigen Server aufgespielt. Die Dateien werden in diesem Fall von beiden Seiten zum Partnersystem gesendet. Einzig und allein die EBICS-Protokolle werden heruntergeladen.
 
-Auf der TAN-Eingabeseite klicken Sie einfach auf "Alternativ gelangen Sie hier zur manuellen Eingabe über die Gerätetastatur". Folgen Sie dann den Anweisungen auf Ihrem Bildschirm. Das manuelle Verfahren bleibt solange aktiv, bis Sie Ihre Online-Banking-Sitzung beenden. Bei einer erneuten Anmeldung wird wieder auf das chipTAN-Verfahren zurückgegriffen, das Sie unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "chipTAN: Verfahren festlegen“ voreingestellt haben.
