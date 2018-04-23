@@ -1,0 +1,34 @@
+Gutschrift
+
+Unter Gutschrift (englisch credit) versteht man im Bankwesen die einen Habensaldo erhöhende und den Sollsaldo vermindernde oder in einen Habensaldo verwandelnde Habenbuchung auf einem Bankkonto. Außerdem handelt es sich um die umgangssprachliche Bezeichnung für die Korrektur einer Rechnung zu Gunsten des Leistungsempfängers etwa infolge einer Mängelrüge; der rechtlich korrekte Ausdruck hierfür ist allerdings Minderung nach § 441 Abs. 1 BGB. Weiterhin kann eine Abrechnungsgutschrift anstelle einer Rechnung zur Abrechnung einer Leistung verwendet werden. Gegensatz ist die Belastung.
+Inhaltsverzeichnis
+
+    1 Bankgutschrift
+    2 Abrechnungsgutschrift
+    3 Weblinks
+    4 Einzelnachweise
+
+Bankgutschrift
+
+Als Bankgutschrift werden Zahlungseingänge auf einem Bankkonto verstanden. Nach ständiger Rechtsprechung des Bundesgerichtshofs ist die erteilte Kontogutschrift ein abstraktes Schuldversprechen eines Kreditinstituts nach § 780 BGB gegenüber dem Kontoinhaber. Mit der Gutschrift erwirbt der Bankkunde einen unmittelbaren, allerdings kontokorrentgebundenen Anspruch gegen seine Bank zur Auszahlung des gutgeschriebenen Betrags.[1] Jedoch steht diese Gutschrift noch unter dem Vorbehalt der bankinternen Nachdisposition (insbesondere der nachträglichen Überprüfung der Übereinstimmung von Kontonummer und Empfängerbezeichnung), die mit Gutschrift in einem Kontoauszug als abgeschlossen gilt.
+
+Erst die endgültige Kontogutschrift gilt bei Geldschulden als Erfüllung der Schuld durch den Schuldner. Diese heute herrschende Meinung ergibt sich aus europarechtlicher Vorgaben der Zahlungsverzugsrichtlinie,[2] die nach Nr. 13 allerdings nur im Geschäftsverkehr zwischen Unternehmen und ausdrücklich nicht für Verbraucher gilt. Hiernach sind Geldschulden als modifizierte Bringschulden zu behandeln mit der Folge, dass der Leistungs- und Erfolgsort am Sitz des Gläubigers zusammenfallen. Nach einem Urteil des EuGH vom April 2008[3] ist eine Zahlung durch den Schuldner nur dann rechtzeitig erfolgt, wenn der Gläubiger den Betrag innerhalb der Zahlungsfrist auch tatsächlich durch Kontogutschrift erhalten hat.[4] Der Schuldner muss also dafür sorgen, dass er seine Banküberweisung nicht nur rechtzeitig bei seiner kontoführenden Bank abgibt, sondern der Geldbetrag auch spätestens am Fälligkeitstag dem Gläubiger gutgeschrieben wird. Deshalb wird § 270 Abs. 4 BGB heute nur noch als Bestimmung über den Gerichtsstand aufgefasst, so dass dieser nach § 29 ZPO grundsätzlich der Wohnsitz des Schuldners ist. Da auch das Urteil des EuGH nicht gilt, wenn einer der Beteiligten eine Privatperson ist, bleibt abzuwarten, wie sich die künftige Rechtsprechung hier im Hinblick auf Verbraucher als Beteiligte entwickelt.
+
+Nach § 675t BGB sind Zahlungseingänge unverzüglich nach Eingang zu buchen, die Wertstellung muss taggleich mit dem Datum des Zahlungseingangs erfolgen. Die Buchung einer Gutschrift am auf den Eingang folgenden Geschäftstag bleibt aber weiterhin zulässig, wenn sie unverzüglich erfolgt.[5] Geschäftstage sind hierbei definiert als Werktage, außer Samstag und Sonntag, an denen alle an der Ausführung beteiligten Kreditinstitute gewöhnlich für den Kundenverkehr geöffnet haben. Nicht zu den Geschäftstagen gehören also sowohl Feiertage als auch andere Bankfeiertage.
+
+Im Rahmen der Ziffer 8 AGB-Banken steht den Kreditinstituten unter bestimmten Bedingungen ein Recht der Stornierung von Gutschriften zu. Ohne Rechtsgrund erteilte Gutschriften können nach den Grundsätzen der ungerechtfertigten Bereicherung (§ 812 Abs. 2 BGB) zurückgefordert werden. Das geschieht durch Stornobuchung,[6] die auch vorgenommen werden darf, wenn bei einer „E. v.“-Gutschrift die Inkassopapiere nicht eingelöst worden sind.
+
+Die Gutschrift von Inkassopapieren wie Schecks, Wechseln oder Lastschriften erfolgt mit dem banküblichen Gutschriftshinweis „Eingang vorbehalten (E .v.)“ auf dem Kontoauszug und stellt noch keine endgültige Gutschrift dar; erst mit Einlösung dieser Papiere durch den Schuldner (Scheckaussteller, Wechselbezogener) ist auch dessen Geldschuld erloschen und die Gutschrift endgültig geworden. Der Hinweis stellt klar, dass die Kreditinstitute ein jederzeitiges Recht der Rückbelastung besitzen, sollten die betroffenen Inkassopapiere vom Schuldner nicht eingelöst werden. Der „E. v.“-Gutschrift steht unter der aufschiebenden Bedingung der Einlösung durch den Schuldner.
+Abrechnungsgutschrift
+→ Hauptartikel: Gutschriftverfahren
+
+Mit einer Abrechnungsgutschrift wird, ebenso wie mit einer Rechnung, eine Lieferung oder Leistung abgerechnet. Die Abrechnungsgutschrift stellt jedoch der Leistungsempfänger und nicht der Leistende aus.
+
+Die Gutschrift berechtigt nach § 14 Abs. 2 des Umsatzsteuergesetzes zum Vorsteuerabzug, wenn folgende Voraussetzungen vorliegen:
+
+    Der leistende Unternehmer (Empfänger der Gutschrift) muss zum gesonderten Ausweis der Steuer in einer Rechnung berechtigt sein.
+    Zwischen dem Aussteller und dem Empfänger der Gutschrift muss Einverständnis darüber bestehen, dass mit einer Gutschrift über die Lieferung oder sonstige Leistung abgerechnet wird.
+    Die Gutschrift muss die gleichen Angaben enthalten wie eine Rechnung.
+    Die Gutschrift muss dem leistenden Unternehmer zugeleitet worden sein.
+
+Die Abrechnungsgutschrift verliert die Wirkung einer Rechnung, wenn der Empfänger dem in ihr enthaltenen Steuerausweis widerspricht. Widerspricht der Abrechnungsgutschriftempfänger dem zu hohen Steuerausweis nicht, so schuldet er den zu hohen Betrag. Dazu ist rückwirkend zum 20. Juni 2013 eine Gesetzesänderung in Kraft getreten. Abrechnungen, die auf dem beschriebenen Weg erfolgen, sind seitdem zwingend mit Gutschrift zu betiteln, sonst geht der Vorsteuerabzug verloren. Dies betrifft insbesondere Provisionsabrechnungen, Handelsvertreterabrechnungen und Agenturabrechnungen. Stornorechnungen, die oft unter der Bezeichnung Gutschrift erstellt werden, sind nicht betroffen. Diese dürfen weiter Gutschrift genannt werden, da dies keine Auswirkungen auf die Umsatzsteuer hat.[7]

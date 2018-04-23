@@ -1,0 +1,43 @@
+SEPA (Abkürzung für englisch Single Euro Payments Area, deutsch Einheitlicher Euro-Zahlungsverkehrsraum) ist ein Projekt zur Vereinheitlichung von bargeldlosen Zahlungen. Ziel des Projektes ist ein europaweit einheitlicher Zahlungsraum für bargeldlose Zahlungen in Euro, wobei aber die teilnehmenden Gebiete weit über die Euro-Staaten hinausgehen. In diesem übernationalen Zahlungsraum sollen Kunden keine Unterschiede mehr zwischen nationalen und grenzüberschreitenden Zahlungen erkennen können.
+
+Voraussetzung ist ein übernationales Gebiet mit einem Bankwesen, das Zahlungen nach einem schnellen, sehr effektiven, standardisierten und länderübergreifenden Verfahren erlaubt. Das SEPA-Verfahren legt einen solchen Standard fest.
+
+Das Verfahren wird seit August 2014 im Geschäftsverkehr anstelle der alten Überweisungsverfahren generell benutzt. Diese standen für Privatnutzer noch bis Februar 2016 zur Verfügung, wurden aber bereits im Februar 2014 nicht mehr offiziell erwähnt.
+
+
+Problemstellung und Ziel
+
+Traditionell besteht in jedem Land eine nationale Lösung zur Abwicklung des Zahlungsverkehrs. Diese umfasst
+
+    Rechtsnormen und Vereinbarungen zwischen den Banken (Interbankenvereinbarungen)
+    technische und organisatorische Standards (z. B. Überweisungsformulare, Bankleitzahlensysteme)
+    Clearingstellen und
+    Softwarelösungen.
+
+Parallel dazu gibt es international verbreitete Lösungen (z. B. das Zahlungsverkehrsformat SWIFT).
+
+Durch das Nebeneinander von nationalen und internationalen Lösungen können beispielsweise Auslandszahlungen um ein Vielfaches teurer sein als Inlandszahlungen. Außerdem kann sich durch die Unterschiede der Zahlungsverkehrssysteme die Fehlerquote erhöhen. Im Rahmen der Schaffung eines Europäischen Binnenmarktes beklagt die EU-Kommission seit vielen Jahren, dass dies ein erhebliches Hindernis für den grenzüberschreitenden Handel darstelle.
+
+Ziel des SEPA ist es, bargeldlose Zahlungen innerhalb der Teilnehmerländer so zu standardisieren, dass es für die Bankkunden keine Unterschiede mehr zwischen nationalen und grenzüberschreitenden Zahlungen gibt.
+	Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Die fraglichen Angaben werden daher möglicherweise demnächst entfernt. Bitte hilf der Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Welche Bestimmungen schreiben das vor, insbesondere die Zeitschranken beim Float? BGKS Kulms (Diskussion) 19:32, 15. Mär. 2014 (CET)
+
+Daraus ergeben sich folgende Vorteile:
+
+    der Zahlungsverkehr zwischen den teilnehmenden Ländern wird erleichtert
+    bei Lastschriften gibt es keine Zeitverzögerungen (Float) mehr
+    bei Überweisungen ist der Float auf einen Tag beschränkt (seit 2012, Rechtsvorschrift: s. u.)
+    bestehende Speziallösungen – beispielsweise für grenzüberschreitende Lastschriften – werden durch Standards ersetzt
+    ein einheitliches Dateiformat (XML) ist verbindlich vorgeschrieben – dadurch werden die benötigten Schnittstellen zwischen den Zahlungsverkehrssystemen reduziert
+    die Festlegung auf das Dateiformat XML reduziert den Datenverlust, der bei Konvertierungen entstehen kann
+    es gibt einen gemeinsamen Rechtsrahmen für alle bargeldlosen Zahlungen in Europa
+    die Entwicklung gemeinsamer Standards, Prozesse, Datenformate und Softwarelösungen wird gefördert
+    mittelfristig werden nationale Zahlungsverkehrssysteme ersetzt
+
+Insbesondere der letzte Punkt ist wesentlich, da das parallele Bestehen nationaler und EU-weiter Zahlungsverkehrssysteme zu höheren Kosten führt und die Durchsetzung der EU-Normen verlangsamen oder verhindern würde.
+
+Folgendes wird kritisch betrachtet:
+
+Die Länge der IBAN wird teilweise als umständlich bewertet, da bei der Eingabe längerer Nummern Tippfehler möglich sind. Zum Teil wird darauf mit vorgefertigten Überweisungsformularen reagiert und manche Computerprogramme für den Zahlungsverkehr bieten an, die IBAN aus Bankleitzahl (BLZ) und Kontonummer zu errechnen. Tatsächlich ist die Gefahr, durch Zahlendreher oder Tippfehler eine falsche Überweisung auszulösen, gering, da das dritte und vierte Zeichen also die ersten beiden Ziffern nach der Länderkennung jeder IBAN aus numerischen Prüfziffern besteht.[1] Dass eine falsche Eingabe eine gültige IBAN ergibt ist daher unwahrscheinlich. Beim Online-Banking können Fehler schon während der Eingabe ausgeschlossen werden, bei klassischen Überweisungsformularen auf Papier kann eine ungültige IBAN zu Verzögerungen im Zahlungsverkehr führen. Verglichen mit BLZ und Kontonummer, die keine Prüfziffern enthalten, beugt das IBAN-System Fehlüberweisungen vor.
+
+Die früher übliche Einzugsermächtigung wurde in das SEPA-Mandat umgewandelt, vom 1. Februar 2014 bis zum 1. Februar 2016 lief in Deutschland eine Übergangsfrist.[2]

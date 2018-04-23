@@ -1,0 +1,101 @@
+IBAN
+	Iban ist eine Weiterleitung auf diesen Artikel. Weitere Bedeutungen sind unter Iban (Begriffsklärung) aufgeführt.
+
+Die IBAN (englisch International Bank Account Number, deutsch ‚Internationale Bankkontonummer‘) ist eine internationale, standardisierte Notation für Bankkontonummern. Sie wird durch die ISO-Norm ISO 13616-1:2007 Teil 1 beschrieben.
+Inhaltsverzeichnis
+
+    1 Geschichte
+    2 Abgrenzung zu anderen Systemen
+    3 Verwendung
+        3.1 EU-Überweisungen
+        3.2 SEPA-Überweisung
+        3.3 Inlandsüberweisung mit IBAN
+        3.4 IBAN-Pflicht
+    4 Schreibweise
+    5 Zusammensetzung
+        5.1 IBAN-Struktur in verschiedenen Ländern
+        5.2 Generierung der IBAN
+    6 Validierung der Prüfsumme
+    7 Berechnung der Prüfsumme
+    8 Online-Validierung
+    9 Kritik
+    10 Siehe auch
+    11 Weblinks
+    12 Einzelnachweise
+
+Geschichte
+Verbreitung der IBAN (Stand 27. Dezember 2016)
+﻿IBAN-Struktur ist definiert
+﻿IBAN-Struktur ist bei SWIFT registriert
+﻿Land nimmt an SEPA teil
+﻿Euro ist Landeswährung
+
+Die IBAN wurde entwickelt, um die Zahlungsverkehrssysteme der einzelnen Länder einheitlicher zu gestalten. Die internationale Standardisierung der Struktur aus Prüf- und Kontodaten (Bankidentifikation plus Kontoidentifikation) soll Integrations- und Automatisierungspotentiale für den Datenaustausch zwischen Banken verschiedener Länder erschließen. Darüber sollen international einheitliche Angaben zu Bankverbindungen auch für Unternehmen und Privatpersonen von Vorteil sein, da mögliche Fehlerquellen entfallen.
+
+Seinerzeit von den USA vorangetrieben – die selbst die IBAN aber bis heute nicht umgesetzt haben – sind derzeit die Länder der Europäischen Union die treibende Kraft für die Benutzung der IBAN. Auch außerhalb Europas übernehmen kontinuierlich weitere Staaten diese Notation, insbesondere im Mittelmeerraum, im Nahen Osten und in Mittel- und Südamerika.[1]
+
+Die ISO hat im Januar 2007 die Society for Worldwide Interbank Financial Telecommunication (S.W.I.F.T.) als Registrierungsstelle für nationale IBAN-Formate benannt.
+
+Die Konventionen zur IBAN-Struktur wurden unter der Prämisse getroffen, dass es nicht praktikabel bzw. durchsetzbar ist, eine international einheitliche Methode zur Kennzeichnung von Bankverbindungen festzulegen. Die Notationen für Bankverbindungen in verschiedenen Ländern variieren erheblich; beispielsweise ist die in Deutschland gebräuchliche Trennung von Bankleitzahl zur Kennzeichnung der Bank und Bankkontonummer zur Kennzeichnung des Kontos nicht einmal in Europa durchgängig verbreitet. Entsprechend wurde die Notation der IBAN darauf ausgelegt, den unterschiedlichen lokalen Notationen für Bankverbindungen Rechnung zu tragen und eine Transformation der unterschiedlichen lokalen Bankverbindungsdaten in eine einheitliche IBAN-Struktur zu ermöglichen. ISO 13616-1:2007 Teil 1 definiert die nachfolgend beschriebenen Details zur Zusammensetzung beziehungsweise Struktur sowie zur Berechnung und Überprüfung der Prüfziffern.
+Abgrenzung zu anderen Systemen
+
+Während die IBAN grundsätzlich als eine global eindeutige Bezeichnung eines Kontos definiert ist, kann diese Funktion derzeit noch nicht für alle Konten der Welt genutzt werden. Hintergrund ist die bis Juli 2012 nur für 61 Länder und Territorien erfolgte Definition der IBAN-Strukturen.[1] Das ECBS erwartet, dass der Prozess der weltweiten Akzeptanz fünf bis zehn Jahre dauern kann. Mindestens bis dahin ist es notwendig, die gegenwärtige Darstellung von Bankverbindungen (BIC und Kontonummer) gemäß ISO 9362 in Ländern ohne IBAN für die sichere Abwicklung des internationalen Zahlungsverkehrs weiter zu verwenden.
+
+Auch danach wird es noch länger bei der Verwendung von BIC und IBAN bleiben, denn die IBAN enthält für die derzeitigen Systeme nicht grundsätzlich alle notwendigen Routinginformationen, die mittels BIC definiert werden. Überlegungen, wie zumindest im europäischen Raum die Systeme anzupassen wären, um anschließend auf den BIC verzichten zu können, wurden bereits angestellt.
+
+Mit der Entscheidung für eine IBAN-Pflicht wurde 2012 beschlossen, dass ab dem 1. Februar 2016 die Verwendung der BIC bei SEPA-Überweisungen entfällt.[2][3]
+Verwendung
+
+Die IBAN findet derzeit hauptsächlich beim Zahlungsverkehr innerhalb der Europäischen Union Verwendung. Das gilt sowohl für das Datenträgeraustausch-Verfahren als auch für den Zahlungsverkehr mit Formularen (Zahlungsverkehrsvordrucken). Bankintern wird dagegen nach wie vor mit der Kontonummer und nicht mit der IBAN gearbeitet. Ebenso tragen Schecks nach wie vor die Kontonummer und die alte Bankleitzahl. Auch eine Kartensperre lässt sich weiterhin nur mit Kontonummer und Bankleitzahl veranlassen.
+EU-Überweisungen
+
+Innerhalb der Europäischen Union gehörte die Verwendung der IBAN zu den Voraussetzungen für die Durchführung von EU-Überweisungen, die von den Banken zu gleichen Kosten wie Überweisungen innerhalb eines Landes ausgeführt wurden (Verordnung (EG) Nr. 924/2009, vormals Verordnung (EG) Nr. 2560/2001). Die EU-Überweisung wurde im Rahmen der Euro-Einführung geschaffen und war von 2003 bis 2013 in Kraft. Ihr Nachfolger ist die SEPA-Überweisung. Verbindlich war die EU-Überweisung nur für Beträge in Euro (EUR) sowie für Mitgliedswährungen derjenigen Staaten, die die Richtlinie auf ihre beibehaltene nationale Währung ausgedehnt hatten (de facto nur die Schwedische Krone (SEK)).
+
+Bei der Einführung der EU-Überweisung gab es noch kein elektronisches Zahlungssystem, das allein mit der IBAN eine europaweite Zahlung ermöglichte – daher musste bei der EU-Überweisung neben der IBAN auch die BIC des international gültigen SWIFT-Zahlungssystems angegeben werden. SWIFT definiert kein Datenformat für Überweisungsinformationen, die Auswertung von Konteninformationen bei einer Überweisung obliegt den beiden beteiligten Banken.
+SEPA-Überweisung
+→ Hauptartikel: SEPA
+
+Aufbauend auf der EU-Überweisung wurde die Errichtung eines einheitlichen Euro-Zahlungsverkehrsraums SEPA (Single Euro Payments Area) beschlossen, der die nationalen Zahlungssysteme ab 1. Februar 2014 vollständig ersetzt.[4] Ziel ist die Standardisierung der Zahlungssysteme, so dass kein Unterschied zwischen einer nationalen und einer europaweiten Zahlung besteht. Zu diesem Zweck wurde ein neues, auf XML basierendes, SEPA-Datenformat entwickelt. Seit Januar 2009 sind die Banken verpflichtet, SEPA-Überweisungen, und seit November 2009 ein SEPA-Lastschriftverfahren anzubieten. Da SEPA-Überweisungsdaten auch per SWIFT transportiert werden können, ist auch hier die Abfrage des SWIFT-BIC neben der IBAN üblich.
+
+Zum weiteren Ersatz der nationalen Zahlungssysteme hat der Zentrale Kreditausschuss (ZKA; heute Die Deutsche Kreditwirtschaft) für die Übertragung der Zahlungsverkehrsdaten das neue Zahlungsprotokoll EBICS (Electronic Banking Internet Communication Standard) entworfen, das durch Änderung des DFÜ-Abkommens seit 1. Januar 2008 von allen deutschen Banken zu unterstützen ist. Mit EBICS können Überweisungsinformationen gleichermaßen per IBAN und SWIFT-BIC oder per Kontonummer und BLZ angegeben werden.
+Inlandsüberweisung mit IBAN
+
+Die Bankinstitute der Schweiz empfehlen seit 2009 die generelle Umstellung der bisherigen Kontoinformationen auf IBAN. Obwohl von der deutschen Kreditwirtschaft die SEPA-Überweisung nur für den grenzüberschreitenden Verkehr zwingend vorgesehen ist, werden auch Ziele im Inland damit ausgeführt. Sofern die Bank noch nicht auf ein einheitliches Abwicklungsverfahren („Clearing“) (mit EBICS) umgestellt hat, kann dabei die Überweisung technisch auf unterschiedlichen Wegen erfolgen – in der Konsequenz können Überweisungen mit SEPA/IBAN im Kontoauszug als internationale Überweisung erscheinen, womit auch jenseits von 50.000 Euro eine Unsicherheit besteht, ob die Gebühren identisch abgerechnet werden, und daneben erlaubte die SEPA-Überweisung (übergangsweise bis 2012) noch eine Verrechnung binnen dreier statt eines Arbeitstags. Da mit Ende 2010 die Verpflichtung zur Unterstützung alter Protokolle (FTAM) in Deutschland entfiel, wurde ab 2011 eine allgemeine Vereinheitlichung der technischen Infrastruktur erwartet, die solche Ergebnisse vermeidet.
+
+Eine europaweite Angleichung der Zahlungssysteme wurde für das Jahr 2012 vorgesehen, seitdem SEPA-Überweisungen die nationalen Überweisungen ersetzen können. Voraussetzung dafür ist, dass die SEPA-Standardisierungen auf alle nationalen Zahlungsformen (etwa Scheckzahlung und Kreditkartenzahlung) ausgedehnt werden, um die bisherigen nationalen Zahlungswege abschalten zu können. Die Angabe der IBAN ergibt dadurch in allen Mitgliedsländern eine gültige Kontoverbindung für den nationalen und europaweiten Zahlungsverkehr. Nach einer Übergangsfrist bis 1. Februar 2014 sollen die alten nationalen Kontoverbindungen abgeschaltet werden.
+IBAN-Pflicht
+
+Zum 1. Februar 2016 ersetzte die IBAN in der EU die bestehenden nationalen Kontonummern bei Überweisungen.
+
+Das Europäische Parlament hatte ein Ende der nationalen Verfahren mit einem Endetermin zum 31. Dezember 2012 gefordert.[5] Die Deutsche Bundesbank unterstützte diesen Vorschlag, obwohl es starken Widerstand bei den deutschen Bankinstituten gab.[6] Die Beschlussvorlage der Europäischen Kommission vom 16. Dezember 2010 nannte das Jahr 2013 als Termin für die IBAN-Pflicht bei Überweisungen und das Jahr 2014 für Lastschriftverfahren.[7] Die Übergangsfristen sollten 12 bzw. 24 Monate betragen.[8]
+
+Neben technischen Bedenken, die die Bundesbank für lösbar bis Ende 2011 hielt,[5] wurde gegen die IBAN-Pflicht vor allem angeführt, dass das IBAN-Format Kunden überfordere.[9] Die Möglichkeit, bei IBAN-Überweisungen die BIC fortzulassen, wurde bei einem COGEPS-Treffen (contact group on Euro payments strategy) nicht befürwortet, da in einigen Ländern die IBAN nicht hinreichend Routing-Informationen für das Clearing enthält. Da in Ländern wie Deutschland und Österreich die IBAN die etablierte nationale Bankleitzahl enthält, sind die IBAN-Informationen dort jeweils hinreichend für das Cashclearing von Inlandsüberweisungen, jedoch hatte nur die STUZZA in Österreich dafür 2006 ein Verfahren definiert.[10]
+
+In der Schweiz haben die Banken seit 1. Januar 2006 die Angabe der Kontonummern auf das IBAN-Format mit 21 Stellen umgestellt. In der Übergangsfrist wurden weiter die alten Kontonummern (mit bis zu 16 Stellen) akzeptiert. Seit 1. Januar 2010 ist die Verwendung der IBAN des Begünstigten verpflichtend − Banken dürfen Überweiser ohne IBAN zurückweisen, jedoch machen viele Banken von diesem Recht keinen Gebrauch.[11] Bei Inlandsüberweisungen wird das Routing weiter über die BC-Nummer durchgeführt, die in der IBAN mitkodiert ist. Bei Online-Überweisungen ist es üblich, bei Eingabe der IBAN das Feld mit der BC-Nummer automatisch zu befüllen.[12]
+
+Über die IBAN-Pflicht haben sich EU-Parlament, Rat und Kommission am 20. Dezember 2011 geeinigt; das wurde am 14. Februar 2012 offiziell bestätigt.[2][13] Bis zum 1. Februar 2014 musste die Umstellung der nationalen Zahlungssysteme auf IBAN für die Überweisungen und Lastschriften vollzogen sein; jedoch gab es erneute Übergangsfristen in Deutschland bis 1. August 2014 bzw. 1. Februar 2016, siehe SEPA. Die Verwendung der BIC entfiel für inländische Überweisungen mit der IBAN ebenfalls ab dem 1. Februar 2014; für grenzüberschreitende EU-Überweisungen ist sie seit 1. Februar 2016 entfallen.[2][3] Der Widerstand der deutschen Bankwirtschaft entfiel durch einen Kompromiss, dem zufolge das elektronische Lastschriftverfahren mit Rückgaberecht nach deutschem Muster in den SEPA-Standard aufgenommen wird, eine Vorlage für eine erweiterte Zahlungsdienste-Richtlinie soll bis zum 1. November 2012 vorgelegt werden.[2] Das überarbeitete „Direct Debit Scheme Rulebook“ des SEPA-Lastschriftverfahrens beinhaltet nunmehr zwei Varianten – die „SEPA-Basislastschrift“ (SEPA Core Direct Debit) und die „SEPA-Firmenlastschrift“ (SEPA B2B Direct Debit). Bei der Basislastschrift, und nur dort, besteht die Möglichkeit der Rückbuchung innerhalb von 8 Wochen (56 Tage) ohne Angabe von Gründen. In beiden Varianten ist bei Nachweis eines fehlenden Einziehungsauftrags jedoch ein Antrag auf SEPA-Rücklast binnen einer Frist von 13 Monaten nach dem Belastungsdatum möglich.[14] In der gleichen Verordnung EC 260/2012, die die Verwendung der IBAN fordert, wird die Übernahme der SEPA-Lastschrift zum gleichen Termin 1. Februar 2014 gefordert.[15]
+Schreibweise
+
+Für elektronische Vorgänge ist eine Gruppierung durch Trennzeichen nach ISO 13616-1:2007 Teil 1 nicht zulässig, da Computer sonst mit falschen Werten operieren würden bzw. stets die Trennzeichen vor der eigentlichen Verarbeitung entfernen müssen. Mit elektronischen Vorgängen ist jedoch nur die Kommunikation von Computern untereinander gemeint, nicht jedoch die Kommunikation von Computern mit Menschen.
+Beispiel:
+
+    DE19123412341234123412 „maschinenfreundlich“ ohne Gruppierung
+
+Bei papier- bzw. dokumentenbasierten Vorgängen – beispielsweise Darstellung auf Kontoauszügen, Rechnungen etc. – hat sich durchgesetzt, die Zeichen der IBAN zur besseren Leserlichkeit von links beginnend in Vierergruppen durch Leerraum zu gruppieren. Bei der Dokumentenerstellung, bei digitalen Dokumenten oder etwa Kontoausdrucken wird i. d. R. ein Leerzeichen als Trennzeichen verwendet. Diese Form wird durch die DIN 5008 vorgeschrieben.
+Beispiel:
+
+    DE19 1234 1234 1234 1234 12 DIN-Form, übliche „Papierform“, durch Leerzeichen gruppiert
+
+Für die Mensch-Maschine-Schnittstelle, also etwa die Eingabe in elektronische Formulare oder die Wiedergabe zur Weiterverwendung, ist die visuelle Vierergruppierung ebenfalls etabliert. Der ISO-Standard formuliert jedoch bewusst keinerlei Vorgaben oder Einschränkungen zur Implementierung.[16]
+
+Bei der Eingabe: Bei einigen Softwaresystemen werden während der Zeicheneingabe durch den Benutzer automatisch zusätzliche Leerzeichen zwecks besserer Leserlichkeit eingefügt, die vor der eigentlichen Verarbeitung wieder entfernt werden. Andere Systeme können eine mit Trennzeichen angereicherte IBAN nicht von sich aus verarbeiten.
+
+Bei der Ausgabe: Die meisten Betriebssysteme mit grafischer Oberfläche und Mausbedienung ermöglichen es, ein einzelnes Wort mittels Doppelklick zu markieren (auszuwählen), sodass es kopiert werden kann. Wird eine IBAN auf einer Webseite in „Papierform“ wiedergegeben, würde ein Doppelklick aufgrund der Leerzeichen nur eine einzelne Zifferngruppe auswählen. Durch Markieren und Kopieren der ganzen IBAN wären auch die Trennzeichen im Kopierten enthalten. Beispielsweise mittels CSS kann eine Zeichenkette auch ohne zusätzliche Trennzeichen visuell gruppiert werden. Ein Doppelklick auf eine so formatierte IBAN markiert diese in Gänze.
+Beispiel:
+
+    DE19123412341234123412 „menschenfreundlich“, visuell gruppierte Zeichen werden als einzelnes Wort behandelt
+
+Abweichung von der Norm: Einige (deutsche) Banken gruppieren auf ihren Auszügen etc. die IBAN mitunter nach Bankleitzahl und Kontonummer. Dies ist ISO-konform, nach DIN 5008 jedoch nicht zulässig.
+Beispiel:
+
+    DE19 12341234 1234123412 Abweichung von der Norm, unterstützt bei der Umstellung

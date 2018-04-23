@@ -1,0 +1,136 @@
+Eine Frage zur Auftragsliste im Postbank Online-Banking: Bedeutet der Status "Gebucht", dass das Geld beim Empfänger eingetroffen ist oder ist das erst der Fall, wenn die Transaktion aus der Auftragsliste verschwunden ist?
+
+
+
+Das Online-Banking der Postbank kann Ihnen keine Auskunft darüber geben, ob eine Überweisung bereits beim Konto einer fremden Empfängerbank gutgeschrieben wurde.
+
+Mit dem Status "Gebucht" im Menüpunkt "Auftragslisten" zeigen wir Ihnen an, das der Überweisungsauftrag Ihrem Konto belastet wurde und nun auf dem Weg zum Empfänger ist.
+
+Ist das Empfängerkonto auch ein Postbankkonto, so wird der Betrag in der Regel sofort gutgeschrieben. Ist das Empfängerkonto bei einer anderen Bank, wird der Auftrag noch am gleichen Tag an das Kreditinstitut bzw. die Bundesbank zur Gutschrift weitergeleitet. Hier erfolgt die Gutschrift in der Regel nach maximal 2 Bankarbeitstagen.
+
+Ausgeführte Überweisungen werden nach 7 Tagen aus der Auftragsliste gelöscht.
+
+
+Wenn man am Postbank-Geldautomaten vergessen hat, sein Geld abzuholen und es wieder in den Schlitz eingezogen wurde, wie lange dauert es bis es wieder dem Girokonto gutgeschrieben wird?
+
+
+
+Eine automatische Rückbuchung erfolgt in diesem Fall nicht.
+
+Als erstes sollten Sie zu der zuständigen Filiale für den Geldautomaten gehen und das Versäumnis dort melden. Kann hier keine Hilfe geleistet werden, melden Sie uns bitte den Vorfall enweder formlos schriftlich, per Fax, telefonisch legitimiert unter 0228 5500 5500 oder mit unserem Kontaktformular (z.B. im Online-Banking unter dem Menüpunkt "Service")
+
+Eine Angabe zum Zeitrahmen kann ich Ihnen hier leider nicht geben, da dies von dem Ergebnis der Nachforschung abhängig ist.
+
+Adressen, sowie Fax- und Rufnummern finden Sie hier: Privatkunden
+
+Wie lange dauert es bis zur Gutschrift auf dem Girokonto, wenn bar bei einem Cash Recycler eingezahlt wurde?
+
+
+
+Einzahlungen an einem Postbank Automaten werden taggleich auf dem Konto verbucht.
+
+
+Wenn eine Lastschrift mangels Deckung nicht gebucht wird, muss man sich dann selbst um eine erneute Abbuchung kümmern oder übernimmt das die Postbank automatisch?
+
+
+
+Wurde die Lastschrift mangels Deckung nicht gebucht, wird der Auftrag seitens der Postbank nicht erneut ausgeführt.
+
+In diesem Fall sollten Sie direkt Kontakt mit dem Einzieher aufnehmen und klären, ob er einen erneuten Einzug durchführt, oder Sie das Geld per Überweisung transferieren.
+
+
+Entstehen mir Kosten wenn ich eine Überweisung aus dem Ausland auf mein Postbank Girokonto bekomme?
+
+
+
+Normalerweise nein. Denn für eine Gutschrift aus dem Ausland berechnen wir bei einem privaten Girokonto keine Entgelte.
+
+Bitte beachten Sie: Falls der Auftraggeber für die Überweisung eine "BEN"-Zahlung wählt, kann es für Sie zu Kosten kommen. Denn dann tragen Sie die Entgelte der zwischengeschalteten Zahlungsdienstleister.
+
+Bitte klären Sie dies also vorher mit dem Auftraggeber. Unsere Empfehlung: eine "SHARE"-Zahlung. Denn in diesem Fall fällt für Sie kein Entgelt an.
+
+An wen wende ich mich bei einer fehlenden Scheckgutschrift?
+
+
+
+Haben Sie den Scheck bereits vor längerer Zeit an die Postbank geschickt und können noch keine Gutschrift sehen?
+
+Erfragen Sie in solch einem Fall beim Scheckaussteller, ob der Scheckbetrag seinem Konto belastet wurde. Wurde der Scheck nicht belastet, bitten Sie den Scheckaussteller, den Scheck bei seiner Bank zu sperren und Ihnen einen neuen Scheck auszustellen.
+
+Wurde der Scheckbetrag belastet, teilen Sie uns bitte nähere Daten wie Schecknummer und -betrag, Scheckaussteller sowie den Tag der Einreichung mit. So können wir dies einfach und schnell für Sie überprüfen.
+
+Wenden Sie sich bitte an unseren Kundenservice. Dazu haben Sie folgende Möglichkeiten:
+
+    telefonisch über das Telefon-Banking unter 0228 5500 5500
+    per TAN-legitimiertes Kontaktformular (z.B. im Banking unter dem Menüpunkt "Service")
+    schriftlich oder per Fax
+
+Alle Kontaktmöglichkeiten finden Sie hier zusammengefasst: Privatkunden
+
+Kann bei einer Gutschrift eingesehen werden, wann genau der Absender seinen Auftrag erteilt hat?
+
+
+
+Nein, das ist nicht möglich.
+
+Sie sehen in Ihrer Umsatzauskunft nur den Eingangs- und Buchungstag der Gutschrift. Den Belastungstag können Sie nicht sehen.
+
+Wenn der Auftrag online erteilt wurde, erfolgt die Gutschrift am Bankgeschäftstag nach der Belastung. Erfolgte die Auftragserteilung mit einem Beleg, dauert die Gutschrift zwei Tage. Die Frist berechnet sich nach Bankgeschäftstagen. Samstage, Sonntage und Feiertage (wie Heiligabend und Silvester) zählen nicht dazu.
+
+Damit das genaue Datum der Belastung geklärt werden kann, setzen Sie sich mit dem Auftraggeber in Verbindung.
+
+Wie lange kann eine Gutschrift zurückgebucht werden?
+
+
+
+Normalerweise wird eine fehlerhafte Gutschrift vom Kontoinhaber selbst zurücküberwiesen. Dafür gibt es kein besonderes Zeitlimit.
+
+Soll die Rückbuchung durch die Postbank ausgeführt werden, z.B. über das Kontaktformular oder das Telefon-Banking unter 0228 5500 5500, kann die Gutschrift innerhalb von 10 Jahren zurückgebucht werden.
+
+Sind Gutschriften und Einzahlungen das Gleiche?
+
+
+
+Auch wenn beide Zahlungsarten auf dem Konto zu einer Erhöhung des Guthabens führen, sind sie nicht identisch:
+
+Gutschrift = Betrag wird nach bargeldloser Überweisung dem Konto gutgeschrieben.
+
+Einzahlung = Gutschrift erfolgt nach einer Bareinzahlung am Schalter einer Filiale der Deutsche Post AG oder in einem Postbank Finanzcenter.
+
+Wichtig für das Kontoführungsentgelt: Gutschriften zählen als Zahlungseingang, Bareinzahlungen dagegen nicht.
+
+
+In meinen Umsätzen erscheint eine fremde Gutschrift, zusammen mit einem Hinweis das ich diese zurücküberweisen soll. Was ist das und wie soll ich mich verhalten?
+
+
+
+Achtung, Ihr Rechner wird durch eine Schadsoftware manipuliert. Die Seite, auf der Ihnen die Gutschrift anzeigt wird und Sie auffordert, den Betrag zurück zu buchen (Rücküberweisung / Testüberweisung), ist gefälscht.
+
+Bitte führen Sie die Überweisung keinesfalls aus.
+
+Melden Sie sich umgehend telefonisch bei unseren Online-Spezialisten unter der Service-Hotline 0800 1008906. Diese können Ihren Online Banking-Zugang sperren und mit Ihnen die weitere Vorgehensweise besprechen.
+
+Grundsätzlich empfehlen wir Ihnen mit Virenscanner und Firewall für einen ausreichenden Schutz Ihres Computers und Smartphones zu sorgen. Halten Sie die Sicherheitssoftware wie auch das Betriebssystem durch regelmäßige Updates immer auf dem neuesten Stand.
+
+
+Wird bei der Postbank an Allerheiligen gebucht?
+
+
+
+Da es sich bei Allerheiligen nur um einen regionalen Feiertag handelt, führt die Postbank auch an diesem Tag das Buchungsgeschäft normal weiter.
+
+
+Was bedeutet im Online-Banking der Postbank im Menüpunkt "Auftragslisten" der Status: "gebucht - in Nachbearbeitung"?
+
+
+
+Liegt ein Auftrag "in Nachbearbeitung", wurde der Auftrag von der Bank entgegengenommen - jedoch noch nicht ausgeführt.
+
+Dies kann unterschiedliche Gründe haben, z.B. wenn ein Konto keine ausreichende Deckung hat oder es wird aufgrund einer hohen Summe aus Sicherheitsgründen noch eine manuelle Prüfung durchgeführt.
+
+Finden bei der Postbank am Rosenmontag Buchungen statt?
+
+
+
+Ja, der "Rosenmontag" ist ein ganz normaler Bankarbeitstag, da es sich nur um ein regionales Brauchtum aber nicht um einen offiziellen bundesweiten Feiertag handelt.
+

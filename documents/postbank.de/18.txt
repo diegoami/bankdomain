@@ -1,0 +1,133 @@
+Wo findet man seinen Swift Code?
+
+
+
+Den BIC (Swift Code) und die IBAN zur Ihrem Konto finden Sie
+
+• in der Kopfzeile des Kontoauszugs
+
+• im Online-Banking der Postbank: Klicken Sie in der Kontenübersicht den Namen des Kontos an. Unterhalb der Kontonummer stehen die IBAN für Ihr Konto und der BIC der Postbank PBNKDEFF
+
+Wie findet man seine IBAN und BIC, wenn das Postbank Online-Banking nicht freigeschaltet ist und man keinen Kontoauszug zur Hand hat?
+
+
+
+Die IBAN und BIC sind bereits bei den meisten Postbank Cards (Debitkarte) auf der Rückseite abgedruckt.
+
+Sollten Sie ggf. noch eine Karte ohne Aufdruck besitzen, suchen Sie bitte mit der Postbank Card (Debitkarte) ein Postbank Finanzcenter auf und lassen sich IBAN und BIC nennen.
+
+Ein Postbank Finanzcenter in Ihrer Nähe finden Sie hier: Filialsuche
+
+Alternativ können Sie sich auch mit Ihrem Anliegen telefonisch unter 0228 5500 5500 an die Mitarbeiter unseres Kundenberatungscenters wenden. Bitte halten Sie hierfür Ihre Telefon-Banking PIN bereit.
+
+
+Ist es möglich, Einzugsermächtigungen im europäischen Ausland zu erteilen?
+
+
+
+Ja, solange dieses Land mit im SEPA-Verbund ist, können von dort auch Lastschriften auf deutschen Konten eingezogen werden.
+
+Eine Liste der teilnehmenden Länder finden Sie hier.
+
+Wichtig:
+
+Bitte teilen Sie dem Zahlungsempfänger Ihre IBAN und den BIC mit. Ihre IBAN finden Sie in der Kopfzeile des Kontoauszugs. Im Online-Banking der Postbank klicken Sie in der Kontenübersicht den Namen des Kontos an. Unterhalb der Kontonummer stehen die IBAN für Ihr Konto und der BIC der Postbank PBNKDEFF.
+
+
+Ich möchte eine Auslandsüberweisung in ein Nicht-SEPA Land durchführen, wo trage ich im Online-Banking den Swift-Code ein?
+
+
+
+Wählen Sie im Online-Banking den Punkt "Auslandsüberweisung", dann "neue Auslandsüberweisung".
+
+Geben Sie die Daten dort bitte in dem Feld "BIC oder BankCode" ein.
+
+Vergessen Sie nicht, auch die Kontonummer des Empfänger einzugeben.
+
+
+Ich möchte eine Einzugsermächtigung im Ausland erteilen. Nun werde ich nach "codes guichet" und "code banque" gefragt. Welche Nummern sind das?
+
+
+
+Bitte teilen Sie dem Einzieher Ihre IBAN und die BIC mit. Diese werden in den verschiedenen Ländern auch anders bezeichnet. In Frankreich z.B. codes guichet oder code banque für die BIC.
+
+Ihre IBAN und BIC sehen Sie im Online-Banking in der Kontenübersicht.
+
+Wie kann ich mein Konto so einstellen, dass ich Geld per SNCE oder ETF bekommen kann?
+
+
+
+Die von Ihnen genannten Zahlungsverfahren werden seitens der Postbank nicht unterstützt. Eine Umstellung des Kontos ist daher leider nicht möglich.
+
+Möchten Sie Zahlungen (Gutschriften) aus dem Ausland erhalten, geben Sie dem Absender bitte Ihre IBAN und BIC. Diese sollte, neben Ihrem Namen und Ihrer Anschrift, für den Transfer ausreichen.
+
+
+Kann ich Auslandsüberweisungsauftragsformulare auch für Inlandsüberweisungen verwenden? Ich verfüge noch über mehrere dieser Formulare. Ich kann hier ja IBAN und BIC des Empfängers einsetzen.
+
+
+
+Nein, das von Ihnen angesprochene Auslandsüberweisungsformular kann nicht für Inlandsüberweisungen genutzt werden, sondern ist nur für Überweisungen in Fremdwährung oder in Euro außerhalb des Europäischen Währungsraumes zu nutzen.
+
+
+Ich habe eine SEPA-Überweisung ins Ausland versehentlich als Inlandsüberweisung online eingegeben. IBAN und BIC waren richtig angegeben. Die Abbuchung auf meinem Konto ist erfolgt. Muss ich mir Sorgen machen, dass das Geld beim Empfänger ankommt?
+
+
+
+Für SEPA-Überweisungen in eine SEPA-Teilnehmerland können Sie auch die Funktion "Inlandsüberweisung" nutzen.
+
+Geben Sie in der Inlandsüberweisungsmaske eine gültige IBAN aus einem SEPA-Teilnehmerland ein, öffnet sich automatisch das zusätzlich benötigte Eingabefeld für den BIC. Der Auftrag wird entsprechend Ihrer Angaben richtig als SEPA-Überweisung weitergeleitet.
+
+Auf dem Kontoauszug befindet sich die BIC, ohne die Nr. der kontoführenden Stelle. Wie kann ich die letzten 3 Ziffern der BIC in Erfahrung bringen? Selbige werden für Lastschriften erfragt.
+
+
+
+Die Postbank veröffentlicht regelmäßig nur den 8-stelligen BIC-Code.
+
+Dieser lautet PBNKDEFF und ist für die Abwicklung des Zahlungsverkehrs absolut ausreichend.
+
+Sie können die Postbank über drei Varianten bei der Eingabe des BIC-Codes erreichen. Beispiel für ein Konto, welches zur Bankleitzahl 100 100 10 (Postbank Berlin) gehört:
+
+PBNKDEFF
+
+PBNKDEFFXXX
+
+PBNKDEFF100
+
+Alle drei Varianten sind gleichermaßen gültig. Im Regelfall genügt die erste und einfachste: PBNKDEFF.
+
+
+
+
+Was bedeutet die BIC PBNKDEFF aufgeschlüsselt?
+
+
+
+Die BIC der Postbank wird wie folgt aufgeschlüsselt:
+
+    PBNK = Postbank
+    DE      = Deutschland
+    FF       = Frankfurt am Main
+
+Wie lautet der International Routing Code der Postbank?
+
+    Antwort der Postbank von Daniel P.
+
+    Der internationale Routing Code der Postbank, auch BIC oder SWIFT genannt, lautet: PBNKDEFF
+
+Was kosten personalisierte Überweisungsträger (mit IBAN-Nr.)
+
+
+
+Die Entgeltregelung zur Bestellung der Überweisungsvordrucke (Euro-Überweisungsvordrucke für Sepa-Aufträge) ist abhängig von dem gewählten Kontomodell. Infos dazu finden Sie in unserem  Preisverzeichnis im Downloadcenter (Seite 37, Abschnitt 12.1)
+
+Auf einem dieser Wege können Sie die Überweisungen bestellen:
+
+- per Kontaktformular
+
+- per Telefon-Banking
+
+- per FAX
+
+- per Brief
+
+Die Telefon- und FAX-Nummer sowie die Adressen der Postbank finden Sie hier: Privatkunden

@@ -1,0 +1,113 @@
+Die Überweisung (englisch wire transfer) ist im bargeldlosen Zahlungsverkehr ein Zahlungsinstrument, bei dem der zahlungspflichtige Schuldner mittels Weisung an sein kontoführendes Kreditinstitut Buchgeld zu Lasten seines Girokontos an das Institut des Zahlungsempfängers (Gläubiger) übertragen lässt.
+Inhaltsverzeichnis
+
+    1 Allgemeines
+    2 Geschichte
+    3 Ablauf
+        3.1 Gironetze in Deutschland
+        3.2 EU-Preisverordnung/EU-Standardüberweisung
+    4 Rechtsfragen
+        4.1 Ausführungsfristen
+        4.2 Fristberechnung
+        4.3 Wertstellungspraxis
+        4.4 Fristwahrung
+    5 International
+    6 Sicherheitsaspekte
+    7 Siehe auch
+    8 Weblinks
+    9 Einzelnachweise
+
+Allgemeines
+
+Beteiligte bei der Überweisung sind der zahlungspflichtige Auftraggeber (Schuldner), dessen kontoführende Bank, die kontoführende Bank des Zahlungsempfängers und der Zahlungsempfänger (Gläubiger). Die Überweisung ist neben Scheck, Wechsel, Lastschrift und Zahlung durch Kredit-, Debit- oder Chargekarte ein Zahlungsinstrument des bargeldlosen Zahlungsverkehrs. Während bei Scheck, Wechsel und Lastschrift die Aktivität vom Zahlungsempfänger ausgeht, löst bei der Überweisung der Zahlungspflichtige den Zahlungsvorgang aus. Der überwiegende Umsatzanteil an allen bargeldlosen Transaktionen entfiel in Deutschland im Jahre 2013 auf Überweisungen, deren Anteil seit Jahren stabil bei etwa 80 % aller unbaren Zahlungsinstrumente liegt.
+Bargeldlose Zahlungen in Deutschland durch Nichtbanken im Jahr 2013[1] Zahlungsinstrument 	Volumen
+in Mio. € 	Anteil (%) 	Transaktionen
+in Mio. Stück 	Anteil (%)
+Überweisungen 	57.058.258 	80,9 	6.272 	31,5
+Lastschriften 	13.089.319 	18,6 	9.932 	49,8
+Schecks 	198.644 	0,3 	32 	0,2
+Debitkarten/Electronic Cash 	164.709 	0,2 	2.952 	14,8
+Kreditkarten 	59.083 	0,1 	714 	3,6
+E-Geld-Funktion 	108 	0,0 	32 	0,2
+Gesamt 	70.570.121 	100 	19.934 	100
+Geschichte
+
+Die Ursprünge des Zahlungsverkehrs lassen sich bis auf die altbabylonische Zeit nachweisen, als mittels Anweisungen über Getreideguthaben beim Bankier verfügt werden konnte.[2] In Griechenland waren es vor allem die Trapeziten (heute noch griechisch τραπεζα trapeza für ‚Bank‘), die von Privatpersonen Depositen entgegennahmen und Aufträge zur Zahlungsleistung ausführten.[3] Das römische Pendant waren die Argentarii, die Zahlungen durch Umschreibung in ihren Geschäftsbüchern vermittelten. Die römischen Ausdrücke rescribere oder remittere erhielten die Bedeutung von ‚bezahlen‘.[4] Die erste Bank mit organisiertem Giroverkehr war der Genueser Banco di San Giorgio, der Ende 1407 gegründet wurde. Es folgten der Banco di Rialto (1587) und der Banco Giro (1619), der erstmals das Wort giro (ital. ‚Kreis‘, ‚Kreislauf‘) in ihrem Namen trug und Kommunalkredite an die Stadt Venedig vergab.
+
+Die den Handelsverkehr störende Münzverschlechterung führte zur Einführung des Buchgeldes auch in Deutschland. Die 1619 gegründete Hamburger Bank war die erste mit ausschließlichem Zweck des Giroverkehrs auf Grundlage der exklusiv bei ihr geltenden Währung „Mark Banko“. Sie wurde 1876 von der Reichsbank übernommen und fungierte seitdem als Reichsbank-Hauptstelle.[5] Das Reichsbankgesetz vom 14. März 1875 stellte in § 13 fest, dass die Reichsbank befugt war, „Gelder im Depositen- und im Giroverkehr anzunehmen“. Sie ersetzte im Wege des Giroverkehrs Bargeldzahlungen durch Buchgeldübertragungen.[6] Sie gab dem Giroverkehr eine zentralisierte Struktur, indem sie 1883 lokale Abrechnungsstellen schuf, wo die Banken ihre gegenseitigen Forderungen verrechneten. Ihre „Girozahlung“ bestand in der „Ab- und Zuschreibung von Depositen in den Bankbüchern“.[7]
+
+Die deutsche Wirtschaftskrise des Jahres 1907 gab einen weiteren Anstoß zur Einführung des bargeldlosen Zahlungsverkehrs, um die Geldversorgung der Wirtschaft unabhängiger vom Bargeld zu gestalten.[8] Seit 1910 stieg die Bedeutung der Zahlungsverkehrsfunktion für Landesbanken oder Girozentralen, da sie zur zentralen Verrechnungsstelle bei der Beschleunigung des bargeldlosen Zahlungsverkehrs wurden.[9] Seit dem 1. November 2017 gibt es die Möglichkeit, in Echtzeit zu überweisen.[10]
+Ablauf
+
+Überweisungen werden seit Januar 2008 (mit verschiedenen Übergangsfristen, die für Unternehmen bis zum 1. August 2014 und für Verbraucher bis zum 1. Februar 2016 reichten[11]) durch das europaweit bestehende bargeldlose SEPA-Verfahren abgewickelt. Mit der SEPA-Überweisung können nicht nur Inlands-, sondern auch Auslandsüberweisungen in Euro (innerhalb der EU und nach der Schweiz, Liechtenstein, Island und Norwegen) vorgenommen werden. Auf der SEPA-Überweisung sind von oben nach unten durch den Auftraggeber folgende Daten auszufüllen:
+
+    Name des Empfängers bzw. Begünstigten
+    IBAN: (internationale Kontonummer) des Empfängers bzw. Begünstigten
+    Überweisungsbetrag in Euro inkl. Centwert
+    Verwendungszweck
+    Angaben zum Absender bzw. Kontoinhaber (z. B. vollständiger Name, Firma, Ort)
+    IBAN des Absenders bzw. Kontoinhabers
+
+Der mit diesen Daten ausgefüllte Überweisungsauftrag wird vom Auftraggeber unterschrieben oder autorisiert und der kontoführenden Bank eingereicht (beleglos im Online-Banking oder beleggebunden). Diese prüft die Angaben und leitet den Überweisungsauftrag mittels Datenträgeraustauschverfahren an eine zentrale Verrechnungsstelle zum Clearing an den SEPA-Clearer des EMZ weiter.
+
+Welche Verrechnungsstelle eingeschaltet wird, hängt von dem kontoführenden Institut des Zahlungsempfängers ab. Eine Verrechnungsstelle ist ausnahmsweise nicht erforderlich, wenn Auftraggeber und Zahlungsempfänger der Überweisung beim selben Institut ihre Konten führen (Hausüberweisung). Unterhält der Zahlungsempfänger ein Konto bei einem Institut, das demselben Gironetz wie das kontoführende Institut des Auftraggebers angehört, so wird etwa im Sparkassenwesen die Girozentrale eingeschaltet. Alle übrigen institutsübergreifenden oder nicht in einem Gironetz unterzubringenden Überweisungen werden von der Deutschen Bundesbank im Rahmen des Settlements ausgeglichen.
+Gironetze in Deutschland
+
+In Deutschland existieren für Überweisungen zwischen den Kreditinstituten fünf so genannte Gironetze oder Girokreise, die ihrerseits ebenfalls vernetzt sind und auch Zahlungen mit dem Ausland abwickeln:[12]
+
+    das Netz für den Giroverkehr der Deutschen Bundesbank und ihrer Hauptverwaltungen. In diesem Girokreis stand bis 2007 das System RTGSplus für Zahlungen in Echtzeit zur sofortigen Verrechnung gegen Aufpreis zur Verfügung, welches durch TARGET2 ersetzt wurde. Über das herkömmliche System EMZ verarbeitet die Bundesbank arbeitstäglich rund neun Millionen Aufträge im Gegenwert von fünf Milliarden Euro.[13]
+    das Postgironetz der Deutschen Postbank AG
+    das Netz für den Privatgiroverkehr der Kreditbanken (Direktbanken, Großbanken, Regionalbanken und Privatbanken)
+    das Spargironetz der Deutschen Girozentrale, der Kommunalbanken und der Sparkassen
+    das Netz für den Ringgiroverkehr der Genossenschaftsbanken[14]
+
+EU-Preisverordnung/EU-Standardüberweisung
+
+Die Europäische Gemeinschaft hat in der Verordnung 2560/2001 vom Dezember 2001[15] („EU-Preisverordnung“), die 2003 in Kraft trat, geregelt, dass für grenzüberschreitende Überweisungen zwischen den Mitgliedsstaaten der EU die gleichen Gebühren gelten müssen wie für Überweisungen innerhalb des Landes, in dem die Überweisung beauftragt wird. Diese Regelung gilt für Zahlungen, die auf Euro lauten, einen Betrag von 50.000 Euro nicht überschreiten und bei denen die International Bank Account Number (IBAN) und der SWIFT-BIC angegeben sind. Im Jahr 2005 sind auch die EWR-Staaten (Norwegen, Island, Liechtenstein) der EU-Preisverordnung beigetreten, so dass Überweisungen, die die Bedingungen der Verordnung erfüllen, ebenfalls wie EU-Standardüberweisungen bepreist werden.[16]
+
+Zahlungen über 12.500 Euro müssen weiterhin der Bundesbank zur Außenwirtschaftsstatistik gemeldet werden.[17]
+Rechtsfragen
+
+Die Überweisung ist eine geschäftsbesorgungsrechtliche Weisung nach § 665 BGB, wonach das beauftragte Kreditinstitut den Überweisungsauftrag so ausführen soll, wie es der Auftraggeber bestimmt.[18] Der Überweisungsauftrag ist kein Auftrag im Rechtssinne, sondern ein Überweisungsvertrag.[19] Das Angebot zum Abschluss eines Überweisungsvertrags geht vom Auftraggeber aus und kann schriftlich oder elektronisch abgegeben werden. Die Angebotsannahme liegt in der Bearbeitung des Überweisungsauftrages durch die Bank oder in ihrem Schweigen nach § 362 Abs. 1 HGB.[20] Überträgt das auftragnehmende Institut mit Erlaubnis des Auftraggebers (durch AGB) – bei der Nutzung institutsübergreifender Gironetze – die weitere Ausführung auf andere Banken, so muss es nach § 664 Abs. 1 Satz 2 BGB nur für die falsche Auswahl und Anleitung einstehen.[21] Weicht das beauftragte Institut hingegen unbefugt von einer Weisung des Auftraggebers ab, verletzt es den Geschäftsbesorgungsvertrag und ist nach § 280 Abs. 1 Satz BGB zum Schadensersatz verpflichtet.
+
+Materielle Rechtsgrundlage der Überweisung ist europaweit die seit Oktober 2009 geltende Zahlungsdiensterichtlinie.[22] Danach wird eine Überweisung wirksam, wenn sie der kontoführenden Bank des Auftraggebers zugeht (§ 675n Abs. 1 Satz 1 BGB). Ein Überweisungsauftrag kann von der kontoführenden Bank des Auftraggebers etwa wegen mangelnder Kontodeckung abgelehnt werden (§ 675o Abs. 1 Satz 1 BGB). Verweigert die Bank die Ausführung von Überweisungen, weil das Kundenkonto nicht gedeckt ist, darf sie nach § 675o Abs. 1 Satz 4 BGB eine Gebühr berechnen. Der Rückruf/Widerruf einer Überweisung durch den Auftraggeber ist bis auf extreme Ausnahmefälle nicht mehr möglich (§ 675p Abs. 1 BGB). Dabei werden – innerhalb einer Rückruffrist von 10 TARGET-Tagen nach Ausführung – nur drei Rückrufgründe akzeptiert, nämlich Doppelausführung, fehlerhafte Überweisung infolge technischer Probleme und durch Betrug entstandene Überweisungen. Es bleibt der Empfängerbank überlassen, ob sie den Überweisungsbetrag zurücküberweist. Ein sonstiger Widerruf der Überweisung ist praktisch fast unmöglich, da bei Inlandsüberweisungen der Überweisungsbetrag dem Empfängerkonto noch nicht gutgeschrieben sein darf[23] und die sehr kurze Ausführungsfrist von lediglich 1 Tag (siehe unten) dagegen steht. Nach herrschender Meinung ist ein Widerruf nur solange möglich, bis die Gutschrift auf dem Konto der Bank des Empfängers erfolgt ist, also diese Bank Deckung erlangt hat.[24] Bei der Hausüberweisung (Auftraggeber und Empfänger haben Konten bei derselben Bank) ist deshalb ein Widerruf nur bis zur Kontobelastung des Auftraggebers möglich.[25] Eine fehlerhafte Überweisung kann durch Nachforschungsauftrag nachvollzogen werden; er kann bei der kontoführenden Bank des Auftraggebers angefordert werden. Gemäß § 675z BGB darf die Bank – außer für den Fall von Vorsatz oder grober Fahrlässigkeit, Zinsschaden und Gefahren, die sie besonders übernommen hat – die Haftung in ihren AGB auf 12.500 Euro begrenzen.[26]
+
+In der Praxis erklären einige Institute jede eingegangene SEPA-Überweisung als widerruflich.[27] Die Literatur nennt Vorfälle, in denen eine laxe Handhabung von sogenannten "SEPA SCT Recall"-Anfragen es ermöglichte, betrügerisch Überweisungen zurückzurufen, nachdem die Zahler bezahlte Waren oder Dienstleistungen erhalten haben.[28]
+
+Formelle Vorschriften sind die „Sonderbedingungen für den Überweisungsverkehr“, die jedes Kreditinstitut als Teil der AGB bei Überweisungen der Kunden zugrunde legt.
+Ausführungsfristen
+
+Es gibt für Überweisungen maximale gesetzliche Ausführungsfristen. Ausführungsfrist ist der Zeitraum zwischen dem Eingangstag eines Zahlungsauftrages bei der Bank des Auftraggebers und dem Tag der endgültigen Gutschrift auf dem Bankkonto des Zahlungsempfängers. Es gelten die folgenden Fristen:[29]
+
+    1 Tag für Überweisungen in Euro innerhalb des EWR,
+    2 Tage für Überweisungen, die mittels eines Überweisungsvordrucks (d. h. beleggebunden) in Auftrag gegeben werden,
+    4 Tage für Überweisungen innerhalb des EWR, die nicht in Euro erfolgen,
+    keine Fristen bei Überweisungen außerhalb des EWR.
+
+Von den vorstehend genannten Fristen darf grundsätzlich nicht zum Nachteil des Kunden abgewichen werden.[30]
+
+Kürzere Ausführungsfristen bieten Geldinstitute unter Bezeichnungen wie „Eil“-, „Blitz“- oder „Schnellüberweisung“ an. Sie ermöglichen die Wertstellung am selben Tage.
+
+Bis zum 1. Januar 2012 betrug die Frist [31]
+
+    3 Tage für Überweisungen in Euro innerhalb des EWR,
+    4 Tage für Überweisungen, die mittels eines Überweisungsvordrucks (d. h. beleggebunden) in Auftrag gegeben werden.
+
+Fristberechnung
+
+Für die Fristberechnung sind die so genannten Geschäftstage maßgeblich. Dies sind die Tage, an denen alle an der Ausführung der Überweisung beteiligten Kreditinstitute den hierfür notwendigen Geschäftsbetrieb unterhalten (§ 675n BGB). Samstage, Sonn- und Feiertage sowie Tage, an denen Banken ihre Schalter nicht öffnen (Bankfeiertage), sind keine Geschäftstage. Für Überweisungen beginnt daher die Ausführungsfrist erst bei Zugang der Überweisung an einem (Bank-)Geschäftstag. Nach § 675n BGB können nahe am Ende eines Geschäftstags (beispielsweise nach Schalterschließung) erteilte Aufträge erst als am nächsten Geschäftstag zugegangen gelten. Dies hat zur Folge, dass sich die Höchstgrenze für die Überweisungsdauer entsprechend verlängert.
+Wertstellungspraxis
+
+Hinsichtlich der Wertstellungspraxis gilt § 675t BGB, wonach bei Überweisungen die Zahlungseingänge unverzüglich nach Eingang zu buchen sind und die Wertstellung taggleich mit dem Zahlungseingang erfolgen muss. Es kann davon ausgegangen werden, dass die Buchung einer Gutschrift am auf den Eingang folgenden Geschäftstag weiterhin zulässig ist.[32] Der Gesetzestext greift dabei die Rechtsprechung des Bundesgerichtshofs zur Wertstellung[33] bei eingehenden Überweisungen auf. Der BGH hatte klargestellt, dass die Gutschrift, auch wenn sie nachträglich erfolgt, so vorzunehmen ist, dass die Wertstellung des eingegangenen Betrages auf dem Konto des Kunden mit dem Datum des Tages erfolgt, an dem der Betrag dem Kreditinstitut zur Verfügung gestellt worden ist. Lediglich mit Unternehmen kann das begünstigte Kreditinstitut eine abweichende Wertstellungsvereinbarung für Bareinzahlungen treffen, da sich die gesetzliche Regelung auf Verbraucher bezieht.
+Fristwahrung
+
+Die Überweisung ist eine Zahlung durch Buchgeld, das kein gesetzliches Zahlungsmittel darstellt und daher keinen Annahmezwang beim Gläubiger auslöst.[34] Dabei ist zu berücksichtigen, dass die Empfängerbank nicht „Dritter“ im Sinne des § 362 Abs. 2 BGB ist, sondern lediglich als Zahlstelle des Zahlungsempfängers fungiert.[35] Das erforderliche Einverständnis des Zahlungsempfängers zu einer Überweisung kann stillschweigend in der Bekanntgabe seines Girokontos auf Geschäftsbriefen oder Rechnungen gesehen werden. Bei einer Banküberweisung wird der zur Erfüllung erforderliche Leistungserfolg mangels anderer Vereinbarung nur dann erzielt, wenn der Gläubiger den geschuldeten Geldbetrag endgültig zur freien Verfügung erhält.[36] Das ist der Fall, wenn der überwiesene Betrag dem Gläubigerkonto gutgeschrieben wird[37] und der Gläubiger alleinige Verfügungsbefugnis über das Konto besitzt (also Einzelkonto oder „Oder-Konto“ beim Gemeinschaftskonto). Diese Rechtsprechungspraxis hat der Europäische Gerichtshof bestätigt. Auch er war der Auffassung,[38] dass eine Zahlung mittels Überweisung nur dann rechtzeitig erfolgt, wenn der Überweisungsbetrag innerhalb der mit dem Schuldner vereinbarten Zahlungsfrist bei der Empfängerbank eingegangen ist. Das gilt auch bei Zahlungen an eine Behörde, bei der ein Betrag erst dann als bezahlt angesehen wird, wenn er auf dem Konto der Behörde gutgeschrieben wurde.
+International
+
+SEPA-Teilnehmerländer[39] sind alle 28 Mitglieder der Europäischen Union (inklusive der französischen Übersee-Départements Guadeloupe, Französisch-Guayana, Martinique, Réunion, Mayotte (seit dem 31. März 2011) und Saint-Pierre und Miquelon, der zu Spanien gehörenden Kanarischen Inseln, der Exklaven Ceuta und Melilla sowie der portugiesischen Inseln Azoren und Madeira). Ferner gehören dem SEPA die Schweiz, Monaco und San Marino an, sowie die drei übrigen Länder des Europäischen Wirtschaftsraums, Island, Liechtenstein und Norwegen. Für die Nicht-EWR-Mitglieder Schweiz, Monaco und San Marino gilt allerdings die Sondersituation, dass sie zwar an die SEPA-Regelwerke, aber nicht an die EU-Verordnungen und EU-Richtlinien gebunden sind.
+
+Nicht zum SEPA gehören die britischen Kanalinseln Jersey und Guernsey, die Isle of Man, die dänischen Färöer-Inseln und Grönland. Teilnehmerländer sind des Weiteren nicht, obwohl sie den Euro als Landeswährung verwenden, Kosovo und Montenegro sowie die Kleinstaaten Andorra, und Vatikanstadt, wohl aber die abhängigen Gebiete Gibraltar und Saint-Pierre und Miquelon.
+
+Außerhalb des SEPA-Raumes bestehen andere Zahlungsgewohnheiten. In den USA werden Zahlungen hauptsächlich über drei Zahlungsinstrumente abgewickelt, nämlich Bargeld, Scheck und Kreditkarte.[40] Der Stück-Anteil von Scheckzahlungen an allen unbaren Transaktionen sank in den USA von 32 % (2006) auf 22,5 % (2009), während der Anteil der Debitkartenzahlungen von 26,3 % (2006) auf 34,8 % (2009) zunahm; der Kreditkartenanteil blieb bei etwa 20 %.[41] Damit hat die Debitkarte im Jahre 2006 den Scheck als das meist genutzte unbare Zahlungsmittel abgelöst. Dabei waren im US-Bankwesen umfangreiche und kostenträchtige Stückzahlen zu bewältigen, denn im Jahre 2006 wurden 30,5 Mrd. Schecks ausgestellt, während es 2009 immerhin noch 24,5 Mrd. Belege waren. Insgesamt machten Kredit- und Debitkartenzahlungen, Automated Clearing House (ACH)-Zahlungen und Electronic Benefit Transfers (EBT) rund zwei Drittel aller unbaren Zahlungen aus.[42] Aus Vereinfachungsgründen dürfen aufgrund des 21st Century Act (oder Check 21 Act) die Banken beim „Check Clearing“ seit Oktober 2004 elektronische Kopien austauschen und nicht erst aufgrund der Originalschecks buchen.
+Sicherheitsaspekte
+Eine Überweisung kann Sicherheitslücken aufweisen, z. B. hinsichtlich nicht hinreichender Authentizitätsprüfung – vor allem im beleghaften Zahlungsverkehr (vgl. Überweisungsbetrug). 
