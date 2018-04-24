@@ -1,0 +1,175 @@
+ Wie kann ich eine zweite Benutzerkennung anlegen?
+
+    Wenn Sie zu einer bereits aktivierten Benutzerkennung eine zweite anlegen wollen, gehen Sie bitte wie folgt vor:
+
+        Starten Sie die SpardaSecureApp
+        Klicken Sie auf die bereits bestehende Benutzerkennung
+        Klicken Sie nun auf "Neuen Benutzer anlegen"
+
+
+ Ich habe mein Passwort vergessen. Was kann ich tun?
+
+    Wenn Sie für ein bestehendes Gerät das Kennwort vergessen haben, können Sie einfach von der Funktion "Passwort vergessen" Gebrauch machen:
+
+        Melden Sie sich dazu in Ihrem SpardaNet-Banking Account ein und klicken Sie in Ihrem Service-Center auf „TAN verwalten".
+        Lassen Sie sich Ihre Geräteliste anzeigen und klicken Sie auf „Gerätedetails" für das betroffene Gerät. Klicken Sie auf den Button „Passwort vergessen". Das Gerät wird mit dieser Aktion gesperrt und es wird Ihnen ein neuer Aktivierungscode per Post zugesandt.
+        Bitte geben Sie diesen Aktivierungscode für die erneute Registrierung der SpardaSecureApp auf diesem Gerät mit Klick auf „Passwort vergessen" in der App ein.
+
+    Andernfalls benötigen Sie einen neuen Aktivierungscode. Sie können diesen direkt im Online-Banking anfordern. Klicken Sie hierzu bitte auf "Service-Center" / "TAN verwalten" und dann "SecureApp verwalten". Über die Geräteverwaltung können Sie dann mit "Gerät hinzufügen" neue Aktivierungscodes für neue Geräte anfordern.
+
+    Liegt Ihnen dieser vor, gehen Sie bitte wie folgt vor:
+
+        Starten Sie die SpardaSecureApp
+        Klicken Sie oben rechts auf den Button "Menü"
+        Klicken Sie nun auf "Benutzer löschen"
+        Wählen Sie die zu löschende Benutzerkennung in der Liste aus
+        Klicken Sie auf den Button "Löschen"
+
+    Jetzt können Sie die Benutzerkennung wieder neu aktivieren.
+
+
+ Wann werden meine Online-Überweisungen gebucht?
+
+        Beachten Sie bitte, dass der Buchungsschluss montags bis freitags um ca. 19.30 Uhr erfolgt. Bei Überweisungen, die zwischen 19.30 Uhr und 20.30 Uhr mit einer TAN bestätigt werden, ist eine taggleiche Verbuchung möglich, aber nicht gewährleistet.
+        Überweisungen, die danach eingehen, werden am darauffolgenden Arbeitstag ab 7.00 Uhr gebucht.
+        An Wochenenden und Feiertagen finden keine Buchungen statt.
+
+
+ Welche Daten sind bei der manuellen Eingabe erforderlich?
+
+    Wenn Sie beim chipTAN-Verfahren die manuelle Eingabe zur Erzeugung einer TAN nutzen, geben Sie bitte folgende Daten im TAN-Generator ein:
+
+    1. Startcode (wird im Online-Banking angezeigt)
+    2. Prüfziffer sowie Kontonummer der IBAN (Hinweis: Wenn Ihre Kontonummer nicht 10-stellig ist, sind die aufgefüllten Nullen ebenfalls einzugeben.)
+    3. Vollständiger Betrag (bitte nicht runden o.Ä.)
+
+    Anschließend wird Ihnen die TAN für Ihren Auftrag auf dem TAN-Generator angezeigt.
+
+
+ Wie aktiviere ich die SpardaSecureApp?
+
+        Zur Aktivierung der SpardaSecureApp laden Sie diese herunter. Nach erfolgreichem Download starten Sie die SpardaSecureApp.
+        Im nächsten Schritt werden Sie aufgefordert Ihren Aktivierungscode, Ihre Benutzerkennung und Ihr Passwort anzugeben. Der Aktivierungscode wird Ihnen per Post zugestellt bzw. können Sie diesen bei Bedarf persönlich in Ihrer Filiale erfragen. Die Benutzerkennung finden Sie in Ihrem SpardaNet-Banking im Service-Center unter "TAN verwalten".
+        Vergeben Sie ein achtstelliges Passwort zum Schutz Ihrer SecureApp.
+        Danach werden Sie zur Eingabe eines Gerätenamens aufgefordert. Sie können die Standardbelegung übernehmen oder einen eigenen Gerätenamen vergeben. Der bestätigte Gerätename wird Ihnen ebenfalls so im SpardaNet-Banking angezeigt.
+
+
+
+
+Kann ich mehrere Endgeräte für ein Konto hinterlegen?
+
+    Ja, Sie können beliebig viele Endgeräte (z. B. Smartphone oder Tablet) für das SecureApp-Verfahren freischalten.
+    Fordern Sie bitte dazu pro Gerät einen weiteren Aktivierungscode in Ihrem Netbanking unter "TAN verwalten" an.
+    Alle aktivierten Geräte sind in Ihrem Netbanking unter "TAN verwalten" in der Geräteübersicht einzusehen und zu ändern.
+
+
+ Kann ich meine Zugangsdaten (Kundennummer / Online-PIN) speichern?
+
+    Nach der ersten Anmeldung wird Ihre Kundennummer gespeichert und ist bei der nächsten Anmeldung hinterlegt. Die Online-PIN kann aus Sicherheitsgründen nicht gespeichert werden.
+
+Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
+
+        Das Online-Überweisungslimit können Sie über mehrere Wege erhöhen lassen:
+
+            Direkt beim Mitarbeiter in der Filiale
+            Per TAN-bestätigter Nachricht aus dem SpardaNet-Banking
+
+ Das Masterpasswort - Was mache ich, wenn ich es vergessen habe?
+
+    Der Sparda-Bank ist das Masterpasswort nicht bekannt. Wenn Sie Ihr Masterpasswort nicht mehr kennen, müssen Sie die Anwendungsdaten der App löschen. Beim nächsten Start der App gelangen Sie wieder zur Auswahl der BIC. Danach werden Sie aufgefordert ein neues Masterpasswort festzulegen.
+
+    Android:
+    Rufen Sie hierzu in den Einstellungen Ihres Mobilgerätes den Anwendungsmanager auf und suchen Sie die Anwendung "Sparda-Bank“. Öffnen Sie diesen Eintrag und tippen auf "Daten löschen“.
+
+    iOS:
+    Rufen Sie hierzu die Einstellungen Ihres Mobilgerätes auf und suchen Sie die Anwendung "Sparda-Bank“. Öffnen Sie diesen Eintrag und aktivieren Sie den Schieberegler für "Daten löschen“.
+
+    Sie können auch die App komplett löschen und neu installieren, um die Einstellungen zurückzusetzen.
+
+
+ Ich habe meine PIN zu oft falsch eingegeben. Nun ist das Konto gesperrt. Was kann ich tun?
+
+    Wenden Sie sich an Ihre Sparda-Bank, um die PIN-Sperre aufheben zu lassen.
+    Sie erreichen unser KundenServiceCenter unter der Telefonnummer 030 420 80 420 zu folgenden Zeiten:
+
+    Montag bis Donnerstag:  08:00 - 18:00 Uhr
+    Freitag:                            08:00 - 16:00 Uhr
+
+ Wie tätige ich eine Überweisung oder eine Terminüberweisung?
+
+    Durch Klick auf den Button "Überweisung" kommen Sie zum Überweisungsformular. Tragen Sie in das Feld "Empfänger" den Empfänger ein und befüllen Sie die anderen Felder.
+
+    Terminüberweisung
+    Für eine Terminüberweisung tragen Sie einfach das gewünschte Datum im Feld "Ausführungsdatum" ein. Alternativ können Sie auch über das Kalendersymbol ein Datum auswählen.
+
+    Empfänger speichern
+    Wenn Sie die Daten des Empfängers am Ende einer Überweisung speichern, steht er Ihnen für die nächste Überweisung wieder zur Verfügung. Dafür klicken Sie auf das kleine schwarze Dreieck im Feld "Empfänger".
+
+
+
+Wo kann ich meine Online-PIN ändern?
+
+    Ihre Online-PIN können Sie unter "Menü" - "Service" - "PIN ändern" ändern.
+
+
+
+
+Was kostet mich der mobileTAN-Service?
+
+    Der mobileTAN-Service ist für 2 angeforderte mobilTAN im Monat kostenlos. Jedes weitere mobileTAN-Verfahren kostet 0,19 Euro.
+
+
+    Achten Sie bei Aufenthalten im Ausland allerdings darauf, dass der Empfang von SMS sogenannte Roaming-Gebühren verursachen kann.
+
+
+Wie kann ich mehrere Konten in der App einrichten?
+
+        Es kann immer nur ein Sparda-Konto (mit den entsprechenden Unterkonten) gleichzeitig eingesehen werden. Wenn Sie mehrere Stammkonten bei der Sparda-Bank haben, können Sie sich mit den entsprechenden Zugangsdaten separat anmelden.
+
+
+Wie kann ich mich mit der App für das mobile Banking anmelden?
+
+            Nach der Installation müssen Sie einmalig Ihre Sparda-Bank mit Hilfe der BIC auswählen. Dann geben Sie Ihre Kundennummer und die Online-PIN ein und vergeben ein Masterpasswort.
+
+            Bei jedem weiteren Login gelangen Sie in zwei Schritten in die Anwendung: über Ihr Masterpasswort und Ihre Online-PIN .
+
+
+
+
+Wie gebe ich eine Transaktion in der SpardaSecureApp frei?
+
+        Loggen Sie sich dazu in Ihrem SpardaNet-Banking Account ein und halten Sie Ihr Endgerät mit installierter und freigeschalteter SpardaSecureApp bereit.
+        Immer dann, wenn Sie eine Überweisung oder einen anderen TAN-pflichtigen Auftrag im SpardaNet-Banking bestätigen, haben Sie die Wahl zwischen den für Sie freigeschalteten TAN-Verfahren.
+        Haben Sie alle Transaktionsdaten im SpardaNet-Banking erfasst, wählen Sie im nächsten Schritt die SpardaSecureApp zur Freigabe aus.
+        Sind für Sie mehrere Geräte für die SpardaSecureApp freigeschaltet, können Sie für die Transaktion eines der Geräte auswählen. Durch den Klick auf „Weiter" wird die Transaktion angestoßen.
+        Auf Ihrem Endgerät erhalten Sie eine Benachrichtigung, welche Sie zur Freigabe der Transaktion auffordert. Sie haben fünf Minuten Zeit für die Freigabe bzw. Stornierung der Transaktion.
+        In der SpardaSecureApp melden Sie sich zuerst mit Ihrer Benutzerkennung und mit selbstvergebenen Passwort an. Sie erhalten einen Bildschirm zur Transaktionsfreigabe auf Ihrem Endgerät.
+        Nach erfolgreicher Freigabe der Transaktion in der SecureApp, wird Ihnen die Transaktion im SpardaNet-Banking als bestätigt angezeigt.
+
+
+ Wie aktiviere ich das chipTAN-Verfahren?
+
+        Wählen Sie im Netbanking unter "Service-Center" - "TAN verwalten" den Reiter "chipTAN".
+        Folgen Sie den Anweisungen im Online-Banking und geben Sie dort die angefragten Daten ein.
+        Übertragen Sie die im Display des TAN-Generators angezeigten Daten in die entsprechenden Felder im Online-Banking
+        Klicken Sie anschließend auf "Karte aktivieren/entsperren".
+        Ihre Karte steht Ihnen sofort für das chipTAN-Verfahren zur Verfügung.
+
+
+
+
+Wie wird die SpardaSecureApp aktualisiert?
+
+    Für Smartphone & Tablet: Steht eine neue Version der SecureApp bereit, informiert die SpardaSecureApp Sie darüber und lädt das Update automatisch herunter.
+
+    Für Computer & Laptop: Updates werden Ihnen automatisch zur Verfügung gestellt und mit Öffnen der SecureApp PC ausgeführt. Es ist kein erneuter Download der aktuellsten Version erforderlich.
+
+
+ Wo kann ich die SecureApp herunterladen?
+
+    Die SecureApp kann unter den nachfolgenden Links heruntergeladen werden.
+
+        SpardaSecureApp für Android
+
+        SpardaSecureApp für iOS
+

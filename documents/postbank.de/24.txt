@@ -1,0 +1,35 @@
+Was bedeuten die Begriffe 3D Secure, Verified by Visa und MasterCard Secure Code?
+
+Antwort der Postbank von Daniel P.
+
+3D Secure ist der Name des Sicherheitsstandards, den die Postbank nutzt. Das Verfahren wird von den Kreditkartenorganisationen Visa und MasterCard unter den Marken Verified by Visa bzw. MasterCard Secure Code angeboten.
+
+Einen teilnehmenden Online-Händler erkennen Sie am entsprechenden Logo auf den Händlerseiten.
+
+Durch das Verfahren werden Dritte von der Falscheingabe von Kreditkartendaten abgehalten. Sie als Kreditkarteninhaber sind dadurch wirksam vor einem betrügerischen Einsatz Ihrer Kartendaten geschützt.
+
+
+Hat der Online-Händler Einsicht in meine persönlichen Daten, die ich im Fall einer Aufforderung für Verified by Visa bzw. MasterCard Secure Code eingebe?
+
+Antwort der Postbank von Daniel P.
+
+Nein. Bei dem angezeigten Fenster handelt es sich um eine Sicherheitsabfrage der Postbank. Dem Online-Händler sind die von Ihnen eingegebenen persönlichen Daten zu keinem Zeitpunkt bekannt und er hat auch keine Möglichkeit, diese Daten einzusehen.
+
+
+Kann ich zur Visa Card einen Secure Code einrichten?
+
+Antwort der Postbank von Daniel P.
+
+Die Postbank stattet seit 2010 alle Kreditkarten mit dem Sicherheitsverfahren 3D Secure aus. Das Verfahren ist automatisch für alle Postbank Kreditkarten gültig. Eine besondere Zulassung ist nicht erforderlich.
+
+Sie können daher mit Ihrer Visacard wie gewohnt im Internet einkaufen.
+
+Meistens wird der Bezahlvorgang ohne weitere Sicherheitsabfrage abgeschlossen. Bei betrugsverdächtigen Transaktionen erhalten Sie eine zusätzliche Abfrage persönlicher Merkmale, um sich als echter Karteninhaber zu identifizieren.
+
+Weitere Informationen finden Sie hier .
+
+Was muss ich tun, wenn ich feststelle, dass Dritte mit den Daten meiner Postbank Kreditkarte unbefugt im Internet eingekauft haben?
+
+Antwort der Postbank von Daniel P.
+
+Bitte lassen Sie Ihre Kreditkarte sofort sperren unter 069 6657 1333 (rund um die Uhr). Sie erhalten umgehend eine Ersatzkarte. Als Kunde haften Sie in einem solchen Fall nicht für den entstandenen Schaden (außer bei grober Fahrlässigkeit oder Vorsatz).

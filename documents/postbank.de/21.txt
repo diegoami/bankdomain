@@ -1,0 +1,27 @@
+Kann ich die Kontoumsätze im Postbank Finanzassistenten über das iPad ausdrucken?
+
+Antwort der Postbank von Daniel P.
+
+Nein, das ist bisher nicht möglich. In der App ist keine eigene Druckfunktion enthalten.
+
+Mein Tipp:
+
+Sie könnten von der Umsatzanzeige einen Screenshot machen, indem Sie die Ausschalt- und Hometaste gleichzeitig drücken. Der Screenshot läßt sich wie jedes andere Bild an einen Drucker weitergeben oder per Mail versenden.
+
+Dabei handelt es sich natürlich nicht um einen Zahlungsnachweis im rechtlichen Sinn. Das ist immer nur der Kontoauszug.
+
+
+Warum stehen Terminüberweisungen nicht unter der "Summe vorgemerkter Umsätze"?
+
+Antwort der Postbank von Daniel P.
+
+Überweisungen, die Sie mit Termin eingegeben haben, finden Sie nicht in der "Summe vorgemerkter Umsätze", sondern unter dem Menüpunkt "Auftragslisten".
+
+In den Vorwegumsätzen werden lediglich Verfügungen mit Ihre Postbank Card (Debitkarte) und Unterschrift aufgeführt.
+
+
+Wie lange bleiben angefragte Umsätze bei der VisaCard gespeichert? Hintergrund: Umsatz wurde angefragt und die Transaktion abgebrochen, da anderweitig bezahlt. Angefragte Umsätze belasten den verfügbaren Rahmen innerhalb des Kartenlimits.
+
+Antwort der Postbank von Daniel P.
+
+Die angefragten Umsätze der VisaCard bleiben ca. 7-10 Tage gespeichert, bevor sie automatisch gelöscht werden.

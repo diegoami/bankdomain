@@ -1,0 +1,168 @@
+
+
+Warum erhalte ich die Fehlermeldung: Eingegebenes Zeichen ist nicht zulässig?
+
+    Es dürfen nur alphanumerische Zeichen, numerische Zeichen und folgende Sonderzeichen erfasst werden: . , + - /
+
+ Wie wird für die Sicherheit gesorgt?
+
+    Die SecureApp ist eindeutig an Ihr Endgerät gebunden und kann nicht auf andere Geräte kopiert werden. Darüber hinaus werden Aufträge verschlüsselt übertragen und sind durch Dritte nicht auszulesen.
+
+ Kann man über die SpardaApp eine Auslandsüberweisung vornehmen?
+
+        Ja Auslandsüberweisungen können über die SpardaApp durchgeführt werden. Gehen Sie hierzu wie folgt vor:
+
+        "Menü" - "Kontenübersicht" - "Konto auswählen" - "Menü" - "*Überweisung SEPA"
+
+
+
+
+Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden?
+
+    Die SecureApp wird bei Installation nicht direkt auf Ihrer SIM-Karte, sondern in den meisten Fällen auf dem Telefonspeicher Ihres Smartphones gespeichert. Abweichend können Sie unter Einstellungen des Gerätes alternative Speicherorte, z. B. die SD-Speicherkarte festgelegt haben. Dies können Sie entsprechend in Ihren persönlichen Einstellungen nachvollziehen. Die SecureApp funktioniert unabhängig von einer hinterlegten Telefonnummer, wichtig ist eine stabile Internetverbindung mit Ihrem Smartphone.
+
+
+ Wo finde ich weitere Funktionen zu meinem Konto, z.B. die Daueraufträge?
+
+    Auf der Startseite stehen Ihnen pro Konto zunächst die wichtigsten Funktionen zur Verfügung. Klicken Sie auf "Mehr ...", um alle verfügbaren Funktionen einzusehen.
+
+    Zum Schließen klicken Sie auf "Weniger ...".
+
+
+ Wie funktioniert das Bezahlen mit 3D-Secure?
+
+    3D-Secure kombiniert Ihre Mastercard- bzw. Visa-Kreditkarte künftig mit der Sicherheit des Online-Bankings. Sobald Ihr Konto für das Online-Banking freigeschaltet ist, ist Ihre Kreditkarte automatisch für den Service aktiviert.
+
+    Beim Einkauf im Internet wählen Sie die gewünschten Produkte oder Dienstleistungen aus, legen diese in den Warenkorb und geben nach Auswahl der Zahlungsart die Daten Ihrer Kreditkarte ein.
+
+    Sofern beim Einkauf im Internet ein Händler 3D-Secure unterstützt, öffnet sich zukünftig bei jedem Online-Einkauf ein Eingabefenster, in dem Sie die bekannte Online-PIN eingeben und Freigabeverfahren (z. B. mobileTAN, chipTAN oder die SecureApp) anwenden.  Ist die Eingabe korrekt und wird die Freigabe erteilt, wird vom System bestätigt, dass Sie der rechtmäßige Karteninhaber sind.
+
+
+ Kann ich eine Überweisung nachträglich ändern oder löschen?
+
+    Eine Überweisung können Sie ändern oder löschen, solange sie noch nicht verbucht wurde.
+
+
+
+        Gehen Sie hierzu auf den Menüpunkt "Überweisungen".
+        Dort finden Sie die Liste der noch nicht gebuchten Überweisungen.
+        Mit Klick auf das "I" vor der Überweisung rufen Sie die Details zu dieser Transaktion auf.
+        In der Detailansicht finden Sie die Buttons für die Funktionen "Ändern" und "Löschen" (siehe zweites Bild unten).
+
+ Woher bekomme ich einen TAN-Generator?
+
+    Bestellen Sie Ihren TAN-Generator über unseren Online-Shop.
+
+    Hinweis: Der folgende Link leitet Sie auf eine Seite außerhalb des Verantwortungsbereichs der Sparda-Bank weiter. Für den Inhalt der vermittelten Seite haftet nicht die Sparda-Bank, sondern der Herausgeber dieser Website.
+
+ Warum erhalte ich die Kontoauszüge im PDF-Format?
+
+    Um die Sicherheit und Unveränderbarkeit der Dokumente garantieren zu können, werden die Daten als verschlüsselte und passwortgeschützte Acrobat-PDF-Dateien abgelegt.
+
+    Dieses Format ist sehr weit verbreitet und gewährleistet neben der Datensicherheit auch die weitgehende Einhaltung von Layout und Darstellung unabhängig von Betriebssystem, Monitor oder Drucker.
+
+
+ Welche Zugangsdaten gebe ich in meine Finanzsoftware ein?
+
+    Bitte verwenden Sie folgende Zugangsparameter für die manuelle Eingabe:
+
+        Kunden- / Benutzernummer: Ihre Kundennummer
+        HBCI Version: 3.00
+        HBCI Seite: https://fints.bankingonline.de/fints/FinTs30PinTanHttpGate
+
+
+ Ist die SpardaApp wirklich sicher?
+
+    Die SpardaApp verwendet ausschließlich verschlüsselte Verbindungen zu den Banken und verschlüsselt außerdem alle Programmdaten automatisch.
+
+    Wir empfehlen, grundsätzlich keine Modifikationen an Ihrem Android-System (rooten /custom ROM) bzw. an Ihrem iPhone/iPad (Jailbreak) vorzunehmen, da dies eine unzulässige Veränderung mit nicht absehbaren Konsequenzen darstellt.
+
+
+
+
+Kann die SpardaSecureApp von unterschiedlichen Personen verwendet werden?
+
+    Ja - eine installierte SpardaSecureApp auf einem Endgerät kann von mehreren Nutzern verwendet werden. Die Zuweisung zum SpardaNet-Banking Account erfolgt über die Benutzerkennung
+
+
+ Woher bekomme ich meine IBAN und den BIC-Code?
+
+    IBAN
+    Ihre persönliche IBAN finden Sie
+
+        auf Ihrem Girokontoauszug (erste Seite)
+        auf der Vorder - oder bei älteren Modellen Rückseite Ihrer BankCard
+        in den Informationen im SpardaNet-Banking
+
+
+    Bei Zahlungen, die Sie aus dem Ausland erhalten, muss die IBAN in Verbindung mit dem BIC-Code angegeben werden. Bitte teilen Sie Ihren Geschäftspartnern nur die dort ausgewiesene IBAN mit.
+
+    BIC-Code
+    Der BIC-Code der Sparda-Bank Berlin lautet: GENODEF1S10
+
+ Ich hab keinen Aktivierungscode für die mobileTAN. Was kann ich tun?
+
+    Geben Sie dreimal eine beliebige Ziffernfolge ein. So wird der Anmeldevorgang beendet.
+
+    Anschließend können Sie sich erneut für das mobileTAN-Verfahren freischalten und erhalten einige Tage später einen Aktivierungscode per Post zugestellt.
+
+ Wie kann ich den Zeitraum für die Umsatzanzeige speichern?
+
+    Gehen Sie über den Punkt "Einstellungen" am oberen Rand des Banking-Portals und wählen Sie "Banking".
+
+    Hier können Sie festlegen, welcher Umsatzzeitraum standardmäßig angefragt werden soll. Bestätigen Sie diese Auswahl mit "Übernehmen“. Damit sind die Einstellungen dauerhaft gespeichert.
+
+
+ Wie mache ich eine Umbuchung auf ein externes Referenzkonto?
+
+    Wählen Sie zunächst dasjenige Ihrer Konten, von dem Sie die Umbuchung tätigen möchten. Klicken Sie hier auf "Umbuchung". Im Feld "Empfänger" können Sie nun alle Empfängerkonten sowie das externe Referenzkonto wählen.
+
+
+ Ist die Postbox sicher?
+
+
+
+    Die Übertragung Ihrer Daten erfolgt immer über eine 256 Bit SSL-Verschlüsselung (= Secure Socket Layer). SSL ist ein Transportprotokoll, das von Netscape entwickelt, patentiert und zur allgemeinen Verwendung freigegeben wurde.
+
+    Das grundlegende Ziel von SSL ist es, sowohl Identität als auch Vertraulichkeit zweier kommunizierender Anwendungen zu gewährleisten. Dabei setzt es auf ein bereits vorhandenes Transportprotokoll (z.B. TCP/IP) auf.
+
+    Die Übertragung der Anwendung und der einzelnen Masken erfolgt über eine HTTPS-Verbindung (= HyperTextTransferProtokollSecure). Hierbei wird von den Browsern in der Regel eine Verschlüsselung von 256 Bit unterstützt.
+
+    Damit unsere Bemühungen für einen möglichst hohen Sicherheitsstandard erfolgreich sind, bitten wir auch Sie, einige Punkte zu beachten:
+
+        Geben Sie Ihre Online-PIN niemals an Dritte weiter.
+        Bewahren Sie Ihre TAN-Liste so auf, dass kein Dritter sie einsehen kann.
+        Speichern Sie die PIN nicht auf Ihrem Rechner ab.
+        Speichern Sie keine TAN-Nummern auf Ihrem Rechner ab.
+        Überprüfen Sie Ihren Rechner regelmäßig auf Viren.
+        Bei Verbindungsabbruch starten Sie den Browser neu.
+        Installieren Sie keine Software auf Ihrem Rechner, bei welcher der Hersteller nicht vertrauenswürdig erscheint.
+        Verwenden Sie immer einen aktuellen Browser
+
+
+ Benötige ich besondere Administratorrechte zur Installation?
+
+    Zur Installation der Software benötigen Sie keinerlei Administratorrechte
+
+
+ Wie richte ich Quicken und WISO Mein Geld ein?
+
+    Sie nutzen bereits die Software und wollen auf die neue HBCI-Version 3.0 wechseln?
+
+    Bitte gehen Sie folgendermaßen vor:
+
+    Quicken:
+    Nutzen Sie die Programmfunktion "Internetaktualisierung":
+    Der Update-Assistent hilft Ihnen bei der Aktualisierung von Programmkomponenten über das Internet. Sie finden die Funktion unter "Hilfe - Aktualisierung - Programmaktualisierung" in Ihrem Quicken.
+
+    WISO Mein Geld:
+    Mit dem Programmstart wird je nach Einstellung ein Update ausgeführt. Die neue Adresse und HBCI-Version werden übernommen.
+    Sie können den Kontakt auch manuell ändern. Bitte folgen Sie dazu unserer Anleitung.
+
+    Sie nutzen die Software noch nicht und möchten einen neuen Kontakt einrichten?
+    Bitte folgen Sie unserer Anleitung.
+
+        PDF - Anleitung für die manuelle Änderung eines Kontakts
+
+        PDF - Anleitung für die Erstellung eines Kontakts
+

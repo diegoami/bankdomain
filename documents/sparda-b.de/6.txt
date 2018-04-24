@@ -1,0 +1,158 @@
+
+Warum ist meine Überweisung in das gewählte Empfängerland nicht möglich?
+
+    Sie erhalten die Fehlermeldung: "Eine SEPA-Überweisung in das von Ihnen gewählte Empfängerland ist online nicht möglich. Bitte wenden Sie sich an Ihre Bank."
+
+
+
+    Es gibt verschiedene Länder, die zwar zur EU gehören, in denen jedoch das Verfahren für die elektronische Abwicklung von SEPA-Überweisung (EBA / Step2) noch nicht etabliert ist. Online-Überweisungen in ein solches Land sind nicht möglich; bitte wenden Sie sich in diesem Fall direkt an uns.
+
+
+
+
+Wie kann ich auf das herkömmliche Verfahren umstellen?
+
+    Über den Menüpunkt "Postbox kündigen" können Sie den Postbox-Dienst jederzeit kündigen. Diese Aktion muss mit einer TAN bestätigt werden.
+
+    Bitte beachten Sie, dass Sie zuvor alle Dokumente unter "ungelesene Dokumente" gelesen und gegebenenfalls abgespeichert haben. Wenn Sie die Postbox kündigen, wird der Versand auf den von Ihnen gewünschten Weg umgestellt.
+
+ Wie lösche ich den Browsercache?
+
+    Um den Browsercache (Cache = Speicher) zu löschen, gehen Sie bitte wie folgt vor:
+
+    Internet Explorer:
+    Gehen Sie in die "Internetoptionen".
+
+    Klicken Sie auf den Button "Löschen". Dadurch öffnet sich ein neues Fenster. Löschen Sie jetzt Ihre temporären Internetdateien (Browsercache).
+
+    Mozilla Firefox:
+    Gehen Sie in die "Einstellungen".
+
+    Hier gehen Sie über die Reiter "Erweitert" - "Netzwerk". Klicken Sie im Bereich "Zwischengespeicherte Webinhalte" auf "Jetzt leeren".
+
+ Warum erhalte ich beim Öffnen der Kontoauszüge eine Fehlermeldung?
+
+    Bild 1 - Fehlermeldung im Internet Explorer
+    Beim Öffnen der Postbox-Auszüge und Mitteilungen im Internet Explorer erhalten Sie folgende Fehlermeldung:
+
+    Bild 2 - Lösung
+    Deaktivieren Sie im Internet Explorer unter "Extras - Internetoptionen - Erweitert" die Option "Verschlüsselte Seiten nicht auf dem Datenträger speichern". Anschließend können Sie das PDF-Dokument öffnen.
+
+ Wozu dient der chipTAN-Generator?
+
+    Der TAN-Generator erzeugt über die ec-Karte eine einmal gültige TAN für Ihre Transaktionen im Online-Banking.
+
+
+
+
+Kann ich die Umsätze bei Kreditkonten abholen?
+
+    Sie können die Umsätze wie bei Girokonten abrufen.
+
+
+ Wie wende ich das chipTAN-Verfahren an?
+
+    Das chipTAN-Verfahren ist einfach und bequem. Die Schritte zur Erzeugung einer chipTAN erläutern wir in einem Film, am Beispiel einer Überweisung.
+
+        Film zum chipTAN-Verfahren
+
+ Wie kann ich die Reihenfolge meiner Konten verändern?
+
+    So können Sie die Reihenfolge der ersten zehn Konten selbst bestimmen:
+
+        Gehen Sie mit dem Mauszeiger über das gewünschte Konto.
+        Drücken Sie die linke Maustaste und halten Sie sie gedrückt.
+        Ziehen Sie das Konto auf die gewünschte Position, bis der grüne Haken erscheint.
+        Wenn Sie die Maustaste loslassen, haben Sie die Reihenfolge dauerhaft verändert.
+
+ Wie lässt sich die Versionsnummer der SpardaApp feststellen?
+
+    Sie finden die Versionsnummer wie folgt:
+
+        Einstellungen - Apps - Anwendungen verwalten - App-Name (Sparda-Bank)
+
+
+    Unter Android 4 gelangen Sie über den folgenden Klickpfad an die Versionsnummer:
+
+        Einstellungen - Anwendungsmanager - App-Name (Sparda-Bank)
+
+
+    Die Versionsnummer finden Sie dann jeweils oben direkt unter der Überschrift.
+
+ Wie teile ich der Bank die Änderung meiner Adresse mit?
+
+    Sie sind umgezogen und möchten uns Ihre neue Adresse mitteilen? In unserem SpardaNet-Banking finden Sie den passenden Auftrag dazu. Bitte halten Sie hierzu Ihre TAN-Liste bereit.
+
+        Login zur Adressänderung im Netbanking
+
+ Wie erstelle ich einen Screenshot?
+
+    Um einen Screenshot (= Bildschirmfoto) von einer Fehlermeldung zu machen, drücken Sie bitte die Tastenkombination "Shift" und "Druck". Achten Sie darauf, dass das Fenster, das Sie "abfotografieren" wollen, aktiv ist.
+
+    Anschließend können Sie die Grafik, die sich jetzt im Zwischenspeicher befindet, in eine E-Mail, ein Grafikprogramm oder in eine Worddatei einfügen.
+
+ Muss ich mich als Kunde für 3D-Secure seit dem 21.06.2017 neu registrieren?
+
+    Der 3D-Secure-Service Ihrer Sparda-Bank funktioniert künftig nur in Zusammenarbeit mit dem Online-Banking. Daher ist für Sie als Kreditkarteninhaber zwingend eine Freischaltung für das Online-Banking erforderlich. Wenn Sie dieses bereits nutzen und der Zugang auf Ihren Namen ausgestellt ist, ist Ihre Kreditkarte auch automatisch für 3D-Secure aktiviert. Eine weitere Registrierung ist nicht mehr erforderlich.
+
+    Sofern Sie diesen Service bislang genutzt haben, entfällt mit Umstellung zum 21.06.2017 automatisch Ihr selbst vergebenes Passwort. Eine Eingabe ist fortan nicht mehr erforderlich.
+
+
+ Wo kann ich den Schwarz-Weiß-Druck für meine Kontoauszüge festlegen?
+
+    Ihre persönlichen Einstellungen tätigen Sie unter dem Menüpunkt "Einstellungen" am oberen Rand des Banking-Portals.
+
+    Wählen Sie "Postbox", klicken Sie Ihre gewünschte Einstellung an und drücken Sie den Button "Übernehmen".
+
+ Handelt es sich um einen juristischen Kontoauszug?
+
+
+
+    Gemäß gängiger Rechtsbeurteilung handelt es sich bei dem Kontoauszug über die Postbox um einen juristischen Kontoauszug, der im Einklang mit den relevanten Gesetzen und unseren Allgemeinen Geschäftsbedingungen steht.
+
+    Die Anerkennung der in der Postbox gespeicherten Dokumente durch Steuer- oder Finanzbehörden kann jedoch nicht durch die Sparda-Bank gewährleistet werden.
+
+    Wir garantieren die Unveränderbarkeit der Daten in der Postbox. Diese Garantie gilt nicht, soweit die Daten außerhalb der Postbox gespeichert oder aufbewahrt werden.
+
+    Zu beachten ist, dass aufgrund der individuellen Hard- oder Softwareeinstellung ein Ausdruck nicht immer mit der Darstellung am Bildschirm übereinstimmt. Soweit die Dokumente verändert oder in veränderter Form in Umlauf gebracht werden, übernimmt die Bank hierfür keine Haftung.
+
+
+ Welche Adobe Reader Version benötige ich?
+
+    Zur Nutzung der Postbox benötigen Sie mindestens eine Adobe Reader-Version ab 7.0. Die aktuelle Version des Adobe Reader können Sie direkt auf der Webseite von Adobe kostenlos herunterladen.
+
+    Bitte beachten Sie: Der folgende Link führt Sie auf eine Seite außerhalb des Verantwortungsbereiches der Sparda-Bank. Für den Inhalt der vermittelten Seite haftet nicht die Sparda-Bank, sondern der Herausgeber dieser Webseite.
+
+ Warum brauche ich Cookies?
+
+    Cookies sind Grundvoraussetzung für viele Dienste im Internet, z.B. für die Nutzung von Suchmaschinen. Ohne aktivierte Cookies können Sie sie nicht oder nur mit Einschränkungen nutzen. Auch unser SpardaNet-Banking erwartet, dass Sie in Ihrem Browser Cookies aktiviert haben.
+
+
+    Was sind Cookies?
+    Bei Cookies handelt es sich um kleine Text-Dateien, die auf Ihrem Rechner abgelegt werden. Diese ermöglichen es einer Internet-Anwendung, also auch dem Netbanking, Sie als Kunden "wiederzuerkennen". Dies geschieht mittels einer sogenannten Session-ID. Diese eindeutige ID identifiziert Sie gegenüber unserem Server während einer laufenden Internetbanking-Sitzung. Diese Session-ID ist eine zufällig gewählte, alphanumerische Zeichenkette. Sie hat keinerlei Bezug zu Ihren persönlichen Daten. Nach Ablauf oder Beendigung der aktuellen Sitzung ist diese Session-ID ungültig, beim nächsten Login wird eine neue ID ermittelt.
+
+    Sind Cookies gefährlich?
+    Grundsätzlich sind Cookies nicht gefährlich. Cookies können keinen gefährlichen, ausführbaren Code enthalten, welcher Ihr System beschädigt. Cookies können jedoch auch dafür eingesetzt werden, ein bestimmtes Nutzerverhalten zu analysieren um z.B. gezielte Werbung zu platzieren. Bei den von uns eingesetzten Cookies handelt es sich ausschließlich um sogenannte "Session-Cookies". Weitere Informationen dazu finden Sie auf den Internetseiten des Bundesamtes für Sicherheit in der Informationstechnik (BSI für Bürger). Den Link finden Sie unten auf dieser Seite.
+
+    Wie aktiviere ich Cookies?
+    Bei den meisten Browsern ist die Annahme von Cookies standardmäßig aktiviert. Erhalten Sie jedoch beim Login einen Hinweis darauf, dass Ihr Webbrowser keine Cookies akzeptiert, sollten Sie die Option "Cookies" überprüfen.
+
+
+ Wie schalte ich die Postbox frei?
+
+    Bei der ersten Anmeldung erhalten Sie automatisch einen Hinweis auf die Sonderbedingungen für die Postbox.
+
+    Sobald Sie diese mittels TAN-Eingabe akzeptiert haben, haben Sie Zugriff auf das Postcenter.
+
+    Wenn Sie die Postbox freigeschaltet haben, stehen neue Dokumente automatisch als PDF in der Postbox zu Verfügung und können nicht mehr am Kontoauszugsdrucker abgeholt werden.
+
+
+ An wen wende ich mich, wenn mein TAN-Generator defekt ist?
+
+    Bitte wenden Sie sich über den Online-Shop an die Firma Excelsis.
+
+    Hinweis: Der folgende Link leitet Sie auf eine Seite außerhalb des Verantwortungsbereichs der Sparda-Bank weiter. Für den Inhalt der vermittelten Seite haftet nicht die Sparda-Bank, sondern der Herausgeber dieser Website.
+
+ Warum benötigt die SecureApp Zugriff auf Fotos, Medien und Dateien auf meinem mobilen Endgerät?
+
+    Nach Rücksprache mit unserem Rechenzentrum wird die Berechtigung benötigt, falls eine Fehlermeldung in der SecureApp auftritt. In diesen Fällen kann über das entsprechende Fehlerprotokoll die Meldung besser rekonstruiert und analysiert werden.

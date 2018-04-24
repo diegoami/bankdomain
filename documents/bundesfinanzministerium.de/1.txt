@@ -1,0 +1,83 @@
+Was bedeutet SEPA?
+
+Das Kürzel SEPA steht für Single Euro Payments Area (Einheitlicher Euro-Zahlungsverkehrsraum). Mit SEPA soll der Zahlungsverkehr im europäischen Wirtschaftsraum harmonisiert und mit einheitlichen Zahlungsverkehrsprodukten - Überweisungen und Lastschriften - abgewickelt werden. Das bedeutet, dass inländische Zahlungen ebenso wie grenzüberschreitende Zahlungen innerhalb der Europäischen Union künftig nach denselben „Spielregeln“ durchgeführt werden.
+
+Nach oben
+Welche Vorteile bietet SEPA?
+
+Voraussetzung für das reibungslose Funktionieren des europäischen Binnenmarktes ist, dass bargeldlose Zahlungen und genutzte Zahlungsprodukte nicht an Ländergrenzen gebunden sind. Dies gilt umso mehr in Zeiten, in denen der grenzüberschreitende Kauf und Verkauf von Waren und Dienstleistungen über das Internet stetig zunimmt.
+
+Mit dem Euro gibt es bereits seit vielen Jahren eine gemeinsame Währung und damit ein einheitliches Zahlungsmittel. Im bargeldlosen Zahlungsverkehr existierten vor der SEPA-Umstellung hingegen 28 unterschiedliche Systeme. Dies ist nicht nur ineffizient, sondern führt auch dazu, dass der europäische Binnenmarkt mit seiner Waren- und Dienstleistungsfreiheit unvollendet bleibt.
+
+Mit der europäischen SEPA-Verordnung [Verordnung (EU) Nr. 260/2012] und den von der europäischen Kreditwirtschaft entwickelten SEPA-Zahlverfahren konnten die bestehenden Unterschiede in den Mitgliedstaaten der EU zum 1. Februar 2014 überwunden werden. Der bargeldlose Euro-Zahlungsverkehr kann dadurch in der EU einfacher, schneller und kostengünstiger durchgeführt werden.
+
+Verbraucherinnen und Verbraucher können ihren gesamten Zahlungsverkehr bei einer beliebigen Bank in ganz Europa abwickeln. Bei der SEPA-Lastschrift erhält der Verbraucher neue Rechte: So kann er zum Beispiel gegenüber seiner Bank den Lastschrifteinzug auf einen bestimmten Betrag begrenzen. Auch kann er sämtliche von einem bestimmten Zahlungsempfänger gezogene Lastschriften blockieren. Das bedingungslose achtwöchige Erstattungsrecht bei autorisierten Zahlungen bleibt weiterhin erhalten.
+
+Unternehmen erhalten durch SEPA die Möglichkeit, unabhängig von ihrem Sitz oder Wohnort ihre gesamten bargeldlosen Euro-Zahlungen, ihre Kontoführung sowie das Cash Management im gesamten SEPA-Markt effizient, sicher und einheitlich zu steuern und sich für ihre Kontoführung das Kreditinstitut mit dem besten Preis-Leistung-Verhältnis in ganz Europa auszusuchen.
+
+Unternehmen, die im Internethandel aktiv sind, können, in Absprache mit ihrer Bank, ihren Kunden das Überweisungs- und Lastschriftverfahren nunmehr europaweit als elektronische Zahlungsmöglichkeit neben der Kreditkartenzahlung und ähnlichen Bezahlmöglichkeiten anbieten.
+
+Nach oben
+Welche wesentlichen Auswirkungen hat die SEPA-Einführung für Verbraucherinnen und Verbraucher?
+
+Für Verbraucherinnen und Verbrauchern änderte sich nicht viel. Ihre Bankleitzahl und Kontonummer wurde durch die IBAN ersetzt. Die zuvor gebräuchliche Nutzung von Kontonummer und Bankleitzahl ist nicht mehr zulässig. Ansonsten mussten sie sich um nichts kümmern.
+
+    Die IBAN setzt sich zusammen aus dem Länderkennzeichen DE für Deutschland, einer zweistelligen Prüfzahl und der schon bekannten Bankleitzahl sowie Kontonummer. Mit der zweistelligen Prüfzahl werden Fehlüberweisungen durch Zahlendreher verhindert.
+
+Die Infografik zeigt den Aufbau von der standardisierten, internationalen Bank- und Kontonummer (IBAN - International Bank Account Number) und der internationalen Bankleitzahl eines Kreditinstituts (BIC - Business Identifier Code). Die IBAN besteht aus der Länderkennung (zum Beispiel DE für Deutschland), einer zweistelligen Prüfziffer, einer achtstelligen Bankleitzahl und der zehnstelligen Kontonummer. Die BIC setzt sich aus einer vierstelligen Bankbezeichnung zusammen (zum Beispiel MARK für Deutsche Bundesbank), einem zweistelligen ISO-Code zur Bestimmung des Landes (zum Beispiel DE für Deutschland), einer zweistelligen Abkürzung für den Ort (zum Beispiel FF für Frankfurt) und der Filialbezeichnung (wahlweise vier Stellen).
+Die Infografik zeigt den Aufbau von der standardisierten, internationalen Bank- und Kontonummer (IBAN - International Bank Account Number) und der internationalen Bankleitzahl eines Kreditinstituts (BIC - Business Identifier Code).
+Quelle:  Bundesministerium der Finanzen
+
+Nach oben
+Welche wesentlichen Auswirkungen hat die SEPA-Einführung für Unternehmen?
+
+    Unternehmen, die Lastschriften nutzen, müssen bei neuen Vertragsabschlüssen seit dem 1. Februar 2014 so genannte SEPA-Mandate verwenden. Bisher erteilte Einzugsermächtigungen wurden aufgrund der zum 9. Juli 2012 geänderten Allgemeinen Geschäftsbedingungen der Banken automatisch auf SEPA-Mandate umgestellt. Zusätzlich ist durch die in der EU-Verordnung aufgenommene Kontinuitätsregelung die weitere Gültigkeit der bisher erteilten Mandate sichergestellt. Unternehmen, deren Kundinnen und Kunden bisher per Lastschrift bezahlen, können damit auf die Neueinholung von SEPA-Mandaten verzichten. Die deutsche Kreditwirtschaft hat Beispiel-Formulare für die SEPA-Mandate zur Verfügung gestellt, die Lastschriftgläubiger für ihre Neukunden verwenden können. Unter welchen Voraussetzungen Einzugsermächtigungen als SEPA-Lastschriftmandate genutzt werden können, ergibt sich aus der Kundenvereinbarung mit der jeweiligen Bank. Um weiterhin am Lastschriftverfahren teilnehmen zu können, müssen Lastschrifteinreicher zudem eine Gläubiger-Identifikationsnummer beantragen. Die wird online von der Deutschen Bundesbank (www.bundesbank.de) vergeben.
+
+Nach oben
+Welche Vorteile haben Verbraucherinnen und Verbrauchern sowie Unternehmen von der Umstellung auf die SEPA-Produkte?
+
+Für einen einheitlichen bargeldlosen Euro-Zahlungsverkehrsraums gibt es gute Gründe:
+
+    SEPA ist ein weiterer Beitrag zur europäischen Integration. Geldzahlungen sind schon lange nicht mehr an Ländergrenzen gebunden. Das Euro-Bargeld ist seit vielen Jahren gemeinsame Währung und einheitliches Zahlungsmittel in zahlreichen EU-Mitgliedstaaten. Konsequenterweise soll dieser gemeinsame Weg auch im Bereich des bargeldlosen Zahlungsverkehrs weitergegangen und die Zahlungssysteme an die Wirklichkeit angepasst werden. Es wäre widersprüchlich, über die Grenzen hinweg zwar dieselbe Währung zu akzeptieren, im bargeldlosen Zahlungsverkehr aber weiterhin ein „nationales Süppchen“ zu kochen. Dies gilt insbesondere vor dem Hintergrund der zunehmenden Bedeutung bargeldloser Zahlungen (Überweisungen und Lastschriften). Ein Großteil der innereuropäischen Zahlungen erfolgt mittlerweile unbar.
+
+    Verbraucher und Unternehmen können ihren gesamten Euro-Zahlungsverkehr über ein Konto bei einer beliebigen Bank in ganz Europa abwickeln. Für Unternehmen bieten sich hierbei durch die mögliche Konzentration der Zahlungsverkehrsabwicklung, die Straffung von Bankverbindungen und die Vereinfachung des Liquiditätsmanagements diverse Kostensenkungspotenziale. Darüber hinaus nimmt die Auswahl an Zahlungsverkehrsdienstleistern deutlich zu.
+
+    Verbraucherinnen und Verbraucher sowie Unternehmen können sich über ein qualitativ verbessertes Leistungsangebot freuen, da Banken und Sparkassen auf der Grundlage der SEPA-Regelwerke über die darin definierten Basisleistungen hinaus zusätzliche, kundengerechte Dienstleistungen anbieten können, beispielsweise die Verwaltung von SEPA-Lastschriftmandaten im Kundenauftrag oder eine Vorankündigung bereits eingelieferter Kontobelastungen.
+
+    In 28 EU-Mitgliedstaaten verschiedene Zahlungssysteme aufrechtzuerhalten, lähmt nicht nur den Zahlungsverkehr und ein weiteres Zusammenwachsen des gemeinsamen Marktes, es ist auch unökonomisch. Denn sobald eine Zahlung die Grenze überschreitet, kann dies nur mittels SEPA-Überweisung oder SEPA-Lastschrift erfolgen. Banken und Sparkassen müssen somit verschiedene Systeme betreiben. Und auch die Kontoinhaber müssen neben ihren inländischen Kontodaten die SEPA-Daten vorhalten, um eine Auslandsüberweisung zu tätigen. Da ist es im Ergebnis viel einfacher, sich nur einen Datensatz für die Kontoverbindung zu merken.
+
+Nach oben
+Welche rechtlichen Grundlagen hat SEPA?
+
+Am 31. März 2012 ist die Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 – die so genannte SEPA-Verordnung – in Kraft getreten.
+
+Mit der SEPA-Verordnung wird der einheitliche Euro-Zahlungsverkehrsraum für Lastschriften und Überweisungen vollendet. Dazu sieht die Verordnung vor, dass Überweisungen und Lastschriften in Euro ab dem 1. Februar 2014 bestimmten rechtlichen und technischen Anforderungen genügen müssen. Dies hat zur Folge, dass die in den EU-Mitgliedstaaten gebräuchlichen inländischen Überweisungs- und Lastschriftverfahren für Zahlungen in Euro seit dem 1. Februar 2014 grundsätzlich ausgelaufen sind. Ab diesem Zeitpunkt sind entsprechende bargeldlose Zahlungen nur noch im Wege der SEPA-Überweisungsverfahren und SEPA-Lastschriftverfahren unter Verwendung der internationalen Kontokennung IBAN (International Bank Account Number) möglich.
+
+Ihre verfahrensmäßige Ausgestaltung finden die SEPA-Überweisung und die SEPA-Lastschriften in den europäischen Regelwerken des European Payments Council, den so genannten Rulebooks. In diesen Vertragswerken werden die Vorschriften, Praktiken und Standards sowie die Rechte und Pflichten der am Verfahren beteiligten Zahlungsdienstleister vereinbart. Die europäischen Regelwerke werden vom European Payments Council beschlossen. Er ist das Entscheidungs- und Koordinierungsgremium der europäischen Kreditwirtschaft für SEPA-Zahlverfahren. Jeder Zahlungsdienstleister, der SEPA-Verfahren anbieten möchte, muss die europäischen Regelwerke durch Beitritt anerkennen (Adherence Agreement).
+
+Nach oben
+
+In welchem Verhältnis stehen die europäische SEPA-Verordnung und das deutsche SEPA-Begleitgesetz?
+
+In Deutschland wird die europäische SEPA-Verordnung durch das so genannten SEPA-Begleitgesetz flankiert. Das SEPA-Begleitgesetz ist am 8. April 2013 in Kraft getreten.
+
+Nach oben
+Wohin kann ich mich im Fall einer IBAN-Diskriminierung wenden?
+
+Einige Unternehmen bieten ihren Kunden an, per Lastschrift zu bezahlen, beschränken diese Möglichkeit aber auf Girokonten, die bei einem Kreditinstitut im Inland geführt werden.  Dies stellt einen Verstoß gegen die SEPA-Verordnung dar (sog. IBAN-Diskriminierung).
+
+Soweit sich Beschwerden über den Verstoß eines Unternehmens gegen Artikel 9 der SEPA-Verordnung auf Unternehmen beziehen, die der Aufsicht der BaFin unterliegen, ist die BaFin für die inhaltliche Bearbeitung der Beschwerden zuständig.
+
+Hinweise dazu finden Sie auf der Webseite der BaFin unter
+
+http://www.bafin.de/DE/Verbraucher/BeschwerdenAnsprechpartner/beschwerdenansprechpartner_node.html in deutscher Sprache sowie unter
+
+http://www.bafin.de/EN/Verbraucher/BeschwerdenAnsprechpartner/beschwerdenansprechpartner_node_en.html in englischer Sprache.
+
+Verbraucher und Unternehmen können sich auch an eine der qualifizierten Einrichtungen nach § 4 Unterlassungsklagengesetz wenden. Eine aktuelle Liste dieser Einrichtungen finden Sie auf der Webseite des Bundesamtes für Justiz.
+
+https://www.bundesjustizamt.de/DE/SharedDocs/Publikationen/Verbraucherschutz/Liste_qualifizierter_Einrichtungen.pdf;
+
+Weiterhin kann eine solche Beschwerde auch an eine Industrie- und Handelskammer oder eine Handwerkskammer oder einen Verband zur Förderung gewerblicher oder selbstständiger beruflicher Interessen gemäß § 3 Abs. 1 Nr. 2 Unterlassungsklagengesetz bzw. § 8 Abs. 3 Nr. 2 Gesetz gegen den unlauteren Wettbewerb gerichtet werden. Die Adressen finden Sie auf der Webseite des Bundesministeriums für Wirtschaft unter https://www.bmwi.de/Redaktion/DE/Downloads/I/industrie-und-handelskammern-handwerkskammern-uwg-uklag-liste.html.
+
+Darüber hinaus können Verbraucher ihre Beschwerden auch an die Zentrale zur Bekämpfung unlauteren Wettbewerbs Frankfurt am Main e.V. – kurz Wettbewerbszentrale – senden, die eigens für Verstöße gegen die SEPA-Verordnung eine Beschwerdestelle auf ihrer Webseite eingerichtet hat.
