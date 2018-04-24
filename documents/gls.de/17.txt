@@ -1,0 +1,35 @@
+
+Muss ich FinTS/HBCI mit PIN und TAN separat freischalten lassen?
+
+Nein, wenn Sie für das Onlinebanking freigeschaltet sind, können Sie automatisch auch HBCI mit PIN und TAN nutzen.
+
+
+
+Ist die PIN der GLS BankCard für das FinTS/HBCI-Banking verwendbar?
+
+Nein, das ist nicht möglich, die GLS BankCard kann für FinTS/HBCI nicht mehr freigeschaltet werden. Bitte bestellen Sie eine GLS OnlinebankingCard.
+
+Die FinTS/HBCI-PIN ist sechsstellig und wird neben dem PUK in einem separaten Brief geliefert. Die Änderung der HBCI-PIN ist für die Nutzung der Onlinebanking Anwendung nicht zwingend erforderlich. Aus Sicherheitsgründen empfehlen wir, die HBCI-PIN bei der ersten Benutzung in eine eigene PIN zu ändern, die nur Ihnen bekannt ist.
+
+Die Funktionen zum Ändern der FinTS/HBCI-PIN finden Sie in Ihrer Onlinebanking-Software. Wird die FinTS/HBCI-PIN hintereinander drei Mal falsch eingegeben, wird die PIN gesperrt und damit auch die GLS OnlinebankingCard. Diese Sperre kann mit dem FinTS/HBCI-PUK wieder aufgehoben werden.
+
+
+Ich habe schon eine Zahlungsverkehrssoftware. Kann ich diese auch bei der GLS Bank nutzen?
+
+Ja, das ist möglich. Klären Sie bitte beim Hersteller/Verkäufer Ihrer Software ab, ob eines der von uns angebotenen Unterschriftsverfahren von Ihrer Software unterstützt wird. Aktuell sind das: PIN/TAN mit mobileTAN, PIN/TAN mit SmartTAN optisch, HBCI mit Unterschriftsdatei, HBCI mit Chipkarte, EBICS (für Firmenkunden).
+
+
+Bietet die GLS Bank eine eigene Zahlungsverkehrssoftware an?
+
+Ja, wir bieten Ihnen eBank Basis oder eBank Profi zum Download an.
+
+
+
+Was ist EBICS?
+
+Der Electronic Banking Internet Communication Standard (kurz: EBICS) bezeichnet einen in Deutschland multibankfähigen Standard für die Übertragung von Zahlungsverkehrsdaten über das Internet. Es wird hauptsächlich von Firmenkunden und großen Organisationen genutzt.
+
+
+"Bitte wenden Sie sich an Ihren Berater." Was nun?
+
+Bitte nutzen Sie in diesem Fall die Möglichkeit, das Problem direkt an unseren technischen Support zu senden. Klicken Sie dazu direkt nachdem der Fehler aufgetreten ist auf den Knopf "Kontakt" in der linken oberen Bildschirmecke. Schildern Sie im nächsten Formular Ihr Problem und wählen Sie den Knopf "absenden". Sollte diese Möglichkeit auch gesperrt sein, wenden Sie sich bitte an unsere Onlinebanking Hotline +49 234  5797 444.

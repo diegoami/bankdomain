@@ -1,0 +1,46 @@
+
+Wie ändere ich meine Mobilnummer?
+
+Einen Auftrag zur Änderung Ihrer Mobilnummer für den Empfang von TANs per SMS finden Sie unter "Änderungen vornehmen".
+
+
+
+Kann ich im Ausland die Mobile TAN per SMS empfangen?
+
+Der SMS Versand kann im Ausland funktionieren, oft kommt die SMS aber nicht zeitnah an und ist dann ungültig. Kundinnen und Kunden, die regelmäßig im Ausland sind, empfehlen wir das Smart TAN Verfahren oder das HBCI Verfahren.
+
+
+
+Ich habe bisher nur eine SMS zur Freischaltung für das Mobile TAN Verfahren erhalten. Was kann ich jetzt damit machen?
+
+Bitte warten Sie noch auf die Post von uns. Wir senden Ihnen in einem Brief an die Privatadresse noch Ihre VR-Kennung zu. Erst damit können Sie den Ersteinstieg im Internetbanking vornehmen.
+
+
+
+Ich erhalte die Mobile TAN nicht sofort. Was kann ich tun?
+
+Bitte schalten Sie Ihr Mobiltelefon aus und starten Sie es neu. Da wir eine besondere SMS-Versandart haben, muss ggf. das Handy an der Antenne neu angemeldet werden. Prüfen Sie die Empfangsstärke, falls diese nicht ausreicht, versuchen Sie es bitte an einem neuen Standort.
+Bitte beachten Sie, dass es bei Smartphones Sicherheitsprogramme geben kann, die den Empfang unbekannter SMS blocken. In diesem Fall lassen Sie das Telefon beim Verkäufer entblocken.
+
+
+Wie bediene ich den Smart TAN-Generator?
+
+Wie Sie Ihren SmartTAN-Generator bedienen, erfahren Sie in der Anleitung.
+
+
+
+Was ist ein ATC-Zähler?
+
+Der ATC-Zähler zählt die ausgegebenen TANs des Chips Ihrer GLS BankCard. Der Zähler muss mit dem Banksystem synchron laufen. Wird ein Fehler angezeigt, gleichen Sie den ATC (Application Transaction Counter = ein Abgleichverfahren für den TAN-Generator ) bitte an. Wie das geht, ist im Onlinebanking unter "Service & Verwaltung", =>SmartTAN =>ATC erklärt.
+
+
+Mein optischer TAN Generator liest die Daten nicht. Was nun?
+
+Dann können Sie die TANs auch manuell erstellen. Bitte klicken Sie dazu auf den blauen Link im unteren Bildschirmbereich ("Alternativ zu Sm@rt TAN optic können Sie die TAN manuell errechnen").
+Sollte das nicht funktionieren, rufen Sie uns bitte an. Wir überprüfen dann, ob der richtige Kartenlesertyp im Banksystem hinterlegt ist.
+Bitte achten Sie darauf, dass Ihre GLS BankCard nicht gesperrt und noch gültig ist.
+
+
+Woher bekomme ich einen neuen TAN-Generator?
+
+Einen neuen Smart TAN Generator können Sie schnell und bequem in unserem GLS Laden bestellen.

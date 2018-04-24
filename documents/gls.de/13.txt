@@ -1,0 +1,124 @@
+
+Was heißt Online-Verfügungsrahmen?
+
+Der Online-Verfügungsrahmen - auch SB-Limit - ist der Betrag, der täglich überwiesen werden kann. Das dient der Fehlervermeidung und ist eine Sicherheitsmaßnahme. Zum Verfügungsrahmen zählen auch terminierte Überweisungen, nicht jedoch Lastschriften. Sie sollten den Betrag so wählen, dass die notwendigen Überweisungen damit gedeckt sind.
+
+Bitte beachten Sie, dass Sie die Höhe des Online-Verfügungsrahmens aus Sicherheitsgründen nur mit einem schriftlichem Auftrag ändern können.
+
+
+Ich habe mich durch mehrfache falsche TAN Eingabe gesperrt
+
+Wenn Sie drei Mal die falsche TAN eingegeben und sich gesperrt haben, können Sie sich wieder freischalten lassen.
+Rufen Sie uns dazu bitte an, Telefon +49 234 5797 100.
+
+Bitte beachten Sie, dass wir einen Auftrag per Mail leider nicht annehmen können. Wir bitten Sie zwecks Legitimation um eine persönliche Rückmeldung.
+
+
+Mein SB Limit ist überschritten. Wie kann ich jetzt überweisen?
+
+Eine Überweisung ist immer nur innerhalb des bei der Kontoeröffnung festgelegten täglichen SB Limits möglich. Eine Überweisung über das Limit hinaus ist nicht möglich.
+
+Das SB Limit ist ein tägliches Limit und kann durch einen schriftlichen Auftrag erhöht werden. Bitte schicken Sie uns Ihren Auftrag eingescannt per E-Mail an kundendialog@gls.de, per Fax an +49 234 5797 222 oder per Post an GLS Bank, Postfach, 44774 Bochum.
+
+
+In welchem Zeitraum werden Überweisungen gebucht?
+
+Überweisungen auf Girokonten buchen wir werktags zwischen 7.30 Uhr und 17.00 Uhr, zu dieser Zeit erfolgt der letzte Datenaustausch.
+
+Interne Buchungen werden mit taggleichem Datum bis ca. 20.00 Uhr gebucht, danach mit dem nächsten Buchungstagdatum.
+
+
+Ich habe mich durch mehrfache falsche PIN-Eingabe gesperrt, was nun?
+
+Wenn Sie drei Mal die falsche PIN eingegeben und sich gesperrt haben, können Sie Ihre PIN wieder zurücksetzen lassen.
+
+Bitte rufen Sie uns an, Telefon +49  234 5797 100.
+
+Bitte beachten Sie, dass wir einen Auftrag per Mail leider nicht annehmen können. Wir bitten Sie zwecks Legitimation um eine persönliche Rückmeldung.
+
+
+Ich habe meine Online Banking PIN vergessen, was nun?
+
+Wenn Sie Ihre PIN vergessen haben, können Sie diese zurücksetzen lassen. Bitte rufen Sie uns an, Telefon +49 234 5797 100 oder schicken Sie uns einen schriftlichen Auftrag.
+
+
+
+Gibt es eine Banking App?
+
+Ja, GLS mBank ist eine plattformübergreifende*, multibankfähige und für GLS Bank Kunden*innen kostenlose Banking App, mit der Sie Ihre Bankgeschäfte auf Ihren mobilen Geräten sicher erledigen können.
+
+Mehr zur GLS mBank finden Sie hier.
+
+*Aktuell Android, BlackBerry, iPhone, Amazon Kindle.
+
+
+
+Gibt es Auszüge auch online?
+
+Ja, für Privatkunden empfehlen wir den Online-Auszug über den Postkorb zu nutzen. Am Monatsanfang werden Ihnen die Auszüge in Ihren elektronischen Postkorb im Onlinebanking eingestellt und können dort bequem abgerufen werden. Die Umstellung können Sie im Internet unter "Service und Verwaltung" selbständig vornehmen.
+
+Auch Geschäftskunden können den Online-Auszug nutzen. Dieser muss mindestens einmal im Monat selbständig erstellt werden. Der Abruf kann auch über ein ZV-Programm erfolgen. Für die Beauftragung benötigen wir einen schriftlichen Auftrag. Das entsprechende Formular finden Sie hier zum Download.
+
+
+
+Erhalte ich trotz aktivierter Onlineauszugsfunktion Auszüge am Kontoauszugsdrucker?
+
+Sie können bei fast allen Volks- und Raiffeisenbanken Kontoauszüge an einem Kontoauszugsdrucker abholen. Falls Sie Ihre Auszüge über das Internet abholen, kann der Auszugsdrucker nicht genutzt werden. Sie erhalten jedoch immer den aktuellen Kontostand ausgedruckt.
+
+
+
+Bis wieviel Uhr muss ich online überweisen, damit am selben Tag gebucht wird?
+
+Eine Online Überweisung, die Sie bis 17 Uhr in Auftrag geben, buchen wir noch am selben Tag. Der Betrag ist dann spätestens einen Bankarbeitstag später auf dem Empfängerkonto.
+
+
+
+Wie kann ich den Online-Verfügungsrahmen (SB Limit) ändern?
+
+Das Limit für Onlineüberweisungen können Sie jederzeit ändern. Dafür benötigen wir von Ihnen einen schriftlichen Auftrag mit Angabe des neuen Limits, Ihrer Kontonummer und mit Ihrer rechtsverbindlichen Unterschrift.
+
+Den Auftrag können Sie uns gerne eingescannt per E-Mail an kundendialog@gls.de schicken, faxen +49 234 5797 222 oder uns per Post zusenden, Adresse: GLS Bank, Postfach 44774 Bochum.
+
+
+
+Wie lege ich einen Dauerauftrag an?
+
+Einen Dauerauftrag können Sie in unserem Online Banking unter "Zahlungen" anlegen, ändern und löschen.
+
+
+
+Wie kann ich den Online-Verfügungsrahmen (SB Limit) ändern?
+
+Das Limit für Onlineüberweisungen können Sie jederzeit ändern. Dafür benötigen wir von Ihnen einen schriftlichen Auftrag mit Angabe des neuen Limits, Ihrer Kontonummer und mit Ihrer rechtsverbindlichen Unterschrift.
+
+Den Auftrag können Sie uns gerne eingescannt per E-Mail an kundendialog@gls.de schicken, faxen +49 234 5797 222 oder uns per Post zusenden, Adresse: GLS Bank, Postfach 44774 Bochum.
+
+
+
+Wie kann ich das Onlinebanking beantragen?
+
+Entscheiden Sie sich für eines der von uns angebotenen Onlinebanking Verfahren und schicken Sie uns dazu bitte den entsprechenden Onlinebanking Vertrag.
+
+
+
+Was ist die VR-Kennung?
+
+Im Oktober 2013 wurde im Onlinebanking die Anmeldung mit der Kontonummer durch die Anmeldung mit VR-Kennung oder einem selbst vergebenen Alias ersetzt. Eine Anmeldung mit Kontonummer ist nicht mehr möglich.
+
+
+Wie vergebe ich einen Alias für die VR-Kennung?
+
+Einen Alias für Ihre VR-Kennung können Sie im GLS Onlinebanking über den Punkt "Service & Verwaltung" und "VR-Kennung verwalten" vergeben und ändern.
+
+Eine Anleitung zur Alias-Vergabe finden Sie hier.
+
+
+Wo finde ich meine VR-Kennung?
+
+Ihre VR-Kennung finden Sie im Onlinebanking unter "Service & Verwaltung", dann weiter zu "VR-Kennung verwalten".
+
+Bitte drucken Sie sich Ihre VR-Kennung aus und vergeben Sie am besten gleich einen Alias.
+
+Weitere Informationen
+
+Eine Anleitung zur Alias-Vergabe finden Sie hier.

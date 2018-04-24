@@ -1,0 +1,62 @@
+
+Was ist PSD2?
+
+PSD2 ist die die neue EU-Zahlungsdiensterichtlinie. PSD steht für Payment Services Directive. Die Richtlinie regelt u.a. den Zugriff auf Zahlungskontodaten (Girokonten) durch Dritte. Dazu zählen neben den Kreditinstituten/Banken auch Zahlungsauslösedienste, Anbieter von Zahlungskarten und Kontoinformationsdienste. Die „2“ steht für die Version 2.
+
+Kunden*innen können Dritten den Zugriff erlauben. Banken müssen für den Zugriff Drittanbietern/Drittanbieterinnen eine technische Schnittstelle zur Verfügung stellen. Die Drittunternehmen unterliegen der Aufsicht und Kontrolle der BaFin bzw. der jeweiligen nationalen Aufsichtsbehörde. Ein Missbrauch ist mit hohen Strafen und ggf. dem Entzug der Lizenz verbunden.
+
+im GLS Bank-Blog blog.gls.de/aus-der-bank/psd2-eu-zahlungsdiensterichtlinie/
+
+Mehr zu PSD2 im GLS Bank-Blog
+
+
+
+Wie erfolgt nach PSD2 die Zustimmung zum Zugriff auf Kontodaten?
+
+PSD2 erlaubt nur die Abfrage von Daten eines Zahlungskontos (=Girokonto). Sie erfolgt über eine spezielle technische Schnittstelle, die Stand heute noch nicht vorhanden ist. Sie soll Ende des Jahres zur Verfügung stehen.
+
+Ein*e Kunde*in muss dann beim ersten Mal eine Kontoabfrage durch einen Dritten immer explizit mit seinen/ihren Zugangsdaten (Kontonummer, PIN und TAN) genehmigen. Diese Genehmigung gilt für 90 Tage, spätestens dann muss er/sie erneut seine Zugangsdaten mit einer neuen TAN bestätigen.
+
+Der Vorgang ist streng reguliert und muss durch den Dritten dokumentiert werden. Ein alleiniger Hinweis in den AGBs ist nicht gestattet. Durch die notwendige TAN ist die Zustimmung nicht manipulierbar.
+
+Solange die "PSD2-Schnittstelle" noch nicht zur Verfügung steht, wird für die Abfrage von Kontodaten die FinTS-Schnittstelle genutzt. Hierfür fragen die Drittanbieter*innen bei den Kunden*innen die Zugangsdaten zum Konto ab. Damit „sieht“ der/die externe Dienstleister*in alle Daten, die auch ein*e Kontoinhaber*in in seinem/ihrem Onlinebanking sieht.
+
+Mehr zu PSD2 im GLS Bank-Blog
+
+
+
+Welche Daten können von Drittanbietern nach PSD2 abgerufen werden?
+
+Sofern die Zustimmung des Kunden/der Kundin vorliegt, können Daten von Zahlungskonten - in der Regel sind das Girokonten - abgerufen werden. Diese Abfrage betrifft sowohl Online- als auch Nicht-Online-Zahlungskonten, nicht jedoch Sparkonten o.ä.
+
+Die Zustimmung gilt für 90 Tage, auch rückwirkend. Sind die 90 Tage abgelaufen, müssen Kunden*innen einem weiteren Zugriff erneut zustimmen.
+
+Wie die PSD2-Schnittstelle technisch genau gestaltet sein wird, ist noch nicht endgültig festgelegt. Auch nicht, ob zukünftig Einschränkungen beim Datenzugriff möglich sein werden und ob es Widerspruch- oder Sperrmöglichkeiten geben wird. Das wird die sogenannte Berlin Group voraussichtlich bis Ende 2018 festlegen.
+
+Mehr zu PSD2 im GLS Bank-Blog
+
+
+
+Wie kann man bei PSD2 den Zugriff auf seine Kontodaten kontrollieren?
+
+Nach der PSD2 Richtlinie muss für den Zugriff auf die Kontodaten die explizite Zustimmung des Kontoinhabers vorliegen. Diese müssen dafür z. B. Kontonummer und PIN oder Alias und PIN angeben. Widerspruch- oder Sperrmöglichkeiten gibt es bisher nicht.
+
+Kreditkartenkonten sind nicht von der PSD2-Regulierung betroffen, dafür wird es keine Abfragemöglichkeit geben. Bei der Kreditkartenzahlung gibt man die IBAN seines Girokontos nicht an, sondern nur die Kreditkartennummer.
+
+Mehr zu PSD2 im GLS Bank-Blog
+
+
+Kann ich meine Zustimmung nach PSD2 für Drittanbieter widerrufen?
+
+Die genaue Umsetzung der PSD2-Richtlinie ist noch nicht endgültig festgelegt. Dafür ist die sogenannte Berlin Group zuständig. Wir setzen uns über unsere Partner im Verband der Genossenschaftsbanken in diesem Gremium dafür ein, dass zusätzliche Sicherheitskriterien wie eine Sperre oder ein Widerspruch zu einer erteilten Zustimmung mit aufgenommen werden. Ob ein Drittanbieter den Widerspruch auf seiner Seite anbietet oder annimmt, müssen Sie dort prüfen.
+
+Mehr zu PSD2 im GLS Bank-Blog
+
+
+Wenn ich einem Händler eine Lastschrift erteile, stimme ich damit dem Informationsabruf nach PSD2 zu?
+
+Bei Lastschrifteinzug benötigt der/die Händler*in die Daten, um das Mandat zu erstellen und die Lastschrift einziehen zu können. Er/sie benötigt keinen Zugriff auf das Kundenkonto.
+
+Falls die Kontozugangsdaten für den Lastschrifteinzug abgefragt werden, sollte man diese Daten verweigern, da sie nicht erforderlich sind.
+
+Mehr zu PSD2 im GLS Bank-Blog

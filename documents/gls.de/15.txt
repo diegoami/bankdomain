@@ -1,0 +1,68 @@
+
+Können kontaktlose Chips/Karten ausgespäht werden?
+
+Um von einer kontaktlosen Karte etwas abzubuchen, benötigt man ein zertifiziertes Zahlungsterminal mit Verbindung zu einem Zahlungsdienstleister. Damit ist man bekannt und nicht mehr anonym. Alle Transaktionen sind nachvollziehbar, betrügerische Versuche werden umgehend zurück abgewickelt. Der Aufwand aus Sicht des Betrügers steht in keinem Verhältnis zum möglichen Ertrag.
+
+Der kontaktlose Chip ist identisch mit dem auf der normalen BankCard. Die Antenne ist naturgemäß etwas kleiner (geringere Reichweite).
+
+Bei kontaktlosen Chips/Karten gilt:
+
+    NFC ist eine drahtlose Technologie auf Induktionsbasis. Ein Smartphone als Initiator baut    ein elektromagnetisches Feld auf.
+    Die Karte selbst funkt nicht aktiv, sondern verändert nur den Schwingkreis des Feldes.
+    Das elektromagnetische Feld, das mit einem Smartphone aufgebaut werden kann, liegt bei  13,56 MHz, was einer Reichweite von 10 cm entspricht.
+    Diesen Wert unterschreiten die meisten Geräte deutlich. Bei einem Kassenterminal liegt er unter 4 cm. Ein Smartphone schafft in den seltensten Fällen mehr als 2 cm. Dies können Sie selbst mit der App "Scheckkartenleser" testen. Damit ist es möglich, eine Karte durch das direkte Anlegen an das Smartphone auszulesen. Sobald die Karte im Portemonnaie verschwindet, wird dies deutlich schwieriger, da schon wenig Kleingeld ausreicht, um den Funkverkehr zu stören.
+
+
+
+
+Worauf muss ich beim optischen TAN-Verfahren achten?
+
+Vergleichen Sie bei den Verfahren Sm@rtTAN optisch und Sm@rtTAN Photo immer die im Kartenleser angezeigten Daten mit den von Ihnen beabsichtigten Vorgängen.
+
+Wenn Sie z.B. eine Rechnung bezahlen, vergleichen Sie die Bankverbindung des Empfängers und den Betrag mit dem Originalrechnungsbeleg. Bei Abweichungen geben Sie Ihre TAN nicht ein und führen den Auftrag nicht aus!
+
+Mehr in unseren Sicherheitshinweisen
+
+
+Wie oft soll ich meine PIN ändern?
+
+Wir empfehlen, die PIN regelmäßig zu ändern, z.B. einmal im Monat. Unbedingt ändern müssen Sie Ihre PIN, wenn auf Ihrem Computer ein Virus entdeckt wurde oder Sie das Onlinebanking auf einem fremden Computer genutzt haben.
+
+Die PIN ändern Sie im Online-Banking unter: Banking --> Service & Verwaltung --> Online-Banking-Zugang --> PIN ändern
+
+
+Wie erstelle ich eine sichere PIN?
+
+Für eine sichere Onlinebanking PIN empfehlen wir ein Kombination aus Groß- und Kleinbuchstaben, Ziffern und Sonderzeichen. Die PIN muss mindestens acht Stellen haben. Da wir nach drei Fehlversuchen den Zugang sperren, sind acht Stellen ausreichend. Achten Sie darauf, dass Sie keine Daten verwenden, die leicht zu erraten sind (wie z.B. Geburtstage) und dass Sie bei der Eingabe nicht beobachtet werden. Die PIN sollte einmalig sein, verwenden Sie z.B. für paydirekt ein anderes Passwort.
+
+Ändern Sie regelmäßig Ihre Onlinebanking PIN.
+
+Weitere Hinweise erhalten Sie auch direkt bei der Vergabe Ihrer Onlinebanking PIN.
+
+Die PIN ändern Sie im Online-Banking unter: Banking --> Service & Verwaltung --> Online-Banking-Zugang --> PIN ändern
+
+
+
+Was ist das sicherste Onlinebanking-Verfahren der GLS Bank?
+
+Darauf gibt es keine einfache pauschale Antwort. Alle unsere angebotenen Onlinebanking-Zugänge sind sehr sicher, hängen aber von Ihrer verantwortungsvollen Verwendung ab. Insbesondere, wenn es Kontrolldaten gibt, die Sie mit den Originaldaten vergleichen müssen.
+
+Grundsätzlich empfehlen wir, dass sicherheitsbewusste Kunden*innen zwei Kanäle nutzen sollten, also z. B. GLS mBank mit Sm@rtTan photo.
+
+Ein Sicherheitsgewinn, unabhängig vom Verfahren, ist jedoch der Einsatz einer Zahlungsverkehrssoftware wie z. B. unser GLS eBank Basis Programm, da die Angriffe fast ausschließlich webbasierte Verfahren trifft.
+
+Achten Sie auch auf ein immer aktuelles Betriebssystem inkl. Sicherheitssoftware.
+
+
+
+Schadprogramme auf dem Rechner? Was soll ich tun?
+
+Wenn Sie keine Transaktionsnummer (TAN) eingegeben haben, kann beim Onlinebanking über unsere Webseite kein Geld verloren gehen und nichts Wichtiges geändert worden sein.
+
+Bitte ändern Sie an einem "sauberen" Rechner Ihre Onlinebanking PIN und die Passwörter Ihrer anderen online genutzen Zugänge. Ändern Sie auch Ihren Alias im Service-Bereich des Onlinebankings. Wenn Ihnen dies kurzfristig nicht möglich ist, lassen Sie sich von uns eine neue Start-PIN zusenden und den Alias durch die Bank löschen.
+
+Recherchieren Sie die Art der "Infektion" und lassen Sie diese - wenn möglich - durch eine Schutz-Software entfernen. Holen Sie sich ggf. den Rat von Fachleuten ein. Manche Schadprogramme lassen sich nicht entfernen, dann muss das Betriebssystem/Ihr Computer neu installiert werden.
+
+Erstellen Sie regelmäßig Datensicherungen (Backups), prüfen Sie Ihren Rechner auf Aktualität aller installierten Programme und nutzen Sie einen aktuellen Virenscanner.
+
+Mehr in unseren Sicherheitshinweisen

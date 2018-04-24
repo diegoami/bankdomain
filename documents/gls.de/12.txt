@@ -1,0 +1,60 @@
+
+Was ist SEPA?
+
+SEPA (Single Euro Payments Area) ist der einheitliche Euro-Zahlungsverkehrsraum. Er besteht zurzeit aus 34 teilnehmenden Ländern, 28 EU-Länder, 4 EFTA-Länder, San Marino und Monaco. SEPA betrifft alle Kontoinhaberinnen und Kontoinhaber.
+
+
+
+Wo finde ich meine IBAN?
+
+Die IBAN finden Sie auf der Rückseite Ihrer GLS BankCard, auf den Kontoauszügen und im Onlinebanking Portal (wählen Sie dafür in der Finanzübersicht hinter Ihrem Girokonto den Button "I" für Informationen). Die BIC der GLS Bank lautet GENODEM1GLS.
+
+Wenn Sie die IBAN anderer Bankverbindungen berechnen oder die BIC anderer Banken suchen, so nutzen Sie doch einfach das kostenlose Angebot von www.iban-rechner.de.
+
+
+Wie kann ich die IBAN errechnen und BIC herausfinden?
+
+Die IBAN finden Sie auf der Rückseite Ihrer GLS BankCard, auf den Kontoauszügen und im Onlinebanking Portal (wählen Sie dafür in der Finanzübersicht hinter Ihrem Girokonto den Butten "I" für Informationen).
+
+Wenn Sie die IBAN anderer Bankverbindungen berechnen oder die BIC anderer Banken suchen, so nutzen Sie doch einfach das kostenlose Angebot von www.iban-rechner.de.
+
+
+Wie unterscheiden sich SEPA- und Auslandsüberweisung?
+
+Sepa-Überweisungen sind nur in Euro, ohne zusätzliche Weisung (z.B.eilig/telegrafisch), mit Entgeltteilung (share) innerhalb der EU-/EWR-Staaten und in die Schweiz/Monaco möglich. Übrige grenzüberschreitende Überweisungen sind Auslandsüberweisungen.
+
+
+Welche Widerspruchsfristen gelten?
+
+Eine SEPA-Basislastschrift kann innerhalb von acht Wochen nach Belastung an den Einreicher zurückgegeben werden, d.h. eine entsprechende Kontobelastung wird rückgängig gemacht. Ein Lastschrifteinzug ohne Mandat, d.h. eine unautorisierte Lastschrift, kann vom Zahler innerhalb von 13 Monaten nach der Kontobelastung zurückgegeben werden.
+
+Bei der SEPA-Firmenlastschrift besteht keine Möglichkeit der Rückgabe der Lastschrift. Der Zahlungsdienstleister des Zahlers (Zahlstelle) ist verpflichtet, die Mandatsdaten bereits vor der Belastung auf Übereinstimmung mit der vorliegenden Zahlung zu prüfen.
+
+
+Was ist bei SEPA-Mandaten zu beachten?
+
+Eine Mandatsreferenz sollten Sie nicht weiter verwenden, wenn ein Mitglied einem Mandat widersprochen hat. Diese Referenz ist womöglich bei der kontoführenden Bank gesperrt. Wenn Sie zum Beispiel die Mitgliedsnummer als Mandatsreferenz verwenden, sollten Sie diese erweitern, z.B. um einen Buchstaben oder dem Monat und Jahr des Mandats.
+
+Ein Mandat verfällt erst 36 Monate nach Tätigung der letzen Buchung. Nicht das Datum der Unterschrift (Mandatserteilung) ist entscheidend, sondern das Fälligkeitsdatum der zuletzt gebuchten Lastschrift.
+
+
+
+Was ist, wenn ein Buchungstermin nicht gehalten werden kann?
+
+Ist ein Buchungstermin zum Beispiel aufgrund technischer Probleme nicht einzuhalten, ist eine neue Vorabbenachrichtigung mit der Mitteilung des neuen Belastungstermins nötig. Wenn Sie keine andere Frist (z.B. in den  AGBs) vereinbart haben, sogar 14 Tage vor dem nächsten Buchungstermin. Wir empfehlen daher, die Benachrichtigungsfrist zu verkürzen, z.B. in den Geschäftsbedingungen.
+
+
+
+Gibt es Eillastschriften?
+
+Die Fristen für die Buchung und Vorlegung von Eillastschriften wurden in die SEPA-Basis- oder in die SEPA-Firmen-Lastschriften übernommen. Damit sind Eillastschriften unnötig. Sie werden nicht mehr angeboten.
+
+
+Was bedeuten BIC und SWIFT?
+
+Der Bank Identifier Code, kurz BIC, ist die international eindeutige Kennung der Kreditinstitute, die am SWIFT-Netzwerk (weltweites Zahlungsverkehrsnetz der Kreditinstitute) teilnehmen. Der BIC ist 8- bis 11-stellig und beinhaltet einen vierstelligen Bankcode, danach ein zweistelliges Länderkürzel und eine zweistellige Codierung des Ortes, sowie ggfs. einen dreistelligen Branchen- oder Filialcode.
+
+
+Wie lautet der BIC der GLS Bank?
+
+GENODEM1GLS
