@@ -1,0 +1,59 @@
+
+Wie und wo bezahle ich meine E-Rechnungen?
+
+Ihre E-Rechnungen empfangen und bezahlen Sie direktin Ihrem E-Banking unter dem Menüpunkt E-Rechnung.
+nach oben
+Wie sieht die E-Rechnung aus?
+
+Bei der E-Rechnung empfangen Sie die für die Zahlung relevanten Daten wie Name des Rechnungsstellers, Betrag und Fälligkeitsdatum sowie ein PDF Ihrer Rechnung.
+
+Zum PDF gelangen Sie über einen Link bei der Zahlungsmaske. Das PDF steht Ihnen nach der Bezahlung mindestens 90 Tage zum Herunterladen zur Verfügung. Sie können das PDF auf Ihrem Computer speichern oder bei Bedarf ausdrucken.
+
+Zum Öffnen des PDF benötigen Sie den Adobe Reader. Laden Sie ihn auf der Website von Adobe kostenlos herunter.
+
+nach oben
+Was kostet es, wenn ich E-Rechnungen empfangen will?
+
+Die Teilnahme an der E-Rechnung ist für Privatpersonen kostenlos.
+
+Informationen über allfällige E-Banking-Gebühren erhalten Sie direkt bei Ihrer Bank.
+
+nach oben
+Wie merke ich, dass eine neue E-Rechnung verfügbar ist?
+
+Bei den meisten Banken erhalten Sie nach dem Einloggen ins E-Banking eine Nachricht über neu eingetroffene E-Rechnungen. Zudem können Sie im E-Banking einstellen, ob Sie per E-Mail über neue E-Rechnungen informiert werden wollen. Weitere Informationen erhalten Sie bei Ihrer Bank.
+nach oben
+Was passiert, wenn ich eine E-Rechnung nicht bezahle?
+
+Die E-Rechnung bleibt während mindestens 90 Tagen im System verfügbar und wird dann gelöscht. Zudem wird Ihr Rechnungssteller eine Mahnung auslösen – als E-Rechnung oder Papierrechnung.
+nach oben
+Was ist der Unterschied zwischen der E-Rechnung und LSV/Debit Direct?
+
+Beim LSV/Debit Direct belastet der Rechnungssteller Ihr Konto, welches Sie in der Belastungsermächtigung angegeben haben, direkt. Sie erhalten für jede Belastung eine Anzeige von Ihrem Finanzinstitut. Wenn Sie nicht einverstanden sind, können Sie innerhalb der definierten Frist Widerspruch einlegen und erhalten Ihr Geld zurück.
+
+Bei der E-Rechnung empfangen Sie Ihre Rechnungen direkt im E-Banking und erhalten kein Papier mehr. Sie bestimmen, ob und wann Sie die E-Rechnung bezahlen und behalten somit die volle Kontrolle.
+nach oben
+Wer steht hinter der E-Rechnung?
+
+Hinter der E-Rechnung stehen PostFinance AG und SIX Paynet AG, die das E-Rechnungssystem für die Schweizer Banken betreibt. Zudem wird die E-Rechnung von den vielen Rechnungsstellern unterstützt, die an die E-Rechnungssysteme von PostFinance AG und SIX Paynet AG angeschlossen sind.
+nach oben
+Wie lautet meine E-Rechnungs-Teilnehmernummer?
+
+Ihre Teilnehmernummer für die E-Rechnung finden Sie in Ihrem E-Banking. Weitere Informationen erhalten Sie bei Ihrer Bank.
+nach oben
+Warum bekomme ich E-Mail ohne Angaben zur Rechnung bzw. näheren Angaben zum Rechnungssteller?
+
+Hierbei handelt es sich um ein sogenanntes Ankündigungs-E-Mail, welches die Rechnungsempfänger erhalten, sobald der Rechnungssteller eine Rechnung ins E-Banking sendet. Aus Datenschutzgründen stehen darin keine weiteren Angaben. Bei den Einstellungen in Ihrem E-Banking, unter dem Menupunkt E-Rechnung, können Sie Anpassungen vornehmen, falls Sie diese Ankündigungen nicht mehr wünschen.
+nach oben
+Ich möchte keine Ankündigungs-E-Mails mehr erhalten. Wie muss ich vorgehen?
+
+Bei den Einstellungen im E-Banking Ihrer Bank, unter dem Menupunkt E-Rechnung, können Sie entsprechende Anpassungen vornehmen. Bei Fragen wenden Sie sich bitte an die Supportabteilung Ihrer Bank.
+nach oben
+Wie ändere ich meine Adresse im E-Banking?
+
+Bei den Einstellungen im E-Banking Ihrer Bank, unter dem Menupunkt E-Rechnung, können Sie entsprechende Anpassungen vornehmen. Bei Fragen wenden Sie sich bitte an die Supportabteilung Ihrer Bank.
+nach oben
+Wie ändere ich meinen Namen im E-Banking?
+
+Bei entsprechenden Fragen wenden Sie sich bitte an die Supportabteilung Ihrer Bank.
+nach oben

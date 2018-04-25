@@ -1,0 +1,63 @@
+Wer erhält die Fidor SmartCard und was sind die Voraussetzungen für den Erhalt?
+
+Voraussetzung für den Erhalt der Fidor SmartCard ist zunächst ein voll legitimiertes Fidor Smart Girokonto. Da die Karte bis zu einem bestimmten Betrag auch an Terminals eingesetzt werden kann, welche keine online Autorisierung unterstützen, ist eine Bonitätsprüfung notwendig.
+
+Für die Prüfung wird vorranging der interne Score des Kunden bei der Fidor herangezogen. Sollte der interne Score nicht ausreichend sein, kann eine externe Bonitätsabfrage über Boniversum durchgeführt werden. Das Konto sollte als Gehalts-/Hauptkonto geführt werden und regelmäßige Geldeingänge aufweisen sowie über Guthaben verfügen, nicht im Soll sein und keinen aktiven Geldnotruf aufweisen.
+
+Bestandteile des internen Scorings sind z. B. Kontohistorie von mind. 3 Monaten und regelmäßiger Geldeingang. Sollten Sie aufgrund Ihrer Kontohistorie (z.B. Neukunden) die Karte nicht erhalten, gibt es hierfür die Möglichkeit ein externes Scoring über Boniversum anzustoßen.
+
+Der Austausch an Informationen ist hierbei nur einseitig. Bedeutet, dass uns zu einer Anfrage entsprechende Informationen von der Auskunftei zugesandt werden, ohne das Fidor entsprechende Ergebnisse daraus zurückmeldet (z. B. ob Kartenbestellung erfolgreich war).
+
+Dieses Verfahren kommt daher einer Konditions- und nicht einer Kreditanfrage gleich, die sich auch im Wiederholungsfall nicht negativ auf ein mögliches Scoring auswirken sollte.
+
+Weitere Infos und häufig gestellte Fragen finden Sie auch direkt unter http://www.meineauskunft.org
+
+Was führt zu einer Ablehnung der Beantragung der Fidor SmartCard?
+
+Sofern die Vergabekriterien nicht erfüllt sind, behält sich die Fidor Bank eine Ablehnung der Beantragung der Fidor SmartCard vor.
+
+Mögliche Gründe einer Ablehnung können sein:
+
+- keine regelmäßige Nutzung des Kontos
+- keine regelmäßigen Geldeingänge (z.B. wiederkehrende Gehaltseingänge)
+- Probleme bei der Rückzahlung von Krediten / Geldleihen in der Vergangenheit (z.B. nicht fristgerecht zurückgezahlte Geld-Notrufe)
+- die Kombination aus internen und externen Informationen für eine positive Kreditentscheidung sind nicht ausreichend
+
+Sie können Ihre Bonität positiv beeinflussen, indem Sie Ihr Fidor Smart Girokonto aktiv nutzen (es beispielsweise zu Ihrem Gehaltskonto mit wiederkehrenden Geldeingängen machen), Überfälligkeiten vermeiden, Ihre persönlichen Informationen aktuell halten, Ihr Profil vervollständigen und aktiv unsere Community nutzen.
+
+Hinweis: Sollten Sie alle Vergabekriterien erfüllen, dennoch eine Ablehnung erhalten, schreiben Sie uns bitte eine Mail an info@fidor.de. Den Sachverhalt prüfen wir dann gerne für Sie.
+
+Ich habe bereits eine Fidor Smart Prepaid MasterCard. Kann ich auch eine Fidor SmartCard bestellen?
+
+Wenn Sie bereits im Besitz einer Fidor Smart Prepaid MasterCard sind, können Sie sich auch die Fidor SmartCard bestellen. Ihre Fidor Smart Prepaid MasterCard ist weiterhin noch so lange gültig bis Sie die Fidor SmartCard aktivieren. Mit Aktivierung der Fidor SmartCard wird automatisch die Kündigung der Fidor Smart Prepaid MasterCard veranlasst.
+
+Erhalte ich die Fidor SmartCard auch, wenn ich ein P-Konto bei der Fidor Bank habe?
+
+Aktuell kann für ein P-Konto keine SmartCard bestellt werden.
+
+Wie lange ist die Fidor SmartCard gültig?
+
+Die Fidor SmartCard hat eine Gültigkeitsdauer von 3 Jahren. Sechs Wochen bevor das Ablaufdatum Ihrer Karte erreicht ist senden wir Ihnen eine Erinnerung per E Mail zu. Zwei Wochen vor Erreichen des Ablaufdatums wird die Erneuerung der Karte automatisch angestoßen, es sei denn Sie haben die Karte gekündigt oder widersprechen der Verlängerung.
+
+Wo wird die Fidor SmartCard akzeptiert?
+
+Die Fidor SmartCard wird weltweit überall dort akzeptiert wo mit MasterCard, Maestro oder PayPass gezahlt werden kann.
+
+Wie funktioniert die PIN-Abfrage bei der Fidor SmartCard?
+
+Ihre Fidor SmartCard ist so eingestellt, dass die PIN stets zur Umsatzverifizierung verlangt wird, wenn ein Terminal fähig ist diese abzufragen.
+
+Was ist MasterCard PayPass?
+
+MasterCard PayPass ermöglicht Ihnen das kontaktlose Bezahlen. In Deutschland können Sie damit Beträge bis 25 € tätigen ohne die Karte einmal aus der Hand geben zu müssen oder die Zahlung per Unterschrift oder PIN Nummer zu authentifizieren.
+
+Eine Übersicht von MasterCard PayPass Akzeptanzstellen finden Sie hier:
+http://www.mastercard.com/de/privatkunden/services_paypass_locator.html
+
+Aus Sicherheitsgründen kann die erste PayPass Transaktion nur dann getätigt werden, wenn zuvor eine online Autorisierung/ kontaktbehaftete Transaktion stattgefunden hat. Zahlen Sie dazu Ihren ersten Einkauf mit Ihrer Fidor SmartCard wie gewohnt, in dem Sie die Karte in das Kartenlesegerät geben und Ihren Einkauf mit Ihrer PIN Nummer bestätigen.
+
+Ist die SmartCard eine Prepaidkarte?
+
+Nein, die SmartCard ist keine Prepaidkarte.
+
+

@@ -1,0 +1,9 @@
+F: Haben Sie Probleme beim Zugriff auf mastercard.com?
+
+A: Diese Seite ist für folgende Browser optimiert:
+
+    Google Chrome (aktuelle Version)
+    Firefox (aktuelle Version)
+    Internet Explorer 11
+    Safari (aktuelle Version)
+

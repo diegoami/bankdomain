@@ -1,0 +1,51 @@
+Was ist Verified by Visa?
+
+Verified by Visa ist ein von Visa zur Verfügung gestellter Service, der eine zusätzliche Sicherheitsvorkehrung darstellt und sichert, dass nur Sie Ihre Visa-Karte bei Käufen im Internet benutzen.
+Welchen Nutzen ziehe ich als Kunde daraus?
+
+Dieser Service erhöht die Sicherheit, wenn Sie Ihre Visa-Karte bei Käufen im Internet benutzen. Sie gehen sicher, dass jedes Geschäft, das das Verified by Visa-System nutzt, ein gesetzmäßiges Handelsunternehmen ist.
+Sind meine persönlichen Daten geschützt?
+
+Ja. Ihre Daten werden über eine Verbindung mit starker Verschlüsselung gesendet und auf einem sicheren Server gespeichert.
+Was kostet Verified by Visa?
+
+Mit diesem Service sind keine zusätzlichen Kosten verbunden.
+Wie werden meine Daten behandelt?
+
+Die Jyske Bank versichert Ihnen, dass die von Ihnen gemachten Angaben, ausschließlich zur Registrierung verwendet werden. Ihre Daten sind geschützt und werden weder von Dritten genutzt noch an Dritte weitergegeben - ausgenommen davon sind unsere Vertragspartner, die diesen Service im Namen von Visa und der Jyske Bank betreiben. Ebenso sind Sie von dem Schutz umfasst, der Ihnen zuteil wird, wenn Sie Ihre Visa-Karte in einer physischen Verkaufseinrichtung benutzen.
+One Time Password (einmalig verwendbares Passwort)
+Was ist der “One Time Password”-Service?
+
+OTP ist ein neuer Service, der ein höheres Maß an Sicherheit in Verbindung mit dem Internethandel bietet, da er Sie gegen den unberechtigten Gebrauch Ihrer Karte schützt, indem ein sechsstelliger Code zu verwenden ist, der nur einmal verwendet werden kann.
+Wie funktioniert OTP?
+
+Wenn Sie im Internet einen Kauf bei einem Einzelhändler vornehmen, der diesem System angeschlossen ist, wird automatisch eine SMS an die Mobiltelefonnummer gesendet, die bei uns registriert ist. Sie werden darum gebeten, Ihr OTP (einmalig verwendbares Passwort) einzugeben. Wenn Sie das korrekte OTP eingegeben haben, wird der Kauf zur Genehmigung an die Bank gesendet, und Sie erhalten die Antwort auf der Webseite des Geschäfts.
+Ist die Benutzung von OTP (einmalig verwendbares Passwort) einfach?
+
+Ja. Wenn Sie einen Kauf im Internet tätigen und Ihre Zahlungsinformationen eingeben, erscheint automatisch ein Mitteilungsfenster von Ihrem Kartenaussteller, in dem Sie um die Eingabe Ihres OTP gebeten werden. Nachdem Sie die Angaben zu Ihrer Bestellung überprüft haben, geben Sie Ihr OTP ein und schließen damit den Kauf ab.
+Kann ein OTP (einmalig verwendbares Passwort) wiederholt gesendet werden?
+
+Ja. Wenn Sie das OTP (einmalig verwendbares Passwort) nicht erhalten haben, können Sie auf 'Resend' klicken. Sie sollten jedoch 2 - 3 Minuten warten, bevor sie von dieser Möglichkeit (Resend OTP) Gebrauch machen.
+Muss ich eine neue Karte beantragen, damit ich die OTP-Funktion nutzen kann?
+
+Nein, eine neue Karte ist nicht erforderlich. Die OTP-Funktion funktioniert zusammen mit Ihrer jetzigen Karte.
+Welche Systemanforderungen gelten für die Verwendung von OTP?
+
+Die OTP-Funktion arbeitet mit den meisten Internetbrowsern zusammen. Sie sollten sichergehen, dass Java Script aktiviert ist. Wenn dies nicht der Fall ist, kann es sein, dass die OTP-Funktion nicht korrekt funktioniert. Sollten Probleme auftreten, stehen wir Ihnen jederzeit gern zur Verfügung.
+Kann ich die OTP-Funktion von jedem Computer aus benutzen?
+
+Ja. Es muss keine spezielle Software installiert werden, weshalb Sie von jedem Computer aus im Internet handeln und dabei den zusätzlichen Schutz des einmalig verwendbaren Passwortes (OTP) genießen können.
+Kann ich meine Karte bei Käufen im Internet benutzen, auch wenn das betreffende Geschäft nicht dem Verified by Visa-Service angeschlossen ist?
+
+Ja. Wie haben jedoch folgende Empfehlungen, wenn Sie im Internet in Geschäften einkaufen, die nicht von dieser Authentifizierungsmethode Gebrauch machen:
+
+    Handeln Sie nur mit Geschäften, zu denen Sie Vertrauen haben und die hohes Ansehen genießen.
+    Bewahren Sie jegliche Dokumentation für alle Ihre Internetkäufe auf, hierunter Bestellbestätigungen, Rechnungen u. a. m. per E-Mail.
+    Lesen Sie die Geschäftsbedingungen gründlich durch, bevor Sie einen Kauf tätigen.
+    Benutzen Sie die neuste Version Ihres Internetbrowsers und sorgen Sie dafür, dass das Steuerungssystem Ihres Computers auf dem neusten Stand ist.
+
+Wie verhalte ich mich, wenn ich während eines Kaufs Fragen habe?
+
+Für weitere Information können Sie unter +350 200 59241 anrufen. Unser Card Services-Team ist Ihnen gern behilflich.
+
+Der Card Services Helpdesk hat von Montag bis Freitag von 08:00 bis 23:59 Uhr und von Samstag bis Sonntag von 13:30 bis 21:30 Uhr geöffnet. Alle Zeitangaben sind MEZ (mitteleuropäische Zeit).

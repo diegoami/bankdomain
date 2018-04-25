@@ -1,0 +1,55 @@
+Was ist FINAVI?
+
+FINAVI ist ein neuartiges Produkt für KMUs. Sie können nun die Finanzen Ihrer Firma bequem auf einer Plattform managen.
+
+
+- Verbinden Sie all Ihre Geschäftskonten, um einen klaren Überblick Ihrer Finanzen zu erhalten
+- Eröffnen Sie ein neues Geschäftskonto online innerhalb weniger Minuten
+- Beantragen Sie digital und branchenunabhängig einen Geschäftskredit
+- Erhalten Sie einen kategorisierten Überblick über Ihre Transaktionen und managen Sie Ihr gesamtes Budget
+- Planen Sie besser durch Cashflow Prognosen und proaktive Benachrichtigungen
+- Geben Sie Ihren Kollegen Zugang und bestimmen Sie deren Rechte
+
+
+Für wen ist FINAVI geeignet?
+
+FINAVI wurde für Geschäftsleiter und Eigentümer von kleinen und mittleren Unternehmen (KMUs) sowie ihren kaufmännischen Leitern entwickelt. Ziel ist es, eine optimale Unterstützung beim managen von Finanzen zu bieten.
+
+Aktuell unterstützen wir bei der Kontenanbindung nur deutsche Bankkonten und bieten eine Eröffnung des FINAVI Kontos ebenfalls nur für deutsche KMUs an.
+
+Was ist der Unterschied zwischen den Zugängen für Geschäftsleitern, Buchhaltern und Steuerberatern?
+
+Geschäftsleiter-Zugang
+
+Geschäftsleiter haben die Berechtigung, alle Funktionen der Geschäftskonten zu nutzen. Sie sind die einzigen, die Veränderungen an den Zuständigkeiten und Berechtigungen anderer Nutzer vornehmen können. Die Person, die das Geschäftskonto eröffnet hat (Kontoinhaber/Kontoinhaberin), hat als einzige die Berechtigung als Geschäftsleiter, sicherheitsrelevante Änderungen vorzunehmen und zum Beispiel weitere Nutzer einzuladen, Unternehmensdaten zu ändern oder das Konto schließen.
+
+Buchhalter-Zugang
+
+Buchhalter können die Kontodaten und Kontobewegungen einsehen, zu denen ihnen die Geschäftsleiter Zugang gewährt haben. Sie können Zahlungen vorbereiten, sie jedoch nicht ausführen. Der Finavi-Geschäftsleiter wird sie nachfolgend bestätigen, bearbeiten oder auch ablehnen. Der Buchhalter kann darüber hinaus Details zu den Transaktionen, der ihm zugänglich gemachten Konten, einsehen und herunterladen.
+
+Steuerberater-Zugang
+
+Steuerberater haben limitierte Berechtigungen. Sie können nichts bearbeiten, sondern nur die Daten der Konten abrufen, zu denen sie Zugang haben. Sie können jedoch Dokumente hochladen, die z.B. für einen Kreditantrag erforderlich sind oder Informationen hochladen, die notwendig sind, um eine Kontoeröffnung abzuschließen.
+
+
+Wie werden durch FINAVI Transaktionen von verknüpften Konten veranlasst?
+
+FINAVI stellt mittels einer Anwendungs-Programmierschnittstelle (API) eine sichere Verbindung zu Ihren angebundenen Bankkonten her, welche von unserem vertrauenswürdigen Partner Figo oder durch den Electronic Banking Internet Communication Standard (EBICS) zur Verfügung gestellt wird, je nachdem, wofür Sie sich entscheiden.
+
+Dadurch können Sie Ihre Daten synchronisieren und neue Transaktionen über Ihre FINAVI-Benutzeroberfläche erstellen, die von Ihren externen Konten stammen.
+
+Bestehen Zahlungslimits für ein externes Konto auch auf der Finavi Plattform?
+
+Ja. Wenn Sie eine Zahlungsanweisung von einem externen Konto über FINAVI veranlassen, fragen wir in Echtzeit bei Ihrer externen Bank an, ob wir Ihre Anweisung ausführen dürfen.
+
+Sollten Sie nicht über die Autorisierung für die veranlasste Transaktion verfügen, können wir diese leider nicht ausführen.
+
+Sie haben weitere Fragen? Kontaktieren Sie uns gerne!
+
+Am Schnellsten erreichen Sie uns über die bereitgestellte Web-Chat Funktion auf www.finavi.de.
+
+Auch telefonisch stehen wir Ihnen gerne zur Verfügung.
+Montags bis Freitags: 09:00 Uhr - 17:00 Uhr
+Telefon: +49 (0) 30 959 983 26
+
+Per E-Mail erreichen Sie uns unter support@finavi.de.

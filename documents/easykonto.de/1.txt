@@ -1,0 +1,48 @@
+ Was ist easyKonto?
+easyKonto ist eine Software, mit der Bankverbindungen auf Gültigkeit geprüft werden. Des Weiteren lassen sich diverse Informationen zu allen deutschen Banken ermitteln. So kann beispielsweise der Name und die Anschrift einer Bank anhand der BIC oder Bankleitzahl abgefragt werden. Zur Überprüfung von IBAN, BIC, Kontonummern und Bankleitzahlen verwendet easyKonto stets die aktuellen Prüfverfahren und Bankleitzahlendateien der Deutschen Bundesbank. Je nach Einsatzzweck gibt es easyKonto in zwei Versionen – einer Online- sowie einer Offline-Version. Während bei der Online-Version die zu prüfenden Bankdaten an unseren Webservice gesendet werden, prüft die Offline-Version alle Bankdaten lokal und benötigt keinen Internet-Zugriff.
+
+Warum easyKonto?
+Mit easyKonto betreiben wir seit 2006 eines der führenden Systeme am Markt. Wie Sie unseren Referenzen entnehmen können, vertrauen uns zahlreiche namhafte Unternehmen die Überprüfung von Bankdaten ihrer Kunden an. Mit unserem System werden jährlich mehrere Millionen Kontonummern und Bankleitzahlen auf deren Richtigkeit überprüft. Durch den Einsatz von easyKonto sinken die durch versehentliche Falscheingaben entstandenen Bankgebühren für Rücklasten. Des Weiteren steigt durch den weniger fehleranfälligen Lastschriftprozess die Zufriedenheit Ihrer Kunden, da diese dann üblicherweise schneller an ihre bestellte Ware kommen.
+
+Wie funktioniert easyKonto?
+Die Überprüfung von Bankverbindungen beruht darauf, dass IBANs und Kontonummern eine sogenannte Prüfziffer enthalten, die durch mathematische Berechnung der restlichen Ziffern erzeugt wurde. Um die IBAN/Kontonummer zu überprüfen, muss die gleiche Berechnung wie bei der Erzeugung dieser durchgeführt werden. Das Ergebnis dieser Berechnung wird mit der in der IBAN/Kontonummer enthaltenen Prüfziffer verglichen.
+
+Für deutsche Kontonummern existieren über 140 Prüfalgorithmen, da viele Banken ihr eigenes Verfahren entwickelt haben. Daher wird zur Prüfung der Kontonummer auch die Bankleitzahl benötigt, da anhand dieser das zu verwendende Prüfverfahren ermittelt wird. Die Deutsche Bundesbank stellt in regelmäßigen Abständen eine Liste aller Bankleitzahlen sowie eine Beschreibung der Prüfalgorithmen zur Verfügung. Diese Bankdaten sowie die Implementierung der Prüfverfahren stellt easyKonto über eine einfach anzubindende Schnittstelle bereit.
+
+Die in IBANs enthaltene Prüfziffer lässt sich mit einem einzigen Prüfverfahren berechnen. Darüber hinaus überprüft easyKonto die in einer deutschen IBAN enthaltene Kontonummer und Bankleitzahl zusätzlich mit den bisherigen Verfahren. Hierdurch werden bei deutschen IBANs wesentlich mehr Falscheingaben erkannt, als dies bei bloßer Überprüfung der IBAN mit der darin enthaltenen Prüfziffer möglich wäre.
+
+ Wie verlässlich sind die Prüfergebnisse?
+Negativ-Ergebnisse, also Bankverbindungen, die easyKonto für ungültig erklärt, sind 100%ig sicher. Eine solche Kontonummer kann von der jeweiligen Bank nicht vergeben worden sein. Ein Positiv-Ergebnis (easyKonto erklärt Bankverbindung für gültig) bedeutet, dass es diese Bankverbindung geben könnte. Ob die Kontonummer wirklich vergeben wurde, weiß nur das Kreditinstitut, dem die Bankleitzahl zugeordnet ist.
+
+Wie verlässlich sind die Prüfverfahren?
+Die häufigsten Gründe für ungültige Bankverbindungen sind Tippfehler von Kunden bei der Eingabe Ihrer Kontodaten sowie bewusste Falscheingaben (Phantasie-Eingaben). Die meisten Prüfverfahren erkennen derartige Fehleingaben. Da es eher unwahrscheinlich ist, dass ein "Otto Normalverbraucher" Kenntnis über die Berechnung von Prüfziffern hat, können diese Fehleingaben mit easyKonto effektiv verhindert werden.
+
+Mit welchen Programmiersprachen kann easyKonto eingesetzt werden?
+Bei der Offline-Version handelt es sich um eine Java-Klassenbibliothek, die somit nur in Java-Anwendungen zum Einsatz kommen kann. Für die Online-Version gibt es Software Development Kits (SDKs) für zahlreiche Skript- und Programmiersprachen. Sollte die von Ihnen eingesetzte Sprache nicht dabei sein, existiert außerdem eine detaillierte Beschreibung des von uns zur Verfügung gestellten Webservices, anhand derer die Anbindung kein Problem darstellen sollte.
+
+Wie häufig wird easyKonto aktualisiert?
+easyKonto wird gemäß dem Aktualisierungs-Zyklus der Deutschen Bundesbank mindestens alle 3 Monate aktualisiert.
+
+
+Was muss ich bei einer Aktualisierung tun?
+Falls Sie die easyKonto Online-Version benutzen sind Sie ohne Ihr Zutun immer auf dem aktuellen Stand. Die Online-Version wird von uns ständig aktuell gehalten. Für die Offline-Version müssen Sie nach jeder Aktualisierung die easyKonto-Bibliothek austauschen. Wenn eine neue Version vorliegt werden Sie darüber innerhalb Ihres Update-Zeitraumes per E-Mail informiert. Die Updates stehen Ihnen dann im Kundenbereich zum Download zur Verfügung.
+
+ Wann muss ich die Aktualisierung einspielen?
+
+Programmaktualisierungen sollten optimalerweise genau zum Stichtag erfolgen. Sofern das Update nicht exakt zum Stichtag durchgeführt wird, kann es passieren, das inzwischen ungültig gewordene Bankverbindungen noch als gültig und neue, gültige Bankverbindungen als ungültig geprüft werden.
+
+Die Deutsche Bundesbank schreibt, dass die veröffentlichten Bankleitzahlendateien vor dem Stichtag nicht im Zahlungsverkehr verwendet werden dürfen. Sofern der Einsatz exakt zum Stichtag nicht möglich ist, sollte dieser also möglichst kurz darauf erfolgen.
+
+Der easyKonto Webservice verwendet stets die richtige Version. Die Umschaltung erfolgt exakt um 0 Uhr MEZ des Stichtages. Die Umschaltung findet ohne Unterbrechnung des Webservice statt.
+
+Werden meine Prüfanfragen gespeichert?
+Die an uns übermittelten Bankdaten (Bankleitzahl und Kontonummer) werden nicht gespeichert. Lediglich die IP-Adresse, die Browser-Kennung (User Agent) und das Ergebnis der Prüfung (also gültig oder ungültig) werden aus Gründen der Missbrauchsprävention sowie für statistische Zwecke gespeichert. In unserem Kundenbereich haben Sie jederzeit Zugriff auf diese Statistik. Beachten Sie hierzu auch unsere Datenschutzbestimmungen.
+
+ Welche Version ist die Richtige für mich – Offline- oder Online-Version?
+Die Vorteile der Offline-Version liegen darin, dass die Applikation offline (also ohne Internet-Zugang) betrieben werden kann und dass sehr große Mengen an Bankverbindungen innerhalb kürzester Zeit geprüft werden können. Die Online-Version bietet Vorteile durch die äußerst einfache Integration in Ihr System durch die Nutzung des Webservices. Hierfür stehen im Kundenbereich Codebeispiele für viele Programmier- und Skriptsprachen zur Verfügung. Auf unserer Produkte-Seite finden Sie ausserdem unseren interaktiven Produktberater, der Sie bei der Wahl des für Sie am besten geeigneten Produktes berät.
+
+Ist die Zahl der Prüfungen über den Online-Webservice limitiert?
+Nein, Sie können über den Webservice so viele Prüfungen durchführen, wie Sie möchten. Eine Limitierung oder zusätzliche Kosten ab einer bestimmten Anzahl von Prüfungen entstehen nicht.
+
+Können auch ausländische Bankverbindungen validiert werden?
+Neben der Prüfung deutscher Bankverbindungen (bestehend aus Bankleitzahl und Kontonummer) können mit easyKonto auch internationale IBANs sowie deutsche BIC (SWIFT-Codes) geprüft werden. Die Prüfung nationaler Bankverbindungen anderer Länder außer Deutschland wird von easyKonto nicht unterstützt. In vielen Ländern gibt es entweder überhaupt keine zentralen Richtlinien zur Validierung von Bankverbindungen oder diese werden von den Banken nicht veröffentlicht.

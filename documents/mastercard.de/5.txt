@@ -1,0 +1,6 @@
+F: Wie werde ich Akzeptanzpartner?
+
+A: Akzeptanzverträge werden mit Händlerbanken (Acquirer) geschlossen. Eine Liste der auf dem deutschen Markt tätigen Acquirer finden Sie hier: Acquirer.
+F: Ich bin bereits Mastercard Akzeptanzpartner. An wen wende ich mich bei Fragen?
+
+A: Bitte kontaktieren Sie Ihren Acquirer bzw. Ihren Vertragspartnerservice. Die entsprechende Rufnummer ist in der Regel auf Ihrer Händlerabrechnung vermerkt.

@@ -1,0 +1,23 @@
+F: Welche Vorteile hat die Kontaktlos-Funktion meiner Mastercard?
+
+A:
+
+    Einfaches Zahlen mit nur einer Handbewegung
+    Schneller Zahlvorgang und verkürzte Wartezeiten.
+    Sicher und komfortabel, da Sie Ihre Karte nicht mehr aus der Hand geben müssen.
+    Bei Beträgen unter 25€ sogar ohne PIN oder Unterschrift.
+
+F: Wann kann ich mit meiner Mastercard kontaktlos zahlen?
+
+A: Sie können mit Ihrer Mastercard kontaktlos zahlen, wenn Sie das Kontaktlos-Akzeptanzsymbol am Karten-Lesegerät bzw. an dem im Kassenbereich abgebildeten Mastercard Kontaktlos-Symbol erkennen.
+
+F: Was ist ein EMV-Chip?
+
+A: EMV ist ein gemeinsamer Standard von Mastercard und VISA (EMV steht für Europay, Mastercard und VISA) für den chipgestützten Zahlungsverkehr im Bereich der Debit- und Kreditkarten.
+
+Das wesentliche Ziel bei der Einführung der Chiptechnologie besteht in der Verbesserung der Zahlungssicherheit bzw. in der Verhinderung von Missbrauch. Darüber hinaus bietet die Chiptechnologie vielseitige, innovative Produktmöglichkeiten.
+
+Die Vorteile liegen vor allem in der Erhöhung der Sicherheit bei Bezahltransaktionen. Zusätzlich bietet der Chip Möglichkeiten wie Einsatz im Internet, digitale Signatur, Bonus-/Couponingprogramme, Zugangsberechtigungen, elektronische Tickets etc.
+F: Wie funktioniert eine Mastercard Transaktion?
+
+A: Hier finden Sie eine kurze Darstellung der Zahlungsabwicklung per Kreditkarte.

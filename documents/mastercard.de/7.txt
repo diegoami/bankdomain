@@ -1,0 +1,103 @@
+ 1 - Allgemeine Fragen zu Mastercard® SecureCode™
+
+
+
+1.1 - Was ist Mastercard SecureCode?
+
+A: Mastercard SecureCode ist ein Authentifizierungsverfahren für Kartenzahlungen im Internet und bietet Inhabern einer Mastercard Karte mehr Sicherheit beim Einkauf in teilnehmenden Internet-Shops. Durch die Abfrage eines persönlichen Sicherheitscodes, dem SecureCode, wird gewährleistet, dass nur Sie als Karteninhaber die Transaktion ausführen können. So werden Sie vor dem Missbrauch Ihrer Kartendaten bei teilnehmenden Internet-Händlern effektiv geschützt.
+1.2 - Funktioniert die Kartenzahlung mit Mastercard SecureCode?
+
+A: Mit Mastercard SecureCode erscheint beim Bezahlen mit der Mastercard Karte automatisch ein Eingabefenster direkt von Ihrer kartenausgebenden Bank. Dort geben Sie Ihren persönlichen SecureCode ein und identifizieren sich dadurch als rechtmässiger Karteninhaber. Der Vorgang ist vergleichbar mit der PIN-Eingabe am Geldautomaten.
+1.3 - Mastercard SecureCode einfach zu nutzen?
+
+A: Ja. Wenn Sie als Inhaber einer für SecureCode registrierten Karte einen Internet-Kauf tätigen, erscheint automatisch ein Eingabefenster Ihrer kartenausgebenden Bank. Nachdem Sie Ihre persönliche Begrüssung und die Daten zum Einkauf überprüft haben, geben Sie zu Ihrer Identifikation als rechtmässiger Karteninhaber einfach Ihren Mastercard SecureCode ein.
+1.4 - Kann ich Mastercard SecureCode von jedem Computer aus nutzen?
+
+A: Für die SecureCode Abfrage ist kein Software-Download und keine Installation nötig. Das bedeutet, Sie können Mastercard SecureCode Zahlungen zu jeder Zeit, weltweit und auf jedem Computer mit Internet-Zugang durchführen. Für die Nutzung von Mastercard SecureCode sollte die aktuelle Version von Microsoft Internet Explorer oder Firefox installiert sein. Der Computer sollte darüber hinaus den gängigen Sicherheitsanforderungen entsprechen. Daher ist dringend empfehlenswert, keine Computer zu nutzen, deren Sicherheitssysteme unbekannt sind, denn es könnten z. B. Trojaner installiert sein, durch die Unbefugte in den Besitz von Daten gelangen. Die Nutzung von SecureCode über SmartPhones ist noch nicht gewährleistet.
+2 - Registrierung für Mastercard SecureCode
+
+
+
+2.1 - Mit welchen Karten kann ich mich für Mastercard SecureCode registrieren?
+
+A: Sie können sich mit all Ihren Mastercard Karten registrieren, solange diese von Ihrer kartenausgebenden Bank für SecureCode freigeschaltet wurden. Eine fast flächendeckende SecureCode Fähigkeit bei deutschen Kreditkarten macht dies für die meisten Kreditkarten möglich.
+2.2 - Kann ich mich für Mastercard SecureCode registrieren?
+
+A: Die Registrierung erfolgt schnell und unkompliziert über die Website Ihrer kartenausgebenden Bank. Darüber hinaus werden Sie während des Bezahlvorgangs bei teilnehmenden Internet-Händlern automatisch zur Registrierung aufgefordert (siehe nächster Punkt Registrierung beim Einkauf).
+2.3 - Ist eine Registrierung beim Einkauf möglich?
+
+A: Ja, bei teilnehmenden Internet-Händlern werden Sie automatisch nach Wahl der Zahlungsart „Mastercard Karte“ zur Registrierung aufgefordert. Es öffnet sich ein Eingabefenster direkt von Ihrer kartenausgebenden Bank über das Sie sich für SecureCode registrieren können. Der Internet-Händler hat keinen Zugriff auf die Daten des Registrierungsprozesses, denn diese liegen einzig und allein auf dem Server Ihrer kartenausgebenden Bank. Bitte beachten Sie, dass bei meisten Mastercard Karten eine sofortige Registrierung notwendig ist, da sonst die Bestellung nicht abgeschlossen werden kann.
+
+Gerne können Sie auch die Registrierung auf der Website Ihrer kartenausgebenden Bank ausführen. Öffnen Sie hierfür einfach ein weiteres Browserfenster und kehren nach Abschluss der Registrierung auf die Website des Online-Shops zurück.
+2.4 - Weshalb muss ich während des Registrierungsvorgangs Informationen zu meiner Person angeben?
+
+A: Die von Ihnen zur Verfügung gestellten Informationen werden mit den Informationen verglichen, die Ihre kartenausgebende Bank von Ihnen erhalten hat. Diese Massnahme soll sicherstellen, dass es sich bei der sich registrierenden Person tatsächlich um den Karteninhaber handelt. Als weitere Sicherheitsmassnahme werden Sie aufgefordert, die Kartenprüfnummer einzugeben. So kann sichergestellt werden, dass der Karteninhaber tatsächlich im Besitz der zu registrierenden Karte ist.
+2.5 - Was ist eine persönliche Begrüssung?
+
+A: Die persönliche Begrüssung ist ein von Ihnen frei definierbarer Text, den Sie während des Registrierungsvorgangs selbst festlegen. Wurde die Registrierung erfolgreich abgeschlossen, erscheint bei jedem Einkauf bei einem teilnehmenden Internet-Händler ein Eingabefenster Ihrer kartenausgebenen Bank. Darin werden Sie aufgefordert, zur Bestätigung der Zahlung Ihren SecureCode einzugeben. In diesem Fenster wird auch die persönliche Begrüssung angezeigt. Dadurch haben Sie die Gewissheit, mit Ihrer kartenausgebenden Bank zu kommunizieren und den SecureCode tatsächlich an Ihre Bank zu senden. Ist die persönliche Begrüssung im angezeigten Fenster nicht korrekt, sollten Sie Ihren SecureCode nicht eingeben, sondern sich unverzüglich mit Ihrer kartenausgebenden Bank in Verbindung setzen.
+2.6 - Was ist die Kartenprüfnummer?
+
+A: Die Kartenprüfnummer (Card Verification Code, CVC2) besteht aus den letzten drei Ziffern im Unterschriftsstreifen auf der Rückseite der Karte und dient als zusätzliches Sicherheitsmerkmal bei Kreditkartenzahlungen im Internet. In vielen Internet-Shops werden Sie bei der Angabe Ihrer Kreditkartendaten zusätzlich zur Eingabe dieser Information aufgefordert, um sicherzustellen, dass Sie sich tatsächlich im Besitz der Karte befinden.
+2.7 - Was mache ich, wenn ich während des Registrierungsvorgangs Fragen habe?
+
+A: Wenn Sie während des Registrierungsvorgangs Fragen haben oder Unterstützung benötigen, wenden Sie sich bitte an Ihre kartenausgebenden Bank. Daher ist es ideal, wenn Sie sich bereits vor dem Einkauf im Internet bei Ihrer kartenausgebenden Bank für Mastercard SecureCode registriert und eventuelle Fragen geklärt haben.
+3 - Einkaufen mit Mastercard SecureCode
+
+
+
+3.1 - Wie nutze ich meinen SecureCode?
+
+A: Wenn Sie als Mastercard Karteninhaber einen Internet-Kauf tätigen, erscheint nach der Eingabe der Kartendaten ein Eingabefenster Ihrer kartenausgebenden Bank. Nachdem Sie Ihre persönliche Begrüssung und Daten zum Einkauf überprüft haben, geben Sie zur Bestätigung Ihrer Identität einfach Ihren SecureCode ein.
+3.2 - Kann ich gleich nach der Registrierung mit meinem SecureCode einkaufen?
+
+A: Ja, Sie können Ihren SecureCode sofort nach der Registrierung verwenden.
+3.3 - Wie soll ich vorgehen, wenn bei einem Internet-Kauf kein SecureCode Eingabefenster angezeigt wird?
+
+A: Sie sollten Folgendes tun:
+
+    Überprüfen, ob es sich um einen teilnehmenden Internet-Händler handelt. (Bei teilnehmenden Internet-Händlern ist in der Regel auf der Startseite oder während des Bezahlvorgangs das Mastercard SecureCode Logo eingebunden.)
+    Überprüfen, ob Sie Ihre registrierte Karte verwenden.
+    Überprüfen, ob die Sicherheitssoftware Ihres Computers ein Pop-up blockiert. Nicht alle Internet-Händler implementieren SecureCode korrekt und verwenden Pop-up Fenster. Die gängigen Sicherheitsprogramme erlauben die temporäre Freischaltung von Pop-ups, die der User freigeben kann.
+
+Treffen die genannten Punkte zu, sollten Sie sich mit Ihrer kartenausgebenden Bank in Verbindung setzen.
+3.4 - Was soll ich tun, wenn meine persönliche Begrüssung nicht angezeigt wird oder falsch ist?
+
+A: Wenn die persönliche Begrüssung im angezeigten Eingabefenster nicht korrekt ist, sollten Sie Ihren SecureCode nicht eingeben, sondern sich unverzüglich mit Ihrer kartenausgebenden Bank in Verbindung setzen.
+4 - Verwaltung von Mastercard SecureCode
+
+
+
+4.1 - Was kann ich tun, wenn ich meinen SecureCode vergessen habe und daher meinen Internet-Einkauf nicht abschliessen kann?
+
+A: Rufen Sie die Registrierungs-Website Ihrer kartenausgebenden Bank auf und befolgen Sie die angezeigten Anweisungen. Dies kann in einem separaten Browserfenster erfolgen. Der Kaufvorgang muss nicht abgebrochen werden, sondern kann nach Erstellung eines neuen Sicherheitscodes fortgesetzt werden.
+4.2 - Wie kann ich meinen SecureCode ändern?
+
+A: Rufen Sie die Registrierungs-Website Ihrer kartenausgebenden Bank auf. Dort können Sie in der Regel Ihren SecureCode beliebig ändern. Der Mastercard SecureCode darf keine Leerzeichen, Trennstriche oder Bindestriche enthalten und muss sich von der persönlichen Begrüssung unterscheiden.
+4.3 - Wie kann ich meine persönliche Begrüssung ändern?
+
+A: Rufen Sie die Registrierungs-Website Ihrer kartenausgebenden Bank auf. Dort können Sie in der Regel Ihre persönliche Begrüssung beliebig ändern, solange sie 1 bis 30 Zeichen umfasst und sich von seinem Mastercard SecureCode unterscheidet.
+4.4 - Was geschieht, wenn meine Karte abläuft?
+
+A: In der Regel erhalten Sie rechtzeitig vor Ablauf einer Karte eine neue zugestellt und in der Regel bleibt bei gleichbleibender Kartennummer der SecureCode weiterhin gültig. Sollte eine erneute Registrierung für SecureCode notwendig sein, informiert die kartenausgebende Bank mit der Zustellung der neuen Karte normalerweise dementsprechend.
+4.5 - Was geschieht, wenn ich eine neue Karte mit einer anderen Kartennummer erhalte?
+
+A: In der Regel müssen Sie sich bei Ihrer kartenausgebenden Bank für die neue Karte auch erneut für SecureCode registrieren. Im Zweifelsfall informieren Sie sich bei Ihrer kartenausgebenden Bank, ob eine erneute Registrierung notwendig ist.
+4.6 - Was geschieht, wenn ich eine neue Karte mit einer anderen Kartennummer erhalte?
+
+A: In der Regel müssen Sie sich bei Ihrer kartenausgebenden Bank für die neue Karte auch erneut für SecureCode registrieren. Im Zweifelsfall informieren Sie sich bei Ihrer kartenausgebenden Bank, ob eine erneute Registrierung notwendig ist.
+4.7 - Was geschieht, wenn ich meine bestehende Karte kündige?
+
+A: Bei einer Kündigung der Karte wird die jeweilige SecureCode Registrierung gelöscht.
+5 - Sicherheit von Mastercard SecureCode
+
+
+
+5.1 - Wie bin ich durch Mastercard SecureCode geschützt?
+
+A: Wie bei einer PIN-Eingabe am Geldautomat oder am Kassenterminal müssen Sie als Karteninhaber Ihren persönlichen SecureCode im Eingabefeld eingeben, um den Bezahlvorgang abzuschliessen.Bei mehrfach falscher Eingabe des Sicherheitscodes wird die Karte für Mastercard SecureCode gesperrt und muss durch Sie bei Ihrer kartenausgebenden Bank neu registriert werden.
+5.2 - Woher weiss der Internet-Händler, dass meine Karte durch Mastercard SecureCode geschützt ist?
+
+A: Wenn Sie bei einem teilnehmenden Internet-Händler einkaufen und eine für Mastercard SecureCode frei geschaltete Karte verwenden, wird Ihre Mastercard Kartennummer automatisch erkannt. Dadurch wird anschliessend das Eingabefenster mit der Aufforderung zur Eingabe Ihres SecureCodes angezeigt.
+5.3 - Werden bei diesem Service Cookies verwendet?
+
+A: Nein. Mastercard SecureCode verwendet keine permanenten Cookies. Stattdessen werden so genannte „Sitzungscookies" temporär auf Ihrem Desktop gespeichert. Sitzungscookies werden dazu verwendet, Statusinformationen während einer Sitzung zu speichern. Diese Cookies werden nur zwischengespeichert, solange Sie den jeweiligen Webserver besuchen, der das Sitzungscookie ausgibt. Sie werden aus dem Cache gelöscht, wenn Sie die Sitzung beenden.
