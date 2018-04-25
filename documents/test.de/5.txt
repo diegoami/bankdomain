@@ -1,0 +1,22 @@
+Wie sorgen die Banken für ein sicheres Online­banking?
+
+Die Banken schützen sich mit speziellen Firewalls gegen unbe­rechtigte Zugriffe auf ihr System, sorgen für einen verschlüsselten Daten­austausch und lassen ihre Zugänge zum System von Dritten auf Sicher­heits­mängel testen. Sie analysieren Verhaltens­muster, um unbe­rechtigte Buchungen mit sogenannten schwarzen Listen vor der Ausführung zu stoppen. Eine Beschreibung der sicheren Online­banking-Verfahren finden Sie unter Tan-Verfahren im Überblick. Mit welchen Programmen Sie Ihren Rechner am besten gegen Angriffe schützen, zeigt unser aktueller Test von Sicherheitssoftware.
+Mein Onkel nutzt einen älteren Computer ausschließ­lich für Online­banking, weil das besonders sicher sei. Hat er recht?
+
+Der Ansatz ist nicht verkehrt, solange Ihr ­Onkel so diszipliniert ist und wirk­lich keine anderen Internet­seiten besucht. Allerdings ist nicht der Computer selbst das Sicher­heits­problem. Angriffs­punkt für Betrüger ist die Software auf dem Computer. Ihr Onkel muss auch auf dem älteren Gerät die üblichen Sicher­heits­vorkehrungen treffen: Firewall und Virens­canner installieren sowie Betriebs­system und Internet­browser immer aktuell halten. Wichtig ist, dass die Programme vom Hersteller immer noch Sicher­heits­updates erhalten. Je älter die Hard­ware ist, desto eher kann es vorkommen, dass die neue Software nur noch lang­sam läuft und das Online­banking dadurch nicht so komfortabel ist.
+Ich dachte immer, das Betriebs­system Linux ist sicherer ist als das gängige Wind­ows. Stimmt das?
+
+Ihre Annahme rührt offen­bar daher, dass wegen der geringeren Verbreitung Angriffe auf das freie Linux-System wesentlich seltener sind als auf gängige Betriebs­systeme. Betrüger wählen als Angriffs­ziel meist Systeme aus, bei denen die Erfolgs­aussichten sehr groß sind, also wenn Millionen Nutzer erreicht werden können. Aber Vorsicht: Egal, welches Betriebs­system Sie nutzen, Sie müssen immer die möglichen Sicher­heits­vorkehrungen treffen. In den allgemeinen Geschäfts­bedingungen oder den Sonderbedingungen zum Online­banking beschreiben die Banken in der Regel, welche Maßnahmen sie von Ihnen erwarten.
+Betrüger sollen Internet­seiten der Banken täuschend echt nach­machen. Wie erkenne ich so etwas?
+
+Das ist nicht immer einfach. Wichtig ist, dass Sie für Bank­geschäfte nie einen Link verwenden, der Ihnen per E-Mail zuge­schickt wurde. Geben Sie bei jedem Aufruf die Internet­adresse Ihrer Bank neu über die Tastatur ein. Wenn Sie schon beim Login nach einer Trans­aktions­nummer (Tan) gefragt werden, sind Sie mit Sicherheit auf einer gefälschten Seite.
+
+Auch minimale Abweichungen der Internet­adresse – etwa Trennungs­punkte oder Trenn­striche – sind Zeichen für eine Fälschung. Generell verdächtig ist alles, was vom gewohnten Ablauf abweicht.
+
+Achten Sie darauf, dass die Verbindung zu Ihrer Bank in der Adress­zeile mit https:// beginnt. Bei Verwendung der aktuellen Browsersoftware wird mitt­lerweile oft ein Zertifikat ange­zeigt, mit dem die Richtig­keit der Angaben des Servers, mit dem Sie verbunden sind, von einer unabhängigen Instanz bestätigt wird. Dass eine Webseite zertifiziert und Ihre Verbindung verschlüsselt ist, können Sie daran erkennen, dass nach der Internet­adresse ein kleines Schloss-Symbol ange­zeigt wird. Wenn Sie darauf klicken, erhalten Sie mehr Informationen über das Zertifikat und darüber, ob die Internetseite tatsäch­lich die ist, für die sie sich ausgibt.
+
+Fast alle modernen Browser warnen vor unsicheren Zertifikaten oder verdächtigen Umleitungen. In diesem Fall sollten Sie keine Trans­aktionen mehr unternehmen und sofort Ihre Bank informieren.
+nach oben
+Ist die Funk­tion „Kenn­worte speichern“ unter Sicher­heits­aspekten empfehlens­wert?
+
+Bei einigen Browsern ist es möglich, Einträge und Pass­wörter in Formular­feldern – also auch im Anmeldeformular für das Online­banking – auto­matisch zu ergänzen oder zu speichern. Das ist aber gerade im Bezug auf das Online­banking aus Sicher­heits­gründen nicht zu empfehlen. Wenn Sie die auto­matische Speicherung von Daten in Ihrem Browser akti­viert haben, sollten Sie die Funk­tion „Kenn­wörter speichern“ (Browser Mozilla Firefox) beziehungs­weise „Auto-Vervoll­ständigen“ (Browser Internet Explorer) besser abschalten.

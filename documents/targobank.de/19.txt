@@ -1,0 +1,45 @@
+
+Warum ist der Chip notwendig?
+
+Der Chip muss wegen einer europaweiten rechtlichen Vorgabe bis Ende 2010 auf allen Debit- und Kreditkarten vorhanden sein.
+
+
+Kann ich auch ohne PIN weiter einkaufen?
+
+Ja. Wenn das Terminal noch nicht auf den Chip-Standard umgestellt ist, ist der Einkauf ohne PIN und mit Unterschrift weiterhin möglich.
+
+
+Erhalte ich automatisch eine neue PIN und kostet es mich etwas?
+
+Wir schicken Ihnen die PIN automatisch ein paar Tage nach dem Versand der Kreditkarte kostenlos zu.
+
+
+Welche Daten sind auf dem Chip gespeichert?
+
+Auf dem Chip sind nur die Daten gespeichert, die auch auf der Karte hochgeprägt sind:
+
+    Vor- und Nachname des Karteninhabers
+    die 16-stellige Kreditkartennummer
+    die Gültigkeitsdaten der Kreditkarte
+
+Auf dem Chip sind keine weiteren persönlichen oder umsatzbezogenen Daten gespeichert.
+
+
+Funktioniert der Chip an Zigarettenautomaten?
+
+Nein. Das Geburtsdatum des Karteninhabers ist nicht auf dem Chip gespeichert. Eine Legitimation an Zigarettenautomaten über den Chip ist daher nicht möglich.
+
+
+Ist der Chip weltweit gültig?
+
+Ja. Der Chip ist in den Ländern gültig, in denen dieser bereits eingeführt ist. Die anderen Länder nutzen weiterhin den Magnetstreifen auf der Rückseite der Karte.
+
+
+Kann ich meine Chip-Kreditkarte als Geldkarte verwenden?
+
+Nein. Die Kreditkarten der TARGOBANK sind nicht als Geldkarte verwendbar.
+
+
+Was ist, wenn ich meine PIN nicht kenne?
+
+Sie erhalten die PIN für Ihre neue Chip-Karte per Post.

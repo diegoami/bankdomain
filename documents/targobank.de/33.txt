@@ -1,0 +1,106 @@
+
+Was bedeutet außerbörslicher Handel?
+
+Dies bedeutet, dass Sie Ihre Wertpapierorder auch außerhalb der Handelszeiten an deutschen Börsenplätzen oder Xetra direkt an einen Handelspartner weiterleiten können.
+
+Sie erhalten vom Handelspartner für bis zu fünf Sekunden einen handelbaren Kurs angezeigt. Akzeptieren Sie diesen, gilt das Geschäft nach Bestätigung durch den Handelspartner sofort als ausgeführt. Die Bestätigung des Handelspartners ist seine Annahme Ihres Angebots. Die Ausführung erfolgt ohne Teilausführungen.
+
+Im außerbörslichen Limithandel haben Sie die Möglichkeit, Ihre Order mit einem Limit sowie einer Gültigkeit aufzugeben. Dadurch kann es zu Teilausführungen kommen.
+
+
+Benötige ich eine spezielle Freischaltung für den außerbörslichen Handel?
+
+Nein. In der Eingabemaske erscheinen automatisch alle für das gewählte Wertpapier möglichen börslichen und außerbörslichen Handelsplätze.
+
+
+Was bedeutet "Handelspartner" im außerbörslichen Handel?
+
+Mit einem Handelspartner des außerbörslichen Handels können Sie Wertpapiere direkt handeln. Einige der Handelspartner sind gleichzeitig die Emittenten von Anlagezertifikaten oder von Hebelprodukten. Dazu gehören beispielsweise die Handelspartner Deutsche Bank und Commerzbank.
+
+
+Welche Wertpapiere kann ich außerbörslich handeln?
+
+Sie können außerbörslich Aktien, ETFs, Hebelprodukte (Optionsscheine und Knock-Out Produkte) und Anlageprodukte (Zertifikate) handeln.
+
+
+Wie sind die Konditionen beim außerbörslichem Handel?
+
+Im außerbörslichen Handel zahlen Sie nur die TARGOBANK Orderentgelte. Es fällt keine Maklercourtage, kein Transaktions- und Handelsentgelt der Börse an. Die genauen Konditionen entnehmen Sie bitte unserem Preis- und Leistungsverzeichnis.
+
+
+Welche Vorteile habe ich beim außerbörslichen Handel?
+
+    Erweiterte Handelszeiten, in der Regel von 8.00-22.00 Uhr. So haben Sie auch außerhalb der üblichen Börsenzeiten die Möglichkeit, schnell auf wichtige Marktveränderungen zu reagieren.
+    Keine Teilausführungen im außerbörslichen Echtzeithandel.
+    Keine Maklercourtage.
+    Kein Transaktions- und Handelsentgelt der Börse.
+
+
+Wie lange vor Fälligkeit können Optionsscheine über den außerbörslichem Handel gehandelt werden?
+
+Im Gegensatz zum börslichen Handel können Sie Optionsscheine im außerbörslichem Handel in der Regel bis zum Fälligkeitstag handeln. Hier legen die Handelspartner die genauen Handelsusancen fest. Deshalb gibt es für eine Ausführung keinen festen Zeitpunkt. Können Sie einen Optionsschein nicht mehr über Online-Brokerage oder Sprachcomputer (telefonisch über Tasten-/Spracherkennung) handeln, wenden Sie sich bitte an die Wertpapierbetreuung. Unsere Mitarbeiter versuchen dann, den Handel mit dem Handelspartner direkt abzuwickeln. Sie erreichen die Wertpapierbetreuung unter 0211 - 900 20 333, Mo.-Fr. von 8.00-22.00 Uhr.
+
+
+Gibt es ein Mindest-/Höchst-Volumen für meine Order?
+
+Ja, diese werden von den Handelspartnern für jedes Wertpapier individuell festgelegt. Sollte Ihre Order wegen Überschreitung des Höchst-Volumens im Online-Brokerage abgelehnt werden, wenden Sie sich bitte telefonisch an die Wertpapierbetreuung. Diese prüft, ob die Wertpapier-Order mit dem Handelspartner telefonisch ausgeführt werden kann. Sie erreichen unsere Mitarbeiter unter 0211 - 900 20 333, Mo.-Fr. von 8.00-22.00 Uhr.
+
+
+Kann es vorkommen, dass für ein Wertpapier kein Kurs gestellt wird?
+
+Ja, beispielsweise bei großen Markt-/Kursbewegungen, Kursaussetzungen oder Kapitalmaßnahmen kann es passieren, dass der Handelspartner vorübergehend keinen Kurs stellt.
+
+
+Kann mein Handelspartner nach Orderbestätigung das Geschäft stornieren?
+
+Dies ist bei technischen Defekten, Fehlern bei der Abgabe des Angebots oder nicht marktgerechter Kurs-Stellung möglich. Der Handelspartner kann in der Regel bis zum Beginn des nächsten Handelstages das Geschäft stornieren. Dieses wird in Fachkreisen als "Mistrade" bezeichnet. Ein Mistrade wird durch die sogenannten Mistrade-Regeln ausgeführt. Diese Regeln beschreiben die Voraussetzungen und Rechtsfolgen der Stornierung eines Wertpapiergeschäftes im börslichen und außerbörslichen Handel. Im Fall eines Mistrades werden Sie von unseren Mitarbeitern umgehend telefonisch informiert.
+
+
+Was bedeutet "Mistrade-Regeln"?
+
+Die Bedingungen der Handelsplätze und -systeme sehen für bestimmte Fälle ein vertragliches Rücktritts- oder Aufhebungsrecht der ausgeführten Order für die Handelspartner/Börsenhändler vor. Man spricht von einem Mistrade, wenn ein Handelspartner wegen einer technisch bedingten Fehlfunktion des Handelssystems oder eines Bedienungsfehlers irrtümlich einen falschen Kurs zugrunde legt, der erheblich und offensichtlich von dem Im Zeitpunkt des Zustandekommens des Geschäfts marktadäquaten Kurs (Referenzpreis) abweicht. Macht ein Handelspartner von einem Mistrade Gebrauch, ist auch die TARGOBANK berechtigt, den von dem Kunden erteilten Order-Auftrag rückabzuwickeln und von dem Auftragsverhältnis zurückzutreten. Weitere Ansprüche des Kunden nach erfolgter Rückabwicklung bestehen weder gegen die TARGOBANK noch gegen den jeweiligen Handelspartner.
+
+
+
+Kann ich ein im außerbörslichen Handel erworbenes Papier an einer herkömmlichen Börse wieder verkaufen?
+
+Ja. Sie können ein im außerbörslichen Handel erworbenes Wertpapier an einer Börse verkaufen, sofern das Wertpapier an dieser Börse gelistet ist.
+
+
+Kann ich im außerbörslichen Handel Intraday-Geschäfte tätigen?
+
+Ja, sobald die Ausführungsbestätigung in Ihrem Orderbuch erscheint. Bitte beachten Sie unseren Risikohinweis zu Intraday-Geschäften.
+
+
+Was bedeutet Spread?
+
+Die englische Bezeichnung "Spread" ist die Differenz zwischen Kauf- und Verkaufskurs. Durch diese Kursdifferenz finanziert sich der Wertpapierhändler.
+
+
+Warum gibt es beim außerbörslichen Handel nur eine begrenzte Zeit für die Orderabgabe?
+
+Die Kurs-Angebote des Handelspartners sind nur indikative Kurse. Da der Markt ständigen Kursschwankungen ausgesetzt ist, ist ein Preis im außerbörslichen Handel nur maximal 5 Sekunden gültig. Es kommt auch vor, dass einzelne Handelspartner die Kursindikation vor Ablauf der 5 Sekunden zurückziehen.
+
+
+Wie erfolgt die Preisfindung im außerbörslichen Handel? Sind die Kurse marktgerecht?
+
+Die Handelspartner im außerbörslichen Handel unterliegen grundsätzlich den gleichen Marktregeln wie bei der Preisfindung an herkömmlichen Börsen.
+
+
+Wie platziere ich meine außerbörslichen Geschäfte, wenn der außerbörsliche Handel in Internet nicht verfügbar ist?
+
+Unsere Wertpapierbetreuung hat die Möglichkeit, Ihre außerbörslichen Geschäfte telefonisch abzuwickeln. Sie erreichen unsere Mitarbeiter unter 0211 - 900 20 333 von Mo.-Fr. von 8.00-22.00 Uhr.
+
+
+Kann ich auch Wertpapiere im außerbörslichen Handel erwerben, die nicht über die angebotenen Handelspartner handelbar sind?
+
+Ja, über unsere Wertpapierbetreuung können Sie telefonisch folgende Wertpapiere abwickeln:
+
+    Aktien
+    Anleihen
+    Anlagezertifikate
+    ETFs
+    Pre-IPO-Geschäfte
+    und interessenwahrende XETRA-Transaktionen
+
+Unsere Mitarbeiter unterstützen Sie gerne unter 0211 - 900 20 333 von Mo.-Fr. von 8.00-22.00 Uhr. Informationen zu den anfallenden Transaktionskosten finden Sie in unserem Preis- und Leistungsverzeichnis.

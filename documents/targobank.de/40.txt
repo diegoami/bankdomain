@@ -1,0 +1,50 @@
+
+Was ist eine mTAN?
+
+mTAN ist eine mobile TAN. Sie nutzen dies sicher und komfortabel für Online-Transaktionen. Fordern Sie einfach online eine mTAN an. Wir schicken sie Ihnen per SMS auf Ihr Mobiltelefon.
+
+Das mTAN-Verfahren bietet folgende Sicherheits-Vorteile:
+
+    Sie verwenden jede mTAN wird nur einmal.
+    Jede mTAN gilt nur 15 Minuten.
+    Die SMS zur mTAN enthält zur nochmaligen Überprüfung die Daten Ihrer Transaktion.
+
+
+Wie registriere ich mich für mTAN?
+
+Jedes SMS-fähige Gerät mit einer inländischen Mobilfunknummer ist für das mTAN-Verfahren geeignet. Die Aktivierung erfolgt im Online-Banking unter "Persönliche Daten"/"TAN-Verfahren"/"mTAN verwalten". Hier geben Sie Ihre Mobilfunknummer ein und akzeptieren die Nutzungsbedingungen.
+
+Zu Ihrer Sicherheit senden wir einen Aktivierungscode an Ihre Privatanschrift. Nach Eingabe dieses Codes in der mTAN-Verwaltung haben Sie mTAN aktiviert.
+
+
+Kann ich mehr als eine Telefonnummer für mTAN angeben?
+
+Nein. Nur die Eingabe einer einzigen Mobilfunknummer ist für mTAN möglich.
+
+
+Welche Kosten entstehen mir, wenn ich die mTAN im Ausland empfange?
+
+Grundsätzlich ist der Dienst für deutsche SIM-Karten vorgesehen. Bitte beachten Sie mögliche Einschränkungen und Gebühren Ihres ausländischen Netzbetreibers.
+
+
+Wie ändere ich meine Mobilfunknummer?
+
+Sie ändern / sperren Ihre Mobilfunknummer jederzeit im Menüpunkt "Persönliche Daten" -> "Kontaktdaten" des Online-Banking. Um die neue Mobilfunknummer für mTAN zu aktivieren, wählen Sie bei der Änderung die Option "mTAN-Aktivierung ja" aus.
+
+Zu Ihrer Sicherheit senden wir einen Aktivierungscode an Ihre Privatanschrift. Nach Eingabe dieses Codes in der mTAN-Verwaltung haben Sie mTAN für Ihre neue Mobilfunknummer aktiviert.
+
+
+Ich habe mein Mobiltelefon verloren. Wie sperre ich dieses für mTAN?
+
+Sie deaktivieren mTAN für Ihre Mobilfunknummer jederzeit im Menüpunkt "Persönliche Daten" / "mTAN verwalten". Um Ihre Mobilfunknummer zu löschen, klicken Sie bitte im Menüpunkt "Persönliche Daten" auf "Kontaktdaten".
+
+
+Habe ich die freie Wahl, ob ich für eine Transaktion mTAN verwende?
+
+Nach der Registrierung für mTAN haben Sie bei den meisten Aufträgen die Wahl zwischen der Verwendung von iTAN und mTAN.
+
+
+
+Ist die Verwendung der mTAN kostenlos?
+
+Das mTAN-Verfahren ist ein kostenpflichtiger Service, den wir bis auf weiteres kostenfrei anbieten.

@@ -1,0 +1,88 @@
+ Allgemeine Informationen
+Welche Services sind im Online-Banking möglich?
+
+    Jederzeit bequem von zu Hause auf Ihre Konten, Karten und Depots zugreifen.
+    Überweisungen und Daueraufträge.
+    Kostenloses Online-Postfach.
+    Weitere Produkte eröffnen (zum Beispiel Tagesgeld, Festgeld).
+    Wertpapierdepot verwalten, Wertpapiere handeln, stets mit aktuellen Informationen über den Markt im Blick.
+    Konto-SMS-Service (Kontoinformationen per SMS oder E–Mail).
+    Rückzahlungsmodalitäten Ihrer Kreditkarte anpassen.
+    Nachrichten von und an die TARGOBANK.
+
+Und vieles mehr.
+
+
+An wen wende ich mich, wenn ich Fragen zum Online-Banking habe?
+
+    Unsere Mitarbeiter sind unter 0211 - 900 20 222 gerne von Mo.-Sa.: 8.00-22.00 Uhr für Sie da.
+    Weitere Kontaktrufnummern
+
+
+Wie registriere ich mich für das Online-Banking?
+
+    Sie können sich direkt online registrieren.
+    Telefonisch unter 0211 - 900 20 222, Mo.-Sa.: 8.00-22.00 Uhr
+    Persönlich in Ihrer nächsten TARGOBANK Filiale
+
+Nach der Registrierung erhalten Sie zwei Briefe:
+
+    6-stellige persönliche Geheimnummer (T-PIN).
+    Transaktionsnummern (iTAN-Karte) (siehe auch Sicherheitsverfahren).
+
+
+Wie melde ich mich an?
+
+Kunde mit Girokonto, Sparprodukt, Kredit:
+
+    Wählen Sie im Login-Bereich "Neu bei der TARGOBANK?"/"Benutzerdaten anlegen" die Option "Kunde mit Girokonto, Sparprodukt, Kredit".
+    Geben Sie Ihre Kontonummer und Ihre 6-stellige T-PIN an (nicht Ihre vierstellige EC-Karten PIN).
+    Wählen Sie einen individuellen Benutzernamen und ein Passwort.
+    Lesen und akzeptieren Sie die Nutzungsbedingungen für das Online-Banking.
+
+Kreditkartenkunde ohne Girokonto:
+
+    Wählen Sie im Login-Bereich "Neu bei der TARGOBANK?"/"Benutzerdaten anlegen" die Option "Kreditkarte als Einzelprodukt".
+    Geben Sie Ihre Kreditkartennummer und Ihre 6-stellige T-PIN an (nicht Ihre vierstellige Kreditkarten PIN!).
+    Wählen Sie einen individuellen Benutzernamen und ein Passwort.
+    Lesen und akzeptieren Sie die Nutzungsbedingungen für das Online-Banking.
+    Jugendlichen ab 14 Jahren bieten wir bei Nutzung des Online-Bankings ausgewählte Funktionen. Die Freigabe für die Nutzung des Online-Bankings erteilen die gesetzlichen Vertreter in unseren Filialen.
+    Die Registrierung für das Online-Banking erfolgt mit einer Kontonummer und der 6-stelligen T-PIN.
+
+
+Ich habe meine 6-stellige T-PIN vergessen. Was mache ich?
+
+Bitte wenden Sie sich an unseren Kundenservice unter 0211 - 900 20 222, um eine neue T-PIN zu beantragen. Die Gebühren für eine Nachbestellung der T-PIN entnehmen Sie bitte dem aktuellen Preis- & Leistungsverzeichnis.
+
+Mit Ihrer neuen PIN melden Sie sich bitte im Login-Bereich über "Passwort vergessen?" neu für das Online-Banking an.
+
+
+
+Was mache ich, wenn das System die Nummer meines Giro-, Spar- oder Kreditkontos mit T-PIN bei der Anmeldung nicht akzeptiert?
+
+Wenden Sie sich bitte an unseren Kundenservice unter 0211 - 900 20 222.
+
+
+Was mache ich, wenn das System die Nummer meiner Kreditkarte und die T-PIN nicht akzeptiert?
+
+Wenden Sie sich bitte an unseren Kundenservice unter 0211 - 561 569 01.
+
+
+Was mache ich, wenn mein Online-Banking Zugang oder meine T-PIN gesperrt ist?
+
+Nach dreimaliger Eingabe einer falschen T-PIN sperren wir Ihren Online-Banking Zugang aus Sicherheitsgründen. Eine neue T-PIN beantragen Sie bitte in Ihrer Filiale oder telefonisch unter 0211 - 900 20 222. Einen neuen Benutzernamen oder ein neues Passwort können Sie erst anlegen, nachdem Sie die neue T-PIN erhalten haben. In der Zwischenzeit können Sie weder das Online-Banking noch das Telefon-Banking oder Brokerage nutzen. Ihre neue T-PIN erhalten Sie nach 5 bis 7 Tagen per Post.
+
+
+Ist es möglich, meine T-PIN zu ändern?
+
+Ihre T-PIN ändern Sie im Online-Banking oder unter 0211 - 900 20 222.
+
+
+Was mache ich, wenn ich Benutzername und/oder Passwort vergessen habe?
+
+Haben Sie Ihren Benutzernamen und/oder Ihr Passwort vergessen, klicken Sie auf der Login-Seite auf das Feld "Passwort vergessen". Dort geben Sie Ihre Konto- oder Kreditkartennummer und die 6-stellige T-PIN ein. Wir zeigen Ihnen dann Ihren alten Benutzername an. Bitte wählen Sie ein neues Passwort aus.
+
+
+Übertrag der Registrierungsdaten (Benutzername und Passwort) auf aktives Produkt.
+
+Die Registrierung für das Online-Banking basiert auf einem Produkt und der gültigen T-PIN. Ist dieses Produkt (zum Beispiel ein Girokonto) nicht mehr gültig oder existiert nicht mehr, können Sie die Registrierung auf ein aktives Konto (zum Beispiel ein Sparprodukt) übertragen. In diesem Fall zeigen wir Ihnen nach dem Login eine entsprechende Information an. Wenn Sie den Übertrag bestätigen bleiben Ihre Login-Daten unverändert. Sie können den Übertrag alternativ ablehnen. Eine erneute Registrierung ist mit einem gültigen Produkt, Ihrer T-PIN und einem neuen Benutzernamen und Passwort möglich.

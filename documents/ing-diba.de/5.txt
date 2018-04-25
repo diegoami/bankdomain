@@ -1,0 +1,54 @@
+
+Wie geschützt sind meine Daten?
+
+Mit paydirekt bleibt Privates auch privat. Denn der deutsche Bankenstandard und die strengen deutschen Datenschutzbestimmungen garantieren höchste Sicherheit. Der Händler bekommt nur eine Zahlungsbestätigung, keine weiteren Kontodaten. Die Zahlungen laufen ausschließlich über deutsche Server und es gibt keine Möglichkeit, auf Ihr Internetbanking oder auf andere Konten zuzugreifen.
+Wie funktioniert der Käuferschutz?
+
+Liefert ein Händler einmal nicht, springt der Käuferschutz von paydirekt ein und sorgt dafür, dass Sie Ihre Ware erhalten oder das Geld zurückbekommen. Den Käuferschutz können Sie bis zu 30 Tage nach der Abbuchung von Ihrem Girokonto in Anspruch nehmen. Loggen Sie sich dazu einfach in Ihren Kundenbereich bei paydirekt ein und wählen Sie innerhalb der entsprechenden Bestellung die Funktion "Problem melden" und dann "Keine Ware erhalten".
+Wie viel kann ich mit paydirekt bezahlen?
+
+Das Limit liegt bei 4.000 Euro in 7 Tagen – genau wie bei der girocard.
+Kann ich eine Lieferadresse hinterlegen?
+
+Na klar. Liefer- und Rechnungsadressen, die Sie häufig nutzen, können Sie in den paydirekt Einstellungen hinterlegen. Das Bezahlen geht dann noch schneller: Im "verkürzten Kaufprozess" wird Ihre bevorzugte Liefer- und Rechnungsadresse automatisch eingetragen und an den Händler gesendet. So kommt Ihr Einkauf schneller bei Ihnen an.
+Welche Händler nehmen teil?
+
+Schauen Sie einfach auf der paydirekt Website nach. Jeden Tag kommen neue Händler dazu. Ist Ihr Händler noch nicht dabei? Dann sprechen Sie ihn doch einmal an und bitten Sie ihn, paydirekt als Bezahlservice anzubieten.
+Auf welchen Geräten kann ich die paydirekt App installieren?
+
+Nutzen Sie die paydirekt App auf Smartphones und Tablets, die mindestens Android 4.4 beziehungsweise iOS 9.0 oder höher unterstützen.
+Wozu benötige ich die App-PIN?
+
+Wir wollen, dass Banking für Sie so sicher wie möglich ist – denn schließlich geht es um ihr Geld. Deshalb gibt es die App-PIN, die Ihren Account vor unerlaubten Zugriffen schützt. Bitte geben Sie Ihren App-PIN bei jedem Aufruf von paydirekt ein. Zu Ihrer eigenen Sicherheit kann der App-PIN nicht zurückgesetzt werden.
+Sie haben Ihre PIN vergessen?
+
+Kein Problem. Einfach die paydirekt App deinstallieren und wieder installieren. Dann gewünschten, neuen PIN eingeben und einloggen. Natürlich werden Ihre Transaktionsdaten hierbei nicht gelöscht.
+Wie kann ich eine Handynummer oder E-Mail-Adresse zu meinem Account hinzufügen bzw. diese ändern?
+
+Wenn sich Ihre E-Mail-Adresse oder Handynummer ändert oder eine neue hinzukommt, können Sie dies kinderleicht in Ihrem paydirekt Account anpassen. Klicken Sie im Kundenportal von paydirekt http://www.paydirekt.de/account/#/login in den Einstellungen auf „Mobilfunknummer hinzufügen“ bzw. „E-Mail-Adresse hinzufügen“ und geben Sie Ihre Daten ein. Sofort danach können Ihre Freunde Ihnen Geld dorthin senden.
+Ich habe ein neues Smartphone – was muss ich in Sachen paydirekt beachten?
+
+Installieren Sie auf Ihrem neuen Smartphone bzw. Tablet die paydirekt App. Dann nur noch Ihre gewünschten paydirekt Accounts hinterlegen und fertig. Wenn Sie Ihr altes Gerät nicht mehr nutzen, entfernen Sie dieses bitte in den Einstellungen in Ihrem paydirekt Account unter http://www.paydirekt.de/account/#/login.
+So kann damit ganz sicher niemand mehr Geld senden.
+Wie kann ich Geld senden?
+
+Um Geld von Ihrem Smartphone z.B. an das eines Freundes zu senden, benötigen Sie zwei Dinge:
+
+1. Richten Sie einen paydirekt Account im Online-Banking Ihrer Bank oder Sparkasse ein und aktivieren Sie diesen.
+2. Installieren Sie die paydirekt App auf Ihrem Smartphone.
+
+Beides erledigt? Prima! Jetzt müssen Sie nur noch die „Geld senden“-Funktion in der App freischalten sowie den Zugriff auf Ihre Kontakte gestatten. Jetzt nur die entsprechende Person in Ihrem Adressbuch auswählen – Handynummer oder E-Mail-Adresse ist egal – und Geld senden. Fertig.
+Handy verloren oder gestohlen – was muss ich machen?
+
+Um sicher zu sein, dass niemand Ihren paydirekt Account missbraucht, entfernen Sie das verlorene bzw. gestohlene Smartphone in Ihrem Account von paydirekt unter http://www.paydirekt.de/account/#/login in Ihren Einstellungen. Danach sind mit dem entsprechenden Gerät keine Zahlungen mehr möglich.
+
+Falls Sie unterwegs Ihre Zugangsdaten nicht zur Hand haben, rufen Sie bitte die paydirekt Service Hotline unter 069-2475382222 und lassen Sie Ihren Zugang sperren.
+Sind meine persönlichen Daten sicher?
+
+Sicherheit ist uns bei der ING-DiBa besonders wichtig. Und diese hohen Maßstäbe legen wir auch an unsere Partner wie paydirekt an. So unterliegt paydirekt als deutsches Unternehmen allen hier geltenden Regulierungen und Datenschutzbestimmungen. Ihre persönlichen Daten werden also ausschließlich in Deutschland gespeichert und verwaltet. Das ist gut, denn in der Bundesrepublik gelten besonders strenge Vorschriften in Sachen Sicherheit. Die Erfassung, Verarbeitung und Speicherung von Stamm- und Transaktionsdaten beschränkt sich wie vom Gesetzgeber vorgesehen auf ein Minimum.
+Wo und wie werden meine Daten gespeichert?
+
+Alle Daten werden ausschließlich in zertifizierten Rechenzentren in Deutschland gespeichert. Dort sind alle kritischen Versorgungssysteme so ausgelegt, dass im Fehlerfall ein Systemausfall dank Mehrfachsicherung ausgeschlossen ist.
+Wofür werden meine Daten verwendet?
+
+Es ist uns wichtig, Ihre Daten sensibel zu behandeln. Deshalb erheben und verarbeiten wir nur Daten, die unbedingt für die Abwicklung von Bezahlvorgängen nötig sind und dem Betrugsschutz dienen. Diese Daten werden dann sofort gelöscht, wenn sie nicht mehr benötigt werden. Ausnahmen gibt es nur dann, wenn der Gesetzgeber eine längere Aufbewahrungszeit fordert.

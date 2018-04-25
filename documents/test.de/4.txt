@@ -1,0 +1,30 @@
+Worauf muss ich beim Online­banking besonders achten?
+
+Zunächst sollten Sie ein geeignetes Verfahren wählen (siehe Frage Welche Onlinebanking-Verfahren empfehlen Sie?). Außerdem sollten Sie persönliche Zugangs­daten wie Geheimzahl (Pin) und Tan keinesfalls auf dem Computer speichern. Klicken Sie keine Links in E-Mails an, deren Absender Sie nicht kennen, und öffnen Sie auch keine Anhänge. Geben Sie die Bank­adresse ­immer selbst ein. Lassen Sie gesunden Menschen­verstand walten und brechen Sie das Online­banking sofort ab, wenn Ihnen etwas komisch vorkommt.
+nach oben
+Welche Voraus­setzungen muss mein Computer haben?
+
+Sie sollten Online­banking nur an einem gesicherten Computer machen und darauf achten, dass Betriebs­system und Internet­browser immer auf dem neuesten Stand sind. Der Rechner braucht eine Firewall und ein Viren­schutz­programm, die in aktuellen Betriebs­systemen bereits integriert sein können. Öffent­liche Rechner sind für Online­banking tabu. Nach dem Banking sollten Sie vorsorglich den Cache – eine Art Kurz­zeitgedächt­nis des Browsers – löschen.
+Verschiedene Online­banking-Verfahren
+Welche Online­banking-Verfahren empfehlen Sie?
+
+Die meisten Banken bieten mindestens ein sicheres Online­banking-Verfahren an. Sie unterscheiden sich nach der Art, wie sie die Trans­aktions­nummern (Tan) verschi­cken, mit der Sie Ihren Auftrag frei­geben. Sicher sind nach heutigem Stand der Technik mobileTan, ChipTan, Photo-Tan und App-Tan (siehe Tan-Verfahren im Überblick).
+Wie sicher ist das Online-Banking-Verfahren HBCI?
+
+HBCI (Home-Banking-Computer-Inter­face) ist eines der sichersten Online­banking-Verfahren. Seit 2004 heißt es FinTS (Financial Trans­action Services). Viele Banken bieten HBCI (FinTs) nicht mehr aktiv an, weil die Kunden einfachere Verfahren bevor­zugen. Für HBCI benötigen Sie eine spezielle Software, ein Lesegerät, möglichst mit Tastatur, und eine Chipkarte. Alle entscheidenden Sicher­heits­aspekte sind in dieser Karte, die mit einer Geheimzahl (Pin) geschützt ist. Für die Bestätigung eines Bank­auftrags stecken Sie die Chipkarte in das – mit dem PC verbun­dene – Lesegerät. Auf dessen Tastatur geben Sie die Pin ein. Die Chipkarte erstellt eine digitale Unter­schrift und schickt den Auftrag verschlüsselt an die Bank. Auf diese Weise sind Schad­programme wert­los, die Betrüger auf fremde Computer einschleusen, um Zugangs­daten fürs Online­banking abzugreifen.
+
+Der Nachteil von FinTS ist, dass Sie es nur an dem Computer nutzen können, an dem Sie die Software und das Lesegerät installiert haben. Oft müssen Sie das Lesegerät auch selbst bezahlen.
+Kann ich mich auch für zwei Verfahren anmelden und dann spontan entscheiden, welches ich nutze?
+
+Das kommt auf Ihre Bank an. Wenn sie mehrere Online­banking-Verfahren anbietet, ist es meistens möglich, zwei davon parallel zu nutzen. Sie wählen aus den angebotenen Verfahren Ihre Favoriten aus. Für jedes Verfahren erhalten Sie abhängig von Ihrer Bank eventuell einen eigenen Anmelde­namen und eine eigene Pin. Sie entscheiden mit der Eingabe der Daten bei der Anmeldung im Online­banking, welches Verfahren Sie nutzen möchten. Manche Banken schließen aber auch das parallele Nutzen von zwei Verfahren aus.
+Warum haben Sie noch nie etwas über die Online­banking-Verfahren Secu­reGo und Bestsign geschrieben?
+
+Secu­reGo ist ein Online­banking-Verfahren der Volks- und Raiff­eisen­banken. Wir ordnen es unter den Ober­begriff „App-Tan“ ein – so wie das Push-Tan-Verfahren der Sparkassen (siehe Tan-Verfahren im Überblick). Bei Secu­reGo bekommen Sie die Tan in einer App auf Ihrem Smartphone oder Tablet ange­zeigt. Die App müssen Sie zuvor auf den Geräten installieren und sich in der App und im Online­banking registrieren. Dann bekommen Sie künftig in der App die Tan ange­zeigt.
+
+Bestsign ist ein Verfahren, das nur Kunden der Post­bank zur Freigabe von Trans­aktionen nutzen können. Sie brauchen dafür ein spezielles Gerät, dass Sie per Bluetooth oder USB-Anschluss mit Ihrem Computer verbinden. Es zeigt die Trans­aktions­daten an, die Sie per Knopf­druck auf dem Gerät frei­geben.
+nach oben
+Bearbeiten Banken Online­aufträge rund um die Uhr?
+
+Über­weisungen, ob per Papier oder per PC in Auftrag gegeben, werden rund um die Uhr angenommen, aber nur zu bestimmten Zeiten verarbeitet. An Sams­tagen, Sonn- und Feier­tagen sowie in der Nacht finden keine Buchungen statt. Bis zu welchem Zeit­punkt die Bank Über­weisungen noch am gleichen Tag ausführt, steht im Preis- und Leistungs­verzeichnis. Aufträge, die danach eingehen, werden am folgenden Werk­tag gebucht.
+
+Beispiel: Eine Über­weisung, die Sie Freitag um 21 Uhr tätigen, wird erst montags ausgeführt. Über­weisen Sie am Montag tags­über, wird der Auftrag am selben Tag gebucht. Inner­halb derselben Bank taucht eine Online­über­weisung von Konto zu Konto fast zeitgleich im Online­banking auf. Auch die Wert­stellung erfolgt meist sofort.

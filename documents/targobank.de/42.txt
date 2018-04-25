@@ -1,0 +1,85 @@
+
+Was ist 3D-Secure?
+
+Für einen sicheren Umgang mit der Kreditkarte im Internet setzen immer mehr Online-Händler auf den Sicherheitsstandard 3D-Secure. Dieser kostenlose Service läuft für VISA-Karten unter dem Namen "Verified by Visa" und für MasterCard-Karten unter dem Namen "MasterCard SecureCode".
+
+Bei diesem Verfahren autorisieren Sie ganz bequem mit einer TARGOBANK Kreditkarte und einer persönlichen iTAN oder mTAN Ihren Internet-Einkauf. Eine TAN ist immer nur für die jeweilige Transaktion gültig und ist sicherer als jedes gleichbleibende Passwort.
+
+
+Wie funktioniert 3D-Secure?
+
+Wenn Sie bei einem Internethändler einkaufen, der für 3D-Secure zertifiziert ist, öffnet sich beim Bezahlvorgang eine Seite der TARGOBANK. Hier bestätigen Sie Ihre Transaktion durch Eingabe einer iTAN oder mTAN. Eine zusätzliche Registrierung und die Vergabe eines Passwortes für das 3D-Secure Verfahren ist nicht notwendig.
+
+
+Wie ändere ich meine Kreditkartenrückzahlung?
+
+Wenn Sie der TARGOBANK eine Einzugsermächtigung für Ihre Kreditkartenabrechnung erteilt haben, ändern Sie die Höhe Ihrer Rückzahlung bitte online: "Service" -> "Kreditkarten Service" -> "Rückzahlungsoptionen". Die Änderung wird zum nächsten Abrechnungsmonat gültig.
+
+Sofern uns noch keine Einzugsermächtigung für Ihre Kreditkartenabrechnung vorliegt, finden Sie unter "Service" -> "Formulare & Bestellungen" -> "Kreditkartenformulare" -> ein ausdruckbares Formular. Mit diesem verändern Sie die Höhe Ihrer Rückzahlung und/oder erteilen schriftlich eine Einzugsermächtigung. Die Änderung wird nach Posteingang und Bearbeitung bei der TARGOBANK zum nächsten Abrechnungsmonat gültig.
+
+
+Wenn ich auf "Kreditkartenrückzahlung" klicke, erscheint nur ein Formular zum Herunterladen.
+
+In diesem Fall liegt für Ihr Kreditkartenkonto keine Einzugsermächtigung vor.
+
+
+Ich habe meine Kreditkartenrückzahlung online geändert. Ab wann ist diese gültig und wie lange?
+
+Bereits in der nächsten Abrechnung berücksichtigen wir die geänderten Rückzahlungsmodalitäten. Die Änderung ist zeitlich unbefristet.
+
+
+Welche Möglichkeiten für die Kreditkartenrückzahlung habe ich?
+
+Eine Änderung ist möglich ab 5 % (mindestens aber 10,– EUR) des monatlichen Rechnungsbetrags. Die Änderung Ihrer Wunschrate ist kostenlos.
+
+
+Welche Informationen erscheinen unter "Bonuspunkte"?
+
+Wenn Sie eine TARGOBANK Kreditkarte haben, die ein Bonusprogramm enthält, sehen Sie dort Ihren aktuellen Punktestand.
+
+Bei Fragen wenden Sie sich bitte an unseren Kundenservice unter 0211 - 561 569 01.
+
+
+Ich nehme an keinem Bonusprogramm für Kreditkarten teil. Dennoch sehe ich Bonuspunkte ein. Warum?
+
+Bei einigen Kreditkarten ist die Jahresgebühr abhängig von den getätigten Einkaufsumsätzen im Abrechnungsjahr. Die Punkte zeigen Ihnen an, wie hoch Ihr derzeitiger Jahresumsatz ist (1 Punkt = 1,– EUR Umsatz). So sehen Sie, ob wir Ihre Jahresgebühr erstatten/reduzieren oder wie viel Umsatz noch fehlt, bis Sie diese Erstattung/Reduzierung erhalten.
+
+
+Ist es möglich, von meiner Kreditkarte auf ein eigenes Girokonto bei einer anderen Bank zu überweisen?
+
+Ja. Sie überweisen bequem von Ihrer Kreditkarte auf jedes eigene Girokonto (bei der TARGOBANK oder einer anderen Bank). Voraussetzung ist, dass Sie es bei der TARGOBANK als Referenzkonto angegeben haben. Die Daten des Referenzkontos müssen der TARGOBANK aus Sicherheitsgründen 90 Tage vorliegen, bevor Sie online Überweisungen von der Kreditkarte durchführen.
+
+TIPP: Melden Sie sich für den Konto-SMS-Service kostenlos an. Dann erhalten Sie per SMS oder E-Mail eine Nachricht über die Durchführung Ihrer Überweisung. Anmeldung im Online-Banking unter "Service" -> "Konto-SMS-Service".
+
+
+Wie lege ich ein Referenzkonto an oder verändere es?
+
+Ein Referenzkonto ist eine Kontoverbindung, die Sie der TARGOBANK zum Beispiel im Rahmen einer Einzugsermächtigung zu Ihrer Kreditkarte mitteilen. Dabei muss es sich um ein in Deutschland geführtes Girokonto handeln.
+
+Im Online-Banking unter "Service"/"Kreditkartenrückzahlung" finden Sie ein PDF-Formular. Mit diesem Formular erteilen Sie der TARGOBANK eine Einzugsermächtigung von Ihrem gewünschten Referenzkonto.
+
+Falls Sie bereits ein Referenzkonto angegeben haben und dieses ändern möchten, schicken Sie bitte einen formlosen schriftlichen Auftrag an:
+
+TARGOBANK AG & Co. KGaA
+Postfach 10 12 52
+47012 Duisburg
+
+
+Welchen maximalen Betrag kann ich von einem Kreditkartenkonto auf ein anderes eigenes Konto umbuchen?
+
+Dies ist abhängig von Ihrer Kreditkarte. Sie können je nach Kreditkarte pro Tag Ihr gesamtes Guthaben oder bis zu 750,–/1.000,– EUR aus Ihrem Limit auf Ihr Referenzkonto umbuchen. Voraussetzungen:
+
+    ein entsprechender Verfügungsrahmen auf dem Kreditkartenkonto.
+    am selben Tag erfolgen keine Barabhebungen oder Zahlungen.
+
+TIPP: Melden Sie sich für den Konto-SMS-Service kostenlos an. Dann erhalten Sie per SMS oder E-Mail eine Nachricht über die Durchführung Ihrer Überweisung. Anmeldung im Online-Banking unter "Service" -> "Konto-SMS-Service".
+
+
+Benötige ich eine iTAN für meine Kreditkartenüberweisung?
+
+Nein. Da nur Überweisungen auf Ihr Referenzkonto möglich sind, benötigen Sie keine iTAN.
+
+
+Wie ändere ich die Rückzahlungsrate meiner Kreditkarte?
+
+Die ist online möglich unter "Service" ➜ "Service" ➜ "Kreditkarten Service" ➜ "Rückzahlungsmodalitäten". Bei bestehender Einzugsermächtigung wird die Änderung ab dem folgenden Abrechnungsmonat gültig.
