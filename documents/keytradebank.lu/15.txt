@@ -1,0 +1,30 @@
+
+Was ist Equiduct und wie funktioniert es?
+Equiduct ist eine alternative Handelsplatform, welche die Preise auf verschiedenen Plattformen (Chi-X, Turquoise, Bats) und auf Euronext analysiert. Weiterhin ist Equiduct ein regulierter Markt, der von der Börse Berlin betrieben und von offiziellen Einrichtungen überwacht wird. Auf Equiduct werden Sie immer die bestmögliche Ausführung erhalten.
+
+
+
+Welche Vorteile habe ich als Kunde?
+Sie können sicher sein, die bestmögliche Ausführung im Markt zu erhalten. Gemäß dem Prinzip der bestmöglichen Ausführung berücksichtigt Keytrade Bank Luxembourg verschiedene Faktoren, wobei Preis und Gesamtkosten die größte Bedeutung zukommt.
+
+
+Mit welchen Dörsenorders wird Equiduct beauftragt?
+Derzeit werden nur ausgewählte Aktien und Trackers, die an den Börsen Brüssel, Amsterdam und Paris verfügbar sind, via Equiduct gehandelt. Die anderen Finanzinstrumente (Warrants, Turbos, Speeders) sind nicht auf Equiduct handelbar.
+
+In Zukunft könnten weitere Aktien hinzugefügt werden. Sobald eine Aktie auf Equiduct handelbar ist, werden die Kaufs- und Verkaufsorders automatisch an Equiduct gesendet, falls nicht festgelegt wurde, dass alle ihre Orders an Euronext gesendet werden sollen.
+
+
+Was muss ich tun, um von diesem neuen Service zu profitieren?
+Sie müssen nichts tun. Die Aufträge für ausgewählte Aktien und Trackers von den Börsen Brüssel, Amsterdam und Paris werden automatisch an Equiduct gesendet. Sie erhalten automatisch die bestmögliche Ausführung. Sowohl die Transaktionskosten als auch alle anderen Tarife bleiben unverändert.
+
+
+Kann ich weiterhin meine Orders im Orderbuch sehen?
+Eine an Equiduct gesendete Order ist nicht im Euronext-Orderbuch sichtbar. Es wird lediglich die Markttiefe von Euronext angezeigt. In anderen Worten: Nur die an Euronext gesendeten Orders werden angezeigt.
+
+
+Kann ich weiterhin meine Aufträge im Auftragsbuch sehen?
+Ein an Equiduct gesendeter Auftrag ist nicht im Euronext Auftragsbuch sichtbar. Es wird lediglich die Markttiefe von Euronext angezeigt. In anderen Worten: Nur die an Euronext gesendeten Aufträge werden angezeigt.
+
+
+Wo finde ich weitere Informationen über Equiduct?
+Weitere Informationen erhalten Sie unter www.equiduct.com.

@@ -1,0 +1,110 @@
+
+
+Wie und wo kann ich die Zustellart meiner Kontoauszüge auf den Postkorb ändern?
+
+Über den Reiter "Service & Verwaltung / Kontoverwaltung / Zustellart Kontoauszüge ändern" können Sie die gewünschte Änderung vornehmen.
+
+Sollten Sie die Zustellart der Kontoauszüge hier nicht ändern können (Ihr Konto wird Ihnen nicht angezeigt), wenden Sie sich zur Änderung bitte an Ihren Kundenberater unter der Telefonnummer 0209 385-0.
+
+Eine Rückänderung der Zustellung der Kontoauszüge auf Kontoauszugsdrucker oder Postversand ist leider nicht automatisch möglich. Wenden Sie sich dazu bitte an Ihren Kundenberater.
+
+    Login Online-Banking
+
+Was ist meine VR-Kennung und wo finde ich sie?
+
+Die VR-Kennung macht Ihr Online-Banking einen Schritt sicherer. Bei Freischaltung des Online-Bankings teilen wir Ihnen die Kennung schriftlich mit. Mit der VR-Kennung melden Sie sich im Online-Banking an. Dort können Sie die VR-Kennung dann in einen persönlichen Benutzernamen (Alias) ändern.
+Die Änderung Ihrer VR-Kennung oder des Benutzernamens erfolgt im Online-Banking unter dem Punkt "Service & Verwaltung / Online-Banking Zugang / VR-Kennung (Alias/Benutzernamen) verwalten".
+
+Ich habe meine VR-Kennung/Alias vergessen. Was kann ich tun?
+
+In diesem Fall wenden Sie sich bitte direkt an Ihren persönlichen Berater oder suchen eine unserer Filialen auf. Die Kolleginnen und Kollegen können Ihnen entweder den vergessenen Alias nennen oder gleich eine neue VR-Kennung ausstellen.
+
+Wie lange kann ich meine Umsätze im Online-Banking zurückverfolgen?
+
+Für Ihre Giro-, Tagesgeld-, Spar- und Kreditkartenkonten stellen wir Ihnen die Umsätze für einen Zeitraum von 90 Tagen zur Verfügung. Bei Darlehenskonten und Termineinlagen sind alle Umsätze seit dem letzten Auszug sichtbar.
+
+Kann ich im Online-Banking auch Terminüberweisungen anlegen?
+
+Bei der Eingabe der Überweisung haben Sie die Möglichkeit, diese entweder sofort oder zu einem späteren Zeitpunkt ausführen zu lassen. Die terminierten Überweisungen finden Sie dann unter dem Punkt "SEPA-Terminüberweisungen". Dort können Sie auch noch Änderungen an der eigentlichen Überweisung vornehmen oder den Auftrag löschen.
+
+Kann ich im Online-Banking auch Überweisungsvorlagen anlegen?
+
+Bei Eingabe einer Überweisung haben Sie die Möglichkeit, diese als Vorlage zu speichern. Unter dem Menüpunkt "Zahlungen" in der Rubrik "Überweisungen" unter dem Punkt "SEPA-Überweisungsvorlagen" finden Sie Ihre Überweisungsvorlagen wieder. Vorlagen ersparen Ihnen die erneute Eingabe von Daten wie Empfänger, IBAN etc. Bei wiederkehrenden Zahlungen ist die Anlage von Vorlagen sinnvoll.
+
+Wo finde ich IBAN und BIC?
+
+Sie finden Ihre IBAN und BIC auf der ersten Seite Ihrer Kontoauszüge. Zusätzlich finden Sie die IBAN und den BIC auf der Rückseite Ihrer girocard. In Ihrem Online-Banking finden Sie beides in der Finanzübersicht unter dem Symbol "i" (=Informationen anzeigen) hinter dem jeweiligen Konto.
+
+Hinweis: Bei Inlandszahlungen und grenzüberschreitenden SEPA-Zahlungen im EU/EWR-Raum reicht die Angabe der IBAN aus. Die Eingabe der BIC ist hier nicht erforderlich.
+
+
+Welche Services sind im Online-Banking möglich?
+
+Mit dem Online-Banking haben Sie die Möglichkeit, Ihre Bankgeschäfte bequem von zu Hause aus zu regeln. Sie können Überweisungen ausführen, Daueraufträge u. Terminüberweisungen anlegen oder ändern, Umbuchungen vornehmen, Ihren Kontostand und Ihre Umsätze ersehen, das Handy aufladen, Lastschriften einziehen oder widersprechen u.v.m.
+
+Ich habe einen Freischaltcode in der VR-SecureSIGN-App bestellt. Warum habe ich diesen immer noch nicht erhalten?
+
+Sobald die Freischaltcode-Bestellung in der VR-SecureSIGN-App angestoßen wurde, wird der Code erzeugt und in den Postversand gegeben. Auf die Postlaufzeit haben wir leider keinen Einfluss.
+
+Was kann ich tun, wenn ich das Anmeldekennwort für die VR-SecureSIGN-App vergessen habe?
+
+Wenn Sie das Anmeldekennwort für die VR-SecureSIGN-App vergessen haben, müssen Sie diese App zuerst löschen, dann neu installieren und anschließend registrieren.
+
+Kann ich die VR-SecureSIGN-App auch mit einem Mobilfunkvertrag mit einem ausländischen Provider nutzen?
+
+Ja, das ist möglich. Zum Abruf der TAN ist nur eine bestehende Internetverbindung notwendig. Diese kann über das Mobilfunknetz oder über WLAN zustande kommen.
+
+Warum steht die TAN nicht in der Push-Nachricht?
+
+Die TAN steht nicht in der Push-Nachricht, da diese unverschlüsselt über die Server der Anbieter Apple oder Google übertragen wird. Zudem wird die Push-Nachricht je nach Einstellung Ihres Gerätes direkt in der Vorschau angezeigt. Die TAN wird aus diesen Gründen ausschließlich in der speziell gesicherten VR-SecureSIGN-App angezeigt. Dabei erfolgt die Übertragung der TAN verschlüsselt.
+
+An wen wende ich mich, wenn ich Fragen zum Online-Banking habe?
+
+Informationen zum Online-Banking erhalten Sie telefonisch in unserem KundenServiceCenter unter der Nummer 0209 385-0 oder in unseren Filialen.
+
+Wie registriere ich mich für das Online-Banking?
+
+Stellen Sie Ihren Antrag ganz einfach hier im Internet oder telefonisch im KundenServiceCenter, Telefon: 0209 385-0. Gerne beraten wir Sie auch in einer unserer Filialen.
+
+    Online-Banking freischalten
+
+Was mache ich, wenn ich Benutzername und/oder Passwort vergessen habe?
+
+Melden Sie sich hierfür in unserem KundenServiceCenter unter der Nummer 0209 385-0.
+
+Wie sicher ist das Online-Banking?
+
+An unser Online-Banking stellen wir höchste Sicherheitsanforderungen, die ständig optimiert und weiterentwickelt werden. Wählen Sie je nach Ihrem Nutzungsverhalten das für Sie passende Online-Banking-Verfahren aus. Eine Empfehlung und eine Beschreibung der Sicherheitsverfahren finden Sie auf der Seite "Online-Banking".
+
+Bitte beachten Sie für die Sicherheit Ihres Computers oder Smartphones bitte auch unsere Hinweise auf der Seite "Phishing & Trojaner". Zusätzliche Sicherheit für Ihren heimischen Computer bietet Ihnen der gehärtete Browser VR-Protect.
+
+Für Ihre mobilen Endgeräte nutzen Sie bitte unsere VR-BankingApp.
+
+    Online-Banking
+    Banking-Apps
+    Banking-Browser VR-Protect
+    Schutz vor Phishing & Trojanern
+
+Kostet mich die Nutzung des Online-Banking etwas?
+
+Die Nutzung des Online-Banking ist in Ihrem Kontomodell enthalten. Möchten Sie das Sicherheitsverfahren SmartTAN optic nutzen, bezahlen Sie für den Kartenleser einmalig einen Betrag von 9,75 Euro.
+
+Wie kann ich online Daueraufträge einrichten, ändern oder löschen?
+
+Wenn Sie sich im Online-Banking registrieren, finden Sie unter dem Reiter Zahlungen den Menüpunkt "Daueraufträge".
+
+    Mehr zu Dauerauftrag anlegen, ändern und löschen
+
+Kann ich auch vom Ausland aus über Online-Banking auf mein Konto zugreifen?
+
+Ja, über einen Internetzugang. Nutzen Sie aus Sicherheitsgründen nur eigene, gesicherte Zugangsgeräte (Laptop, Smartphone, Tablet).
+
+Welche Vorteile bietet mir das Online-Banking?
+
+Sie können jederzeit bequem von zu Hause auf Ihre Konten zugreifen, Überweisungen und Daueraufträge bearbeiten, weitere Konten eröffnen (zum Beispiel Tagesgeld, Festgeld), mit Wertpapieren handeln und vieles mehr.
+
+    Weitere Informationen zum Online-Banking
+
+Wie kann ich meine PIN ändern?
+
+Ihre PIN für das Online-Banking (Internet-Banking) Ihrer Volksbank können Sie ganz einfach ändern. Melden Sie sich dazu wie gewohnt im Online-Banking an und klicken anschließend auf "Service & Verwaltung" und auf "PIN ändern". Dort ändern Sie Ihre PIN, indem Sie zunächst einmal Ihre alte PIN und zweimal Ihre neue PIN eingeben. Sie müssen Ihre neue PIN dann mit einer TAN (Transaktionsnummer) bestätigen.

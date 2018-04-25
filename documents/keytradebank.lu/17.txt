@@ -1,0 +1,88 @@
+
+Welchen Schutz bietet das Computersystem von Keytrade Bank Luxembourg?
+Das Computernetzwerk von Keytrade Bank Luxembourg ist durch Firewalls gesichert, die Angriffe sowie eine Unterbrechung der Dienstleistungen verhindern.
+Der Kanal zwischen Ihrem Browser und unserem Server, über den Sie auf unser Netzwerk zugreifen können, ist sicher. Alle vertraulichen Daten sind verschlüsselt und damit unlesbar für andere.
+
+Keytrade Bank Luxembourg verwendet einen Verschlüsselungscode von 128 Bit für die Datenübertragung zwischen Kunden-Browser und Webserver. Es ist zum Beispiel 309.485.009.821.345.068.724.781.056 Mal schwieriger, auf mit einem 128-Bit-stalt 40-Bit-Code verschlüsselte Daten zuzugreifen.
+
+Ihr Konto wird von Keytrade Bank Luxembourg gesperrt wenn Sie drei Mal hintereinander das falsche Passwort eingeben.
+
+Ihre persönlichen Daten (Name, Vorname, usw..) werden nicht auf keinem Computer von Keytrade angezeigt, das über das Internet zugänglich ist. Nur Ihr Login oder Ihre Kontonummer ermöglichen Ihnen eine Identifizierung bei Keytrade Bank Luxembourg.
+
+Ihre Passwörter werden Ihnen mitgeteilt, sobald Sie Ihr Konto eröffnet haben. Passwörter werden nie per Telefon übermittelt.
+
+
+Ist die Nutzung öffentlicher PCs sicher ?
+Das Arbeiten auf öffentlichen PCs ist sicher, da keine persönlichen Daten auf dem PC gespeichert werden. Klicken Sie stets auf Abmelden, sobald Sie fertig, um die Sitzung zu schließen.
+
+ Welche Mindestkonfiguration muss mein PC aufweisen?
+PC
+Hardware 	PC with internet connection
+	Minimum screen resolution : 1024*768
+OS 	Windows 7
+	Windows Vista
+	Windows XP (SP2 or above)
+	Windows 2000 (SP4 or above)
+Browser 	Internet Explorer (version 6 SP1 or above)
+	Firefox (version 3 or above)
+	Safari (version 3 or above)
+	Google Chrome (version 6 or above)
+	Opera (version 10 or above)
+Configuration 	Javascript enabled
+	Cookies enabled
+	SSL enabled
+	Flash plugin (10.1 or above)
+Apple
+Hardware 	Mac with internet connection
+	Minimum screen resolution : 1024*768
+OS 	Mac OS X (10.3 or above)
+Browser 	Safari (version 3 or above)
+	Firefox (version 3 or above)
+	Google Chrome (version 6 or above)
+	Opera (version 10 or above)
+Configuration 	Javascript enabled
+	Cookies enabled
+	SSL enabled
+	Flash plugin (10.1 or above)
+
+ How do I enable JavaScript in my browser?
+You will need to have JavaScript enabled in your browser. To do so, please follow the instructions below: Internet Explorer (6.0 or above)
+
+    Select "Tools" from the top menu
+    Choose "Internet Options"
+    Click on the "Security" tab
+    Click on "Custom Level"
+    Scroll down until you see section labled "Scripting"
+    Under "Active Scripting", select "Enable" and click OK
+
+
+Mozilla Firefox (1.5 or above)
+
+    Select "Tools" from the top menu
+    Choose "Options"
+    Choose "Content" from the top navigation
+    Select the checkbox next to "Enable JavaScript" and click OK
+
+
+Apple Safari (1.0 or above)
+
+    Select "Safari" from the top menu
+    Choose "Préférences"
+    Choose "Security"
+    Select the checkbox next to "Enable JavaScript"
+
+
+ Was tun, wenn ich die Animationen sich öffnen kann?
+Wenn Ihr Computer die Animationen nicht öffnen kann, ist das Programm Quick Time Player nicht installiert.
+Klicken Sie auf den folgenden Link, um das Programm kostenlos herunterzuladen:
+
+
+Was tun, wenn ich auf der Webseite keine Dokumente öffnen kann?
+Dokumente werden auf unserer Webseite im PDF-Format bereitgestellt.
+Wenn Sie diese öffnen möchten, müssen Sie über ein Programm verfügen, dass das PDF-Formate lesen kann, wie beispielsweise Adobe Acrobat Reader.
+
+Können Sie Dokumente im PDF-Format nicht öffnen, ist das Programm Adobe Reader entweder nicht installiert oder die installierte Version veraltet. Klicken Sie hier, um Adobe Acrobat Reader kostenlos herunterzuladen.
+
+
+Kann man an mehreren PCs gleichzeitig arbeiten?
+Einer der großen Vorteile der Anwendungen von Keytrade Bank Luxembourg ist die Tatsache, dass Sie keinerlei Programme auf Ihrem PC installieren müssen. Somit können Sie mithilfe Ihrer Passwörter Ihre Konten von jedem beliebigen PC aus verwalten und Ihre Order an allen Weltmärkten platzieren.

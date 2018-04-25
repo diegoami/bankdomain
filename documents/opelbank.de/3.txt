@@ -1,0 +1,97 @@
+Was ist FATCA und CRS?
+
+Eine Vielzahl von Staaten hat in den letzten Jahren Vereinbarungen getroffen, die den gegenseitigen Austausch steuerrelevanter Daten ihrer Staatsbürger vorsehen. FATCA und CRS sind Bestandteile dieses Informationsaustauschs und sollen die Steuerehrlichkeit weltweit fördern.
+
+FATCA (Foreign Account Tax Compliance Act) ist ein Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten, das den automatischen Austausch steuerrelevanter Daten zwischen diesen beiden Staaten regelt. Hierdurch wird eine effektive Besteuerung sichergestellt, wenn eine Person in den Vereinigten Staaten steuerpflichtig ist und Einkünfte aus Kapitalerträgen in anderen Ländern erwirtschaftet. FATCA hat zudem das Ziel, der Steuerhinterziehung von US-steuerpflichtigen Bürgern und/oder Unternehmen entgegenzuwirken und damit zugleich das Steueraufkommen zu erhöhen.
+
+In Anlehnung an dieses Abkommen haben sich zwischenzeitlich mehr als 90 Staaten und Gebiete auf den gegenseitigen Informationsaustausch über Finanzkonten verständigt. Hierzu wurde ein einheitliches Verfahren – der Common Reporting Standard (CRS) entwickelt.
+
+Im Rahmen dieser Abkommen ist die Opel Bank als deutsches Finanzinstitut dazu verpflichtet, Daten einer ausländischen Steuerpflicht an das Bundeszentralamt für Steuern (BZSt) zu melden. Vom BZSt werden folgende Daten an die zuständige ausländische Steuerbehörde übermittelt: Die gesetzlich erforderlichen Daten, Steueridentifikationsnummer(n), Kontonummer(n), Kontosalden und Kapitalerträge.
+
+Wann betrifft mich FATCA/CRS und was muss ich beachten?
+
+Wenn Sie ausschließlich in Deutschland steuerlich ansässig/steuerpflichtig sind, betrifft Sie FATCA und CRS nicht. In diesem Fall müssen Sie nichts tun. Wenn Sie eine steuerliche Ansässigkeit/Steuerpflicht außerhalb Deutschlands besitzen, teilen Sie uns dies bitte mit. Im Rahmen Ihrer Kontoeröffnung erhalten Sie von uns ein Formular, das Sie bitte ausgefüllt an uns zurück senden. Sie versichern uns damit auch, dass Sie uns, sollte im Laufe der Zeit eine Steuerpflicht außerhalb Deutschlands entstehen, alle relevanten Daten jederzeit mitteilen. Sollten Sie bereits Kunde bei der Opel Bank sein, erhalten Sie von uns ein separates Formular.
+
+Darüber hinaus prüfen wir unsere Kundendaten regelmäßig auf Indizien, die auf eine Steuerpflicht außerhalb Deutschlands hindeuten. Sollte uns hierbei ein Indiz bei Ihnen auffallen, werden Sie von uns benachrichtigt.
+
+Weitere Informationen und Veröffentlichungen zu den aktuellen Gesetzen und Vorschriften sowie alle benötigten Unterlagen erhalten US-Personen u. a. auf der Internetseite der US-amerikanischen Bundessteuerbehörde. Zusätzlich steht die Außenstelle des IRS (Internal Revenue Service) der US-amerikanischen Botschaft in Berlin für Rückfragen von US-Personen bzgl. einer ggf. erforderlichen Steuererklärung in den USA sowie für weitere Auskünfte zur Verfügung.
+
+Sollten Sie weitere Fragen zu CRS haben, finden Sie ausführliche Information auf der Internetseite des Bundeszentralamts für Steuern.
+
+Wann erhalte ich meine Jahressteuerbescheinigung und was muss ich dazu wissen?
+
+Sie erhalten Ihre Jahressteuerbescheinigung für das Jahr 2017 bis spätestens 28. Februar 2018 in Ihr ePostfach im Opel Bank eBanking. Diese können Sie sich künftig ausdrucken und im Rahmen Ihrer Steuererklärung beim Finanzamt einreichen.
+
+
+
+HINWEISE UND ERLÄUTERUNGEN ZU DEN POSITIONEN IHRER JAHRESSTEUERBESCHEINIGUNG
+
+Kapitalerträge: Die Zeile „Kapitalerträge“ enthält alle Zinserträge, die Sie im abgelaufenen Kalenderjahr bei der Opel Bank erwirtschaftet haben.
+
+In Anspruch genommener Sparer-Pauschbetrag: Jeder in Deutschland unbeschränkt steuerpflichtigen Person steht der sogenannte Sparer-Pauschbetrag in Höhe von 801 Euro zu. Zusammenveranlagten Ehegatten steht ein gemeinsamer Sparer-Pauschbetrag in Höhe von 1.602 Euro zur Verfügung. Kapitalerträge bis zu dieser Höhe können vom Steuerabzug befreit werden. Hierfür reichen Sie uns bitte einen entsprechenden Freistellungsauftrag ein.
+
+Die Position „In Anspruch genommener Sparer-Pauschbetrag“ gibt Aufschluss darüber, in welcher Höhe Sie Ihren Sparer-Pauschbetrag bei der Opel Bank ausgeschöpft haben, sofern Sie einen Freistellungsauftrag erteilt haben. Falls Sie bisher davon abgesehen haben, einen Freistellungsauftrag einzureichen, haben Sie im Rahmen Ihrer Steuererklärung die Möglichkeit, den vollständigen Sparer-Pauschbetrag geltend zu machen.
+
+Kapitalertragsteuer, Solidaritätszuschlag, Kirchensteuer: Die Kapitalertragsteuer ist eine besondere Erhebungsform der Einkommensteuer. D.h. sämtliche Kapitalerträge werden nach Berücksichtigung Ihres Freistellungsauftrags mit 25 % besteuert.  Die Zeile „Kapitalertragsteuer“ zeigt die Höhe der von der Opel Bank abgeführten Kapitalertragsteuer für Ihre Geldanlagen. Die Höhe der Kapitalertragsteuer dient als Bemessungsgrundlage für den Solidaritätszuschlag und die Kirchensteuer. Der Solidaritätszuschlag beträgt grundsätzlich 5,5 % auf die Kapitalertragsteuer. Sofern Sie einer kirchensteuererhebenden Religionsgemeinschaft angehören, führen wir für Sie zusätzlich zum Solidaritätszuschlag Kirchensteuer ab.  Die Höhe der Kirchensteuer bemisst sich in der Regel an der Höhe der zu zahlenden Kapitalertragsteuer und einem länder- beziehungsweise konfessionsabhängigen Prozentsatz, der in vielen Fällen zwischen  8 % und 9 % liegt. Bitte beachten Sie, dass sich die Höhe der Kapitalertragsteuer von 25 % verringert, sofern eine Kirchensteuerpflicht besteht.
+
+Die Opel Bank übernimmt keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen auf dem Gebiet des Steuerrechts. Bitte beachten Sie, dass die zur Verfügung gestellten Hinweise keine persönliche Steuer- oder Rechtsberatung ersetzen. Für weitere Informationen befragen Sie bitte Ihren Steuerberater.
+Ersatzsteuerbescheinigung
+
+Eine Ersatzsteuerbescheinigung erhalten Sie über das Formular Auftrag zur Ausstellung einer Ersatzsteuerbescheinigung.
+
+
+Was muss ich zum Jahreswechsel beachten?
+
+Hier finden Sie auf einen Blick die wichtigsten Informationen rund um den Jahreswechsel.
+	Termin/Frist 	Wo bzw. Wie?
+Jahressteuerbescheinigung (zur Vorlage beim Finanzamt) 	bis 28. Februar 2018 	in Ihrem ePostfach im Opel Bank eBanking
+Weitere Informationen
+Freistellungsauftrag für 2017 	bis 15. Januar 2018 	per Auftrag über das Opel Bank eBanking
+Freistellungsauftrag für 2018 	ab sofort 	per Auftrag über das Opel Bank eBanking
+Nichtveranlagungsbescheinigung 	bis 15. Januar 2018 	Einreichung im Original
+Verfügungen auf Referenzkonto (Gutschrift vor Weihnachten) 	bis 21. Dezember 2017
+15:30 Uhr 	per Überweisung über das Opel Bank eBanking
+Verfügungen auf Referenzkonto (Gutschrift in 2017) 	bis 27. Dezember 2017
+15:30 Uhr 	per Überweisung über das Opel Bank eBanking
+Kundenservice Erreichbarkeit 	Bitte haben Sie Verständnis, dass wir am 25. und 26. Dezember 2017 sowie am 1. Januar 2018 aufgrund der Feiertage nicht erreichbar sind.
+An allen anderen Tagen erreichen Sie uns montags bis freitags in der Zeit von 8 bis 20 Uhr sowie samstags von 8 bis 16 Uhr.
+
+Wie kann ich einen Freistellungsauftrag erteilen?
+Einzel-Freistellungsauftrag:
+
+Die Erteilung oder Änderung eines Freistellungsauftrags ist bequem im Opel Bank eBanking unter dem Menüpunkt „Service“ unter „Freistellungsauftrag“ möglich. Dort können Sie auch bestehende Daten einsehen. Der erteilte Auftrag gilt für alle unter Ihrem Namen geführte Geldanlagen.
+Gemeinschafts-Freistellungsauftrag:
+
+Melden Sie sich im Opel Bank eBanking an. Gehen Sie auf den Menüpunkt „Service“ und klicken Sie dort auf „Freistellungsauftrag“. Laden Sie sich dort das Formular „Gemeinschaftlicher Freistellungsauftrag für Kapitalerträge“ herunter. Senden Sie dieses ausgefüllt und unterschrieben an die Opel Bank. Wir richten dann gerne den gemeinschaftlichen Freistellungsauftrag für Sie ein.
+Freistellungsauftrag für Kinder:
+
+Melden Sie sich im Opel Bank eBanking an. Gehen Sie auf den Menüpunkt „Service“ und klicken Sie dort auf „Freistellungsauftrag“. Laden Sie sich dort das Formular „Freistellungsauftrag für Minderjährige“ herunter. Senden Sie dieses ausgefüllt und eigenhändig unterschrieben an die Opel Bank. Wir richten dann gerne den Freistellungsauftrag für Ihr Kind ein.
+
+
+Wie lange ist ein Freistellungsauftrag gültig?
+
+Sie können den Freistellungsauftrag befristet oder unbefristet erteilen.
+
+Freistellungsaufträge sind grundsätzlich vom 1. Januar (bzw. Beginn der Geschäftsverbindung) bis 31. Dezember eines Jahres gültig.
+
+Sie können allerdings eine automatische Übernahme der Freistellungsdaten für das Folgejahr in Ihrem Opel Bank eBanking einstellen, in dem Sie den Freistellungsauftrag „bis auf weiteres“. erteilen. Eine rückwirkende Einrichtung des Freistellungsauftrages für bereits abgelaufene Kalenderjahre ist nicht möglich.
+
+
+Wie kann ich einen Antrag auf Einbehalt der Kirchensteuer erteilen?
+
+Die Abführung des Kirchensteueranteils Ihrer Abgeltungssteuer an das Finanzamt erfolgt automatisch, sofern Sie kirchensteuerpflichtig sind.
+
+Um den Kirchensteuerabzug vornehmen zu können, sind wir gesetzlich verpflichtet, Ihre Religionszugehörigkeit in Form eines verschlüsselten Kennzeichens beim Bundeszentralamt für Steuern abzufragen. Das sogenannte Kirchensteuerabzugsmerkmal (KiStAM) gibt Auskunft über Ihre Zugehörigkeit zu einer steuererhebenden Religionsgemeinschaft und den geltenden Kirchensteuersatz. Die Abfrage erfolgt einmal jährlich zwischen dem 1. September und 31. Oktober.
+
+Hinweis: Sie können bis zum 30. Juni jeden Jahres für das folgende Steuerjahr dem Datenabruf beim Bundeszentralamt für Steuern widersprechen. Eine Abführung seitens der Opel Bank findet dann nicht mehr statt. Als Folge wird Sie das Finanzamt auffordern eine Steuererklärung abzugeben.
+
+
+Warum muss ich meine Steueridentifikationsnummer angeben und wo finde ich diese?
+
+Gesetzlich sind wir dazu verpflichtet, die Steueridentifikationsnummer aller Kontoinhaber und der Personen, die über Ihre Geldanlage bei der Opel Bank verfügen können, an das Bundeszentralamt für Steuern zu übermitteln. Vermeiden Sie die wiederholte Eingabe Ihrer Daten und eröffnen Sie Ihr Konto erst, wenn Sie Ihre Steueridentifikationsnummer zur Hand haben. Bei Abschluss einer Geldanlage für Ihr Kind benötigen Sie die Steueridentifikationsnummer Ihres Kindes sowie die der/des gesetzlichen Vertreter(s).
+
+Tipp: In der Regel finden Sie Ihre Steueridentifikationsnummer im Einkommensteuerbescheid, auf Ihrer Lohnsteuerbescheinigung oder im Mitteilungsschreiben des Bundeszentralamts für Steuern.
+
+Was ist die Steueridentifikationsnummer?
+
+Die Steueridentifikationsnummer ist eine persönliche, lebenslang gültige Identifikationsnummer, die vom Bundeszentralamt für Steuern an jeden Bürger vergeben wird. Sie ist elfstellig und nicht identisch mit der Steuernummer oder der elektronischen Transfer-Identifikations-Nummer (eTIN).

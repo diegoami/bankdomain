@@ -1,0 +1,116 @@
+
+Wann findet der Handel mit Turbos statt?
+Turbos können an der Euronext Amsterdam zwischen 9.05 Uhr und 17.25 Uhr gehandelt werden.
+
+
+Wie kann eine Order für diese Produkte platziert werden?
+Öffnen Sie die gesicherte Webseite von Keytrade Bank Luxembourg und geben Sie über das Suchmodul den ISIN-Code des Turbos ein. Sie erhalten nun automatisch Detailinformationen zum Kurs des betreffenden Turbos.
+
+Wenn Sie den ISIN-Code des Turbos nicht kennen oder andere Informationen zu dem Turbo benötigen, können Sie die spezielle Turbo-Suchmaschine nutzen. Diese finden Sie auf der gesicherten Webseite unter Börse / Investieren / Warrants. Hier werden Sie auf eine Seite weitergeleitet, die auf der ABN AMRO Webseite speziell für Keytrade Bank Luxembourg eingerichtet wurde. Sie finden dort alle von ABN AMRO zur Verfügung gestellten Informationen und haben überdies Zugriff auf den Turbo-Rechner.
+Zur Platzierung einer Order klicken Sie bitte auf Transaktion. Sie werden automatisch auf die Webseite von Keytrade Bank Luxembourg weitergeleitet.
+
+Das Transaktionsformular füllen Sie auf die gleiche Weise wie für alle anderen Finanzinstrumente aus, die über die Keytrade Bank Luxembourg gehandelt werden können.
+
+In Anbetracht der Tatsache, dass einem Anlage in einen Turbo mit mehr Risiken verbunden ist als die Anlage in einem Basiswert empfehlen wir Ihnen den Einsatz von Limit Orders.
+
+
+Welche Kosten fallen bei Transaktionen mit Turbos an?
+Die für Turbos anfallenden Gebühren beinhalten die Transaktions-und Depotgebühren sowie die Finanzierungskosten.
+
+    Bei Keytrade Bank Luxembourg können Sie Turbos zu 14,95 EUR pro Transaktion handeln (für Orders im Wert von bis zu 5.000 EUR).
+    Für Orders im Wert von 5.000 EUR-50.000 EUR werden Transaktions-Gebühren in Höhe von 24,95 EUR, aber keine Depotgebühren berechnet.
+    Die Finanzierungskosten werden täglich in die Turbo-Kurse eingepreist.
+
+
+Wie hoch ist der Wert eines Turbos?
+Der Wert eines Turbos kann auf Grundlage folgender Angaben leicht ermittelt werden:
+
+    Kurs des Basiswerts
+    Finanzierungsniveau
+    Wechselkurs
+    Bezugsverhältnis
+
+In den meisten Fällen entspricht der Turbowert der Differenz zwischen dem Kurs des Basiswerts und dem Finanzierungsniveau.
+
+Ist der Kurs des Basiswerts zu hoch oder zu niedrig, wird dem Turbo ein bestimmtes Bezugsverhältnis zugeteilt.
+Beispiel: Ein Dow Jones-Turbo hat eins Bezugsverhältnis von 100. Das bedeutet, dass Sie mit dem Kauf dieses Turbos nur in einen Hundertstel des Dow Jones investieren. Es bedeutet auch, dass der Turbowert nur einem Hundertstel der Differenz entspricht, die zwischen dem Kurs des Basiswerts und dem Finanzierungsniveau besteht.
+
+Für Basiswerts, die nicht auf Euro lauten, müssen Sie zudem den Wechselkurs berücksichtigen. Es lauten jedoch alle Turbos auf Euro. Eine Aufwertung der ausländischen Währung gegenüber dem Euro wirkt sich positiv auf den Wert Ihres Turbos aus, eine Abwertung dagegen negativ.
+
+Um den Wert eines Turbos schnell berechnen zu können, empfehlen wir Ihnen den Turbo-Rechner.
+
+
+Was ist das Finanzierungsniveau?
+Bei einem Turbo investieren Sie anteilig in einen Basiswert. Der Rest wird von ABN AMRO finanziert.
+Der von ABN AMRO finanzierte Teil wird als Finanzierungsniveau bezeichnet.
+
+
+Wozu dient das Stop-Loss-Niveau?
+Mit dem Stop-Loss-Niveau können Sie verhindern, dass Ihr Verlust den von Ihnen investierten Betrag übersteigt. Das Stop-Loss-Niveau entspricht dem Kurs des Basiswerts, bei dem ein Turbo ausgesetzt wird. Der Stop-Loss-Level bezeichnet den Kurs des Basiswerts, bei dem ein Turbo automatisch ausgesetzt wird.
+
+Auf Grundlage der aktuellen Finanzierung wird dieses Niveau einmal monatlich angepasst.
+
+
+Was ist ein Turbo Long?
+Turbo Longs gehören zu den Turbos, in die investiert, wenn man mit einer Kurssteigerung des Basiswerts rechnet.
+
+
+Was ist ein Turbo Short?
+Turbo Shorts gehören zu den Turbos, in die man investieren wird, wenn man mit einem Kursrückgang des Basiswerts rechnet.
+
+
+Aus welchem Grund werden zuweilen keine Kurse am Markt angezeigt?
+ABN AMRO ist der Liquiditätsanbieter für seine Turbos an der Euronext Amsterdam. Sie sind somit nicht nur auf andere Anleger angewiesen, die kaufen oder verkaufen möchten, sondern auch von ABN AMRO.
+
+Der Kauf-/Verkaufpreis von ABN AMRO hängt von folgenden Faktoren ab:
+
+    Theoretischer Wert des Turbos
+    Basiswert
+    Angebot und Nachfrage für Turbo und Basiswert
+    Unsicherheit und Mobilität des Marktes
+
+Unter besonderen Umständen kann es dazu kommen, dass ABN AMRO keine Angaben zum Kurs macht. Dies ist beispielsweise der Fall, wenn die Transaktionen für einen Basiswert ausgesetzt werden oder innerhalb kürzester Zeit eine Vielzahl an Orders platziert werden.
+
+Aus diesem Grund ist es stets empfehlenswert, im Umgang mit Turbos Limit Orders zu platzieren.
+
+
+Welche Vorteile bietet eine Anlage in Turbos?
+
+    Die Möglichkeit, schnelle Kurssteigerungen und Kursrückgänge gewinnbringend nutzen zu können
+    Einfacher Handel über Euronext Amsterdam
+    Herausbildung transparenter Kurse
+    Große Auswahl an Basiswerten (Indizes, Aktien, Rohstoffe, Währungen und Anleihen)
+    Hohe Gewinnaussicht aufgrund der Hebelwirkung
+    Integriertes Stop-Loss-Niveau
+    Keine feste Laufzeit
+
+
+Welche Risiken sind mit einer Investition in Turbos verbunden?
+Aufgrund der Hebelwirkung ist eine Anlage in Turbos risikoreicher als eine Anlage im Basiswert. Erreicht oder übersteigt der Kurs des Basiswertes das Stop-Loss-Niveau, wird der Turbo automatisch ausgesetzt und der verbleibende Wert wird dem Anleger ausbezahlt. In diesem Fall besteht die Möglichkeit, dass Sie Ihre gesamte Investition verlieren.
+
+Wenn Sie in einen Turbo investieren, dessen Basiswert auf eine ausländische Währung lautet, kann sich das Wechselkursrisiko negativ auf den Kurs des Turbos auswirken.
+
+
+Was ist ein Turbo?
+Ein Turbo ist ein an der Börse notiertes Anlageinstrument, das Ihnen aufgrund seiner Hebelwirkung die Möglichkeit bietet, Kursrückgänge oder Kurssenkungen schneller gewinnbringend nutzen zu können.
+
+
+In Verbindung mit welchen Basiswerten kann ich in einen Turbo investieren?
+Zurzeit können Sie einen Turbo auf Indizes, Aktien, Rohstoffe, Währungen und Anleihen kaufen.
+
+Das vollständige Verzeichnis zu allen verfügbaren Turbos finden Sie unter: www.abnamromarkets.be.
+
+
+Wie kann man einen bestimmten Turbo finden?
+Sie können einen Turbo stets über seinen ISIN-Code suchen. Dieser Code bleibt während der gesamten Laufzeit des Turbos unverändert.
+
+Die Bezeichnung eines Turbos kann jedoch während seiner Laufzeit geändert werden. Wird nämlich die Höhe der Stop-Loss-Order modifiziert, so ändert sich auch die Bezeichnung.
+
+Nehmen wir folgendes Beispiel: Sie kaufen den Turbo mit der Bezeichnung AAB BEL 20 TL 3200. Diese Bezeichnung setzt sich wie folgt zusammen:
+
+    AAB steht für ABN AMRO, den Emittenten des Turbos
+    BEL 20 steht für den Basiswert des Turbos
+    TL steht für Turbo Long (TS für Turbo Short)
+    3200 steht für die Höhe der Stop-Loss-Order
+
+Da sich die Höhe der Stop-Loss-Order während der Laufzeit des Turbos verändern kann, kann sich auch die Bezeichnung des von Ihnen erworbenen Turbos ändern, z.B. in AAB BEL 20 TL 3100.

@@ -1,0 +1,57 @@
+Wie funktioniert das Bezahlen mit der neuen girocard kontaktlos?
+
+Die neue girocard ermöglicht kontaktlose Zahlungen an allen entsprechend ausgestatteten girocard-Bezahlterminals des Handels, also ohne dass die Karte ins Terminal gesteckt werden muss - schnell, einfach und sicher. Dazu muss die girocard kontaktlos nur kurz an das Bezahlterminal des Händlers gehalten werden. Kontaktlos bezahlt wird immer mit der girocard-Funktion. Kleinbeträge bis 25 Euro können in den meisten Fällen mit der girocard kontaktlos ohne PIN bezahlt werden. Ggf. muss auch bei Kleinbetragszahlungen bis 25 Euro eine PIN eingeben werden (z.B. jugendliche Kartenbesitzer unter 18 Jahren). Auch Beträge ab 25 Euro können kontaktlos mit girocard bezahlt werden, dann jedoch grundsätzlich mit Eingabe einer PIN. Nach Abschluss der Transaktion erfolgt, je nach Terminalart, ein optisches oder akustisches Signal, wie bislang auch.
+
+Welche Vorteile bringt die neue girocard mit sich?
+
+    Kontaktloses Bezahlen ist sehr schnell, der ganze Bezahlvorgang dauert weniger als eine Sekunde. Mit jedem Kunden der kontaktlos bezahlt, verkürzen sich folglich auch die Wartezeiten an der Kasse.
+    Auch Kleinbeträge können sinnvoll mit der Karte bezahlt werden. Es entfällt das lästige Suchen nach Kleingeld.
+    Sie müssen Ihre Karte nicht mehr aus der Hand geben.
+
+Durch die Einführung der Kontaktlos-Funktionalität ändert sich an den bestehenden Anwendungen der girocard nichts. Alle bisherigen Anwendungen können unverändert weiter genutzt werden.
+
+Ab wann und wo kann ich mit der girocard kontaktlos im Handel bezahlen?
+
+Es ist davon auszugehen, dass der Handel ab dem Frühsommer 2017 bundesweit kontinuierlich die Bezahlterminals für kontaktlose girocard-Zahlungen umrüsten wird. Insbesondere die Discounter senden deutliche Signale, dass sie frühzeitig ihre bereits bestehende Kontaktlos-Infrastruktur auch für die Akzeptanz von girocard kontaktlos öffnen möchten. Auch andere große Filialisten haben starkes Interesse an einem schnellen Aufbau eines kontaktlosen Akzeptanznetzes gezeigt.
+
+Ist die girocard kontaktlos sicher?
+
+Die Zahlfunktion girocard kontaktlos nutzt die gleichen hohen technischen Standards wie bei der bisherigen girocard. Hierdurch ist ein durchgehend hohes Sicherheitsniveau gewährleistet.
+
+Der erforderliche geringe Abstand von wenigen Zentimetern zwischen Karte und Terminal verhindert, dass eine Zahlung unbeabsichtigt ausgelöst wird. Darüber hinaus muss jeder Bezahlvorgang einzeln am Terminal beziehungsweise der Kasse ausgelöst werden und es können ausschließlich durch die deutsche Kreditwirtschaft zugelassene und geprüfte Terminals zum Einsatz kommen. Falls das System in seiner Umgebung mehrere Karten gleichzeitig erkennt, wird die Transaktion automatisch abgebrochen. Durch bloßes Vorbeigehen an einem Lesegerät lässt sich kein Geld von der girocard abbuchen.
+
+Als weitere Schutzmaßnahme ist der Höchstbetrag zum mehrmaligen, kontaktlosen Bezahlen ohne PIN auf insgesamt 100 Euro begrenzt. Dieses Limit erneuert sich bei jedem Karteneinsatz mit PIN, wenn die Karte in ein Bezahlterminal oder einen Geldautomaten gesteckt wird.
+
+Was kostet das kontaktlose Bezahlen?
+
+Kontaktlos Bezahlen kostet Sie nichts extra. Es fallen bankseitig keine zusätzlichen Gebühren und Entgelte für Bezahltransaktionen an.
+
+Wo erhalte ich einen Überblick über meine kontaktlosen Transaktionen?
+
+Die Abrechnung der kontaktlosen Transaktionen erfolgt wie gewohnt über Ihr Girokonto. Jede kontaktlose Bezahltransaktion mit der neuen girocard wird direkt auf dem Konto verbucht. Das heißt, auch Kleinbetragszahlungen werden einzeln auf dem Kontoauszug beziehungsweise im Online-Banking angezeigt.
+
+Werden durch die Volksbanken Ruhr Mitte auch kontaktlose Kreditkarten ausgegeben?
+
+Parallel zur Ausgabe der girocard kontaktlos werden schrittweise auch die Kreditkarten der Volksbank Ruhr Mitte als Kontaktlos-Karten ausgegeben. Die Ausgabe startete bereits ab September 2016 mit der Mastercard® GoldCard. Dabei werden auch hier die Karten immer erst nach Ablauf ihrer jeweiligen Gültigkeit ausgetauscht. Das heißt, z.B. zu Karten mit einer Gültigkeit bis 5/2017 wird auch erst im April 2017 eine Folgekarte an Sie versendet.
+
+Kann jemand unbefugt Geld von der kontaktlosen girocard abbuchen?
+
+Nein, „aus Versehen“, etwa „im Vorbeigehen“ an einem kontaktlosen Lesegerät, lässt sich kein Geld von der Karte abbuchen. Die Daten werden nur bei sehr geringem Abstand zwischen Karte und Terminal übertragen. Eine Bezahltransaktion lässt sich außerdem nur mit zugelassenen Händlerterminals auslösen. Hierbei ist immer eine klare und nachvollziehbare Zuordnung zu einem der Bank bekannten Händlerkonto gegeben.
+
+In absoluten Ausnahmefällen kann es möglich sein, dass von Dritten auf bestimmte Kartendaten zugegriffen wird, die über die kontaktlose Schnittstelle frei ausgelesen werden können – ohne das Wissen und die Zustimmung des Karteninhabers. Hierbei handelt es sich vergleichbar um Daten die auch auf dem Magnetstreifen frei auslesbar sind, z.B. Kontonummer, Kurzbankleitzahl und Gültigkeit.
+
+Der Name des Karteninhabers und weitere personenbezogene Informationen wie Geburtsdatum oder Adresse sind jedoch nicht im Chip gespeichert und können nicht aus den frei auslesbaren Daten abgeleitet werden.
+
+Was ist bei einem Verlust der Karte zu beachten?
+
+Bei Verlust der girocard kontaktlos muss diese wie bisher umgehend bei der kartenausgebenden Bank gesperrt werden. Hierzu können Sie sich an ihren Bankberater wenden. Alternativ kann die Sperrung über die zentrale Sperrnummer 116 116 unter Angabe der IBAN erfolgen [international +49 116 116]. Darüber hinaus sollte ein Diebstahl der girocard kontaktlos immer zusätzlich der Polizei gemeldet werden. Grundsätzlich gilt: Bewahren Sie Ihre Karte sorgfältig auf und überlassen Sie niemals Dritten Ihre Karte. Auch die Geheimzahl (PIN) darf nirgends notiert werden.
+
+Ist die Entwicklung und Ausgabe der girocard kontaktlos mit den Datenschützern abgestimmt?
+
+Ja. Die Genossenschaftliche FinanzGruppe hat bei der Entwicklung der kontaktlosen girocard frühzeitig die Landesdatenschutzbeauftragten eingebunden. Die Anforderungen des Datenschutzes wurden bei der Entwicklung der girocard berücksichtigt, so dass sie den Anforderungen der Datenschützer genügt.
+
+Grundsätzlich wird das Prinzip der Datensparsamkeit angewendet. Das heißt, es werden nur die Daten übertragen, die für eine girocard-Transaktion notwendig sind. Nur wenige ausgewählte Daten sind darüber hinaus frei aus der girocard auslesbar. Diese sind vergleichbar mit den Daten, die auch auf dem Magnetstreifen frei auslesbar sind, z.B. Kontonummer, Kurzbankleitzahl, Gültigkeit. Auf dem Chip sind jedoch keine wichtigen persönlichen Daten wie Name und Adresse gespeichert. Selbst die IBAN ist nicht in der girocard gespeichert.
+
+Kann etwas gegen ein unbefugtes Auslesen der Daten getan werden?
+
+Ja, auch wenn die auslesbaren Daten kein echtes Datenschutz- oder Sicherheitsrisiko darstellen, kann ein ungewolltes Auslesen der Karte verhindert werden. Dies kann zum Beispiel über eine Kartenhülle oder spezielle Portemonnaies erfolgen. Es reicht jedoch teilweise auch schon, Kleingeld im Portemonnaie zu haben – durch mehrere Münzen hindurch kann die Karte nicht ausgelesen werden.

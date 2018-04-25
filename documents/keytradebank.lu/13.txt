@@ -1,0 +1,87 @@
+
+Was ist ein : lombardkredit / margin account?
+Ein lombardkredit / margin account (Einschusskonto) ermöglicht Ihnen, von einer Kreditlinie in Höhe des maximalen aktuellen Wertes Ihres Portfolios zu profitieren.
+Diese Kreditlinie wird Ihnen von der Keytrade Bank Luxembourg zur Verfügung gestellt und ermöglicht Ihnen insbesondere die Tätigung von Kaufgeschäften an der Börse.
+
+
+An wen richtet sich dieses Produkt?
+Dieses Finanzprodukt ist aufgrund seiner Art erfahrenen Anlegern vorbehalten. Ein lombardkredit / margin account kann zwar Ihre Investitionen an der Börse maximieren, indem es Ihnen ermöglicht, mehr Geld zu investieren, als sie tatsächlich auf Ihrem Konto bei der Keytrade Bank Luxembourg besitzen, jedoch muss darauf hingewiesen werden, dass Sie durch den Kurssturz eines Wertpapiers bei höheren Investitionen auch höhere Verluste erleiden können.
+Deshalb wird empfohlen, mit größter Vorsicht zu handeln.
+
+
+Wie hoch ist der Maximalbetrag, den ich erhalten kann?
+Der Mindestbetrag, den Sie beantragen können, beläuft sich auf 10.000. Der Maximalbetrag liegt bei 1.000.000. Dieser Kredit wird für eine Laufzeit von 1 Jahr gewährt. Allerdings hängt es insbesondere von der Bewertung Ihres Portfolios ab, welcher Betrag Ihnen gewährt wird.
+Der Maximalbetrag, den Sie erhalten können, entspricht dem Wert Ihres Börsenportfolios, der sich zum Zeitpunkt der Überprüfung Ihres Antrags durch unsere Mitarbeiter aus der Mark-to-Market-Analyse ergibt.
+Der Kredit hat eine Laufzeit von 1 Jahr, die sich stillschweigend verlängert.
+
+
+Muss ich Sicherheiten bereitstellen, um Geld aufnehmen zu können?
+Als Sicherheit für das Darlehen, das wir Ihnen gewähren, dient Ihr Börsenportfolio.
+Die Bank behält sich jedoch das Recht vor, von ihren Kunden zusätzliche dingliche oder persönliche Sicherheiten zu verlangen, die der Bank bereitgestellt werden müssen. Bestimmte Finanzinstrumente werden nicht als Sicherheit mit ausreichender Verlässlichkeit betrachtet, weil sie zu starken Schwankungen ausgesetzt sind oder nicht liquid genug sind: Optionen, Warrants, an nicht regulierten Märkten notierte Wertpapiere (OTC-BB, Pink Sheets) werden bei der Berechnung der Kreditgewährung nicht berücksichtigt und nicht in die Berechnung der Sicherheiten einbezogen.
+
+
+
+Gibt es einen Mindestbestand an Sicherheiten, der bei einem lombardkredit / margin account aufrechterhalten werden muss?
+Ja, wir verlangen, dass der Wert der Sicherheit zu jedem Zeitpunkt mindestens 150 % des Darlehensbetrags ausmacht. Diese Marge wird von Fall zu Fall geprüft.
+Beispiel: Wenn Sie 100.000 aufnehmen, muss der Gesamtwert Ihres Portfolios immer bei mindestens 150.000 liegen (Barmittel und Wertpapiere zusammen genommen).
+Wenn die Bewertung Ihres Portfolios unter diesen verlangten Mindestwert sinkt, übermitteln wir Ihnen eine Aufforderung zur Nachdeckung.
+
+
+Was ist eine Aufforderung zur Nachdeckung?
+Eine Aufforderung zur Nachdeckung ist eine Aufforderung der Bank, die Sie veranlasst, zusätzliche Geldmittel oder Wertpapiere einzubringen, um den vorgeschriebenen Mindestbetrag der Sicherheit (mindestens 150 % des Darlehensbetrags) einzuhalten.
+
+
+Wann kann eine Aufforderung zur Nachdeckung erfolgen?
+Die Aufforderung zur Nachdeckung kann erfolgen, wenn die Bewertung Ihres Portfolios unter den Mindestwert der gewährten Marge des Darlehensbetrags sinkt.
+
+
+Was passiert, wenn ich nicht auf die Aufforderung zur Nachdeckung reagiere?
+Die Keytrade Bank Luxembourg setzt eine Frist zur Einreichung zusätzlicher Sicherheiten. Wenn diese Frist nicht eingehalten wird, gehen wir davon aus, dass Sie den Kreditvertrag nicht erfüllt haben. Daraufhin nehmen wir eine Konsolidierung Ihrer Konten vor, indem wir die Beträge, die zur Aufwertung Ihres Portfolios bis zu der Marge, die in Ihrem Vertrag festgelegt wurde, erforderlich sind, von Ihren anderen Konten bei der Keytrade Bank Luxembourg (Sichtkonto, Sparkonto) abschöpfen.
+Wenn wir nicht die Möglichkeit haben, in dieser Weise vorzugehen (Nichtvorhandensein anderer Konten, unzureichender Gesamtsaldo der anderen Konten) oder wenn wir den Kunden weder telefonisch noch per E-Mail erreichen können, verkaufen wir die Gesamtheit oder einen Teil Ihres Portfolios, bis wir den Prozentsatz der im Vertrag festgelegten Marge erreichen.
+
+
+Welche Gebühren entstehen und wann sind sie fällig?
+Bei der Vereinbarung des Margin Account durch die Vertragspartner entstehen keine Gebühren.
+Der nominale Sollzinssatz für auf EUR lautende Kredite entspricht dem Hauptrefinanzierungssatz der Europäischen Zentralbank zuzüglich 3 %. Der Zinssatz für die Verwendung des Kredits in einer Währung, die nicht mit der Kreditwährung identisch ist, liegt bei 4 %. Die Zinsen sind vierteljährlich entsprechend dem verwendeten Kreditbetrag zahlbar.
+Bitte beachten Sie, dass Ihr Margin Account auf Euro lautet. Alle Schuldnerpositionen, die nicht auf Euro lauten, bewirken unzulässige Sollzinsen.
+Darüber hinaus werden Verwaltungsgebühren von 0,125 % pro Quartal berechnet. Diese Verwaltungsgebühren werden auf der Grundlage des Gesamtbetrags der gewährten Kreditlinie berechnet.
+
+
+Kann ich Margin Cash auf ein Bankkonto übertragen?
+Ja, solange Sie die erforderlichen Sicherheiten aufrechterhalten.
+
+
+Können Sie mir ein Beispiel für eine Aufforderung zur Nachdeckung geben?
+Greifen wir das vorherige Beispiel auf, in dem die Marge bei 150 % des Darlehensbetrags liegt: Ihr Portfolio hat einen Wert von 100.000 (50.000 an Eigenmitteln und 50.000 in Form des Kredits). Sie müssen sicherstellen, dass der Wert Ihres Portfolios nicht unter 75.000 sinkt.
+Wenn der Wert Ihres Portfolios sinken würde, sagen wir auf 70.000, würden wir Ihnen eine Aufforderung zur Nachdeckung übermitteln, in der wir von Ihnen verlangen, zusätzliche Sicherheiten (Barmittel oder Wertpapiere) in Höhe von zusätzlichen 5.000 einzubringen.
+Wenn Sie dieser Aufforderung nicht nachkommen, entnehmen wir die Beträge, die zur Aktualisierung der Sicherheit erforderlich sind, anderen Konten, die bei der Bank bestehen.
+
+Nehmen wir jetzt einmal an, der Wert Ihres Portfolios liegt z. B. bei 60.000 (mit folgender Aufteilung: 20.000 an Barmitteln und 40.000 an Wertpapieren). Wenn Sie nun auf die Aufforderung zur Nachdeckung nicht reagiert haben, passiert Folgendes: Die Keytrade Bank Luxembourg verkauft Wertpapiere aus Ihrem Portfolio für 30.000 und sperrt 50.000. (Die Verkaufsgebühren gehen zu Ihren Lasten.)
+Anschließend setzt sich Ihr Portfolio folgendermaßen zusammen: 50.000 sind als Sicherheit für die Keytrade Bank Luxembourg gesperrt, und Wertpapiere in Höhe von 10.000 gehören Ihnen.
+
+Die 50.000 bleiben gesperrt, entweder bis zur Fälligkeit des Vertrags oder bis Sie die zusätzlichen Sicherheiten eingebracht haben.
+
+
+Wie erhalte ich einen lombardkredit / margin account?
+Füllen Sie den Kreditantrag , unterzeichnen Sie ihn und senden Sie ihn auf dem Postweg an folgende Adresse:
+
+Keytrade Bank Luxembourg
+62 rue Charles Martel
+L-2134 Luxemburg
+
+Wir übersenden Ihnen auf dem Postweg oder per E-Mail ein Kreditangebot. Wenn Sie mit dem Angebot einverstanden sind, senden Sie es an uns zurück. Sobald wir im Besitz des zurückgesandten Angebots sind, wird die Kreditlinie eröffnet, und ab diesem Zeitpunkt können Sie die Ihnen zur Verfügung gestellte Kreditlinie nutzen.
+
+Da das Gesetz immer noch eine handschriftliche Unterzeichnung verlangt, können der Antrag und die Annahme des Angebots noch nicht online erfolgen.
+
+
+Ich entnehme den Allgemeinen Bedingungen, dass ich Ihnen eine Vollmacht für mein Wertpapierdepot erteilen muss. Weshalb ist dies erforderlich?
+Falls der Wert Ihres Portfolios unter die Marge sinkt, die im Vertrag festgelegt ist, und der Kunde weder telefonisch noch per E-Mail erreicht werden kann oder nicht auf die Aufforderung zur Nachdeckung reagiert, behält sich die Keytrade Bank Luxembourg das Recht vor, ohne weitere vorherige Mahnung unverzüglich die Gesamtheit oder einen Teil der Finanzinstrumente zu verkaufen, um die im Vertrag verlangte Marge zu erreichen.
+
+
+Falls die Bank meine Wertpapiere verkaufen sollte, welche werden veräußert?
+Die Bank kann in diesem Fall nach eigenem Ermessen entscheiden, verkauft aber grundsätzlich die Aktiva mit der höchsten Volatilität oder mit dem größten Spekulationspotential.
+
+
+Gibt es andere Bedingungen, um ein lombardkredit / margin account erhalten zu können?
+Dieses Produkt richtet sich an natürliche (volljährige) Personen und an juristische Personen.
+

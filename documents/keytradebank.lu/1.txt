@@ -1,0 +1,95 @@
+
+Was ist das Terminkonto von Keytrade Bank Luxembourg?
+Das Terminkonto ist ein Konto, auf dem eine Geldsumme während eines festgelegten Zeitraums zwischen einer Woche und einem Jahr in Erwartung einer zukünftigen Investition gesperrt werden kann.
+
+
+Wie teuer ist ein Terminkonto?
+Die Eröffnung eines Terminkontos ist für Sie gebührenfrei. Sie können völlig kostenlos über dieses Konto verfügen.
+
+
+Welche Laufzeit hat ein Terminkonto?
+Die Laufzeit des Terminkontos ist festgesetzt auf einen Zeitraum zwischen einschließlich einer Woche und einem Jahr, wobei die Möglichkeit besteht, den festgesetzten Zeitraum vorzeitig zu beenden oder bei Ende die Laufzeit zu verlängern.
+
+
+Ist zur Aktivierung des Terminkontos ein Mindestbetrag erforderlich?
+Zur Aktivierung des Terminkontos ist tatsächlich eine Mindesteinlage erforderlich.
+Diese beläuft sich auf 1.000 EUR.
+
+
+Wie hoch ist der gültige Zinssatz?
+Die Zinssätze werden dem geltenden Marktzinssatz angepasst. Je höher der hinterlegte Betrag, desto höher der Zinssatz. Klicken Sie hier, um die aktuellen Zinssätze einzusehen.
+
+
+Wer kann ein Terminkonto eröffnen?
+Nach Genehmigung des Eröffnungsantrags kann bei Keytrade Bank Luxembourg jeder ein Konto eröffnen.
+
+
+Wie kann dieses Terminkonto gewinnbringend genutzt werden?
+
+    Wenn Sie noch nicht Kunde bei Keytrade Bank Luxembourg sind, können Sie hier Ihr Konto eröffnen und selbst die Anlageparameter für Ihr Terminkonto festlegen. Wählen Sie Summe und Laufzeit und profitieren Sie von dieser risikofreien Anlage.
+    Wenn Sie bereits Kunde bei Keytrade Bank Luxembourg sind, rufen Sie bitte unsere gesicherte Webseite auf und klicken Sie auf Startseite > Bank > Terminkonto.
+
+
+Kann ich die festgelegte Laufzeit vorzeitig beenden?
+Sie haben jederzeit das Recht, die festgesetzte Laufzeit zu beenden. Nähere Informationen zu den bezüglich des Terminkontos geltenden Kündigungsbedingungen erhalten Sie hier.
+
+
+Was passiert am Ende der Laufzeit?
+Bei Laufzeitende werden die Einlagesumme und die erzielten Zinsen automatisch auf Ihr angebundenes Konto überwiesen. Sie entscheiden selbst, ob Sie Ihr Terminkonto verlängern möchten oder nicht.
+
+ Wie kann ich Geld auf mein Keytrade Bank Luxembourg-Konto einzahlen?
+Zur Einzahlung auf Ihr Keytrade Bank Luxembourg-Konto möchten wir Sie bitten, je nach Währung de überwiesenen Mittel eines der folgenden Konten zu wählen.
+
+    EUR Konto
+
+    Banque de Luxembourg (SWIFT-Code: BLUXLULLXXX)
+    Für das Konto Nr. LU82 0081 3337 6300 1003 von Keytrade Bank Luxembourg S.A.
+    Zweck: Ihre Kontonummer + Name
+
+    USD Konto
+
+    Deutsche Bank Trust Company Americas, New York (Swift: BKTRUS33XXX)
+    Für das Konto Nr. 04401506 (ABA Nr. 021001033) von Banque de Luxembourg S.A.
+    Zugunsten der Kontonummer LU50 0081 3337 6300 2840 von Keytrade Bank Luxembourg S.A.
+    Zweck: Ihre Kontonummer + Name
+
+    GBP Konto
+
+    Natwest, London/Royal Bank of Scotland (Swift : NWBKGB2LXXX)
+    Für das Konto GB84 NWBK 6000 0410 0102 89 von Banque de Luxembourg
+    Zugunsten der Kontonummer LU35 0081 3337 6300 5826 von Keytrade Bank Luxembourg
+    Zweck: Ihre Kontonummer + Name
+
+
+Wie kann ich Geld von meinen Keytrade Bank Luxembourg-Konto abheben oder überweisen?
+Online können Sie Geld nur auf Ihr eigenes Bankkonto überweisen. Die IBAN muss der Nummer entsprechen, die Sie der Bank bei Eröffnung des Kontos mitgeteilt haben. Wenn Sie die Nummer des Referenzkontos ändern möchten (nur möglich bei Online-Überweisungen), müssen Sie dies erst per Post oder per Fax beantragen.
+
+US-Dollar können online nicht übertragen werden. Bitte kontaktieren Sie uns in einem solchen Fall.
+
+    In der Geschäftsstelle (bitte nehmen Sie sich 3-4 Tage vorher einen Termin).
+    Per Fax (nur für Ihr eigenes Bankkonto) oder per unterzeichneten Brief (mitsamt Anweisungen und Mitteilungen der Übertragung).
+
+
+Wie übertrage ich Aktien auf mein Konto bei Keytrade Bank Luxembourg?
+Bitten Sie Ihre Bank, uns folgende Informationen per Fax (+352 45 04 49) zukommen zu lassen, wenn Sie Ihre Wertpapiere von Ihrem Finanz institut auf ein Konto von Keytrade Bank Luxembourg übertragen möchten.
+
+    Eine Liste mit den Wertpapiere, die Sie übertragen möchten, und die Börsen, an denen sie notiert sind.
+    Name und Kontonummer der Korrespondenzbank der Bank.
+    Ihren Namen und Ihre Kontonummer bei Keytrade Luxembourg.
+
+Schicken Sie uns die Liste der Aktien in der Zwischenzeit per Mail an info@keytradebank.lu.
+
+    Eine Übertragung von Wertpapieren wird in der Regel am Hauptsitz einer Bank vorgenommen.
+    Für den Empfang von Wertpapieren berechnet Keytrade keine Gebühren.
+
+
+Was ist die IBAN?
+Die IBAN (International Banking Account Number) ist eine standardisierte Kontonummer für Überweisungen innerhalb Europas. Gemäß der Struktur IBAN-LUX kann nur die Bank, die ein Konto hält, ein entsprechendes IBAN-LUX-Format erstellen. Sie muss Ihnen diese neue Nummer Mitteilen.
+
+Die IBAN ist in allen Ländern gleich lang:
+
+    Sie setzt sich aus dem ISO-Ländercode Herkunftslandes (2 Buchstaben), einem Bankencode (2 Ziffern) und der nationalen Kontonummer zusammen.<
+    Bitte beachten Sie, dass die Leerstellen im elektronischen Format wegfallen.
+    Die IBAN-Struktur ist von Land zu Land verschieden, innerhalb eines Landes aber gleich.
+
+

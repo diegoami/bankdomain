@@ -1,0 +1,39 @@
+Was ist das 3D Secure Verfahren (Verified by Visa/MasterCard® SecureCodeTM)?
+
+Bei 3D Secure handelt es sich um ein Sicherheitsverfahren für Kreditkartenzahlungen im Internet. Bei Visa heißt diese Lösung „Verified by Visa“, bei MasterCard® „MasterCard®SecureCodeTM“. 3D Secure wird aktuell grundsätzlich mit dem höchsten Sicherheitsstandard, der apoSecure App und dem SMS-TAN Verfahren mit Sicherheitsfrage angeboten. Sofern Sie im Internet bei einem Händler, der ebenfalls 3D Secure nutzt, einkaufen, erhalten Sie pro Transaktion bzw. Umsatzanfrage eine 6-stellige TAN (Transaktionsnummer) per Push-Nachricht in die App oder per SMS auf Ihr Handy.
+
+Welche Vorteile / Sicherheit bietet mir als Karteninhaber dieser Service?
+
+3D Secure bietet Ihnen Sicherheit für Ihre Kreditkartenzahlung im Internet – und das kostenlos. Durch verschlüsselte Datenübertragung mittels SSL (Secure Socket Layer) werden alle Daten (Persönliche Daten, Kreditkartendaten, Bestellinformationen) vor unbefugtem Zugriff geschützt. Alle Beteiligten (Karteninhaber, Händler etc.) werden als rechtmäßige Teilnehmer im Rahmen des Bezahlvorgangs identifiziert. Hohe Mobilität: Sie können von jedem PC oder anderen Internet-Zugängen aus online einkaufen und sicher mit Ihrer Kreditkarte zahlen. Keine Software-Installation: Für das 3D Secure Verfahren benötigen Sie keine Software-Installation auf Ihrem PC. Zur Nutzung der apoSecure App ist lediglich die App auf Ihrem Smartphone herunterzuladen. Anmeldung und Nutzung sind für Sie ganz einfach.
+
+Kann ich das 3D Secure Verfahren von jedem Computer aus nutzen?
+
+Da keine spezielle Software installiert werden muss, können Sie mit jedem Computer, der die Systemanforderungen erfüllt, online einkaufen. Achten Sie bei allgemein zugänglichen Rechnern wie in Internetcafés oder Hotels darauf, dass Ihre vertraulichen Daten wie z. B. Ihre Kreditkartennummer nicht von Dritten eingesehen werden können.
+
+Was passiert, wenn ich das 3D Secure Verfahren nicht nutzen möchte bzw. ich mich nicht für 3D registriere?
+
+Die Nutzung des 3D Secure Verfahrens ist bei Kreditkartenzahlungen immer dann zwingend erforderlich, wenn auch der Internethändler das Verfahren anbietet. Wollen Sie das 3D Secure Verfahren nicht nutzen, der Internethändler sieht jedoch dieses Verfahren vor, so können Sie mit Ihrer Kreditkarte keine Kaufvorgänge bei diesem Internethändler durchführen. Bei Internethändlern ohne 3D Secure und allen sonstigen Händlern ist Ihre Kreditkarte selbstverständlich jederzeit uneingeschränkt nutzbar. Grundsätzlich empfehlen wir Ihnen jedoch aus Sicherheitsgründen dringend die Nutzung des 3D Secure Verfahrens.
+
+Bieten sowohl das SMS-TAN Verfahren als auch die apoSecure App die starke Authentifizierung?
+
+Beide Verfahren sind sicher und bieten die seitens der Mindest-anforderungen an die Sicherheit von Internetzahlungen (MaSI) geforderte starke Authentifizierung. Die generierte E-Commerce TAN ist dynamisch und an die freizugebende Transaktion gebunden.
+
+Die App verbindet die Faktoren Besitz (des Geräts) mit dem Faktor Wissen (des Kennworts) bzw. Inhärenz (Fingerabdruck, bei unterstützten Geräten). Das SMS-TAN Verfahren verbindet Besitz (des Geräts) und Wissen (Wissensfrage).
+
+Was bedeutet es, wenn beim Online-Einkauf kein Fenster mit der Eingabeaufforderung für das 3D Secure Verfahren angezeigt wird?
+
+Sie sollten sich vergewissern, dass
+
+    Ihre Kreditkarte registriert ist.
+    der Händler am Programm teilnimmt (Online-Händler beschreiben dies meist unter den akzeptierten Zahlungsarten).
+    jegliche Software deaktiviert ist, die die Anzeige von Eingabefenstern verhindert.
+
+Wenn Sie auch keine E-Commerce-TAN erhalten haben, unterstützt der Händler die Verfahren vermutlich nicht. In diesem Fall wird der Umsatz ohne die zusätzliche Sicherheit von 3D Secure abgewickelt.
+
+Warum kann ich das statische Passwort nicht mehr nutzen?
+
+Bereits seit 2012 wird mit der Zustellung einer dynamischen E-Commerce-TAN per SMS ein bequemes Sicherheitsverfahren angeboten. Die Mindestanforderungen an die Sicherheit von Internetzahlungen (MaSI) erlauben die Authentifizierung einer Zahlung nur noch in Verbindung mit einem weiteren Element. Daher musste das Passwort Verfahren eingestellt werden.
+
+Kann ich auch bei Händlern einkaufen, die nicht an MasterCard® SecureCodeTM / Verified by Visa teilnehmen?
+
+Ja, der Kauf kann wie gewohnt durchgeführt werden. Es wird dann keine MasterCard® SecureCodeTM / Verified by Visa Prüfung durchgeführt.

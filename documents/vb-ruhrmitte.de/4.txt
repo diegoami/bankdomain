@@ -1,0 +1,47 @@
+Wie funktioniert Verified by Visa / Mastercard® SecureCode™?
+
+Mit Verified by Visa / Mastercard® SecureCode™ genießen Sie beim Online-Einkauf besonderen Schutz. Dieser ergibt sich durch ein dynamisches Passwort, das Sie während Ihres Einkaufs per SMS über Ihr Mobiltelefon erhalten. Prüfen Sie die Angaben zu Händler und Umsatzbetrag am Bildschirm und in der SMS-Nachricht auf Ihrem Handy sorgfältig. Wenn alle Angaben korrekt sind, geben Sie Ihre E-Commerce-TAN zur Bestätigung Ihrer Zahlung im Shop ein.
+
+Sie können sich auf unserer Homepage für Verified by Visa / Mastercard® SecureCode™ registrieren. Anschließend erhalten Sie einen Aktivierungscode per Post zur endgültigen Freischaltung.
+
+Welche Vorteile habe ich von Verified by Visa / Mastercard® SecureCode™?
+
+Sichere Internet-Zahlungen! Dieser für Sie kostenlose Service sichert Ihre Kreditkartenzahlungen im Internet vor unbefugtem Zugriff zusätzlich ab. Alle Daten (persönliche Daten, Bestellinformationen, Kreditkartendaten, E-Commerce TAN) werden mittels SSL (Secure Socket Layer) verschlüsselt übertragen. Alle Beteiligten (Händler, Karteninhaber, etc.) werden als rechtmäßige Teilnehmer am jeweiligen Bezahlvorgang identifiziert. Verified by Visa / Mastercard® SecureCode™-Zahlungen können nur bei zuvor registrierten Händlern vorgenommen werden. Diese Händler erkennen Sie an den Symbolen:
+
+Mastercard 3D.JPG Visa Verified.JPG
+
+Hohe Flexibilität!
+Sie können von jedem PC rund um die Uhr und weltweit im Internet einkaufen und sicher mit Ihrer Kreditkarte bezahlen. Sie müssen sich kein zusätzliches Passwort merken, denn die für die Transaktionsfreigabe erforderliche E-Commerce TAN wird für jede Transaktion auf Ihr Mobiltelefon übertragen.
+
+Keine Software-Installation!
+Für Verified by Visa / Mastercard® SecureCode™ benötigen Sie keine Software-Installation auf Ihrem PC. Die Anmeldung und Nutzung ist für Sie ganz unkompliziert.
+
+Benötige ich zur Nutzung von Verified by Visa / Mastercard® SecureCode™ eine neue Kreditkarte?
+
+Nein, Sie können Ihre vorhandene Kreditkarte nutzen und für diesen Service anmelden.
+
+Anmeldung Mastercard® SecureCode™
+
+Anmeldung Verified by Visa
+
+Kann ich sofort nach der Registrierung einkaufen?
+
+Bei der Registrierung während des Einkaufsvorgangs: Die Registrierung wird im Kartenmanagementsystem Ihrer Bank sofort vorgenommen. Nach der Registrierung kann Verified by Visa / Mastercard® SecureCode™ zum Abschluss dieser Transaktion genutzt werden. Vor der Durchführung weiterer Transaktionen ist die Eingabe des per Post übermittelten Aktivierungscodes erforderlich.
+
+Die Registrierung über die Bankhomepage nehmen Sie am besten gleich nach Erhalt der Karte vor, da zunächst der Erhalt des Briefs mit dem Aktivierungscode abgewartet werden muss, bevor Sie die Karte bei 3D-Secure-fähigen Händlern einsetzen können.
+
+    Weitere Informationen
+
+Entstehen mir für die Übermittlung der SMS Kosten?
+
+Seitens der Bank wird der Versand der SMS mit der E-Commerce TAN nicht bepreist.
+
+Der Empfang von Kurzmitteilungen ist in der Regel im Heimatnetz wie auch beim Auslandsroaming kostenfrei. Tarifmodelle, in denen der Empfang bepreist wird, sind uns nicht bekannt. Bitte klären Sie ggf. mit Ihrem Mobilfunkanbieter, ob dieser Ihnen den Empfang von SMS Nachrichten in Ihrem Tarif in Rechnung stellt.
+
+Wie benutze ich Verified by Visa bzw. Mastercard® SecureCode™?
+
+Wenn Sie einen Einkauf bei einem teilnehmenden Händler tätigen, wird ein Fenster angezeigt, in dem Sie zur Eingabe Ihrer Verified by Visa / Mastercard® SecureCode™ E-Commerce TAN aufgefordert werden. Nachdem Sie die Details Ihrer Bestellung geprüft haben und der persönliche Begrüßungstext korrekt ist, vergleichen Sie bitte, ob die in der SMS angezeigten Transaktionsdaten der von Ihnen gewünschten Zahlung entsprechen. Wenn alle Daten stimmen, geben Sie die E-Commerce TAN aus der SMS-Nachricht im angezeigten Fenster ein, um die Transaktion freizugeben.
+
+Kann ich bei Händlern einkaufen, die nicht an Verified by Visa / Mastercard® SecureCode™ teilnehmen?
+
+Ja, der Kaufvorgang kann wie gewohnt durchgeführt werden. Es wird keine Verified by Visa / Mastercard® SecureCode™ Überprüfung durchgeführt.

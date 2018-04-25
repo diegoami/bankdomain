@@ -1,0 +1,44 @@
+ Was ist KEYPRIVATE?
+
+KEYPRIVATE ist ein neuer Service, der es Ihnen ermöglicht, der Keytrade Bank die Verwaltung Ihres Portfolios zu übertragen. Konkret nimmt Ihnen dabei die Keytrade Bank die Verwaltung Ihrer Anlagen vollständig aus der Hand. Die Keytrade Bank kauft, verkauft und optimiert an Ihrer Stelle das Portfolio.
+
+Die Portfolioverwaltung stützt sich auf die Modern Portfolio Theory (moderne Portfolio-Theorie) und maximiert die potenzielle Rendite in Übereinstimmung mit Ihrem Risikoprofil mittels einer Untergliederung in 13 unterschiedliche Vermögensklassen.
+
+Die Verwaltung liegt in den Händen von Experten, aus denen sich der Anlageausschuss zusammensetzt, und die dabei die Analysen von BlackRock, Amundi und ETF Securities in ihre Bewertungen einbeziehen. Keytrade Bank wird außerdem von einem renommierten akademischen Ausschuss betreut und beraten.
+
+ Was kostet KEYPRIVATE?
+
+
+Für KEYPRIVATE wird ein Komplettpreis von 0,75 % pro Jahr (exklusive Umsatzsteuer) berechnet. Sie zahlen demnach weder Depotgebühren noch Abgangskosten usw.
+
+Als Bankinstitut ist die Keytrade Bank gesetzlich verpflichtet, die Steuern gesondert zu verbuchen. Das bedeutet, dass Sie jede, von KEYPRIVATE in Ihrem Namen durchgeführte Kauf- oder Verkaufstransaktion, einzeln versteuern müssen.
+
+
+Wie kann ich Geld auf mein KEYPRIVATE-Konto transferieren?
+
+Das KEYPRIVATE-Portfolio wird über Ihr TradingKonto bei der Keytrade Bank finanziert.
+Die erste Einzahlung und (eventuelle) regelmäBige Überweisungen sind auf das Konto vorzunehmen.
+
+Auf Ihrem KEYPRIVATE-Dashboard finden Sie eine Opzion, mit der Sie zusätzliche Gelder direkt auf dieses Konto überweisen können.
+
+
+Wie hoch ist der Mindestanlagebetrag?
+Um unser Portfolio so erschwinglich wie möglich zu halten, liegt der Mindestanlagebetrag bei 15 000 EUR. Wir haben uns dafür entschieden, diesen Grundbetrag nicht zu unterschreiten, um sicherzustellen, dass wir über ausreichende Vermögensanteile je Tracker verfügen und demnach die anzulegenden Liquiditäten effektiv organisieren können.
+
+ Wie kann ich den Service beenden und wie hoch sind die Abgangskosten?
+Zur Beendigung von KEYPRIVATE müssen Sie über das PDF-Dokument 'Kontenschließung' einen schriftlichen Antrag stellen.
+Dieses Dokument ist an die Keytrade Bank zu richten. Der Service ist derzeit noch nicht vollständig verfügbar.
+
+Für KEYPRIVATE fallen keine Abgangskosten an. Wenn Sie den Service beenden möchten, leiten wir das Abschlussverfahren unverzüglich ein. Das bedeutet, dass sämtliche Vermögenswerte Ihres KEYPRIVATE-Kontos veräußert werden. Während dieses Zeitraums haben Sie keinen Zugriff auf das Konto: Sie können dann die Portfolio-Parameter, beispielsweise Laufzeit oder monatlicher Anlagebetrag, nicht mehr nutzen.
+
+Nachdem die Vermögenswerte veräußert worden sind, wird der monatliche Preis im Verhältnis berechnet. Nach Abzug der Kommission überweisen wir den verbleibenden Saldo des KEYPRIVATE-Kontos auf Ihr damit verbundenes Girokonto.
+
+Dieser gesamte Ablauf kann bis zu fünf Tage in Anspruch nehmen, da das Verfahren mit dem Zeitpunkt des Verkaufs der Tracker und der benötigten Zeit zusammenhängt, um die Transaktionen und die Verarbeitung der verbleibenden Akten abzuschließen.
+
+ In welchem Rhythmus wird mein Portfolio umgeschichtet?
+
+Durch Umschichtung wird das Risiko im zeitlichen Verlauf verringert und es können sich auf einem volatilen Markt sogar Ihre Renditen verbessern. KEYPRIVATE analysiert Ihr Portfolio mindestens einmal monatlich. Wir vergleichen das Risiko und die voraussichtlichen Renditen Ihres Portfolios mit einem idealen Portfolio, das nach Ihrem Risikoprofil erstellt worden ist. Wenn eine Risikoschwelle oder eine spezielle Performance überschritten worden sind, nehmen wir eine Umschichtung vor. Wenn Sie weitere Beträge anlegen möchten, werden wir dieses Geld zum Kauf von Trackern verwenden, die zu dem Zeitpunkt im Verhältnis zu Ihrem idealen Portfolio unterrepräsentiert sind. Somit kostet es Sie weniger (oder sogar nichts, wenn ausreichende Einnahmen erzielt werden), um die Verkäufe zu reorganisieren.
+
+
+Warum ist eine Umschichtung meines Portfolios notwendig?
+Die Vermögensklassen, aus denen Ihr Portfolio zusammengesetzt ist, reagieren unterschiedlich am Markt, die Werte der Tracker steigen und fallen ständig. Es besteht daher die Möglichkeit, dass Ihr Portfolio vom für Ihr Risikoprofil geltenden idealen Portfolio abweicht und demnach umgeschichtet werden muss. Der Unterschied zwischen der idealen Dosierung und der realen Dosierung Ihres Portfolios wird Drift genannt (Abdrift).

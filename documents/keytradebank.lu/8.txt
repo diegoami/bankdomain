@@ -1,0 +1,114 @@
+
+Woher weiß ich, dass der Auftrag tatsächlich ausgeführt wurde?
+Die erste Bestätigung erscheint in Ihrem Portfolio. Neben Order in Bearbeitung steht der Buchstabe E". Dieser bezieht sich auf die Ausführung einer Order.
+Für weitere Informationen bezüglich dieser Oder klicken Sie bitte auf diesen Buchstaben.
+
+Zweite Möglichkeit: Sie erhalten an dem auf die Ausführung folgenden Geschäftstag eine Aufstellung, die als Bestätigung dient. Sie können diese Informationen auch in der Rubrik Verlauf unserer gesicherten Webseite einsehen.
+
+Darüber hinaus besteht die Möglichkeit, die Aufstellung auf elektronischem Wege (kostenlos) oder über den Postweg (gebührenpflichtig) zu erhalten.
+
+
+Fallen bei einer teilweisen Ausführung mehrfach Gebühren an?
+Wenn eine Order nur für einen Tag gültig ist und nur zum Teil ausgeführt wird, wird der verbleibende Teil de Order bei Börsenschluss gelöscht. Wenn Sie möchten, dass der restliche Teil auch ausgeführt wird, müssen Sie eine neue Order in Auftrag geben. In diesem Fall fallen allerdings erneut Transaktions gebühren an. Falls es sich bei der verbleibende Teil der Order um eine GTC-Order handelt, behält der verbleibende Teil der Order seine Gültigkeit auf dem Markt, bis er ausgeführt oder annulliert wird. In diesem Fall werden die Transaktionsgebühren nur einmal berechnet, auch wenn die Ausführung mehrere Tage dauert. Order können von Ihnen, von der Keytrade Bank Luxembourg oder der Börse storniert werden.
+
+Hinweis: Diese Regelung gilt für alle über Keytrade Luxembourg zugänglichen Börsen. Ausnahme ist die Deutsche Börse (Xetra), für die für jeden Tag Transaktionsgebühren anfallen, an dem eine teilweise Transaktion ausgeführt wird.
+
+
+Wie wird der BEP berechnet?
+Der Break-even-Preis (BEP) ist ein Fachbegriff aus der Finanzwelt. Es gibt mehrere Berechnungsmethoden.
+
+Der Break-even-Preis (BEP) einer Position Ihres Wertpapierkontos ist der Verkaufspreis, den Sie erhalten müssen, um Ihr Anfangskapital unter Berücksichtigung der von Ihnen in Verbindung mit dieser Position getätigten Transaktionen (Kauf/Verkauf) wiederherzustellen.
+
+Beispiel:
+Sie haben 1.000 Aktien zu 50 EUR gekauft. Zu diesem Zeitpunkt liegt Ihr BEP bei 50 EUR.
+Wenn Sie 500 Aktien zu 65 EUR verkaufen, beträgt der neue BEP 35 EUR.
+
+Berechnung:
+
+ Ankauf 1.000 * 50 = 50.000
+ Verkauf 500 * 65 = 32.500
+ Vom Gesamtwert des Kaufs wird der Verkaufswert abgezogen, und dieses Ergebnis wird durch die Anzahl der Aktien geteilt, die sich noch in Ihrem Portfolio befinden, geteilt.
+ 50.000  32.500 = 17.500
+ 17.500/500 = 35
+
+Limits: Nehmen wir an, Sie liquidieren an einem Tage eine Position und platzieren eine neue Position für dasselbe Wertpapier am selben Tag. In diesem Fall werden die beiden am selben Tag getätigten Transaktionen als eine Art Day-Trading angesehen und fließen daher nicht in die Berechnung des BEP ein. Für die Berechnung des BEP werden die Werte der vorher existierenden Position berücksichtigt.
+
+
+Wann werden die Transaktionskosten abgebucht?
+Wenn Sie Ihre Order platzieren, werden die Transaktionsgebühren automatisch blockiert. Bei der Ausführung werden sie während der Abwicklung der Order abgerechnet.
+
+
+Ist Day-Trading möglich?
+Bei Keytrade Bank Luxembourg ist Day-Trading für Sie ohne Weiteres möglich. Sobald Ihre Kauforder ausgeführt wurde, können Sie eine Verkaufsorder in Auftrag geben. Sie müssen nicht auf die Order-Aufstellung warten.
+
+
+Ist eine Annullierung gebührenpflichtig?
+Transaktionsgebühren werden nur bei ausgeführten Orders fällig.
+
+
+Wie wird die Gültigkeit der Order präzisiert?
+Sie können die Gültigkeit der Order bei deren Eingabe definieren: DAY (Ein Tag) oder GTC (bis zur Annullierung).
+
+
+ Welche Ordertypen kann ich platzieren?
+Limit Order (Order mit einem Limit), Market Order (zum Marktpreis), Stop Order, Stop Limit Order, Open Order (Order mit Eröffnungspreis, nur auf Euronext) und Iceberg Order (diese Orders müssen mit einer Limit Order verwendet werden).
+
+
+ Worin besteht der Unterschied zwischen einer Stop order und eine Stop Limit Order?
+Stop Order:
+
+Wenn Sie eine Stop Order erteilen, wird Ihre Order beim Erreichen des zuvor definierten Kurses zu eines Market Order. Den Stop-Kurs legen Sie zuvor selber fest.
+Der Vorteil dieses Ordertyps ist, dass Ihre Order mit Sicherheit ausgeführt wird, da sie zur Market Order wird.
+Der Nachteil besteht darin, dass Sie nicht mit Sicherheit davon ausgehen können, dass Ihre Order zu dem von Ihnen angegebenen Stop-Kurs ausgeführt wird.
+
+Beispiel: Sie erteilen eine Stop Order mit einem Stop-Kurs bei 95 für eine bei 100 notierende Aktie.
+Nach Börsenschluss gibt die Gesellschaft eine sehr schlechte Nachricht bekannt und die Aktie öffnet am Folgetag bei 80.
+Ihre Stop Order mit einem Stop-Kurs von 95 wird somit bei 80 ausgeführt.
+
+Stop Limit Order:
+
+Es besteht ebenfalls die Möglichkeit, eine Stop Limit Order zu erteilen. Für diesen Ordertyp müssen ein Stop-Kurs und ein Kurslimit angegeben werden.
+
+Beispiel: Sie kaufen eine Aktie zum Kurs von 100 EUR. Um sich vor einem Kursrückgang zu schützen, platzieren Sie eine Stop Order zum Verkauf bei 95 EUR mit einem Ausführungslimit bei 93 EUR.
+Fällt der Kurs auf 95 EUR, wird keine Marke Order sondern eine Limit Order bei 93 platziert.
+
+Der Vorteil dieses Ordertyps besteht darin, dass Sie mit Sicherheit davon ausgehen können, dass Ihre Wertpapiere nicht unter Ihrem Kurslimit von 93 verkauft werden.
+Ein Nachteil ist, dass bei einem starken Rückgang nach Börsenschluss (wie im ersten Beispiel beschrieben) die Verkaufsorder nicht ausgelöst wird (der Kurs öffnet bei 80, die Verkaufsorder bei 93 konnte nicht ausgeführt werden).
+
+
+
+Welches sind die Werstellungsdaten für eine Verkaufsorder?
+Möchten Sie einen Veräusserungsgewinn wieder anlegen, müssen Sie folgende Wertstellungsdaten berücksichtigten:
+
+Euronext (Paris, Brüssel, Amsterdam) 	T+2
+Xetra (Frankfurt) 	T+2
+London 	T+2
+Mailand 	T+2
+Six Swiss Exchange 	T+2
+Madrid 	T+3
+OMX (Helsinki, Stockholm, Kopenhagen) 	T+2
+Oslo 	T+2
+US-Märkte 	T+3
+Kanadische Märkte 	J+3
+LIFFE-Optionen 	T+1
+Eurex 	T+1
+Equiduct 	T+2
+US-Optionen 	T+1
+Fonds 	T+3 (Das Wertstellungsdatum wird vom Emittenten festgesetzt)
+Anleihen 	T+3
+Währungsumwandlung 	T+2
+
+Was bedeutet dies konkret?
+
+In Ihrem Portfolio wird ein Guthaben ausgewiesen, obwohl Ihr Portfolio in Wirklichkeit aufgrund der Wertstellungsdaten einen Negativsaldo aufweist.
+
+Beispiel: Sie verkaufen Wertpapiere an der SWX. Beachten Sie, dass gemäss den Angaben in der vorherigen Tabelle der Verkaufsertrag in Wirklichkeit erst drei Geschäftstage später auf Ihrem Wertpapierkonto verfügbar ist. Wenn Sie diesen Geldbetrag am selben Tag für den Kauf von Optionen einsetzen, wird Ihr Konto in Wirklichkeit erst einen Geschäftstag später mit der für diesen Kauf erforderlichen Geldsumme belastet. In anderen Worten, Ihr Konto weist während zweier Geschäftstage ein Negativsaldo auf und es fallen für Sie während dieser Tage Debitorenzinsen auf den Wert Ihres Kaufs an.
+
+Beachten Sie bitte stets, dass ein Wertstellungsdatum einem Geschäftstag entspricht.
+Beispiel: Am Freitag verkaufen Sie Wertpapiere an der SWX. Dies bedeutet, dass die Summe aus dem Verkauf (gemäss den Angaben in der oben genannten Tabelle) effektiv drei Geschäftstage später auf Ihrem Wertpapierkonto verfügbar ist. Im vorliegenden Fall ist die Geldsumme also erst am Mittwoch auf Ihrem Wertpapierkonto verfügbar.
+
+Achtung: Wenn im oben genannten Beispiel der Montag ein Feiertag ist, wird die Geldsumme erst am Donnerstag Ihrem Konto gutgeschrieben.
+Ein Bankfeiertag zählt für Wertpapiere wie ein Geschäftstag. In Anbetracht der Tatsache, dass die Banken geschlossen sind, kann jedoch kein Währungsumtausch stattfinden.
+Beispiel: Sie kaufen an einem Freitagabend (am Vorabend eines Bankfeiertags) Wertpapiere an der AMEX, ohne dass Ihr Wertpapierkonto die notwendige Summe in Dollar aufweist.
+Der Kaufbetrag wird mit Wertstellungsdatum Mittwoch Ihrem Konto in Abzug gebracht. Der Umtausch von Euros gegen Dollars auf Ihrem Wertpapierkonto kann erst am Dienstag (mit Wertstellungsdatum Donnerstag) vollzogen werden, während Ihr Kauf bereits am Freitag (mit Wertstellungsdatum Mittwoch) bezahlt wurde.
+Sie befinden sich für ein Wertstellungsdatum im Minus und müssen Debitorenzinsen zahlen.

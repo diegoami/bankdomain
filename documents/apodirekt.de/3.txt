@@ -1,0 +1,23 @@
+
+Wie funktioniert das Bezahlen mit 3D Secure mit SMS-TAN?
+
+Wenn Sie bei einem 3D Händler einen Internetumsatz tätigen, werden Sie beim Einkauf aufgefordert die Ihnen per SMS übermittelte TAN einzugeben sowie die von Ihnen bei der Registrierung ausgewählte Sicherheitsfrage zu beantworten.
+
+Welche Informationen erhalte ich per SMS?
+
+Die für diese Transaktion berechnete 6-stellige E-Commerce-TAN.
+
+Was ist die Wissensfrage?
+
+Die Wissensabfrage ist eine Erweiterung des bestehenden SMS-TAN Verfahrens. In der Benutzerverwaltung können Sie Ihre bevorzugte Wissensfrage auswählen und eine entsprechende Antwort hinterlegen.
+
+Wo kann ich die Wissensfrage beantworten?
+
+In der Benutzerverwaltung können Sie neben der Hinterlegung der Mobilfunknummer auch Ihre Wissensfrage auswählen und eine entsprechende Antwort hinterlegen.
+
+Warum wird das SMS-TAN Verfahren um die Wissensfrage ergänzt?
+
+Mit Hilfe der Wissensabfrage wird Ihre Sicherheit bei teilnehmenden Händlern von Verified by VISA / Mastercard®SecureCodeTM erhöht. Zusätzlich erfüllen wir die Mindestanforderungen an die Sicherheit von Internetzahlungen (MaSI), die zwei Faktoren für eine sichere Zahlungsabwicklung fordern. Bei Nutzung der apoSecure App (ab April 2017) ist dieser zweite Faktor das App-Kennwort bzw. der Fingerabdruck.
+
+
+Zusätzlich erfüllen wir die Mindestanforderungen an die Sicherheit von Internetzahlungen (MaSI), die zwei Faktoren für eine sichere Zahlungsabwicklung fordern. Bei Nutzung der apoSecure App (ab April 2017) ist dieser zweite Faktor das App-Kennwort bzw. der Fingerabdruck.
