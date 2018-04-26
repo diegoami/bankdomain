@@ -1,3 +1,4 @@
+###
 Was kann ich als Kunde für die Sicherheit tun?
 Einige Maßnahmen, mit denen Sie sich schützen können:
 
@@ -7,33 +8,39 @@ Einige Maßnahmen, mit denen Sie sich schützen können:
     Lassen Sie Ihren Computer während einer Finanztransaktion nicht unbeaufsichtigt.
     Melden Sie sich vom DHB Net Banking ab (Logout), bevor Sie andere Internet-Seiten besuchen.
     Ändern Sie Ihr Passwort regelmäßig.
-
 Wir empfehlen Ihnen, einen Browser mit einer 128-Bit-Verschlüsselung zu verwenden, um sichere Finanztransaktionen über das Internet durchführen zu können.
-
+###
 Was sollte ich tun, wenn ich glaube, dass auf mein Konto zugegriffen wurde?
 Rufen Sie unverzüglich unser Service Center an. Wenn Sie sich nicht an Ihren Benutzernamen oder Ihr Passwort erinnern können, werden unsere Mitarbeiter Ihr Konto blockieren und Ihre Benutzer-ID und Ihr Passwort sperren, um sicherzustellen, dass niemand Ihr Konto missbrauchen kann.
 Wenn Sie den Verdacht haben, dass jemand Ihr DHB Net Banking-Konto ohne Ihre Erlaubnis genutzt hat, ist es besser, die Kundenbetreuung um Rat zu fragen, als Ihren Verdacht zu ignorieren.
-
+###
 Was sollte ich tun, wenn ich eine unbekannte E-Mail erhalte?
 Öffnen Sie keine unerwünschten E-Mails, wenn Sie sich nicht sicher sind, von wem sie stammen. Wenn Sie eine solche E-Mail erhalten, löschen Sie sie einfach, ohne sie zu öffnen.
+###
 
 Welche Informationen sollte ich nicht per E-Mail versenden?
 Geben Sie in einer E-Mail niemals persönliche Daten wie z.B. Anschrift, Geburtsdatum, Benutzernamen und Passwort weiter.
+###
 
 Was ist eine "sichere Verbindung" und wie hilft sie mir, meine Informationen zu schützen?
 Während einer sicheren SSL-Verbindung werden die Daten, die zwischen Ihrem Computer und den DHB Bank (Nederland) N.V.-Systemen verschickt werden, unter Verwendung einer Geheimverschlüsselung mit öffentlichem Schlüssel gesichert. Ihr Computer tauscht mit den DHB Bank (Nederland) N.V. Computern Schlüsseldaten aus, um eine private Konversation zu erzeugen, die nur Ihr Computer und die DHB Bank (Nederland) N.V.-Systeme verstehen.
+###
 
 Was genau ist SSL?
 Jedes Mal, wenn Sie auf Kontoinformationen in einem Ihrer sicheren Online-Bereiche zugreifen oder diese mitteilen, werden diese Informationen durch eine Technologie namens Secure Sockets Layer, häufig abgekürzt als SSL verschlüsselt. Die SSL-Technologie codiert versteckt Daten, wenn sie zwischen Ihrem Computer und den DHB Bank (Nederland) N.V.-Systemen verschickt werden, und hilft dabei sicherzustellen, dass die Informationen vertraulich bleiben. Die Verwendung von SSL erfordert zwei Komponenten: einen SSL-kompatiblen Browser und einen Web-Server, die den "Schlüsselaustausch" durchführen können, der eine SSL-Verbindung mit dem DHB Bank (Nederland) N.V.-Webserver-System herstellt.
+###
 
 Welchen Browser-Typ benötige ich?
 Um von der SSL-Technologie zu profitieren, benötigen Sie einen SSL-fähigen Browser. Bitte beachten Sie, dass einige ältere Browser-Versionen SSL-Verbindungen nicht unterstützen. Wenn Sie noch keinen SSL-fähigen Browser haben, können Sie von einem der folgenden Links einen SSL-fähigen Browser herunterladen.
 
     Microsoft's Internet Explorer
     Mozilla Firefox
+###
 
 Warum kann ich noch einige meiner Kontoinformationen sehen, nachdem ich auf den Link "Sicheren Bereich verlassen" gedrückt habe?
 Die Browser-Software "versteckt" häufig Seiten, die Sie ansehen, das heißt, dass einige Seiten in dem temporären Speicher Ihres Computers gespeichert werden. Daher könnten Sie denken, dass das Drücken der Taste "Zurück" Ihnen eine gespeicherte Version einer zuvor angesehenen Seite zeigt. Bitte beachten Sie, dass das "Verstecken" die Sicherheit Ihrer vertraulichen Benutzer-ID oder Ihres Passworts in keiner Weise beeinflusst. Wenn Sie einen Computer an einem öffentlichen Ort verwenden, lesen Sie bitte den folgenden Absatz "Was sollte ich tun, wenn ich einen "öffentlichen" Computer benutze?"
+###
 
 Was sollte ich tun, wenn ich einen "öffentlichen" Computer benutze?
 Wenn Sie einen Computer benutzen, an dem auch andere arbeiten und Sie das ungute Gefühl haben, dass diese eventuell "versteckte" Seiten einsehen könnten, nachdem Sie die Station verlassen haben, beenden/verlassen Sie Ihre Browser-Software, bevor Sie weggehen. Andere Benutzer werden ohne Ihre Benutzer-ID und Ihr Passwort online nicht auf Ihre Kontoinformationen zugreifen können.
+###

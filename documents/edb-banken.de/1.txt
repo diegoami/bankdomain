@@ -1,22 +1,23 @@
+###
 Warum erhalte ich einen „Informationsbogen für den Einleger“?
 
 Banken sind gesetzlich dazu verpflichtet, ihre Kunden regelmäßig über die gesetzliche Einlagensicherung zu informieren. Dazu versenden die Banken an ihre Kunden einmal jährlich den Informationsbogen für den Einleger. Wichtig zu wissen: Grund für die Zusendung ist nicht etwa eine Änderung des Schutzniveaus oder eine Schieflage der Bank.
-
+###
 Wo erfahre ich mehr über meinen Schutz?
 
 Der Informationsbogen enthält grundsätzliche Informationen über das für die Bank zuständige Einlagensicherungssystem. Aufgeführt werden die Sicherungsobergrenze, die Erstattungsfrist, die Währung, in der erstattet wird, und die jeweiligen Kontaktdaten des Einlagensicherungssystems.
 
 Das Einlagensicherungssystem kann Ihnen keine Auskünfte über ihre Bank geben. Wenn Sie Fragen zur Kontoführung haben oder eine Auskunft suchen, wenden Sie sich bitte direkt an Ihre Bank. So sparen Sie Porto und Zeit. Das betrifft zum Beispiel Kündigungen oder Kontoeröffnungsanträge. Die Einlagensicherungssysteme sind nicht befugt Schreiben für die Bank entgegenzunehmen und leiten diese auch nicht an die Bank weiter.
-
+###
 Bis zu welcher Höhe sind meine Einlagen durch die EdB abgesichert?
 
 Der Entschädigungsanspruch ist der Höhe nach begrenzt auf 100.000 Euro pro Person und pro Kreditinstitut. Zudem haben Einleger für mindestens sechs Monate nach Einzahlung einen Rechtsanspruch auf die Entschädigung von Einlagen bis zu 500.000 Euro, wenn die Einzahlung mit bestimmten Lebensereignissen zusammenhing – etwa dem Verkauf einer Privatimmobilie, einer Heirat oder einer Abfindung für Arbeitnehmer.
 
-
+###
 Wie werden Wertpapiergeschäfte durch die EdB geschützt?
 
 Die EdB schützt 90 % der Verbindlichkeiten aus Wertpapiergeschäften, maximal den Gegenwert von 20.000 Euro. Eine Entschädigung aus Wertpapiergeschäften kommt dann in Betracht, wenn das Institut pflichtwidrig nicht im Stande ist, im Eigentum des Kunden befindliche und für ihn verwahrte Wertpapiere zurückzugeben.
-
+###
 Wer wird von der EdB geschützt?
 
 Grundsätzlich hat der Gläubiger eines Kreditinstituts im Entschädigungsfall einen Anspruch auf Entschädigung gegen die EdB. Dazu zählen alle Privatpersonen sowie Personengesellschaften und Kapitalgesellschaften.
@@ -24,12 +25,12 @@ Grundsätzlich hat der Gläubiger eines Kreditinstituts im Entschädigungsfall e
 Nicht geschützt sind gemäß § 6 EinSiG die Einlagen von Kreditinstituten und institutionellen Anlegern, wie beispielsweise Finanzdienstleistern, Versicherungsunternehmen und Einlagen der öffentlichen Hand.
 
 Zu beachten ist ferner, dass die Entschädigung für Verbindlichkeiten aus Wertpapiergeschäften ausgeschlossen ist, wenn es sich bei dem Einleger um ein mittleres oder großes Unternehmen handelt.
-
+###
 Welche Kreditinstitute sind der EdB zugewiesen?
 
 CRR-Kreditinstitute in privater Rechtsform, also private Banken und Bausparkassen, die eine deutsche Banklizenz haben und das Einlagenkreditgeschäft betreiben, sind der EdB zugewiesen. Eine Liste der aktuell zugewiesenen Banken können Sie hier abfragen: Liste der zugewiesenen Banken
 
-
+###
 Was ist, wenn ich meine Bank nicht in dem Verzeichnis der zugewiesenen Institute finde?
 
 In diesem Fall prüfen Sie bitte zuerst, ob Sie bei Ihrer Suche den vollständigen Namen der Bank verwendet haben. Befindet sich das gesuchte Institut nicht unter seinem vollen Namen in dem Verzeichnis zugewiesener Institute, gehört es der EdB nicht an.
@@ -52,73 +53,73 @@ Handelt es sich bei dem von Ihnen gesuchten Institut um die Zweigniederlassung e
     Sind auch Einlagen bei Zweigniederlassungen im Ausland geschützt?
 
     Einlagen, die bei einer unselbstständigen Zweigniederlassung im Ausland (z.B. ING DiBa Direktbank Austria) gehalten werden, sind im Rahmen der deutschen Sicherungsgrenze geschützt. Dabei spielt es keine Rolle, welche Staatsangehörigkeit der Bankkunde hat.
-
+###
 Welche Einlagen werden von der EdB gesichert?
 
 Der Einlagenschutz umfasst Sicht-, Termin- und Spareinlagen einschließlich auf den Namen lautender Sparbriefe. Verbindlichkeiten, über die eine Bank Inhaberpapiere ausgestellt hat, wie z.B. Inhaberschuldverschreibungen und Zertifikate, werden hingegen nicht geschützt.
-
+###
 Sind auch Konten in Fremdwährungen geschützt?
 
 Entschädigungsanspruch besteht unabhängig davon, auf welche Währung die Einlagen lauten. Die Entschädigung wird jedoch in Euro gewährt. Falls Konten eines Einlegers in einer anderen Währung als Euro geführt werden, wird als Wechselkurs der Referenzkurs der Europäischen Zentralbank des Tages verwendet, an dem die BaFin den Entschädigungsfall festgestellt hat.
 
-
+###
 
 Umfasst der Entschädigungsanspruch auch Zinsen?
 
 Gemäß § 7 Abs. 2 Einlagensicherungsgesetz (EinSiG) umfasst die Entschädigung im Rahmen der Obergrenze von 100.000 Euro auch Ansprüche auf Zinsen. Diese Ansprüche entstehen ab dem Eintritt des Entschädigungsfalles bis zur Rückzahlung der Verbindlichkeiten, längstens bis Eröffnung des Insolvenzverfahrens. Voraussetzung dafür ist, dass ein vertraglicher Anspruch des Kunden auf Verzinsung seiner Einlagen besteht.
-
-
+###
 Werden auch Zertifikate geschützt, wenn die emittierende Bank in Insolvenz geht?
 
 Nein, denn bei Zertifikaten handelt es sich um Inhaberschuldverschreibungen, die die EdB grundsätzlich nicht schützt.
-
+###
 Wird mein Depot (Aktien, Investmentfonds, Zertifikate etc.) von der EdB geschützt?
 
 Wertpapiere schützt die EdB grundsätzlich nicht, hierzu besteht auch kein Grund. Depots werden lediglich von der Bank verwahrt, sie bleiben aber im Eigentum des Kunden. Im etwaigen Insolvenzfall können Sie Ihr Depot auf ein anderes Institut übertragen lassen, sofern der Bank keine Sicherungsrechte zustehen. Sie können daher auch während eines Moratoriums jederzeit die Herausgabe der Ihnen gehörenden Papiere verlangen. Die Bank darf trotz des Zahlungs- und Veräußerungsverbotes diesem Begehren nachkommen, da ihr die Herausgabe fremder Sachen nicht verwehrt ist.
 
-
+###
 Wie sind Gemeinschaftskonten, z.B. von Ehegatten, geschützt?
 
 Der Entschädigungsanspruch ist der Höhe nach begrenzt auf Einlagen mit dem Gegenwert von 100.000 Euro pro Kunde. Gemäß § 7 Abs. 4 Einlagensicherungsgesetz (EinSiG) ist bei Gemeinschaftskonten für die Obergrenze der jeweilige Anteil des einzelnen Kontoinhabers maßgeblich. Fehlen besondere Bestimmungen, so werden die Einlagen zu gleichen Anteilen den Kontoinhabern zugerechnet. Bei der Berechnung des Einlagenschutzes sind eventuell vorhandene Einzelkonten der Ehegatten zu berücksichtigen.
-
+###
 Wie werden Konten von BGB-Gesellschaften (GbR) behandelt?
 
 Konten von BGB-Gesellschaften sind nicht als Gemeinschaftskonten der Gesellschafter, sondern als ein Konto der Gesellschaft zu betrachten. Die BGB-Gesellschaft hat insoweit einen eigenen Entschädigungsanspruch, der auf 100.000 Euro begrenzt ist.
 
-
+###
 Wie werden Konten, welche auf den Namen einer Wohnungseigentümergemeinschaft geführt werden, geschützt?
 
 Der Entschädigungsanspruch ist der Höhe nach begrenzt auf Einlagen mit dem Gegenwert von 100.000 EUR pro Kunde. Gemäß § 7 Abs. 5 Einlagensicherungsgesetz (EinSiG) ist der jeweilige Anteil der Wohnungseigentümern, bei Konten, die auf den Namen einer Gemeinschaft von Wohnungseigentümern (WEG) geführt werden, bis zur gesetzlichen Obergrenze geschützt. Der Entschädigungsanspruch wird somit – anteilig auf Grundlage der Miteigentumsanteile - für jeden einzelnen Wohnungseigentümer und unter Berücksichtigung etwaiger weiterer, gegebenenfalls geschützter Einlagen des Wohnungseigentümers ermittelt. Haben einzelne Wohnungseigentümer bereits eine Entschädigung ihrer individuellen geschützten Einlagen erhalten, wird dieser Sachverhalt bei der Ermittlung des Gesamtentschädigungsanspruchs der WEG zu berücksichtigen sein und der Entschädigungsbetrag der WEG ist unter Umständen entsprechend zu kappen.
 Im Entschädigungsfall wird der Vertreter der WEG über den Eintritt des Entschädigungsfalls unterrichtet. Der jeweilige Entschädigungsanspruch ist von der Entschädigungseinrichtung innerhalb von drei Monaten ab dem Zeitpunkt der Feststellung des Entschädigungsfalles zu erfüllen. Innerhalb dieses Zeitraums hat die Entschädigungseinrichtung die für die Einlegerentschädigung erforderliche Informationen von dem Vertreter der WEG anzufordern, zu prüfen und den Entschädigungsbetrag zu erheben sowie daraufhin den ermittelten Entschädigungsbetrag an die WEG zu leisten.
-
+###
 Wie werden Treuhandkonten geschützt?
 
 Bei Treuhandkonten, welche ein Kontoinhaber für einen Dritten angelegt hat, wird hinsichtlich der Deckungssumme nicht auf den Kontoinhaber, sondern auf den Dritten als Einleger abgestellt, sofern das Treuhandverhältnis eindeutig als solches gekennzeichnet ist.
-
+###
 Habe ich einen Rechtsanspruch auf Entschädigung durch die EdB?
 
 Gemäß § 5 Abs. 1 Einlagensicherungsgesetz (EinSiG) und § 5 Abs. 2 EinSiG i. V. m. §§ 3–5 AnlEntG haben Gläubiger eines Kreditinstituts im Entschädigungsfall gegen die Entschädigungseinrichtung, der das Institut zugewiesen ist, einen Anspruch auf Entschädigung nach den gesetzlichen Bestimmungen. Für Streitigkeiten über Grund und Höhe des Entschädigungsanspruchs ist der Zivilrechtsweg gegeben.
-
+###
 Was ist ein Moratorium?
 
 Ein Moratorium ist ein Zahlungs- und Veräußerungsverbot im Sinne von § 46 Abs. 1 Satz 2 Nr. 4–6 KWG, das durch die zuständige Aufsichtsbehörde, die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), verhängt wird. Dadurch ist die Bank gehindert Gelder anzunehmen und auszuzahlen. Die Bank darf lediglich Zahlungen entgegennehmen, die zur Tilgung von Schulden bestimmt sind.
-
+###
 Wann tritt der Entschädigungsfall ein?
 
 Kommt die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) zu dem Ergebnis, dass ein Kreditinstitut nicht in der Lage ist, seine Einlagen zurückzuzahlen, oder dauert das Moratorium bereits sechs Wochen an, stellt sie den Entschädigungsfall fest. Erst dann kann die EdB ihre Tätigkeit aufnehmen und damit beginnen, die Einleger zu entschädigen. Diese werden unverzüglich über den Eintritt des Entschädigungsfalles informiert.
-
+###
 Wie läuft die Entschädigung durch die EdB ab?
 
 Sofern der Entschädigungsfall bei einem der EdB zugewiesenen Kreditinstitut festgestellt wird, wird die EdB die Einleger entschädigen. Die EdB prüft die Entschädigungsansprüche der Einleger selbstständig und hat die Ansprüche innerhalb von sieben Arbeitstagen nach Feststellung des Entschädigungsfalles zu erfüllen. Mit der Erfüllung des Entschädigungsanspruches gehen die Ansprüche des Einlegers gegen das Kreditinstitut auf die EdB über. Bei Kreditinstituten, die sowohl der EdB zugewiesen sind als auch am Einlagensicherungsfonds des Bundesverbandes deutscher Banken e.V. mitwirken, erfolgt die Entschädigung für beide Sicherungseinrichtungen „aus einer Hand“. Dafür beauftragt die EdB den Einlagensicherungsfonds mit der Abwicklung der Entschädigungsaktion, der dann gegenüber den Einlegern auch im Namen der EdB tätig wird.
 
-
-Wie lange dauert es, bis ich mein Geld wiederbekomme? Muss ich dabei irgendwelche Fristen beachten?
+###
+Wie lange dauert es, bis ich mein Geld bei einer Entschädigung wiederbekomme? Muss ich dabei irgendwelche Fristen beachten?
 
 EdB hat Entschädigungsansprüche gemäß § 14 Abs. 3 Einlagensicherungsgesetz (EinSiG) grundsätzlich innerhalb von sieben Arbeitstagen nach der Feststellung des Entschädigungsfalls zu erfüllen. Eines Antrages durch den Einleger bedarf es nicht.
 
 Beträge, die einer vorübergehend erhöhten Deckungssumme unterliegen, sind vom Einleger gesondert schriftlich unter Nachweis der anspruchsbegründenden Tatsachen glaubhaft zu machen. Diese Beträge sind durch die EdB innerhalb von sieben Arbeitstagen nach Zugang der Anmeldung dieser Beträge und deren Glaubhaftmachung zu entschädigen.
 Angemeldete Ansprüche, die auf die Entschädigung von Verbindlichkeiten aus Wertpapiergeschäften gerichtet sind, hat die EdB unverzüglich zu prüfen und spätestens drei Monate, nachdem sie die Berechtigung und die Höhe der Ansprüche festgestellt hat, zu erfüllen. Der Anspruch auf Entschädigung ist durch den Kunden schriftlich innerhalb eines Jahres nach Unterrichtung über den Entschädigungsfall bei der EdB anzumelden.
-
+###
 Woher bekommt die EdB ihre Mittel?
 
 Die EdB erhebt jährlich Beiträge von den ihr zugewiesenen Kreditinstituten, die in ein Sondervermögen fließen, aus denen die Einleger im Entschädigungsfall Zahlungen erhalten. Die Einzelheiten der Beitragserhebung regelt die Beitragsverordnung der EdB. Die EdB ist gesetzlich dazu verpflichtet, die für die Entschädigung angesammelten Mittel nach dem Gesichtspunkt der Risikomischung so anzulegen, dass eine möglichst große Sicherheit und ausreichende Liquidität der Anlagen bei angemessener Rentabilität gewährleistet sind.
+###

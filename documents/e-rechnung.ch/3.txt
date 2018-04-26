@@ -1,8 +1,8 @@
-
+###
 Was brauche ich, um E-Rechnungen zu empfangen?
 
 Sie benötigen einen Computer mit Internetanschluss und einen E-Banking-Vertrag mit einer Bank, die die E-Rechnung unterstützt. Hier öffnen Sie die Liste der teilnehmenden Banken.
-nach oben
+###
 Wie melde ich mich bei meiner Bank für die E-Rechnung an?
 
 -          Loggen Sie sich in Ihr E-Banking ein.
@@ -10,7 +10,7 @@ Wie melde ich mich bei meiner Bank für die E-Rechnung an?
 -          Wählen Sie den Menüpunkt «E-Rechnung» aus und melden Sie sich in wenigen Schritten für den elektronischen Rechnungsempfang an. Für E-Finance-Kunden von PostFinance entfällt dieser Schritt.
 
 -          Wählen Sie nun in der Liste der Rechnungssteller die Firmen aus,   von denen Sie zukünftig E-Rechnungen empfangen möchten.
-nach oben
+###
 Wie melde ich mich beim Rechnungssteller für die E-Rechnung an?
 
 Es gibt zwei Möglichkeiten:
@@ -24,22 +24,22 @@ Tipp: Halten Sie für das Anmeldeformular persönliche Daten wie zum Beispiel Ku
 2) Über die Direktregistrierung im E-Banking
 
 Sie erfassen einen Zahlungsauftrag von Hand, bei welchem der Rechnungssteller E-Rechnungen versenden kann? In diesem Fall erhalten Sie nach erfolgreicher Erfassung einen Hinweis, welcher Sie direkt zur Anmeldung für die E-Rechnung führt.
-nach oben
+###
 Was mache ich, wenn ich Fragen zur Anmeldung bei einem Rechnungssteller habe?
 
 Bitte wenden Sie sich direkt an Ihren Rechnungssteller.
-nach oben
+###
 Kann ich mit der E-Rechnung auch zu einer anderen Bank wechseln?
 
 Ja, das ist möglich, sofern Sie von einer an das E-Rechnungssystem von SIX Paynet AG angeschlossenen Bank zu einer anderen wechseln.
 
 Wechseln Sie allerdings von einer Schweizer Bank zu PostFinance oder umgekehrt, müssen Sie sich im alten E-Banking-System bei allen Rechnungsstellern abmelden und im neuen E-Banking-System wieder bei allen Rechnungsstellern neu anmelden.
-nach oben
+###
 Kann ich die E-Rechnung auch wieder abbestellen?
 
 Ja. Sie können sich in Ihrem E-Banking unter dem Menüpunkt «E-Rechnung» abmelden.
-nach oben
+###
 An wen muss ich mich wenden, wenn die Anmeldung für die E-Rechnung im E-Banking fehlschlägt?
 
 Bitte wenden Sie sich direkt an Ihre Bank.
-nach oben
+###

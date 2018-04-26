@@ -1,11 +1,12 @@
+###
 Was ist die Schufa?
 
 Die Schutzgemeinschaft für allgemeine Kredit­sicherung (Schufa) ist eine Gemeinschaftsein­richtung von Wirtschaftsunternehmen, die ihren Kunden Geld- oder Warenkredite einräumen. Ziel der Schufa ist es, ihre Vertragspartner mittels so genannter Schufa-Auskünfte vor Kreditausfällen zu schützen.
-
+###
 Wer sind die Vertragspartner der Schufa?
 
 Derzeit hat die Schufa ca. 4.500 Vertrags­partner. Diese setzen sich vor allem aus Banken, Sparkassen, Kreditkarten-und Leasinggesell­schaften zusammen. Aber auch der Einzel-und Versandhandel, Telekommunikationsunternehmen (z. B. Telekom), Versicherungsgesellschaften, Gas-/ Wasser- und Stromversorgungsbetriebe, Unternehmen der Wohnungswirtschaft, Unter­nehmen aus dem E-Commerce-Bereich (Internet-Firmen) und Inkasso-Unternehmen arbeiten immer häufiger mit der Schufa zusammen.
-
+###
 Welche Daten werden von der Schufa erfasst?
 
 Zum einen werden Ihre personenbezogenen Daten wie Name, Vorname, Geburtsdatum und –ort, Anschrift und frühere Anschriften erfasst. Des Weiteren werden Informationen über die Aufnahme und vertragsgemäße Abwicklung eines Geschäftes erfasst. Diese können z.B. sein:
@@ -22,7 +23,7 @@ Darüber hinaus speichert die Schufa Daten aus öffentlichen Verzeichnissen (z. 
     Abgabe der Vermögensauskunft
     Haftbefehl zur Erzwingung der Abgabe der Vermögensauskunft
     Eröffnung eines Regel- oder Verbraucherinsol­venzverfahrens und dessen evtl. Abweisung oder Einstellung mangels Masse
-
+###
 Wer bekommt welche Schufa-Auskunft über mich?
 
 Grundsätzlich gibt die Schufa nur an ihre Vertragspartner Auskünfte weiter. Wenn ein Vertragspartner eine Auskunft über Sie wünscht, so muss er der Schufa gegenüber bei jeder Anfrage ein berechtigtes Interesse im Sinne des Bundesdatenschutzgesetzes nachweisen. Ein Kreditinstitut muss z. B. angeben, ob Sie einen Kreditvertrag abschließen oder ein Girokonto eröffnen möchten. Tut er dies nicht, so werden keinerlei Auskünfte über Sie weitergegeben.
@@ -32,7 +33,7 @@ Ist der Vertragspartner jedoch berechtigt, eine Auskunft über Sie einzuziehen, 
 Banken, Sparkassen, Kreditkarten- und Leasing­gesellschaften erhalten sowohl positive als auch negative Informationen über Sie. Kontonummern und Namen der Institute, die der Schufa eine Information gemeldet haben, werden grund­sätzlich an keinen Vertragspartner weitergeleitet.
 
 Alle anderen Vertragspartner erhalten lediglich eine Auskunft über Sie, wenn eine Negativ­meldung gespeichert wurde.
-
+###
 Wie erfahre ich, was bei der Schufa über mich gespeichert wurde?
 
 Jede Person hat das Recht, alle über sie ge­speicherten Daten bei der Schufa als Eigen­auskunft zu erhalten.
@@ -45,7 +46,7 @@ Oder Sie bestellen die Schufa-Bonitätsauskunft. Diese umfasst zwei verschiedene
     und eine umfangreiche Auskunft zu Ihrer persönlichen Verwendung, die alle zu Ihrer Person bei der Schufa gespeicherten Daten enthält.
 
 Auf der Website der Schufa können Sie die Eigenauskunft beantragen.
-
+###
 Was kann ich tun, wenn ich herausfinde, dass über mich falsche Daten bei der Schufa gespeichert sind?
 
 Unvollständige oder unzutreffende Angaben in Ihrer Auskunft werden kostenlos aktualisiert! Sie sollten dazu Ihr Anliegen kurz schriftlich darzustellen.
@@ -56,7 +57,7 @@ Postfach 10 34 41
 50474 Köln
 
 Haben Sie Dokumente, die den Sachverhalt darlegen (Quittungen, Löschungsbescheid oder ähnliches)? Eine Kopie hiervon hilft bei der Bearbeitung weiter!
-
+###
 Wann werden die Daten über mich in der Schufa gelöscht?
 
 Es gibt unterschiedliche, gesetzliche Grundlagen und Fristen für die Aufbewahrung Personen bezogener Daten. Negative Informationen werden nach einer festgelegten Zeit gelöscht, wie zum Beispiel:
@@ -68,3 +69,4 @@ Es gibt unterschiedliche, gesetzliche Grundlagen und Fristen für die Aufbewahru
     Daten aus den Schuldnerverzeichnissen der Amtsgerichte (Haftbefehl zur Erzwingung der Abgabe der Vermögensauskunft und Vermögensauskunft) nach drei Jahren, jedoch vorzeitig, wenn der Schufa eine Löschung durch das Amtsgericht nachgewiesen wird.
 
 Eine ausführliche und aktuelle Aufstellung, wann welche Daten bei der Schufa gelöscht werden, finden Sie direkt bei der Schufa.
+###

@@ -1,10 +1,10 @@
-Allgemeine Informationen
-
+###
     Ist die Kreditkarte gegen Missbrauch versichert?
 
     Bei Verlust oder Diebstahl der GenialCard ist es dringend erforderlich, dass Sie sich sofort telefonisch mit der Hanseatic Bank in Verbindung setzen. Die Kreditkarte wird dann sofort gesperrt und somit kann kein Missbrauch mehr damit betrieben werden. Vor der Meldung haften Sie mit max. 150 € ohne die Zusatzversicherung SicherPortemonnaie. Nach Meldung des Verlusts bei der Hanseatic Bank haften Sie nicht für entstandene Schäden.
 
     Über den Standardschutz hinaus bieten wir Ihnen unsere SicherTasche- und SicherPortemonnaie-Versicherungen für weitreichende Zusatzabsicherungen an. Für die Inanspruchnahme der Versicherungsleistungen bei SicherTasche und SicherPortemonnaie ist zusätzlich eine Verlustanzeige bei der Polizei notwendig.
+###
     Gibt es für meine GenialCard eine Versicherung?
 
     Ja, zum Schutz Ihrer GenialCard und persönlicher Gegenstände bieten wir  Ihnen unterschiedliche und individuell auswählbare Versicherungen.
@@ -21,10 +21,11 @@ Allgemeine Informationen
     Details GenialCard ansehen
 
 SicherKreditkarte
-
+###
     Wieviel kostet die Versicherung SicherKreditkarte?
 
     SicherKreditkarte kostet 0,89 % von dem in Anspruch genommenen Saldo. Das bedeutet, Sie sind versichert, auch wenn Sie die Karte gerade nicht im Teilzahlungsmodus nutzen. Und wenn das Kartenkonto der GenialCard keinen Saldo aufweist, dann müssen Sie für diesen Monat auch keinen Versicherungsbeitrag für Sicher Kreditkarte zahlen.
+###
     Was leistet die Versicherung im Ernstfall?
 
     Die Kreditversicherung SicherKreditkarte übernimmt im Falle von unverschuldeter Arbeitslosigkeit oder Arbeitsunfähigkeit für maximal 12 Monate die Zahlung der monatlichen Kreditrate bis zu einer Höhe von 350 €. Bei Tod wird der Betrag der am Todestag noch offenen Kreditverpflichtungen gezahlt.
@@ -32,11 +33,11 @@ SicherKreditkarte
 
     Wenn das Kartenkonto der GenialCard keinen Saldo aufweist, dann müssen Sie für diesen Monat auch keinen Versicherungsbeitrag für SicherKreditkarte zahlen.
     Welche Laufzeiten hat die Versicherung?
-
+###
     SicherKreditkarte läuft so lange, wie Ihr Kartenkonto einen Saldo aufweist.
 
 SicherReise
-
+###
     Was kostet die Versicherung SicherReise Basic?
 
     Die SicherReise Basic Versicherung der Hanseatic Bank bietet Ihnen bereits ab umgerechnet 1,70 € pro Monat Schutz und Hilfe.
@@ -46,34 +47,37 @@ SicherReise
     Was ist der Unterschied zwischen SicherReise Basic und SicherReise Komfort?
 
     Bei SicherReise Basic erhalten Sie eine Auslandsreisekrankenversicherung. Mit der umfassenderen Absicherung Komfort erhalten Sie zusätzlich eine Reiserücktritts- und Reiseabbruchversicherung im In- und Ausland, Flug- und Gepäckverspätungsversicherung, Reisegepäck- und Geldbörsenversicherung (inkl. Golf- und Tauchausrüstung).
-
-SicherPortemonnaie
-
+###
     Was kostet die Versicherung SicherPortemonnaie?
 
     Die Versicherung ist für einen Jahresbeitrag von 30 €, umgerechnet 2,50 € monatlich, erhältlich.
+###
     Was leistet die Versicherung im Ernstfall?
 
     Bei SicherPortemonnaie ist Ihre GenialCard gegen Missbrauch und Verlust versichert. So werden die Gebühren für die Neuausstellung einer GenialCard in Höhe von 9 € übernommen. Und durch Diebstahl oder Verlust entstandene Vermögensschäden sind sogar bis 2.000 € abgesichert. Geraubte Bargeldabhebungen an Geldautomaten sind innerhalb von 48 Stunden bis zu einer Höhe von 300 € versichert. Da eine Kreditkarte meistens in einem Portemonnaie oder in einer Handtasche aufbewahrt wird, sind neben der Karte auch noch die Wiederbeschaffung der Haustür- und Autoschlüssel und Ihre Ausweispapiere bei Verlust oder Diebstahl bis zu einer Summe von jeweils 150 € abgesichert.
+###
     Ab wann kann die Versicherung in Anspruch genommen werden?
 
     Die Leistungen von SicherPortemonnaie kann bereits sieben Tage nach Vertragsabschluss in Anspruch genommen werden.
+###
     Welche Laufzeit hat die Versicherung?
 
     Die Versicherung läuft immer 12 Monate und verlängert sich automatisch um weitere 12 Monate, wenn Sie nicht drei Monate vor Ablauf der 12 Monate schriftlich kündigen. Darüber hinaus endet die Versicherung mit der Kündigung des Kreditkartenkontos oder dem Nichtbezahlen des Versicherungsbeitrags. Bei Tod des Versicherungsnehmers endet die Versicherung automatisch.
-
-SicherTasche
-
+###
     Was leistet die Versicherung im Ernstfall?
 
     Die Versicherung SicherTasche beinhaltet die gleichen Leistungen wie SicherPortemonnaie sowie weitere nützliche Versicherungsleistungen, wie z.B. die Absicherung der Tasche mit bis zu 250 € bei Raub und die sich darin befindenden persönlichen Gegenstände ebenfalls mit bis zu 250 €. Außerdem werden zusätzlich Kosten der Sperrung und Wiederbeschaffung sämtlicher sich im Portemonnaie befindenden Karten bis zu einer Höhe von 100 € übernommen. Die Versicherung beinhaltet außerdem die Absicherung des Mobiltelefons bei Raub bis 250 € sowie bis zu 50 € bei Missbrauch. Des Weiteren umfasst sie einen Ticketschutz, der maximal zwei entwendete oder aufgrund von Krankheit nicht eingelöste Tickets bis zu einer Höhe von 100 € erstattet.
+###
     Welche Laufzeit hat die Versicherung?
 
     SicherPortemonnaie und SicherTasche laufen immer 12 Monate und verlängern sich automatisch um weitere 12 Monate, wenn Sie nicht drei Monate vor Ablauf der 12 Monate schriftlich kündigen. Darüber hinaus enden die Versicherungen mit der Kündigung des Kreditkartenkontos oder dem Nichtbezahlen des Versicherungsbeitrags. Bei Tod des Versicherungsnehmers enden die Versicherungen automatisch.
+###
     Welche Voraussetzung gilt bei der Versicherung?
 
     Für SicherTasche muss Ihr Verfügungsrahmen auf der GenialCard noch einen Restbetrag von 54 € aufweisen, da die Jahresbeträge von der Karte abgebucht werden. Des Weiteren darf Ihre Kreditkarte nicht gesperrt sein.
+###
     Was kostet die Versicherung SicherTasche?
 
     Der Jahresbeitrag für die SicherTasche-Versicherung beträgt 54 €, dies sind umgerechnet nur 4,50 € im Monat.
 
+###

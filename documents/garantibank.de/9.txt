@@ -1,3 +1,4 @@
+###
 Was ist SEPA?
 
 Die Abkürzung SEPA steht für "Single Euro Payments Area", also Einheitlicher Euro-Zahlungsverkehrsraum. Mit Hilfe von SEPA soll ein einheitlicher europäischer Zahlungsmarkt geschaffen werden, bei dem es keine Unterschiede mehr zwischen in Euro geleisteten Inlands- und Auslandszahlungen innerhalb von Europa gibt. Seit dem 28. Januar 2008 können zwischen den nachfolgend angegebenen 32 SEPA-Mitgliedstaaten SEPA-Zahlungen abgewickelt werden. Zum 01.Feb.2014 sollen die inländischen Zahlungssysteme in Deutschland durch SEPA ersetzt werden. Das bedeutet, dass Unternehmen und Kunden überall in Europa in der Lage sein werden, in Euro abgewickelte Zahlungen zu den gleichen Bedingungen und mit den gleichen Rechten und Pflichten zu überweisen und zu erhalten.
@@ -46,7 +47,7 @@ Großbritannien****
 ***      einschließlich der Kanarischen Inseln, Ceuta und Melilla
 ****    einschließlich Gibraltar und Nordirland, ohne die Kanalinseln und die Isle of Man
 
-
+###
 Welche SEPA-Produkte gibt es?
 
 Mit Hilfe von SEPA können die Mitglieder
@@ -56,7 +57,7 @@ b)      SEPA- Direktabbuchungen
 
 verarbeiten.
 
-
+###
 Wie kann ich bei der GarantiBank International N.V. SEPA-Überweisungen von meinem Konto aus tätigen beziehungsweise auf diesem empfangen?
 
 Sie können SEPA-Überweisungen von Ihren Konten bei der Düsseldorfer Zweigstelle der GarantiBank International N.V. vornehmen, indem Sie dies in einer unserer Niederlassungen einfach auf Ihrer schriftlichen Zahlungsanweisung angeben, oder indem Sie einen telefonischen Überweisungsauftrag über einen unserer Telefonbanking-Operator abwickeln. Sie können SEPA-Überweisungen auf Ihren Konten bei der Düsseldorfer Zweigstelle der GarantiBank International N.V. entgegennehmen, indem Sie Ihren jeweiligen Gegenparteien einfach Ihre IBAN-Nummer und den BIC-Code Ihrer Bank geben.
@@ -73,13 +74,13 @@ Nachfolgend finden Sie die Hauptmerkmale von SEPA-Überweisungen:
 
 - Die Kosten werden den beiden beteiligten Parteien separat in Rechnung gestellt
 
-
+###
 Was ist eine SEPA-Direktabbuchung?
 
 Die SEPA-Direktabbuchung ist das Gegenstück zum deutschen inländischen Lastschriftverfahren. Wenn Sie dem jeweiligen Transaktionspartner eine Einzugsermächtigung für eines Ihrer Konten bei unserer Bank erteilen möchten, teilen Sie dies bitte Ihrem Kontosachbearbeiter bei unserer Bank mit.
 
 Bitte beachten Sie, daß das Kleeblatt-Sparkonto laut den "Besonderen Bedingungen für das Kleeblattsparkonto" Punkt 6. Einzahlungen, vom Lastschriftverfahren ausgeschlossen ist.
-
+###
 Was bedeutet IBAN und BIC?
 
 IBAN steht für International Bank Account Number und ist eine standardisierte, internationale Bank-/Kontonummer für nationale und grenzüberschreitende Zahlungen. Alle Ihre Konten bei unserer Bank haben entsprechende IBAN-Nummer. Ihre IBAN-Nummern bei unserer Bank finden Sie auf Ihren Kontoauszügen oder auf Ihrer Internetbanking-Website, auf die Sie mit Ihrem Benutzernamen und Ihrem Passwort zugreifen.
@@ -93,3 +94,5 @@ Für die Vornahme und/oder Entgegennahme einer SEPA-Zahlung müssen Sie die Pers
 SEPA Haftungsausschluss
 
 Für die Abwicklung der SEPA-Transaktionen sind die Allgemeinen Bankgeschäftsbedingungen der GarantiBank International N.V. in den Niederlanden sowie der Düsseldorfer Zweigstelle der GarantiBank international N.V. verbindlich und stets vorrangig.
+
+###

@@ -1,19 +1,21 @@
+###
 Kann ich bei Händlern einkaufen, die nicht am 3D Secure-Verfahren teilnehmen?
 
 Ja, Du wirst bei diesen Händlern einfach nicht nach einer Online-Legitimation gefragt. Der Kaufvorgang kann in diesen Fällen wie gewohnt durchgeführt werden.
-
+###
 Was ist 3D Secure beziehungsweise Verified by Visa?
 
 3D Secure ist ein Service von Visa und Deiner Ikano Bank, der Dir beim Online-Kauf zusätzlichen Schutz vor der unberechtigten Verwendung Deiner angemeldeten Kreditkarte bietet. So kannst Du bei teilnehmenden Händlern sicher einkaufen. Visa nennt das Verfahren Verified by Visa.
 
 Bitte beachte, dass für Online-Händler, die mit 3D Secure arbeiten, zwingend eine Registrierung für 3D Secure nötig ist und Du zukünftig die Transaktionen bei diesen Händlern über 3D Secure bestätigen musst. Ohne Registrierung für 3D Secure kannst Du bei 3D Secure anbietenden Händlern online nicht mit der Karte bezahlen. Den Link für die Registrierung zu 3D findest Du hier
-
+###
 Wie funktioniert 3D Secure mit mTAN?
 
 Im Bezahlvorgang bei teilnehmenden Online-Händlern wird vom Händler eine Anfrage an den Kartenherausgeber (Ikano Bank) gesendet. Sofern die Zahlung mit 3D Secure abgesichert werden soll, öffnet sich ein Eingabefenster und bittet Dich um Bestätigung der Zahlung mit einer mTAN, die Du per SMS erhältst. Mit Eingabe der mTAN im Bezahlvorgang identifizierst Du Dich als rechtmäßiger Karteninhaber. Der Händler hat keine Einsicht in Deine persönlichen Daten.
-
+###
 Welche Anforderungen stellt 3D Secure?
 
 Beim Online-Kauf: Die Bestätigung eines Bezahlvorgangs mit 3D Secure kann mit jedem aktuellen Browser genutzt werden. Gegebenenfalls musst Du die Software deaktivieren, die die Anzeige von Popup-Fenstern blockt.
 
 Beim mTAN-Verfahren: Das mTAN-Verfahren setzt ein SMS-fähiges Handy mit einer deutschen Mobilfunknummer und einer aktiven Mobilfunkverbindung voraus.
+###

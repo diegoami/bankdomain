@@ -1,23 +1,24 @@
-´Wie greife ich auf die Benutzerverwaltung zu?
+###
+Wie greife ich auf die Benutzerverwaltung meiner 3D Secure Kreditkarte zu?
 
 Auf der Anmeldeseite besteht die Möglichkeit, unter dem Punkt „Registrierung | Benutzerverwaltung MasterCard“ oder „Registrierung | Benutzerverwaltung Visa Card“ direkt in die Benutzerverwaltung zu wechseln. Klicken Sie einfach auf den für Ihre Karte zutreffenden orangen Button. Es öffnet sich nun ein Fenster, in dem Sie sich einloggen können. Hierfür geben Sie zunächst Ihre Kartennummer ein und bestätigen den Login im nächsten Schritt mit der übermittelten E-Commerce-TAN.
-
-Welche Funktionen bietet die Benutzerverwaltung?
+###
+Welche Funktionen bietet die Benutzerverwaltung der 3D Secure Kreditkarte ?
 
 Die Benutzerverwaltung ermöglicht, die hinterlegte Mobilfunknummer, die Sicherheitsfrage sowie das Verfahren der TAN-Zustellung zu ändern. Darüber hinaus können Sie Ihr Profil löschen und nehmen damit nicht mehr am 3D Secure Verfahren teil.
-
+###
 Wird meine wegen Verlust oder Diebstahl gesperrte Karte automatisch auch für den Service 3D Secure Verfahren gesperrt?
 
 Ja, die wegen Verlust oder Diebstahl gesperrte Karte wird automatisch für das 3D Secure Verfahren gesperrt.
-
-Wieso muss ich meine Mobilfunknummer nochmals registrieren, obwohl ich sie bei meiner Bank doch schon für die mobileTAN hinterlegt habe?
+###
+Wieso muss ich meine Mobilfunknummer für das 3D Secure Verfahren nochmals registrieren, obwohl ich sie bei meiner Bank doch schon für die mobileTAN hinterlegt habe?
 
 Zum einen darf die für andere Verfahren hinterlegte Nummer nicht ohne Ihr Einverständnis für die Kontaktaufnahme im Rahmen neuer Verfahren genutzt werden, zu denen Sie nicht Ihr Einverständnis gegeben haben. Zum anderen erfolgt die Abwicklung der Kreditkartenzahlungen nicht über die Kernbankanwendung Ihrer Bank, sodass im Rahmen der Kreditkartenabwicklung nicht auf die dort gespeicherte Mobilfunknummer zurückgegriffen werden kann.
-
-Ich habe eine SMS-TAN bzw. eine Push Nachricht erhalten, ohne einen Einkauf getätigt oder eine TAN über die Benutzerverwaltung angefordert zu haben.
+###
+Ich habe eine SMS-TAN bzw. eine Push Nachricht erhalten, ohne einen 3D Internet-Einkauf getätigt oder eine TAN über die Benutzerverwaltung angefordert zu haben.
 
 Bitte setzen Sie sich umgehend mit unserer 3D Secure Hotline 0721/1209-66001 in Verbindung. Es kann sich hierbei um den Versuch einer betrügerischen Transaktion handeln.
-
+###
 Wie kann ich den Service 3D Secure für meine Kreditkarte(n) abmelden?
 
 Den Service 3D Secure mit können Sie jederzeit und ohne Einhaltung einer Frist abmelden, indem Sie sich in der Benutzerverwaltung anmelden und den Punkt „Benutzerdaten löschen“ auswählen. Anschließend bestätigen Sie Ihre Abmeldung. Sofern mehr als eine Kreditkarte für den Service registriert wurde, ist der Vorgang für jede weitere Kreditkarte zu wiederholen. Nach einer vorgenommenen Abmeldung ist der Einkauf bei an 3D Secure teilnehmenden Händlern nicht mehr möglich. Sie können jedoch Ihre Kreditkarte(n) für den Service 3D Secure jederzeit neu registrieren.
@@ -27,3 +28,4 @@ Anschließend bestätigen Sie Ihre Abmeldung. Sofern mehr als eine Kreditkarte f
 Nach einer vorgenommenen Abmeldung ist der Einkauf bei an 3D Secure teilnehmenden Händlern nicht mehr möglich.
 
 Sie können jedoch Ihre Kreditkarte(n) für den Service 3D Secure jederzeit neu registrieren.
+###

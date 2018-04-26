@@ -1,4 +1,4 @@
-
+###
 Wie bekomme ich eine Steuerbescheinigung?
 
 Sie können Ihre Steuerbescheinigung für Kapitalerträge bei uns schriftlich oder telefonisch anfordern.
@@ -17,7 +17,7 @@ Bitte beachten Sie, dass wir nur eine Steuerbescheinigung ausstellen können, we
 
 Für GLS Mitglieder:
 Die Dividende für das Geschäftsjahr 2015 wurde im Rahmen der Generalversammlung 2016 beschlossen und direkt im Anschluss ausgeschüttet. Sie erscheint in der Steuerbescheinigung für das Jahr 2017. Diese erhalten Sie zum Ende des ersten Quartals in 2017.
-
+###
 
 
 Wie ändere oder erteile ich einen Freistellungsauftrag?
@@ -25,12 +25,12 @@ Wie ändere oder erteile ich einen Freistellungsauftrag?
 Ihren Freistellungsauftrag können Sie im Onlinebanking unter "Service&Verwaltung" => Steuern erteilen oder ändern. Falls Sie kein Onlinebanking machen, laden Sie als Privatkundin bzw. Privatkunde bitte unser Formular Freistellungsauftrag herunter.
 
 Der Freistellungsauftrag kann in der Höhe bis zu 801 Euro (Sparer-Pauschbetrag) pro Person gestellt werden. Das bedeutet, dass auf die Erträge bis zur Höhe des Sparer-Pauschbetrages keine Abgeltungssteuer abgeführt wird.
-
+###
 
 Was ist ein Pfändungsschutzkonto?
 
 Auf einem Pfändungsschutzkonto (P-Konto) erhalten Sie für Ihr Guthaben einen automatischen Basispfändungsschutz in Höhe ihres Pfändungsfreibetrages. Dabei kommt es nicht darauf an, aus welchen Einkünften dieses Guthaben herrührt. Somit genießen auch Selbstständige einen Pfändungsschutz für Ihr Kontoguthaben. Pro Person ist bundesweit nur ein P-Konto möglich. Die Umwandlung von Gemeinschaftskonten ist nicht möglich.
-
+###
 
 Was ist ein Dispositionskredit?
 
@@ -41,3 +41,4 @@ Bei der Inanspruchnahme des Dispos fallen Sollzinsen auf die Höhe des in Anspru
 Die Einrichtung eines Dispositionskredites setzt eine positive Bonität voraus. Die Höhe richtet sich nach dem Einkommen des Kontoinhabers/der Kontoinhaberin und wird nur auf Kundenwunsch eingerichtet.
 
 Der Dispositionskredit muss nicht getilgt werden und besitzt auch keine feste Laufzeit. Er kann von der Bank wie auch vom Kunden gekündigt oder reduziert werden, wenn sich z. B. die finanziellen Verhältnisse ändern.
+###

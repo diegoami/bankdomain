@@ -1,0 +1,28 @@
+###
+Was bedeutet SEPA?
+SEPA ist die Abkürzung für "Single Euro Payment Area", dem einheitlichen Euro-Zahlungsverkehrsraum. Dieser besteht aus 32 europäischen Ländern. Innerhalb der SEPA werden europaweit standardisierte Überweisungen, Lastschriften angeboten. Verbraucher und Unternehmen können mit einheitlichen Überweisungs- und Lastschriftprodukten bargeldlose Euro-Zahlungen auch über die Ländergrenzen hinweg so einfach und bequem tätigen wie in ihrem Heimatland. Bitte beachten Sie, dass Ihre DHB Anlagekonten gemäß unseren Sonderbedingungen für Tagesgeld und Netspar Punkt 1. vom Lastschriftverfahren ausgeschlossen sind.
+###
+Wie lange kann ich die heute bestehenden Zahlungsverkehrsprodukte weiterhin nutzen?
+Anfang 2012 hat der europäische Gesetzgeber eine Verordnung verabschiedet, die unter anderem die Abschaltung der jeweiligen nationalen Zahlverfahren (Überweisung und Lastschriften) in Euro zugunsten der neuen SEPA-Zahlverfahren vorschreibt. Stichtag hierfür war der 1. Februar 2014.
+###
+Was ist IBAN?
+Die wichtigste Neuerung für Bankkunden ist eine Kennziffer, die künftig alle nationalen Kontoangaben (in Deutschland Kontonummer und Bankleitzahl) ersetzt: die IBAN (International Bank Account Number, internationale Bankkontonummer).
+Die IBAN ist je nach Land unterschiedlich lang (in Deutschland hat sie immer 22 Stellen), vom Prinzip her aber immer gleich aufgebaut: Sie besteht aus einem internationalen Teil, der sich aus einem Länderkennzeichen und einer Prüfziffer zusammensetzt, und einem nationalen Teil, der individuelle Kontodetails enthält. In Deutschland sind das die Bankleitzahl und die Kontonummer.
+###
+Was ist BIC?
+Beim BIC (Bank Identifier Code) handelt es sich um eine von der SWIFT (Society for Worldwide Interbank Financial Telecommunication) festgelegte international gültige Bankleitzahl. Da der BIC von der SWIFT vergeben wird, bezeichnet man ihn oftmals auch als SWIFT-Code. Der BIC oder SWIFT-Code besteht aus acht oder elf alphanumerischen Zeichen und ist wie folgt untergliedert:
+
+4-stelliger Bankcode
+
+2-stelliger Ländercode
+
+2-stellige Codierung des Ortes
+
+3-stellige Kennzeichnung der Filiale (optional)
+###
+Wo finde ich IBAN und BIC?
+Sie finden Ihre IBAN sowie unseren BIC (DHBNDEDDXXX) auch auf Ihrem Kontoauszug.
+###
+Betreffen Änderungen durch die SEPA auch das DHB NetBanking?
+Im NetBanking wird Ihnen die SEPA-Überweisung ebenfalls angeboten. Alle bisherigen Funktionen und Layouts bleiben unverändert.
+###

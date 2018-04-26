@@ -1,4 +1,4 @@
-
+###
 Können kontaktlose Chips/Karten ausgespäht werden?
 
 Um von einer kontaktlosen Karte etwas abzubuchen, benötigt man ein zertifiziertes Zahlungsterminal mit Verbindung zu einem Zahlungsdienstleister. Damit ist man bekannt und nicht mehr anonym. Alle Transaktionen sind nachvollziehbar, betrügerische Versuche werden umgehend zurück abgewickelt. Der Aufwand aus Sicht des Betrügers steht in keinem Verhältnis zum möglichen Ertrag.
@@ -14,6 +14,7 @@ Bei kontaktlosen Chips/Karten gilt:
 
 
 
+###
 
 Worauf muss ich beim optischen TAN-Verfahren achten?
 
@@ -23,6 +24,7 @@ Wenn Sie z.B. eine Rechnung bezahlen, vergleichen Sie die Bankverbindung des Emp
 
 Mehr in unseren Sicherheitshinweisen
 
+###
 
 Wie oft soll ich meine PIN ändern?
 
@@ -30,6 +32,7 @@ Wir empfehlen, die PIN regelmäßig zu ändern, z.B. einmal im Monat. Unbedingt 
 
 Die PIN ändern Sie im Online-Banking unter: Banking --> Service & Verwaltung --> Online-Banking-Zugang --> PIN ändern
 
+###
 
 Wie erstelle ich eine sichere PIN?
 
@@ -41,6 +44,7 @@ Weitere Hinweise erhalten Sie auch direkt bei der Vergabe Ihrer Onlinebanking PI
 
 Die PIN ändern Sie im Online-Banking unter: Banking --> Service & Verwaltung --> Online-Banking-Zugang --> PIN ändern
 
+###
 
 
 Was ist das sicherste Onlinebanking-Verfahren der GLS Bank?
@@ -53,6 +57,7 @@ Ein Sicherheitsgewinn, unabhängig vom Verfahren, ist jedoch der Einsatz einer Z
 
 Achten Sie auch auf ein immer aktuelles Betriebssystem inkl. Sicherheitssoftware.
 
+###
 
 
 Schadprogramme auf dem Rechner? Was soll ich tun?
@@ -66,3 +71,4 @@ Recherchieren Sie die Art der "Infektion" und lassen Sie diese - wenn möglich -
 Erstellen Sie regelmäßig Datensicherungen (Backups), prüfen Sie Ihren Rechner auf Aktualität aller installierten Programme und nutzen Sie einen aktuellen Virenscanner.
 
 Mehr in unseren Sicherheitshinweisen
+###

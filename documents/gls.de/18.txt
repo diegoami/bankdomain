@@ -1,4 +1,4 @@
-
+###
 Wie kann ich mich legitimieren?
 
 Bei der Deutschen Post können Sie zwischen drei Verfahren wählen:
@@ -7,7 +7,7 @@ Postident, Video-Ident und Identifikation mit dem neuen Personalausweis mit Chip
 
 Ausführliche Informationen finden Sie auf unserer Seite Identverfahren oder im Identportal der Post.
 
-
+###
 
 Wie funktioniert das Video-Ident-Verfahren?
 
@@ -17,7 +17,7 @@ Für  das Video-Ident Verfahren benötigen Sie ein/en PC, Notebook, Smartphone o
 
 Zusammen mit unserem GLS Kontowechselservice wird ein Bankwechsel kinderleicht.
 
-
+###
 Wie funktioniert das Postident-Verfahren?
 
 Beim klassischen Postident-Verfahren laden Sie sich den Postident-Coupon aus dem Identportal der Post. herunter. Legen Sie das ausgefüllte Formular zusammen mit Ihrem gültigen Personalausweis oder Ihrem Reisepass (in diesem Fall bitte auch eine Meldebescheinigung mitbringen) in einer Filiale der Deutschen Post AG vor. Die Mitarbeiterinnen und Mitarbeiter der Deutschen Post AG leiten dann die Identitätsfeststellung zusammen mit den Kontoeröffnungsunterlagen an uns weiter. Ihnen entstehen dadurch keine Kosten.
@@ -25,14 +25,14 @@ Beim klassischen Postident-Verfahren laden Sie sich den Postident-Coupon aus dem
 Mit unserem GLS Kontowechselservice wird ein Bankwechsel kinderleicht.
 
 
-
+###
 Wie legitimiere ich mich, wenn ich nicht in Deutschland wohne?
 
 Wenn Sie nicht in Deutschland wohnen, verwenden Sie bitte eines der folgenden Formulare Legitimation innerhalb der EU bzw. Legitimation außerhalb der EU. Die Legitimationtsprüfung können Sie bei einem Kreditinstitut vor Ort, einem Rechtsanwalt oder Notar durchführen lassen.
 
 Mit unserem GLS Kontowechselservice wird ein Bankwechsel kinderleicht.
 
-
+###
 
 Kann ich ein Konto für einen Minderjährigen eröffnen?
 
@@ -42,7 +42,7 @@ Wir klären alle Fragen, erstellen die notwendigen Unterlagen für die Kontoerö
 Das kostenlose GLS Starterkonto (Girokonto) für Jugendliche, Schüler und Auszubildende zwischen 14 und 17 Jahren kann über unsere Website eröffnet werden.
 Mehr Informationen zum [GLS Starterkonto]
 
-
+###
 
 Kann ich auch mit Wohnsitz im Ausland ein GLS-Konto eröffnen?
 
@@ -53,3 +53,4 @@ Rufen Sie uns bitte an, wir erfassen dann alle Daten für die Kontoeröffnung un
 Sie erreichen uns unter +49 234 5797 100, montags bis donnerstags von 8.30 bis 19.00 Uhr sowie freitags von 8.30 bis 16.00 Uhr.
 
 Informationen zum Thema Sparen für Privatkundinnen und Privatkunden.
+###

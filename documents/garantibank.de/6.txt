@@ -1,19 +1,20 @@
-Ist mein Geld sicher?
+###
+Ist mein Geld in einer Sparanlage sicher?
 
 Ja! Die Spareinlagen sind über den Niederländischen Einlagensicherungsfonds bis zu 100.000 € pro Person abgesichert.
-
+###
 Was ist ein Garantiesystem / Einlagensicherungsfonds?
 
 Die Einlagensicherung beinhaltet zusammengefasst Folgendes: sollte die Bank ihren finanziellen Verpflichtungen nicht mehr nachkommen können (z.B. im Falle einer Insolvenz), werden den Kontoinhabern die ersten EUR 100.000,- Ihrer Guthaben auf Ihren Sparkonten und Festgeldanlagen garantiert.
-
+###
 
 Welcher Betrag wird durch den Einlagensicherungsfonds garantiert?
 
 Das Garantiesystem garantiert einen Betrag von höchstens € 100.000,- pro Person pro Institut (ungeachtet der Anzahl der Konten) ohne Selbstbehalt. Die Vergütung, die man aufgrund des Garantiesystems erhalten kann, beträgt demnach niemals mehr als € 100.000,- pro Person. Bei einem Gemeinschaftskonto beläuft sich der Höchstbetrag auf € 200.000,-.
-
+###
 Für wen gilt das Garantiesystem?
 Das Garantiesystem gilt sowohl für Privatpersonen als auch für kleinere Unternehmen, die eine verkürzte Bilanz erstellen dürfen. Finanzeinrichtungen und Behörden sind hiervon ausgenommen.
-
+###
 Welche Produkte fallen unter das Garantiesystem?
 
 Bei der GarantiBank International N.V. fallen folgende Produkte unter das Garantiesystem:
@@ -21,3 +22,4 @@ Bei der GarantiBank International N.V. fallen folgende Produkte unter das Garant
 Kleeblatt-Sparkonto
 
 Kleeblatt-Festgeldanlage
+###

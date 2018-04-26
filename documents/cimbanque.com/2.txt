@@ -1,14 +1,17 @@
-
+###
     Wie lade ich meine Prepaid-Karte auf?
 
     Travel Cash- und Visa/MasterCard-Prepaid-Karten können via E-Banking der CIM Bank aufgeladen werden. Wenn Sie keinen Zugang zum E-Banking haben oder Sie vorübergehend nicht auf das E-Banking zugreifen können, können Sie sich auch direkt per E-Mail oder telefonisch mit Ihrem Relationship Manager in Verbindung setzen, um Ihre Karte aufzuladen.
+ ###
     Wie hoch sind die Mindest- bzw. Maximalbeträge, mit denen die Prepaid-Karten aufgeladen werden können?
 
     Mindestbetrag: 100 CHF/EUR/USD.
     Maximalbetrag: 10'000 EUR/USD/CHF.
     Jährlicher Maximalbetrag: 100'000 EUR/USD/CHF.
+ ###
     Welche Gebühren werden bei der Aufladung der Prepaid-Karten fällig?
 
     Sämtliche Tarife und Gebühren für Prepaid-Karten finden Sie auf der folgenden Seite: Vergleich der Kartentarife.
 
     Bei einer manuellen Aufladung durch die CIM Bank werden zusätzliche Gebühren erhoben.
+###

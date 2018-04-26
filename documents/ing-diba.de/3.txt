@@ -1,4 +1,4 @@
-
+###
 Wie mache ich eine (SEPA)-Überweisung?
 
 Klicken Sie einfach im Internetbanking auf Ihr Girokonto > Überweisung.
@@ -13,18 +13,20 @@ Für die SEPA-Überweisung brauchen Sie:
 So überweisen Sie Geld innerhalb Deutschlands, der Europäischen Union, des Europäischen Wirtschaftsraums oder in die Schweiz (in Euro).
 
 Falls Sie mal nicht online sind, können Sie telefonisch Überweisungsträger bestellen oder die Überweisung bei unseren Kundenbetreuern beauftragen. Aufträge per Fax nehmen wir nicht an.
-
+###
 Gibt es Höchstbeträge für Überweisungen?
 
 Wenn Sie Geld innerhalb Deutschlands überweisen möchten, gibt es keinen Höchstbetrag. Bei Überweisungen außerhalb Deutschlands müssen Sie bei Beträgen größer 12.500 Euro die Meldung im Außenwirtschaftsverkehr beachten.
+###
 Wie überweise ich Geld ins Ausland?
 
 Kurz vorweg: Überweisungen innerhalb der Europäischen Währungsunion Europas sind SEPA-Überweisungen und sind genauso schnell, wie Überweisungen innerhalb Deutschlands.
+
 Wenn Sie Geld in Länder überweisen, die nicht zur Europäischen Währungsunion gehören, ist das eine echte Auslandsüberweisung und es gibt ein paar Dinge zu beachten:
 
     Keine Daueraufträge
     Im Internetbanking nur mit mTAN oder Banking to go
-
+###
 Wie funktioniert eine Auslandsüberweisung?
 
 Wählen Sie im Internetbanking Ihr Girokonto aus und dann „Auslandsüberweisung“. Nun brauchen Sie ein paar Daten, die Sie am besten schon vorher vom Zahlungsempfänger bekommen haben:
@@ -39,6 +41,7 @@ Wählen Sie im Internetbanking Ihr Girokonto aus und dann „Auslandsüberweisun
 Möchten Sie Ihre Auslandsüberweisung schriftlich beauftragen, nutzen Sie bitte das Formular Auslandsüberweisung (PDF, 928 KB). Schicken Sie den Auftrag an die ING-DiBa AG, 60628 Frankfurt am Main. Aufträge per Fax oder über den Dokument-Upload im Internetbanking nehmen wir nicht an.
 
 Bitte beachten Sie die Pflicht zur gesonderten Meldung gemäß Außenwirtschaftsverordnung. Bei Rückfragen wenden Sie sich bitte an die Hotline der Deutschen Bundesbank: 0800 / 1234 111 (entgeltfrei, nur aus dem deutschen Festnetz erreichbar) oder per E-Mail an statistik-s21@bundesbank.de. Weitere Informationen zum Meldewesen im Außenwirtschaftsverkehr erhalten Sie auch auf den Internetseiten der Bundesbank.
+###
 Kann ich Geld aus dem Ausland überwiesen bekommen?
 
 Ja, andere Personen können Ihnen Geld aus dem Ausland überweisen. Damit das funktioniert, geben Sie dem Zahlungssender bitte diese Informationen:
@@ -49,7 +52,8 @@ Ja, andere Personen können Ihnen Geld aus dem Ausland überweisen. Damit das fu
     Verwendungszweck – den können Sie frei wählen
 
 Wichtig für Sie: Abhängig von der Währung und der gewählten Überweisungsart können bei einer Auslandsüberweisung auch Ihnen Kosten entstehen, obwohl Sie die Zahlung nur empfangen. Am besten klären Sie das vorher mit der Person ab, die Ihnen Geld überweisen möchte. Die verschiedenen Varianten und Kosten finden Sie hier.
-Was ist mit Lastschriften?
+###
+Was ist mit Lastschriften ins Ausland?
 
 Wenn jemand Geld von Ihrem Girokonto abbuchen soll, erteilen Sie ihm einfach ein SEPA-Lastschriftmandat. Früher hieß so etwas mal „Einzugsermächtigung“.
 
@@ -58,13 +62,16 @@ Um einer Abbuchung zu widersprechen, haben Sie nach der Belastung Ihres Girokont
 Um eine einzelne Lastschrift zu sperren, erteilen Sie uns den Auftrag schriftlich. Bitte geben Sie in Ihrem Auftrag die IBAN, die Gläubiger-ID und/oder das Mandat an.
 
 Möchten Sie sämtliche Lastschrifteinzüge sperren: Rufen Sie bitte unsere Kundenbetreuer an. Halten Sie Ihre Zugangsnummer (die letzten 10 Stellen Ihrer IBAN) und Ihre Telebanking PIN bereit.
+###
 Wie lauten meine IBAN und mein BIC?
 
 Ihre persönliche, 22-stellige IBAN finden Sie im Internetbanking auf der Startseite und rechts oben auf den Kontoauszügen Ihres Girokontos.
 
 Der BIC ist unsere international gültige Bankleitzahl und für alle Kunden der ING-DiBa gleich. Er lautet: INGDDEFFXXX.
+###
 Was bedeutet Meldepflicht gemäß Außenwirtschaftsverordnung (AWV)?
 
 Bitte beachten Sie die Pflicht zur gesonderten Meldung gemäß Außenwirtschaftsverordnung. Bei Rückfragen wenden Sie sich bitte an die Hotline der Deutschen Bundesbank: 0800 / 1234 111 (entgeltfrei, nur aus dem deutschen Festnetz erreichbar) oder per E-Mail an statistik-s21@bundesbank.de.
 
 Weitere Informationen zum Meldewesen im Außenwirtschaftsverkehr erhalten Sie auch auf den Internetseiten der Bundesbank.
+###

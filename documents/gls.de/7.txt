@@ -1,8 +1,8 @@
-
+###
 Wer kann eine Finanzierung auf der Grundlage der Kostendeckungsumlage (KDU) beantragen?
 
 Einen Kredit zu KDU Konditionen können steuerlich anerkannte gemeinnützige Gesellschaften und Vereine beantrage
-
+###
 
 
 Welche Unterlagen werden benötigt bei Projekt- und Unternehmensfinanzierungen?
@@ -10,21 +10,22 @@ Welche Unterlagen werden benötigt bei Projekt- und Unternehmensfinanzierungen?
 Zu einzelnen Branchen gibt es Checklisten. Diese finden Sie im Formular- und Infocenter. Wählen Sie dort die Kategorie "Finanzierung" und das Thema "Checkliste" aus. Gerne beantworten die Mitarbeiterinnen und Mitarbeiter unseres Kundendialogs Ihre Fragen auch telefonisch, Telefon +49 (0) 234 57 97 300.
 
 
-
+###
 Was unterscheidet Projektfinanzierungen im Bereich Energien von anderen Finanzierungen?
 
 Erneuerbare Energie Projekte ab einem Fremdfinanzierungsvolumen von 100.000 Euro gelten bei uns als "selbsttragend", da die Projektfinanzierung allein auf die Kapitaldienstfähigkeit des Projektes abgestellt ist.
 
 Wir finanzieren aber auch unter einem Fremdfinanzierungsvolumen von 100.000 Euro. Dann treffen wir aber die Kreditentscheidung allein auf der Grundlage der Kapitaldienstfähigkeit und Bonität des Anlagenbetreibers.
 
-
+###
 Wie lange dauert es bis zur Kreditentscheidung / Auszahlung?
 
 Bei größeren Projekten benötigen wir je nach Aufwand zwischen vier bis acht Wochen bis zur Kreditentscheidung. Diese können wir als GLS Bank erst fällen, wenn alle nötigen Projektunterlagen vorliegen. Die Auszahlung ist an die Sicherheitenstellung und individuell vereinbarte Voraussetzungen geknüpft. Erst nach deren Erfüllung sowie vorrangigem Eigenkapitaleinsatz können wir eine Auszahlung vornehmen.
 
-
+###
 Wie viel Eigenkapital ist bei der Finanzierung von Energie-Projekten erforderlich?
 
 Der Eigenkapitalanteil bei Erneuerbaren Energie Projekten hängt von der Kapitaldienstdeckung des einzelnen Projektes ab. Hierfür führen wir eine Cashflow basierte Wirtschaftlichkeitsanalyse durch. Daher kann der einzusetzende Eigenkapitalanteil stark variieren.
 
 Wir berücksichtigen neben Verfügbarkeits- und Sicherheitsabschlag auf den Ertrag u.a. folgende Betriebskosten: Wartung, Instandhaltung, technische und kaufmännische Betriebsführung, Versicherungen, Steuerberatung/Jahresabschluss, Komplementärvergütung, Pacht, Steuern und Rückbaurückstellungen.
+###

@@ -1,3 +1,4 @@
+###
 
 Kann ich meine GLS BankCard fürs Ausland sperren?
 
@@ -7,11 +8,13 @@ Onlinebanking => Service&Verwaltung => Sperren => Karten für das Ausland sperre
 
 Bitte denken Sie vor einer Reise ins Ausland daran, die Karte rechtzeitig wieder zu entsperren.
 
+###
 
 Wie sicher ist Bezahlen mit paydirekt?
 
 Die Grundlage für das Bezahlen mit paydirekt ist Ihr GLS Girokonto. So können wir Sicherheit, Datenschutz und Transparenz der Bezahlvorgänge garantieren, so wie Sie es bisher von uns gewohnt sind.
 
+###
 
 Wie funktioniert paydirekt?
 
@@ -20,6 +23,7 @@ Paydirekt steht Ihnen in ausgewählten Online-Shops zur Verfügung.
 Nach Ihrem Einkauf wählen Sie paydirekt als Bezahloption aus.
 Anschließend geben Sie Ihren Benutzernamen oder Ihre E-Mail-Adresse und Ihr Passwort ein.
 Danach erhalten Sie eine Bestätigung Ihres Einkaufs und der Betrag wird direkt von Ihrem GLS Girokonto abgebucht.
+###
 
 
 Was kostet paydirekt beim Einkaufen?
@@ -27,6 +31,7 @@ Was kostet paydirekt beim Einkaufen?
 Beim Bezahlen mit paydirekt entstehen keine weiteren Kosten. Es gelten die mit uns vereinbarten Konditionen.
 
 
+###
 
 Was ist paydirekt?
 
@@ -38,7 +43,9 @@ Der große Vorteil von paydirekt gegenüber bestehenden Bezahlsystemen im Intern
     Ihre Kontodaten gelangen nicht zum Händler
     Server und Datenströme laufen ausschließlich in Deutschland
 
+###
 
 Gibt es Sparpläne für den GLS AI – Mikrofinanzfonds?
 
 Nein, Sparpläne sind derzeit nicht möglich.
+###

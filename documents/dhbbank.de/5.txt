@@ -1,12 +1,14 @@
+###
 Kann ich eine Transaktion annullieren, wenn ich meine Meinung ändern sollte?
 Um eine Transaktion zu beenden, werden Sie zweimal gebeten, diese zu bestätigen. Sollten Sie Ihre Meinung vor der zweiten Bestätigung ändern, können Sie die gesamte Transaktion jederzeit abbrechen. Wenn Sie jedoch das zweite Mal bestätigt haben, wird die Transaktion wirksam.
-
+###
 Was geschieht, wenn ich mein Passwort vergesse?
 Kontaktieren Sie in diesem Fall unser Service Center.
-
+###
 Wie kann ich in Erfahrung bringen, ob meine Transaktionen durchgeführt wurden, wenn mein Computer abstürzt oder meine Verbindung mit dem Internet unterbrochen wird?
 Sie müssen sich erneut anmelden, um Ihren Kontosaldo zu überprüfen, oder die Transaktion neu eingeben, falls dieses erforderlich ist. Wenn Sie jedoch Zweifel oder Fragen haben, kontaktieren Sie unser Service Center.
 Sie können sicher sein, dass jede Transaktion, für die Sie eine Bestätigung erhalten, auch ausgeführt wird. Wenn mitten in Ihrer Finanztransaktion ein Systemfehler auftritt und Sie Ihre Bestätigung noch nicht erhalten haben, sollten Sie die Zahlungen und Überweisungen überprüfen, die noch bearbeitet werden, nachdem das System wieder hochgefahren wurde. Wenn Sie Ihre Transaktion nicht finden, müssen Sie diese neu eingeben.
-
+###
 Meldet das System sich ab, wenn das Auszeit-Limit erreicht ist, auch wenn ich die Transaktionen nicht beendet habe?
 Nach 15 Minuten Inaktivität werden Sie automatisch abgemeldet, um einen unautorisierten Zugriff auf Ihr Konto zu verhindern. Nicht abgeschlossene Transaktionen werden somit abgebrochen.
+###

@@ -1,15 +1,16 @@
-Kann ich mehr bezahlen?
+###
+Kann ich mehr bezahlen, um meinen Saldo vorzeitig auszugleichen?
 
 Ja. Du hast die Möglichkeit Sondertilgungen zu veranlassen. Du kannst, so oft Du möchtest und in beliebiger Höhe, Zahlungen vornehmen.
-
+###
 Was ist der PLUS Schutz?
 
 Weitere Informationen findest Du hier.
-
+###
 Wer steht hinter der IKEA FAMILY Bezahlkarte?
 
 Die Ikano Bank ist eine Tochter der internationalen Unternehmensgruppe Ikano, deren Hauptgeschäftsfelder neben Finanzdienstleistungen die Bereiche Immobilien, Versicherungen, Vermögensverwaltung und Einzelhandel sind. 1988 wurde Ikano zu einem unabhängigen Konzern, der zum Eigentum der Familie Kamprad gehört. Ingvar Kamprad ist der Gründer von IKEA. Als Spezialist für Services wie Kundenkarten, Kreditkarten und Privatkredite ist die Ikano Bank erfolgreich in vielen Ländern präsent: in Deutschland, Österreich, Schweden, Dänemark, Norwegen, Finnland, Großbritannien, Russland und Polen. In Deutschland hat die Ikano Bank ihren Sitz in Wiesbaden.
-
+###
 Wo kann ich meine IKEA FAMILY Bezahlkarte einsetzen?
 
     Für Einkäufe bei IKEA und bei weiteren Akzeptanzstellen, wie zum Beispiel H&M, Deichmann, JET Tankstellen, ROLAND Schuhe, Sportarena, Media Markt, Saturn, Thalia, real,- und GALERIA Kaufhof
@@ -17,27 +18,28 @@ Wo kann ich meine IKEA FAMILY Bezahlkarte einsetzen?
     Für einen kostenlosen Kaffee im IKEA Restaurant
     Für Lieferungen und Montagen Ihrer IKEA Einkäufe
     Für ganz viele IKEA FAMILY Vorteile
-
-Kann ich meinen Saldo vorzeitig ausgleichen?
+###
+Kann ich meinen Saldo der IKEA FAMILY Bezahlkarte vorzeitig ausgleichen?
 
  Ja. Du kannst den Saldo der IKEA FAMILY Bezahlkarte jederzeit ausgleichen. Dieser Service ist für Dich kostenfrei.
-
-Wann wird abgebucht?
+###
+Wann wird von der IKEA FAMILY Bezahlkarte abgebucht?
 
 Der Abbuchungstermin für Deine IKEA FAMILY Bezahlkarte ist immer der 5. des Folgemonats. Sollte dieser Tag auf ein Wochenende oder einen Feiertag fallen, dann wird Deine Rate zum nächsten Banktag abgebucht.
-
+###
 Was ist PostIdent?
 
 Das PostIdent-Verfahren ist eine Methode der sicheren persönlichen Identifikation von Personen, die durch die Mitarbeiter der Deutschen Post AG vorgenommen wird. Wir als Bank sind verpflichtet die Identität unserer Kunden bei der Kontoeröffnung festzustellen. Dir entstehen hierbei natürlich keinerlei Kosten.
-
+###
 Wie kann ich meine Stammdaten (Adresse, Bankverbindung etc.) ändern?
 
 Für die Änderung Deiner Stammdaten bedarf es der Schriftform. Hier kannst Du das Änderungsformular herunterladen und gleich bequem am PC ausfüllen. Bitte vergiss nicht, das Formular zu unterschreiben, bevor Du es an die Ikano Bank per Fax oder Post zuschicken.
 
 Bei einer Namensänderung wird neben des unterschriebenen Formulars auch eine Kopie des neues Lichtbildausweises oder einer Heiratsurkunde mit neuer Unterschrift benötigt.
-
+###
 Wo bekomme ich eine PIN zur Bargeldabhebung?
 
 Du kannst Deine PIN im IKEA Einrichtungshaus oder telefonisch bei der Ikano Bank AB (publ), Zweigniederlassung Deutschland beantragen. Nach wenigen Tagen bekommst Du die PIN an die von Dir hinterlegte Adresse geschickt.
 
 Einkäufe bei IKEA sowie bei weiteren Akzeptanzstellen kannst Du natürlich weiterhin ohne PIN tätigen.
+###

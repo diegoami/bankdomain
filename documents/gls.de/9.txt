@@ -1,14 +1,14 @@
-
+###
 Wie funktioniert kontaktloses Bezahlen mit NFC technisch?
 
 NFC ist eine drahtlose Technologie auf Induktionsbasis. Ein Smartphone als Initiator baut ein elektromagnetisches Feld auf. Die Karte selbst funkt nicht aktiv, sondern verändert nur den Schwingkreis des Feldes. Das elektromagnetische Feld, das mit einem Smartphone aufgebaut werden kann, liegt bei 13,56 MHz, was einer Reichweite von 5-10 cm entspricht. Diesen Wert unterschreiten die meisten Geräte deutlich. Bei einem Kassenterminal liegt er unter 4 cm. Ein Smartphone schafft in den seltensten Fällen mehr als 2 cm. Dies kann jeder selbst testen. Die App heißt "Scheckkartenleser". Damit ist es möglich ist, eine Karte durch das direkte Anlegen an das Smartphone auszulesen. Sobald die Karte im Portemonnaie verschwindet, wird dies deutlich schwieriger, da schon wenig Kleingeld ausreicht um den Funkverkehr zu stören.
-
+###
 Hartnäckig hält sich die Mär, dass es möglich wäre unbemerkte Abbuchungen vorzunehmen. Was ist dran?
 
 Um von einer kontaktlosen Karte etwas abzubuchen, benötigt man ein zertifiziertes Zahlungsterminal mit Verbindung zu einem Zahlungsdienstleister. Damit ist man bekannt und nicht mehr in der Anonymität. Alle Transaktionen sind nachvollziehbar und betrügerische Versuche werden umgehend zurück abgewickelt. Der Aufwand aus Sicht des Betrügers steht auch in keinem Verhältnis zum möglichen Ertrag!
 
 
-
+###
 Woran erkenne ich eine Kontaktlos-Karte?
 
 Die GLS Bank bieten Ihnen einen neuen, komfortablen Service: das kontaktlose Bezahlen mit Ihrer Bankcard oder Kreditkarte. Dieses neue Verfahren ist einfach, schnell und sicher.
@@ -19,23 +19,23 @@ Ob Ihre Karte das kontaktlose Bezahlen unterstützt, erkennen Sie an folgendem S
 
 Trägt Ihre Karte das Wellensymbol, können Sie damit kontaktlos bezahlen. Der eigentliche Bezahlvorgang ist einfach: Sie halten Ihre Bankcard oder Kreditkarte mit Kontaktlosfunktion (auch NFC genannt) an das Bezahlterminal, wo Sie das Kontaktlossymbol sehen. Bis 25 Euro kann ggf. die PIN entfallen. Am Bezahlterminal wird dann die erfolgreiche Bezahlung angezeigt. Das Symbol kann sich auf der Vorder oder Rückseite Ihrer Karte befinden.
 
-
+###
 Wie kann ich mein BankCard Limit ändern?
 
 Ihr BankCard Limit können Sie schriftlich ändern. Bitte benutzen Sie dazu unser Formular.
 
-
+###
 Wann findet die Abrechnung meiner Kreditkarte (MasterCard) statt?
 
 Die Abrechnung erfolgt immer zum Monatsende. Darin enthalten sind alle Zahlungen, die bis zum 18. des Monats getätigt wurden.
 
-
+###
 
 Meine Karte ist nach falscher PIN Eingabe gesperrt.
 
 Wurde die Karte gesperrt, weil Sie zu häufig (drei Mal) die falsche PIN eingegeben haben, genügt zum Entsperren ein Anruf bei uns, +49 234 5797 100, und eine darauf folgende Geldabhebung am Automaten.
 
-
+###
 Wie lade ich meine GLS VISA BasicCard mit Guthaben auf?
 
 Sie können Ihre GLS VISA BasicCard bequem per Überweisung oder Dauerauftrag bis zu einem Gesamtguthaben von 2.000 Euro aufladen.
@@ -49,7 +49,7 @@ Wichtig ist, dass Sie im Verwendungszweck der Überweisung ausschließlich Ihre 
 
 Das Geld wird regelmäßig taggleich gutgeschrieben. Am Wochenende und an Feiertagen können Sie Umbuchungen in Auftrag geben. Sie können allerdings erst am nächsten Bankarbeitstag darüber verfügen.
 
-
+###
 
 Wie kann ich meine GLS BankCard entsperren lassen?
 
@@ -68,7 +68,7 @@ Sie können dazu auch das folgende PDF-Dokument nutzen und uns per E-Mail zusend
 
 Wurde der sogenannte Fehlbedienungszähler ausgereizt, zum Beispiel drei Mal eine falsche PIN-Nummer eingegeben, genügt ein Anruf bei uns und eine darauf folgende Geldabhebung am Automaten.
 
-
+###
 
 
 Kann ich die GLS BankCard im Ausland einsetzen?
@@ -79,12 +79,12 @@ Bitte benutzen Sie zur Bargeldabhebung die Geldautomaten mit dem Maestro Kennzei
 
 Die Kosten für das Abheben von Bargeld im Ausland finden Sie in unserem Preis- und Leistungsverzeichnis.
 
+###
 
-
-Wie kann ich meine Karte sperren lassen?
+Wie kann ich meine GLS BankCard sperren lassen?
 
 Über die Sperr-Hotline +49 116 116 oder im Onlinebanking im Bereich "Service & Verwaltung".
-
+###
 
 Wie kann ich meine PIN bei der GLS BankCard ändern?
 
@@ -92,7 +92,7 @@ Ihre PIN können Sie an einem Volksbank Geldautomaten ändern. Wählen Sie dazu 
 
 Den nächsten Geldautomaten im Volks- und Raiffeisenverbund finden Sie ganz einfach mit unserer Geldautomatensuche.
 
-
+###
 
 Wie erhalte ich eine neue GLS BankCard?
 
@@ -102,6 +102,7 @@ Oder rufen Sie uns an: Telefon + 49 234 5797 100
 
 Bitte beachten Sie, dass für eine Ersatzkarte Gebühren anfallen.
 
+###
 
 Wie viel Bargeld kann ich maximal am Geldautomaten abheben?
 
@@ -109,6 +110,7 @@ Das Tages- bzw. Wochenlimit der GLS BankCard beträgt in der Regel 2.500 Euro. S
 
 Bitte beachten Sie, dass Geldautomaten auch ein eigenes Limit besitzen. Dieses liegt in der Regel bei 500 bis 1.000 Euro. Hier können Sie den Abhebevorgang mehrfach wiederholen bis das Tages- bzw. Wochenlimit Ihrer GLS BankCard erreicht ist.
 
+###
 
 Wie erhalte ich eine Kontaktlos-Karte?
 
@@ -118,21 +120,25 @@ Gerne statten wir Sie schon vor Ablauf Ihrer aktuellen Karte mit einer Kontaktlo
 Rufen Sie uns an, +49 234 5797 100, und bestellen Sie Ihre neue Karte.
 
 
+###
 
 Wie erhalte ich eine Kontaktlos-VisaCard?
 
 Ende 2017 soll es die VisaCard mit Kontaktlosfunktion geben. Bei Laufzeitende senden wir Ihnen ab diesem Zeitpunkt dann automatisch und kostenfrei eine Folgekarte mit dieser Funktion zu.
 
+###
 
 
 Wie deaktiviere ich die Kontaktlos-Funktion?
 
 Ganz einfach an einen Geldautomaten der Volks- und Raiffeisenbank. Führen Sie die Karte in den Geldautomaten ein. Im Hauptmenü finden Sie den Punkt "weitere Funktionen" und können damit die "NFC" Funktion Ihrer GLS BankCard deaktivieren.
 
+###
 
 Ab wann und wo funktioniert kontaktloses Bezahlen?
 
 Im Laufe des Jahres 2018 werden im Handel immer mehr Unternehmen kontaktloses Bezahlen akzeptieren.
+###
 
 
 Ist kontaktloses Bezahlen sicher?
@@ -146,7 +152,9 @@ Als weitere Schutzmaßnahme ist der Höchstbetrag zum mehrmaligen, kontaktlosen 
 
 Wichtig: Der Name des Karteninhabers / der Karteninhaberin und weitere personenbezogene Informationen wie Geburtsdatum oder Adresse sind nicht im Chip gespeichert.
 
+###
 
 Hat die BankCard eine Geldkartenfunktion?
 
 Nein. Die GLS BankCard wird ohne Geldkartenfunktion ausgegeben.
+###

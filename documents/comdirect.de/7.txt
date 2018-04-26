@@ -1,7 +1,8 @@
+###
  Was ist eine Trailing-Stop-Order?
 
     Mit dem Trailing Stop können Sie Ihre Orders kontinuierlich an den Kursverlauf anpassen lassen. Hierbei geben Sie eine Limitorder auf, welche Sie zusätzlich mit einem Abstandsparameter/Differenzwert in Euro oder Prozent versehen. Bei einer Verkaufsorder (Trailing-Stop-Loss) liegt Ihr Limit unter dem aktuellen Kurs des Wertpapieres, bei einem Kauf (Trailing-Stop-Buy) darüber. Ihr Trailing-Stop-Limit wird in Abhängigkeit von der Kursentwicklung automatisch um den von Ihnen definierten Abstand angepasst.
-
+###
  Wo kann ich die Kosten noch mal nachlesen?
 
     Für alle ab dem 03.01.2018 online neu angelegten Orders zeigen wir Ihnen die Kosten bei Orderanlage. Nach Freigabe der Order stellen wir Ihnen die Zusammenfassung auch noch einmal zum Nachlesen in Ihrer PostBox bereit. Unsere Entgelte finden Sie zudem in unserem Preis- und Leistungsverzeichnis.
@@ -9,7 +10,7 @@
 
 
     Weitere Informationen finden Sie hier: https://www.comdirect.de/mifid
-
+###
  Was sind die Produktkosten?
 
     Produktkosten werden von Emittenten direkt mit in den Produktpreis eingerechnet. Darunter fallen Erstellungskosten, Gebühren für den Vertrieb und die Gewinnmarge. Im Vergleich zu anderen Entgelten, handelt es sich dabei um indirekte Kosten. Es sind also Kosten die innerhalb des Produkts bereits enthalten sind und somit auf Ihrer Abrechnung nicht angezeigt werden.
@@ -18,15 +19,15 @@
 
     Weitere Informationen finden Sie hier: https://www.comdirect.de/mifid
 
-
+###
 Was ist ein Stop-Loss?
 
     Sie nutzen den Orderzusatz Stop-Loss zur Absicherung Ihres Wertpapieres. Sobald ein aktueller Kurs Ihr Limit erreicht oder unterschreitet, wird Ihre Stop-Loss-Order in eine unlimitierte Order umgewandelt. Die Ausführung selbst folgt dann zum nächstmöglichen Kurs. Dieser kann höher oder niedriger als Ihr Stop-Loss-Limit sein.
-
+###
  Wie kann ich eine Trailing-Stop-Order aufgeben?
 
     Eine Trailing-Stop-Order erfassen Sie in Ihrem Persönlichen Bereich unter Order > Inlandsorder. Geben Sie zunächst Ihre Orderdetails wie bei einer Order ohne Zusätze ein. Anschließend ergänzen Sie unter dem Punkt "Optionale Orderzusätze" die Auswahl "Trailing Stop Buy / Loss" und Ihren Abstandsparameter in Euro oder Prozent. Bitte beachten Sie, dass eine Trailing-Stop-Order die Eingabe eines Limits erfordert. Alternativ stehen Ihnen unsere Kundenbetreuer für die Orderaufgabe rund um die Uhr zur Verfügung.
-
+###
     Was kostet eine Inlandsorder?
 
     Die Provision für eine Inlandsorder setzt sich aus einem Grundentgelt von 4,90 Euro zzgl. 0,25 % des Ordervolumens zusammen. Wir berechnen mindestens 9,90 Euro (bis 2.000 Euro Ordervolumen), maximal 59,90 Euro. Zusätzlich fällt ein börsenplatzabhängiges Entgelt an. Dieses beträgt am Börsenplatz Xetra 0,0015 %, mindestens 1,50 Euro, an den übrigen Börsen 0,0025 %, mindestens 2,50 Euro. Neben den berechneten Entgelten und Provisionen weisen wir zusätzlich fremde Kosten (wie z. B. Maklercourtage) in der Wertpapierabrechnung aus.
@@ -35,21 +36,23 @@ Was ist ein Stop-Loss?
 
     Bei Auftragserteilung per Telefon, Fax oder Post erheben wir einen Zuschlag von 14,90 Euro.
 
-
+###
 Was kostet mich eine Trailing-Stop-Order?
 
     Für eine Trailing-Stop-Order berechnen wir keine zusätzlichen Entgelte. Sie zahlen die übliche Orderprovision gemäß unserem Preis- und Leistungsverzeichnis.
 
-
+###
 Zu den Kosteninformation: Handelt es sich um neue Kosten im Wertpapiergeschäft?
 
     Die Kauf- und Verkaufskosten sind identisch zu den in unserem Preis- und Leistungsverzeichnis ausgewiesenen Kosten, sie werden jetzt nur auf die vom Gesetzgeber vorgeschriebene Weise dargestellt.
 
-
+###
 Was beinhaltet der Verlustschwellenreport?
 
     Der Verlustschwellenreport wird bei kreditbesicherten Depots, Depots mit Hebelprodukten oder Depots unseres Vermögensverwaltungsangebots „Wir für Sie“ erstellt, wenn gegenüber dem Einstandskurs ein Kursrückgang von  10 % oder einem Vielfachen hiervon festgestellt wurde. Der Report wird Ihnen am Folgetag in der PostBox bereitgestellt bzw. per Post verschickt.
-
+###
 Was ist ein Stop-Buy?
 
     Sie verwenden den Orderzusatz Stop-Buy, um von einer Aufwärtsbewegung der Kurse zu profitieren. Sobald ein aktueller Kurs dieses Limit erreicht oder überschreitet, wird die Stop-Buy-Order in eine unlimitierte Order umgewandelt. Die Ausführung selbst erfolgt dann zum nächstmöglichen Kurs. Dieser kann höher oder niedriger als Ihr Stop-Buy-Limit sein.
+
+###

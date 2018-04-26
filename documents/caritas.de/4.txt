@@ -1,10 +1,12 @@
+###
 Ich habe Kleidung für 150 Euro gekauft. Weil ich nicht gleich zahlen konnte, erhielt ich Mahnungen. Jetzt soll ich 200 Euro zahlen. Ist das rechtens?
 
 Wenn Sie später als vereinbart bezahlen, kann der Vertragspartner (Gläubiger) unter bestimmten Voraussetzungen von Ihnen Schadenersatz, den sogenannten Verzugsschaden, verlangen.
-
+###
 Was heißt "fällige Forderung"?
-Die Fälligkeit ist der Zeitpunkt, ab dem der Gläubiger vom Schuldner verlangen kann, seine Forderung zu bezahlen. Der Zeitpunkt kann sich aus dem Vertrag oder einem Vermerk auf der Rechnung ergeben.
 
+Die Fälligkeit ist der Zeitpunkt, ab dem der Gläubiger vom Schuldner verlangen kann, seine Forderung zu bezahlen. Der Zeitpunkt kann sich aus dem Vertrag oder einem Vermerk auf der Rechnung ergeben.
+###
 Was heißt "Zahlungsverzug"?
 
 Die häufigsten Voraussetzungen für den Zahlungsverzug sind:
@@ -17,7 +19,7 @@ Verzug ohne Mahnung:
 
     Es wird durch ein Kalenderdatum (Vertrag - zum Beispiel Mietvertrag - oder Rechnung) bestimmt, bis wann die Forderung vom Schuldner zu begleichen ist. Zahlt der Schuldner nicht pünktlich, befindet er sich ab dem Tag im Zahlungsverzug, der auf den letzten Tag der Zahlungsfrist folgt. Geht zum Beispiel die Zahlungsfrist bis 03.06., befindet sich der Schuldner ab dem 04.06. in Zahlungsverzug.
     Wenn der Schuldner mit der Rechnung auf die Fälligkeit der Zahlung hingewiesen wurde, kommt er ohne Mahnung spätestens 30 Tage nach Zugang der Rechnung in Verzug.
-
+###
 Was darf als Verzugsschaden berechnet werden?
 
 Typische Kosten sind:
@@ -30,6 +32,7 @@ Typische Kosten sind:
     Kosten für einen beauftragten Rechtsanwalt
     unter Umständen die Kosten für einen beauftragten Inkassodienst
     Gerichtskosten für Mahn- und Vollstreckungsbescheid
-
+###
 Wie hoch dürfen die Verzugszinsen sein?
 Der Zinssatz für Verbraucher liegt 5 % über dem Basiszinssatz Symbol für externen Link(Bundesbank) . Der Basiszinssatz wird jeweils zum 01.01. sowie zum 01.07. eines Jahres an den Markt angepasst. Ein höherer Zinssatz kann sich aus vertraglichen Vereinbarungen ergeben, oder der Gläubiger kann nachweisen, dass sein Verzugsschaden höher ist.
+###

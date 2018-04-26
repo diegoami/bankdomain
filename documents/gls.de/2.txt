@@ -1,36 +1,36 @@
-
+###
 Wie funktioniert der Kontowechselservice beim Girokonto?
 
 Mit unserem kostenlosen „GLS Kontowechselservice“ können Sie bequem online alle Ihre Zahlungspartner*innen über Ihre neue Bankverbindung informieren. Über die einzelnen Schritte informiert unsere Seite zum „GLS Kontowechselservice“.
 
-
+###
 
 Wie lege ich Daueraufträge an?
 
 Ihre Daueraufträge können Sie kostenlos in Ihrem GLS Onlinebanking einrichten. Alternativ können Sie Ihre Daueraufträge gerne von uns einrichten lassen. Die Preise hierfür entnehmen Sie bitte unserem Preis- und Leistungsverzeichnis.
 
-
+###
 
 Kann ich meinen Dispokredit online beantragen?
 
 Wenn Sie Ihr GLS Girokonto privat online führen, können Sie Ihren Dispokredit im Onlinebanking beantragen, ändern oder löschen.
-
+###
 
 
 Wie hoch sind die Dispozinsen beim Girokonto?
 
 Die Höhe der Dispozinsen entnehmen Sie dem aktuellen Konditionenblatt.
-
+###
 
 Was kostet das Girokonto?
 
 Wir bieten unterschiedliche Girokonten für Privat- und Geschäftskunden an. Die genauen Konditionen lesen Sie in unserem Konditionenblatt.
-
+###
 
 Gibt es ein Pfändungsschutzkonto?
 
 Die Voraussetzung für ein Pfändungsschutzkonto bei der GLS Bank ist ein bereits bestehendes GLS Privatgirokonto. Dieses kann auf Anfrage der Kundin/des Kunden in ein Pfändungsschutzkonto umgewandelt werden.
-
+###
 
 Gibt es Konten für Vereine?
 
@@ -39,13 +39,13 @@ GLS gGeschäftskonto. Mit diesen Girokonten können Sie den Zahlungsverkehr für
 
 Die Gebühren finden Sie im Konditionenblatt.
 
-
+###
 Gibt es den Kontowechselservice auch für Bestandskunden?
 
 Wenn Sie bereits Kundin/Kunde sind und Ihre bestehende GLS Kontoverbindung Zahlungspartnern mitteilen möchten, können Sie unseren Kontowechselservice ebenfalls nutzen.
 Rufen Sie uns dazu einfach an, Telefon 0234 57 97 100. Wir veranlassen alle weiteren Schritte.
 
-
+###
 Kann ich mein Konto online führen?
 
 Ja, das Konto kann online geführt werden. Informieren Sie sich hierzu in unserem Onlinebanking.
@@ -53,13 +53,13 @@ Ja, das Konto kann online geführt werden. Informieren Sie sich hierzu in unsere
 Onlinebanking
 
 Eine Kontoführung ist auch schriftlich und telefonisch möglich.
-
+###
 
 Wie lange gilt das Passwort für den Kontowechselservice?
 
 Das Passwort für den GLS Kontowechselservice ist drei Monate lang gültig. Danach wird das Passwort gelöscht und der Zugang gesperrt. Falls Sie den GLS Kontowechselservice noch einmal nutzen möchten, fordern Sie bitte bei Ihrer Beraterin/Ihrem Berater ein neues Passwort an. Oder rufen Sie uns an +49 234 57 97 100.
 
-
+###
 
 Wo kann ich von meinem Girokonto Geld abheben?
 
@@ -70,14 +70,15 @@ Die Geldautomaten der Volks- und Raiffeisenbanken finden Sie ganz einfach online
 
 Sie können natürlich auch an Geldautomaten anderer Banken Bargeld abheben. Die Gebühr, die Sie dafür bezahlen müssen, wird Ihnen vor der Auszahlung angezeigt.
 
-
+###
 Kann ich ein Unterkonto (Nebenkonto) anlegen?
 
 Ein "klassisches" Unterkonto können Sie bei uns nicht anlegen. Gerne können Sie bei uns beliebig viele weitere Girokonten mit einer Folgenummer (-01, -02,-03) eröffnen. Die Konditionen entsprechen den aktuellen Konditionen für unsere Girokonten.
 
 Weitere Konten eröffnen Sie am einfachsten im Onlinebanking.
 
-
+###
 Kann ich ein Gemeinschaftskonto anlegen?
 
 Außer dem Starterkonto kann jedes Girokonto auch online als Gemeinschaftskonto angelegt werden. Bitte wählen Sie bei der Kontoeröffnung direkt zu Beginn der Datenerfassung "Gemeinschaftskonto".
+###

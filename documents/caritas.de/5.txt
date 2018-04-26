@@ -1,9 +1,10 @@
+###
 Was sind Inkasso-Unternehmen?
 
 Versandhäuser, Banken, Verkehrsbetriebe, Handwerker und andere Unternehmen verzichten meist auf ein teures Mahnwesen und lassen ihre offenen Forderungen nach einer kurzen Mahnfrist von Inkassounternehmen eintreiben. Inkasso heißt wörtlich übersetzt „Geld einziehen“.
 
 Inkassounternehmen dürfen nur mit gerichtlicher Zulassung tätig werden. Neben den Inkassounternehmen gibt es einige Rechtsanwaltskanzleien, die sich auf den Forderungseinzug spezialisiert haben.
-
+###
 Wie gehen Inkasso-Unternehmen vor?
 
 Nach erfolgloser Mahnung beauftragen viele Gläubiger Inkassounternehmen.
@@ -22,7 +23,7 @@ ACHTUNG:
 Immer wieder fühlen sich Schuldner bedrängt, so dass sie Kleinstraten zahlen, obwohl sie nur Sozialleistungen bekommen. Häufig werden die Schulden trotzdem höher, weil die Zinsen und Kosten schneller wachsen. Schuldner sollten nur dann Raten vereinbaren, wenn sie damit die Schulden wirklichen tilgen können.
 
 Existenzbedrohlich wird die Situation, wenn wegen Ratenzahlungen kein Geld mehr für Miete, Strom oder Lebensmittel übrig bleibt. %
-
+###
 Sind die Inkasso-Kosten berechtigt?
 
 Für die Inkassotätigkeit werden Ihnen Kosten berechnet. An dieser Stelle können nur ein paar Grundsätze beschrieben werden. Bei detaillierten Fragen wenden Sie sich an Ihre Schuldner- und Insolvenzberatungsstelle.
@@ -34,7 +35,7 @@ Für das gerichtliche Mahnverfahren wird häufig ein Rechtsanwalt eingeschaltet.
 Fragwürdige Kostenarten, wie z. B. Kontoführungsgebühren oder Kosten für Nachnahmesendungen, sollten überprüft werden.
 
 Wenn Inkassounternehmen Forderungen kaufen (für einen Bruchteil des ursprünglichen Wertes), dürfen sie selbst keine Inkassokosten geltend machen. Also schalten sie ein neues Inkassounternehmen ein. Für Sie kann das sehr verwirrend sein.
-
+###
 Wie soll ich mich den Inkasso-Unternehmen gegenüber verhalten?
 
 Prüfen Sie, ob das Inkassounternehmen in Deutschland zugelassen ist (siehe Kopfbogen). Falls es nicht zugelassen ist, sind die Inkassokosten gerichtlich nicht durchsetzbar.
@@ -52,3 +53,4 @@ Unterschreiben Sie keine Vordrucke, die Ihnen vom Inkassounternehmen vorgelegt w
 Sie sind nicht verpflichtet, Ihre Telefonnummer mitzuteilen.
 
 Sie müssen sich nicht alles bieten lassen. Falls die Geschäftsführung des Inkassounternehmens Ihrer Beschwerde nicht abhilft, wenden Sie sich an das zuständige Zulassungsgericht oder an den Bundesverband Deutscher Inkasso-Unternehmen e.V., Friedrichstr. 50-55, 10117 Berlin (Website Inkasso.de). %
+###

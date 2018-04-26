@@ -1,24 +1,25 @@
+###
 Für welchen Mindestbetrag kann eine Immobilie zwangsversteigert werden?
 
     Beim 1. Zwangsversteigerungs-Termin für mindestens 50% des Verkehrswertes, den ein unabhängiger Gutachter vom Gericht im Vorfeld ermittelt hat. Allerdings kann der Gläubiger beantragen, den Versteigerungserlös auf 70% anzuheben.
     Wurde die Immobilie nicht versteigert, müssen zum 2. beziehungsweise 3. Termin mindestens 30% des Verkehrswertes geboten werden, um den Zuschlag zu erhalten. Hier sind Anträge auf Anhebung des Versteigerungserlöses nicht möglich. Zwischen dem 1. und 2. Zwangsversteigerungs-Termin liegen mindestens 6 Monate.
-
+###
 Ist eine Immobilie mit einem eingetragenen Wohnrecht verkaufbar?
 
 Wenn das Wohnrecht den 1.Rang hat, also zeitlich gesehen vor der Grundschuldeintragung steht, und es keinen Vermerk des Rangabtritts zugunsten des Kreditgebers gibt, dann ist ein Verkauf sehr schwierig. Zuerst müsste das Wohnrecht ausbezahlt werden.
 
 Wenn das Wohnrecht nicht den 1.Rang hat, dann ist ein Verkauf gut möglich.
-
+###
 Kann ich einen Kredit vorzeitig ablösen oder Sondertilgungen leisten?
 
 Ja, jedoch nur im Rahmen der in Ihrem Kreditvertrag festgelegten Sondertilgungsvereinbarungen. Falls Sie den Kredit vorzeitig komplett ablösen möchten, weil Sie plötzlich zu Geld gekommen sind, verkaufen oder umschulden möchten, müssen Sie die sogenannte Vorfälligkeitsentschädigung zahlen.
 
 Ausnahme Bausparverträge: Diese können Sie jederzeit kostenlos komplett ablösen.
-
+###
  Muss ich den Gutachter ins Haus lassen?
 
 Nein. Es ist jedoch meistens von Vorteil. So kann der Verkehrswert, der Grundlage für eine Zwangsversteigerung ist, genau ermittelt werden. Meist ist er höher als ein Schätzwert.
-
+###
 Schrottimmobilie, was kann ich tun?
 
 Wenn eine Immobilie
@@ -37,35 +38,38 @@ sind viele Eigentumsbesitzer ratlos, denn die Kosten laufen weiter. z.B. für
 Eigentümer eines Hauses können die Immobile aufgeben (Eigentumsaufgabe) nach § 928 BGB).
 
 Wohnungseigentümer habe diese Möglichkeit nicht, denn ihnen gehört nur ein Bruchteil des Hauses (Bruchteilseigentum). Eine Eigentumsaufgabe würde die Mehrbelastung der anderen Eigentümer zur Folge haben.
-
+###
  Was ist eine Vorfälligkeitsentschädigung?
 
 Da der Kreditvertrag für eine bestimmte Laufzeit vereinbart wurde, rechnet der Kreditgeber mit einem Gewinn (Zinsen). Wird dieser Vertrag nun vor Laufzeitende vom Kreditnehmer gekündigt, entsteht nach § 490 (2) BGB ein Vorfälligkeitsentgelt (Schadenersatz), das der Kreditnehmer dem Kreditgeber bezahlen muss. Die Vorfälligkeitsentschädigung kann so hoch sein, dass der Kreditnehmer unter dem Strich mehr bezahlt, auch wenn er bei einer anderen Bank eine Neufinanzierung mit niedrigeren Zinsen abschließt.
-
+###
 Werde ich eine Immobilie durch ein Insolvenzverfahren in jedem Fall los?
 
 Nein! Wenn der Insolvenzverwalter keinen Ertrag erwirtschaften kann oder ein Kostenrisiko sieht, gibt er die Immobilie aus der Insolvenzmasse frei und der Schuldner hat sich wieder selbst um diese zu kümmern. Er haftet für die Kosten, die durch die Immobilie entstehen. Nur die Verbindlichkeiten gegenüber dem Grundbuchgläubiger werden von der Restschuldbefreiung erfasst.
 
 So können nach Eröffnung des Verfahrens neue Schulden entstehen. Die Aufsichtspflicht für die Immobilie bleibt für den Schuldner bestehen.
-
+###
 Wie ist ein Grundbuch aufgebaut / zu lesen?
 
     Bestandsverzeichnis: Hier stehen die Katasterangaben, die Lage, die Nutzungsart und die Größe
     Abteilung I: Hier stehen die Eigentümer
     Abteilung II Hier stehen Vormerkungen für den Verkauf bzw. Zwangsversteigerungen, Dienstbarkeiten und der Insolvenzverwalter, Nießbrauchrechte und Reallasten am Grundstück
     Abteilung III Hier stehen Hypotheken, Grundschulden und Rentenschulden
-
+###
 Wie kann ich eine Zwangsversteigerung einstellen lassen?
 
 Das Verfahren kann für 6 Monate einstweilen eingestellt werden mit dem Ziel, die Versteigerung doch noch zu vermeiden (Einstellungsantrag gemäß § 30 a Gesetz über die Zwangsversteigerung und die Zwangsverwaltung). Die monatlichen Raten an die Bank müssen auf jeden Fall weiter gezahlt werden. Mit dem Antrag sollten Sie einen nachvollziehbaren Plan vorlegen, wie Sie die entstandenen Rückstände in absehbarer Zeit tilgen können.
 
 Das Verfahren kann ganz oder teilweise eingestellt werden, wenn es eine sittenwidrige Härte darstellt (§ 765 a Zivilprozessordnung). Beispiele sind: Bagatellforderungen werden geltend gemacht, sehr hohes Alter oder schwere Erkrankung des Schuldners, …
-
+###
 Wie lange kann ich meine Immobilie trotz Antrags auf Zwangsversteigerung noch verkaufen?
+
 Theoretisch bis zur letzten Minute im Zwangsversteigerungstermin; der Gläubiger muss jedoch zustimmen.
 
+###
 Woher bekomme ich einen Grundbuchauszug?
 
 Beim zuständigen Amtsgericht im Grundbuchamt.
 
 Eine Ausnahme bildet Baden-Württemberg, da sind die Grundbuchämter bei der Gemeindeverwaltung.
+###

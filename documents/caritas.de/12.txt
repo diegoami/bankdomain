@@ -1,9 +1,10 @@
+###
 Wann und warum kommt der Gerichtsvollzieher?
 
     Der Gläubiger muß einen vollstreckbaren Titel über die Forderung besitzen. Titel sind Vollstreckungsbescheide, Gerichtsurteile, Beschlüsse und notarielle Urkunden. Aus offenen Rechnungen oder Mahnungen kann nicht vollstreckt werden.
 
     Ist der Gläubiger eine Behörde, so ist die Forderung bereits durch den Bescheid über die Forderung tituliert. Die Behörde kann aus dem Bescheid vollstrecken. Da diese eine eigene Vollstreckungsabteilung hat kommt statt des Gerichtsvollziehers der Vollstreckungsbeamte der entsprechenden Abteilung.
-
+###
 Wie verläuft der Besuch des Gerichtsvollziehers?
 
 Der Gerichtsvollzieher kündigt sein Kommen in der Regel an. Es ist ratsam, ihn herein zu lassen, denn sonst kommt er erneut und kann notfalls auch mit einem richterlichen Durchsuchungsbeschluss in Ihre Wohnung gelangen.
@@ -21,7 +22,7 @@ Bei einer Sach- und Mobiliarpfändung ist der Gerichtsvollzieher nicht dazu verp
 Verwertbare Gegenstände, die offensichtlich ausschließlich zum persönlichen Gebrauch des Ehepartners bestimmt sind (z. B.  Kleidung) darf der Gerichtsvollzieher nicht pfänden.
 
 Der Gerichtsvollzieher darf sowohl den Schuldner als auch die in der Wohnungen lebenden erwachsenen Personen befragen. Es besteht allerdings weder seitens des Schuldners noch der Haushaltsangehörigen eine Auskunftspflicht. Minderjährige Haushaltsangehörige darf der Gerichtsvollzieher überhaupt nicht befragen.
-
+###
 Was ist pfändbar, was nicht?
 
 Durch den Gerichtsvollziehbar sind grundsätzlich alle beweglichen Sachen pfändbar. Ausnahmen bestehen u.a. für solche Sachen, die Sie für Ihre bescheidene Lebensführung brauchen und auch solche, die Sie nachweisbar für den Beruf oder aus gesundheitlichen Gründen benötigen. Diese sind unpfändbar.
@@ -37,13 +38,13 @@ Beispiele:
 
     Dem Schichtarbeiter, der sein Fahrzeug dringend benötigt, um zur Arbeit zu kommen, kann seine Luxus-Limousine im Austausch mit einem Kleinwagen gepfändet werden.
     Ein neuwertiger Großbild-Fernseher ist im Austausch gegen ein gebrauchtes Standardgerät pfändbar.
-
-Mit welchen Folgen habe ich zu rechnen?
+###
+Mit welchen Folgen habe ich bei einer Pfändung zu rechnen?
 
     Wird durch den Erlös aus der Versteigerung von gepfändeten Gegenständen die Forderung des Gläubigers ausgeglichen, ist diese Angelegenheit damit erledigt.
 
     Kann der Gerichtsvollzieher nichts pfänden, wird er dies dem Gläubiger mitteilen. Der wird prüfen, ob weitere Zwangsvollstreckungsmaßnahmen, zum Beispiel Konto- oder Lohnpfändung, aus seiner Sicht sinvoll sind.
-
+###
 Wie verhalte ich mich gegenüber dem Gerichtsvollzieher richtig?
 
     Sie sollten anwesend sein, wenn der Gerichtsvollzieher kommt; und lassen Sie ihn in die Wohnung. Bei einer zwangsweisen Öffnung Ihrer Wohnung entstehen Ihnen zusätzliche Kosten.
@@ -53,4 +54,4 @@ Wie verhalte ich mich gegenüber dem Gerichtsvollzieher richtig?
     Haben Sie Gegenstände bei sich zu Hause, die nicht Ihnen gehören, halten Sie möglichst Quittungen und Belege bereit, die dies nachweisen. Sollte der Gerichtsvollzieher einen Gegenstand pfänden, der nicht Ihnen gehört, geben Sie dem Eigentümer umgehend bescheid. Dieser muss dann Drittwiderspruchsklage beim zuständigen Gericht einreichen.
 
     Bleiben Sie möglichst freundlich im Umgang mit dem Gerichtsvollzieher, dann ersparen Sie sich und dem Gerichtsvollzieher unnötigen Ärger.
-
+###

@@ -1,8 +1,12 @@
-
+###
     Was ist „Apple Pay“?
+
     Apple Pay ist ein kontaktloses Zahlungssystem, welches von der Firma Apple angeboten wird. Mit diesem System können Sie Ihre Einkäufe in allen Geschäften, die über ein Kontaktlos-Terminal verfügen, mit einem mobilen Gerät (iPhone, iPad oder Apple Watch) bezahlen.
+###
     Wo kann ich mit Apple Pay bezahlen?
+
     Weltweit in allen Geschäften, in denen ein kontaktloses Terminal mit NFC-Technologie (Near Field Communication) verfügbar ist.
+###
     Wie aktivieren Sie Apple Pay auf Ihrem Apple-Gerät?
 
     Es ist keinerlei Installation erforderlich, Apple Wallet ist standardmäßig auf den kompatiblen Geräten installiert (siehe unten).
@@ -11,18 +15,22 @@
 
     Schauen Sie sich unser Tutorial an: Wie Sie Ihre Swiss-Bankers-Karte in „Wallet“ hinzufügen
     Achtung: Die Aktivierung erfordert eine Apple-ID, die in einem Land erstellt wurde, in dem der Dienst Apple Pay von Apple bereits eingeführt wurde. Die Liste finden Sie auf www.apple.com
+###
     Wie verwende ich Apple Pay zum Bezahlen meiner Einkäufe?
 
     Um zu bezahlen, drücken Sie zweimal die Haupttaste Ihres gesperrten Geräts und halten es an das Zahlungsterminal.
     Einige Minuten später erhalten Sie per SMS oder in Ihrer App „My Card“ eine Bestätigung von Swiss Bankers mit den Informationen zur Transaktion. So können Sie überprüfen, ob die Zahlung ordnungsgemäß gebucht wurde.
-    Ist das wirklich sicher?
+###
+    Ist Apple Pay wirklich sicher?
 
     Ihre Kartennummer wird bei der Zahlung nicht im Gerät gespeichert, es wird also keine Kartennummer gesendet.
     Ihre Identifikation erfolgt mit Ihrem Fingerabdruck über den Touch ID-Sensor, indem Sie zweimal die Haupttaste drücken. Somit sind Sie die einzige Person, die berechtigt ist, von Ihrem Handy Zahlungen zu tätigen.
+###
     Welche Karten sind mit Apple Pay kompatibel?
 
     Im Moment sind die einzigen kompatiblen Karten, die wir anbieten, die Swiss-Bankers-Karten Travel Cash und Prime Card. Auch andere Karten werden bald kompatibel sein, wir werden Sie dafür auf dem Laufenden halten.
-    Welche Geräte sind kompatibel?
+###
+    Welche Geräte sind mit Apple Pay kompatibel?
 
     Folgende Apple-Geräte sind kompatibel:
         iPhone 6 oder höher,
@@ -32,3 +40,4 @@
         iPad mini 3.
 
     Die App Apple Wallet ist standardmäßig auf den kompatiblen Geräten installiert.
+###

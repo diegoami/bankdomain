@@ -1,4 +1,4 @@
-
+###
 Wer kann die Rote MasterCard Karte beantragen?
 
 Jeder der
@@ -7,7 +7,7 @@ Jeder der
     seinen ständigen Wohnsitz in Deutschland hat
     als Staatsbürger eines anderen Landes eine unbefristete Aufenthaltsgenehmigung (Niederlassungserlaubnis) für Deutschland hat
     eine deutsche Bankverbindung besitzt
-
+###
 Wie beantrage ich die Rote MasterCard Karte?
 
 Du kannst die Rote MasterCard Karte schnell und einfach beantragen:
@@ -15,43 +15,44 @@ Du kannst die Rote MasterCard Karte schnell und einfach beantragen:
     Online‑Antrag ausfüllen, ausdrucken oder zuschicken lassen und unterschreiben. Wichtig: Die Abschnitte "Lohnabtretung" und "Einzugsermächtigung" dürfen in keinem Antrag durchgestrichen werden.
     Wenn Du einen Verfügungsrahmen möchtest, die drei aktuellsten Gehaltsnachweise kopieren und dem Antrag beifügen
     Mit den Dokumenten zur Post gehen und Dich dort mit dem PostIdent‑Verfahren legitimieren lassen (Personalausweis oder Reisepass nicht vergessen)
-
+###
 Was ist PostIdent? Muss ich als Kunde der Ikano Bank nochmal ein PostIdent machen?
 
 Wir als Bank sind verpflichtet, die Identität unserer Kunden bei der Kontoeröffnung festzustellen. Das PostIdent‑Verfahren ist eine Methode zur sicheren persönlichen Identifikation von Personen, die durch die Mitarbeiter der Deutschen Post AG vorgenommen wird. Es ist für den Antrag der Rote MasterCard Karte zwingend notwendig, auch wenn du bereits Kunde der Ikano Bank bist. Dir entstehen hierbei natürlich keinerlei Kosten.
-
+###
 Bis zu welchem Betrag ist mein Guthaben abgesichert?
 
 Einlagen, die bei der Ikano Bank AB (publ), Zweigniederlassung Deutschland platziert werden, unterliegen der gesetzlich schwedischen Entschädigungseinrichtung durch Riksgälden (Swedish National Debt Office). Damit sind Geldanlagen bis zu einer Summe von 100.000 Euro je Kunde automatisch abgesichert. Dieser Betrag ist auch gleichzeitig die Höchstgrenze, bis zu welcher Dein Guthaben verzinst wird.
-
+###
 Welche technischen Voraussetzungen benötige ich, um die Rote MasterCard Karte nutzen zu können?
 
 Du brauchst einen Internetanschluss, eine eigene E‑Mail Adresse und eine eigene Handynummer.
-
-Wie ist der aktuelle Zinssatz und bis wann ist er gültig?
+###
+Wie ist der aktuelle Zinssatz einer Rote MasterCard Karte und bis wann ist er gültig?
 
 Der Zinssatz ist variabel und kann jederzeit angepasst werden. Den jeweils gültigen Zinssatz findest Du in unserem aktuellen Preisverzeichnis auf www.ikanobank.de.
-
-Wann werden die Zinsen gutgeschrieben?
+###
+Wann werden die Zinsen einer Rote MasterCard Karte gutgeschrieben?
 
 Die Gutschrift der Guthabenzinsen erfolgt einmal jährlich, jeweils zum 31. Dezember.
-
+###
 Was ist das mTAN‑Verfahren und wie sicher ist es?
 
 mTAN steht für mobile Transaktionsnummer und ist eine einfache, bequeme Verfahrensweise, die die Sicherheit im Umgang mit dem Onlineservice erhöht. Konkret heißt es, dass Dir die Transaktionsnummer (mTAN), die Du zum Beispiel für Überweisungen von Deinem Konto bei uns benötigst, per SMS auf Deine bei uns hinterlegte Handynummer geschickt wird. Die Zusendung Deiner mTAN erfolgt in der Regel innerhalb weniger Sekunden (abhängig von Deinem Telefonanbieter) und ist für Dich selbstverständlich kostenfrei. Die erhaltene mTAN ist nur einmalig für die angegebene Transaktion und nur für wenige Minuten gültig. Danach verfällt sie und kann nicht mehr verwendet werden.
-
+###
 Was ist ein Freistellungsauftrag und wie kann ich ihn erteilen?
 
 Mit dem Freistellungsauftrag hast du die Möglichkeit, Deine Zinserträge bis zur Höhe des erteilten Betrages vom Abzug der Kapitalertragsteuern zu befreien. Ledige können Freistellungsaufträge bis insgesamt höchstens 801 Euro, gemeinsam veranlagte Ehepartner bis insgesamt höchstens 1602 Euro erteilen. Diese Beträge gelten dabei für alle Kapitalerträge bei uns und bei anderen Finanzinstituten. Bei uns kannst Du Deinen Freistellungsauftrag ganz bequem in unserem Onlineservice einrichten, löschen oder ändern. Hierzu ist das mTAN Verfahren notwendig.
-
+###
 Kann ich eine Vollmacht für meine Rote MasterCard Karte einrichten oder die Karte übertragen?
 
 Nein. Das Hinterlegen einer Vollmacht wird für die Rote MasterCard Karte nicht angeboten. Auch eine Übertragung der Karte ist nicht möglich.
-
-Was muss ich tun, wenn ich meine Karte verloren habe?
+###
+Was muss ich tun, wenn ich meine Rote MasterCard Karte verloren habe?
 
 Um Deine Rote MasterCard Karte im Missbrauchs‑ oder Verlustfall zu sperren, melde Dich bitte umgehend bei unserem Kundenservice unter der Telefonnummer 06122 999 270.
-
+###
 Welche Möglichkeiten habe ich bei Einzahlungen auf das Rote MasterCard Konto und bei Auszahlungen vom Rote MasterCard Konto?
 
 Einzahlungen können von jedem deutschen Konto vorgenommen werden. Auszahlungen kannst Du jederzeit selbst über das Online‑Portal vornehmen. Diese erfolgen ausschließlich auf das Referenzkonto, das Du bei uns hinterlegt hast.
+###

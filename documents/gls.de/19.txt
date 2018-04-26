@@ -1,4 +1,4 @@
-
+###
 Was ist PSD2?
 
 PSD2 ist die die neue EU-Zahlungsdiensterichtlinie. PSD steht für Payment Services Directive. Die Richtlinie regelt u.a. den Zugriff auf Zahlungskontodaten (Girokonten) durch Dritte. Dazu zählen neben den Kreditinstituten/Banken auch Zahlungsauslösedienste, Anbieter von Zahlungskarten und Kontoinformationsdienste. Die „2“ steht für die Version 2.
@@ -9,7 +9,7 @@ im GLS Bank-Blog blog.gls.de/aus-der-bank/psd2-eu-zahlungsdiensterichtlinie/
 
 Mehr zu PSD2 im GLS Bank-Blog
 
-
+###
 
 Wie erfolgt nach PSD2 die Zustimmung zum Zugriff auf Kontodaten?
 
@@ -22,7 +22,7 @@ Der Vorgang ist streng reguliert und muss durch den Dritten dokumentiert werden.
 Solange die "PSD2-Schnittstelle" noch nicht zur Verfügung steht, wird für die Abfrage von Kontodaten die FinTS-Schnittstelle genutzt. Hierfür fragen die Drittanbieter*innen bei den Kunden*innen die Zugangsdaten zum Konto ab. Damit „sieht“ der/die externe Dienstleister*in alle Daten, die auch ein*e Kontoinhaber*in in seinem/ihrem Onlinebanking sieht.
 
 Mehr zu PSD2 im GLS Bank-Blog
-
+###
 
 
 Welche Daten können von Drittanbietern nach PSD2 abgerufen werden?
@@ -35,7 +35,7 @@ Wie die PSD2-Schnittstelle technisch genau gestaltet sein wird, ist noch nicht e
 
 Mehr zu PSD2 im GLS Bank-Blog
 
-
+###
 
 Wie kann man bei PSD2 den Zugriff auf seine Kontodaten kontrollieren?
 
@@ -44,14 +44,14 @@ Nach der PSD2 Richtlinie muss für den Zugriff auf die Kontodaten die explizite 
 Kreditkartenkonten sind nicht von der PSD2-Regulierung betroffen, dafür wird es keine Abfragemöglichkeit geben. Bei der Kreditkartenzahlung gibt man die IBAN seines Girokontos nicht an, sondern nur die Kreditkartennummer.
 
 Mehr zu PSD2 im GLS Bank-Blog
-
+###
 
 Kann ich meine Zustimmung nach PSD2 für Drittanbieter widerrufen?
 
 Die genaue Umsetzung der PSD2-Richtlinie ist noch nicht endgültig festgelegt. Dafür ist die sogenannte Berlin Group zuständig. Wir setzen uns über unsere Partner im Verband der Genossenschaftsbanken in diesem Gremium dafür ein, dass zusätzliche Sicherheitskriterien wie eine Sperre oder ein Widerspruch zu einer erteilten Zustimmung mit aufgenommen werden. Ob ein Drittanbieter den Widerspruch auf seiner Seite anbietet oder annimmt, müssen Sie dort prüfen.
 
 Mehr zu PSD2 im GLS Bank-Blog
-
+###
 
 Wenn ich einem Händler eine Lastschrift erteile, stimme ich damit dem Informationsabruf nach PSD2 zu?
 
@@ -60,3 +60,4 @@ Bei Lastschrifteinzug benötigt der/die Händler*in die Daten, um das Mandat zu 
 Falls die Kontozugangsdaten für den Lastschrifteinzug abgefragt werden, sollte man diese Daten verweigern, da sie nicht erforderlich sind.
 
 Mehr zu PSD2 im GLS Bank-Blog
+###

@@ -1,41 +1,43 @@
+###
 Wie viel Schulden muss ich denn haben, damit ich mich an eine Schuldner- und Insolvenzberatungsstelle wenden kann?
 
 Die Höhe spielt keine Rolle. Wenn Ihre monatlichen Einnahmen nicht ausreichen, um sämtliche Verpflichtungen zu erfüllen (Miete, Energie, Lebensunterhalt, Kreditraten ...), sprechen wir von Überschuldung. Wenn Sie die Überschuldung in nächster Zeit nicht überwinden können, sollten Sie mit Ihrer Schuldner- und Insolvenzberatungsstelle einen Beratungstermin vereinbaren.
 
 Vielen fällt dieser Schritt schwer. Sie fühlen sich als Versager. Versuchen Sie sich davon frei zu machen. Je frühzeitiger Sie sich fachkundigen Rat holen, um so eher werden Sie einen Ausweg aus den Schulden finden.
-
+###
 Wo finde ich die für mich zuständige Schuldner- und Insolvenzberatungsstelle?
 
 Wenn sie eine Beratungsstelle in Ihrer Nähe für ein persönliches Gespräch suchen, klicken Sie bitte auf den Adressbutton in unserem Beratungsportal. Sollten Sie in Ihrer Nähe keine Caritas-Beratungsstelle finden, können Sie es auf dieser Website versuchen.
 
+###
 Was kostet die Schuldnerberatung?
 
 Die meisten gemeinnützig arbeitenden Schuldner- und Insolvenzberatungsstellen arbeiten für Sie kostenfrei. Sollten Sie dennoch gebeten werden, sich an den Kosten zu beteiligen, fragen Sie genau nach. Fragen Sie, für welche Leistungen Kosten in welcher Höhe berechnet werden. Falls die Kosten einkommensabhängig berechnet werden, prüfen Sie die Berechnungsgrundlage. Vielleicht gibt es in Ihrer Nähe eine Schuldner- und Insolvenzberatungsstelle, die keine Kosten berechnet.
-
+###
 Während der Öffnungszeiten der für mich zuständigen Beratungsstelle muss ich arbeiten. Was kann ich tun?
 
 Haben Sie bereits versucht, einen Termin zu vereinbaren? Oft beziehen sich die Öffnungszeiten auf die telefonische Erreichbarkeit. In den meisten Beratungsstellen werden auch Termine in den späten Nachmittags- und Abendstunden angeboten. Notfalls müssen Sie zumindest für den ersten Termin einen Arbeitstag frei nehmen. Bedenken Sie, dass es der erste Schritt in Richtung eines schuldenfreien Lebens sein kann.
-
+###
 Ich muss monatelang auf den ersten Beratungstermin warten. Ist das normal?
 
 Leider ja. Alle gemeinnützigen Schuldner- und Insolvenzberatungsstellen werden stark nachgefragt. Deshalb: Melden Sie sich an, dann läuft die Zeit für Sie. Fragen Sie, wie Sie sich auf die erste Beratung vorbereiten können. Vielleicht erhalten Sie dafür konkrete Hilfen (Vordruck für eine Schuldenübersicht, Haushaltsplan ...). Unabhängig davon sollten Sie sich - falls noch nicht geschehen - einen genauen Überblick über Ihre Schulden machen. Legen Sie einen Ordner an, sortieren Sie die Schuldunterlagen (alphabetisch und nach zeitlicher Reihenfolge). Wenn Sie gut vorbereitet zum ersten Beratungstermin kommen, wird es dann schnell weiter gehen.
-
+###
 Ich habe doch nur eine Frage bezüglich eines Gläubigers. Muss ich da auch so lange warten?
 
 Fragen Sie nach einer offenen Sprechstunde. Viele Beratungsstellen bieten Kurzberatungen mit und ohne Termine an. Vielleicht hilft Ihnen eine telefonische Beratung weiter. Sie können auch unser Online-Beratungsangebot nutzen.
 
 Sollte Ihre Situation sehr "brenzlig" sein, weil zum Beispiel die Wohnung oder der Strom gekündigt wurde, dann sagen Sie dies bereits beim ersten Anruf. Viele Stellen bieten in dieser für Sie kritischen Lage sehr kurzfristig einen Beratungstermin an.
-
+###
 Woran erkenne ich eine gemeinnützige Schulder- und Insolvenzberatungsstelle?
 
 Gemeinnützig arbeitende Schuldner- und Insolvenzberatungsstellen sind bei den Wohlfahrtsverbänden organisiert, also bei der Arbeiterwohlfahrt, beim Caritasverband, dem Diakonischen Werk, dem Deutschen Roten Kreuz oder dem Deutschen Paritätischen Wohlfahrtsverband. Falls Sie nicht erkennen können, ob die Stelle gemeinnützig arbeitet, fragen Sie nach. In der Regel informiert der Flyer einer Stelle darüber.
-
+###
 Besteht ein Unterschied zwischen Schuldnerberatung und Insolvenzberatung?
 
 Die meisten Schuldnerberatungsstellen bieten seit 1999 auch Insolvenzberatung an. Seitdem gibt es die gesetzliche Grundlage für die Privat- oder Verbraucherinsolvenz. Um ein Verbraucherinsolvenzverfahren beantragen zu können, muss eine außergerichtliche Einigung versucht werden. Sollte diese scheitern, muss mit dem Antrag die Bescheinigung einer anerkannten Stelle (Schuldnerberatung oder Rechtsanwalt) eingereicht werden. Mit der Bescheinigung wird bestätigt, dass die außergerichtliche Einigung ernsthaft erfolgte.
 
 Viele Schuldnerberatungen signalisieren deshalb bereits mit ihrem Namen, dass sie eine anerkannte Stelle sind und Insolvenzberatung anbieten. Es gibt jedoch auch Stellen, die nicht darauf hinweisen. Falls Sie für sich im Verbraucherinsolvenzverfahren einen möglichen Ausweg sehen, sollten Sie in jedem Fall bereits bei der Terminvereinbarung nachfragen, ob es sich um eine anerkannte Insolvenzberatungsstelle handelt.
-
+###
 Wie darf ich mir Schuldnerberatung vorstellen?
 
 Wenn Sie sich entschieden haben, Ihre Schulden in den Griff zu bekommen, sollten Sie sich auf eine längere Beratungsdauer einstellen. Die Überschuldung tritt in der Regel nicht über Nacht ein. Und so erfolgt eine Entschuldung meistens nicht kurzfristig.
@@ -51,3 +53,4 @@ Folgende Arbeitsschritte sind in der Schuldnerberatung üblich:
     Den vereinbarten Weg gehen.
 
 In allen Phasen sprechen Sie mit Ihrem Berater ab, wer welche Aufgaben übernimmt. In vielen Beratungsstellen werden die Verhandlungen mit Gläubigern vom Berater übernommen (mittels Vollmacht). Es ist jedoch nicht ausgeschlossen, dass Sie die Verhandlungen mit Hilfe des Beraters in eigenem Namen führen. Denn bereits Konfuzius meinte: "Sage es mir, und ich vergesse es; zeige es mir, und ich erinnere mich; lass es mich tun, und ich behalte es."
+###

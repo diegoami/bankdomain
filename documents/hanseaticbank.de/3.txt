@@ -1,5 +1,4 @@
-DirektKredit
-
+###
     Wann sind die monatlichen Raten fällig?
 
     Ihre monatlichen Raten werden Ihrem Wunsch entsprechend entweder zum 01. oder zum 15. eines Monats von Ihrem Konto abgebucht.
@@ -11,6 +10,7 @@ DirektKredit
     Kann ich den DirektKredit vorzeitig zurückzahlen?
 
     Sie können jederzeit Sonderzahlungen auf Ihren Kredit leisten und diesen vorzeitig zurückzahlen.
+###
     Wie kann ich einen DirektKredit beantragen?
 
     Sie können Ihren Kreditantrag schnell und bequem hier über das Internet berechnen und direkt beantragen. Es werden nur wenige Daten von Ihnen benötigt, um Ihnen in wenigen Sekunden ein persönliches Kreditangebot zu unterbreiten. Dabei stellt die SWK Bank, unser Kooperationspartner für Ratenkredite, zuerst fest, ob sie Ihnen ein Online-Angebot unterbreiten kann.
@@ -20,27 +20,34 @@ DirektKredit
     Was Sie dann noch brauchen sind zwei aktuelle Kopie Ihrer Gehaltsabrechnung (sind Sie Beamter / Rentner reicht eine Kopie), sowie eine Kopie Ihres Gehaltskontos für einen Zeitraum von 4 Wochen.
 
     Ihren Reisepass oder Personalausweis benötigen Sie für die Legitimationsprüfung  per PostIdent in einer Postfiliale (übrigens: die Post kennt nicht den Grund Ihrer Legitimation). Nach erfolgreicher Legitimation schickt die Post Ihre Unterlagen an die SWK Bank. Ihre Unterlagen werden dort umgehend geprüft und bei einer Kreditgenehmigung erfolgt die Überweisung direkt auf Ihr Girokonto.
-    Welche Unterlagen sind fällig?
+###
+    Welche Unterlagen sind für einen DirektKredit fällig?
 
     Erst wenn Sie sich für den DirektKredit entscheiden, werden die folgenden Unterlagen von Ihnen benötigt:
         Zwei aktuelle Gehaltsabrechungen in Kopie
         Kopien Ihrer aktuellen Kontoauszüge über einen Zeitraum von mindestens 4 Wochen - mit Gehaltseingang. Streichungen auf den Kontoauszügen werden nicht akzeptiert
         Eventuell weitere Unterlagen (wenn im Begleitschreiben gefordert)
+###
     Wie verbindlich ist eine Kreditanfrage?
 
     Unsere Partnerbank für Ratenkredite, die SWK Bank, macht Ihnen auf Basis Ihrer Angaben ein Angebot. Dieses Angebot ist unverbindlich. Sie können sich daher in aller Ruhe entscheiden. Sollten Sie den Kredit in Anspruch nehmen wollen, finden Sie in den Vertragsunterlagen alles, was Sie benötigen.
+###
     Welche persönlichen Daten werden abgefragt?
 
     Damit über Ihren Kredit entschieden werden kann, werden persönliche Angaben wie Name und Adressen, Informationen zu Ihrem Beruf, Ihrem monatlichen Einkommen und zu Ihren Ausgaben erfragt. Zur Überweisung des Kreditbetrags und für den Rateneinzug wird auch Ihre Bankverbindung benötigt.
+###
     Wann benötige ich einen zweiten Kreditnehmer?
 
     Grundsätzlich ist für den DirektKredit kein zweiter Kreditnehmer erforderlich. In bestimmten Fällen kann es sinnvoll und notwendig sein, einen weiteren Kreditnehmer in den Kreditvertrag aufzunehmen, zum Beispiel den Ehepartner ab einer Kreditsumme von 10.000 €.
+###
     Warum benötige ich eine Ablösevollmacht?
 
     Eine Ablösevollmacht benötigen Sie nur dann, wenn Sie mit dem beantragten Kredit bestehende Kredite ablösen möchten. Diese Vollmacht berechtigt die SWK Bank, unseren Kooperationspartner für Ratenkredite, in Ihrem Namen eine Ablösung des Kontos durchzuführen.
+###
     Was ist der DirektKredit?
 
     Der DirektKredit ist ein günstiger Ratenkredit mit freiem Verwendungszweck, den Sie bequem und schnell online beantragen können.
+###
     Wer kann einen DirektKredit beantragen?
 
     Ein paar grundlegende Voraussetzungen sind von Ihnen zu erfüllen:
@@ -55,10 +62,12 @@ DirektKredit
     Ist der Zinssatz für die gesamte Laufzeit fest?
 
     Der Zinssatz ist für die gesamte Laufzeit fest. So wissen Sie von Anfang an, was Sie die Finanzierung kostet, ganz ohne Zinsrisiko.
+###
     Wie wird der Kredit zurückgezahlt?
 
     Sie tilgen den Kredit in gleich bleibenden monatlichen Raten. Je nach ausgewählter Laufzeit sind dies zwischen 24 und 84 Raten.
+###
     Wer ist die SWK Bank?
 
     Den DirektKredit bietet die Hanseatic Bank in Zusammenarbeit mit der SWK Bank zu Sonderkonditionen an. Ein möglicher Kreditvertrag kommt nur zwischen der SWK Bank und dem Kreditnehmer zustande. Die SWK Bank wurde im Jahr 1959 gegründet und hat sich darauf spezialisiert, Kredite über das Internet anzubieten.
-
+###

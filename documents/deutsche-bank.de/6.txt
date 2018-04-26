@@ -1,21 +1,26 @@
-https://www.deutsche-bank.de/pfb/content/pk-digital-banking-faq.html
-
-Online-Banking
-Erste Schritte Online-Banking
+###
 Wo und wie melde ich mich zum Online-Banking an?
+
 Wenn Sie bereits ein Konto oder Depot bei der Deutschen Bank führen, so müssen Sie es lediglich für das Online-Banking freischalten lassen. Wenn Sie noch kein Kunde der Deutschen Bank sind, so empfehlen wir Ihnen, bereits beim Antrag für Ihr Konto oder Depot die Freischaltung mitzubeantragen. Die Anträge finden Sie auf der Seite Anträge und Formulare oder in Ihrer Filiale.
+###
 Wie erhalte ich erstmals meine PIN und die TAN für das Online-Banking?
+
 PIN und TAN erhalten Sie automatisch, sobald wir Ihr Online-Banking für Sie freigeschaltet haben. Das entsprechende Formular zur Freischaltung finden Sie auf unserer Seite Anträge und Formulare. Alternativ können Sie sich auch jederzeit an Ihren Kundenbetreuer wenden, der die notwendigen Schritte veranlasst.
+###
 Kann ich Online-Banking auch vom Büro aus nutzen?
+
 Wenn Sie am Arbeitsplatz einen PC mit Internetzugang haben, können Sie das Online-Banking theoretisch auch von Ihrem Büro aus nutzen. Viele Unternehmen nutzen allerdings eine so genannte Firewall, um sich vor unliebsamen Daten zu schützen. Dies kann auch das Online-Banking beeinflussen. Um das Online-Banking nutzen zu können, muss der Port 443 für PIN / TAN bzw. der Port 3000 für HBCI freigegeben sein. Sprechen Sie deshalb mit Ihren Systemadministratoren oder Technikern.
+###
 Muss ich für das Log-in immer die Homepage der Deutschen Bank nutzen?
+
 Nein. Sie können das Log-in der Deutschen Bank auch direkt erreichen unter: meine.deutsche-bank.de
+###
 Wie logge ich mich im Online-Banking ein?
 
 Bitte melden Sie sich mit Ihrer Filial-/Kontonummer und Ihrer persönlichen PIN auf https://meine.deutsche-bank.de an. Die Wahl des Sicherheitsverfahrens zur Autorisierung von Aufträgen – photoTAN, mobileTAN oder iTAN – erfolgt jeweils bei der Freigabe eines Auftrages.
 
 Lesen Sie bitte auch die FAQ-Sektionen zu Sicherheit, photoTAN und mobileTAN.
-Zahlungsverkehr
+###
 Was sind IBAN und BIC und wo finde ich diese?
 
 Die International Bank Account Number (IBAN) ist eine einheitliche europäische Girokontonummer.
@@ -29,7 +34,9 @@ Diese Kombination aus bisheriger Kontonummer und Bankleitzahl kann eine Kontover
 Bitte beachten Sie, dass die IBAN für jedes Unterkonto individuell errechnet wird.
 Durch den Bank Identifier Code (BIC) – international standardisierte Bankleitzahl – wird ein Kreditinstitut eindeutig identifiziert.
 Sie finden die IBAN Ihres jeweiligen Kontos und Ihren BIC-Code auf der ersten Seite Ihres Kontoauszuges. Als Online-Kunde können Sie die IBAN zu Ihrem Unterkonto auch im Online-Banking (Ihr Konto > Umsatzanzeige, rechts oben) einsehen. Alternativ können Sie diese auch bei Ihrer Filiale erfragen.
+###
 Welche Zeichen kann ich bei Überweisungen verwenden?
+
 Bitte berücksichtigen Sie bei Überweisungen, dass hier keinerlei Sonderzeichen verwendet werden dürfen, weder im Empfängernamen noch im Verwendungszweck. Die für diese Zahlungen erlaubten Zeichen sind im Falle einer Inlandsüberweisung:
 1234567890, abcdefghijklmnopqrstuvwxyzäöüß, ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ, .,-/+%&*.
 Für Auslandsüberweisungen verwenden Sie bitte nur folgende Zeichen: 1234567890, abcdefghijklmnopqrstuvwxyz, ABCDEFGHIJKLMNOPQRSTUVWXYZ, .,-/+%&*.
@@ -45,24 +52,30 @@ Beachten Sie beim Arbeiten mit Vorlagen bitte folgende Punkte:
 
 Über den Menüpunkt „Überweisungsvorlagen“ wird Ihnen eine Liste aller Vorlagen angezeigt. Hier können Sie mit wenigen Klicks über das Drop-down-Element Vorlagen ändern, löschen, neu anlegen, als Überweisung verwenden oder einen Dauerauftrag aus einer Vorlage erstellen.
 Zudem stehen Ihnen die abgespeicherten Vorlagen auch bei der Anlage von Daueraufträgen zur Verfügung.
+###
 Wie erkenne ich, ob meine Überweisung vom Banksystem angenommen wurde?
+
 Wenn Sie im Online-Banking eine Überweisung in Auftrag geben, zeigt Ihnen das System nach Absenden der Überweisung eine Bestätigung. Nach Erteilung der Überweisung finden Sie diese in Ihren Kontoumsätzen als noch nicht gebuchte Online-Überweisung. Zusätzlich wird der Verbrauch der TAN, die Sie für die Überweisung verwendet haben, in der TAN-Verwaltung dokumentiert, die Sie unter dem Menüpunkt „Services“ aufrufen können.
+###
 Wann werden die Buchungen durchgeführt?
+
 Die Daten werden an jedem Bankarbeitstag über Nacht aktualisiert. Bankarbeitstag ist jeder Dienstag, Mittwoch, Donnerstag und Freitag (es sei denn, ein gestzlicher Feiertag fällt auf einen dieser Tage). Samstag, Sonntag und Montag gelten als ein gemeinsamer Bankarbeitstag. Gleiches gilt für einen Feiertag und den darauf folgenden Bankarbeitstag. Alle Buchungen, die an einem Bankarbeitstag bis 16.00 Uhr eingegangen sind, werden noch am gleichen Tag bearbeitet.
 Zwei Beispiele:
 Wenn Sie online eine Inlandsüberweisung an einem Montag um 17.00 Uhr vornehmen, wird die Überweisung am Dienstag gebucht. Die Aktualisierung erfolgt in der Nacht von Dienstag auf Mittwoch, sodass Sie die durchgeführte Überweisung und den neuen Saldo am Mittwoch sehen können.
 Wenn Sie Ihre Überweisung an einem Samstag durchführen, erfolgt die Buchung am Montag, die Aktualisierung in der Nacht von Montag auf Dienstag – der neue Saldo ist also am Dienstag online für Sie sichtbar.
 In Auftrag gegebene Überweisungen sind zur besseren Übersicht bis zur Buchung in der Liste Ihrer noch nicht gebuchten Überweisungen unterhalb der Umsatzanzeige sichtbar.
+###
 Welche Beträge kann ich maximal online überweisen?
+
 Das Ihnen zur Verfügung stehende Online-Limit bzw. der am aktuellen Tag noch zur Verfügung stehende Überweisungsrahmen wird Ihnen unterhalb des Überweisungsformulars angezeigt.
 Informationen zum Überweisungsverkehr per SWIFT
 Bei Überweisungen ins Ausland und bei gesondert beauftragten Eilüberweisungen werden die in der Überweisung enthaltenen Daten über den einzigen weltweit tätigen Zahlungsnachrichtendienst Society for Worldwide Interbank Financial Telecommunication (SWIFT) mit Sitz in Belgien an das Kreditinstitut des Begünstigten weitergeleitet. Aus Gründen der Systemsicherheit speichert SWIFT die Transaktionsdaten vorübergehend in seinen Rechenzentren in Europa und den USA. Anlass dieser Information ist ein Beschluss der Datenschutzaufsichtsbehörden vom November 2006, mit dem diese auf Zugriffe von US-Behörden auf Überweisungsdaten im Rechenzentrum von SWIFT in den USA zum Zwecke der Bekämpfung des internationalen Terrorismus reagieren.
-Wertpapiergeschäfte
+
+###
 Wie kann ich den Einstandskurs oder die Anzahl der Stücke in meiner Vermögensaufstellung unter „Ihr Depot“ anzeigen lassen?
 
 Die Ansicht „Vermögensaufstellung“ gibt es in drei Ausprägungen – Standard, Detail und Einstand.
 
-Vermögensaufstellung – Standard
 Diese Ansicht gibt Ihnen einen schnellen Überblick über Ihr Portfolio inklusive der grafischen Darstellung als Tortengrafik.
 
 Vermögensaufstellung – Detail
@@ -70,19 +83,33 @@ Diese Ansicht zeigt Ihnen die Vermögenswerte des Portfolios zuzüglich weiterf�
 
 Vermögensaufstellung – Einstand
 Diese Ansicht zeigt Ihnen die Darstellung der Vermögenswerte des Portfolios inklusive der entsprechenden Detailinformationen, Einstandskurse (inklusive Anschaffungskosten) und Gewinne bzw. Verluste. Die Wertpapier- und Deviseneinstandskurse entsprechen den gewichteten Durchschnittskursen pro Position. Der ausgewiesene Gewinn bzw. Verlust bezieht sich auf die oben genannten Einstandskurse.
+###
 Welche Daten befinden sich im Echtzeitkontostand?
+
 Der Echtzeitkontostand enthält die bereits abgerechneten Orders.
+###
 Was sind die handelbaren Stücke?
+
 Die handelbaren Stücke bestehen aus dem juristischen Bestand inklusive der Berücksichtigung der noch abzurechnenden Orders. Dazu gehören die angenommenen, preisausgezeichneten und gelöschten Orders.
+###
 Was bedeuten die Informationen „Handelbare Stücke“ und „Freies Kapital“?
+
 Während der Eingabe Ihrer Wertpapierorder bieten wir Ihnen zwei zusätzliche Detailinformationen an. Die Information„Handelbaren Stücke“ zeigt Ihnen beim Wertpapierverkauf, wie viele Stücke dieser WKN Sie aktuell verkaufen können. Das „freie Kapital“ wird errechnet aus dem Echtzeitkontostand, welcher aus dem juristischen Bestand inklusive der noch nicht gebuchten, aber vorliegenden Umsätze und den offenen, noch nicht abgerechneten Orders inklusive des Dispositionskredits besteht, und zeigt Ihnen Ihre Liquidität beim Wertpapierkauf für das gewählte Depot auf.
+###
 Worin besteht der Unterschied zwischen Bestand und Position innerhalb der Experten-Ordereingabe?
+
 Die Bestandsliste zeigt Ihnen die Titel in Ihrem Depot inklusive der Stückzahl in jeder WKN. Bei der Positionsliste hingegen erhalten Sie eine Auskunft darüber, welche Stücke in einem einzelnen Titel aus Ihrem Wertpapierdepot disponierbar sind.
+###
 Wieso muss ich beim Verkauf meiner Wertpapiere eine Positionsauswahl treffen?
+
 Sollte ein Titel Ihres Depotbestandes in verschiedenen Lagerstellen verwahrt werden, so müssen Sie für einen Verkaufsauftrag auswählen, über welche Lagerstelle der Verkauf abgewickelt werden soll.
+###
 Wieso bekomme ich keine Positionsauswahl angezeigt?
+
 Sie bekommen keine Positionsauswahl bzw. beim Klick des Buttons „Position“ wird keine neue Liste der Positionen geladen (nur Experten-Ordereingabe). Dies passiert, wenn Sie von der zu verkaufenden WKN genau eine Position haben und diese evtl. noch gesperrt ist.
+###
 Warum sind einzelne Einträge in der Positionsliste nicht auswählbar?
+
 Einzelne Einträge in der Positionsliste sind nicht auswählbar, wenn diese gesperrt sind. Deshalb können diese nicht über das Online-Banking verkauft werden (z. B. Belegschaftsaktien mit Sperrfrist).
 Welchen Orderworkflow soll ich wählen?
 
@@ -97,6 +124,7 @@ Die Komfort-Ordereingabe zeichnet sich durch eine dreistufige Ordererfassung aus
 
 Experten-Ordereingabe
 Die Experten-Ordereingabe richtet sich an alle Benutzer, die mit den Regeln für den Handel von Wertpapieren an der Börse vertraut sind und Wert auf eine schnelle Ordererfassung legen. Alle relevanten Orderdaten werden in einer Maske erfasst und können direkt abgeschickt werden.
+###
 Wie benutze ich das Report-Center?
 
 Im Report Center haben Sie die Möglichkeit, alle Reports im Bereich „Ihr Depot“ in einer Maske auszuwählen und anschließend in einem Report herunterzuladen.
@@ -108,6 +136,7 @@ Auf der Folgeseite erhalten Sie eine Statusübersicht zum Verlauf der Reporterst
 Neben der Erstellung als PDF-Dokument können Sie die verfügbaren Reports auch einzeln als CSV-Datei laden. Über das entsprechende CSV-Icon laden Sie den jeweiligen Report.
 
 CSV bezeichnet dabei einen Dateiformattyp, in dem die Werte durch ein festgelegtes Trennzeichen voneinander getrennt sind (Semikolon). Die CSV-Datei können Sie dann einfach in einem Tabellenkalkulationsprogramm wie z. B. Microsoft® Excel nach Ihren Wünschen bearbeiten.
+###
 Welche Informationen erhalte ich über die Umsatzanzeige?
 
 Sie können sich die Umsätze Ihrer eingemeldeten Depots innerhalb eines von Ihnen gewählten Zeitraums darstellen lassen. Selektieren Sie im Reiter „Ihr Depot“ den Menüpunkt „Umsätze“ und hier ein Kriterium und betätigen Sie den Button „Anzeigen“. Nachstehender Tabelle entnehmen Sie, welche Daten / Informationen Ihnen bei Anwahl eines bestimmten Kriteriums angezeigt werden.
@@ -117,6 +146,7 @@ Umsätze (inkl. / exkl. Nichtgeschäfte):
 
 Erträgnisse:
 Zusammenstellung der Erträgnisse Ihres Depots. Angezeigt werden die Depotnummer, die Kontonummer, der Buchungstag, die Bezeichnung, die Wertpapierkennnummer, die Währung und der Nettobetrag.
+###
 Welche Details kann ich für meine Order festlegen?
 
 Für den Wertpapierkauf gilt:
@@ -126,8 +156,11 @@ Zudem können Sie noch weitere Orderattribute festlegen, z. B. mit dem Setzen ei
 Für den Wertpapierverkauf gilt:
 Sofern Sie keine Orderdetails festlegen, verkaufen wir für Sie „bestens“ und mit der Ordergültigkeit „Heute“ und an dem nach den Ausführungsgrundsätzen voreingestellten Börsenplatz. Für den letzten Börsentag eines Monats erteilte limitierte Aufträge sind bis zur vollständigen Ausführung oder bis zum Ultimo des nächsten Monats gültig. Mit dem Attribut „Bestens“ erteilte Verkaufsaufträge sind entsprechend nur tagesgültig („Heute“). Selbstverständlich können Sie auch eine abweichende Ordergültigkeit festlegen.
 Zudem können Sie noch weitere Orderattribute festlegen, z. B. mit dem Setzen einer „Stop-Loss-Marke“. Hierbei haben Sie die Möglichkeit, einen – unter dem aktuellen Marktkurs liegenden – Kurs festzulegen, bei dessen Erreichen oder Unterschreiten Ihre Verkaufsorder als „Bestens“-Order aktiviert wird.
+###
 Welche Orderannahmezeiten muss ich berücksichtigen?
+
 Eine ausführliche Aufstellung der Orderannahmezeiten kann im Online-Banking (meine.deutsche-bank.de) über das Funktionssymbol „Rechtliche Hinweise“ am unteren Rand der Seite und dort über die Menüfolge „Nutzungshinweise“, – „Orderannahmezeiten“ abgerufen werden.
+###
 Warum wurde eine Order abgelehnt?
 
 Gründe hierfür können unter anderem sein:
@@ -135,17 +168,26 @@ Gründe hierfür können unter anderem sein:
 2. Die Gültigkeit der Order „Heute“ endet vor dem nächsten Handelstag
 3. Die persönliche Risikoklasse ist ggf. nicht zutreffend. Soweit eine andere verfügungsberechtigte Person als der Depotinhaber einen Kaufauftrag erteilt, wird dieser nur bis zur Grenze der Depotrisikoklasse ausgeführt.
 4. Sie wollen die Wertpapiere in einem anderen Land verkaufen als in dem, wo Sie diese gekauft haben. Bitte wenden Sie sich für eine darüber hinausgehende Klärung an Ihren Kundenberater.
+###
 Wieso stimmen die Einstandskurse in meinem Portfolio nicht?
+
 Bei den unter „Einstandskurse“ abgebildeten Kursen handelt es sich um Mischkurse, d. h., sollten Sie mehrere Tranchen eines Papiers gekauft haben, werden die jeweiligen Einstandskurse der Einzelkäufe je nach Volumen zueinander ins Verhältnis gesetzt und entsprechend ergibt dies den durchschnittlichen Einstandskurs.
 Für Investmentdepots wurde am 15. Mai 2002 die Berechnung durchschnittlicher Einstandskurse eingeführt. Um einen Anfangswert zu bilden, wurden die Bestände an diesem Tag mit dem aktuellen Tagesschlusskurs bewertet. Daher basieren auch die Kurserfolge in der Anzeige „Kurserfolge“ auf diesen Werten.
+###
 Welche Qualität an Kursen wird für die Darstellung im Depot herangezogen?
+
 Um jederzeit einen aktuellen Überblick über das Vermögen im betrachteten Portfolio darzustellen, erfolgt die Bewertung der Wertpapiere unter dem Menüpunkt „Ihr Depot“, – „Vermögensaufstellung“, regelmäßig, jedoch mindestens 15 Minuten zeitverzögert.
+###
 Was ist die Session-TAN und wofür kann man diese Funktion nutzen?
+
 Mittels der Session-TAN-Funktionalität können Sie im Verlauf einer aktiven Session beliebig viele Wertpapierkäufe und -verkäufe, Orderänderungen und -löschungen durchführen sowie Zeichnungen von Neuemissionen tätigen, ohne die Aufträge einzeln ausdrücklich mit einer TAN freigeben zu müssen.
 Über Anklicken des Auswahlfeldes „Session-TAN aktivieren für Wertpapieraufträge“ auf der Log-in-Seite können Sie die Nutzung der Session-TAN-Funktionalität initiieren. Alternativ können Sie die Session-TAN-Funktionalität auch nach erfolgreichem Log-in über den Reiter „Services“ und den Menüpunkt „Session-TAN aktivieren“ initiieren.
 Bitte beachten Sie vor der Aktivierung und Nutzung der Session-TAN-Funktionalität die entsprechenden Informationen und Risikohinweise und nehmen Sie die Aktivierung der Session-TAN-Funktionalität durch Eingabe der angeforderten TAN und durch Drücken des Buttons „Ausführen“ vor.
+###
 Warum wurde der db PIP-Service eingestellt?
+
 Zum 1. November 2007 ist die EU-Richtlinie MiFID (Market in Financial Instruments Directive) in Kraft getreten. Mit den neuen Bestimmungen geht einher, dass die Deutsche Bank den db PIP-Service nicht weiter anbietet.
+###
 Was ist Direct Trade und wie kann ich Direct Trade nutzen?
 
 db maxblue Direct Trade ist ein Angebot zur außerbörslichen Durchführung von Kauf- und Verkaufsgeschäften von Wertpapieren über das db maxblue Depot. Im Rahmen von db maxblue Direct Trade kauft oder verkauft die Deutsche Bank Privat- und Geschäftskunden AG (DB PGK AG), die dabei stets als Kommissionärin im Kundenauftrag handelt, das jeweilige Wertpapier nach Wahl des Kunden entweder unmittelbar von der bzw. an die Deutsche Bank AG als direkten Handelspartner der DB PGK AG, oder über die Deutsche Bank AG als Zwischenkommissionärin von einem oder an einen dritten Handelspartner.
@@ -161,34 +203,59 @@ Erst anschließend wird Ihr verbindliches Angebot unverzüglich von der DB PGK A
 
 Weitere Informationen entnehmen Sie bitte den Basisinformationen db maxblue Direkt Trade unter:
 maxblue Gesamt-PDF Direct Trade 1.3
-Freistellungsauftrag
+
+###
 Warum kann ich eine Neuerteilung / Änderung / Schließung meines Freistellungsauftrages nicht sofort sehen?
+
 Nach Absenden Ihres Auftrages wird dieser zuerst in unseren Systemen geprüft. Freistellungsaufträge werden grundsätzlich nicht realtime verarbeitet und benötigen daher eine gewisse Bearbeitungszeit.
+###
 Wann muss ich spätestens eine Neuerteilung/eine Änderung/einen Widerruf erteilen, damit der Freistellungsauftrag noch für das laufende Jahr berücksichtigt werden kann?
+
 Der Freistellungsauftrag muss bis spätestens 15. Dezember eingereicht werden. Später eingereichte Aufträge können für das laufende Jahr nicht mehr berücksichtigt werden.
+###
 Warum kann ich für mein/unser Verbundkonto online keinen Freistellungsauftrag erteilen?
+
 Sie können keinen Auftrag für Verbundkonten erteilen, weil im Online-Banking jeweils nur eine Stammnummer angegeben werden kann. Sie müssen daher einen neuen schriftlichen Freistellungsauftrag einreichen.
+###
 Wann sehe ich meinen Freistellungsauftrag, der ab einem späteren Datum gültig ist?
+
 Aufträge, die Sie auf ein zukünftiges Datum terminiert haben, werden erst zum jeweiligen Datum im System sichtbar.
+###
 Wer ist berechtigt, Freistellungsaufträge im Online-Banking zu erstellen / zu ändern / zu löschen?
+
 Grundsätzlich können nur natürliche Personen einen gültigen Auftrag abgeben. Konten für Firmen und Gewerbetreibende können nicht online freigestellt werden.
+###
 Warum kann ich für meine Kinder online keinen Freistellungsauftrag erteilen?
+
 Zur Erteilung eines Freistellungsauftrages für Minderjährige sind immer die Unterschriften beider Erziehungsberechtigten notwendig. Die Auftragserteilung mit PIN/TAN kann allerdings systembedingt lediglich ein Elternteil legitimieren. Daher müssen Sie den Freistellungsauftrag für Ihre Kinder wie gewohnt mit dem PDF-Formular erteilen.
+###
 Zu welchem Termin kann ich meinen Freistellungsauftrag widerrufen?
+
 Sofern Sie bisher den Freistellungsauftrag nicht ausgenutzt haben, können Sie den Freistellungsauftrag rückwirkend zum 1. Januar des laufenden Jahres widerrufen. Sofern Sie bereits einen Betrag des Freistellungsauftrags ausgenutzt haben (z. B. durch unterjährige Zinszahlung), kann der Freistellungsauftrages frühestens zum Ende des laufenden Jahres geschlossen werden. Er bleibt bis dahin mit dem ursprünglich erteilten Limit bestehen. Bitte kreuzen Sie hierfür das Feld „Widerruf“ an und ergänzen Sie die Jahreszahl in „zum 31.12.20XX“. Sie können den Freistellungsauftrag aber auch bis zur Höhe des bereits ausgenutzten Betrages reduzieren und zum Jahresende widerrufen. Bitte erteilen Sie uns in diesem Fall einen Auftrag zur Änderung des freizustellenden Betrages und geben Sie die gewünschte Gültigkeit (z. B. 31. Dezember des laufenden Jahres) an.
+###
 Wie kann ich die Höhe meines Freistellungsauftrages reduzieren?
+
 Sie können die Höhe des Freistellungsauftrages jederzeit – bis zur Höhe des bereits ausgenutzten Betrages – reduzieren. Bitte erteilen Sie uns einen Auftrag zur Änderung des freizustellenden Betrages und geben Sie die gewünschte Gültigkeit (z.B. 31. Dezember des laufenden Jahres) an.
-Prepaidguthaben aufladen
+###
 Ich bekomme bei der Prepaidaufladung die Fehlermeldung: „Aus technischen Gründen konnte Ihre Bestellung nicht durchgeführt werden. Bitte versuchen Sie es später erneut.“
+
 Eventuell ist Ihr Guthaben nicht ausreichend oder der Server von Alphacomm Prepaid Services Germany steht für diesen Service leider nicht zur Verfügung.
+###
 Ich habe die falsche Prepaid-PIN eingegeben, was nun?
+
 Sollten Sie bei Ihrem Handy die falsche Prepaid-PIN eingegeben haben, dann können Sie diese noch einmal eingeben. Sollten Sie die PIN nicht notiert haben, steht Ihnen die Alphacomm-Prepaid-Services-Germany-Hotline kostenfrei unter 0800 3468258 oder per Mail unter support@acprepaid.com jederzeit gern zur Verfügung. Zur schnelleren Abwicklung halten Sie bitte die Referenznummer bereit. Diese können Sie der an Sie versendeten E-Mail oder dem Betreff Ihrer Überweisung entnehmen.
+###
 Ich habe die Prepaid-PIN nicht notiert, was nun?
+
 Wenden Sie sich bei diesen Anfragen direkt an die Alphacomm-Prepaid-Services-Germany-Hotline kostenfrei unter 0800 3468258 oder per Mail unter support@acprepaid.com. Zur schnelleren Abwicklung halten Sie bitte die Referenznummer und Ihre Mobilfunknummer bereit. Die Referenznummer können Sie der an Sie versendeten E-Mail oder dem Betreff Ihrer Überweisung entnehmen.
-Ich habe den falschen Provider gewählt, was nun?
+###
+Ich habe bei einer Aufladung den falschen Provider gewählt, was nun?
 Leider ist es Alphacomm Prepaid Services Germany nicht möglich, eine einmal ausgelieferte PIN wieder zurückzunehmen. Sie können diese Situation am besten mit einer frei gerubbelten klassischen Telefonprepaidkarte vergleichen. Alphacomm Prepaid Services Germany hat keine Möglichkeit, zu prüfen, ob die PIN, die Sie zurückgeben möchten, benutzt worden ist oder nicht. Aus diesem Grund kann Alphacomm Prepaid Services Germany die PIN nicht erneut ins System übernehmen und verkaufen. Sie könnten natürlich selbst versuchen, die PIN an jemand anderen in Ihrem Umfeld zu verkaufen.
-Ich habe eine falsche Handynummer angegeben, was nun?
+###
+Ich habe bei einer Aufladung eine falsche Handynummer angegeben, was nun?
+
 Wenden Sie sich bei diesen Anfragen direkt an die Alphacomm-Prepaid-Services-Germany-Hotline kostenfrei unter 0800 3468258 oder per Mail unter support@acprepaid.com. Zur schnelleren Abwicklung halten Sie bitte die Referenznummer bereit. Diese können Sie der an Sie versendeten E-Mail oder dem Betreff Ihrer Überweisung entnehmen.
+###
 Kann ich aus dem Ausland aufladen?
 
 Sie können eine deutsche Prepaid-PIN auch im Ausland problemlos aufladen.
@@ -206,6 +273,7 @@ Die Direktaufladung bei T-Mobile kann ohne Probleme auch im Ausland durchgeführ
 Vodafone
 Rufen Sie im ausländischen Vodafone-Netz unter der Kurzwahl 22 9 22 den Vodafone-KontoServer an (eine Auslandsvorwahl braucht dabei nicht eingegeben zu werden).
 Lassen Sie sich durch das Sprachmenü leiten, und geben Sie den gewünschten Code an.
+###
 Wie kann ich aufladen?
 
 E-Plus
@@ -235,12 +303,13 @@ Ihr Prepaidguthaben ist jetzt aufgeladen.
 
 T-Mobile
 • Dies ist eine Direktaufladung. Das Guthaben wird automatisch gutgeschrieben.
-Weitere Services und Optionen
+###
 Wie kann ich einen neuen TAN-Block aktivieren?
 
 So aktivieren Sie einen neuen TAN-Block in Ihrem Online-Banking: Klicken Sie den Reiter „Services“ an, dann die Seite „TAN verwalten“. Wählen Sie dort bitte das Feld „Aktivieren des TAN-Blocks Nr. ...“. Geben Sie die Nummer des neuen TAN-Blocks ein und klicken Sie auf „Ausführen“. Nun können Sie TANs vom neuen TAN-Block verwenden. Bitte beachten Sie: Alle TANs des vorher verwendeten TAN-Blocks werden bei der Aktivierung des neuen TAN-Blocks ungültig.
 
 Weiterhin können Sie unter „TAN verwalten“ TAN-Blöcke sperren: einen TAN-Block mit einer bestimmten Nummer, den derzeit aktiven TAN-Block oder alle TAN-Blöcke. Die Entsperrung von TAN-Blöcken erfolgt durch Ihre kontoführende Filiale.
+###
 Auf welchem Weg kann ich meine Adressänderung mitteilen?
 
 Online im Internet:
@@ -254,29 +323,46 @@ Telefonisch:
 
 Persönlich:
 bei einem Mitarbeiter Ihrer kontoführenden Filiale.
+###
 Warum werden in meiner Finanzübersicht keine Konten oder Depots angezeigt?
+
 Um Ihr Depot in der Finanzübersicht anzuzeigen, klicken Sie bitte auf den Reiter „Services“. Sie gelangen in den Menüpunkt „Persönliche Konfiguration“. Setzen Sie dort durch Anklicken der Checkboxen Häkchen bei den Konten, Kreditkarten und Depots, die Sie in Ihrer Finanzübersicht sehen möchten. Schließen Sie Ihre Auswahl über „Einstellungen speichern“ ab. Weitere vorhandene Unterkonten können Sie wie gewohnt über den Menüpunkt „Unterkonto an- / abmelden“ im Reiter „Services“ hinzufügen oder von der Online-Ansicht ausschließen.
+###
 Wie kann ich meine Unterkonten im Online-Banking an- bzw. abmelden?
+
 Über den Menüpunkt „Unterkonto an- / abmelden“ im Reiter „Services“ können Sie Unterkonten hinzufügen oder von der Online-Ansicht ausschließen. Wenn Sie die Unterkonten in Ihrer Finanzübersicht angezeigt bekommen wollen, klicken Sie bitte auf den Reiter „Services“. Sie gelangen in den Menüpunkt „Persönliche Konfiguration“. Setzen Sie dort durch Anklicken der Checkboxen Häkchen bei den Konten, Kreditkarten und Depots, die Sie in Ihrer Finanzübersicht sehen möchten. Schließen Sie Ihre Auswahl über „Einstellungen speichern“ ab.
+###
 Warum werden meine Kreditkartenumsätze nicht angezeigt, obwohl ich dafür freigeschaltet bin?
+
 Zur Anzeige der Kreditkartenumsätze im Internet ist es erforderlich, dass mindestens ein Umsatz innerhalb der letzten sieben Monate getätigt wurde. Die Daten werden dann direkt von TSYS, die die Abwicklung der Verbuchung für die Kreditkartenumsätze vornimmt, an die Deutsche Bank übertragen und sind einen Tag später im Online-Banking sichtbar.
+###
 Warum sind meine Kreditkartenumsätze in meinem Online-Banking nicht mehr zu sehen?
+
 Die Kreditkartenumsätze sind rückwirkend für die letzten sechs Monate abrufbar. Werden länger als sieben Monate keine Umsätze mit der Kreditkarte getätigt, erscheint die Umsatzanzeige erst wieder, wenn Sie wieder mit Ihrer Kreditkarte gezahlt haben.
+###
 Warum kann ich meinen Bausparvertrag nicht für das Online-Banking freischalten?
+
 • Ihr Bausparvertrag ist nicht von der Deutsche Bank Bauspar AG.
 • Sie sind nicht Vertragsinhaber des Bausparvertrages.
+###
 Wo finde ich meine Bausparvertragsnummer?
+
 Ihre Bausparvertragsnummer finden Sie auf Ihrem Kontoauszug, den Sie einmal jährlich von der Deutsche Bank Bauspar AG erhalten.
 Ich habe meinen Bausparvertrag zur Online-Auskunft angemeldet. Warum wird er nicht angezeigt?
 
 Ihr Bausparvertrag wird nach erfolgreicher Anmeldung in den nächsten Tagen angezeigt.
 Frühestens beim nächsten Log-in.
 
-Weitere Fragen zum Bausparen
+###
 Wieso gibt es die Online-Funktion Scheckbestellung nicht mehr?
+
 Aufgrund der geringen Nutzung wurde diese Funktion im Rahmen der Online-Banking-Erneuerung entfernt.
+###
 An welche Adresse wird die Telefon-PIN gesendet?
+
 Die PIN für Ihr Telefon-Banking wird an Ihre aktuelle Meldeadresse gesendet. Diese können Sie unter dem Reiter „Services“, - „Persönliche Daten“, ändern oder ergänzen.
+
+###
 Wie aktiviere ich die PIN fürs Telefon-Banking?
 
     Die Telefon-PIN wird an die von Ihnen angegebene Adresse geschickt.
@@ -289,22 +375,39 @@ Wie aktiviere ich die PIN fürs Telefon-Banking?
         Ihre fünfstellige Telefon-PIN
 
 Technische Fragen
+###
 Was muss ich tun, wenn ich mich nicht in das Online-Banking einloggen kann?
+
 Bitte löschen Sie diejenigen Cookies, die Sie von der Deutschen Bank (meine.deutsche-bank.de) gesetzt bekommen haben. Danach sollte das Log-in wieder funktionieren.
+###
 Warum speichert mein Browser meine Log-in-Daten nicht?
+
 Aus Sicherheitsgründen wird diese Funktion unterbunden. Dadurch gelangen Ihre Kontodaten bei Fremdnutzung Ihres Rechners oder eines öffentlichen Rechners nicht an Unbefugte.
+
+###
 Warum kann ich die Schriftgröße im Online-Banking nicht einstellen?
+
 Wenn Sie im Online-Banking die Schriftgröße über die drei Icons am Ende jeder Seite unten links nicht einstellen können, die Schrift viel zu groß erscheint oder das Online-Banking Ihre Schriftgrößenvorwahl nicht speichert, gehen Sie bitte wie folgt vor: Bitte löschen Sie die Cookies, die Ihnen von der Deutschen Bank für die Domains „deutsche-bank.de“ und „meine.deutsche-bank.de“ gesetzt wurden. Rufen Sie nun das Online-Banking direkt unter der URL meine.deutsche-bank.de auf und loggen Sie sich ein. Ändern Sie die Schriftgröße wie gewünscht – diese Voreinstellung wird nun gespeichert.
+###
 Welcher Browser ist für das Online-Banking am besten geeignet?
+
 Damit eine reibungslose Abwicklung zu gewährleistet ist, sollten Sie eine möglichst neue Version des Microsoft Internet Explorer, Microsoft Edge, Mozilla Firefox oder Google Chrome auf Ihrem PC bzw. von Safari auf Ihrem Mac installieren. Unsere Anwendung entspricht modernsten Sicherheitsanforderungen. Dadurch können bei älteren Browserversionen Probleme beim Online-Banking auftreten, da diese Versionen einige von uns verwendete Sicherheitsmerkmale nicht unterstützen.
+###
 Kann ich das Online-Banking auch ohne Java, JavaScript, ActiveX, Active Scripting etc. nutzen?
 
 Ja, das Online-Banking mit PIN und TAN funktioniert auch dann, wenn Sie die oben aufgeführten Technologien in Ihrem Browser deaktivieren. Bitte beachten Sie aber, dass dann bestimmte Funktionen, wie der Kalender zur Eingabe von Daten, nicht funktionieren und sich die Hilfefunktionen etc. nicht in neuen Fenstern öffnen.
-
 Wenn Sie DirectTrade nutzen, ist es zwingend notwendig, Java und JavaScript bzw. Java und Active Scripting zu aktivieren, damit Sie diese Funktionen nutzen können.
+
+###
 Ich habe ca. zehn Minuten keine Eingabe getätigt und die Verbindung zum Bankserver wurde automatisch getrennt. Was ist passiert?
+
 Nach zehn Minuten wird Ihre Online-Banking-Sitzung automatisch beendet, insofern Sie keine Eingabe getätigt haben. Dies geschieht ausschließlich aus Sicherheitsgründen. Dadurch wird verhindert, dass von einer Fremdperson unbemerkt Zugriff auf das Online-Banking genommen werden kann.
+###
 Kann ich zu einer anderen Internetseite gehen, während ich in meinem Online-Banking angemeldet bin?
+
 Sie können in einem weiteren Browserfenster zu einer anderen Internetseite wechseln, während Sie in Ihrem Online-Banking angemeldet sind – dies wird von uns aber nicht empfohlen. Öffnen Sie für das Online-Banking immer nur ein Browserfenster bzw. einen Reiter auf Ihrem PC. Beachten Sie, dass wir Ihre Verbindung aus Sicherheitsgründen nach zehn Minuten automatisch trennen, wenn keine Eingaben erfolgt.
+###
 Was muss ich beachten, wenn ich meine Online-Banking-Sitzung beenden will?
+
 Sie sollten das Online-Banking immer über den Menüpunkt „Kunden-Logout“ ganz oben auf der Seite oder im Menü links unten verlassen. Wenn Sie sich nicht über den Menüpunkt „Kunden-Logout“ abmelden, besteht die Möglichkeit, dass Unbefugte an Ihrem PC Einblick in Ihre Kontoinformationen nehmen können. Transaktionen sind jedoch nur mit einer gültigen TAN (Transaktionsnummer) möglich.
+###

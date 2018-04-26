@@ -1,10 +1,10 @@
-
+###
 Was muss ich tun, um meine Kreditkarte(n) für das 3D Secure Verfahren zu registrieren?
 
 Damit auch Sie künftig sicher mit Ihren Kreditkarten im Internet zahlen können, müssen Sie Ihre Kreditkarte(n) einfach auf unserer Seite unter www.apobank.de/3d-secure registrieren. Zur Nutzung des SMS-TAN Verfahrens benötigen Sie keine Software-Installation. Die Nutzung ist von jedem PC oder anderen Internetzugangsgeräten möglich.
 
 Um die SMS als Push-Nachricht zu erhalten, benötigen Sie die apoSecure App auf Ihrem Smartphone. Mehr dazu unter: „Wie funktioniert die Erstanmeldung / Registrierung?“
-
+###
 Kann ich auch einen Einkauf bei einem Internethändler mit 3D Secure ohne Registrierung vornehmen?
 
 Haben Sie Ihre Karte noch nicht über die Internetseite der apoBank registriert und möchten eine Internettransaktion bei einem Händler tätigen, der dies nur über das 3D Secure Verfahren anbietet, kann i. d. R. ein Umsatz ohne Registrierung getätigt werden:
@@ -12,24 +12,24 @@ Haben Sie Ihre Karte noch nicht über die Internetseite der apoBank registriert 
 Sie werden während des Bezahlvorganges automatisch auf eine entsprechende Internetseite der apoBank geleitet und können unter Nutzung des Buttons „Transaktion fortsetzen“ den begonnenen Kaufvorgang ohne TAN durchführen.
 
 Bevor Sie weitere Interneteinkäufe mit 3D Secure tätigen können, muss dann der Registrierungs-prozess (beide Stufen) durchgeführt werden.
-
-Muss jede Kreditkarte einzeln registriert werden?
+###
+Muss jede Kreditkarte für das 3D Secure Verfahren einzeln registriert werden?
 
 Ja, jede Karte muss einzeln für 3D Secure registriert werden. Allerdings kann bei Kartendoppeln und ggf. weiteren Kreditkarten der apoBank für alle Registrierungen die gleiche virtuelle Handynummer (App) / die gleiche Handynummer (SMS-TAN Verfahren) verwendet werden.
-
-Müssen Zusatzkarten separat registriert werden?
+###
+Müssen Zusatzkarten für das 3D Secure Verfahren separat registriert werden?
 
 Ja, aber für die Registrierung von Zusatzkarten ist die vorherige Registrierung der Hauptkarten nicht erforderlich. Die Registrierung an sich erfolgt analog zu der Registrierung von Hauptkarten.
-
-Müssen Ersatzkarten registriert werden?
+###
+Müssen Ersatzkarten für das 3D Secure Verfahren registriert werden?
 
 Erhalten Sie eine Ersatzkarte wegen Verlust, Diebstahl oder Missbrauch muss diese Karte nicht neu registriert werden, sofern Sperre und Ausstellung einer Ersatzkarte am gleichen Tag erfolgen. Eine Neu-registrierung ist nur notwendig, wenn die Ersatzkarte erst später bestellt wird, z. B. nach Rückkehr aus dem Urlaub.
-
+###
 Müssen Erneuerungskarten registriert werden?
 
 Erhalten Sie eine Erneuerungs- oder Ersatzkarte wegen Namensänderung, Defekt oder abgelaufener Gültigkeit, hat dies keine Auswirkung auf das bestehende Konto. Eine Neuregistrierung ist nicht erforderlich, da es sich um Karten mit derselben Kartennummer handelt.
-
-Wie funktioniert die Erstanmeldung/ Registrierung?
+###
+Wie funktioniert die Erstanmeldung/ Registrierung für das 3D Secure Verfahren ?
 
 Bei einer Neukartenbestellung wird der Aktivierungscode automatisch zugesandt.
 
@@ -59,11 +59,12 @@ Vor Durchführung der Registrierung ist das Herunterladen der apoSecure App erfo
     Information per Push-Nachricht auf Ihr Smartphone über den Erhalt der TAN in die App
     Eingabe der TAN
     Registrierung ist abgeschlossen.
-
-Ich habe den Aktivierungscode nicht erhalten.
+###
+Ich habe den Aktivierungscode für das 3D Secure Verfahren nicht erhalten.
 
 Bitte fordern Sie den Aktivierungscode erneut über die Seite Ihrer Bank an.
-
-Ich habe den Aktivierungscode dreimal falsch eingeben.
+###
+Ich habe den Aktivierungscode für das 3D Secure Verfahren dreimal falsch eingeben.
 
 Ihre Karte ist somit aus Sicherheitsgründen für die Registrierung gesperrt. Bitte setzen Sie sich mit unserer 3D Secure Hotline 0721/1209-66001 in Verbindung, um Ihre Karte wieder zu aktivieren und einen neuen Aktivierungscode zu erhalten.
+###

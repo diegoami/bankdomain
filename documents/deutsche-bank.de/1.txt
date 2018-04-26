@@ -1,22 +1,24 @@
+###
 Wie kann ich die Liste meiner Wertpapiere sortieren (z.B. nach Performance oder prozentualem Anteil)?
 
 Klicken Sie zum sortieren einfach auf die jeweiligen Spaltenbezeichnungen in der Tabelle (z.B. Diff % in der Ansicht Aktuell oder „Anteil in %“ in der Ansicht Details, etc.)
 
-
+###
 Wo finde ich meine Einstandskurse?
 
 Die Standardansicht „Aktuell“ legt den Schwerpunkt auf die aktuellen Kursveränderungen Ihrer im Virtuellen Depot enthaltenen Werte. In der Ansicht „Details“ hingegen (oberhalb der Tabelle der Portfolioliste auswählbar) finden Sie alle Informationen bzgl. der Kaufdetails u.v.m.
-
+###
 Wie kann ich Stücke zu einer Position nachkaufen?
 
 Eine direkte Nachkauffunktion haben wir aus diversen Gründen nicht eingebunden. Sie haben aber zwei Möglichkeiten, dieses abzubilden:
 a) Sie erstellen eine zweite Position dieses Wertpapiers. Damit haben Sie auch die Möglichkeit, selbst zu entscheiden, welche Stücke Sie als erstes wieder verkaufen möchten.
 b) Sie bearbeiten die Position nachträglich und erhöhen die Stückzahl entsprechend. Bitte berücksichtigen Sie, dass der durchschnittliche Einstandskurs aus ursprünglichen und neu hinzugefügten Stücken ermittelt werden muss (Summe aus der Anzahl der ursprünglichen Stücke multipliziert mit dem ursprünglichen Einstandskurs und der Anzahl hinzugefügter Stücke multipliziert mit dem neuen Einstandskurs geteilt durch die Gesamtstückzahl).
-
+###
 Was muss ich bei der Analyse des Portfolios beachten?
 
 Ihr Portfolio können Sie nach Wertpapiertyp, Währungen und Sektoren aufgeschlüsselt untersuchen. Derivate oder Fonds, die keinem eindeutigen Sektor zugeordnet werden können (wie beispielsweise Indexzertifikate oder Index-Optionsscheine) werden unter „Sonstiges“ geführt. Optionsscheine oder Zertifikate mit einem eindeutigen Basiswert werden analog dem Basiswert zugeordnet. So wird ein Optionsschein auf DaimlerChrysler der Automobilbranche, ein Basketzertifikat auf reine Biotechnologiewerte der Biotechnologiebranche zugeordnet.
-
+###
 Welche Funktionen und Services kann ich zusätzlich noch nutzen?
 
 Wenn Sie sich für das Virtuelle Depot registriert haben, können Sie kostenfrei und unverbindlich auch alles Services und Funktionen in "Mein Bereich" nutzen. Dort können Sie News und Finanzthemen, Rechenergebnisse oder Videos speichern und jederzeit erneut aufrufen. Oder legen Sie in "Mein Bereich" einfach fest, über welche Themen Sie von unseren Experten per Email informiert werden möchten - von aktuellen Finanzthemen in NewsLine über Geldanlagen, Immobilien und Sicherheit bis zur Zukunftssicherung in der persönlichen Vorsorge.
+###

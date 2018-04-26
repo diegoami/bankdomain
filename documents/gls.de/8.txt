@@ -1,47 +1,47 @@
-
+###
 Wo finde ich eine Übersicht über Zinsen, Preise und Konditionen?
 
 Wie unsere GLS Angebote verzinst sind und welche Kosten rund um das Girokonto anfallen, entnehmen Sie unserem Konditionenblatt.
 
 Über die Preise für Dienstleistungen im standardisierten Geschäftsverkehr mit privaten Kundinnen und Kunden sowie bei der Erbringung von Zahlungsdiensten und im Scheckverkehr mit Geschäftskunden informiert unser Preis- und Leistungsverzeichnis.
 
-
+###
 Wie legt die GLS Bank ihre Konditionen fest?
 
 Wir bieten eine verlässliche und kostendeckende Zinsgestaltung zu marktüblichen Konditionen - und machen dies auch transparent. Bei der Zinsgestaltung haben wir sowohl die Einlagen- als auch die Kreditseite der GLS Bank im Blick. Unsere Konditionsgestaltung basiert auf einem ausgewogenen Verhältnis zwischen den Zinssätzen für Kundeneinlagen und den Zinssätzen für Kundenkredite.
 
-
+###
 Hilft die GLS Treuhand bei Testamenten?
 
 Die GLS Treuhand arbeitet mit Juristen zusammen, die bei Testamentsfragen beraten können, wenn ein Teil des Vermögens in den gemeinnützigen Bereich vererbt werden soll. Bei der Gestaltung sind sehr verschiedene Fragen zu beantworten. Neben der Beschäftigung mit der eigenen Lebenssituation gehören auch rechtliche Formalitäten dazu. Was gibt es zu beachten? Welche steuerlichen Aspekte spielen eine Rolle? Kann ich meinen letzten Willen mit bestimmten Auflagen verbinden? Wir helfen Ihnen gerne, die für Sie richtigen Antworten zu finden.
 
 
-
+###
 Wer entscheidet über die Vergabe der Mittel?
 
 Grundsätzlich entscheiden die Schenker*innen/Stifter*innen, was mit ihrer Schenkung oder Stiftung passieren soll.
 
 Sie können entweder allein oder zusammen mit einem oder mehreren von ihnen benannten Menschen über die Vergabe bestimmen. In einigen Stiftungen entscheidet ein Gremium, der Stiftungsrat, über die Vergabe. Die Spenderinnen und Spender werden über die geförderten Projekte und über die Gesichtspunkte, die zur Förderung geführt haben, regelmäßig informiert
 
-
+###
 Bietet die GLS Treuhand Stiftungsverwaltung an?
 
 Die GLS Treuhand kann Buchführung, Antragsmanagement, Spendenbescheinigungen und ethisch-ökologische Geldanlagen übernehmen. Zusätzlich übernehmen wir auch Vorbereitung und Durchführung der Sitzungen der Stiftungsorgane.
 
-
+###
 Woher bekommt die Treuhand ihre Fördermittel?
 
 Die Mittel der GLS Treuhand stammen ausschließlich von zahlreichen Schenkerinnen und Schenkern. Darunter sind viele private Einzelspenden oder Anteile an Erbschaften. Eine Ausnahme bildet der Nachlass des Unternehmers Alfred Rexroth, zu der eine Gewinnbeteiligung an der Neuguss Verwaltungsgesellschaft gehört.
 
 
-
+###
 Was ist die Dachstiftung für individuelles Schenken?
 
 Die Dachstiftung für individuelles Schenken der GLS Treuhand bietet einen gemeinsamen Rahmen für einzelne individuelle Stiftungsfonds. Hier kann mit kleinem Verwaltungsaufwand eine Art "kleine Stiftung" gegründet werden.  Die Dachstiftung bietet Menschen und Initiativen, die über die Gründung einer Stiftung nachdenken die Möglichkeit, sich mit dem Thema Stiften vertraut zu machen.
 
 Unter diesem Dach können Sie einen eigenen Stiftungsfonds einrichten, eine Art „kleine Stiftung“. Das ist zweckmäßig, wenn die geplante Summe des Schenkungsgeldes zu gering und damit eine Stiftungsgründung nicht sinnvoll ist.  Die Förderzwecke der einzelnen Vermögen sind breit gestreut: Naturschutz, Wissenschaft, Jugend- und Altenhilfe, Kunst und Kultur, bürgerschaftliches Engagement. Fast alle Themenfelder aus dem gemeinnützigen Bereich sind möglich.
 
-
+###
 Wie verfolgt die GLS Treuhand ihre Ziele?
 
 Die Arbeit der GLS Treuhand hat vielfältige Facetten.
@@ -53,8 +53,8 @@ Schwerpunkte sind:
     Ethische Anlage der Stiftungsvermögen
     Individuelle Beratung von gemeinnützigen Projekten und Organisationen
 
-
-Wie kann ich schenken?
+###
+Wie kann ich der GLS Treuhand schenken?
 
 Wenn Sie Ihr Geld gemeinnützig einsetzen wollen, suchen wir gemeinsam nach dem Weg, der am besten zu Ihren Vorstellungen und Ideen passt. Dabei stehen Ihnen verschiedene Möglichkeiten offen.
 
@@ -65,19 +65,20 @@ Sie können sich auch für eine Stiftung entscheiden. Auch hier gibt es mehrere 
     Gründung eines Stiftungsfonds
     Gründung einer treuhänderisch verwalteten oder selbstständigen Stiftung
 
-
+###
 Was bedeutet der Name GLS Treuhand?
 
 Die Abkürzung GLS steht für „Gemeinschaft für Leihen und Schenken". Als Treuhand verwalten und vergeben wir das Vermögen von Menschen, die ihr Geld gemeinnützig einsetzen wollen. Dabei stellen wir immer den einzelnen Menschen in den Mittelpunkt. Schenkerinnen, Schenker und Projekte werden so beraten, dass sie frei nach ihren eigenen Vorstellungen entscheiden können.
 
-
+###
 
 Was macht die GLS Treuhand?
 
 Die GLS Treuhand unterstützt Menschen dabei, ihr Geld durch Schenkungen, Stiftungen und Testamente auf die bestmögliche Weise für zivil-gesellschaftliches Engagement und soziales Unternehmertum gemeinnützig einzusetzen. Dabei stehen wir für eine Kultur des Schenkens, die individuelle Freiheit mit gesellschaftlichem Handeln verbindet.
 
-
+###
 
 Wer kann Förderung beantragen?
 
 Alle gemeinnützigen Organisationen können Fördergelder beantragen. Mit unserer Art mit Geld umzugehen, sprechen wir immer mehr Menschen mit verschiedensten Hintergründen an. Auf Schenkungs- und Vergabeseite eint alle, eine bessere Welt zu wollen und der Gesellschaft verändernde Impulse geben zu wollen.
+###

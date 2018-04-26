@@ -1,0 +1,109 @@
+###
+Welche Voraussetzungen sind nötig, um die EB-Banking App nutzen zu können?
+
+Um die App nutzen zu können, benötigen Sie ein Konto, das HBCI-fähig ist. Falls Sie sich nicht mit Ihrem Konto anmelden können, fragen Sie bitte bei Ihrer Bank nach, ob sie HBCI unterstützt.
+
+Derzeit unterstützt die EB-Banking App das Betriebssystem Android ab Version 4.1.
+
+iOS (iPhone und iPad) wird ab Version 9 unterstützt.
+###
+Gibt es gerätspezifische Einschränkungen für die Installation der EB-Banking App?
+
+Die EB-Banking App ist kompatibel mit dem iPhone, dem iPad und dem iPod touch ab iOS-Version 9 und mit allen Android-Geräten ab Version 4.
+
+Die Multibankfähigkeit wird für alle genannten Geräte unterstützt.
+
+Welche Funktionen auf einzelnen Betriebssystemen nur eingeschränkt oder nicht verfügbar sind entnehmen Sie bitte der Funktionsübersicht.
+###
+Ist Banking über die App genauso sicher wie Banking am PC?
+
+Unsere App steht dem eBanking in puncto Sicherheit in nichts nach. Die App kommuniziert über eine sichere „https“-Verbindung mit dem Rechenzentrum. Die vorbildliche Sicherheit der VR-BankingApp wurde sowohl vom TÜV als auch von SecureNet bescheinigt.
+###
+Wie kann ich mich vor Trojanern schützen?
+
+Damit dem Trojaner aktiv keine Zugangsrechte geboten werden kann empfiehlt es sich nur Apps aus den offiziellen Stores zu downloaden. Wird nach der Bestätigung der Zugangsrechte gefragt, sollten Sie die Quelle genau kontrollieren. Darüber hinaus kann eine zusätzlich installierte Anti-Virus-Software extra Schutz bieten. Empfohlen wird hier Avira Antivirus Security (kostenfrei) und Bitdefender Mobile Security (kostenpflichtig).
+###
+Wieso kann ich mobileTAN über die EB-Banking App auf meinem Smartphone nicht nutzen?
+
+Das besondere Sicherheitsmerkmal des mobileTAN-Sicherheitsverfahren besteht darin, dass Transaktionsnummern (TAN) über einen zweiten Kanal, das Handy oder Smartphone, bereitgestellt werden. Dies wäre im Falle Ihrer App aktuell nicht gewährleistet. So entstünde eine vermeidbare Sicherheitslücke. Für Transaktionen auf der App stehen Ihnen die sicheren Verfahren Sm@rt-TAN-plus sowie VR-SecureGo zur Verfügung. Beim Banking über die App auf Ihrem iPad können Sie mobileTAN nutzen, da die Kanaltrennung gegeben ist.
+###
+Welches Risiko besteht, wenn ich mein Smartphone oder Tablet-PC verliere?
+
+Für den Zugang zum Banking wird das Masterpasswort benötigt oder der VR-Netkey/Alias und die PIN. Masterpasswort und PIN werden nicht gespeichert und können daher bei Verlust des Smartphones nicht entwendet werden. Achten Sie dennoch darauf, ein Masterpasswort mit einer hohen Sicherheitsstufe anzulegen. Hierbei helfen Ihnen die Tipps in den Sicherheitshinweisen der App bei Anlage des Masterpassworts. Wird das Masterpasswort 5-mal falsch eingegeben, wird die Anwendung zurückgesetzt.
+###
+Was ist Multibankenfähigkeit?
+
+Sie haben Konten bei unterschiedlichen Banken? Kein Problem für die EB-Banking App. Dank aktueller Zugriffsstandards können Sie Kontostände bei den meisten Banken in einer App abrufen. Auch Überweisungen vom Konto bei Ihrer Evangelischen Bank eG auf alle anderen eingebundenen Konten sind möglich.
+###
+Wo kann ich eine neue Bankverbindung im EB-Banking APP hinzufügen?
+
+Sie können neue Bankverbindungen in den Einstellungen hinzufügen. Öffnen Sie im Menü den Punkt "Einstellungen". Wählen Sie "Bankverbindung hinzufügen". Ein Assistent führt Sie durch die Funktion.
+###
+Kann ich die EB-Banking App auch ohne Zugangsdaten testen?
+
+In der aktuellsten Version für iOS und Android ist die Funktion "Demo-Anwendung" verfügbar, mit der Sie alle Funktionen testen können.
+###
+Kann ich die EB-Banking App auch nutzen, wenn ich kein Kunde der Evangelischen Bank bin?
+
+Ja. Mit der Funktion „Multibankenfähigkeit“ für iPhone, iPod, iPad und Android können Sie die App auch nutzen, wenn Ihre Bank nicht im Geschäftsgebiet der Fiducia & GAD IT AG ist. Ihre Bank wird dann per HBCI hinzugefügt. Sie können beispielsweise Kontosalden abrufen oder Transaktionen durchführen.
+###
+Kann ich die EB-Banking App auch offline, also ohne Internetverbindung nutzen?
+
+Ja, Sie können die App auch offline nutzen. Bitte beachten Sie jedoch, dass dann nur die Umsätze von der letzten Aktualisierung angezeigt werden.
+###
+Wie kann ich eine neue Bankverbindung im EB-Banking App hinzufügen?
+
+Sie können neue HBCI-fähige Bankverbindungen in den Einstellungen hinzufügen. Öffnen Sie im Menü den Punkt "Sonstiges". Wählen Sie "Bankverbindung hinzufügen". Ein Assistent führt Sie durch die Funktion.
+###
+Kann ich die Geldautomatensuche ohne GPS-Empfang verwenden?
+
+Ja. Die Geldautomaten- und Filialsuche kann auch ohne GPS-Empfang genutzt werden. Die Standortbestimmung erfolgt dann über die geografische Zuordnung des WLAN-Einwahlknotens. Zudem ist die manuelle Eingabe des Standorts über den Ortsnamen oder die Postleitzahl möglich.
+###
+Warum kann ich mich nach einer Übertragung der Daten von meinem alten iPhone auf mein neues iPhone nicht mehr anmelden?
+
+Bei Erstellung des Backups auf Ihrem alten Gerät müssen Sie das Häkchen "Lokales Backup verschlüsseln" aktivieren. Das Passwort wird sonst aufgrund einer Sicherheitsrichtlinie von Apple nicht mit übertragen und verhindert so die Anmeldung.
+###
+Kann ich die App auch ohne Internetverbindung nutzen?
+
+Ja, Sie können die App auch offline nutzen. Bitte beachten Sie jedoch, dass dann nur die Umsätze von der letzten Aktualisierung angezeigt werden.
+###
+Welche Berechtigungen benötigt die EB-Banking App auf Android-Geräten?
+
+Standort
+
+Die VR-BankingApp beinhaltet einen Geldautomaten- und Filialfinder. Um hiermit schnell Ziele in der direkten Nähe zu finden, kann der aktuelle Standort des Gerätes verwendet werden.
+
+Fotos/Medien/Dateien
+
+Bei Nutzung des VR-ProfiBrokers der App werden ggf. Inhalte in PDF-Form auf dem Speicher des Endgerätes abgelegt.
+
+Kamera/Mikrofon
+
+Die Berechtigung "Bilder und Videos aufnehmen" wird für die Funktion GiroCode benötigt. Hierbei wird mithilfe der Smartphone- oder Tablet-Kamera ein Zweidimensionaler Code abgescannt, mithilfe dessen eine vorausgefüllte Überweisungsmaske bereitgestellt werden kann.
+
+Sonstige
+
+Für das Abrufen der Kontoinformationen und -umsätze wird der Zugriff auf Netzwerkverbindungen benötigt.
+Mithilfe der Smartphone-Vibration kann dem Nutzer ein physisches Feedback beispielsweise bei der Erkennung eines GiroCodes geliefert werden.
+Da die EB-Banking App im Geldautomatenfinder Google Maps zur Kartendarstellung einbindet, werden die Google-Servicekonfigurationen ausgelesen, welche zur Nutzung aller Google In-App-Angebote benötigt werden.
+###
+Wie funktioniert die Anmeldung via Touch-ID?
+
+Die Anmeldung an der EB-Banking App lässt sich nun mit Hilfe des Touch-ID Fingerabdruckscanners durchführen.
+
+Die Funktion ist verfügbar für Nutzer, die mindestens ein iPhone 5s, iPad Air 2, iPad Mini 2, Android-Gerät (mit Fingerprint-Standard ab Android 6) besitzen und muss gesondert aktiviert werden. Entscheiden Sie sich für den Einsatz des Touch-ID Verfahrens, müssen Sie ihr Passwort einmalig eingeben und können die App fortan entsperren, ohne das Kennwort eingeben zu müssen. Die Autorisierung neuer Transaktionen muss natürlich weiterhin mit einer TAN bestätigt werden.
+###
+Ich habe mein Login-Passwort für das App vergessen, wie kann ich es zurücksetzen?
+
+Das Startpasswort kann zurückgesetzt werden, indem es 5 mal falsch eingegeben wird.
+
+Bitte beachten Sie, dass es sich dabei nur um das App-Passwort handelt. Sollten Sie Ihre Online-Banking-Zugangsdaten vergessen haben, wenden Sie sich bitte direkt an Ihre Bank.
+###
+Wer ist die Fiducia & GAD IT AG?
+
+Die Fiducia & GAD IT AG ist der Dienstleister für Informationstechnologie innerhalb der genossenschaftlichen FinanzGruppe . Das Unternehmen mit Verwaltungssitz in Karlsruhe und Münster sowie Niederlassungen in München, Frankfurt und Berlin beschäftigt in der Unternehmensgruppe gegenwärtig fast 5.700 Mitarbeiter, die gemeinsam einen jährlichen Konzernumsatz von rund 1,3 Milliarden Euro erwirtschaften.
+
+Zum Kundenkreis der Fiducia & GAD zählen alle 1.000 Volksbanken und Raiffeisenbanken in Deutschland, die Unternehmen der genossenschaftlichen Finanzgruppe sowie zahlreiche Privatbanken und Unternehmen anderer Branchen, darunter auch der ADAC. Die Fiducia & GAD betreut mehr als 167.000 Bankarbeitsplätze, verwaltet knapp 79 Millionen Kundenkonten und stellt mit bundesweit gut 36.000 eigenen Selbstbedienungsgeräten flächendeckend eine reibungslose Bargeldversorgung sicher.
+
+In ihren Hochsicherheitsrechenzentren betreibt die Fiducia & GAD derzeit die beiden Bankverfahren agree21 und bank21.
+###

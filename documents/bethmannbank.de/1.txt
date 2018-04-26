@@ -1,4 +1,6 @@
+###
 Ich erhalte die Fehlermeldung Die Anmeldung war fehlerhaft. Bitte überprüfen Sie Ihre Anmeldedaten."
+
 Bitte überprüfen Sie die folgenden Daten und geben Sie diese ggf. nochmals ein:
 
     Kundennummer
@@ -6,37 +8,50 @@ Bitte überprüfen Sie die folgenden Daten und geben Sie diese ggf. nochmals ein
     Persönliche Identifikationsnummer (PIN)
 
 Falls Sie erneut eine Fehlermeldung erhalten, wenden Sie sich bitte an Ihren Berater. Sollte diese Fehlermeldung beim ersten Zugriff auftreten  trotz korrekter Dateneingabe , überprüfen Sie bitte, ob Sie die Empfangsbestätigung der PIN an uns zurückgeschickt haben.
+###
 Ich habe meine Kundennummer/Benutzerkennung vergessen.
+
 Bitte wenden Sie sich an Ihren Berater.
-
+###
 Ich habe meine Persönliche Identifikationsnummer (PIN) vergessen.
+
 Bitte beauftragen Sie Ihren Berater schriftlich, Ihre alte PIN zu sperren und Ihnen eine neue PIN zukommen zu lassen.
-
+###
 Ich habe meine Persönliche Identifikationsnummer (PIN) dreimal hintereinander falsch eingegeben.
-In diesem Fall wird der Zugang zum Online-Banking Portal aus Sicherheitsgründen automatisch gesperrt. Bitte beauftragen Sie Ihren Berater schriftlich mit der Vergabe einer neuen PIN.
 
+In diesem Fall wird der Zugang zum Online-Banking Portal aus Sicherheitsgründen automatisch gesperrt. Bitte beauftragen Sie Ihren Berater schriftlich mit der Vergabe einer neuen PIN.
+###
 Ich möchte meine Persönliche Identifikationsnummer (PIN) ändern.
+
 In der Anmeldemaske steht Ihnen die Funktion PIN Ändern zur Verfügung. Um Ihre PIN zu ändern, geben Sie Ihre Kundennummer/Benutzerkennung und Ihre PIN ein und drücken dann auf PIN ändern. Sie können nun eine neue PIN eingeben; zur Bestätigung ist die Eingabe einer Transaktionsnummer (TAN) erforderlich.
 
 Hinweis: Die Änderung der PIN kann nur während der Anmeldung zum Online-Banking Portal erfolgen.
-
+###
 Warum muss ich noch eine Transaktionsnummer (TAN) eingeben?
+
 Die Eingabe einer zusätzlichen TAN dient der Erhöhung Ihrer Sicherheit z. B. gegen Phishing-Attacken. Wir bieten Ihnen somit ein besonders sicheres Authentifikationsverfahren, indem Ihr Konto durch zwei Faktoren abgesichert wird, die nur Sie kennen: Ihre PIN (Persönliche Identifikationsnummer) und Ihre TAN.
-
+###
 Ich finde den angegebenen Server nicht.
+
 Überprüfen Sie bitte die Internet-Adresse sowie Ihre lokalen Netzwerk-Einstellungen auf ihre Richtigkeit.
-
+###
 Die Transaktionsnummer wird nicht generiert.
+
 Schieben Sie die Karte erneut mit dem Chip nach oben in das Gerät und drücken Sie die Taste "TAN". Es erscheint "Start-Code" bitte drücken Sie danach die Taste "ok". Die angegebene TAN können Sie nun verwenden.
-
+###
 Ich erhalte keinen Kontoauszug vom Vortag.
+
 Es wurden keine Transaktionen/Buchungen auf diesem Konto ausgeführt. Sollte dies doch der Fall sein, kontaktieren Sie bitte Ihren Berater.
-
+###
 Die Datenübertragung war nicht erfolgreich.
+
 Diese Meldung erscheint, wenn eine Anfrage vom Bankrechner nicht ordnungsgemäß bestätigt wurde. Dies kann bei Zeitüberschreitung oder Unterbrechung der Datenverbindung vorkommen. Bitte führen Sie den Auftrag erneut aus und überprüfen Sie bei einer Überweisung, ob diese ausgeführt wurde (Bestätigungsmeldung).
-
+###
 Daueraufträge können nicht geändert werden bzw. werden nicht angezeigt?
-Bitte beachten Sie, dass nur die Daueraufträge angezeigt werden können, die Sie über das Online-Banking im Bereich Konten angelegt haben. Diese können von Ihnen auch jederzeit verwaltet  d.h. geändert oder gelöscht  werden. Bereits bei unserer Bank auf anderem Wege erteilte Daueraufträge können Sie online nicht ändern.
 
+Bitte beachten Sie, dass nur die Daueraufträge angezeigt werden können, die Sie über das Online-Banking im Bereich Konten angelegt haben. Diese können von Ihnen auch jederzeit verwaltet  d.h. geändert oder gelöscht  werden. Bereits bei unserer Bank auf anderem Wege erteilte Daueraufträge können Sie online nicht ändern.
+###
 Kann ich auch Lastschriften ausführen?
+
 Ja, sofern ein entsprechender Lastschriftvertrag mit unserer Bank vorliegt. Sollten Sie noch keinen Vertrag abgeschlossen haben, aber am Lastschriftverfahren teilnehmen wollen, kontaktieren Sie bitte Ihren Berater.
+###

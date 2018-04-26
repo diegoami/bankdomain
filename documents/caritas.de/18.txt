@@ -1,7 +1,8 @@
+###
 Ist das Verbraucherinsolvenzverfahren für mich der richtige Ausweg aus den Schulden?
 
 Die Insolvenzordnung bietet überschuldeten Privatpersonen die Möglichkeit, in einem sogenannten Verbraucherinsolvenzverfahren von Schulden befreit zu werden - die sogenannte Restschuldbefreiung. Da dieses Verfahren sehr langwierig, aufwendig und auch hürdenreich ist, sollten Sie vorab mit einem Schuldnerberater klären, ob das Verbraucherinsolvenzverfahren für Sie auch der richtige Weg ist. Für sich selber sollten Sie sich fragen, ob Sie in den nächsten Jahren genug Zeit und Energie aufbringen können, um dieses Verfahren durchzustehen. Auch Ihre persönliche Situation (eventuelle Scheidung, gesundheitliche Probleme, Verlust des Arbeitsplatzes etc.) sollte in Ihre Entscheidung mit einfließen. Weitere Hinweise finden Sie in dem Auszug aus dem Ratgeber für Überschuldete der Berliner Schuldnerberatungsstellen.
-
+###
 Kann jeder ein Verbraucherinsolvenzverfahren beantragen?
 
 Wenn Sie nicht mehr allen Zahlungsverpflichtungen nachkommen können, gelten Sie als zahlungsunfähig und können ein Verbraucherinsolvenzverfahren beantragen.
@@ -9,43 +10,52 @@ Wenn Sie nicht mehr allen Zahlungsverpflichtungen nachkommen können, gelten Sie
 Das Verbraucherinsolvenzverfahren können Sie nicht beantragen, wenn Sie einmal eine selbstständige Tätigkeit ausgeübt haben und in diesem Zusammenhang mehr als 19 Gläubiger haben und/oder Forderungen (Lohn/Gehalt, Lohnsteuer, Arbeitnehmeranteile von Gesamtsozialversicherungsbeiträgen) von ehemaligen Arbeitnehmern bestehen. Auch im Falle einer aktuellen Selbstständigkeit müssten Sie bei Ihrem zuständigen Insolvenzgericht ein Regelinsolvenzverfahren beantragen.
 
 Wichtig: Sollten Sie aktuelle Miet- oder Energieschulden haben, wenden Sie sich bitte schnellstmöglich an Ihren Schuldnerberater. Maßnahmen, um Ihre Wohnung oder die Stromversorgung zu erhalten, sollten hier unverzüglich ergriffen werden.
-
-Werde ich alle Schulden los?
+###
+Werde ich bei einem Verbraucherinsolvenzverfahren alle Schulden los?
 
 Wenn zu Ihren Schulden auch Bußgelder, Geldstrafen oder sogenannte Forderungen aus vorsätzlich unerlaubter Handlung (z. B. Schadenersatz) gehören - nein. Sollten Geldstrafen oder Bußgelder offen sein, besprechen Sie dies bitte mit Ihrem Schuldnerberater, da diese Forderungen nicht so einfach in einen Insolvenzplan aufgenommen werden können bzw. ohne Zahlung die Inhaftierung drohen kann.
 
 Auch Schulden, die während des Verbraucherinsolvenzverfahrens neu entstehen, werden nicht erlassen.
-
+###
 Bekomme ich im Insolvenzverfahren Restschuldbefreiung für meine Unterhaltsschulden?
 
 Zunächst muss man unterscheiden in laufenden Unterhalt und Unterhaltsrückstand. Unterhaltsrückstände, die vor dem Antrag auf Eröffnung des Insolvenzverfahrens aufgelaufen sind, gehören zu den Insolvenzforderungen. Für diese Forderungen kann also Restschuldbefreiung erteilt werden. Der Unterhaltsgläubiger hat im Insolvenzverfahren keine Möglichkeit mehr, die Unterhaltsrückstände durch Zwangsvollstreckung beizutreiben, da ein Vollstreckungsverbot besteht. Wegen dieser Unterhaltsrückstände kann also auch nicht mehr in den so genannten "Vorrechtsbereich" gepfändet werden.
 
 Falls nach der Insolvenzeröffnung der laufende Unterhalt nicht gezahlt wird, entstehen neue Unterhaltsschulden, die dann nicht unter die Restschuldbefreiung fallen. Für diesen rückständigen Unterhalt dürfen die Unterhalts-Neugläubiger auch in den Vorrechtsbereich des § 850 d ZPO vollstrecken. Es ist deshalb sehr wichtig, sicherzustellen, dass die Unterhaltszahlungen geleistet werden können. U. U. ist auch die Anpassung der laufenden Unterhaltsverpflichtungen an die aktuelle Leistungsfähigkeit notwendig.
-
+###
 Welches Vermögen wird im Verbraucherinsolvenzverfahren verwertet?
+
 Wenn Sie bereits Erfahrungen mit einem Gerichtsvollzieher gemacht haben, wissen Sie, dass alles für eine bescheidene Haushaltsführung Notwendige nicht pfändbar ist. Im Insolvenzverfahren gelten dieselben Rechtsvorschriften. Näheres können Sie bei den Fragen zum "Gerichtsvollzieher" nachlesen. Zum Vermögen gehören auch Forderungen, die Sie gegen andere haben (z. B. Sparverträge, vermögenswirksame Leistungen, Mietkaution, Genossenschaftsanteil, Anspruch aus einer Lebensversicherung). Die Vermögensverwertung findet im eröffneten Verbraucherinsolvenzverfahren statt (die Zeit zwischen Eröffnungsbeschluss und Ankündigung der Restschuldbefreiung). Sollten Sie nach Ankündigung und vor Erteilung der Restschuldbefreiung erben, fließt die Hälfte des Erbes in die Masse.
 
+###
 Ohne Auto kann ich meine Arbeit nicht ausüben. Wird es trotzdem verwertet?
+
 Wenn es beruflich notwendig ist, muss Ihnen Ihr Pkw verbleiben. Fahren Sie ein sehr teures Auto, müsste dies verkauft und ersatzweise ein günstigeres angeschafft werden. Der Treuhänder wird auch genau prüfen, ob Sie mit öffentlichen Verkehrsmitteln zur Arbeit gelangen können und ein Auto wirklich unverzichtbar ist.
 
+###
 Ich wohne in einem noch nicht abbezahlten Einfamilienhaus. Wird dieses versteigert? Müssen wir dann ausziehen?
-Im eröffneten Verbraucherinsolvenzverfahren wird Ihr Vermögen verwertet. Ihr Haus gehört zum Vermögen. ob es verwertet wird, entscheiden die Gläubiger, die Ihnen das Haus finanziert haben. Wenn es tatsächlich verkauft bzw. versteigert wird, müssen Sie damit rechnen, dass der neue Eigentümer das Haus selbst nutzen will.
 
+Im eröffneten Verbraucherinsolvenzverfahren wird Ihr Vermögen verwertet. Ihr Haus gehört zum Vermögen. ob es verwertet wird, entscheiden die Gläubiger, die Ihnen das Haus finanziert haben. Wenn es tatsächlich verkauft bzw. versteigert wird, müssen Sie damit rechnen, dass der neue Eigentümer das Haus selbst nutzen will.
+###
 Kann ich die Verwertung meiner Lebensversicherung verhindern?
 
 Wenn meine Lebensversicherung jetzt verwertet wird, bekommt der Treuhänder gar nicht soviel, aber für mich bedeutet das einen wirtschaftlichen Verlust. Kann ich das nicht verhindern?
 
 Zunächst ist es sinnvoll, den aktuellen Rückkaufwert der Versicherung zu erfragen. Auf diese Summe hat der Treuhänder ein Anrecht. In der Regel wird er Ihnen auf Wunsch Gelegenheit geben, die Versicherung für diesen Betrag "freizukaufen". Sollten also Ihre Familie oder Bekannte in der Lage sein, den aktuellen Wert der Versicherung an den Treuhänder zu zahlen, kann eine Kündigung vermieden werden und Sie könnten diese ganz normal weiter führen (Gleiches gilt auch für andere Vermögenswerte wie z. B. ein Auto).
-
+###
 Wie viel kostet das Verbraucherinsolvenzverfahren?
-Die Erfahrungswerte schwanken zwischen 1.500 EUR und 2.500 EUR. Wenn Sie aus eigener Kraft die Kosten nicht aufbringen, können Sie die Stundung (Zahlungsaufschub) der Kosten beantragen. Diese werden Ihnen dann ausgelegt. Sollten Sie dann während des Verfahrens pfändbare Beträge erzielen, werden diese zunächst mit den entstandenen und Ihnen ausgelegten Kosten verrechnet und wenn diese dann getilgt sind, werden weitere Zahlungen an Gläubiger geleistet. Sollten jedoch Verfahrenskosten über die Erfüllungsphase hinaus offen sein, müssen Sie noch weitere 4 Jahre nachweisen, ob sich Ihre finanzielle Lage verbessert hat. In diesem Zeitraum besteht die Möglichkeit, verauslagte Kosten weiter zu tilgen. Erst nach 4 Jahren können dann die offenen Verfahrenskosten auf Antrag erlassen werden.
 
+Die Erfahrungswerte schwanken zwischen 1.500 EUR und 2.500 EUR. Wenn Sie aus eigener Kraft die Kosten nicht aufbringen, können Sie die Stundung (Zahlungsaufschub) der Kosten beantragen. Diese werden Ihnen dann ausgelegt. Sollten Sie dann während des Verfahrens pfändbare Beträge erzielen, werden diese zunächst mit den entstandenen und Ihnen ausgelegten Kosten verrechnet und wenn diese dann getilgt sind, werden weitere Zahlungen an Gläubiger geleistet. Sollten jedoch Verfahrenskosten über die Erfüllungsphase hinaus offen sein, müssen Sie noch weitere 4 Jahre nachweisen, ob sich Ihre finanzielle Lage verbessert hat. In diesem Zeitraum besteht die Möglichkeit, verauslagte Kosten weiter zu tilgen. Erst nach 4 Jahren können dann die offenen Verfahrenskosten auf Antrag erlassen werden.
+###
 Ich habe kein pfändbares Einkommen, da mein Einkommen zu gering ist. Werde ich trotzdem meine Schulden los?
 
 Ja. In Deutschland gibt es keine Regelung über einen  Mindestbetrag, den Gläubiger erhalten müssen.
-
+###
 Ich habe nur Schulden mit meinem Ehepartner gemeinsam. Können wir einen gemeinsamen Antrag stellen?
+
 Nein. Jeder muss seinen eigenen Antrag stellen.
 
+###
 Kann ich mich während des Verfahrens selbstständig machen?
 Berufliche Veränderungen müssen ab der Eröffnung des Verfahrens immer mit Ihrem Treuhänder abgesprochen werden. Dieser müsste Ihrem Plan, sich selbstständig zu machen, zustimmen. Da der Treuhänder z. T. für Ihre laufenden Zahlungsverpflichtungen wie Steuerzahlungen persönlich haftet, kann es sein, dass er nicht bereit ist, die Risiken einer Selbstständigkeit mitzutragen. Suchen Sie diesbezüglich also frühzeitig das Gespräch mit Ihrem Treuhänder.
+###

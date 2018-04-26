@@ -1,3 +1,4 @@
+###
 Ich habe ein Versicherungspaket über meine IKEA Kreditkarte gebucht und möchte einen Schadensfall melden. Wie kann ich das tun?
 
 Bei einem Schadensfall meldest Du Dich hier:
@@ -7,7 +8,7 @@ http://versicherungsfall.creditlife.net
 Wenn Du bezüglich Deines Reiseschutzes einen Schaden melden möchtest, kannst Du Dich gerne an die 24 Stunden Hotline der Credit Life AG wenden:
 
 Telefon 02131 2010 7065
-
+###
 Welche Kartenzusatzleistungen gibt es und wo kann ich diese beantragen?
 
 Es gibt insgesamt 5 optional buchbare Kartenzusatzleistungen, die je nach Bedarf dazugebucht werden können:
@@ -19,16 +20,17 @@ Es gibt insgesamt 5 optional buchbare Kartenzusatzleistungen, die je nach Bedarf
     Cash Plus
 
 Nähere Informationen zu den einzelnen Kartenzusatzleistungen findest Du hier.
-
+###
 Ich möchte gebuchte Kartenzusatzleistungen kündigen. Wie geht das?
 
 Du kannst spätestens einen Monat vor Ende der Mindestvertragslaufzeit kündigen. Wir brauchen Deine Kündigung in Textform (zum Beispiel per Brief, Fax oder E-Mail).
 
 Weitere Informationen zu den Kartenzusatzleistungen findest Du hier.
-
+###
 Wo kann ich mich melden, wenn ich Fragen zu meiner IKEA Kreditkarte habe?
 
 Du kannst Dich gerne an unseren Ikano Bank Kundenservice wenden oder uns eine E-Mail schicken:
 
 Telefon 06122 999 911
 E-Mail IKEA-Kreditkarte@ikano.de
+###

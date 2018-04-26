@@ -1,39 +1,41 @@
+###
 Was bedeutet Identitätsprüfung per Video?
 
 Die Identitätsprüfung per Video ist ein komfortables Verfahren, mit dem die Identität von Nutzern online sowie unabhängig von Ort und Zeit festgestellt wird. Es ist vollkommen digital und lässt sich innerhalb weniger Minuten durchführen.
 
-
+###
 Warum ist eine Identitätsprüfung per Video erforderlich?
 
 Das Europäische Recht (Art. 8 der Dritten EU-Anti-Geldwäsche-Richtlinie) verpflichtet Finanzinstitute, die Identität Ihrer Kunden festzustellen, bevor sie eine Geschäftsbeziehung mit ihnen aufnehmen. Dies betrifft sowohl Kunden als natürliche Personen als auch die Unternehmen für die sie arbeiten.
-
+###
 Wie funktioniert das Identitätsprüfung per Video?
 
 Unser Dienstleistungspartner IDnow stellt eine sichere Videoverbindung zu Ihnen her und ein Mitarbeiter bittet Sie dann, Ihre persönlichen Angaben mittels Ihres Personalausweises oder Reisepasses zu bestätigen.
-
+###
 Sind meine Daten sicher? Ist dieser Dienst vertrauenswürdig?
 
 Unser Partner IDnow ist inzwischen offiziell von den Finanzaufsichtsbehörden aller europäischen Länder anerkannt, die Identitätsprüfung per Video zugelassen haben. Das Verfahren entspricht den Bestimmungen des Geldwäschegesetzes. Ihre Daten werden zu Ihrer Sicherheit verschlüsselt und auf Hochverfügbarkeitsservern in Deutschland gespeichert. IDnow erfüllt die strengsten Datenschutzanforderungen und wurde diesbezüglich vom Institute for IT Law zertifiziert. Alle Daten sind verschlüsselt und werden sicher übermittelt.
-
+###
 Wer ist IDnow?
 
 IDnow ist unser Partner, der die Identitätsprüfung per Video durchführt. IDnow wurde von den Finanzaufsichtsbehörden aller europäischen Länder zugelassen, die Verfahren zur Identitätsprüfung per Video grundsätzlich erlauben.
 
-
+###
 Die Identitätsprüfung per Video funktioniert nicht.
 
 Bei technischen Problemen während der Identitätsprüfung per Video können Sie einen neuen Videoanruf starten, um es erneut zu versuchen.
 Sollten weitere Probleme auftreten, kontaktieren Sie uns bitte über die Chatfunktion.
-
+###
 Wie geht es nach der Identitätsprüfung per Video weiter?
 
 Sie können nun sofort Ihr neues Konto nutzen. Das Konto wird jedoch erst dann in vollem Umfang freigeschaltet, wenn alle anderen gesetzlichen Vertreter ebenfalls die Identitätsprüfung per Video abgeschlossen haben und die Angaben zu Ihrem Unternehmen ebenfalls bestätigt worden sind. Sie können jedoch bereits vor der vollständigen Freischaltung Zahlungen auf das Konto anweisen und sich schon vorab mit der Nutzung der Oberfläche vertraut machen.
-
+###
 Wie werden die anderen gesetzlichen Vertreter des Unternehmens kontaktiert?
 
 Wir werden allen in den vorhergehenden Schritten bestätigten gesetzlichen Vertretern eine E-Mail zusenden. Sie werden darin aufgefordert, sich wie ebenfalls per Video zu identifizieren. Zur Beschleunigung des Verfahrens können Sie sie vorab darüber informieren, dass sie einen Link zur Identitätsprüfung per Video erhalten werden und warum diese Identitätsprüfung erforderlich ist.
 
-
+###
 Was geschieht, wenn nicht alle gesetzlichen Vertreter unseres Unternehmens erreichbar sind?
 
 Ihr Konto wird trotzdem eingerichtet, allerdings werden keine Zahlungsanweisungen möglich sein solange die Identität der übrigen gesetzlichen Vertreter nicht überprüft wurde. Zur Beschleunigung des Verfahrens können Sie selbstverständlich die anderen gesetzlichen Vertreter darüber informieren, dass Sie ein neues Geschäftskonto bei uns einrichten.
+###

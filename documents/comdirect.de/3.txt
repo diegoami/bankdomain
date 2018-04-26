@@ -1,3 +1,4 @@
+###
  Was sollte ich beim Geldabheben und Bezahlen im Ausland beachten?
 
     Beim Abheben am Geldautomaten wählen Sie die Landeswährung. Für die Abrechnungen in Landeswährung werden die Devisenkurse der Commerzbank AG zugrunde gelegt.
@@ -12,17 +13,17 @@
 
     Bei bargeldlosen Verfügungen in fremder Währung mit Ihrer Visa-Karte erfolgt die Währungsumrechnung zum Devisengeldkurs. Die Commerzbank AG stellt den Devisengeldkurs bankarbeitstäglich um 13.00 Uhr (MEZ), unter Bezugnahme des internationalen Devisenmarktkurses. Es gilt der Geldkurs des vorangegangenen Börsentages, bezogen auf den Eingang des Umsatzes bei Visa.Bei bargeldlosen Verfügungen in fremder Währung mit Ihrer girocard erfolgt die Währungsumrechnung durch den jeweiligen Dienstleister mit dem von ihm festgelegten Referenzkurs.
 
-
+###
  Was kostet es, wenn ich mit der Visa-Karte im Euroraum am Geldautomaten Bargeld abhebe?
 
     Es fällt je Auszahlung ein Entgelt von 9,90 Euro an. Daher empfehlen wir Ihnen, in allen Ländern mit Euro als offizieller Landeswährung mit Ihrer girocard Bargeld abzuheben. Das geht an jedem Geldautomaten.
 
-
+###
  Kann ich meinen Verfügungsrahmen für die Visa-Karte erhöhen lassen?
 
     Den verfügbaren Betrag Ihrer Visa-Karte erhöhen Sie ganz einfach per Überweisung von Ihrem comdirect Girokonto auf das Kreditkartenkonto. Das Guthaben steht Ihnen sofort zusätzlich zu Ihrem Kartenlimit zur Verfügung. Der Betrag auf Ihrem Kartenkonto kann maximal 10.000 Euro betragen.
 
-
+###
 Wie viel Bargeld kann ich pro Tag maximal am Geldautomaten mit meinen Karten abheben?
 
     Folgende Limits gelten für Ihre comdirect Karten:
@@ -35,18 +36,17 @@ Wie viel Bargeld kann ich pro Tag maximal am Geldautomaten mit meinen Karten abh
 
     Visa-Karte
     An Geldautomaten im In- und Ausland verfügen Sie täglich bis maximal 600 Euro (oder den entsprechenden Gegenwert in ausländischer Währung).
-
+###
  Wie hoch ist mein Kreditkartenlimit?
 
     Sie sehen Ihr Kreditkartenlimit online im Persönlichen Bereich in Ihrer Kontoübersicht. Gerne teilen wir Ihnen die Höhe auch telefonisch mit.
-
+###
  Wonach richtet sich die Höhe des Monatslimits der Visa-Karte?
 
     Im Rahmen der Kontoeröffnung wird das Limit der Visa-Karte je nach Bonität eingerichtet. Benötigen Sie ein höheres Limit, setzen Sie sich bitte mit uns in Verbindung. Gerne prüfen wir Ihren Wunsch.
 
 
-
-
+###
 Kann ich das Limit für meine girocard erhöhen lassen?
 
     Für die Bargeldversorgung am Geldautomaten verfügt Ihre girocard standardisiert über ein Tageslimit von 1.000 Euro und ein Wochenlimit von 2.000 Euro. Bei bargeldlosen Zahlungen mit persönlicher Geheimzahl (PIN) wird nur das Wochenlimit berücksichtigt. Wenn Sie mit girocard und Unterschrift (Lastschriftverfahren) zahlen, entscheidet der Händler - unabhängig vom Kartenlimit - bis zu welchem Betrag Sie verfügen können.
@@ -54,15 +54,16 @@ Kann ich das Limit für meine girocard erhöhen lassen?
     Für die Änderung des Tages- und Wochenlimits Ihrer girocard rufen Sie uns bitte an.
 
     Bitte beachten Sie, dass Ihre girocard im Ausland generell über ein Tageslimit von maximal 1.000 Euro verfügt. Dieses Tageslimit gilt für Bargeldverfügungen und bargeldlose Zahlungen mit PIN und kann nicht geändert werden.
-
+###
  Wie funktioniert die Abrechnung der Visa-Karte?
 
     Mit Ihrer Visa-Karte getätigte Zahlungen werden über den Monat auf Ihrem Visa-Kartenkonto gesammelt. Die Abrechnung der Umsätze erfolgt am ersten Buchungstag des Folgemonats. Anschließend steht Ihnen wieder das volle Limit zur Verfügung. Bitte beachten Sie: Sollte ein Umsatz noch nicht vom Händler abgerechnet worden sein, mindert dieser Betrag weiterhin das Limit Ihrer Karte.
-
+###
 Wie ändere ich die PIN für meine Visa-Karte?
 
     Sie ändern die PIN zu Ihrer Visa-Karte im Persönlichen Bereich unter Konto & Karte > Kartendaten. Die Eingabe Ihrer Wunsch-PIN führen Sie bitte zweimal durch und bestätigen die Änderung mit einer TAN. Die Wunsch-PIN steht Ihnen nach der TAN-Bestätigung sofort zur Verfügung.
-
+###
  Kann ich unbegrenzt Guthaben auf mein Visa-Kartenkonto überweisen?
 
     Das Guthaben auf Ihrem Visa-Kartenkonto kann maximal 10.000 Euro betragen.
+###

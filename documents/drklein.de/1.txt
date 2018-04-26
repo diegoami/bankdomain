@@ -1,4 +1,4 @@
-
+###
 Beleihungsauslauf – was versteht man darunter?
 
 Bei der Finanzierung einer Immobilie begegnen einem früher oder später die Begriffe Beleihungswert und Beleihungsauslauf. Der Beleihungswert gibt an, mit welcher Kreditsumme die Immobilie insgesamt beliehen werden kann – sprich: Welche Summe ist eine Bank bereit, Ihnen für die Immobilie maximal zu leihen? Der Beleihungsauslauf hingegen ist eine Prozentzahl, die das Verhältnis zwischen Ihrem Darlehen inklusive bestehender Vorlasten und dem Beleihungswert Ihres Objekts wiedergibt.
@@ -14,3 +14,4 @@ Beleihungsauslauf = (130.000 Euro + 50.000 Euro + 0 Euro) / 300.000 Euro = 0,6 =
 Der Beleihungsauslauf beträgt in diesem Fall also 60 Prozent - das heißt, Sie beleihen die Immobilie nur zu 60 Prozent. Theoretisch haben Sie noch Luft nach oben und könnten die Baufinanzierung zum Beispiel zu einem späteren Zeitpunkt noch mal aufstocken, wenn Sie beispielsweise einen Modernisierungskredit für eine neue Heizung benötigen.
 
 Wichtig zu wissen ist aber: Je höher ein Darlehen im Verhältnis zum Objektwert ist, desto höher ist der Beleihungsauslauf und desto größer das Finanzierungsrisiko für die Bank. Das schlägt sich auf den Bauzins nieder, den sie Ihnen anbietet. Es gilt also: Je höher der Beleihungsauslauf, desto schlechter der Zins. Auf unserer Seite rund um das Thema aktuelle Bauzinsen sehen Sie an konkreten Beispielen, welchen Unterschied die Höhe des Beleihungswertes hinsichtlich des Sollzinses machen kann.
+###

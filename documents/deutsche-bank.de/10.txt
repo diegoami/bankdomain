@@ -1,13 +1,20 @@
+
 Digitales Postfach
+###
 Wie lange werden Dokumente im Postfach aufbewahrt?
 
 Alle Dokumente bleiben unbefristet im Postfach sichtbar.
+###
 Wie erhalte ich eine Benachrichtigung bei Eingang eines neuen Dokuments?
 Bei Eingang neuer Dokumente besteht die Möglichkeit, eine Benachrichtigung per SMS und/ oder E-Mail zu verschicken. Sie können diese Funktion unter dem Menüpunkt „Benachrichtigungen“ einrichten.
+###
 Können gelöschte Dokumente wieder in das Postfach eingestellt werden?
 
 Dokumente können durch Ihren Berater bzw. Ihr Service-Center im Postfach wiederhergestellt werden.
+###
 Was bedeutet „Postversand“ bei einem Dokument?
 Wenn Sie ein lesepflichtiges Dokument nicht über Ihr Postfach abrufen, erfolgt der Postversand. Das Dokument ist weiterhin für Sie im Postfach verfügbar, wurde Ihnen jedoch auch per Post zugesandt.
+###
 Welche Dokumente werden in das Postfach eingestellt?
 Sie erhalten folgende Dokumente in Ihrem Postfach: Kontodokumente (z. B. Kontoauszug und -abrechnung), Kreditkartenumsatz-Abrechnung, Wertpapierdokumente (z. B. Wertpapierabrechnung, Dividenden- und Coupongutschrift) oder Bankmitteilungen. Eine Übersicht finden Sie hier.
+###

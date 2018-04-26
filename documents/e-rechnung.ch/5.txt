@@ -1,23 +1,23 @@
-
+###
 Ist bei der E-Rechnung der Datenschutz gewährleistet?
 
 Sämtliche Banken sowie SIX Paynet AG und PostFinance AG haben sich vertraglich verpflichtet, die gespeicherten Daten geheim zu halten und ausschliesslich zur Erbringung der E-Rechnungsdienstleistung zu verwenden.
-nach oben
+###
 Ist bei der E-Rechnung die Datensicherheit gewährleistet?
 
 Die E-Rechnung ist integraler Bestandteil des E-Banking. Deshalb gelten auch für die E-Rechnung die branchenüblichen, umfassenden Sicherheitsvorkehrungen und Datenschutzrichtlinien. Die Datensicherheit sowie die Sicherheit der Übermittlung geniessen in den E-Rechnungssystemen einen sehr hohen Stellenwert: Zum Schutze der Daten werden alle modernen Verfahren gemäss den E-Banking-Standards der Schweizer Banken angewendet. Alle beteiligten Partner sind vertraglich verpflichtet, die Systeme und die gespeicherten Daten zu schützen.
-nach oben
+###
 Werden meine E-Rechnungen automatisch bezahlt?
 
 Nein. Sie geben die E-Rechnungen im E-Banking per Mausklick zur Zahlung frei.
 
 Bei einigen Banken besteht die Möglichkeit, eine Dauerfreigabe für E-Rechnungen einzurichten. Bitte fragen Sie bei Interesse direkt bei Ihrer Bank nach, ob Sie in Ihrem E-Banking Dauerfreigaben für E-Rechnungen einrichten können.
-nach oben
+###
 Kann ich eine E-Rechnung im E-Banking ablehnen, wenn ich nicht einverstanden bin?
 
 Ja, Sie können eine E-Rechnung im E-Banking per Mausklick ablehnen. Bitte setzen Sie sich mit Ihrem Rechnungssteller in Verbindung.  Ansonsten ist es möglich, dass Sie eine Mahnung  erhalten.
-nach oben
+###
 Wie lange habe ich Zugriff auf das PDF meiner Rechnung?
 
 Das PDF können Sie mindestens 90 Tage lang über Ihr E-Banking herunterladen. Danach wird die E-Rechnung gelöscht.
-nach oben
+###

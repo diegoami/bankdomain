@@ -1,3 +1,4 @@
+###
 Wer kann das Fleks Horten Tagesgeldkonto beantragen?
 
 Jeder der
@@ -6,26 +7,26 @@ Jeder der
     Seinen ständigen Wohnsitz in Deutschland hat
     Als Staatsbürger eines anderen Landes eine unbefristete Aufenthaltsgenehmigung (Niederlassungserlaubnis) für Deutschland hat
     Eine deutsche Bankverbindung besitzt
-
+###
 Wie beantrage ich das Fleks Horten Tagesgeldkonto?
 
 Du kannst das Fleks Horten Tagesgeldkonto schnell und einfach beantragen:
 
     Online‑Antrag ausfüllen, ausdrucken und unterschreiben.
     Mit den Dokumenten zur Post gehen und Dich dort mit dem PostIdent‑Verfahren legitimieren lassen (Personalausweis oder Reisepass nicht vergessen) Wichtig: Solltest Du bereits eine Rote MasterCard Karte von uns haben, benötigst Du natürlich kein weiteres Postident.
-
+###
 Welche technischen Voraussetzungen benötige ich, um das Fleks Horten Tagesgeldkonto nutzen zu können?
 
 Um Dein Fleks Horten Tagesgeldkonto in vollem Umfang nutzen zu können, benötigst Du lediglich einen Internetanschluss, eine eigene E‑Mail Adresse und eine eigene Handynummer.
-
+###
 Wie ist der aktuelle Zinssatz und bis wann ist er gültig?
 
 Der Zinssatz ist variabel und kann jederzeit angepasst werden. Den jeweils gültigen Zinssatz findest Du in unserem aktuellen Preisverzeichnis auf www.ikanobank.de/service/downloads.
-
+###
 Bis zu welchem Betrag ist meine Geldanlage abgesichert?
 
 Einlagen, die bei der Ikano Bank AB (publ), Zweigniederlassung Deutschland platziert werden, unterliegen der gesetzlich schwedischen Entschädigungseinrichtung durch Riksgälden (Swedish National Debt Office). Damit sind Geldanlagen bei der Ikano Bank bis zu einer Einlagensumme von insgesamt 100.000 Euro automatisch abgesichert. Dieser Betrag ist auch gleichzeitig die Höchstgrenze, bis zu welcher Dein Guthaben verzinst wird. Mehr Informationen zum Thema Sicherheit findest Du hier.
-
+###
 Wie kann ich Geld auf mein Fleks Horten Tagesgeldkonto einzahlen?
 
 Einzahlungen auf Dein Tagesgeldkonto kannst Du durch Überweisung von jedem beliebigen Girokonto vornehmen. Überweise einfach den gewünschten Betrag unter Angabe der folgenden Daten:
@@ -39,23 +40,24 @@ Name der Bank: Svenska Handelsbanken
 Verwendungszweck: Deine Vertragsnummer
 
 Auszahlungen von Deinem Fleks Horten Tagesgeldkonto sind nur auf Dein bei uns hinterlegtes Referenzkonto möglich.
-
+###
 Was ist das mTAN‑Verfahren und wie sicher ist es?
 
 mTAN steht für mobile Transaktionsnummer und ist eine einfache, bequeme Verfahrensweise, die die Sicherheit im Umgang mit dem Onlineservice erhöht. Konkret heißt es, dass Dir die Transaktionsnummer (mTAN), die Du zum Beispiel für Überweisungen von Deinem Konto bei uns benötigst, per SMS auf Deine bei uns hinterlegte Handynummer geschickt wird. Die Zusendung Deiner mTAN erfolgt in der Regel innerhalb weniger Sekunden (abhängig von Deinem Telefonanbieter) und ist für Dich selbstverständlich kostenfrei. Die erhaltene mTAN ist nur einmalig für die angegebene Transaktion und nur für wenige Minuten gültig. Danach verfällt sie und kann nicht mehr verwendet werden.
-
+###
 Was ist ein Freistellungsauftrag und wie kann ich ihn erteilen?
 
 Mit dem Freistellungsauftrag hast Du die Möglichkeit, Deine Zinserträge bis zur Höhe des erteilten Betrages vom Abzug der Kapitalertragsteuern zu befreien. Ledige können Freistellungsaufträge bis insgesamt höchstens 801 Euro, gemeinsam veranlagte Ehepartner bis insgesamt höchstens 1602 Euro erteilen. Diese Beträge gelten dabei für alle Kapitalerträge bei uns und bei anderen Finanzinstituten. Bei uns kannst Du Deinen Freistellungsauftrag ganz bequem in unserem Onlineservice einrichten, löschen oder ändern. Hierzu ist das mTAN Verfahren notwendig.
-
+###
 Wann werden die Zinsen gutgeschrieben?
 
 Die Gutschrift der Guthabenzinsen erfolgt einmal jährlich, jeweils zum 31. Dezember.
-
+###
 Kann ich jemandem eine Vollmacht für mein Fleks Horten Tagesgeldkonto erteilen?
 
 Ja, Du hast die Möglichkeit, jemandem eine Vollmacht über Dein Fleks Horten Tagesgeldkonto zu erteilen. Wenn Du eine Vollmacht erteilen möchtest, wende Dich bitte an unseren Kundenservice.
-
+###
 Kann ich Umbuchungen zwischen meiner Rote MasterCard Karte und meinem Fleks Horten Tagesgeldkonto vornehmen?
 
 Ja, Du kannst Beträge bis zur Höhe Deines vollständigen Guthabens zwischen Deiner Rote MasterCard Karte und Deinem Fleks Horten Tagesgeldkonto umbuchen. Bitte benutze hierfür unser Umbuchungsformular. Dieses findest Du im Bereich "Dokumente".
+###

@@ -1,3 +1,4 @@
+###
 Wann kommt es zu einer Lohn- und Gehaltspfändung?
 
 Ein Gläubiger wird immer dann versuchen Ihr Einkommen wie z. B. Lohn, Gehalt, Rente, Krankengeld oder Arbeitslosengeld zu pfänden, wenn er vermutet, dass Ihr Einkommen über der Pfändungsfreigrenze liegt.
@@ -5,7 +6,7 @@ Ein Gläubiger wird immer dann versuchen Ihr Einkommen wie z. B. Lohn, Gehalt, R
     Der Gläubiger muss einen vollstreckbaren Titel über die Forderung besitzen. Titel sind z. B. Vollstreckungsbescheide, Gerichtsurteile, Beschlüsse und notarielle Urkunden. Aus offenen Rechnungen oder Mahnungen kann keine Pfändung erfolgen.
 
     Ist der Gläubiger eine Behörde, wie z. B. Finanzamt, Arbeitsamt, GEZ oder gesetzliche Krankenkasse, ist die Forderung bereits durch den Bescheid wie z. B. Gebühren-, Steuer- oder Rückforderungsbescheid tituliert.
-
+###
 Wie verläuft die Lohn- und Gehaltspfändung und mit welchen Folgen habe ich zu rechnen?
 
 Auf der Grundlage des Titels beantragt der Gläubiger beim Gericht einen Pfändungs- und Überweisungsbeschluss (PfÜb).
@@ -15,13 +16,13 @@ Der PfÜb wird dem Drittschuldner zugestellt. Drittschuldner ist die Stelle, woh
 Ist der Gläubiger eine Behörde, wird die Pfändung über die zuständige Vollstreckungsstelle der Behörde, wie z. B. Hauptzollamt oder Finanzamt veranlasst. Diese erlässt eine Pfändungs- und Einziehungsverfügung, welche genau wie ein PfÜb wirkt.
 
 Ihr Arbeitgeber ist nur als Drittschuldner verpflichtet, den pfändbaren Anteil Ihres Netto-Einkommens an den Gläubiger zu überweisen.
-
+###
 Was ist pfändbar? Was ist unpfändbar?
 
 Wie viel monatlich gepfändet wird, richtet sich nach der Höhe Ihres Einkommens und der Anzahl der Personen, für die Sie zum Unterhalt verpflichtet snd, also für Kinder und Ehepartner.
 
 Anhand der Pfändungstabelle können Sie die Pfändungsfreigrenze und den pfändbaren Betrag ermitteln. Die Symbol für externen LinkPfändungstabelle bekommen Sie bei Ihrer Schuldnerberatung oder finden Sie im Internet unter www.schuldnerberatung-berlin.de.
-
+###
 Wie kann ich meine Pfändungsfreigrenze anheben lassen?
 
     Der formlose Antrag wird schriftlich oder mündlich beim Vollstreckungsgericht gestellt.
@@ -33,7 +34,7 @@ Wie kann ich meine Pfändungsfreigrenze anheben lassen?
     Der Gerichtsbeschluss ist in der Regel kostenfrei.
     Wird Ihr Einkommen von einem öffentlichen Gläubiger gepfändet, ist der Antrag bei der Vollstreckungsstelle der Behörde zu stellen. Zu dem Antrag auf Anhebung der Pfändungsfreigrenze sollte immer die einstweilige Einstellung der Pfändung beantragt werden. Dadurch wird dem Vollstreckungsgericht eine besondere Eilbedürftigkeit signalisiert.
     Nach Erhalt des Festsetzungsbeschlusses können Sie innerhalb von zwei Wochen sofortige Beschwerde einlegen.
-
+###
 Wie und wo erhalte ich eine Bescheinigung des sozialhilferechtlichen Existenzminimums?
 
 Diese Bescheinigung ist eine fiktive Sozialhilfeberechnung, die Sie über das Sozialamt erhalten. Informieren Sie den zuständigen Sachbearbeiter darüber, dass Sie keine Auszahlung von Sozialleistungen anstreben. Im Gegenteil, Sie wollen eine zu Ihrem unpfändbaren Lohnanteil ergänzende Sozialhilfe vermeiden. Liegt der fiktive Sozialhilfebetrag über dem unpfändbaren Einkommen, so haben Sie eine gute Chance, dass Ihre Pfändungsfreigrenze vom Gericht erhöht. wird.
@@ -68,7 +69,7 @@ Das Vollstreckungsgericht ist nicht an die Bescheinigung des sozialhilferechtlic
 Ergänzender Anspruch auf Sozialleistungen
 
 Sollte die Bearbeitung Ihres Antrages länger dauern, können Sie in akuter Notlage ergänzend ALG II beantragen.
-
+###
 Was ist eine Abtretung?
 
 Banken verlangen in der Regel bei einem Kreditabschluss die Unterzeichnung einer so genannten Sicherungsabtretung (vgl. § 400 Bürgerliches Gesetzbuch). Die häufigste Form der Sicherungsabtretung ist die Lohn- und Gehaltsabtretung. Prüfen Sie in Ihrem Kredit- oder Darlehnsvertrag, ob dieser Passus von Ihnen unterzeichnet wurde.
@@ -82,7 +83,7 @@ Mit der Abtretungsunterzeichnung will sich der Gläubiger schon frühzeitig den 
 Im Gegensatz zu der Lohnpfändung wird hier kein Vollstreckungsverfahren durchlaufen und es wird kein Pfändungs- und Überweisungsbeschluss benötigt. Der Gläubiger kann mit der Abtretungserklärung also viel schneller an Ihren pfändbaren Lohnanteil kommen.
 
 Sollten Sie eine Abtretungsklausel unterzeichnet haben, so lassen Sie diese auf ihre Richtigkeit und Gültigkeit hin prüfen.
-
+###
 Ist die Abtretung gültig?
 
 In der Vergangenheit war die Wirksamkeit von Lohnabtretungsklauseln lange umstritten. Der BGH hat im Jahre 1989 und im Jahre 1992 klargestellt, wann und unter welchen Voraussetzungen solche Abtretungen wirksam sind. Insbesondere ältere, vor 1993 vereinbarte Lohnabtretungen sind daher unbedingt auf ihre Rechtswirksamkeit zu überprüfen. Aber auch jüngere Abtretungsklauseln aus den letzten Jahren sollten anhand der vom BGH entwickelten Kriterien kontrolliert werden.
@@ -97,7 +98,7 @@ Welche Leistungen können abgetreten werden?
 Abtretungsgrenze bei Gehaltsabtretungen
 
 Wie bei der Lohn- und Gehaltspfändung kann nur der pfändbare Lohnanteil an den Gläubiger abgetreten werden. Dies bedeutet, dass mit dem bereinigten Nettoeinkommen unter Berücksichtigung Ihrer gesetzlichen Unterhaltsverpflichtungen der pfändbare Anteil gem. der Pfändungstabelle (§850c ZPO) berechnet wird. Eine aktuelle Pfändungstabelle erhalten Sie bei der für Sie zuständigen Schuldnerberatungsstelle oder finden Sie im Internet unterSymbol für externen Linkwww.meine-schulden.de in der Rubrik Service "Übersichten + Berechnungen".
-
+###
 Muss mein Arbeitgeber die Abtretung anerkennen?
 
 In einem Tarifvertrag oder in einer Betriebsvereinbarung kann die Anerkennung der Abtretung ausgeschlossen sein.
@@ -118,3 +119,4 @@ Tipps
 
     Im Einzelfall können Sie Antrag auf Anhebung der Pfändungsfreigrenze beim Gericht stellen, wenn Sie vom unpfändbaren Einkommen Ihren Lebensunterhalt nicht mehr bestreiten können. Lassen Sie von Ihrer Schuldnerberatung prüfen, ob ein Antrag sinnvoll ist.
 
+###

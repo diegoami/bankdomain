@@ -1,11 +1,11 @@
-
+###
 Wo finde ich das Formular für Auslandsüberweisungen?
 
 Den Zahlungsauftrag im Aussenwirtschaftsverkehr können Sie hier als "Z1-Formular" herunterladen und am PC ausfüllen und anschließend für die Unterschrift und den Versand an uns drucken. Die zweite Seite des Formulars ist für Ihre Unterlagen bestimmt.
 
 Bei Angaben z.B. im Verwendungszweck der Überweisung ist die Kopie einer Rechnung hilfreich und kann zusammen mit dem manuellen Formular eingereicht werden. Die Spezialisten*innen für die Erfassung entnehmen der Rechnung die notwendigen Informationen und nutzen diese ausschließlich für die Erfassung der Überweisung.
 
-
+###
 Kann ich die Auslandsüberweisung auch Online ausführen?
 
 Im Online Banking der GLS Bank oder mit geeigneten Zahlungsverkehrsprogrammen kann eine Auslandsüberweisung ausgeführt werden.
@@ -16,7 +16,7 @@ Alternativ können Sie das "Z1-Formular" herunterladen und am PC ausfüllen und 
 
 Bei Angaben z.B. im Verwendungszweck der Überweisung ist die Kopie einer Rechnung hilfreich und kann zusammen mit dem manuellen Formular eingereicht werden. Die Spezialisten*innen für die Erfassung entnehmen der Rechnung die notwendigen Informationen und nutzen diese ausschließlich für die Erfassung der Überweisung.
 
-
+###
 Was muss ich bei Auslandsüberweisungen beachten?
 
 Auslandsüberweisungen sind grundsätzlich in englischer Sprache auszufüllen.
@@ -34,13 +34,13 @@ Eine Übersicht uns bekannter Besonderheiten finden Sie hier: Sprung auf die Lä
 
 Fehlende, unzureichende Angaben führen idR zu Nachfragen der ausländischen Bank und sind immer mit einer zusätzlichen Gebühr verbunden.
 
-
+###
 
 Kann die GLS Bank die Meldung für mich an die Bundesbank schicken?
 
 Die Meldung muss immer durch den Auftraggeber/die Auftraggeberin direkt bei der Bundesbank erfolgen. Weitere Informationen zum Meldewesen im Außenwirtschaftsverkehr erhalten Sie im Internet unter www.bundesbank.de.
 
-
+###
 
 Muss ich jede Auslandsüberweisung an die Bundesbank melden?
 
@@ -50,18 +50,19 @@ Bei Rückfragen wenden Sie sich bitte an die Hotline: 0800 1234 111 (entgeltfrei
 
 Weitere Informationen zum Meldewesen im Außenwirtschaftsverkehr erhalten Sie im Internet unter www.bundesbank.de. Hier finden Sie auch Informationen welche Überweisung an die Bundesbank gemeldet werden muss und auf welche Weise das möglich ist.
 
-
+###
 Wie reiche ich einen Auslandsscheck ein?
 
 Einen Auslandsscheck können Sie mit Hilfe eines Scheckeinreicherformulars zur Gutschrift einreichen. Wenn Sie keinen Scheckeinreicherbeleg haben, schicken Sie uns dazu einen formlosen, schriftlichen Auftrag, geben Sie Ihre Kontonummer an und vergessen Sie nicht, den Antrag und den Scheck (Rückseite) zu unterschreiben. Gerne können Sie auch, wenn Sie zum ersten Mal einen Scheck einreichen, bei uns Scheckeinreicherformulare mit anfordern.
 
-
+###
 Was kostet die Einreichung eines Auslandsschecks?
 
 Die Kosten für Einreichungen von Auslandsschecks finden Sie in unserem Preis- und Leistungsverzeichnis.
 
 
-
+###
 Was kostet eine Auslandsüberweisung?
 
 Die Kosten für den Auslandszahlungsverkehr finden Sie in unserem Preis- und Leistungsverzeichnis.
+###

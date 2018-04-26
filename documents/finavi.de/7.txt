@@ -1,89 +1,91 @@
+###
 Wie wird der Zinssatz für einen Kredit berechnet?
 
 Die Berechnung des Zinssatzes basiert auf der Bonität, die ausdrückt, wie schnell der Kredit vollständig getilgt werden kann. Unsere Zinssätze liegen zwischen 3 und 12%.
-
+###
 Was bedeutet Kreditgestaltung?
 
 Die Kreditgestaltung beinhaltet die Variablen, die von Ihnen als besonders für den Kredit geeignet ausgewählt worden sind. Sie können den Kreditbetrag und -zweck festlegen. Die Tilgung erfolgt, wenn es geschäftlich passt – eine Gestaltung ist hier nicht notwendig.
-
+###
 Wer ist der Kreditgeber?
 
 Die solarisBank AG, mit der wir vertrauensvoll zusammenarbeiten, wird Ihr Kreditgeber sein. Die solarisBank AG ist eine deutsche Bank, die über eine Banklizenz verfügt und durch die BaFin reguliert wird.
-
+###
 
 Wie wird mein Kreditantrag bewertet?
 
 Die Bewertung Ihres Kreditantrags erfolgt zur Zeit in drei Schritten: 1. Wir holen extern Auskünfte ein, um Ihren Kreditantrag zu evaluieren. In Abhängigkeit von der Rechtsform Ihres Unternehmens fragen wir gegebenenfalls Auskunfteien wie Creditreform, Schufa und CreditSafe nach Bewertungen an. 2. Wenn Sie Ihre Zustimmung dazu erteilen, bewerten wir den Cashflow Ihres Unternehmens auf Ihren bereits vorhandenen Geschäftskonten. Dieser Schritt ist optional, sollten Sie jedoch Ihre Zustimmung dazu geben, werden alle Informationen, die wir von Ihnen erhalten, mit äußerster Sorgfalt behandelt, um die Sicherheit Ihrer Daten zu gewährleisten. 3. Im letzten Schritt werden wir unserem Partner solarisBank eine vorläufige Kreditentscheidung zukommen lassen, die von einem Kreditspezialisten der Bank bestätigt werden muss. Wir planen, diesen Schritt in Zukunft überflüssig zu machen und stattdessen vollständig zu automatisieren.
-
+###
 Was passiert, wenn der Browser während der Antragstellung geschlossen wird?
 
 Alle Informationen, die Sie erfolgreich eingereicht haben, werden von Finavi gespeichert. Das heißt, Sie können genau dort weitermachen, wo Sie zuletzt aufgehört haben, sollten Sie den Browser während der Antragstellung geschlossen haben. Alle Eingaben, die Sie während dieses Schrittes gemacht haben, werden jedoch nicht gespeichert.
-
+###
 Was bedeutet finanzielle Informationen?
 
 Die finanziellen Informationen umfassen alle Transaktionen, die in den letzten Monaten durch Ihr Unternehmen erfolgt sind und weiterhin erfolgen.
-
+###
 Welche finanziellen Informationen müssen vorliegen?
 
 Wir benötigen Ihre Zustimmung, um auf Ihre Bankkonten zugreifen zu können und alle im Zusammenhang mit Ihrem Unternehmen erfolgten und weiterhin erfolgenden Transaktionen extrahieren zu können. Die Nutzerdaten werden nach Abschluss dieses Verfahrensschritt nicht gespeichert.
-
+###
 Warum müssen die Bankkonten verknüpft werden?
 
 Nach Verknüpfung Ihres Bankkontos werden wir die Kontoauszüge Ihres Bankkontos prüfen. Das ist der schnellste und zuverlässigste Weg, sowohl um finanzielle Informationen zu erhalten als auch um sie zu analysieren. Diese Daten werden nicht für andere Zwecke verwendet und nicht mit Dritten – mit Ausnahme des Kreditgebers zum Zeitpunkt der Antragsprüfung – geteilt.
-
+###
 Warum müssen Unterlagen hochgeladen werden?
 
 Um eine fundierte Entscheidung treffen zu können und Ihrem Unternehmen die bestmöglichen Konditionen bieten zu können, benötigen wir Nachweise zu Ihrer finanziellen Situation, um diese bewerten zu können.
-
+###
 Welche Unterlagen müssen hochgeladen werden?
 
 Je nach beantragter Kredithöhe ist die Vorlage unterschiedlicher finanzieller Nachweise erforderlich. Grundsätzlich vorzulegen sind alle Gewinn- und Verlustrechnungen (BWA) der letzten zwei Jahre.
-
+###
 Welche Bankkonten sollten verknüpft werden?
 
 Wir empfehlen Ihnen, alle Konten Ihres Unternehmens zu verknüpfen.
-
+###
 Was geschieht nach Einreichen des Kreditantrags?
 
 Nachdem Sie Ihren Kreditantrag eingereicht haben, wird dieser einer gründlichen Prüfung durch unsere Experten unterzogen. Innerhalb eines Geschäftstages werden wir Sie über unsere Kreditentscheidung informieren.
-
+###
 Was passiert, wenn falsche Unterlagen hochgeladen wurden?
 
 Sollten Sie feststellen, dass Sie falsche Unterlagen hochgeladen haben, kontaktieren Sie bitte unseren Kundenservice. Wir kümmern uns darum.
-
+###
 Was mache ich, wenn ich mehrere Dateien für das gleiche Dokument habe?
 
 Sie können alle zusätzlichen Nachweise anhängen, die sie für notwendig erachten.
-
+###
 Welche Daten des verknüpften Kontos werden von Ihnen geprüft? Nach welchen Kriterien sollten Konten verknüpft werden oder darauf verzichtet werden?
 
 Wir prüfen zumindest die Transaktionen der letzten 12 Monate und analysieren die Kontobewegungen. Je mehr Konten Sie verknüpfen, desto besser können wir Ihr Unternehmen beurteilen. Wenn Ihre Unternehmensdaten gut sind , wird dies Ihre Chancen erhöhen, einen Kredit zu erhalten und Ihren Zinssatz senken.
-
+###
 Welches Dateiformat ist für die hochzuladenden Dokumente erforderlich?
 
 Es gibt keine besonderen Voraussetzungen bezüglich des Dateityps oder der Dateigröße.
-
+###
 Eine Änderung eingegebener Daten ist notwendig. Wie geht man zu einem vorhergehenden Verfahrensschritt zurück?
 
 Natürlich können Sie zu einem vorhergehenden Schritt im Verfahren zurückkehren. Klicken Sie dazu bitte auf die entsprechende Bezeichnung oben auf der Seite.
-
+###
 Aus welchen Gründen könnte ein Kreditantrag abgelehnt werden?
 
 Die Gründe, warum wir eine Kreditvergabe möglicherweise ablehnen, sind: (1) die allgemeinen Merkmale des Unternehmens (zum Beispiel: das Unternehmen muss eine Rechtsform nach deutschem oder EU-Recht haben) (2) die Bonität des Unternehmens (3) das Ergebnis der Kontoanalyse
-
+###
 
 Was kann ich tun, wenn die digitale Version der erforderlichen Unterlagen nicht vorliegt?
 
 Sie können jederzeit zur Antragstellung zurückkehren und die Nachweise hochladen, sobald Sie sie in ein digitales Format umgewandelt haben.
-
+###
 Werden die Schufa oder andere Auskunfteien während des Antragsprozesses abgefragt?
 
 Ja. Wir holen Auskünfte der Schufa, Creditreform und Creditsafe ein.
-
+###
 Kann das Hochladen der Nachweise unterbrochen werden?
 
 Sie können das Hochladen der finanziellen Informationen jederzeit unterbrechen und später wiederaufnehmen. Bereits hochgeladene Unterlagen müssen jedoch nach dem nächsten Login erneut hochgeladen werden.
-
+###
 Wozu müssen andere Konten verknüpft werden?
 
 Wir nutzen Ihre verknüpften Konten ausschließlich, um über die Kreditvergabe zu entscheiden. Ihre Daten werden mit äußerster Sorgfalt behandelt und nach Beendigung des Kreditbewilligungsverfahren gelöscht. Sie können jedoch Ihre Konten später erneut mit Finavi verknüpfen, um alle Ihre Konten gleichzeitig zu kontrollieren und verwalten.
+###

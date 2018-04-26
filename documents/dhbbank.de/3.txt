@@ -1,30 +1,32 @@
+###
 Was kennzeichnet das NetSp@r Konto ?
 DHB Netsp@r Konto ist ein innovatives Anlagekonto der DHB Bank (Nederland) N.V. mit attraktiven Zinskonditionen, das online vom Kunden verwaltet wird. Ein NetSp@r Gemeinschaftskonto kann nur als „Oder-Konto“ für höchstens zwei Personen mit Einzelverfügungsberechtigung geführt werden.
-
+###
 Wie erfolgt die Geldeinzahlung auf mein NetSp@r Konto?
 Sie können nur von Ihrem Referenzkonto Geld überweisen. Eingänge von anderen Konten werden zurückgegeben. Barein- und/oder -auszahlungen sind nicht möglich.
-
+###
 Wann erfolgt die Zinsgutschrift auf mein NetSp@r Konto?
 Zinsen werden dem Konto einmal jährlich, und zwar am letzten Werktag des Jahres gutgeschrieben.
-
+###
 Wann und wie oft erhalte ich einen Kontoauszug für mein NetSp@r Konto?
 Kontoauszüge werden für das NetSp@r Konto nicht erstellt. Transaktionsübersichten sind im Rahmen des DHB Netbanking online abrufbar. Am Jahresende erfolgt als Rechnungsabschluss eine Saldenbestätigung. Die Zusendung erfolgt an die im Kontoeröffnungsantrag angegebene Anschrift, bei Gemeinschaftskonten an die des ersten Kontoinhabers.
-
+###
 Was kostet mich mein NetSp@r Konto?
 Die Kontoeröffnung, Kontoführung, Kontoschließung sowie Überweisungen sind gebührenfrei. Für sonstige Leistungen gilt unser Preis- und Leistungsverzeichnis.
-
+###
 Wie kann ich mein Referenzkonto ändern?
 Jegliche Änderungen bitten wir Sie uns mit einem rechtsgültig unterschriebenen Auftrag im Original einzureichen.
-
+###
 Was bedeutet variabler Zinssatz?
 Variable Zinskonditionen orientieren sich an der allgemeinen Marktentwicklung und können sich daher ändern.
-
-Was passiert, wenn ich mein Passwort vergessen habe?
+###
+Was passiert, wenn ich mein Passwort zum NetSp@r Konto vergessen habe?
 Wird das Passwort vergessen oder dreimal hintereinander falsch eingegeben, sperrt die Bank den DHB Netbanking-Zugang zum Konto. Die Bank hebt die Sperrung des DHB Netbanking-Zugangs nur nach schriftlichem Auftrag des Kontoinhabers auf. Sie teilt dann dem Kontoinhaber ein neues Passwort schriftlich mit. Die Wiederverwendung oder bzw. Bekanntgabe des alten Passwortes durch die DHB Bank (Nederland) N.V. ist nicht möglich.
-
+###
 Was ist der Unterschied zwischen DHB Tagesgeldkonto und DHB NetSp@r Konto?
 DHB NetSp@r Konto ist ein nur online geführtes Tagesgeldkonto. Durch die vollkommen automatisierte Verarbeitung des Zahlungsverkehrs ergibt sich eine Ersparnis, von der auch Sie als Kunde profitieren.
-
+###
 Kann ich als Kunde mit Tagesgeldkonto vereinfacht ein NetSp@r Konto eröffnen?
 Ja. Bei der Antragstellung werden Sie nach Ihren bei uns vorhandenen Daten gefragt. Stimmen diese überein, erhalten Sie nach Bearbeitung die Unterlagen für die Kontoeröffnung. Eine erneute Legitimation über Postident ist nicht erforderlich. Nach Kontoeröffnung werden Sie per E-Mail benachrichtigt und können auf Ihr NetSp@r Konto zugreifen. Umbuchungen von Ihrem Tagesgeldkonto auf das NetSp@r
 Konto können Sie eigenständig über Ihren Zugang vollziehen. Wenn Sie jedoch Ihr Tagesgeldkonto schließen möchten, ist unbedingt ein schriftlicher Auftrag per Post erforderlich.
+###

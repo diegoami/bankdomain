@@ -1,7 +1,8 @@
- Wann kann ich den Live-Chat nutzen?
+###
+Wann kann ich den Live-Chat nutzen?
 
     comdirect ist auch im Live-Chat rund um die Uhr für Sie erreichbar.
-
+###
 Welche Verfahren stehen für die Identitätsfeststellung zur Verfügung?
 
     Für die Identitätsfeststellung stehen zwei Verfahren zur Auswahl: PostIdent und VideoIdent.
@@ -15,22 +16,23 @@ Welche Verfahren stehen für die Identitätsfeststellung zur Verfügung?
     Ein Mitarbeiter von comdirect stellt Ihre Identität im Rahmen einer Online-Videoübertragung fest. Sie benötigen Ihren gültigen deutschen Personalausweises oder Reisepasses. Auch ein österreichischer Reisepass (Ausstellung ab 05.09.2014) kann verwendet werden.
 
 
-    Wie schnell bekomme ich im Live-Chat eine Antwort?
+###
+ Wie schnell bekomme ich im Live-Chat eine Antwort?
 
     Wir antworten Ihnen im Live-Chat sofort. Sollten alle Mitarbeiter im Dialog sein, informieren wir Sie kurzfristig telefonisch oder per E-Mail.
-
+###
  Welche Aufträge kann ich im Live-Chat erteilen?
 
     Im comdirect Live-Chat beantworten unsere Kundenbetreuer Ihnen gerne Fragen und geben Tipps. Wir nehmen zu Ihrer eigenen Sicherheit im Live-Chat keine Aufträge entgegen.
-
+###
  Wie sicher ist der Chat und wird der Schriftverkehr gespeichert?
 
     Das Thema Sicherheit ist comdirect sehr wichtig. Daher bitten wir Sie, weder persönliche noch kontobezogene Daten im Live-Chat zu nennen. Die Chatverläufe werden nicht aufgezeichnet und nicht gespeichert.
-
+###
 Was ist eine Identitätsfeststellung?
 
     Aus rechtlichen Gründen ist comdirect verpflichtet, die Identität jedes Kontoinhabers anhand eines gültigen Ausweisdokuments festzustellen und bestimmte Angaben aus dem Ausweisdokument festzuhalten.
-
+###
 Wie funktioniert Live-Support?
 
     Beim Live-Support wird das vom Kunden geöffnete Browserfenster der comdirect Website an unseren Kundenbetreuer übertragen. Es können somit gemeinsam die gleichen Inhalte betrachtet werden.
@@ -41,11 +43,11 @@ Wie funktioniert Live-Support?
         Der Kunde gibt den Sicherheitscode in das entsprechende Eingabefeld ein und bestätigt ihn.
         3. Schritt
         Mit Bestätigung der Eingabe wird der Inhalt des Browserfensters an den Kundenbetreuer übertragen. Dies geschieht parallel zum Telefonat. Der Kundenbetreuer kann dem Kunden mit dem Cursor seiner PC-Maus entsprechende Hilfestellungen geben, z. B. wo bestimmte Funktionen oder Produkte zu finden sind. Eine Beendigung des Live-Supports ist jederzeit seitens beider Teilnehmer möglich.
-
+###
 Welche Voraussetzungen müssen erfüllt sein, um Video-Chat nutzen zu können?
 
     Es sollte ein Computer mit Internetzugang vorhanden sein. Für die Videoübertragung ist neben einem Computer mit Webcam und Mikrofon ein WebRTC-fähiger Webbrowser (Chrome ab Version 33, Firefox ab Version 38, Opera ab Version 28) erforderlich.
-
+###
  Wie funktioniert Video-Chat?
 
         1.Schritt
@@ -60,7 +62,7 @@ Welche Voraussetzungen müssen erfüllt sein, um Video-Chat nutzen zu können?
 
         3. Schritt
         Die Sitzung startet kurze Zeit später in einem zweiten Fenster. Sie können nun mit Ihrem Kundenbetreuer über das Telefon reden und ihn gleichzeitig auf Ihrem Computerbildschirm sehen.
-
+###
  Welche Voraussetzungen müssen erfüllt sein, um den Live-Support nutzen zu können?
 
     Live-Support läuft auf allen Desktops und wird von folgenden Browsern unterstützt:
@@ -70,3 +72,4 @@ Welche Voraussetzungen müssen erfüllt sein, um Video-Chat nutzen zu können?
         Firefox 10+
         Safari 5+
 
+###

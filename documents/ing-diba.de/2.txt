@@ -1,19 +1,22 @@
-
-Das Girokonto im Alltag
+###
 Ist mein Konto weiterhin kostenlos?
 
 Wir wollen nicht, dass Sie für Ihr Girokonto bezahlen müssen. Deshalb bekommen Sie es bei uns kostenlos – und das soll auch so bleiben. In die Zukunft schauen kann allerdings keiner. An den Finanzmärkten gibt es keine langfristigen Garantien, denn die Märkte sind in Bewegung. Von ihrer Entwicklung können wir uns nicht vollständig abkoppeln. Doch was die Märkte auch bringen, auf eines können Sie sich verlassen: Wir werden Ihnen auch künftig eine faire und günstige Lösung bieten.
+###
 Was bedeutet Valuta in meinen Umsätzen?
 
 In der Umsatzanzeige im Internetbanking und auf Ihrem Kontoauszug steht „Valuta“. Das ist das Datum der Wertstellung, an dem eine Gutschrift oder Belastung auf Ihrem Konto wirksam wird, und Grundlage für die Berechnung der Zinsen. Die Valuta kann vom Buchungsdatum abweichen. Das Buchungsdatum ist z.B. der Tag, an dem Sie mit Ihrer Karte shoppen waren (ein Samstag), und die Valuta der Tag, an dem das Geld von Ihrem Girokonto abgebucht wird (der folgende Montag).
+###
 Gibt es Zinsen auf dem Girokonto?
 
 Das Geld auf dem Girokonto wird nicht verzinst. Sie bekommen aber zu Ihrem Girokonto bei uns kostenlos ein Extra-Konto dazu. Das ist ein Tagesgeldkonto mit täglicher Verfügbarkeit und variablem Zinssatz. Wenn Sie Geld übrig haben, überweisen Sie das einfach im Internetbanking aufs Extra-Konto. Einmalig oder als Dauerauftrag. Da bekommen Sie Zinsen. Und wenn Sie das Geld brauchen, kommen Sie jederzeit dran. Es gibt keinen Mindestbetrag, legen Sie einfach Geld zur Seite, wie es Ihnen passt. Hier finden Sie die Konditionen für das Extra-Konto.
+###
 Wie komme ich an meine Kontoauszüge?
 
 Ihre Umsätze sehen Sie Tag für Tag im Internetbanking in Ihrer Konten- und Depotübersicht. Und es gibt auch noch einen klassischen Kontoauszug. Den bekommen Sie bei uns digital – in Ihre Post-Box, die Sie im Internetbanking in der oberen Navigationsleiste finden. Wenn Sie einen Umsatz hatten, stellen wir Ihnen den Kontoauszug dort monatlich zur Verfügung, sonst quartalsweise.
 
 Keine Sorge, falls Sie das von anderen Banken anders kennen: Wenn Sie Ihren Kontoauszug nicht abrufen, stellen wir Ihnen den Auszug nicht zwanghaft per Post zu und berechnen Ihnen Porto. Wir verschicken überhaupt keine Kontoauszüge mit der Post. Natürlich können Sie sich den Kontoauszug jederzeit ausdrucken. Und falls Sie doch mal einen Zwischen- oder Ersatzkontoauszug brauchen, können Sie den telefonisch bestellen.
+###
 Was ist ein Pfändungsschutzkonto (P-Konto) und wie geht das?
 
 Das P-Konto ist ein Girokonto mit eingeschränkten Funktionen, das automatischen Pfändungsschutz gewährleistet. Mithilfe des P-Kontos haben Schuldner auch nach Eingang einer Pfändung die Möglichkeit, weiterhin aktiv am bargeldlosen Zahlungsverkehr teilzunehmen. Dies wird insoweit ermöglicht, als das P-Konto automatisch einen monatlichen Pfändungsfreibetrag für Kontoguthaben von jeweils 1.133,80 Euro vorsieht. Sofern Ihr Konto ein entsprechendes Guthaben aufweist, können Sie z.B. Überweisungen, Lastschriften und Daueraufträge durchführen und somit täglich anfallende Zahlungsverpflichtungen wie Miete, Versicherungen, Strom etc. begleichen.
@@ -31,7 +34,7 @@ Nach der Umstellung werden wir den Leistungsumfang des Girokontos einschränken:
     Für (Bargeld-)Transaktionen wird Ihnen nach der Kündigung nur noch Ihre eigene girocard zur Verfügung stehen. Sofern Ihre bisherige girocard gesperrt ist, erhalten Sie in den nächsten Tagen eine neue girocard.
     Die Nutzung von Internetbanking und Telebanking ist nur noch eingeschränkt möglich.
     Auszahlungen bei unseren Dienstleistern sind nicht mehr möglich.
-
+###
 Was passiert, wenn mein Konto gepfändet wird?
 
     Wenn Sie ein Dispositionslimit haben, wird es per sofort gekündigt.
@@ -46,13 +49,13 @@ Das können Sie tun:
 
     Sie halten die Pfändung für unberechtigt? Dann setzen Sie sich direkt mit dem Gläubiger in Verbindung, damit die Pfändung aufgehoben wird.
     Sie können uns auch beauftragen, die Pfändung vorzeitig zu bezahlen. Das tun Sie schriftlich, per TAN-autorisierter E-Mail, per Fax – oder Sie rufen uns einfach an.
-
+###
 Wann wird Ihr Konto wieder freigeschaltet?
 
     Wenn der Gläubiger uns schriftlich oder per Fax informiert, dass die Pfändung aufgehoben ist.
     Wenn wir von Ihnen den Auszahlungsauftrag erhalten und an den Gläubiger überwiesen haben.
     Wenn wir nach Ablauf der 4-Wochen-Frist den gepfändeten Betrag an den Gläubiger überweisen.
-
+###
 Wie lösche ich mein Girokonto bei der ING-DiBa?
 
 Sie können Ihr Girokonto jederzeit und ohne Einhaltung einer Frist im Internetbanking kündigen.
@@ -64,3 +67,4 @@ Gut zu wissen:
     Wenn Sie Ihr Girokonto als Verrechnungskonto für ein Festgeld/Direkt-Depot bei uns nutzen, können wir das Konto erst nach Fälligkeit des Festgelds bzw. nach Auflösung des Direkt-Depots löschen. Sie können natürlich auch ein anderes Konto z.B. auch ein Extra-Konto als Referenzkonto bequem im Internetbanking einrichten und dann Ihr Girokonto löschen.
     Wenn das Girokonto Ihr einziges Konto mit Zugangsdaten zum Internetbanking ist, haben Sie nach der Löschung keinen Zugriff mehr auf Ihre Post-Box. Speichern Sie oder drucken Sie deshalb rechtzeitig alle Informationen und Dokumente (z.B. Kontoauszüge).
 
+###

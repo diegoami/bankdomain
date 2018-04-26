@@ -1,6 +1,4 @@
-Versicherungen
-Collapse all
-
+###
     Welche Versicherungen gibt es in Verbindung mit meiner Karte?
 
     Alle verfügbaren Versicherungen für jede Karte finden Sie auf den entsprechenden Seiten:
@@ -8,5 +6,9 @@ Collapse all
         Visa/MasterCard Gold
         Visa/MasterCard Silver
         Visa Platinum
-    Fallen zusätzliche Kosten bei der Nutzung dieser Versicherungen an?
+
+###
+    Fallen zusätzliche Kosten bei der Nutzung der Versicherungen meiner Karten an?
+
     Nein, die angegebenen Versicherungen sind in Ihrer Kartengebühr enthalten.
+###

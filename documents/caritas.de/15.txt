@@ -1,3 +1,4 @@
+###
 Meine wirtschaftliche Existenz ist nicht mehr gesichert. Wann habe ich Anspruch auf ALG II?
 
 Anspruch auf Arbeitslosengeld II (ALG II) hat,
@@ -40,7 +41,7 @@ Des weiteren ist zu beachten:
     Unter bestimmten Voraussetzungen werden nachgewiesene Fahrtkosten und eine Versicherungspauschale in Abzug gebracht.
     Das Kindergeld wird vollständig angerechnet.
     Nicht angerechnet wird derzeit das Elterngeld bis zu einer Höhe von 300 EUR, Pflegegeld und Blindengeld.
-
+###
 Kann die Krankenversicherung gekündigt werden?
 
 Seit dem 01.04.2007 besteht eine Krankenversicherungspflicht in der gesetzlichen Krankenversicherung, ab dem 01.01.2009 in der privaten Krankenversicherung.
@@ -48,7 +49,7 @@ Seit dem 01.04.2007 besteht eine Krankenversicherungspflicht in der gesetzlichen
 Eine Kündigung der Krankenversicherung (KV) ist nicht mehr möglich. Werden aber zwei Monatsbeiträge nicht entrichtet, verringert sich der Versicherungsschutz auf eine Notfallversorgung, die Schmerztherapie und die Schwangerschaftsvorsorge.
 
 Können Sie tatsächlich zwei Monatsbeiträge nicht zahlen, sollten Sie unbedingt, notfalls mit Hilfe einer Schuldnerberatungsstelle, klären: Warum reicht das Geld nicht aus um die KV zu bezahlen?
-
+###
 Kann ich mich vom Rundfunkbeitrag (GEZ-Rundfunkgebühr) befreien lassen?
 
 Eine Befreiung von dem Rundfunkbeitrag (ehemals GEZ - Rundfunkgebühr) ist möglich. Das gilt jedoch nur für bestimmte Personengruppen und erfolgt nur auf Antrag. Beispielsweise Haushalte, die Arbeitslosengeld II oder Grundsicherung beziehen, Auszubildende mit BAföG oder BAB-Leistungen oder Asylbewerber können befreit werden.
@@ -60,7 +61,7 @@ Weitere Informationen dazu finden Sie unter www.rundfunkbeitrag.de
 Die Befreiung beginnt einen Monat nach Antragstellung. Sie gilt solange wie der zugrunde liegende Bewilligungsbescheid gültig ist.
 
 Eine rückwirkende Befreiung ist bis zu drei Jahre vor Antragstellung möglich, wenn Nachweise erbracht werden können.
-
+###
 Wonach richtet sich der von mir zu zahlende Kindesunterhalt?
 
 Der zu zahlende Kindesunterhalt richtet sich grundsätzlich nach dem monatlichen Nettoeinkommen, welches noch um die so genannten berufsbedingten Aufwendungen (Kosten für die Fahrten zur Arbeitstelle) und gewisse unterhaltsrechtlich anerkannte Abzugsposten (etwa Schulden aus der Ehezeit u.s.w.) bereinigt wird. Hat man so das relevante Einkommen ermittelt, hilft ein Blick in die Symbol für externen LinkDüsseldorfer Tabelle.
@@ -68,7 +69,7 @@ Der zu zahlende Kindesunterhalt richtet sich grundsätzlich nach dem monatlichen
 Diese gliedert sich zum einen in sieben Einkommensgruppen, zum anderen in drei mögliche Altersstufen der Kinder. Hat man seine Einkommensgruppe ermittelt, liest man danach anhand des Kindesalters den zu zahlenden Betrag ab. Hiervon ist dann noch das hälftige Kindergeld in Abzug zu bringen (derzeit 77,00 EUR), sofern der das Kind betreuende Elternteil dies ausgezahlt bekommt (Regelfall).
 
 Der so errechnete Betrag stellt den geschuldeten Kindesunterhalt dar.
-
+###
 Was kann ich tun, wenn ich meinen Unterhalt nicht mehr zahlen kann?
 
 Falls Sie unterhaltspflichtig sind und Ihre Einkommenssituation sich z. B. durch Arbeitslosigkeit unverschuldet derart verändert hat, dass Sie nicht mehr in der Lage sind, den Unterhalt zu zahlen, haben Sie grundsätzlich die Möglichkeit, den Unterhaltstitel anpassen zu lassen. So wird vermieden, dass weitere Unterhaltsschulden auflaufen. Dabei ist zu beachten, dass gegenüber minderjährigen Kindern eine sogenannte gesteigerte Erwerbsobliegenheit besteht, d. h. es muss nachgewiesen werden, dass trotz intensiven Bemühens kein ausreichendes Einkommen für den Kindesunterhalt zu erzielen ist.
@@ -76,7 +77,7 @@ Falls Sie unterhaltspflichtig sind und Ihre Einkommenssituation sich z. B. durch
 Sofern der Unterhalt in einem Scheidungsurteil geregelt wurde, besteht die Möglichkeit, dass Sie sich mit Ihrem ehemaligen Ehepartner gütlich einigen, dies jedoch nach Möglichkeit schriftlich, besser noch notariell beglaubigt. Falls dies nicht möglich ist, müssen Sie eine so genannte Anpassungsklage einreichen. Hierzu sollten Sie sich an einen Rechtsanwalt wenden. Wenn Ihr Einkommen zu gering ist, den Rechtsanwalt zu bezahlen, können Sie beim Amtsgericht einen Beratungshilfeschein beantragen.
 
 Für den Fall, dass der Unterhalt in einer Vaterschaftsurkunde geregelt wurde (bei nichtehelichen Kindern), müssen Sie beim zuständigen Jugendamt die Anpassung beantragen und nachweisen, dass ihr Einkommen zu niedrig ist, den Unterhalt in voller Höhe zu zahlen. Die Höhe des angemessenen Unterhaltes ist nicht gesetzlich festgelegt, sondern wird im Einzelfall festgesetzt. Ein Anhaltspunkt für die Höhe des Unterhaltsanspruches des/der Unterhaltsberechtigten und für den angemessenen Unterhalt des Unterhaltsverpflichteten ist die "Symbol für externen LinkDüsseldorfer Tabelle". Im günstigsten Fall kann die Anpassung bis auf den Betrag Null vorgenommen werden.
-
+###
 Müssen bei Bewerbungsgesprächen Fragen zu meiner finanziellen Situation, insbesondere zu Schulden wahrheitsgemäß beantwortet werden?
 
 Grundsätzlich sind nur solche Fragen wahrheitsgemäß zu beantworten, an denen der Arbeitgeber ein berechtigtes Interesse hat, welches dann vorliegt, wenn die Frage mit der in Aussicht gestellten Tätigkeit in Zusammenhang steht.
@@ -86,3 +87,4 @@ Werden derartige Fragen nicht wahrheitsgemäß beantwortet, so eröffnet sich hi
 Besteht kein "berechtigtes Interesse" seitens des Arbeitgebers im Hinblick auf die auszuübende Beschäftigung, so handelt es sich um unzulässige Fragen, deren Beantwortung der Bewerber verweigern darf. Das Bundesarbeitsgericht hat dem Bewerber das Recht zur Lüge eingeräumt und somit eine Anfechtung des Arbeitsvertrages gem. § 123 BGB in derart gelagerten Fällen ausgeschlossen. Die Frage nach den privaten Vermögensverhältnissen ist grundsätzlich unzulässig.
 
 Ausnahme: Bei der auszuübenden Tätigkeit handelt es sich um eine solche, die ein besonderes Vertrauensverhältnis im Hinblick auf Geldangelegenheiten erfordert, wie z.B. einem Kassierer.
+###

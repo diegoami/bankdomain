@@ -1,41 +1,49 @@
+###
 
 Meine Daten werden als fehlerhaft beanstandet
 
 In einigen Konstellationen (Zusatzkarte, Privatkarte mit Abrechnung über ein anderes Konto) sind möglicherweise die Daten des Inhabers des Abrechnungskontos einzugeben. Bitte informieren Sie sich bei dem Berater Ihrer kartenausgebenden Bank, welche Daten zu Ihrer Karte im System hinterlegt sind.
 
+###
 
 Kostet die SMS-Übermittlung?
 
 Nein, es entstehen keine Kosten bei der Übermittlung der SMS.
 
+###
 
 Wie bin ich als Karteninhaber*in geschützt?
 
 Durch die korrekte Eingabe der E-Commerce-TAN, die mit den Transaktionsdaten an das von Ihnen registrierte Mobiltelefon gesendet wurde, weisen Sie sich als rechtmäßigen Karteninhaber aus. Nur so kann der Kaufvorgang abgeschlossen werden.
 
 
+###
 
 Was passiert bei einem neuen Smartphone?
 
 Ihre bisherige virtuelle Handynummer wechselt mit Ihnen. Installieren Sie die VR-SecureCARD-App auf Ihrem neuen Gerät, aber wählen Sie beim ersten Start "Vorhandene virtuelle Handynummer übernehmen". Erzeugen Sie nun auf Ihrem alten Gerät in der VR-SecureCARD-App einen Migrationscode unter "Einstellungen/Rufnummernmigration". Nach Eingabe des angezeigten, 60 Minuten gültigen Sicherheitscodes auf Ihrem neuen Gerät in der VR-SecureCARD-App wird Ihre virtuelle Handynummer übertragen und die App auf dem alten Gerät zurückgesetzt.
 
+###
 
 
 Kann ich sofort nach dem Registrieren einkaufen?
 
 Bei der Registrierung während des Einkaufsvorgangs: Die Registrierung wird in den Systemen der Kartenorganisationen und im Karten-Managementsystem Ihrer Bank sofort vorgenommen. Nach der Registrierung kann Mastercard® SecureCode™ zum Abschluss dieser Transaktion genutzt werden. Vor der Durchführung weiterer Transaktionen ist die Eingabe des per Post übermittelten Aktivierungscodes erforderlich.
 
+###
 
 Wie kann ich mich registrieren?
 
 Sie können den Registrierungsvorgang auf dieser Seite vornehmen. Dazu klicken Sie einfach auf den Button "Jetzt registrieren". Alternativ können Sie sich auch während des Einkaufsprozesses anmelden.
 
+###
 
 Was ist eine virtuelle Rufnummer?
 
 Bei Nutzung der VR-SecureCARD-App ist die virtuelle Rufnummer Ihre persönliche Kennung, vergleichbar mit Ihrer Mobilfunknummer für die Zustellung einer SMS.
 
 
+###
 
 Welche Informationen erhalte ich per SMS
 
@@ -46,3 +54,4 @@ Die SMS enthält
     die für diese Daten berechnete E-Commerce-TAN
 
 Nur wenn die Daten aus der SMS denen der Transaktion entsprechen, die Sie freigeben möchten, geben Sie die E-Commerce-TAN während des Kaufvorgangs ein.
+###

@@ -1,3 +1,4 @@
+###
 Was kann ich bei drohender Energiesperre tun?
 
 Energieschulden stellen wie Mietschulden eine existenzielle Bedrohung für den Schuldner und dessen Angehörige dar. Die Belieferung mit Strom und Gas ist so wichtig, dass diese Kosten vor allen anderen Schulden zu begleichen sind. Der Energieversorger kann nämlich die Lieferung von Gas oder Strom einstellen, wenn nicht gezahlt wurde. Die Voraussetzungen hierfür ergeben sich aus den Grundversorgungsverordnungen (GVV) Gas und Strom:
@@ -25,7 +26,7 @@ Zu beachten ist weiterhin, dass eine Energiesperre niemals unverhältnismäßig 
 Der Schuldner sollte also in einem Schreiben an den Energieversorger darlegen, warum eine Energiesperre für ihn nicht zumutbar ist und wie die Rückstände und laufenden Kosten der Energieversorgung in einem überschaubaren Zeitraum beglichen werden. Eine hinreichende Zahlungsaussicht schließt ebenfalls eine Liefersperre aus. Energieschulden, die Empfängern von Sozialleistungen nach SGB II (ALG II-Bezug bzw. ergänzender ALG II-Bezug) und Erwerbstätigen entstanden sind, können von der zuständigen Behörde auf Antrag darlehensweise übernommen werden.
 
 Für Empfänger von Sozialleistungen nach SGB XII (Grundsicherung für Erwerbsunfähige und im Alter) gilt, dass die Übernahme der Energieschulden von der zuständigen Behörde auf Antrag als Beihilfe oder als Darlehen erfolgen kann.
-
+###
 Ich bin arbeitslos und kann die Mietrückstände mit meinem geringen Arbeitslosengeld nicht aufbringen. Wo erhalte ich Unterstützung?
 
 Gemäß § 22 Abs. 5 SGB II kann der SGB-II-Träger für Arbeitslosengeld 2-Empfänger auf Antrag Mietschulden übernehmen, wenn dies zur Sicherung der Unterkunft gerechtfertigt ist. Der SGB-II-Träger soll Mietschulden für Arbeitslosengeld 2-Empfänger übernehmen, wenn dies zur Sicherung der Unterkunft gerechtfertigt und notwendig ist und sonst Wohnungslosigkeit einzutreten droht. Einen Rechtsanspruch auf Übernahme der Mietschulden haben Sie jedoch nicht.
@@ -33,19 +34,17 @@ Gemäß § 22 Abs. 5 SGB II kann der SGB-II-Träger für Arbeitslosengeld 2-Empf
 Der SGB-II-Träger übernimmt die Mietschulden nur auf Darlehensbasis, das heißt, Sie müssen das Darlehen zurückzahlen. In der Regel werden Ihnen weniger Sozialleistungen ausbezahlt, so dass auf diese Weise das Darlehen nach und nach abbezahlt wird. Eine Übernahme der Mietrückstände kann gerechtfertigt sein, wenn bisher keine Mietschulden aufgetreten sind und wenn die Miete angemessen ist (z.B. keine zu große Wohnung und preiswerte Miete).
 
 Als Bedingung für eine Übernahme der Mietschulden kann der SGB-II-Träger außerdem verlangen, dass die zu zahlende Miete vom SGB-II-Träger direkt an den Vermieter überwiesen wird, so dass zukünftige Zahlungen gewährleistet sind. Des Weiteren muss die Übernahme der Mietschulden den Wohnraum tatsächlich sichern. Dies ist nicht der Fall, wenn noch andere zum Beispiel verhaltensbedingte Kündigungsgründe vorliegen oder der Vermieter einer Fortsetzung des Mietverhältnisses bereits ausdrücklich widersprochen hat.
-
+###
 Ich kann die Mietrückstände mit meinem geringen Lohn nicht aufbringen. Wo bekomme ich Hilfe?
 
 Wenn Sie nicht im laufenden ALG-2-Bezug sind und Mietrückstände haben, können Sie gemäß § 34 Abs. 1 SGB XII einen Antrag auf Übernahme der Mietschulden stellen. Danach können Mietschulden übernommen werden, wenn dies zur Sicherung der Unterkunft oder zur Behebung einer vergleichbaren Notlage gerechtfertigt ist. Zuständig ist der Träger der Sozialhilfe (Sozialamt). In diesem Fall kann die Übernahme der Mietrückstände als Darlehen oder auch als Beihilfe übernommen werden.Die Beihilfe muss im Gegensatz zum Darlehen nicht zurückgezahlt werden, wobei die Übernahme als Darlehen der Regelfall ist.
-
-Mein Vermieter hat mir angedroht, meine Wohnung zu kündigen, weil ich seit einiger Zeit meine Miete nicht mehr pünktlich bezahlen kann.
-
-Was kann ich tun?
+###
+Mein Vermieter hat mir angedroht, meine Wohnung zu kündigen, weil ich seit einiger Zeit meine Miete nicht mehr pünktlich bezahlen kann. Was kann ich tun?
 
 Wenn sich bereits vor einer Kündigung Ihrer Wohnung durch den Vermieter abzeichnet, dass Zahlungsschwierigkeiten bestehen, sollten Sie umgehend Kontakt zu Ihrem Vermieter aufnehmen und ihm offen Ihre finanzielle Situation darlegen. Schlagen Sie ihm Wege vor, wie Sie Ihre Mietrückstände zu tilgen beabsichtigen, etwa indem Sie zusätzlich zur laufenden Miete eine Ratenzahlung anbieten. Allerdings sollten Sie dies nur tun, wenn Sie eine solche Ratenzahlung langfristig einhalten können. Wenn keine Rückzahlungsmöglichkeit absehbar ist, versuchen Sie eine Stundung der Mietrückstände zu vereinbaren. Setzen Sie alles daran, zu einer Regelung zu kommen, die Ihr Vermieter akzeptiert. Erklärt sich der Vermieter hiermit einverstanden, kann die Kündigung abgewendet werden. Bedenken Sie, dass es um Ihr Obdach geht, dessen Sicherung deswegen Vorrang vor anderen Schulden haben sollte.
 
 Fragen Sie in einer solchen Situation auch bei Ihrer örtlichen Stadt- oder Gemeindeverwaltung nach, ob Sie einen Anspruch auf Wohngeld haben. Bei einer zu teuren Wohnung sollten Sie versuchen, in eine günstigere Wohnung umzuziehen.
-
+###
 Mein Vermieter hat mir meine Wohnung fristlos gekündigt, weil ich seit zwei Monaten keine Miete mehr bezahlen konnte. Darf er das?
 
 Ja, denn Mietschulden können zur Kündigung und sogar zur Zwangsräumung der Wohnung führen. Eine fristlose Kündigung durch den Vermieter ist gemäß § 543 BGB immer dann möglich, wenn
@@ -55,7 +54,7 @@ Ja, denn Mietschulden können zur Kündigung und sogar zur Zwangsräumung der Wo
     die Miete mehr als zwei Monate hintereinander teilweise nicht bezahlt wurde und die Mietrückstände zwei Monatsmieten oder mehr betragen (§ 543 Abs. 2 Nr. 3b BGB)
 
 Als „Miete“ versteht man die monatliche Warmmiete (= Kaltmiete plus Nebenkostenvorauszahlung). Nebenkostennachzahlungen im Rahmen einer Jahresabrechnung berechtigen allerdings nicht zu einer fristlosen Kündigung. Eine fristlose Kündigung muss schriftlich erfolgen und der dafür erforderliche wichtige Grund der Kündigung muss im Kündigungsschreiben angegeben werden.
-
+###
 Mein Vermieter hat meine Wohnung gekündigt und eine Räumungsklage eingereicht. Kann ich die Kündigung und Zwangsräumung der Wohnung noch abwenden?
 
 Zwar können Sie die Kündigung und Räumung der Wohnung noch abwenden, allerdings drängt jetzt die Zeit. Die Unwirksamkeit der fristlosen Kündigung können Sie als Mieter erreichen,
@@ -67,13 +66,13 @@ Zwar können Sie die Kündigung und Räumung der Wohnung noch abwenden, allerdin
 Sie können also die Unwirksamkeit der Kündigung bzw. der Räumungsklage wegen Zahlungsverzug nur noch dadurch erreichen, dass Sie die rückständigen Beträge selbst bezahlen oder sich eine öffentliche Stelle zur Übernahme der Rückstände verpflichtet. Fragen Sie in Ihrem persönlichen Umfeld nach, ob Ihnen Verwandte oder Bekannte ein Darlehen für den Ausgleich der Mietrückstände gewähren können. Ansonsten besteht die Möglichkeit, einen Antrag auf Übernahme der Mietschulden bei dem zuständigen SGB-II-Träger gemäß § 22 Abs. 5 SGB II bzw. beim Träger der Sozialhilfe (Sozialamt) gem. § 34 Abs. 1 SGB XII zu stellen.
 
 Beachten Sie bitte, dass die Abwendung der Kündigung bzw. der Räumungsklage durch Ausgleich der Mietrückstände innerhalb der Schonfrist von zwei Monaten nur möglich ist, wenn nicht innerhalb der vergangenen zwei Jahre schon einmal eine fristlose Kündigung auf diese Weise unwirksam gemacht worden ist.
-
+###
 Was kann ich bei einer drohenden Räumungsklage tun?
 
 Zunächst sollte man dafür sorgen, dass die laufende Miete gezahlt wird, wenn möglich auch der Mietrückstand (z. B. im Rahmen einer Ratenvereinbarung mit dem Vermieter). Ansonsten mit der für Wohnraumerhaltung zuständigen kommunalen Behörde (Wohnungs- oder Sozialamt) in Verbindung setzen. Dort ist die Rückstandsübernahme als Beihilfe oder als Darlehen zu beantragen.
 
 Zudem sollte mit dem Vermieter über eine Klagerücknahme verhandelt werden, insbesondere mit dem Hinweis der so möglichen Mietrückstandsübernahme. Die Information, dass bei geringem Einkommen die Kosten für ein Räumungsverfahren etc. letztendlich dem Vermieter zufallen, kann zudem ein Entgegenkommen fördern.
-
+###
 Ich habe gehört, dass im Insolvenzverfahren die von mir gezahlte Mietkaution gepfändet werden kann. Stimmt das?
 
 Nein. Da die Kaution eine Sicherheit des Vermieters für eventuell aus dem Mietvertrag stammende Forderungen darstellt, kann diese in diesem Fall nicht eingezogen werden. Das gleiche gilt auch für Genossenschaftsanteile, die als Sicherheit für die eigene Mietwohnung dienen.
@@ -81,3 +80,4 @@ Nein. Da die Kaution eine Sicherheit des Vermieters für eventuell aus dem Mietv
 Sollte ein Mietvertrag allerdings im Laufe des Insolvenzverfahrens (nicht in der „Wohlverhaltensphase“!) gekündigt werden und gibt es keine Ansprüche des Vermieters, kann der Insolvenzverwalter die Kaution zur Masse ziehen.
 
 Nach einer Kündigung des Mietvertrags ist eine Pfändung der Mietkaution auch außerhalb des Insolvenzverfahrens möglich, wenn der Vermieter keine eigenen Ansprüche mehr aus dem Mietvertrag geltend macht.
+###

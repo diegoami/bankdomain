@@ -1,18 +1,19 @@
+###
 Was ist der automatische Informationsaustausch?
 
 Der automatische Informationsaustausch ist die systematische und regelmäßige Übertragung von genau definierten Steuerinformationen zu einem festgelegten Zeitpunkt zwischen Staaten und Gebieten über bestimmte Einkunftsarten.
 
-Nach oben
+###
 Was ist der Common Reporting Standard (CRS)?
 
 Auf Basis einer Initiative von Deutschland und anderen europäischen Staaten sowie einer entsprechenden Bitte der G20 hat die OECD den Common Reporting Standard (CRS) für den automatischen Informationsaustausch über Finanzkonten entwickelt. Dieser Standard legt die zwischen den teilnehmenden Staaten und Gebieten auszutauschenden Finanzkonteninformationen, die betroffenen Finanzinstitute, sowie die zu meldenden Konten und Sorgfaltspflichten, welche von den Finanzinstituten zu beachten sind, fest. Dieser weltweit einheitliche Standard ist Gegenstand der im Oktober 2014 in Berlin von 51 Staaten und Gebieten unterzeichneten „Multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten“ (MCAA CRS).
 
-Nach oben
+###
 Was ist der Nutzen des automatischen Informationsaustausches über Finanzkonten?
 
 Die grenzüberschreitende Steuerhinterziehung hat die einzelnen Staaten in den zurückliegenden Jahren vor erhebliche und nicht mehr allein zu bewältigende Herausforderungen gestellt. Steuergerechtigkeit und die Gewährleistung der Gleichmäßigkeit der Besteuerung sind unabdingbare Voraussetzungen für ein funktionierendes Gemeinwesen und einen handlungsfähigen Staat. Eine engere Zusammenarbeit zwischen den nationalen Steuerbehörden ist unerlässlich, um die ordnungsgemäße Ermittlung der Steuerpflicht zu gewährleisten und damit internationale Steuerhinterziehung zu bekämpfen. Dabei kommt insbesondere dem automatischen Informationsaustausch und der damit verbundenen Schaffung von Transparenz in Steuerangelegenheiten eine entscheidende Rolle zu. Die Finanzbehörden werden in die Lage versetzt, im Ausland erzielte Einkünfte bei der Besteuerung im Inland zu berücksichtigen.
 
-Nach oben
+###
 Was sind die rechtlichen Grundlagen des automatischen Informationsaustausches über Finanzkonten im internationalen Recht?
 
     Mehrseitige Vereinbarung vom 29. Oktober 2014 zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten (MCAA CRS)
@@ -20,12 +21,13 @@ Was sind die rechtlichen Grundlagen des automatischen Informationsaustausches ü
     Verträge zwischen der Europäischen Union und Andorra, Liechtenstein, Monaco, San Marino und der Schweiz zur Vereinbarung des automatischen Austausches von Informationen über Finanzkonten
     Bilaterale Abkommen zwischen Deutschland und Drittstaaten über den steuerlichen automatischen Informationsaustausch.
 
-Nach oben
+###
 Welche Rolle spielte Deutschland bei Einführung des automatischen Informationsaustausches über Finanzkonten?
 
 Nicht zuletzt die Bemühungen Deutschlands im Rahmen des G20-Prozesses haben dazu geführt, dass es zu einer beschleunigten Umsetzung des bei der OECD entwickelten einheitlichen Standards CRS gekommen ist. Die von der Bundesrepublik Deutschland maßgeblich geprägte Mehrseitige Vereinbarung über den Austausch von Finanzkontendaten ist ein grundlegender Beitrag für einen internationalen fairen Steuerwettbewerb, der nicht durch Verzerrungen und mangelnde Transparenz verfälscht wird.
 
-Nach oben
+###
 Mit wie vielen Staaten und Gebieten führt Deutschland den automatischen Austausch über Finanzkonten durch?
 
 Mehr als 100 Staaten und Gebiete haben sich zum automatischen Informationsaustausch über Finanzkonten bekannt. Deutschland beginnt bereits als einer der ersten Staaten (sog. Early Adapter = Frühanwender) im September 2017 mit dem Austausch. Für diesen Datenaustausch sind 49 Austauschbeziehungen aktiviert. Der nächste Datenaustausch ist für September 2018 mit weiteren Staaten und Gebieten vorgesehen. Die Anzahl zukünftiger, aktiver Austauschbeziehungen hängt maßgeblich davon ab, ob die innerstaatlichen rechtlichen und technischen Voraussetzungen im anderen Staat geschaffen sind. Hierauf wirkt Deutschland im Rahmen bestehender OECD-Arbeiten hin.
+###

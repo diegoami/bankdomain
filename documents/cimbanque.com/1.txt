@@ -1,26 +1,32 @@
-Allgemeine Fragen
-Collapse all
-
+###
     Wie beantragt man eine Karte?
 
     Eröffnen Sie ein Bankkonto online und wählen Sie den gewünschten Kartentyp im Bereich «Bankdienstleistungen» > «Bankkarte» aus. Sie können mehrere Karten auswählen (maximal fünf Karten pro Person).
+SEPA-Verordnung eine Beschwerdestelle auf ihrer Webseite eingerichtet hat.
+###
     Benötige ich ein Konto bei der CIM Bank, um eine Karte zu erhalten?
 
     Ja. Sie können dann online alle Vorteile einer Schweizer Privatbank in Anspruch nehmen und beispielsweise Ihre Prepaid-Karte direkt über das E-Banking der CIM Bank aufladen.
+###
     Mit welchen Kartentypen kann ich im Internet bezahlen?
 
     Sie können Ihre Käufe im Internet mit allen angebotenen Karten der CIM Bank bezahlen. Ausserdem handelt es sich um Karten von MasterCard und Visa, die mit dem Sicherheitsstandard 3D Secure ausgestattet sind. Dieser Standard wird von einer grossen Zahl von Online-Shops in der Schweiz und weltweit eingesetzt: Bei jeder Zahlung in einem dieser Shops wird auch Ihr persönliches 3D-Secure-Passwort abgefragt.
+###
     Was ist eine Prepaid- oder Debit-Karte?
 
     Prepaid-Karten (auch Debit-Karte genannt) funktionieren per Aufladung: Nur das auf der Karte eingezahlte Guthaben steht für Zahlungen und Abhebungen zur Verfügung. Der maximale Zahlungsbetrag ergibt sich aus dem verfügbaren Guthaben.
+
     Prepaid-Karten ermöglichen sicheres Reisen und sichere Käufe in der ganzen Welt.
+###
     In welchen Währungen sind die angebotenen Karten verfügbar?
 
     Die Swiss Bankers Travel Cash Karte ist in Euro (EUR), Dollar (USD) und Schweizer Franken (CHF) verfügbar.
 
     Die Visa- und MasterCard-Kreditkarten sind in Euro (EUR), Dollar (USD) und Schweizer Franken (CHF) verfügbar.
+###
     Wie wähle ich die Währung meiner Karte aus?
 
     Die Wahl der Währung Ihrer Karte erfolgt anhand Ihres Hauptwohnsitzes. Doch unabhängig von der Währung der Karte sind Zahlungen in der ganzen Welt möglich. Der geltende Wechselkurs kommt bei Zahlungen oder Abhebungen automatisch zur Anwendung.
 
     Swiss Bankers stellt länderspezifische Informationen und Empfehlungen zur Verfügung: Liste der Länder.
+###

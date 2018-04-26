@@ -1,4 +1,4 @@
-
+###
 Was ist eine E-Rechnung?
 
 E-Rechnung steht kurz für «elektronische Rechnung». E-Rechnungen empfangen Sie dort, wo Sie diese bezahlen – direkt in Ihrem E-Banking.
@@ -6,3 +6,4 @@ E-Rechnung steht kurz für «elektronische Rechnung». E-Rechnungen empfangen Si
 Die E-Rechnung ist bequem. Das Abtippen der langen Referenznummer im E-Banking entfällt. Stattdessen prüfen und bezahlen Sie Ihre Rechnungen mit wenigen Mausklicks. Dank der E-Rechnung sparen Sie nicht nur Zeit, sondern erhalten auch keine Papierrechnungen mehr.
 
 Über 1000 Unternehmen und öffentliche Verwaltungen bieten die E-Rechnung an. Und mehr als eine Million E-Banking-Kunden haben sich für die E-Rechnung entschieden. Und wann sind Sie dabei?
+###

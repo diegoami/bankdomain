@@ -1,8 +1,9 @@
+###
 Wie funktioniert das Bezahlen mit 3D Secure mit der apoSecure App?
 
 Wenn Sie bei einem 3D Händler einen Internetumsatz tätigen, werden Sie beim Einkauf aufgefordert die Ihnen per Push-Nachricht in die apoSecure App übermittelte TAN einzugeben.
-
-Muss für die Nutzung der App ein Passwort vergeben werden?
+###
+Muss für die Nutzung der apoSecure App ein Passwort vergeben werden?
 
 Ja, bei der Einrichtung der App wird die Vergabe eines persönlichen Passworts verlangt. Das Passwort besteht aus
 
@@ -10,34 +11,36 @@ Ja, bei der Einrichtung der App wird die Vergabe eines persönlichen Passworts v
     mindestens einem Großbuchstaben
     mindestens einem Kleinbuchstaben
     mindestens einer Ziffer
-
-Was passiert nach mehrmaliger Eingabe eines falschen Passworts?
+###
+Was passiert nach mehrmaliger Eingabe im apoSecure App eines falschen Passworts?
 
 Nach fünfmaliger Falscheingabe des Passworts setzt sich die App automatisch auf den Werkszustand zurück. Es erscheint nun die Maske „Anmeldepasswort vergeben“, in der Sie ein neues persönliches Passwort hinterlegen können. Dabei generiert die App automatisch eine neue virtuelle Handynummer für Sie. Um nun wieder TANs per Push-Nachricht in Ihre apoSecure App zu übermitteln, muss die neue virtuelle Handynummer in Ihrem Konto hinterlegt werden. Hierfür wenden Sie sich bitte an unsere 3D Secure Hotline 0721/1209-66001.
+###
 
-Muss ich zu jedem 3D Internet-Umsatz die App mit meinem Passwort neu öffnen, um die Push-TAN zu lesen?
+Muss ich zu jedem 3D Internet-Umsatz die apoSecure App mit meinem Passwort neu öffnen, um die Push-TAN zu lesen?
 
 Nach Anmeldung schließt sich die App nach ca. 5 bis 10 Minuten. Wenn Sie innerhalb dieses Zeitraums mehrere 3D Internet-Umsätze tätigen, erhalten Sie die Push-Nachrichten sichtbar in die App ohne diese erneut mit Ihrem Passwort öffnen zu müssen.
 
-Ich möchte die App gerne per Fingerabdruck entsperren, wie geht das?
+###
+Ich möchte die apoSecure App gerne per Fingerabdruck entsperren, wie geht das?
 
 Die Entsperrung per Fingerabdruck wird momentan auf Apple Endgeräten mit TouchID-Unterstützung angeboten.
 
 Nach Installation der App und Vergabe eines Kennworts werden Sie innerhalb der App gefragt, ob Sie die TouchID als Alternative zum Kennwort aktivieren möchten. Sie können diese Funktion auch später unter „Einstellungen“ in der App aktivieren.
-
-Welche Informationen erhalte ich per Push-Nachricht?
+###
+Welche Informationen erhalte ich bei einem 3D Internet-Einkauf per Push-Nachricht?
 
 Die für diese Transaktion berechnete 6-stellige E-Commerce-TAN.
-
+###
 Kann ich einen 3D Internet-Einkauf durchführen, wenn ich über keine aktive Datenverbindung verfüge?
 
 Ohne Datenverbindung kann keine Push-Nachricht in die App zugestellt werden. Daher ist eine Datenverbindung über WLAN oder Ihren Mobilfunknetzbetreiber erforderlich.
-
+###
 Wie wechsle ich vom SMS-TAN Verfahren auf die Zustellung in die apoSecure App?
 
 Wechseln Sie von Ihrer Mobilfunknummer in der Benutzerverwaltung auf das App Verfahren indem Sie die in der App angezeigte „virtuelle Handynummer“ hinterlegen. Diese ist Ihre Benutzerkennung für die App.
-
-Ich habe ein neues Smartphone/Tablet, wie übertrage ich die Installation der App inkl. virtueller Handynummer auf das neue Gerät?
+###
+Ich habe ein neues Smartphone/Tablet, wie übertrage ich die Installation der apoSecure App inkl. virtueller Handynummer auf das neue Gerät?
 
 Möchten Sie die App auf einem neuen Endgerät benutzen, gehen Sie bitte wie folgt vor:
 
@@ -45,4 +48,4 @@ Möchten Sie die App auf einem neuen Endgerät benutzen, gehen Sie bitte wie fol
     Wählen Sie in der apoSecure App auf dem alten Gerät: Einstellungen / Rufnummernmigration. Der angezeigte Code kann 60 Minuten für einen Gerätewechsel genutzt werden.
     Wählen Sie auf dem neuen Gerät den Schalter "Vorhandene virtuelle Handynummer übernehmen" beim ersten Start und der Kennwortvergabe. Geben Sie nach Aufforderung den in Schritt 2 erhaltenen Migrationscode ein.
     Bei erfolgreichem Abschluss wird ihre virtuelle Handynummer über den Server in die neue apoSecure App Installation übertragen und die Installation auf dem alten Gerät zurückgesetzt.
-
+###

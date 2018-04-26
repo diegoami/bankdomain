@@ -1,43 +1,44 @@
+###
 Wie hoch ist mein Verfügungsrahmen?
 
 Der Verfügungsrahmen ist eine individuelle Vereinbarung zwischen Bank und Kunde und richtet sich nach der individuellen Bonität. Grundsätzlich ist das Auftragslimit im Online‑Banking auf 14.000 Euro pro Kalendertag beschränkt. Geringere tägliche Verfügungsbeschränkungen im Online‑Banking können auf Kundenwunsch vereinbart werden.
-
+###
 Was ist das mTAN Verfahren?
 
 mTAN oder mobile TAN ist eine moderne und sichere Alternative zum klassischen TAN‑Legitimationsverfahren. Die Transaktionsnummer (TAN), mit der jede Transaktion (z.B. Zahlungen) freigegeben werden müssen, wird dabei durch Aufforderung durch den Anwender per SMS auf sein vorher registriertes Mobiltelefon gesendet. In dieser SMS sind neben der sechsstelligen TAN auch die Kontodaten des Zahlungsempfängers enthalten. Jede mTAN wird aus Sicherheitsgründen für einzelne Transaktionen individuell erstellt und ist nur wenige Minuten gültig. Insgesamt ist mTAN dadurch ein sehr sicheres und bequemes Verfahren.
-
+###
 Was kostet eine mTAN?
 
 Pro Kalendermonat sind die ersten 5 TAN SMS für den Kunden kostenfrei. Für jede weitere SMS werden 0,10 EUR berechnet.
-
+###
 Wer kann den DispoEasy beantragen?
 
 Der DispoEasy wird nicht mehr aktiv angeboten. Wir haben jedoch einen neuen attraktiven Rahmenkredit für Dich! Informiere Dich jetzt über unseren Kash Reserv Rahmenkredit.
-
+###
 Wie beantrage ich einen DispoEasy?
 
 Der DispoEasy wird nicht mehr aktiv angeboten. Wir haben jedoch einen neuen attraktiven Rahmenkredit für Dich! Informiere Dich jetzt über unseren Kash Reserv Rahmenkredit.
-
+###
 Was wird zur Beantragung eines DispoEasy benötigt?
 
 Der DispoEasy wird nicht mehr aktiv angeboten. Wir haben jedoch einen neuen attraktiven Rahmenkredit für Dich! Informiere Dich jetzt über unseren Kash Reserv Rahmenkredit.
-
-Sind meine Daten sicher?
+###
+Sind meine Daten im DispoEasy sicher?
 
 Das Internet erleichtert und vereinfacht in vielerlei Hinsicht die Abwicklung von Geschäftstransaktionen und macht diese für alle Beteiligten komfortabler. Datenschutz hat dabei besondere Bedeutung. Wir verwenden deshalb die neuesten Sicherheitsstandards zum Schutz aller Daten.
-
-Sind meine Daten sicher?
+###
+Sind meine Daten mit dem PostIdent‑Verfahren sicher?
 
 Das PostIdent‑Verfahren ist eine Methode der sicheren persönlichen Identifikation von Personen, die durch die Mitarbeiter der Deutschen Post AG vorgenommen wird. Wir als Bank sind verpflichtet, die Identität unserer Kunden bei der Kontoeröffnung festzustellen. Dem Kunden entstehen hierbei natürlich keinerlei Kosten.
-
+###
 Wie kann ich meine Stammdaten (Namen, Adresse) ändern?
 
 Stammdatenänderungen, wie z.B. des Namens oder der Adresse, können uns über das Formular „DispoEasy, BusinessLine, SofortKredit Änderungsformular Stammdaten“ bekanntgegeben werden. Insbesondere bei Namensänderungen sind dabei auch Kopien von amtlichen Dokumenten mit einzureichen, welche die Änderung bestätigen. Das Formular ist auf dieser Website im Bereich Service/Downloads zu finden.
-
+###
 Was ist KontoProtect?
 
 Mit KONTOPROTECTcomfort gibt es eine optionale Versicherung, mit der die Zahlungsverpflichtungen aus dem DispoEasy bequem und umfänglich abgesichert werden können. Abgedeckt werden dabei die Risiken Arbeitsunfähigkeit, unfreiwillige Arbeitslosigkeit, schwere Krankheit und Tod. Durch Abschluss der Versicherung muss sich der Kontoinhaber also keine Sorgen machen, dass er bzw. seine Angehörigen im Fall der Fälle auf den Kreditraten sitzen bleiben.
-
+###
 Kann ich das Online-Banking auch mit Banking-Apps nutzen?
 
 KONTOPROTECTcomfort ist der Name der optionalen Restkreditversicherung, mit der die Zahlungsverpflichtungen aus dem DispoEasy bequem und umfänglich abgesichert werden können. Abgedeckt werden dabei die Risiken Arbeitsunfähigkeit, unfreiwillige Arbeitslosigkeit, schwere Krankheit und Tod. Durch Abschluss der Versicherung muss sich der Kontoinhaber also keine Sorgen machen, dass er bzw. seine Angehörigen im Fall der Fälle auf den Kreditraten sitzen bleiben.
@@ -53,3 +54,4 @@ Grundsätzlich kannst Du auf unser Online-Banking nur durch Drittanbieter-Progra
     Windata
 
 Bei Fragen zu Programmen von Drittanbietern, wende Dich bitte ausschließlich an die Drittanbieter.
+###

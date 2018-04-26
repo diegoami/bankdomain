@@ -1,3 +1,4 @@
+###
 Wer gewährleistet FINAVI den Schutz und die Sicherheit von meinen Daten?
 
 Unsere Server befinden sich in Frankfurt a.M. und werden von AWS betrieben. AWS hat ein sehr ausgefeiltes Sicherheitskonzept, das allen branchenüblichen Standards entspricht.
@@ -5,7 +6,7 @@ Unsere Server befinden sich in Frankfurt a.M. und werden von AWS betrieben. AWS 
 Darüber hinaus wird die Sicherheitsarchitektur von FINAVI permanent durch unabhängige Dritte, wie etwa externen Datenschutzbeauftragten überprüft.
 
 Daten werden grundsätzlich entsprechend branchenüblicher Verschlüsselungsstandards verschlüsselt (AES-256).
-
+###
 Was ist EBICS?
 
 EBICS steht für „Electronic Banking Internet Communication Standard“ und ist ein Übertragungsprotokoll, das von der Deutschen Kreditwirtschaft für die Übermittlung von Zahlungsinformationen zwischen Banken untereinander und mit Kunden entwickelt wurde.
@@ -13,11 +14,11 @@ EBICS steht für „Electronic Banking Internet Communication Standard“ und is
 Kunden mit einem Firmenkonto können EBICS für den Zugang zur Bank und zur Verwaltung des Bankkontos nutzen. Der EBICS-Standard wird von allen deutschen Banken mit einer signifikanten Anzahl an Firmenkonten unterstützt.
 
 Der Standard findet zunehmend Verbreitung in Europa, unter anderem in Frankreich, Portugal, Österreich und der Schweiz.
-
+###
 Warum sollten Sie EBICS nutzen?
 
 EBICS könnte interessant für Sie sein, da wesentlich mehr Funktionalitäten als das klassischer Online-Banking zur Verfügung gestellt werden (Vier-Augen-Prinzip, Massenzahlungsverkehr, Eilzahlungen und Vormerkposten). Zudem ermöglicht es die Nutzung der Banking-Dienste aus Ihren Unternehmensanwendungen heraus (z. B. integrieren entsprechenden Buchhaltungs- und Steueranwendungen EBICS für den Zahlungsverkehr und die bankübergreifende Verwaltung von Konten).Für detaillierte Anweisungen können Sie sich über Chat oder Email an unseren Supportservice support@finavi.de wenden.
-
+###
 Ist EBICS sicher?
 
 EBICS nutzt mehrere Sicherheitsebenen zum Schutz der Vertraulichkeit, Integrität und Nichtabstreitbarkeit von Transaktionen. So werden nicht nur die Kommunikationen mit der Bank auf dem Transportweg sondern auch die Nachrichten selbst verschlüsselt. Zudem unterstützt der Authorisierungsprozess auch anspruchsvolle Berechtigungs- und Freigabekonzepte. EBICS-Nachrichten werden basierend auf modernen kryptografischen Verfahren verschlüsselt und digital signiert.
@@ -26,7 +27,7 @@ EBICS nutzt mehrere Sicherheitsebenen zum Schutz der Vertraulichkeit, Integritä
 Der Code zur Authentifizierung per mTan wurde mir nicht zugestellt.
 
 Bitte überprüfen Sie die angegebene Telefonnummer zum Empfang des Authentifizierungscodes. Sie finden diese Information in Ihren Einstellungen. Bitte kontaktieren Sie unseren Kundenservice, sollte die angegebene Telefonnummer nicht korrekt sein. Sollte die angegebene Telefonnummer korrekt und Sie jedoch weiterhin keinen Authentifizierungscode erhalten, so kontaktieren Sie bitte ebenfalls unseren Kundensupport.
-
+###
 Ich würde gerne meine Telefonnummer ändern.
 
 Da uns die Sicherheit Ihres Kontos sehr am Herzen liegt und über Ihre Telefonnummer Zahlungsanweisungen von Ihrem Konto aus ermöglicht werden, müssen Sie unseren Kundenservice kontaktieren, wenn Sie Ihre Telefonnummer ändern möchten.
@@ -35,3 +36,4 @@ Da uns die Sicherheit Ihres Kontos sehr am Herzen liegt und über Ihre Telefonnu
 Die Verknüpfung des Bankkontos mit Finavi soll aufgehoben werden.
 
 Sie können die Verknüpfung Ihres Bankkontos jederzeit ändern. Durch die Aufhebung der Verknüpfung werden alle bisherigen Daten Ihres Bankkontos gelöscht.
+###

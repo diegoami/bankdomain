@@ -1,17 +1,17 @@
 
-
+###
 Was ist ein Nachrangdarlehen bzw. eine Nachrangfinanzierung?
 
 Um eine Nachrangfinanzierung, oder auch: ein Nachrangdarlehen, zu erklären, holen wir zunächst etwas weiter aus: Wenn Sie eine Immobilie kaufen möchten, dann gehen Sie in der Regel zu einer Bank und leihen sich Geld im Rahmen einer Baufinanzierung.
 
 Im Gegenzug dafür, dass die Bank Ihnen eine vergleichsweise hohe Summe zur Verfügung stellt, zahlen Sie zwar Zinsen, die Bank möchte aber noch mehr Sicherheit erhalten. Um ihr diese Sicherheit zu verschaffen, wird sie als Gläubiger mit einer Grundschuld in Höhe Ihrer Finanzierungssumme ins Grundbuch eingetragen. Dadurch erhält sie ein sogenanntes „dingliches Verwertungsrecht“ an der Immobilie, und darin besteht die erwähnte Sicherheit: Sollten Sie einmal zahlungsunfähig werden und Ihre monatlichen Raten für die Baufinanzierung nicht mehr begleichen können, hat die Bank das Recht, die Immobilie zu verwerten, um ihr Geld wiederzubekommen. In der Regel initiiert sie dann eine Zwangsversteigerung.
-
+###
 Wodurch unterscheiden sich erstrangige Finanzierung und Nachrangfinanzierung?
 
 Bei Ihrer ersten Baufinanzierung wird die Bank als erster Gläubiger erstrangig ins Grundbuch eingetragen. Die dabei entstehenden Kosten zeigt Ihnen unser Grundbuchrechner. Angenommen, Sie möchten nun eine weitere Baufinanzierung aufnehmen, während die erste noch läuft. Zum Beispiel, weil Sie noch einen Anbau finanzieren wollen. Dann wird die Bank, die Ihnen die zweite Baufinanzierung gewährt, hinter Ihrer ersten Bank nachrangig ins Grundbuch eingetragen. Daher spricht man auch von einem Nachrangdarlehen bzw. einer Nachrangfinanzierung.
 
 Auch die zweite Bank erhält dann durch den Grundbucheintrag eine Sicherheit für das verliehene Geld. Falls Sie anschließend zahlungsunfähig werden, bedeutet das: Zuerst darf die erste Bank ihr dingliches Verwertungsrecht in die Praxis umsetzen, und dann die zweite Bank. Weil sich nicht sicher sagen lässt, ob beispielsweise nach der Zwangsversteigerung noch etwas für die zweite Bank übrig bleibt, ist die Nachrangfinanzierung für sie mit größeren Unsicherheiten verbunden. Aus diesem Grunde sind Nachrangdarlehen in der Regel teurer als erstrangige Finanzierungen. Durch höhere Zinsen gleicht die zweite Bank ihr Risiko wieder aus.
-
+###
 Welche Besonderheiten bringt ein Nachrangdarlehen mit sich?
 
 Bei Nachrangdarlehen sind bestimmte Regeln zu beachten. Zum einen darf die Vorlast nicht höher sein, als die, die Sie aufnehmen wollen. Zum anderen dürfen die Restschuld aus der ersten Finanzierung und die neue Kreditsumme aus der zweiten Finanzierung den Beleihungsauslauf von 80 Prozent nicht überschreiten. Der Beleihungsauslauf gibt das Verhältnis zwischen dem Wert der Immobilie und der Höhe sämtlicher Kredite an, mit denen die Immobilie belastet ist.
@@ -21,3 +21,4 @@ Hierzu noch ein Beispiel:
 Ihre Immobilie hat einen Objektwert von 250.000 Euro, dann dürfen die Restschuld Ihrer ersten Finanzierung und die neu aufgenommene Summe der zweiten Finanzierung gemeinsam nicht mehr als 200.000 Euro ausmachen. Der Anbau, den Sie mit dem zweiten Kredit planen, wirkt sich aber unter Umständen wertsteigernd auf die Immobilie aus und erhöht diese Grenze dadurch. Wäre Ihr Objekt nach dem Anbau nicht mehr 250.000, sondern vielleicht 280.000 Euro wert, läge die Grenze für beide Finanzierungen bei 224.000 Euro, Sie könnten dadurch 24.000 Euro mehr aufnehmen. Zu beurteilen, ob und in welcher Höhe sich der Objektwert durch die vorgesehenen Maßnahmen steigert, liegt im Ermessen der zweiten Bank.
 
 Es gibt außerdem noch weitere Varianten, mit denen Sie sich mehr Luft für Modernisierungen oder Anbauten verschaffen können: Beispielsweise lässt sich auch die erste Finanzierung wieder erhöhen, wenn Sie bereits einen Teil der Schulden beglichen haben. Sprechen Sie dazu einfach unsere Berater vor Ort an und fragen Sie nach, welcher Weg der günstigere ist. Die Spezialisten für Baufinanzierung von Dr. Klein kennen sich mit den Besonderheiten von Nachrangdarlehen aus und zeigen Ihnen im persönlichen Gespräch die infrage kommenden Alternativen zur Nachrangfinanzerung.
+###

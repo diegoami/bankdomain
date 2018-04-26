@@ -1,3 +1,4 @@
+###
 Welchen Zweck hat das gerichtliche Mahnverfahren?
 
 Der Gläubiger sichert seine Forderung vor Verjährung, indem er über das gerichtliche Mahnverfahren einen Titel, den Vollstreckungsbescheid, erwirkt.
@@ -5,7 +6,7 @@ Der Gläubiger sichert seine Forderung vor Verjährung, indem er über das geric
 Titulierte Forderungen verjähren erst nach 30 Jahren. Jeder Vollstreckungsauftrag lässt die Verjährungfrist neu beginnen.
 
 Mit dem Vollstreckungsbescheid können Zwangsvollstreckungsmaßnahmen eingeleitet werden, z. B. kann der Gerichtsvollzieher mit der Pfändung und Abnahme der Eidesstattlichen Versicherung beauftragt werden. Auch die Lohn-/Gehalts-/ Kontopfändung kann betrieben werden.
-
+###
 Wie läuft das gerichtliche Mahnverfahren ab?
 
 Mahnbescheid:
@@ -25,17 +26,17 @@ Vollstreckungsbescheid:
 3. Auch der Vollstreckungsbescheid wird ohne inhaltliche Prüfung erlassen und mit Zustellungsurkunde zugestellt.
 
 4. Es besteht letztmalig die Möglichkeit, 14 Tage nach Zustellung schriftlich oder zu Protokoll Einspruch bzw. Teileinspruch gegen den Vollstreckungsbescheid einzulegen.
-
+###
 Welche Folgen hat ein Widerspruch gegen einen Mahnbescheid bzw. ein Einspruch gegen einen Vollstreckungsbescheid?
 
 Widerspruch gegen den Mahnbescheid
 
 Der Gläubiger kann beim Gericht das streitige Verfahren beantragen. Die Forderung wird dann im Klageverfahren geprüft. Der Schuldner hat die Möglichkeit zur Klageerwiderung. Im gerichtlichen Verfahren entstehen weitere Kosten.
-
+###
 Einspruch gegen den Vollstreckungsbescheid
 
 Die Forderung wird automatisch im gerichtlichen Verfahren überprüft, wobei zusätzliche Kosten entstehen. Der Gläubiger kann sofort Zwangsvollstreckungsmaßnahmen einleiten, er muss die gerichtliche Entscheidung über den Einspruch nicht abwarten.
-
+###
 Was sollte ein Schuldner beachten?
 
     Öffnen Sie umgehend die Post vom Gericht und beachten Sie die Fristen!
@@ -46,3 +47,4 @@ Was sollte ein Schuldner beachten?
 
     Haben Sie die zweiwöchige Einspruchsfrist nachweisbar ohne eigenes Verschulden versäumt, können Sie im Ausnahmefall eine nachträgliche Fristverlängerung, die „Wiedereinsetzung in den vorherigen Stand“ beantragen. Diesen Antrag sowie den Einspruch müssen Sie innerhalb von 14 Tagen nach Wegfall des Hinderungsgrundes beim Gericht stellen. Bei Fragen lassen Sie sich von Ihrer Schuldnerberatungsstelle beraten!
 
+###

@@ -1,14 +1,16 @@
+###
 Wo kann ich eine Übersicht meiner Transaktionen einsehen und Kategorien anpassen?
 
 Eine Übersicht Ihrer Transaktionen können Sie unter dem Menüpunkt Financial Manager > Transaktionen sehen. Es ist möglich, mehrere Konten anzubinden und verschiedene Filter anzuwenden um die Ansicht zu ändern. Außerdem gibt es eine Grafik, die den Kontostand als Trend anzeigt. Jede Transaktion wird kategorisiert angezeigt. Um die Finanzübersicht noch besser zu gestalten, arbeiten wir kontinuierlich an unserem Kategorisierungs-Algorithmus. Wenn Sie eine andere Kategorie passender finden, können Sie mit dem Aufklappmenü eine andere Kategorie aus der Liste wählen. Außerdem können Sie unten im Aufklappmenü Feedback hinterlassen, wenn Sie Vorschläge für weitere Kategorien haben.
-
+###
 Wie kann ich die Verteilung meiner Einkünfte und Ausgaben einsehen?
 
 Wenn Sie auf das Balkendiagramm auf der Transaktionsseite klicken, gelangen Sie zur Aufteilung von Einnahmen und Ausgaben. Zu einer Übersicht der Unterkategorien gelangen Sie, indem Sie auf den jeweiligen Balken klicken. Von dort gelangen Sie auch zurück zur Übersicht.
-
+###
 
 Wie kann ich die Einnahmen und Ausgaben Planung benutzen?
 
 Im Planungsmenü können Sie eine Übersicht Ihrer Einkünfte und Ausgaben sowie eine detaillierte Ansicht der Kategorien für prognostizierte und tatsächliche Zahlen sehen. Dieselbe Kategorienliste ist auch im Transaktions- und Planungsmenü zu finden. Um einen genaueren Überblick zu erhalten, empfehlen wir Ihnen, die Kategorien der Transaktionen regelmäßig zu überprüfen.
 Alle verbundenen Konten werden standardmäßig berücksichtigt. Unter Einstellungen können Sie verbundene Konten einsehen und ändern.
 Standardmäßig wird das derzeitige Jahr in Tabellen und Grafiken angezeigt. Ein anderes Jahr kann aus der Jahresliste gewählt werden. Monatliche Gesamtzahlen werden für jede Kategorie angezeigt und Unterkategorien können zudem durch Klicken auf einzelne Kategorien angezeigt werden. Für jede Unterkategorie können Sie monatliche Prognosen für das ausgewählte Jahr hinzufügen indem Sie das Prognose hinzufügen/Ändern Symbol anklicken und die Änderungen speichern. Dies aktualisiert die Gesamtprognosen und die Tabelle der prognostizierten Zahlen. So können Sie Ihren Fortschritt verfolgen und tatsächliche Zahlen mit Prognosen vergleichen. Um neue Zahlen einzufügen, klicken Sie auf „Prognose hinzufügen/abändern“, geben Sie die neuen Zahlen ein und speichern Sie erneut.
+###

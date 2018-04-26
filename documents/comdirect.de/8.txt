@@ -1,49 +1,51 @@
+###
 Was kostet der Verkauf von Bruchstücken?
 
     Der Verkauf von Bruchstücken aus Wertpapiersparplänen ist kostenlos.
 
-
+###
  Wie verkaufe ich Bruchstücke aus Wertpapiersparplänen?
 
     Den Verkauf von Bruchstücken aus Wertpapiersparplänen platzieren Sie wie einen Verkauf von ganzen Anteilen. Sofern Sie einen Verkauf von Bruchstücken gemeinsam mit ganzen Anteilen des Wertpapieres aufgeben, werden aus abwicklungstechnischen Gründen zwei Orders platziert. Der Ausführungskurs für den Verkauf der Bruchstücke kann von dem der ganzen Anteile abweichen.
-
+###
  In welche Wertpapiere investiere ich mit einem Aktiensparplan?
 
     Es stehen Ihnen über 100 Aktienwerte aus dem DAX, MDAX und TecDAX zur Verfügung. Zusätzlich bieten wir Ihnen 25 US-Aktien zur Auswahl an. Um Sie in Ihrer Entscheidung zu unterstützen, können Sie unseren Aktien-Selector nutzen.
-
+###
  Was kostet ein Wertpapiersparplan?
 
     Für den Kauf eines Fonds im Rahmen des Wertpapiersparplanes berechnen wir keine Orderentgelte. Sie zahlen lediglich einen reduzierten comdirect Kaufaufschlag. Wir bieten bei allen Fonds einen Discount an – dieser beträgt 25 % oder sogar bis zu 100 %!
 
     Für ETF-, Aktien- und Zertifikate-Sparpläne berechnen wir keine Ausgabeaufschläge, sondern Provisionen von 1,5 % des Ordervolumens pro Wertpapier und Ausführung. Beim Kauf von deutschen Namensaktien fällt zusätzlich pro WKN ein Umschreibeentgelt von 0,95 Euro an.
-
+###
 Was ist der Vorteil der Top-Preis ETFs?
 
     ETFs sind börsengehandelte Indexfonds, die vollständig an der Marktentwicklung teilnehmen. Nutzen Sie die vorteilhafte Kostenstruktur, hohe Transparenz und Flexibilität dieser Wertpapiere.
 
     Mit den Top-Preis ETFs profitieren Anleger von besonders günstigen Konditionen für 90 der über 1.000 bei comdirect zu handelnden ETFs. Zur Auswahl stehen ETFs aller wichtigen Märkte der weltweit führenden Anbieter Xtrackers, Franklin Templeton, Vanguard und Lyxor – von konservativ über ausgewogen bis chancenorientiert. Pro Kauforder zwischen 1.000 Euro und 50.000 Euro fällt am Börsenplatz Xetra nur ein pauschales Orderentgelt von 3,90 Euro an. Für alle Top-Preis ETFs können Sie auch einen Sparplan ab 25 Euro je Ausführung einrichten - ganz ohne Orderentgelt.
 
-
+###
  Gibt es für den Wertpapiersparplan eine Kündigungsfrist?
 
     Nein, die Löschung Ihres Sparplanes ist jederzeit möglich. Bitte berücksichtigen Sie, dass Ihr Auftrag spätestens drei Bankarbeitstage vor dem nächsten Ausführungstermin bei uns vorliegt.
 
-
+###
 Wie kann ich einen Wertpapiersparplan einrichten?
 
     Ihren Wertpapiersparplan erfassen Sie online im Persönlichen Bereich unter Geldanlage > Wertpapiersparplan > Sparplan einrichten
 
-
+###
      Was ist zu beachten, damit ich für Aktien eine Dividende erhalte?
 
     Sie haben Anspruch auf die Dividendenzahlung inländischer Gesellschaften, wenn Sie deren Aktien vor dem Ex-Tag erworben und bis zu diesem Tag gehalten haben. Der Ex-Tag ist der Tag, ab dem Aktien ohne das Recht auf die Dividende des abgelaufenen Geschäftsjahres gehandelt werden. Bei einem Verkauf der Wertpapiere vor dem Ex-Tag entfällt Ihre Dividendenberechtigung. Bei inländischen Aktien erfolgt die Gutschrift der Dividende am dritten Bankarbeitstag nach der Hauptversammlung. Ausnahme: Die Satzung oder ein entsprechender Beschluss auf der Hauptversammlung sehen einen späteren Zahlbarkeitstag vor.
 
-
+###
 Wie kann ich wertlose Wertpapiere aus meinem Depot entfernen lassen?
 
     Sie haben die Möglichkeit, Wertpapiere gegenwertlos ausbuchen zu lassen. Das erforderliche Formular können Sie per E-Mail oder telefonisch über unsere Kundenbetreuer anfordern. Bitte bedenken Sie, dass Sie dabei sämtliche Ansprüche an diesen Wertpapieren unwiderruflich verlieren. In Einzelfällen ist eine gegenwertlose Ausbuchung von Wertpapieren nicht möglich. Bei Fragen stehen Ihnen unsere Kundenbetreuung gerne zur Verfügung.
 
-
+###
 Was muss ich beachten, um für Aktien eine Dividende zu erhalten?
 
     Sie haben Anspruch auf die Dividendenzahlung inländischer Gesellschaften, wenn Sie deren Aktien vor dem Ex-Tag erworben und bis zu diesem Tag gehalten haben. Der Ex-Tag ist der Tag, ab dem Aktien ohne das Recht auf die Dividende des abgelaufenen Geschäftsjahres gehandelt werden. Bei einem Verkauf der Wertpapiere vor dem Ex-Tag entfällt Ihre Dividendenberechtigung.
+###

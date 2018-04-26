@@ -1,20 +1,18 @@
+###
 Wann und wie erhalte ich einen Dispositionskredit?
 
     Beantragen Sie bei Kontoeröffnung einen Dispositionskredit, prüfen wir Ihren Wunsch gerne. Auch eine spätere Einrichtung können Sie jederzeit beantragen. Teilen Sie uns Ihren Wunsch einfach online unter Persönlicher Bereich > Konto & Karte > Dispositionskredit, telefonisch oder schriftlich mit.
-
-Wann und wie erhalte ich einen Dispositionskredit?
-
-    Beantragen Sie bei Kontoeröffnung einen Dispositionskredit, prüfen wir Ihren Wunsch gerne. Auch eine spätere Einrichtung können Sie jederzeit beantragen. Teilen Sie uns Ihren Wunsch einfach online unter Persönlicher Bereich > Konto & Karte > Dispositionskredit, telefonisch oder schriftlich mit.
-
+###
 Wie kann ich meinen Dispositionskredit bei meiner bisherigen Bank ablösen?
 
     Wurde ein Dispositionskredit bei comdirect bewilligt, lösen Sie den Kredit bei Ihrer bisherigen Bank einfach durch eine Überweisung ab. Sie haben auch die Möglichkeit, einen Ratenkredit bei comdirect zu beantragen. Ausführliche Informationen hierzu finden Sie auf unserer Website unter: www.comdirect.de/Ratenkredit
 
-
-Kann ich Sondertilgungen leisten?
+###
+Kann ich Sondertilgungen zum Ratenkredit leisten?
 
     Ja, Sie haben jederzeit die Möglichkeit Sondertilgungen zu leisten bzw. den Ratenkredit vorzeitig abzulösen.
 
+###
 Welche Voraussetzungen für eine Kreditvergabe muss ich erfüllen?
 
         Sie sind mindestens 18 Jahre alt
@@ -24,38 +22,43 @@ Welche Voraussetzungen für eine Kreditvergabe muss ich erfüllen?
         Der comdirect Ratenkredit darf nicht für den Erwerb von Grundbesitz oder Wohneigentum genutzt werden. Eine Verwendung zur Renovierung oder zum Substanzerhalt einer Immobilie ist möglich.
         Sie sind Kontoinhaber eines comdirect Kontos (z. B. Girokonto, Depot…)
 
+###
 Wann kann ich mit der Kreditauszahlung rechnen?
 
     Die Auszahlung auf das von Ihnen angegebene Konto erfolgt innerhalb weniger Tage nach Prüfung Ihrer Unterlagen und der anschließenden Kreditzusage.
 
+###
 Welche Auskunfteien werden bei der Bonitätsprüfung abgefragt? Und was geschieht bei negativen Auskünften?
 
 
 Zur Prüfung Ihrer Bonität werden Informationen der Auskunftei SCHUFA Holding AG herangezogen. Negative Auskünfte führen zu einer Ablehnung des Ratenkreditantrages. In diesem Fall erhalten Sie in einem gesonderten Brief und in einer Einstellung in Ihrer PostBox weitere Erläuterungen.
 
+###
 Kann der Ratenkredit während der Laufzeit aufgestockt werden?
 
     Grundsätzlich ist eine Aufstockung unter Berücksichtigung des max. Nettodarlehensbetrages von 50.000 Euro während der Laufzeit möglich. Die Bonitätsprüfung erfolgt dabei nach den Richtlinien eines Neuvertrages. Bitte beantragen Sie daher die Gesamtkreditsumme (Restkreditsumme des bestehenden comdirect Ratenkredites + weiterer Kreditbedarf) online auf unserer Website unter Kredite > Ratenkredit.
 
     Da Sie den aktuellen Ratenkredit ablösen, geben Sie bitte als Verwendungszweck im Online-Antrag "Ablösung anderer Kredite" an und bei der Frage "Benötigen Sie ein Ablöseformular?" setzen Sie den Haken.
 
-
+###
  Sind Ratenplanänderungen bzw. Stundungen möglich?
 
     Ratenplanänderungen und Stundungen grundsätzlich möglich. Das Entgelt entnehmen Sie bitte dem aktuellen Preis- und Leistungsverzeichnis.
 
 
-
+###
 Wie kann ich meinen Dispositionskredit erhöhen?
 
     Sie beantragen die Erhöhung Ihres Dispositionskredites einfach online im Persönlichen Bereich unter Konto & Karte > Dispositionskredit oder per E-Mail über das Kontaktformular. Gerne nehmen wir Ihren Auftrag auch telefonisch oder per Fax/Post mit Ihrer Originalunterschrift entgegen. Der Kreditrahmen ist abhängig von Ihren Kontobewegungen bei comdirect.
 
+###
     Ist es erforderlich, dass ich Kunde bei comdirect bin, um einen Ratenkredit zu beantragen?
 
     Die Beantragung des Ratenkredites ist ausschließlich für Bestandskunden möglich. Interessierte können einen Ratenkredit beantragen, sofern sie vorab mit einem anderen Produkt, z. B. dem Depot, comdirect Kunde werden.
 
-
+###
 Wie kann ich meinen Dispositionskredit bei meiner bisherigen Bank ablösen?
 
     Wurde ein Dispositionskredit bei comdirect bewilligt, lösen Sie den Kredit bei Ihrer bisherigen Bank einfach durch eine Überweisung ab. Sie haben auch die Möglichkeit, einen Ratenkredit bei comdirect zu beantragen. Ausführliche Informationen hierzu finden Sie auf unserer Website unter: www.comdirect.de/Ratenkredit
 
+###

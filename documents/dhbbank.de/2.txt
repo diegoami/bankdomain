@@ -1,3 +1,4 @@
+###
 Welche Vorteile bietet das Tagesgeldkonto?
 Das Tagesgeldkonto ist ein kostenfreies, sehr gut verzinstes Anlagekonto mit täglicher Verfügbarkeit. Ihre Vorteile im Überblick:
 
@@ -5,18 +6,18 @@ Das Tagesgeldkonto ist ein kostenfreies, sehr gut verzinstes Anlagekonto mit tä
     Attraktive Zinsen ab dem ersten Euro
     Keine Kontoführungsgebühren
     Keine Mindestanlage
-
+###
 Was ist der Unterschied zwischen Nominal- und Effektivzins?
 Der Nominalzins berücksichtigt keine unterjährigen, zum Beispiel monatlichen Zinsgutschriften und ist meist etwas niedriger als der Effektivzins. Dieser entspricht der tatsächlichen jährlichen Rendite und ist deshalb für den Anleger entscheidend. Bei jährlicher Zinsgutschrift sind Nominal- und Effektivzins identisch.
-
+###
 Wie wird das Geld verzinst, wenn der Anlagebetrag variiert?
 Bei Tagesgeldkonten können jederzeit Verfügungen oder weitere Einzahlungen vorgenommen werden, was sich auf die täglich berechneten Zinsen auswirkt. Es wird für jeden Tag der jeweilige Anlagebetrag zugrunde gelegt und verzinst.
-
-Wie funktionieren Ein- und Auszahlungen?
+###
+Wie funktionieren Ein- und Auszahlungen auf ein Tagesgeld ?
 Einzahlungen auf ein Tagesgeld erfolgen per Überweisung vom Referenzkonto des Kunden. Auszahlungen sind nur zugunsten des Referenzkontos möglich und können telefonisch oder schriftlich angewiesen werden. Netbanking Kunden können Auszahlungen auch Online anweisen. Das Limit für Auszahlungen liegt bei 25.000,00 EUR pro Tag.
-
+###
 Was ist ein Referenzkonto?
 Das Referenzkonto ist ein auf den Namen des Kunden lautendes und bei einer in Deutschland ansässigen Bank geführtes Girokonto und wird für Verfügungen des Kunden genutzt. Verfügungen sind nur zugunsten dieses Kontos zulässig.
-
+###
 Wie funktioniert Telefonbanking?
 Für das Telefonbanking benötigen Sie eine Telefonbankingvereinbarung. Unter Angabe der DHB Bank Tagesgeldkontonummer, des Namens und des Passwortes können Sie Auszahlungen und Aufträge auch telefonisch anweisen.

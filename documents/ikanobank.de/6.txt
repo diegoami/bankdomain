@@ -1,14 +1,15 @@
+###
 Wer steht hinter der IKEA Kreditkarte?
 
 Die Ikano Bank ist eine Tochter der internationalen Unternehmensgruppe Ikano, deren Hauptgeschäftsfelder neben Finanzdienstleistungen die Bereiche Immobilien, Versicherungen, Produktion und Einzelhandel sind. 1988 wurde Ikano zu einem unabhängigen Konzern, der zum Eigentum der Familie Kamprad gehört. Ingvar Kamprad ist der Gründer von IKEA. Als Spezialist für Services wie Kundenkarten, Kreditkarten und Privatkredite ist die Ikano Bank erfolgreich in vielen Ländern präsent: in Deutschland, Österreich, Schweden, Dänemark, Norwegen, Finnland, Großbritannien, Russland und Polen. In Deutschland hat die Ikano Bank ihren Sitz in Wiesbaden.
-
+###
 Was sind die Voraussetzungen für die IKEA Kreditkarte?
 
     Mindestalter 18 Jahre
     Deutscher Wohnsitz und deutsche Bankverbindung
     Legitimation in Deinem IKEA Einrichtungshaus oder per PostIdent-Verfahren in einer Postfiliale Deiner Wahl
-
-Welche Unterlagen benötige ich für die Beantragung?
+###
+Welche Unterlagen benötige ich für die Beantragung einer IKEA KreditKarte?
 
 Deutscher Staatsbürger:
 
@@ -25,28 +26,29 @@ Nicht EU-Staatsbürger:
     gültiger Reisepass
     Meldebescheinigung, die nicht älter als ein Jahr ist
     unbefristeter Aufenthaltstitel
-
+###
 Wie lange dauert die Antragstellung der IKEA Kreditkarte?
 
 Die Antragstellung dauert nur wenige Minuten. Wenn Du Dich im IKEA Einrichtungshaus direkt legitimierst, kannst Du sofort einkaufen gehen. Du erhältst zunächst eine vorläufige Karte, die bei IKEA verwendet werden kann. Die reguläre Karte wird anschließend innerhalb weniger Tage per Post zugestellt.
 Wenn Du die Legitimation über das PostIdent-Verfahren durchführen lässt, dauert es, nach Abgabe der Vertragsunterlagen bei der Deutschen Post, nur wenige Tage, bis die IKEA Kreditkarte bei Dir eintrifft.
-
+###
 Welche Kündigungsfrist gibt es für die IKEA Kreditkarte?
 
 Du kannst den Kreditkartenvertrag jederzeit ohne Einhaltung einer Kündigungsfrist kündigen. Die Ikano Bank kann den Kreditkartenvertrag unter Einhaltung einer angemessenen, mindestens zweimonatigen, Kündigungsfrist kündigen. Beide Parteien können den Vertrag bei Vorliegen eines wichtigen Grundes fristlos kündigen. Gesetzliche Kündigungsrechte bleiben unberührt.
-
+###
 Wie viel kostet die IKEA Kreditkarte?
 
 Die Karte ist für alle Kunden, welche die Teilzahlung nutzen, gebührenfrei. Es fallen lediglich die entsprechenden Zinsen und ggf. Gebühren anderer Banken an. Für alle Kunden, die die Vollzahlungsmöglichkeit nutzen und einen Mindestumsatz von 1.200 Euro im Jahr erreichen, ist die Karte ebenfalls gebührenfrei. Erreicht ein Kunde im Vollzahlungsmodus den Mindestumsatz nicht, berechnet die Ikano Bank rückwirkend eine Jahresgebühr in Höhe von 17,99 Euro. Im ersten vollen Kalenderjahr ist die Karte in jedem Fall kostenfrei.
-
+###
 Wo wird die IKEA Kreditkarte akzeptiert?
 
 Überall dort, wo Visa und V PAY akzeptiert werden. Egal ob online oder unterwegs – mit Deiner Visa Karte bist Du im In- und Ausland immer willkommen. Und falls Du doch einmal Bargeld brauchst, kannst Du an über 2 Millionen Geldautomaten Bargeld abheben. Allein in Europa akzeptieren mehr als 400.000 Geldautomaten Deine Visa Karte.
-
+###
 Was bedeutet V PAY?
 
 Mit V PAY kann in ganz Europa und oft auch weltweit im Handel bezahlt und Bargeld am Automaten abgehoben werden. Mit der V PAY Funktion erhält die IKEA Kreditkarte ein größeres Akzeptanznetz, da nicht alle Anbieter bzw. Händler die Visa Funktion unterstützen. Die Karte kann daher flächendeckend bei Händlern in Deutschland eingesetzt werden, die die V PAY-Funktion anbieten.
-
+###
 Gibt es eine Familien-/ Partnerkarte?
 
 Nein, eine Familienkarte oder eine Partnerkarte gibt es für die IKEA Kreditkarte nicht.
+###

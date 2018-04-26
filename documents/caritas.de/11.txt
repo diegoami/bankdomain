@@ -1,3 +1,4 @@
+###
 Was ist eine Vermögensauskunft?
 
 Durch die Vermögensauskunft informiert sich der Gläubiger über Ihre Einkommens- und Vermögenssituation. Interessant sind für ihn unter anderem:
@@ -11,7 +12,7 @@ Adresse des Arbeitgebers
 
 Der Gläubiger erfährt so, ob und wo er etwas pfänden kann.
 
-
+###
 Wer kann eine Vermögensauskunft beantragen?
 
 Der Gläubiger beantragt auf der Grundlage einer titulierten Forderung beim Gerichtsvollzieher, dem Schuldner die Vermögensauskunft abzunehmen (vor dem 1. Januar 2013 die sogenannte Eidesstattliche Versicherung).
@@ -20,13 +21,13 @@ Titel sind Vollstreckungsbescheide, Gerichtsurteile, Beschlüsse und notarielle 
 
 Aus offenen Rechnungen oder Mahnungen kann nicht vollstreckt werden.
 
-
+###
 Kann ich die Vermögensauskunft verhindern?
 
 Bevor Sie die Vermögensauskunft abgeben müssen, erhalten Sie vom Gerichtsvollzieher eine letztmalige Zahlungsfrist von zwei Wochen.
 
 Sofern der Gläubiger zustimmt, kann der Gerichtsvollzieher Ihnen eine längere Zahlungsfrist einräumen oder eine Ratenzahlung bis zur Dauer von zwölf Monaten gestatten.
-
+###
  Wie wird die Vermögensauskunft abgenommen?
 
 Im Regelfall lädt Sie der Gerichtsvollzieher in seine Geschäftsräume ein. Er kann Ihnen jedoch auch die Vermögensauskunft in Ihrer Wohnung abnehmen. Gegen die Abgabe der Vermögensauskunft in Ihrer Wohnung können Sie innerhalb einer Woche Widerspruch einlegen. Sie werden dann in die Geschäftsräume des Gerichtsvollziehers eingeladen.
@@ -36,7 +37,7 @@ Sie müssen in einem umfangreichen Fragebogen alle Fragen zu Ihrem Einkommen und
 Sollten Sie sich weigern, dem Gerichtsvollzieher die Vermögensauskunft abzugeben, kann es zum Haftbefehl kommen. Dieser wird jedoch sofort aufgehoben, nachdem Sie die Vermögensauskunft abgegeben haben.
 
 Der Gerichtsvollzieher darf auf Antrag eines Gläubigers jederzeit weitere Auskünfte einholen, wenn die Hauptforderung des Gläubigers mindestens 500 Euro beträgt. So erfährt er die aktuelle Anschrift des Arbeitgebers, die aktuelle Kontoverbindung und - falls vorhanden - die Fahrzeug- und Halterdaten.
-
+###
 Welche Folgen ergeben sich für mich durch die Abgabe der Vermögensauskunft?
 
     Die Vermögensauskunft wird für zwei Jahre bei einem zentralen Vollstreckungsgericht elektronisch gespeichert.
@@ -62,3 +63,4 @@ Tipps zur Vermögensauskunft
     Wenn sich aus der Vermögensauskunft ergibt, dass Sie zahlungsunfähig sind, sollten Sie danach nur Verträge abschließen, die Sie auch bezahlen können. Sonst kann Ihnen der Gläubiger möglicherweise betrügerisches Verhalten unterstellen. Bei einer Anzeige müssen Sie dann mit einer Verurteilung rechnen.
     Übrigens: Sie können die Vermögensauskunft nicht selbst beantragen
 
+###

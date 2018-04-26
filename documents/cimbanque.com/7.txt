@@ -1,7 +1,9 @@
-
+###
     Worum handelt es sich bei dem Bonusprogramm «Surprize»?
 
     Das Programm «Surprize» ist für die Visa- und Mastercard-Karten in Schweizer Franken (CHF) verfügbar. Es handelt sich um ein Treueprogramm, bei dem Sie bei Käufen mit Ihrer Kredit- oder Prepaid-Karte von Visa/ Mastercard in CHF in Geschäften oder Online-Shops Punkte sammeln können. Sie profitieren dann von Rabatten bei den «Surprize»-Partnerunternehmen und von exklusiven Geschenken.
+###
     Wie nehme ich am «Surprize»-Programm teil?
 
     Sie brauchen sich nur online auf der Website www.surprize.ch anmelden, um am Programm teilzunehmen. Dann sammeln Sie ab sofort Surprize-Punkte.
+###

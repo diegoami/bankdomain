@@ -1,36 +1,49 @@
-SmartÜberweisung
+###
 Wo finde ich die SmartÜberweisung?
 Im Online-Banking finden Sie die SmartÜberweisung oben in der Inlandsüberweisung. Im Mobile-Banking mit der „Deutsche Bank Mobile“-App wählen Sie direkt die Funktion "Smartüberweisung". Hier können Sie die Überweisungsdaten manuell eingeben oder eine Rechnung bzw. einen Überweisungsträger fotografieren. Über den mobilen Browser auf Ihrem Smartphone und auf dem Tablet steht die SmartÜberweisung nicht zur Verfügung.
+###
 Wie funktioniert die SmartÜberweisung?
 Die SmartÜberweisung liest alle für eine Überweisung relevanten Daten aus digitalen Rechnungen und fügt sie direkt in die Überweisungsmaske ein. Im Online-Banking geschieht dies über „PDF hierher ziehen“, „PDF hochladen“ oder „Kopieren und einfügen“. Im Mobile-Banking lassen sich auch Rechnungen und Überweisungsträger aus Papier abfotografieren. Die Daten werden automatisch ausgelesen und übernommen.
-Mehr Infos
+###
 Wie sicher ist die SmartÜberweisung?
 Die SmartÜberweisung entspricht den hohen Sicherheitsstandards aller Überweisungen bei der Deutschen Bank. Sie dient dem Ausfüllen der Überweisungsmaske mit relevanten Daten von Überweisungsträgern und Rechnungen. Die Überweisung an sich bleibt die Inlandsüberweisung im Online- und Mobile-Banking.
-Die SmartÜberweisung im Online-Banking
-Wer kann diese Funktion nutzen?
+###
+Wer kann die SmartÜberweisung nutzen?
 Alle Kunden des Online-Bankings können die SmartÜberweisung nutzen – mit aktuellem Browser und aktiviertem JavaScript.
-Welche Datenformate dürfen die Rechnungen haben?
+###
+Welche Datenformate dürfen bei einer SmartÜberweisung die Rechnungen haben?
 Aktuell werden PDF-Dateien sowie reine Textdateien (mit der Copy-and-paste-Funktion) gelesen.
-Kann ich die Daten noch nach der automatischen Erkennung verändern?
+###
+Kann ich bei einer SmartÜberweisung die Daten noch nach der automatischen Erkennung verändern?
 Ja, die SmartÜberweisung befüllt alle Felder der Überweisungsmaske mit den entsprechenden Daten aus der Rechnung. Anschließend können diese wie gewohnt bearbeitet werden.
-Was passiert, wenn eine eingescannte Rechnung schlecht lesbar ist?
+###
+Was passiert, wenn bei einer SmartÜberweisung eine eingescannte Rechnung schlecht lesbar ist?
 Liefert die Texterkennung keinen eindeutigen Eintrag für ein Feld (weil z. B. die Rechnung verschmutzt ist oder darin zu viele Beträge aufgelistet sind), so wird das betreffende Feld leer gelassen. Das Feld muss dann per Hand ausgefüllt werden.
+###
 Was heißt „Drag and drop“?
 „drag and drop“ steht für „ziehen und fallen lassen“. Hat man eine Rechnung im Windows Explorer in einem Ordner gespeichert, so kann man den Ordner öffnen, die Datei mit gedrückter Maustaste auf das dafür vorgesehene Feld im Online-Banking ziehen („drag“) und dort ablegen („drop“). Daraufhin werden die Daten automatisch erfasst.
+###
 Wofür brauche ich die Copy-and-paste-Überweisung, wenn ich schon die Drag-and-drop-Funktion habe?
 Mit Copy-and-paste können Sie z. B. einen Text aus einer Mail kopieren und im Online-Banking einfügen. Die Texterkennungssoftware erkennt die für die Überweisungsmaske relevanten Informationen automatisch.
-Darf meine Rechnung mehrere Seiten haben?
+###
+Darf bei einer SmartÜberweisung meine Rechnung mehrere Seiten haben?
 Ja, bis zu zehn Seiten einer Rechnung werden angenommen und analysiert.
-Kann ich nur formal korrekte Rechnungen einscannen?
+###
+Kann ich bei einer SmartÜberweisung nur formal korrekte Rechnungen einscannen?
 Über Copy-and-paste können Sie Zahlungsformulare aller Art verarbeiten, z. B. auch Zahlungsdaten, die per E-Mail verschickt wurden.
-Die neue Funktion ist bei mir nicht sichtbar. Warum?
+###
+Die SmartÜberweisung ist bei mir nicht sichtbar. Warum?
 Die SmartÜberweisung kann nur verwendet werden, wenn ein aktueller Browser mit aktiviertem JavaScript benutzt wird.
-Die SmartÜberweisung im Mobile-Banking (Android)
+###
 Welche Voraussetzungen muss ich erfüllen, um die SmartÜberweisung im Mobile-Banking zu nutzen?
 Sie benötigen ein Smartphone mit installiertem Android-Betriebssystem 4.4 oder höher und dazu die aktuelle Version der „Deutsche Bank Mobile" App
+###
 Warum funktioniert die SmartÜberweisung nicht auf meinem iPhone?
 Die SmartÜberweisung funktioniert aktuell ausschließlich auf Android-Smartphones, wir arbeiten an einer Erweiterung auf weitere Geräte und Betriebssysteme.
+###
 Warum erkennt die SmartÜberweisung die Daten auf meiner abfotografierten Rechnung nicht?
 Das kann an der schlechten Lesbarkeit einer Rechnung liegen, vielleicht aufgrund mangelnder Beleuchtung, durch einen dunklen Hintergrund oder einen schlechten Winkel beim Fotografieren. Vor dem Absenden der Daten, die mithilfe der SmartÜberweisung erfasst wurden, sollten diese noch einmal auf ihre Richtigkeit überprüft werden.
-Werden die gescannten Rechnungsdaten gespeichert?
+###
+Werden bei einer SmartÜberweisung die gescannten Rechnungsdaten gespeichert?
 Nein, die Daten werden nicht gespeichert
+###

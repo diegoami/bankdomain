@@ -1,0 +1,12 @@
+###
+Was ist ein Virus und wie arbeitet er?
+Ein Computervirus ist ein sich selbst verbreitendes Computerprogramm, welches sich in andere Computerprogramme einschleust und sich damit reproduziert.
+
+Einmal gestartet kann es vom Anwender nicht kontrollierbare Veränderungen am Status der Hardware, am Betriebssystem oder an der Software vornehmen. Computerviren können durch vom Ersteller gewünschte oder nicht gewünschte Funktionen die Computersicherheit beeinträchtigen.
+
+Zu den Computerviren zählen auch Würmer und Trojanische Pferde.
+
+Benutzen Sie ein Virenprogramm, das Sie ständig aktualisieren, und eine Firewall, mit der Sie unerwünschte Verbindungen zu Ihrem PC unterbinden können.
+
+Weitere Tipps rund um Virenprogramme und Firewalls sowie kostenlose Download-Möglichkeiten finden Sie beim Bundesamt für Sicherheit in der Informationstechnik.
+###

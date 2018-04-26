@@ -1,24 +1,31 @@
+###
 Kann ich das bisherige Electronic Banking und das neue Online Banking parallel nutzen?
 
 Ja, die Zugriffe sind von den Systemen her aber getrennt zu betrachten. Es erfolgt kein Datenaustausch zwischen den Anwendungen.
 
 D.h. Aufträge, die in HOB erfasst werden, müssen auch darin (Web oder Mobile) gezeichnet werden.
+###
 Kann ich mit meinen aktuellen Online Banking Daten auch ins neue HOB einsteigen?
 
 Vorerst gibt es separate Zugangsdaten für Online Banking und Hypo Office Banking. Dennoch kann Ihre bestehende Verfügernummer auch als Basis für HOB verwendet werden.
+###
 Funktioniert HOB auch mit MBS-Programmen?
 
 Nein, HOB arbeitet mit EBICS. Der rein Österreich-spezifische MBS (Multibank-Standard) wird nicht unterstützt. Nahezu alle Banken in Österreich unterstützen aber EBICS und Sie können deren Konten bequem darüber einbinden.
+###
 In welchen Ländern kann ich mit HOB Konten verwalten?
 
 HOB basiert auf dem EBICS-Protokoll. Damit lassen sich Konten in vielen europäischen Ländern verwalten.
 Neben Österreich und Deutschland unterstützen bereits viele Banken in der Schweiz und Frankreich EBICS. International tätige Großbanken können auch in anderen Ländern eingebunden werden. Sprechen Sie mit Ihrem Berater oder stellen Sie den Kontakt zu unserem Kundenservice Center her und wir klären die Anbindung mit Ihrer Bank.
+###
 Wie zeichne/unterschreibe ich Aufträge in HOB?
 
 Unter EBICS werden Aufträge mit einer digitalen Signatur gezeichnet.
 Bei der Initialisierung Ihres Zugangs erstellen Sie diese Schlüsseldatei (Key-Datei) in Kombination mit einem persönlichen Passwort.
 Für jeden Login und jede Zeichnung verwendet Sie in Folge diese persönlichen Autorisierungsdaten.
 Die Zeichnung per App (HOB Mobile) ist ebenfalls möglich.
+###
 Gibt es für HOB auch eine App?
 
 Ja, HOB Mobile ist verfügbar für iOS und Android. Mit der App erhalten berechtigte Teilnehmer Aufträge zur Zeichnung bequem per Push-Nachricht zugesandt. Eine Erfassung von Zahlungsaufträgen in der App ist nicht möglich.
+###

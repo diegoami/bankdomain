@@ -1,26 +1,41 @@
+###
 Verursacht NetBanking Plus Kosten?
-Die Nutzung von NetBanking Plus ist kostenlos. Sie benötigen zur Nutzung des E-Bankings einen PC (Windows oder Mac) mit handelsüblicher, aktueller Hard- und Software, einen Internetzugang sowie ein Mobiltelefon. Falls Sie Aufträge mit NetBanking Plus erfassen (z.B. Zahlungs- und Wertschriftenaufträge usw.), können diese übliche Transaktionskosten verursachen. Bitte setzen Sie sich für weitere Auskünfte mit uns in Verbindung.
 
+Die Nutzung von NetBanking Plus ist kostenlos. Sie benötigen zur Nutzung des E-Bankings einen PC (Windows oder Mac) mit handelsüblicher, aktueller Hard- und Software, einen Internetzugang sowie ein Mobiltelefon. Falls Sie Aufträge mit NetBanking Plus erfassen (z.B. Zahlungs- und Wertschriftenaufträge usw.), können diese übliche Transaktionskosten verursachen. Bitte setzen Sie sich für weitere Auskünfte mit uns in Verbindung.
+###
 Welches sind die technischen Voraussetzungen für NetBanking Plus?
+
 	Für NetBanking Plus benötigen Sie einen PC (Windows oder Mac) mit handelsüblicher, aktueller Hard- und Software, einen Internetzugang sowie ein Mobiltelefon. In Ihrem Browser müssen Sie folgende Einstellungen vornehmen:
 - Java akzeptieren
 - Javascript akzeptieren
 - Cookies akzeptieren
 Ihr Mobiltelefon muss SMS empfangen können, dazu benötigen Sie ein gültiges Mobile-Abonnement.
+###
 Wie erfolgt der Zugang zu NetBanking Plus?
+
 	Sie benötigen die zwei Sicherheitsmerkmale
 - Benutzeridentifikation
 - Passwort
 
 Diese Sicherheitsmerkmale werden Ihnen nach Unterzeichnung des E-Banking Vertrages zugestellt.
+###
 Kann auch aus dem Ausland auf NetBanking Plus zugegriffen werden?
 
 	Ja, seitens unserer Bank bestehen keine geografischen Restriktionen. Bitte beachten Sie, dass einzelne Länder einschränkende Vorschriften für E-Banking-Dienstleistungen und die Verwendung von Verschlüsselungssoftware haben.
+###
 In welchen Fällen wird ein NetBanking Plus-Vertrag gesperrt?
+
 Nach mehreren ungültigen Anmeldungen wird Ihr Vertrag aus Sicherheitsgründen gesperrt. Falls Sie das Login mit SMS-Code durchführen, haben Sie einmalig die Möglichkeit, Ihren Vertrag selber mittels SMS-Code zu entsperren. Sollte dies nicht gelingen oder Sie verwenden noch eine Sicherheitscodekarte für das Login, setzen Sie sich bitte mit uns in Verbindung, um die Sperrung aufzuheben.
-Wie kann das Passwort geändert werden?
+###
+Wie kann das Passwort vom NetBanking Plus geändert werden?
+
 	Beim erstmaligen Einstieg in NetBanking Plus werden Sie aufgefordert ein neues Passwort festzulegen. Wenn Sie es zu einem späteren Zeitpunkt ändern möchten, können Sie dies im Hauptmenü unter «Einstellungen» tun.
-Wie viele Zeichen muss das Passwort aufweisen?
+###
+Wie viele Zeichen muss das Passwort vom NetBanking Plus aufweisen?
+
 Das Passwort muss mindestens acht Zeichen (wovon mindestens je ein Buchstabe und eine Ziffer) umfassen. Bitte verzichten Sie aus Sicherheitsgründen auf Kombinationen, die sich auf Ihr persönliches Umfeld beziehen (Geburtsdatum, Telefon- oder Autonummer usw.).
+###
 Muss beim Passwort auf Gross-/Kleinschreibung geachtet werden?
+
 Ja, das Passwort wird auf Gross-/Kleinschreibung geprüft.
+###
