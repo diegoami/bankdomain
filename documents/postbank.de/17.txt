@@ -1,3 +1,4 @@
+###
 Kann ich mehrere Konten über das Telefon-Banking verwalten? Zum Beispiel ein Tagesgeldkonto.
 
 
@@ -8,6 +9,7 @@ Ausnahme: Das Tagesgeldkonto verwalten Sie über Ihr Girokonto.
 
 Haben Sie im Telefon-Banking bereits alles rund um Ihr Girokonto erledigt, so teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte das Konto wechseln". Sie gelangen so erneut zur Eingabe von Kontonummer und Telefon-Geheimzahl und können sich für das nächste Konto anmelden.
 
+###
 
 Ich habe ein Tagesgeldkonto, wie kann ich meine Umsätze und den Kontostand mit dem Telefon-Banking abfragen?
 
@@ -16,6 +18,7 @@ Ich habe ein Tagesgeldkonto, wie kann ich meine Umsätze und den Kontostand mit 
 Nachdem Sie Ihre Girokontonummer und Telefon-Geheimzahl erfolgreich eingegeben haben, wird Ihnen der aktuelle Kontostand genannt. Direkt im Anschluss erhalten Sie den Kontostand Ihres Tagesgeldkontos. Anschließend befinden Sie sich im Hauptmenü.
 
 Teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte die Umsätze meines Tagesgeldkontos abfragen".
+###
 
 
 Wie kann ich eine Umbuchung von meinem Tagesgeldkonto über das Telefon-Banking vornehmen?
@@ -25,6 +28,7 @@ Wie kann ich eine Umbuchung von meinem Tagesgeldkonto über das Telefon-Banking 
 Nachdem Sie Ihre Girokontonummer und Telefon-Geheimzahl erfolgreich eingegeben haben, wird Ihnen der aktuelle Kontostand genannt. Direkt im Anschluss erhalten Sie den Kontostand Ihres Tagesgeldkontos. Anschließend befinden Sie sich im Hauptmenü.
 
 Teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte eine Umbuchung vom Tagesgeldkonto tätigen".
+###
 
 Wie kann zu einem Postbank Girokonto auch ein Tagesgeldkonto eröffnet werden?
 
@@ -37,6 +41,7 @@ Ein Tagesgeldkonto kann auf zwei Arten eröffnet werden:
 
 Wichtig: Zum Abschluss werden Online-PIN und TAN-Verfahren des Girokontos benötigt.
 
+###
 
 Wie funktionieren Überweisungen auf und von einem Tagesgeldkonto?
 
@@ -48,6 +53,7 @@ Etwas anderes ist eine Überweisung vom Tagesgeldkonto. Hier geht die "Umbuchung
 
 Es geht über das Online-Banking (Einwahl und TAN-Verfahren über das Girokonto) und über das Telefon-Banking unter 0228 5500 5500. Auch hier stammt die PIN vom Girokonto.
 
+###
 
 Wie kann ich eine Terminüberweisung vom Sparkonto auf das Girokonto machen?
 
@@ -55,6 +61,7 @@ Wie kann ich eine Terminüberweisung vom Sparkonto auf das Girokonto machen?
 
 Terminüberweisungen vom Sparkonto  - dazu zählt u.a. auch das Tagesgeldkonto - auf Ihr Postbank Girokonto sind nicht möglich. Eine Umbuchung wird immer taggleich ausgeführt.
 
+###
 
 Kann ich mein Tagesgeldkonto auch als Brokerage-Anlagekonto zum Depot benutzen?
 
@@ -64,11 +71,13 @@ Nein, dies ist nicht möglich.
 
 Beim Tagesgeldkonto handelt es sich um ein Sparkonto, dessen Referenz immer das Girokonto ist. Mit dem Depot- bzw. Anlagekonten hat es nichts zu tun und kann hier auch nicht als Ersatz dienen.
 
+###
 Ich habe ein Girokonto mit Tagesgeldkonto. Deckt das Guthaben auf dem Tagesgeldkonto mein Girokonto?
 
 
 
 Nein, das Guthaben auf dem Tagesgeldkonto deckt nicht das Girokonto.
+###
 
 Kann ich mein Tagesgeldkonto unabhängig vom Girokonto kündigen? Das Girokonto möchte ich allerdings behalten!
 
@@ -79,6 +88,7 @@ Sie können Ihr Postbank Tagesgeldkonto jederzeit kündigen und Ihr Girokonto we
 Teilen Sie Ihren Kündigungswunsch bitte schriftlich Ihrer kontoführenden Niederlassung mit. Beachten Sie dabei, dass die kontoführenden Niederlassungen von Girokonto und Tagesgeldkonto verschieden sein können.
 
 Bitte beachten Sie, dass bei einem Gemeinschaftskonto beide Kontoinhaber unterschreiben müssen.
+###
 
 Wo finde ich die bisher erwirtschafteten Zinserträge von meinem Tagesgeldkonto?
 
@@ -91,12 +101,14 @@ Zusätzlich können Sie die Zinsen auch telefonisch legitimiert über das Telefo
 Mein Tipp:
 
 Meist im März bekommen Sie eine Jahressteuerbescheinigung für das vorherige Jahr, sofern Sie mehr als 5 Euro Zinsertrag haben, automatisch zugeschickt. Sollte Sie weniger als 5 Euro Zinsertrag haben, können Sie diese aber trotzdem kostenlos anfordern.
+###
 
 Gilt eine Vollmacht für das Girokonto auch für das Tagesgeldkonto?
 
 
 
 Da das Tagesgeldkonto zum Girokonto gehört, ist eine Vollmacht für ein Girokonto auch immer eine Vollmacht für das anhängende Tagesgeldkonto.
+###
 
 
 Wo finde ich die IBAN und den BIC meines Tagesgeldkontos?
@@ -108,6 +120,7 @@ Die Kontodaten Ihres Tagesgeldkontos finden Sie im Online-Banking direkt nach de
 Klicken Sie einfach auf den Pfeil vor dem Wort „Tagesgeld".
 
 Nun sehen Sie die Kontodetails, u.a. auch IBAN und BIC Ihres Tagesgeldkontos.
+###
 
 Wo finde ich den Zinssatz für mein Tagesgeldkonto?
 
@@ -117,17 +130,20 @@ Die aktuellen Angaben zu Ihrem Postbank Tagesgeldkonto finden Sie hier.
 
 Klicken Sie einfach auf den Reiter "Konditionen".
 
+###
 Wie kann ich das Referenzkonto zu einem Tagesgeldkonto ändern?
 
 
 
 Das Tagesgeldkonto wird als Unterkonto zu einem Girokonto eröffnet. Die Zuordnung zu einem anderen Girokonto ist nicht möglich.
+###
 
 Gibt es die Möglichkeit, ab einem bestimmten niedrigen Kontostand beim Girokonto einen bestimmten Betrag vom Tagesgeldkonto automatisch auf das Girokonto zu überweisen?
 
 
 
 Nein, diese Möglichkeit bietet die Postbank nicht an.
+###
 
 Wie kann ich eine Umbuchung von einer SparCard oder einem Tagesgeldkonto durchführen?
 
@@ -136,6 +152,7 @@ Wie kann ich eine Umbuchung von einer SparCard oder einem Tagesgeldkonto durchf�
 Möchten Sie eine Umbuchung von Ihrem Spar- bzw. Tagesgeldkonto durchführen, wählen Sie bitte im Online-Banking die Kontoübersicht aus. Hier sehen Sie rechts vom Sparkonto die Umbuchungsfunktion. Das Zielkonto ist dabei fest voreingestellt.
 
 Bei der Umbuchung kommt das TAN-Verfahren des Girokontos zum Einsatz.
+###
 
 Warum kann ich mein Tagesgeldkonto nicht zum Komfort-Sparen nutzen?
 
@@ -144,12 +161,14 @@ Warum kann ich mein Tagesgeldkonto nicht zum Komfort-Sparen nutzen?
 Das Komfort-Sparen ist von seiner Produktauslegung auf Sparkonten mit einer dreimonatigen Kündigungsfrist gerichtet.
 
 Das Tagesgeldkonto dagegen hat diese Kündigungsfrist nicht. So entstehen auch bei einer Umbuchung vom Tagesgeldkonto zum Girokonto keine Vorschusszinsen, unabhängig von der Betragshöhe.
+###
 
 Wie kann ich das Referenzkonto zu einem Tagesgeldkonto ändern?
 
 
 
 Ein Tagesgeldkonto gehört immer zu einem einzigen Girokonto. Es wird bei der Kontoeröffnung festgelegt und kann nachträglich nicht geändert werden.
+###
 
 Kann eine Umbuchung vom Tagesgeldkonto zum Girokonto auch über das Postbank Telefon-Banking veranlasst werden?
 
@@ -158,6 +177,7 @@ Kann eine Umbuchung vom Tagesgeldkonto zum Girokonto auch über das Postbank Tel
 Ja, das ist möglich.
 
 Bitte halten Sie die Telefon-Banking PIN Ihres Girokontos bereit und wählen unsere Hotline unter 0228 5500 5500 an.
+###
 
 Gibt es zum Tagesgeldkonto eine separate Karte, z.B. um damit Geld abzuheben?
 
@@ -166,6 +186,7 @@ Gibt es zum Tagesgeldkonto eine separate Karte, z.B. um damit Geld abzuheben?
 Nein, zu Ihrem Tagesgeldkonto erhalten Sie keine separate Karte, da das Tagesgeldkonto nur in Zusammenhang mit einem Postbank Girokonto genutzt werden kann.
 
 Möchten Sie Beträge vom Tagesgeld- zum Girokonto umbuchen, geht das am einfachsten über das Online-Banking. Vorschusszinsen, welche z.B. bei der Sparcard eine Rolle spielen, brauchen Sie beim Tagesgeldkonto nicht zu beachten.
+###
 
 Kann das Tagesgeldkonto weiter betrieben werden - z.B. über ein Girokonto bei einer anderen Bank - wenn das Postbank Girokonto aufgelöst wird?
 
@@ -174,12 +195,14 @@ Kann das Tagesgeldkonto weiter betrieben werden - z.B. über ein Girokonto bei e
 Nein, wenn man das Girokonto kündigt, wird auch das Tagesgeldkonto mit aufgelöst.
 
 Es ist nicht möglich, ein Tagesgeldkonto ohne ein Postbank-Girokonto zu führen.
+###
 
 Kann an einem Service Terminal der Postbank auf das Tagesgeldkonto zugegriffen werden, z.B. um davon bzw. darauf umbuchen?
 
 
 
 Nein, Umbuchungen vom Tagesgeldkonto sind nur über Online-Banking und Telefon-Banking auf das eigene Girokonto möglich.
+###
 
 Kann das Postbank Tagesgeldkonto auch mit einer Finanzsoftware, wie z.B. StarMoney, verwaltet werden?
 
@@ -196,3 +219,4 @@ Ich möchte ein Tagesgeldkonto eröffnen, habe aber kein Postbank Girokonto.
 Um ein Postbank Tagesgeldkonto zu eröffnen, benötigen Sie ein Postbank Girokonto.
 
 Ohne ein Postbank-Girokonto wäre das Tagesgeldkonto später auch gar nicht einsetzbar, z.B. im Online-Banking oder beim Telefon-Banking.
+###

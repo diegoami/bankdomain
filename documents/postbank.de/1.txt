@@ -1,13 +1,14 @@
+###
 Wie ändere ich im Online-Banking meinen PIN Zugang in die Postbank ID ?
 
 Ihre PIN für das Postbank Online-Banking können Sie ganz leicht selbst ändern.
 
 Melden Sie sich im Online-Banking mit Kontonummer und PIN an und klicken Sie dann auf  "Einstellungen">"PIN und Postbank ID Verwaltung". Ein Online-Assistent hilft Ihnen. Auf Ihrem Bildschirm erscheint eine Bestätigung - jetzt können Sie sich mit Postbank ID und Passwort anmelden.
-
+###
 Kann ich von meiner Postbank Card (Debitkarte) die PIN ändern?
 
 Nein, die PIN einer Postbank Card (Debitkarte) kann nicht geändert werden.
-
+###
 Gibt es ein Limit für das Bezahlen und Geldabheben mit meiner Postbank Card (Debitkarte)?
 
 
@@ -20,7 +21,7 @@ Das Limit Ihrer Karte beträgt:
 Nutzen Sie das Postbank Online-Banking? Dann können Sie Ihr persönliches Kartenlimit für Abhebungen im Ausland über den Menüpunkt „Einstellungen“ einsehen und ändern.
 
 Mein Tipp: Informieren Sie sich vor einer Reise, wo Ihre Postbank Card (Debitkarte) akzeptiert wird. Alle Länder finden Sie unter www.postbank.de/vpay. Sie möchten weltweit reisen und benötigen ein höheres Limit? Dann empfehlen wir Ihnen eine Postbank Kreditkarte. Die passende Karte finden Sie hier.
-
+###
 In welchen Ländern wird die Postbank Card (Debitkarte) akzeptiert?
 
 Alle Postbank Cards (Debitkarten) sind mit V Pay ausgestattet. V Pay ist ein weltweit verbreitetes Zahlungssystem, so dass Ihre Postbank Card (Debitkarte) mittlerweile in fast allen Ländern der Welt akzeptiert wird.
@@ -29,7 +30,7 @@ Bitte beachten Sie das Kartenlimit für das Geldabheben im Ausland: maximal 1.50
 
 Mein Tipp: Informieren Sie sich vor einer Reise, wo Ihre Postbank Card (Debitkarte) akzeptiert wird. Alle Länder finden Sie unter www.postbank.de/vpay. Sie möchten weltweit ohne Kartenlimit reisen? Dann empfehlen wir Ihnen eine Postbank Kreditkarte. Die passende Karte finden Sie unter www.postbank.de.
 
-
+###
 Wie bestelle ich eine neue Postbank Card (Debitkarte)?
 
 Mit nur wenigen Klicks können Sie ganz bequem im Online-Banking eine neue Postbank Card (Debitkarte) bestellen oder auch sperren.
@@ -49,7 +50,7 @@ So erhalten Sie im Notfall Bargeld:
 
 In einer Postbank Filiale können Sie am Schalter bis zu 500 Euro Bargeld pro Tag abheben. Dazu benötigen wir Ihren Personalausweis und Ihre Girokontonummer.
 
-
+###
 
 Wenn Sie von Postbank Card (Debitkarte) reden, ist das dann meine ganz normale EC-Karte?
 
@@ -59,7 +60,7 @@ Bereits seit 2002 werden keine EC-Karten mehr ausgestellt. Deshalb ersetzten all
 
 
 
-
+###
 Ich habe meine Karte verloren, wie kann ich diese schnell sperren?
 
 Mit nur wenigen Klicks können Sie ganz einfach im Online-Banking Ihre Postbank Card (Debitkarte) oder Spar Card sperren. Klicken Sie nach der Anmeldung im Online-Banking in der oberen Menüleiste auf „Service“ und wählen Sie dann „Karte sperren und neu bestellen“.
@@ -77,13 +78,13 @@ Ferner haben Sie die Möglichkeit, über die Hotline von MasterCard und VISA Car
 Die Telefonnummer lautet: - aus Deutschland 069 66571333 - aus dem Ausland 0049 69 66571333 (aus den USA 01149 69 66571333).
 
 Tipps zum Thema „Karten Sicherheit“ erhalten Sie hier.
-
+###
 
 Ich habe meinen chipTAN-Generator verloren/verlegt. Muss ich jetzt mein Konto/meine Karte sperren?
 
 Da der chipTAN-Generator selbst keine sicherheitsrelevanten Daten enthält, brauchen Sie weder Ihr Konto noch Ihre Karte zu sperren. Einen neuen chipTAN-Generator können Sie hier bestellen.
 
-
+###
 Ich habe meine Kreditkarte verloren - funktioniert das mobile Bezahlen trotzdem noch?
 
 Solange Ihre Kreditkarte nicht gesperrt wurde, können Sie die Funktion wie gewohnt weiter verwenden.
@@ -91,32 +92,32 @@ Solange Ihre Kreditkarte nicht gesperrt wurde, können Sie die Funktion wie gewo
 Bitte lassen Sie Ihre Kreditkarte im Verlustfall aber unverzüglich sperren. Sollten Sie bei der Sperre eine Ersatzkarte beantragt haben, steht Ihnen mobiles Bezahlen nach ca. 6 Stunden wieder zur Verfügung - Sie müssen dafür nichts weiter tun.
 
 
-
+###
 
 Ich habe meine Kreditkarte gesperrt - kann ich das mobile Bezahlen trotzdem weiter verwenden?
 
 Wenn Sie die Kreditkarte sperren, die Sie für mobiles Bezahlen verwenden, wird auch die mobil Bezahlen Funktion gesperrt.
 
 Sollten Sie jedoch eine Ersatzkarte beantragt haben, steht Ihnen mobil Bezahlen nach ca. 6 Stunden wieder zur Verfügung - Sie müssen dafür nichts weiter tun.
-
+###
 Welche Kreditkarten kann ich für mobiles Bezahlen verwenden?
 
 Sie können alle regulären VISA-Kreditkarten der Postbank für mobiles Bezahlen aktivieren - mit Ausnahme von Corporate / Business Cards sowie Prepaid Karten.
 
-
+###
 Auf wie vielen Geräten kann ich mobiles Bezahlen gleichzeitig verwenden?
 
 Sie können das mobile Bezahlen auf nur einem Gerät verwenden. Sie haben jedoch jederzeit die Möglichkeit auf ein anderes Gerät umzuziehen.
 
 
-
+###
 Ist mobiles Bezahlen sicher?
 
 Ja. Mobiles Bezahlen ist mindestens genauso sicher wie das Bezahlen mit Ihrer Kreditkarte.
 
 Zusätzlich haben Sie die Möglichkeit, die Obergrenze für PIN-lose Zahlungen selber einzustellen  - und damit einen weiteren Sicherheitsvorteil. Zudem werden Ihre Daten außerhalb des Handys gespeichert. So können Ihre Daten auch im Falle eines Diebstahls nicht ausgelesen werden.
 
-
+###
 
 Was bedeuten beim mobilen Bezahlen die Einstellungen für "Bezahlmodus"?
 
@@ -128,7 +129,7 @@ Der Bezahlmodus legt fest, wann und wie Ihr Gerät für mobiles Bezahlen aktivie
 
 • Zahlungen nur manuell: Sie können Zahlungen nur dann durchführen, wenn Sie in im Finanzassistenten  auf "Jetzt bezahlen" tippen.
 
-
+###
 Welche Einstellungen kann ich zum mobilen Bezahlen vornehmen?
 
 
@@ -140,7 +141,7 @@ Außerdem haben Sie die Möglichkeit, das mobile Bezahlen vorübergehend zu deak
 
 Ihre Einstellungen und Ihre aktive Karte bleiben erhalten wenn Sie mobiles Bezahlen wieder aktivieren.
 
-
+###
 Was bedeutet beim mobilen Bezahlen der "Freigabebetrag"?
 
 Kontaktlose Zahlungen benötigen - auch mit Ihrer physischen Kreditkarte - bis 25 Euro keine PIN Eingabe.
@@ -154,7 +155,7 @@ Mobiles Bezahlen ist in Deutschland noch nicht sehr verbreitet - Sie gehören zu
 
 Manchmal hilft es, wenn Sie "Mit Karte bezahlen" statt "Mit Handy bezahlen" sagen. Oder fragen Sie nach "kontaktlosem Zahlen mit Visa" statt nach "kontaktlosem Bezahlen mit dem Handy".
 
-
+###
 Wie muss ich beim mobilen Bezahlen das Handy an das Kassenterminal halten?
 
 Achten Sie am Kassenterminal auf das Paywave-Symbol und halten Sie Ihr Handy mit der Unterseitse an der Stelle an das Terminal, wo sich das Zeichen befindet.
@@ -163,7 +164,7 @@ Einige Terminals haben die Paywave Funktion an der Seite.
 
 Bewegen Sie Ihr Handy ggf. leicht hin und her, da sich bei jedem Gerät die NFC-Antenne an einer anderen Stelle befinden kann.
 
-
+###
 Eine Frage zum mobilen Bezahlen: Ich habe eine Bezahlung unter 25 Euro gemacht und wurde trotzdem nach meiner PIN gefragt - warum ist das so?
 
 
@@ -174,3 +175,4 @@ Außerdem steht pro Gerät nur eine gewisse Anzahl an sogenannten Kryptogrammen 
 Sind diese verbraucht, werden durch die Eingabe der PIN automatisch Neue nachgeladen.
 
 Damit wird zusätzliche Sicherheit gewährleistet.
+###

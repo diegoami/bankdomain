@@ -1,22 +1,22 @@
-
+###
 Kann ich ein Konto eröffnen, wenn ich außerhalb des Großherzogtums Luxemburg wohne?
 Keytrade Bank Luxembourg zählt sowohl in Luxemburg als auch im luxemburgischen Ausland ansässige Personen zu seinen Kunden.
 
-
+###
 
 Kann ich ein Konto für ein Unternehmen eröffnen?
 Bitte melden Sie sich zwecks Eröffnung eines Unternehmenskontos unter der +352 45 04 39.
 
-
+###
 Was kostet eine Kontoeröffnung?
 Eine Kontoeröffnung ist kostenlos.
 
-
+###
 Wie oft muss ich mein Passwort ändern?
 Sie müssen Ihre Passwörter alle drei Monate ändern, um eine höchstmögliche Sicherheit garantieren zu können.
 
 Sie können Ihr Passwort im Hauptmenü unserer gesicherten Webseite unter Meine Einstellungen ändern.
-
+###
  Habe ich ein gutes Passwort gewählt?
 Passwörter werden verwendet, um Ihre Konten und Vermögenswerte zu schützen. Wählen Sie daher Sie eine Kombination aus Buchstaben und Zahlen.
 
@@ -31,13 +31,13 @@ Die neun goldenen Regeln für ein gutes Passwort hier unten angegeben:
     Das Passwort darf keine offensichtliche Folge von mehr als 6 Zeichen sein z.B. sich auf der Tastatur folgende Zeichen (azerty) oder Zahlen (2345678).
     Ihr Passwort ist persönlich und darf nicht an Dritte weitergegeben oder schriftlich festgehalten werden.
 
-
+###
 
 Was muss ich tun, wenn ich mich nicht an mein Passwort erinnern kann?
 Sollten Sie Ihr Passwort vergessen haben, möchten wir Sie bitten, eine ordnungsgemäß unterschriebenen Antrag auf pin neues Passwort zu stellen  auf dem Postweg (Keytrade Luxembourg, 62, rue Charles Martel, L-2134 Luxemburg) oder per Fax (00352/45 04 49).
 
 Bitte präzisieren Sie in Ihrem Antrag, auf welchem Weg Sie das Passwort erhalten möchten.
-
+###
  Warum kann ich mich nicht auf der gesicherten Website einloggen?
 Welche Version Ihres Browsers verwenden Sie?
 
@@ -45,7 +45,7 @@ Klicken Sie in Ihrem Browser (Internet Explorer) au das Fragezeichen oben rechts
 
 Aktualisieren, Sie Ihren Browser wenn nötig unter folgendem Link http://windowsupdate.microsoft.com/
 
-
+###
 Wie kann ich ein Konto eröffnen?
 Kunde von Keytrade Bank Luxembourg zu werden, ist sehr einfach. Klicken Sie auf unserer Webseite www.keytradebank.lu lediglich auf den Link Ein Konto eröffnen und laden Sie das entsprechende Formular zur Kontoeröffnung herunter. Das Dokument muss von dem/der Inhaber(in) bzw. den Inhabern ausgefüllt und zusammen mit allen erforderlichen Unterlagen sowie ordnungsgemäß unterschrieben an folgende Adresse geschickt werden:
 Keytrade Bank Luxembourg S.A. 62, rue Charles Martel L-2134 Luxemburg
@@ -59,7 +59,7 @@ Wenn Sie Ihr Konto einfach in unserem Büro eröffnen möchten, sind die Beglaub
 Für Kontoeröffnungen sind unsere Büros montags bis freitags von 9 Uhr bis 17 Uhr geöffnet.
 
 Bitte benachrichtigen Sie uns per E-Mail an info@keytradebank.lu, sollten Sie das Formular nicht herunterladen können Nach Erhalt der E-Mail werden wir es Ihnen umgehend zusenden.
-
+###
 
 Wie erhalte ich die Passwörter um auf mein Konto zuzugreifen?
 Bei Annahme der Eröffnung Ihres Kontos erhalten Sie eine Kundennummer und ein Login. Ihr Zugangspasswort und Ihr Bestätigungscode werden Ihnen später zugeschickt.
@@ -68,3 +68,4 @@ Kontoeröffnungen und Einlagen können auch in unserer Geschäftsstelle vorgenom
 Bei einer Kontoeröffnung in der Geschäftsstelle erhalten Sie Ihre Codes sofort.
 
 Einlagen in Höhe von mehr als 10.000 EUR bedürfen eines Nachweises ihre Herkunft (z.B. Kontoauszug).
+###

@@ -1,58 +1,59 @@
-
+###
 Was ändert sich mit der Änderung von Artikel 41 des Gesetzes vom 5. April 1993?
 
 Sie sieht für Akteure des Finanzsektors vor, dass sie die Verarbeitung ihrer Daten an einen Dienstleister innerhalb der Unternehmensgruppe oder einen externen Dienstleister vergeben können, der seinen Sitz außerhalb der Landesgrenzen Luxemburgs hat.
-
+###
 
 Welche Dienstleistung möchten Sie ins Ausland vergeben?
 
 Keytrade Bank Luxembourg möchte die Verwaltung ihres IT-Systems und ihrer Kundendatenbanken an ihre Schwestergesellschaft Keytrade Bank S.A. in Brüssel vergeben.
 
-
+###
 Warum vergibt Keytrade Bank Luxembourg diese Dienstleistung an Keytrade Bank S.A. in Brüssel?
 
 Keytrade Bank Luxembourg möchte die Ressourcen der Gruppe optimieren und von die IT-Synergien profitieren, mit dem Ziel Ihnen im Zukunft eine breitere Produktpalette und umfangreiche Dienstleistung anzubieten.
 
-
+###
 Werden meine Informationen umherwandern?
 
 All Ihre personenbezogenen Daten bleiben streng vertraulich und dürfen nur an zugelassene Dritte oder im Rahmen von gesetzlichen Verpflichtungen weitergegeben werden.
 
-
+###
 Ist der Schutz meiner personenbezogenen Daten garantiert?
 
 Keine Daten werden über das Internet und/oder für unbefugte Dritte zugänglich sein. Zudem unterliegen die Personen, die Zugang zu Ihren Informationen haben, einer strengen Geheimhaltungsverpflichtung.
 
-
+###
 Ändert sich meine steuerliche Situation?
 
 Nein. Ihre Situation bleibt unverändert und unterliegt weiterhin den an Ihrem Wohnsitz geltenden Bestimmungen.
 
-
+###
 Können meine steuerlichen Daten übermittelt werden?
 
 Wie bereits zuvor hängt die Übermittlung von Daten an die Steuerbehörden ausschließlich von Ihrem Wohnsitzland und von den auf internationaler Ebene bestehenden Abkommen ab.
-
+###
 
 Wenn sich meine Daten in Brüssel befinden, unterliegen sie dann rechtlich den belgischen Bestimmungen?
 
 Nein, sie unterliegen Luxemburger Recht, weil Keytrade Bank Luxembourg eine luxemburgische Bank ist.
 
-
-Was ändert sich hierdurch für mich?
+###
+Was ändert sich durch das neue Gesetz für mich?
 
 Hierdurch ändert sich für Sie nichts, weder steuerlich noch rechtlich. Wir möchten Sie nur informieren, weil wir um Transparenz bemüht sind.
 
-
+###
 Welche Auswirkungen hätte das für eine in Luxemburg ansässige Person?
 
 Keine.
-
+###
  Welche Auswirkungen hätte das für eine außerhalb Europas ansässige Person?
 
 Keine. Wie bereits zuvor unterstehen Sie den Steuerbehörden Ihres Wohnsitzlandes.
 
-
+###
 Welche Auswirkungen hätte das für eine in Europa ansässige Person?
 
 Keine. Sie unterliegen weiterhin dem automatischen Informationsaustausch.
+###

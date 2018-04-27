@@ -1,3 +1,4 @@
+###
 Was ist eine eingeräumte Kontoüberziehung (Dispo)?
 
 
@@ -9,7 +10,7 @@ Sie müssen aber bestimmte Voraussetzungen erfüllen, z.B. eine ausreichende Bon
 Nur wenn Sie die eingeräumte Kontoüberziehung (Dispo) in Anspruch nehmen, bezahlen Sie Dispozinsen. Wenn Sie über die vereinbarte Summe hinaus überziehen, fallen dafür weitere Zinsen an, die so genannten Überziehungszinsen.
 
 Ansonsten kostet Sie dieser Kredit nichts.
-
+###
 Wie hoch kann eine eingeräumte Kontoüberziehung (Dispo) sein?
 
 
@@ -17,7 +18,7 @@ Wie hoch kann eine eingeräumte Kontoüberziehung (Dispo) sein?
 Dafür haben wir keine festen Vorgaben. Die Höhe ist vor allem von Ihrem Einkommen abhängig.
 
 Stimmen alle Voraussetzungen, kann er durchaus das Zwei- oder Dreifache Ihres monatlichen Einkommens betragen. Natürlich gehen wir gern auf Ihre individuellen Bedürfnisse ein.
-
+###
 Was kostet eine eingeräumte Kontoüberziehung (Dispo)?
 
 
@@ -25,7 +26,7 @@ Was kostet eine eingeräumte Kontoüberziehung (Dispo)?
 Wenn Sie die eingeräumte Kontoüberziehung (Dispo) in Anspruch nehmen, bezahlen Sie Dispozinsen. Wenn Sie über die vereinbarte Summe hinaus überziehen, fallen dafür weitere Zinsen an, die so genannten Überziehungszinsen. Ansonsten kostet Sie dieser Kredit nichts.
 
 Informationen über die aktuelle Höhe der genannten Zinssätze können Sie dem Preisverzeichnis im Downloadcenter und dem Kontoauszug entnehmen.
-
+###
 Was sind die Vorteile einer eingeräumten Kontoüberziehung (Dispo)?
 
 
@@ -34,7 +35,7 @@ Der größte Vorteil ist Ihre Flexibilität. Sie als Kontoinhaber entscheiden, o
 
 Ein weiterer Vorteil: In der Regel können wir die eingeräumte Kontoüberziehung (Dispo) für Sie schnell und unbefristet einrichten.
 
-
+###
 Was sind die Nachteile einer eingeräumten Kontoüberziehung (Dispo)?
 
 
@@ -45,13 +46,13 @@ Daher empfehlen wir Ihnen: Nutzen Sie bei größeren Ausgaben eher einen Ratenkr
 
 Wir informieren Sie in diesem Fall gerne über einen Ratenkredit mit einem niedrigeren Zinssatz.
 
-
+###
 Gibt es Alternativen zur eingeräumten Kontoüberziehung (Dispo)?
 
 
 
 Planen Sie größere Ausgaben? Oder müssen Sie Ihre eingeräumte Kontoüberziehung (Dispo) dauerhaft nutzen? Dann empfehlen wir Ihnen eher einen Ratenkredit mit einem niedrigeren Zinssatz.
-
+###
 Was brauche ich, um eine eingeräumte Kontoüberziehung (Dispo) zu bekommen?
 
 
@@ -59,12 +60,12 @@ Was brauche ich, um eine eingeräumte Kontoüberziehung (Dispo) zu bekommen?
 Wir benötigen vollständige Angaben zu Ihren Einkünften. Möglicherweise haben Sie uns diese schon gegeben, als Sie Ihr Girokonto eröffnet haben.
 
 Ideal wäre, wenn Sie uns einen Nachweis über Ihr Gehalt vorlegen.
-
+###
 Geht auf Ihrem Konto regelmäßig Geld ein? Dann können Sie auch nachträglich eine eingeräumte Kontoüberziehung (Dispo) beantragen.
 
 Grundsätzlich gilt: Wir können Ihnen nur mit ausreichender Bonität eine eingeräumte Kontoüberziehung (Dispo) gewähren. Teilen Sie uns Ihren Wunsch einfach mit - persönlich in der Filiale, online, telefonisch oder auch schriftlich.
 
-
+###
 Wie schnell bekomme ich eine eingeräumte Kontoüberziehung (Dispo)?
 
 
@@ -72,18 +73,16 @@ Wie schnell bekomme ich eine eingeräumte Kontoüberziehung (Dispo)?
 Innerhalb weniger Tage können wir Ihnen mitteilen, ob wir Ihnen eine eingeräumte Kontoüberziehung (Dispo) einrichten oder ändern.
 
 Wir benötigen dazu nur Ihren Auftrag. Geben Sie ihn in der Filiale ab oder senden Sie ihn per Post. Sie können uns auch online beauftragen. Dann werden wir ihn umgehend bearbeiten und Ihnen schließlich das Ergebnis mitteilen.
-
+###
 
 Wann kann die Postbank meine eingeräumte Kontoüberziehung (Dispo) kündigen?
-
-
 
 Keine Sorge, so leicht können wir Ihre eingeräumte Kontoüberziehung (Dispo) nicht löschen.
 
 Nur wenn die grundsätzlichen Voraussetzungen nicht mehr gegeben sind, ist dies möglich. Dies könnte der Fall sein, wenn sich Ihre Bonität deutlich verschlechtert haben sollte.
 
 Wir würden Sie dann aber rechtzeitig informieren, um gemeinsam eine Lösung zu finden.
-
+###
 Zinsanpassungsklausel der Postbank – was ist das?
 
 
@@ -91,36 +90,30 @@ Zinsanpassungsklausel der Postbank – was ist das?
 Seit April 2010 wird der Zins unter bestimmten Bedingungen angepasst. Wie genau – das sagt die so genannte Zinsanpassungsklausel. Diese Klausel besagt, dass wir den Sollzins anpassen, wenn sich ein bestimmter Zins verändert. Dieser Zins, der 3 Monats EURIBOR, ist unser Referenzwert. Die Abkürzung steht für Euro InterBank Offered Rate. Er bezeichnet den durchschnittlichen Zinssatz, zu dem eine bestimmte Gruppe von Banken sich untereinander im Zeitraum von drei Monaten Kredite gewähren.
 
 Wir prüfen zu jedem 1. eines Monats. Ist dieser Tag kein Arbeitstag für Banken in Frankfurt am Main, prüfen wir am folgenden Arbeitstag.
-
+###
 Wie ermitteln wir eine Veränderung?
 
 Wir schauen dabei auf den EURIBOR am Stichtag des Monats, in dem wir den Zins zuletzt angepasst haben. Diesen Wert vergleichen wir mit dem aktuellen Wert des EURIBOR.
 Hat er sich um mehr als 0,20 Prozent erhöht? Dann erhöhen wir den Sollzins um ebenso viele Prozent. Hat er sich um mehr als 0,20 Prozent ermäßigt? Dann senken wir den Sollzins entsprechend.
 Die Erhöhung bzw. Senkung des Sollzinses erfolgt jeweils zum 15. eines Monats.
 Ist dieser Tag kein Arbeitstag für Banken in Frankfurt am Main, so senken oder erhöhen wir den Zins am folgenden Arbeitstag. Wir runden den Zinssatz kaufmännisch auf 2 Nachkommastellen.
-
+###
 Wird eine eingeräumte Kontoüberziehung (Dispo) automatisch angelegt?
-
-
 
 Es kann durchaus sein, dass Sie eine Kontoüberziehung eingeräumt bekommen, auch wenn Sie sie nicht selbst beantragt haben. Meistens wünschen aber unsere Kunden eine solche Überziehungsoption.
 
 Wir prüfen in regelmäßigen Abständen, ob die Voraussetzungen für eine eingeräumte Kontoüberziehung (Dispo) vorliegen. Wir nutzen dabei Kriterien, die sich aus den langjährigen Erfahrungen ergeben, die wir allgemein im Kreditgeschäft gesammelt haben.
 
 Das Ergebnis kann auch zu einer Erhöhung oder Reduzierung Ihrer eingeräumten Kontoüberziehung (Dispo) führen.
-
+###
 Wird bei Ausführung einer Lastschrift auch die eingeräumte Kontoüberziehung (Dispo) zur Deckung mit einbezogen, oder nur der reine Kontostand?
-
-
 
 Lastschriften können innerhalb des Guthabens und einer vorhandenen eingeräumten Kontoüberziehung (Dispo) eingelöst werden.
 
 Wir stornieren den Betrag, wenn Guthaben und eingeräumte Überziehung zusammen nicht ausreicht. Dann informieren wir Sie und den Empfänger des Geldes. Bitte wenden Sie sich in diesem Fall an den Empfänger.
 
-
+###
 Sie haben mir einen Brief geschickt mit einem Beratungsangebot. Wohl weil ich zu lange die eingeräumte Kontoüberziehung (Dispo) auf meinem Konto nicht ausgeglichen habe?
-
-
 
 Gern erkläre ich Ihnen den Hintergrund des Briefes.
 
@@ -131,17 +124,15 @@ Dann vereinbaren Sie einen Termin bei einem Kundenberater in Ihrem Postbank Fina
 
 2. Sie wünschen kein Beratungsgespräch.
 Dann senden Sie uns einfach eine E-Mail mit dem ausdrücklichen Wunsch, dass Sie kein Gespräch in Anspruch nehmen möchten.
+###
 
 Kann ich für ein Giro Basis Konto eine eingeräumte Kontoüberziehung (Dispo) einrichten lassen?
 
-
-
 Nein. Bei dem Giro Basis Konto handelt es sich um ein Guthabenkonto.
 
+###
 
 Kann ein bestehendes Postbankkonto "Giro plus" mit bisher vorhandener eingeräumter Kontoüberziehung (Dispo) auf Wunsch künftig nur noch auf Guthabenbasis gebührenfrei weitergeführt werden und zwar so, dass auch keine "geduldete Überziehung" möglich ist?
-
-
 
 Möchten Sie Ihr Konto auf Guthabenbasis führen, teilen Sie uns bitte mit, Ihre eingeräumte Kontoüberziehung (Dispo) dauerhaft zu streichen und auf jede gedultete Überziehung zu verzichten.
 
@@ -154,6 +145,7 @@ Veranlassen Sie das bitte entweder:
     formlos schriftlich oder per Fax.
 
 
+###
 
 Eine Frage zum Business Giro: Stellen Sie mir sofort eine eingeräumte Kontoüberziehung (Dispo) zur Verfügung?
 
@@ -161,6 +153,7 @@ Eine Frage zum Business Giro: Stellen Sie mir sofort eine eingeräumte Kontoübe
 
 Gerne stellen wir Ihnen eine eingeräumte Kontoüberziehung (Dispo) zur Verfügung, wenn die Voraussetzungen dafür vorliegen: Bei natürlichen Personen ist eine Kontoüberziehung ab 1 Jahr Selbstständigkeit und bei juristischen Personen ab 2,5 Jahren möglich. Ansonsten vorher mit liquiditätsnaher Sicherheit ab 10.000 Euro.
 
+###
 
 Wann werden die Zinsen für die eingeräumte Kontoüberziehung (Dispo) des Girokontos abgebucht?
 
@@ -168,6 +161,7 @@ Wann werden die Zinsen für die eingeräumte Kontoüberziehung (Dispo) des Girok
 
 Die anfallenden Sollzinsen werden jeweils quartalsmäßig mit den Kontoführungsentgelten belastet und im Kontoauszug ausgewiesen.
 
+###
 
 Ich möchte gerne meine eingeräumte Kontoüberziehung (Dispo) in einen Ratenkredit umwandeln, um meine derzeitige Zinslast zu senken. Wie könnte man das umsetzen?
 
@@ -185,6 +179,7 @@ Die Bewilligung einer eingeräumten Kontoüberziehung (Dispo) unterliegt gewisse
 
 Ein bereits vorhandene eingeräumte Kontoüberziehung (Dispo) bei einem anderen Geldinstitut spielt dabei jedoch keine Rolle. Es sollte eigentlich keine negativen Auswirkungen haben.
 
+###
 
 Kann eine eingeräumte Kontoüberziehung (Dispo) über eine Teilzahlungsfunktion abbezahlt werden?
 
@@ -197,6 +192,7 @@ Eine eingeräumte Kontoüberziehung (Dispo) sollte möglichst kurzfristig genutz
 Gibt es dabei Probleme, wäre eine mögliche Lösung die Umschuldung in einen Privatkredit.
 
 Am besten lässt man sich dazu in einer Filiale oder telefonisch über unseren Kundenservice unter 0228 5500 5500 beraten.
+###
 
 Ist eine eingeräumte Kontoüberziehung (Dispo) abgesichert gegen Arbeitsunfähigkeit oder Todesfall?
 
@@ -205,6 +201,7 @@ Ist eine eingeräumte Kontoüberziehung (Dispo) abgesichert gegen Arbeitsunfähi
 Nein, eine eingeräumte Kontoüberziehung (Dispo) kann vom Kunden nicht gegen Arbeitsunfähigkeit oder Todesfall über die Postbank abgesichert werden.
 
 Anders als bei einem Postbank Privatkredit wird hierzu keine Zusatzversicherung angeboten.
+###
 
 Kann es vorkommen, das bei einem Konto ohne eingeräumte Kontoüberziehung (Dispo) dennoch eine Unterbuchung stattfindet?
 
@@ -219,6 +216,7 @@ Wünschen Sie generell keine Unterbuchung, können Sie dies beantragen, entweder
     formlos per Brief oder Fax
 
 Beachten Sie bitte, dass Entgelte der Postbank, z. B. Karten- oder Kontoführungsentgelte falls diese für Ihr Konto anfallen, unabhängig vom Kontostand belastet werden.
+###
 
 Wird der Zinssatz für die eingeräumte Kontoüberziehung (Dispo) für jeden Monat erhoben, in dem sich ein Kunde im Minus befindet oder wird er auf die Summe am Ende eines Quartals bezogen?
 
@@ -232,6 +230,7 @@ An welchen Tagen das Konto im Minus war, können Sie im Online-Banking sehen. Im
 
 Die Sollzinsen belasten wir am Ende eines Quartals. Dabei fassen wir jeweils die letzten drei Monate zusammen.
 
+###
 
 Wann wird bei einer eingeräumten Kontoüberziehung (Dispo) der Zins abgerechnet?
 
@@ -241,6 +240,7 @@ Für die Berechnung von Sollzinsen ist der Schlusskontostand des Tages maßgebli
 
 Sollzinsen berechnen wir am Ende eines Quartals. Dabei fassen wir jeweils die letzten drei Monate zusammen.
 
+###
 
 Können die Beträge für die Teilratenzahlung der eingeräumten Kontoüberziehung (Dispo) geändert werden
 
@@ -251,6 +251,7 @@ Ja, am besten rufen Sie uns dazu unter 0228 5500 2555 an.
 Unsere Berater sind von Montag bis Freitag von 9.00 bis 18.00 Uhr gerne für Sie da. Sie geben Ihnen zum Beispiel Auskunft, wie Sie eine Vereinbarung zu Ihrer eingeräumten Kontoüberziehung (Dispo) treffen oder ändern können. Sie helfen Ihnen auch, eine passende Ratenhöhe für die Rückzahlung zu finden.
 
 Im persönlichen Gespräch finden Sie sicher einen guten Weg, das Konto auszugleichen.
+###
 
 Ein Lastschriftauftrag wurde wegen Überschreitung der eingeräumten Kontoüberziehung nicht eingelöst. Mein Konto ist wieder aufgefüllt. Wird der LA nun automatisch erneut ausgeführt oder was kann ich tun, damit der Einziehende das Geld umgehend bekommt?
 
@@ -260,15 +261,15 @@ Wurde Ihre Lastschriftauftrag aufgrund von nicht ausreichender Kontodeckung nich
 
 Wird das Empfängerkonto (Girokonto) auch bei der Postbank geführt, so wird der Betrag nach der Überweisung sofort gutgeschrieben. Wird das Empfängerkonto bei einer anderen Bank geführt, so geben wir den Betrag noch am gleichen Tag an dieses Kreditinstitut bzw. die Bundesbank zur Gutschrift weiter.
 
+###
 
 Sind Bargeldauszahlungen mit der SparCard auf das aktuelle Guthaben beschränkt? Kann ich sicher sein, nicht unter Null zu kommen?
-
-
 
 Eine SparCard besitzt keine eingeräumte Kontoüberziehung (Dispo), d.h. eine Unterbuchung ist mit dieser Kontoform nicht möglich.
 
 Die Bargeldauszahlung am Geldautomat (auch im Ausland) erfolgt nur bei ausreichend Deckung.
 
+###
 
 Wie kann ich die Höhe meiner eingeräumten Kontoüberziehung (Dispo) ändern?
 
@@ -281,3 +282,4 @@ Gern beraten wir Sie zur Änderung Ihrer eingeräumten Kontoüberziehung (Dispo)
 Die Adresse, Ruf- und Fax-nummern dazu finden Sie hier.
 
 Alternativ scannen Sie Ihren unterschriebenen Auftrag ein und senden uns diese pdf-Datei mit einer E-Mail an: direkt@postbank.de
+###

@@ -1,3 +1,4 @@
+###
  Wie kann ich neue Empfängerdaten speichern?
 
     Empfängerdaten können direkt nach einem Überweisungsvorgang durch Klick auf den entsprechenden Button gespeichert werden. So können Sie bis zu 100 Empfängerdaten pro Konto hinterlegen.
@@ -7,7 +8,7 @@
     Hier klicken Sie auf "Neuer Empfänger" und geben die Daten des neuen Zahlungsempfängers ein.
 
 
-
+###
  Wie ist bei der Fehlermeldung „Das PIN/TAN-Zwei-Schritt-Verfahren ist laut BPD nicht erlaubt“ bei Nutzung von Fremdsoftware zu tun?
 
     Vor Durchführung einer Transaktion bitte folgende Schritte durchführen:
@@ -19,7 +20,7 @@
 
 
 
-
+###
 Fehlermeldung "Seite kann nicht angezeigt werden!“. Was kann ich tun?
 
     Dies ist die Standard-Fehlerseite des Internet Explorers. Ihr Erscheinen kann eine Reihe von Gründen haben. Eine mögliche Ursache ist die Verschlüsselungsstärke Ihres Browsers.
@@ -28,7 +29,7 @@ Fehlermeldung "Seite kann nicht angezeigt werden!“. Was kann ich tun?
 
 
 
-
+###
 Wo finde ich die Umbuchung?
 
     Wählen Sie zur Nutzung einer Funktion immer zunächst das Konto aus, mit dem Sie arbeiten möchten.
@@ -36,7 +37,7 @@ Wo finde ich die Umbuchung?
 
 
     Im Falle einer Umbuchung wählen Sie dasjenige Einlagenkonto aus, von dem Sie eine Umbuchung tätigen möchten. Ist dieses Konto für Umbuchungen zugelassen, wird Ihnen diese Funktion nun angezeigt und Sie können sie auswählen:
-
+###
 Wie kann ich mein Passwort ändern?
 
     Mit Klick auf Menü wählen Sie „Passwort ändern“ aus und geben Ihr neues Passwort ein. Mit Klick auf „Passwort ändern“ ist das neue Passwort hinterlegt und gültig. Bitte beachten Sie, dass die Passwortänderung nur möglich ist, wenn Sie sich vorab in der SecureApp angemeldet haben.
@@ -44,24 +45,24 @@ Wie kann ich mein Passwort ändern?
     Windows-Version: Buchstaben und Zahlen
     MacOS-Version: Buchstaben, Zahlen, ( ) [ ] . , : ; _ + - * " \ / ! ? = % $ & @
     Android & iOS: Buchstaben, Zahlen, ( ) [ ] . , : ; _ + - * " / \ ! ? = % $ & @
-
+###
  Bleibt die Benutzerkennung nach einem Update erhalten?
 
     Wenn Sie ein Update durchführen, bleiben alle Ihre Daten erhalten. Wenn Sie die Software jedoch manuell deinstallieren und neuinstallieren, müssen Sie diese mit einem Aktivierungscode neu aktivieren.
-
+###
  Kann ich die Touch-ID auch für die SecureApp nutzen?
 
     Voraussetzung für die Nutzung der Touch-ID ist ein Fingerabdrucksensor auf dem jeweiligen mobilen Endgerät.
 
     Touch-ID (iOS) bzw. Fingerprint (Android) kann gleichzeitig in der SpardaApp und SecureApp aktiviert werden, wenn beide Apps auf einem Endgerät genutzt werden.
 
-
+###
  Logout - Wie melde ich mich ab, wenn ich die SpardaApp verlasse?
 
     Das Ausloggen/Abmelden ist über "Menü" - "Abmelden" möglich.
 
     Alternativ kann die SpardaApp über den zentralen "Home-Knopf" auf Ihrem Smartphone oder auch per Gerätesperre - "Ein-/Ausschalter" oben am Gerät - gesperrt werden. Die SpardaApp wird dadurch beendet - aktive Verbindungen zur Bank werden beendet.
-
+###
  Wie erhalte ich in der Umsatzanzeige Detail-Informationen?
 
     Details zu einem Umsatz erhalten Sie, indem Sie diesen anklicken. Das Sternchen vor einer Position signalisiert Ihnen, dass Sie diese bearbeiten können. Zusätzlich gibt Ihnen der Tooltipp Informationen zu den Bearbeitungsoptionen. Ein Beispiel für einen Tooltipp sehen Sie im Bild unten (="Rückgabefähige Lastschrift").
@@ -70,13 +71,13 @@ Wie kann ich mein Passwort ändern?
 
     Möchten Sie weitere Details auf einen Blick erhalten, können Sie diese einblenden, indem Sie auf das Listensymbol klicken (im Bild rot gekennzeichnet). Diese Auswahl bleibt dauerhaft erhalten.
 
-
+###
  Wie viel Zeit habe ich, um eine Transaktion zu bestätigen?
 
     Wenn Sie für eine Transaktion eine mobileTAN anfordern, so erhalten Sie diese nach wenigen Sekunden per SMS.
 
     Geben Sie die TAN innerhalb von 5 Minuten als Bestätigung ein, anderenfalls verfällt die mobileTAN und die Transaktion ist abgebrochen.
-
+###
  Wie lange werden meine Dokumente gespeichert?
 
     Die Sparda-Bank speichert die in der Postbox enthaltenen und durch Sie gelesenen Dokumente mindestens für die Dauer von vier Jahren. Nach Verstreichen dieser Frist ist die Bank berechtigt, die entsprechenden Dokumente aus der Postbox zu entfernen.
@@ -85,11 +86,11 @@ Wie kann ich mein Passwort ändern?
 
     Sie möchten Ihre Kontoauszüge dauerhaft aufbewahren?
     Über den Button "PDF herunterladen" können Sie die Dokumente lokal auf Ihrem PC speichern oder direkt ausdrucken.
-
+###
  Kann ich bei Händlern einkaufen, die nicht am 3D-Secure-Verfahren teilnehmen?
 
     Ja, das ist weiterhin problemlos möglich.
-
+###
  Wo finde ich die Liste der terminierten Überweisungen?
 
     Je Konto können Sie den Bestand der terminierten Überweisungen einsehen. Gehen Sie hierzu wie folgt vor:
@@ -98,38 +99,38 @@ Wie kann ich mein Passwort ändern?
 
     Hier finden Sie alle noch nicht gebuchten Überweisungen des ausgewählten Kontos.
 
-
+###
  Was passiert, wenn ich meine Kreditkarte verliere?
 
     In diesem Fall erhalten Sie eine neue Kreditkarte. Diese ist wie Ihre bisherige automatisch für 3D-Secure aktiviert, sofern Ihr Konto für unser Online-Banking freigeschaltet ist.
 
-
+###
  Wie weiß ein Online-Händler, dass meine Kreditkarte mit 3D-Secure geschützt ist?
 
     Beim Bezahlvorgang kann der Händler nach der Eingabe Ihrer Mastercard- bzw. Visa-Kreditkartennummer nur entscheiden ob er eine Absicherung der Zahlung mit 3D-Secure anstößt. Zu diesem Zeitpunkt weiß der Händler nicht, ob die Karte an dem Verfahren teilnimmt. Sobald er die Absicherung der Zahlung mit 3D-Secure bei der Sparda-Bank anfragt, wird automatisch das Eingabe-Fenster zur Eingabe der Online-PIN und anschließend das Eingabe-Fenster für die TAN angezeigt. Nach deren Eingabe erhält der Händler eine Rückmeldung über die erfolgte Prüfung und der Bezahlvorgang im Shop des Händlers wird abgeschlossen.
 
 
 
-
+###
 Wann erhalte ich immer meinen aktuellen Kontoauszug?
 
     Die Auszugserstellung beginnt jeweils am 1. Werktag eines Monats für alle bis dahin registrierten Postbox-Kunden.
 
     Sie erhalten automatisch jeden Monat bis zum 5. Werktag einen elektronischen Kontoauszug im PDF-Format in Ihre persönliche Postbox eingestellt. Ein individuelles Abrufen von Kontoauszügen außerhalb des vorgegebenen Turnus ist nicht möglich.
 
-
+###
  Gibt es für den Freigabevorgang eine zeitliche Beschränkung?
 
     Ja. Es kann natürlich Gründe geben, warum die Freigabe von Ihnen nicht zügig abgeschlossen werden kann.
     Das 3D-Secure-Verfahren ist jedoch aus Sicherheitsgründen zeitlich auf ca. 4 Minuten (unter Berücksichtigung der Datenverarbeitungsprozesse vor und nach Ihren Eingaben) begrenzt. Nach Ablauf der zeitlichen Beschränkung erfolgt ein automatischer Abbruch der Freigabe und Sie werden wieder auf die Seite des Händlers zurückgeleitet. Der Kaufvorgang wird nicht abgeschlossen.
 
-
+###
  Warum kann ich die SecureApp auf meinem Gerät nicht nutzen?
 
     Bitte beachten Sie, dass die SecureApp aus Sicherheitsgründen nicht genutzt werden kann, wenn ein Jailbreak (iOS) oder Rooting-programm (Android) auf Ihrem mobilen Endgerät installiert ist.
 
     Die Nutzung von Jailbreaks oder Rootingprogrammen ermöglicht es Ihnen auf Ihrem Smartphone oder Tablet Fremdprogramme & Software zu installieren, die der Betreiber (bsp. Apple oder Samsung) standardmäßig nicht zulässt. Durch einen Jailbreak oder Rootingprogramm ist das mobile Endgerät jedoch auch anfälliger für Fremdzugriffe. Um Ihre sensiblen Zahlungsdaten zu schützen, wird von Seiten des Rechenzentrums die Nutzung der SecureApp hier unterbunden.
-
+###
  Wie sieht die SMS aus, die ich bekomme?
 
     Wenn Sie im Netbanking über den Button "mobileTAN" eine TAN angefordert haben, erhalten Sie kurz darauf eine SMS auf Ihr Handy.
@@ -143,3 +144,4 @@ Wann erhalte ich immer meinen aktuellen Kontoauszug?
 
 
     Ein Beispiel für eine mobileTAN-SMS:
+###

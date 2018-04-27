@@ -1,3 +1,4 @@
+###
  Wie kann ich eine zweite Benutzerkennung anlegen?
 
     Wenn Sie zu einer bereits aktivierten Benutzerkennung eine zweite anlegen wollen, gehen Sie bitte wie folgt vor:
@@ -6,7 +7,7 @@
         Klicken Sie auf die bereits bestehende Benutzerkennung
         Klicken Sie nun auf "Neuen Benutzer anlegen"
 
-
+###
  Ich habe mein Passwort vergessen. Was kann ich tun?
 
     Wenn Sie für ein bestehendes Gerät das Kennwort vergessen haben, können Sie einfach von der Funktion "Passwort vergessen" Gebrauch machen:
@@ -27,14 +28,14 @@
 
     Jetzt können Sie die Benutzerkennung wieder neu aktivieren.
 
-
+###
  Wann werden meine Online-Überweisungen gebucht?
 
         Beachten Sie bitte, dass der Buchungsschluss montags bis freitags um ca. 19.30 Uhr erfolgt. Bei Überweisungen, die zwischen 19.30 Uhr und 20.30 Uhr mit einer TAN bestätigt werden, ist eine taggleiche Verbuchung möglich, aber nicht gewährleistet.
         Überweisungen, die danach eingehen, werden am darauffolgenden Arbeitstag ab 7.00 Uhr gebucht.
         An Wochenenden und Feiertagen finden keine Buchungen statt.
 
-
+###
  Welche Daten sind bei der manuellen Eingabe erforderlich?
 
     Wenn Sie beim chipTAN-Verfahren die manuelle Eingabe zur Erzeugung einer TAN nutzen, geben Sie bitte folgende Daten im TAN-Generator ein:
@@ -45,7 +46,7 @@
 
     Anschließend wird Ihnen die TAN für Ihren Auftrag auf dem TAN-Generator angezeigt.
 
-
+###
  Wie aktiviere ich die SpardaSecureApp?
 
         Zur Aktivierung der SpardaSecureApp laden Sie diese herunter. Nach erfolgreichem Download starten Sie die SpardaSecureApp.
@@ -54,6 +55,7 @@
         Danach werden Sie zur Eingabe eines Gerätenamens aufgefordert. Sie können die Standardbelegung übernehmen oder einen eigenen Gerätenamen vergeben. Der bestätigte Gerätename wird Ihnen ebenfalls so im SpardaNet-Banking angezeigt.
 
 
+###
 
 
 Kann ich mehrere Endgeräte für ein Konto hinterlegen?
@@ -61,11 +63,13 @@ Kann ich mehrere Endgeräte für ein Konto hinterlegen?
     Ja, Sie können beliebig viele Endgeräte (z. B. Smartphone oder Tablet) für das SecureApp-Verfahren freischalten.
     Fordern Sie bitte dazu pro Gerät einen weiteren Aktivierungscode in Ihrem Netbanking unter "TAN verwalten" an.
     Alle aktivierten Geräte sind in Ihrem Netbanking unter "TAN verwalten" in der Geräteübersicht einzusehen und zu ändern.
+###
 
 
  Kann ich meine Zugangsdaten (Kundennummer / Online-PIN) speichern?
 
     Nach der ersten Anmeldung wird Ihre Kundennummer gespeichert und ist bei der nächsten Anmeldung hinterlegt. Die Online-PIN kann aus Sicherheitsgründen nicht gespeichert werden.
+###
 
 Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
 
@@ -73,6 +77,7 @@ Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
 
             Direkt beim Mitarbeiter in der Filiale
             Per TAN-bestätigter Nachricht aus dem SpardaNet-Banking
+###
 
  Das Masterpasswort - Was mache ich, wenn ich es vergessen habe?
 
@@ -86,6 +91,7 @@ Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
 
     Sie können auch die App komplett löschen und neu installieren, um die Einstellungen zurückzusetzen.
 
+###
 
  Ich habe meine PIN zu oft falsch eingegeben. Nun ist das Konto gesperrt. Was kann ich tun?
 
@@ -94,6 +100,7 @@ Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
 
     Montag bis Donnerstag:  08:00 - 18:00 Uhr
     Freitag:                            08:00 - 16:00 Uhr
+###
 
  Wie tätige ich eine Überweisung oder eine Terminüberweisung?
 
@@ -106,6 +113,7 @@ Was kann ich tun, wenn ich mein Online-Überweisungslimit überschreite?
     Wenn Sie die Daten des Empfängers am Ende einer Überweisung speichern, steht er Ihnen für die nächste Überweisung wieder zur Verfügung. Dafür klicken Sie auf das kleine schwarze Dreieck im Feld "Empfänger".
 
 
+###
 
 Wo kann ich meine Online-PIN ändern?
 
@@ -114,6 +122,7 @@ Wo kann ich meine Online-PIN ändern?
 
 
 
+###
 Was kostet mich der mobileTAN-Service?
 
     Der mobileTAN-Service ist für 2 angeforderte mobilTAN im Monat kostenlos. Jedes weitere mobileTAN-Verfahren kostet 0,19 Euro.
@@ -121,11 +130,13 @@ Was kostet mich der mobileTAN-Service?
 
     Achten Sie bei Aufenthalten im Ausland allerdings darauf, dass der Empfang von SMS sogenannte Roaming-Gebühren verursachen kann.
 
+###
 
 Wie kann ich mehrere Konten in der App einrichten?
 
         Es kann immer nur ein Sparda-Konto (mit den entsprechenden Unterkonten) gleichzeitig eingesehen werden. Wenn Sie mehrere Stammkonten bei der Sparda-Bank haben, können Sie sich mit den entsprechenden Zugangsdaten separat anmelden.
 
+###
 
 Wie kann ich mich mit der App für das mobile Banking anmelden?
 
@@ -134,6 +145,7 @@ Wie kann ich mich mit der App für das mobile Banking anmelden?
             Bei jedem weiteren Login gelangen Sie in zwei Schritten in die Anwendung: über Ihr Masterpasswort und Ihre Online-PIN .
 
 
+###
 
 
 Wie gebe ich eine Transaktion in der SpardaSecureApp frei?
@@ -146,6 +158,7 @@ Wie gebe ich eine Transaktion in der SpardaSecureApp frei?
         In der SpardaSecureApp melden Sie sich zuerst mit Ihrer Benutzerkennung und mit selbstvergebenen Passwort an. Sie erhalten einen Bildschirm zur Transaktionsfreigabe auf Ihrem Endgerät.
         Nach erfolgreicher Freigabe der Transaktion in der SecureApp, wird Ihnen die Transaktion im SpardaNet-Banking als bestätigt angezeigt.
 
+###
 
  Wie aktiviere ich das chipTAN-Verfahren?
 
@@ -157,6 +170,7 @@ Wie gebe ich eine Transaktion in der SpardaSecureApp frei?
 
 
 
+###
 
 Wie wird die SpardaSecureApp aktualisiert?
 
@@ -164,6 +178,7 @@ Wie wird die SpardaSecureApp aktualisiert?
 
     Für Computer & Laptop: Updates werden Ihnen automatisch zur Verfügung gestellt und mit Öffnen der SecureApp PC ausgeführt. Es ist kein erneuter Download der aktuellsten Version erforderlich.
 
+###
 
  Wo kann ich die SecureApp herunterladen?
 
@@ -173,3 +188,4 @@ Wie wird die SpardaSecureApp aktualisiert?
 
         SpardaSecureApp für iOS
 
+###

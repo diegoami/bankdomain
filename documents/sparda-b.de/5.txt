@@ -1,13 +1,13 @@
-
+###
 
 Warum erhalte ich die Fehlermeldung: Eingegebenes Zeichen ist nicht zulässig?
 
     Es dürfen nur alphanumerische Zeichen, numerische Zeichen und folgende Sonderzeichen erfasst werden: . , + - /
-
+###
  Wie wird für die Sicherheit gesorgt?
 
     Die SecureApp ist eindeutig an Ihr Endgerät gebunden und kann nicht auf andere Geräte kopiert werden. Darüber hinaus werden Aufträge verschlüsselt übertragen und sind durch Dritte nicht auszulesen.
-
+###
  Kann man über die SpardaApp eine Auslandsüberweisung vornehmen?
 
         Ja Auslandsüberweisungen können über die SpardaApp durchgeführt werden. Gehen Sie hierzu wie folgt vor:
@@ -16,19 +16,19 @@ Warum erhalte ich die Fehlermeldung: Eingegebenes Zeichen ist nicht zulässig?
 
 
 
-
+###
 Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden?
 
     Die SecureApp wird bei Installation nicht direkt auf Ihrer SIM-Karte, sondern in den meisten Fällen auf dem Telefonspeicher Ihres Smartphones gespeichert. Abweichend können Sie unter Einstellungen des Gerätes alternative Speicherorte, z. B. die SD-Speicherkarte festgelegt haben. Dies können Sie entsprechend in Ihren persönlichen Einstellungen nachvollziehen. Die SecureApp funktioniert unabhängig von einer hinterlegten Telefonnummer, wichtig ist eine stabile Internetverbindung mit Ihrem Smartphone.
 
-
+###
  Wo finde ich weitere Funktionen zu meinem Konto, z.B. die Daueraufträge?
 
     Auf der Startseite stehen Ihnen pro Konto zunächst die wichtigsten Funktionen zur Verfügung. Klicken Sie auf "Mehr ...", um alle verfügbaren Funktionen einzusehen.
 
     Zum Schließen klicken Sie auf "Weniger ...".
 
-
+###
  Wie funktioniert das Bezahlen mit 3D-Secure?
 
     3D-Secure kombiniert Ihre Mastercard- bzw. Visa-Kreditkarte künftig mit der Sicherheit des Online-Bankings. Sobald Ihr Konto für das Online-Banking freigeschaltet ist, ist Ihre Kreditkarte automatisch für den Service aktiviert.
@@ -37,7 +37,7 @@ Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden
 
     Sofern beim Einkauf im Internet ein Händler 3D-Secure unterstützt, öffnet sich zukünftig bei jedem Online-Einkauf ein Eingabefenster, in dem Sie die bekannte Online-PIN eingeben und Freigabeverfahren (z. B. mobileTAN, chipTAN oder die SecureApp) anwenden.  Ist die Eingabe korrekt und wird die Freigabe erteilt, wird vom System bestätigt, dass Sie der rechtmäßige Karteninhaber sind.
 
-
+###
  Kann ich eine Überweisung nachträglich ändern oder löschen?
 
     Eine Überweisung können Sie ändern oder löschen, solange sie noch nicht verbucht wurde.
@@ -48,20 +48,20 @@ Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden
         Dort finden Sie die Liste der noch nicht gebuchten Überweisungen.
         Mit Klick auf das "I" vor der Überweisung rufen Sie die Details zu dieser Transaktion auf.
         In der Detailansicht finden Sie die Buttons für die Funktionen "Ändern" und "Löschen" (siehe zweites Bild unten).
-
+###
  Woher bekomme ich einen TAN-Generator?
 
     Bestellen Sie Ihren TAN-Generator über unseren Online-Shop.
 
     Hinweis: Der folgende Link leitet Sie auf eine Seite außerhalb des Verantwortungsbereichs der Sparda-Bank weiter. Für den Inhalt der vermittelten Seite haftet nicht die Sparda-Bank, sondern der Herausgeber dieser Website.
-
+###
  Warum erhalte ich die Kontoauszüge im PDF-Format?
 
     Um die Sicherheit und Unveränderbarkeit der Dokumente garantieren zu können, werden die Daten als verschlüsselte und passwortgeschützte Acrobat-PDF-Dateien abgelegt.
 
     Dieses Format ist sehr weit verbreitet und gewährleistet neben der Datensicherheit auch die weitgehende Einhaltung von Layout und Darstellung unabhängig von Betriebssystem, Monitor oder Drucker.
 
-
+###
  Welche Zugangsdaten gebe ich in meine Finanzsoftware ein?
 
     Bitte verwenden Sie folgende Zugangsparameter für die manuelle Eingabe:
@@ -70,7 +70,7 @@ Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden
         HBCI Version: 3.00
         HBCI Seite: https://fints.bankingonline.de/fints/FinTs30PinTanHttpGate
 
-
+###
  Ist die SpardaApp wirklich sicher?
 
     Die SpardaApp verwendet ausschließlich verschlüsselte Verbindungen zu den Banken und verschlüsselt außerdem alle Programmdaten automatisch.
@@ -79,12 +79,12 @@ Kann die SecureApp auch bei wechselnder SIM-Karte des Smartphones genutzt werden
 
 
 
-
+###
 Kann die SpardaSecureApp von unterschiedlichen Personen verwendet werden?
 
     Ja - eine installierte SpardaSecureApp auf einem Endgerät kann von mehreren Nutzern verwendet werden. Die Zuweisung zum SpardaNet-Banking Account erfolgt über die Benutzerkennung
 
-
+###
  Woher bekomme ich meine IBAN und den BIC-Code?
 
     IBAN
@@ -99,25 +99,25 @@ Kann die SpardaSecureApp von unterschiedlichen Personen verwendet werden?
 
     BIC-Code
     Der BIC-Code der Sparda-Bank Berlin lautet: GENODEF1S10
-
+###
  Ich hab keinen Aktivierungscode für die mobileTAN. Was kann ich tun?
 
     Geben Sie dreimal eine beliebige Ziffernfolge ein. So wird der Anmeldevorgang beendet.
 
     Anschließend können Sie sich erneut für das mobileTAN-Verfahren freischalten und erhalten einige Tage später einen Aktivierungscode per Post zugestellt.
-
+###
  Wie kann ich den Zeitraum für die Umsatzanzeige speichern?
 
     Gehen Sie über den Punkt "Einstellungen" am oberen Rand des Banking-Portals und wählen Sie "Banking".
 
     Hier können Sie festlegen, welcher Umsatzzeitraum standardmäßig angefragt werden soll. Bestätigen Sie diese Auswahl mit "Übernehmen“. Damit sind die Einstellungen dauerhaft gespeichert.
 
-
+###
  Wie mache ich eine Umbuchung auf ein externes Referenzkonto?
 
     Wählen Sie zunächst dasjenige Ihrer Konten, von dem Sie die Umbuchung tätigen möchten. Klicken Sie hier auf "Umbuchung". Im Feld "Empfänger" können Sie nun alle Empfängerkonten sowie das externe Referenzkonto wählen.
 
-
+###
  Ist die Postbox sicher?
 
 
@@ -139,12 +139,12 @@ Kann die SpardaSecureApp von unterschiedlichen Personen verwendet werden?
         Installieren Sie keine Software auf Ihrem Rechner, bei welcher der Hersteller nicht vertrauenswürdig erscheint.
         Verwenden Sie immer einen aktuellen Browser
 
-
+###
  Benötige ich besondere Administratorrechte zur Installation?
 
     Zur Installation der Software benötigen Sie keinerlei Administratorrechte
 
-
+###
  Wie richte ich Quicken und WISO Mein Geld ein?
 
     Sie nutzen bereits die Software und wollen auf die neue HBCI-Version 3.0 wechseln?
@@ -166,3 +166,4 @@ Kann die SpardaSecureApp von unterschiedlichen Personen verwendet werden?
 
         PDF - Anleitung für die Erstellung eines Kontakts
 
+###

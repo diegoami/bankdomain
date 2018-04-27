@@ -1,4 +1,4 @@
-
+###
 Was ist der Global Analyzer?
 Der Global Analyzer ist ein leistungsstarkes Analyseinstrument, das eine bestimmte Aktie betreffend ihrer fünf Kernpunkte charakterisiert: Perspektiven, Bewertung, Risiko, Zeiteinteilung und Qualität.
 
@@ -6,7 +6,7 @@ Für jeden dieser fünf Kernpunkte wird eine tief greifende Analyse durchgeführ
 
 Zum Schluss werden die Ergebnisse jedes Kernpunktes zur einer einzigen globalen Analyse zusammengefasst : verkaufen, schrittweise verkaufen, halten, aufstocken oder kaufen.
 
-
+###
 Was kostet die Nutzung des Global Analyzer?
 Es gibt zwei Versionen des Global Analyzer:
 
@@ -18,7 +18,7 @@ Die BASIC-Version ist Kostenlos. Alle Kunden von Keytrade Bank Luxembourg haben 
 
 Die PREMIUM-Version kostet 20 EUR pro Monat für eine unbegrenzte Anzahl von Analysen. Wenn der Kunde mindestens drei Börsentransaktionen im Monat durchführt, ist diese Version wiederum kostenlos. Es werden also keine monatlichen Kosten für den entsprechenden Monat in Rechnung gestellt.
 
-
+###
 Was ist der Unterschied zwischen der kostenlosen Version (BASIC) und der kostenpflichtigen Version (PREMIUM)?
 Der Global Analyzer PREMIUM ist ein umfassender Analysebericht, der vergleichbar mit einer Research Note" eines Brokers oder Finanzanalysten ist. Er setzt sich aus einer detaillierten und klaren Analyse zusammen, die durch Grafiken, Tabellen und eine Schlussfolgerung veranschaulicht wird.
 
@@ -26,8 +26,8 @@ Ein PREMIUM-Bericht umfasst durchschnittlich drei bis vier Seiten.
 
 Der Global Analyzer BASIC ist ein Mini-Bericht, der lediglich nur die Schlussfolgerung des PREMIUM-Berichts beinhaltet.
 
-
-Wie wird die Gebühr für die PREMIUM-Version berechnet?
+###
+Wie wird die Gebühr für die PREMIUM-Version des Global Analyzer berechnet?
 Für eine unbegrenzte Nutzung des Global Analyzer PREMIUM betragen die monatlichen Kosten 20 EUR. Diese Kosten sind am Ende jedes Kalendermonats zu bezahlen.
 
 Hinweis: Wenn Sie den Global Analyzer PREMIUM zum Beispiel am 20.April aktivieren, können Sie den Premium-Service nur 10 Tage nutzen und bezahlen 20 EUR für diese 10 Tage.
@@ -37,7 +37,7 @@ Die monatliche Gebühr für das Abonnement beträgt 20 EUR und ist auch für den
 Die monatlichen Kosten in Höhe von 20 EUR werden Ihrem Konto belastet.
 Die monatlichen Kosten in Höhe von 20 EUR werden nicht erhoben, wenn Sie in einem Monat mindestens drei Börsentransaktionen durchgeführt haben.
 
-
+###
 Wie erhalte ich Zugriff auf den Global Analyzer PREMIUM?
 Jeder Kunde von Keytrade Bank Luxembourg hat automatisch einen kostenlosen Zugriff auf den Global Analyzer BASIC. Zusätzlich erhält jeder Kunde automatisch kostenlosen Zugriff auf Analysen des Global Analyzer PREMIUM zu Aktien, die er in seinem Keytrade  Portfolio hält.
 
@@ -45,15 +45,15 @@ Um unbegrenzten Zugriff auf Global Analyzer PREMIUM zu haben, müssen Sie sich z
 
 An gleicher Stelle können Sie die PREMIUM-Version abbestellen.
 
-
+###
 Wie kann ich das Abonnement des Global Analyzer beenden?
 Falls Sie Ihr PREMIUM  Abonnement beenden möchten, gehen Sie auf der gesicherten Webseite von Keytrade Bank Luxembourg in die Rubrik Kurs unter Ihr Profil".
 Dort klicken Sie dann auf annullieren. Die Annullierung Ihres Abonnements wird in dem Monat nach Ihrer Kündigung erfolgen.
 
-
+###
 Kann ich den Global Analyzer verwenden um andere Anlageinstrumente (z.B. Anleihen, Fonds, strukturierte Produkte, Optionen, Turbos, usw.) zu analysieren?
 Nein. Der Global Analyzer ist auf die Aktienanalyse begrenzt.
-
+###
 
 Welcher Unterschied besteht zwischen dem Global Analyzer und dem Ideen-Center?
 Das Ideen-Center ist ein Instrument für Händler, die in der Lage sind, schnell eine Liste mit allen potenziell interessanten Aktien zu erstellen.
@@ -64,7 +64,7 @@ Es ist unbedingt notwendig, dass der Anleger, der an einer der auf der Liste ste
 
 Diese Analyse kann unter anderem mit dem Global Analyzer durchgeführt werden.
 
-
+###
 Worauf stützt sich der Global Analyzer für eine Analyse?
 Der Global Analyzer ist das Ergebnis jahrelanger Forschung.
 
@@ -72,16 +72,16 @@ Dem Global Analyzer liegen tausende Aktualisierungen für zehntausende Aktien zu
 
 Diese Datensammlung wird von den größten Datenanbietern (Factset, Interactive Dated und Reuters) bezogen. Die Übertragung dieser Daten erfolgt täglich in verschiedenen Analysemodulen, die sich auf die ökonomische Literatur bezüglich Anlagen in jedem der fünf Kernpunkte (Perspektiven, Bewertung, Risiko, Zeiteinteilung und Qualität) stützen.
 
-
+###
 Ist der Global Analyzer ein vollautomatisches Instrument?
 Ja. Dadurch wird jedes subjektive Element aus der Analyse ausgeschlossen und somit kann sich der Global Analyzer lediglich auf die objektiven und zuverlässigen Faktoren konzentrieren.
 
-
+###
 Verfügt Keytrade Bank Luxembourg über eigene Positionen in den vom Global Analyzer empfohlenen Aktien?
 Nein, Keytrade Bank Luxembourg hat kein eigenes Handelsbuch und hält folglich keine Positionen.
 
 Auf diese Weise können wir eine bestmögliche Objektivität des Global Analyzer garantieren.
-
+###
 
 Sind die Analysen des Global Analyzer zuverlässig?
 Der Global Analyzer verwendet Informationen, die ständig aktualisiert von zuverlässigen Datenanbietern wie Factset, Reuters und Interactive Dated bezogen werden. Die Analysemodelle, auf die sich der Global Analyzer stützt, bedienen sich der relevantesten Werke der letzten 50 Jahre.
@@ -91,16 +91,17 @@ Dadurch können wir sagen, dass der Global Analyzer ein sicheres Anlageinstrumen
 Es wäre hingegen falsch zu behaupten, dass alle Empfehlungen des Global Analyzer notwendigerweise zum Erfolg einer Investition führen.
 
 Der Global Analyzer ist eindeutig keine Kristallkugel, die die Preisentwicklung einer Aktie vorhersagen kann!
-
+###
  Berücksichtigt der Global Analyzer mein Anlegerprofil?
 Nein. Die Empfehlungen des Global Analyzer werden völlig unabhängig von Ihrem Anlegerprofil ausgesprochen.
 
-
+###
 Berücksichtigt der Global Analyzer mein Aktienportfolio?
 Nein. Die Empfehlungen des Global Analyzer werden völlig unabhängig von Ihrem Aktienportfolio ausgesprochen.
 
 
-
+###
 Wie oft wird der Global Analyzer aktualisiert?
 Aktien werden täglich aktualisiert.
 Auf diese Weise können Sie Aktualisierungen von Aktien, die Sie interessieren, täglich einsehen.
+###

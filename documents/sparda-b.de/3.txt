@@ -1,4 +1,4 @@
-
+###
 
 Wie melde ich mich für das SpardaSecureApp Verfahren an?
 
@@ -6,7 +6,7 @@ Wie melde ich mich für das SpardaSecureApp Verfahren an?
 
         Im Service-Center Ihres SpardaNet-Bankings unter „TAN verwalten" können Sie sich unter dem Reiter „SecureApp" für das neue Transaktionsfreigabeverfahren freischalten.
         Nach der Freischaltung erhalten Sie einen Brief mit einem Aktivierungscode bzw. können diesen bei Bedarf in Ihrer Filiale erfragen. Mit dem Aktivierungscode und Ihrer Benutzerkennung können Sie nach Download der SpardaSecureApp die Anmeldung durchführen.
-
+###
 
  Warum sind die Eingabefelder im Internet Explorer bereits ausgefüllt?
 
@@ -23,18 +23,18 @@ Wie melde ich mich für das SpardaSecureApp Verfahren an?
         Drücken Sie auf "Löschen"
 
     Es erscheint die Meldung, dass der ausgewählte Browserverlauf gelöscht wurde. Um Ihre Änderungen zu bestätigen, schließen Sie das Fenster mit "OK".
-
+###
 
  Warum erhalte ich trotz aktivierter Postbox Kontoauszüge per Post?
 
         Sonderbedingungen für die Postbox
 
 
-
+###
 Kann ich weitere TAN-Verfahren verwenden?
 
     Ja, Sie können weitere TAN-Verfahren parallel nutzen.
-
+###
  Was passiert, wenn ich meine SpardaNet-Banking Online-PIN oder die mobilTAN/chipTAN falsch eingegeben habe?
 
     Die Eingabe der Online-PIN sowie der mobilTAN bzw. der chipTAN wird zuerst auf das richtige Format geprüft, so dass einfache Tippfehler vermieden werden. Anschließend wird die PIN bzw. die TAN gegen die in dem Online-Banking hinterlegten Werte geprüft. Bei Fehleingaben der PIN und TAN haben Sie die Möglichkeit der Wiederholung der Eingabe. Bei wiederholten Fehleingaben wird der Vorgang abgebrochen, die Zahlung wird nicht freigegeben und Sie werden wieder auf die Seite des Händlers zurückgeleitet. Der Kaufvorgang wird nicht abgeschlossen.
@@ -42,7 +42,7 @@ Kann ich weitere TAN-Verfahren verwenden?
     Wie bei der Nutzung im Online-Banking selbst, erfolgt bei mehrfacher Fehleingabe zu Ihrer Sicherheit eine Sperrung des Online-Zugangs.
 
     In diesem Fall kontaktieren Sie uns für eine Entsperrung des Zugangs.
-
+###
  Wie melde ich mich für das mobileTAN-Verfahren an?
 
     Lassen Sie sich Ihre TAN aufs Mobiltelefon senden.
@@ -56,11 +56,11 @@ Kann ich weitere TAN-Verfahren verwenden?
 
     Änderung, Abmeldung
     Sollte sich Ihre Mobilfunknummer ändern oder Sie möchten diesen Service nicht mehr in Anspruch nehmen, können Sie jederzeit über den Servicebereich des Online-Bankings die gewünschten Änderungen selbst vornehmen. Eine Änderung muss durch eines der drei Freigabeverfahren bestätigt werden.
-
+###
  Auf welchen Geräten wird die SpardaSecureApp unterstützt?
 
     Die SpardaSecureApp ist für Smartphones und Tablets (Android und iOS) sowie für Computer und Laptops (Windows und macOS) erhältlich und kann hier heruntergeladen werden.
-
+###
  Warum kann ich keine Überweisung, Dauerauftrag oder Terminüberweisung ausführen?
 
     Aufgrund der Umstellung auf SEPA wurden diese Geschäftsvorfälle deaktiviert. Sie können nur noch im SEPA-Format Überweisungen, Daueraufträge und Terminüberweisungen anlegen. Bestehende Daueraufträge und Terminüberweisungen wurden automatisch in das SEPA-Format umgestellt und können wie bisher abgerufen werden.
@@ -68,22 +68,22 @@ Kann ich weitere TAN-Verfahren verwenden?
     Umbuchungen/Überträge können Sie weiterhin wie gewohnt durchführen. Hier hat keine Umstellung auf SEPA stattgefunden.
 
 
-
+###
  Kann ich bei Anmeldung in der SecureApp zwischen Passworteingabe und Anmeldung mit Fingerprint wechseln?
 
     Ja, das ist problemlos möglich. Bei Aktivierung der SecureApp vergeben Sie sich zunächst ein eigenes Passwort für die Anmeldung. Vor Abschluss des Prozesses können Sie zusätzlich die Funktion "Touch ID" aktivieren, Ihr Passwort bleibt dennoch im Hintergrund gültig. Im Menü der SecureApp können Sie unter Touch ID jederzeit auswählen, ob Sie die Anmeldung in der App per Fingerprint durchführen möchten oder nicht und bei Bedarf die Funktion hier deaktivieren. Wenn Sie nachträglich von Passworteingabe auf Anmeldung per Fingerprint wechseln, ist für die Umstellung einmalig die Eingabe Ihres bisherigen Passworts erforderlich.
-
+###
  Warum kann ich keine Überweisung in Britischen Pfund vornehmen?
 
     Sie möchten eine Überweisung in Britischen Pfund (GBP) nach Großbritannien tätigen, finden jedoch keine Währungsauswahl in der Überweisungsmaske.
 
     In der SEPA-Überweisung sind gesetzlich nur Transaktionen in Euro gestattet. Deshalb bietet die Anwendung keine Möglichkeit, eine andere Währung auszuwählen.
 
-
+###
 Funktioniert ChipTAN auch in der SpardaApp?
 
     Bei Android-Geräten funktioniert das ChipTAN-Verfahren auch in der SpardaApp, bei iOS-Geräten aktuell leider nicht. Die Fehlerbehebung soll kurzfristig erfolgen.
-
+###
  Wie funktioniert der SpardaAppHeber?
 
     Auszahlung vorbereiten
@@ -98,14 +98,14 @@ Funktioniert ChipTAN auch in der SpardaApp?
     4. in der App wird ein 6-stelliger-Zahlencode (Einmal-PIN) angezeigt
     5. erneut am GAA die Taste "Bestätigung" drücken
     6. Auszahlung am GAA bestätigen und Bargeld entnehmen
-
+###
  Warum wird meine Überweisung trotz Kontodeckung abgelehnt?
 
     Sie möchten eine Überweisung in Höhe des gesetzlich zulässigen Höchstbetrags von 50.000 Euro tätigen und der Kontostand ist hierfür ausreichend. Trotzdem wird die Überweisung vom System mit einer Fehlermeldung abgelehnt.
 
     Aus Sicherheitsgründen haben wir den Überweisungshöchstbetrag für Überweisungen reduziert. Falls Ihr Betragswunsch unser Überweisungslimit überschreitet, setzen Sie sich bitte direkt mit uns in Verbindung.
 
-
+###
  Wie funktioniert die Foto-Überweisung?
 
     Die Foto-Überweisung wird über das Widget (grafisches Symbol) auf der Startseite oder im Rahmen der Überweisungsfunktion der SpardaApp aufgerufen. Beim ersten Öffnen des Features erscheint eine Anleitung, welche die wesentlichen Punkte aufzeigt, die es bei der Ausführung zu beachten gilt. Die Hilfefunktion kann beim Abfotografieren jederzeit über den entsprechenden Button („?"-Icon bzw. „Hilfe") aufgerufen werden.
@@ -132,7 +132,7 @@ Funktioniert ChipTAN auch in der SpardaApp?
 
     Die Foto-Überweisung funktioniert aktuell nicht im Querformat.
 
-
+###
  Die Signalübertragung vom Bildschirm funktioniert nicht. Was soll ich tun?
 
     Sollte die optische Signalübertragung über die animierte Grafik einmal nicht funktionieren, erhalten Sie über den darunterstehenden Link "chipTAN manuell generieren" einen Startcode.
@@ -143,7 +143,7 @@ Funktioniert ChipTAN auch in der SpardaApp?
         Übertragen Sie die vom TAN-Generator errechnete TAN in das Online-Banking
 
 
-
+###
 Welche Finanzsoftware kann ich verwenden?
 
     Sie können jede Finanzsoftware verwenden, die das HBCI-Verfahren über PIN/TAN unterstützt. Das sind zum Beispiel:
@@ -154,13 +154,13 @@ Welche Finanzsoftware kann ich verwenden?
 
     Wenn Sie bereits Online-Banking-Nutzer sind, benötigen Sie keine neuen Zugangsdaten. Ihre derzeit genutzte Online-PIN sowie Ihre TAN-Liste gelten auch für die Verwendung mit der Finanzsoftware.
 
-
+###
  Mein Gerät wurde geklaut bzw. ist verloren gegangen. Wie kann ich das Gerät sperren?
 
     Melden Sie sich dazu in Ihrem SpardaNet-Banking Account ein und klicken Sie in Ihrem Service-Center auf „TAN verwalten".
 
     Lassen Sie sich Ihre Geräteliste anzeigen und klicken auf „Gerätedetails" für das betroffene Gerät. Klicken Sie auf den Button „sperren", um das Gerät zu sperren.
-
+###
  Das Masterpasswort - Wie erhalte ich es?
 
     Das Masterpasswort soll nur Ihnen bekannt sein, daher werden Sie beim Erststart der SpardaApp aufgefordert, dieses selbst festzulegen.
@@ -168,7 +168,7 @@ Welche Finanzsoftware kann ich verwenden?
 
     Beachten Sie hierbei bitte, dass das Masterpasswort aus mindestens 8 Zeichen bestehen muss und Ziffern, Groß- und Kleinbuchstaben enthalten muss.
 
-
+###
 
 Wie richte ich meine Finanzsoftware StarMoney ein?
 
@@ -177,3 +177,5 @@ Wie richte ich meine Finanzsoftware StarMoney ein?
 
     Sie nutzen Starmoney noch nicht und wollen es neu einrichten?
     Bitte folgen Sie unserer Anleitung! (zweiter Link)
+
+###

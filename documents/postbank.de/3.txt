@@ -1,3 +1,4 @@
+###
 Was bedeutet V PAY?
 
 
@@ -8,7 +9,7 @@ Mit V PAY kann in allen Ländern der Europäischen Union und vielen Anrainerstaa
 
 Weitere Informationen zu V PAY finden Sie hier.
 
-
+###
 Ich brauche Überweisungen. Wo und wie kann ich Formulare bestellen?
 
 
@@ -20,7 +21,7 @@ Natürlich können Sie auch einen dieser Wege nutzen:
     per E-Mail an direkt@postbank.de (unterschriebener gescannter Auftrag als pdf-Datei)
     per Telefon unter 0228 5500 5500
     per Brief an Postbank Hamburg, 22283 Hamburg
-
+###
 
 Wie kann ich meine Kreditkarte kündigen?
 
@@ -35,13 +36,13 @@ Gerne können Sie auch einen dieser Wege nutzen:
 - per Brief an Postbank Hamburg - Card Service - 22283 Hamburg
 - per Fax an die 0228 5500 2222
 
-
+###
 Gibt es für einen Sparplan eine Kündigungsfrist?
 
 
 
 Nein, eine Kündigungsfrist gibt es nicht. Sie können den Fondssparplan jederzeit ändern oder Ihre Anteile verkaufen.
-
+###
 Wie kündige ich ein Gemeinschaftskonto?
 
 
@@ -55,7 +56,7 @@ Nennen Sie darin den vollständigen Namen und Adresse der Kontoinhaber, die Kont
 Geben Sie auch eine neue Bankverbindung an, damit wir die Schlussabrechnung Ihres Kontos machen können. Denken Sie unbedingt an die Unterschriften.
 
 Sobald uns alles vorliegt, lösen wir das Konto auf. Sie erhalten dann einen letzten Kontoauszug mit einem Kontostand von 0,00 €. Dieser Auszug gilt als Bestätigung Ihrer Kündigung.
-
+###
 Warum gibt es ab dem 01.01.2018 keine kostenlosen Girobriefumschläge mehr?
 
 
@@ -63,7 +64,7 @@ Warum gibt es ab dem 01.01.2018 keine kostenlosen Girobriefumschläge mehr?
 Das Herstellen der Girobriefumschläge braucht Berge von Papier, außerdem ist das Bearbeiten sehr aufwendig. Wir bieten Ihnen komfortable Alternativen. Damit fördert die Postbank Nachhaltigkeit und schont die Umwelt.
 
 Unterstützen Sie uns dabei: Nutzen Sie das Online- und Telefon-Banking oder überweisen Sie am Service-Terminal. So helfen Sie, Papier zu sparen.
-
+###
 Gibt es ein Limit für das Bezahlen und Geldabheben mit meiner Postbank Card (Debitkarte)?
 
 
@@ -78,9 +79,10 @@ Nutzen Sie das Postbank Online-Banking? Dann können Sie Ihr persönliches Karte
 
 Mein Tipp: Informieren Sie sich vor einer Reise, wo Ihre Postbank Card (Debitkarte) akzeptiert wird. Alle Länder finden Sie unter www.postbank.de/vpay. Sie möchten weltweit reisen und benötigen ein höheres Limit? Dann empfehlen wir Ihnen eine Postbank Kreditkarte. Die passende Karte finden Sie hier.
 
-
+###
 Gibt es bei den Tresoren verschiedene Farben?
 
 
 
 Nein. Die Tresore sind ausschließlich in der Farbe graphitgrau erhältlich.
+###

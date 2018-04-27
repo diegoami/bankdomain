@@ -1,3 +1,4 @@
+###
 Was kann ich tun, wenn meine SparCard durch PIN-Fehleingaben gesperrt wurde? Auch aus dem Ausland.
 
 
@@ -12,7 +13,7 @@ Folgende Möglichkeiten stehen zur Auswahl:
 
 
 Das Entsperren Ihrer Karte kostet 3,50 Euro. Bestätigen Sie uns bitte in dem Schreiben, dass Sie die Kosten übernehmen.
-
+###
 Ich möchte bei der Postbank Geld anlegen und sparen. Was können Sie mir empfehlen?
 
 
@@ -22,19 +23,19 @@ Die Postbank bietet für jeden Sparer das richtige Produkt. Ob Sie regelmäßig 
 Vereinbaren Sie doch gleich einen Termin zu Hause oder in einem Postbank Finanzcenter unter dem Link Kundenservice. Sie wünschen eine telefonische Beratung? Teilen Sie uns einfach Ihre Telefonnummer und Ihren Wunschtermin mit, wir rufen Sie dann gerne zurück.
 
 Eine Übersicht unserer Produkte und die aktuellen Konditionen finden Sie auch auf www.postbank.de.
-
+###
 Gibt es bei der Postbank ein Mietkaution-Sparkonto?
 
 
 
 Ja, die Postbank bietet auch ein Mietkaution-Sparkonto an. Weitere Informationen finden Sie hier.
-
+###
 Wo finde ich die aktuellen Zinssätze für mein Sparkonto?
 
 
 
 Die aktuellen Zinssätze zu den Sparprodukten finden Sie hier.
-
+###
 Welche Vorteile bietet die SparCard?
 
 
@@ -52,7 +53,7 @@ Daneben bietet die SparCard alle vom Sparbuch bekannten Vorteile:
     Sie können pro Monat vorschusszinsfrei bis zu 2.000 € abheben.
     Ihr Geld ist absolut sicher und risikolos angelegt.
 
-
+###
 Wo kann ich mich über die Regelungen zur Kündigung von Spareinlagen informieren?
 
 
@@ -62,19 +63,19 @@ Informationen zur Kündigung von Spareinlagen finden Sie in den Sparverkehrsbedi
 Unter https://www.postbank.de/privatkunden/sparen.html wählen Sie das entsprechende Sparprodukt aus, dann den Reiter „Downloads“. Unter „Bedingungen“ sind die entsprechenden Informationen abrufbar.
 
 Unter „Downloads“ finden Sie auch das Formular „Kündigung einer Spareinlage“. Bitte füllen Sie das Formular aus, unterschreiben es und senden uns dieses zu. Die Adressen finden Sie hier: Privatkunden
-
+###
 Ich habe mit meinem SparCard-Kontoauszug die Information erhalten, dass ich zukünftig statt zweimal jährlich nur noch einmal jährlich einen Auszug erhalte, ist das richtig?
 
 
 
 Das stimmt: Zukünftig werden wir Ihnen einmal jährlich – jeweils im Januar - einen Kontoauszug zu Ihrem SparCard-Konto zusenden, der alle Umsätze und die Zinsgutschrift des Vorjahres enthalten wird.
-
+###
 Kann ich von meinem Sparbuch im Ausland Geld abheben?
 
 
 
 Nein, von einem Sparbuch kann nur in Deutschland Geld abgehoben werden.
-
+###
 Wie kann ich im Telefon-Banking eine Umbuchung von meiner SparCard tätigen?
 
 
@@ -82,7 +83,7 @@ Wie kann ich im Telefon-Banking eine Umbuchung von meiner SparCard tätigen?
 Nachdem Sie Ihre SparCard Kontonummer und Telefon-Geheimzahl erfolgreich eingegeben haben, wird Ihnen der aktuelle Kontostand genannt. Anschließend befinden Sie sich im Hauptmenü. Teilen Sie uns auf die Aufforderung "Sagen Sie mir jetzt, was wir für Sie tun können" mit einem kurzen Satz Ihr Anliegen mit, z.B. "Ich möchte eine Umbuchung tätigen".
 
 Hinweis: Bitte beachten Sie, dass Umbuchung von Sparkonten nur auf eigene Konten möglich sind. Weiter gelten die vereinbarten Regelungen zu Verfügungen. Diese können Sie dem Preisverzeichnis entnehmen.
-
+###
 Hilft mir der Wechselbutler auch in Zukunft beim Sparen?
 
 
@@ -90,7 +91,7 @@ Hilft mir der Wechselbutler auch in Zukunft beim Sparen?
 Ja. Sie haben die Möglichkeit den Wechselwecker zu stellen. Dieser erinnert Sie rechtzeitig vor Ablauf Ihres Vertrags, Ihr Sparpotential erneut zu prüfen.
 
 Sie können aber auch jetzt schon jederzeit über die Postbank den Wechselbutler aufrufen und Ihre Sparpotentiale prüfen.
-
+###
 Funktioniert die Postbank Online-Freundschaftswerbung auch, wenn der Geworbende bereits über ein Postbank-Sparkonto verfügt?
 
 
@@ -98,7 +99,7 @@ Funktioniert die Postbank Online-Freundschaftswerbung auch, wenn der Geworbende 
 Ja, auch wenn der Geworbene bereits ein Sparkonto bei der Postbank führt, können Sie ihm im Rahmen der Postbank Online-Freundschaftswerbung ein Girokonto empfehlen.
 
 Weitere Informationen finden Sie hier.
-
+###
 Für welche Produkte gilt die neue Regelung mit den Kontoauszügen?
 
 
@@ -114,3 +115,5 @@ Die Anpassung der Vertragsbedingungen bezieht sich auf alle Postbank SparCard-Pr
     Postbank Rendite plus SparCard
     Postbank Rendite plus direkt SparCard
     Postbank Business SparCard
+
+###

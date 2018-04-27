@@ -1,4 +1,4 @@
-
+###
 Was ist eine Dividende?
 Eine Dividende ist die Auszahlung eines Teils des Gewinns eines Unternehmens an seine Aktionäre. Der Vorstand eines Unternehmens schlägt eine Dividende vor, die von den Aktionären auf der Jahreshauptversammlung genehmigt werden muss. In der Regel wird die Dividende einige Tage oder Wochen nach der Hauptversammlung ausgezahlt, wenn sie auf dieser Versammlung genehmigt wurde.
 
@@ -8,7 +8,7 @@ Wir unterscheiden verschiedene Arten von Dividenden: Obwohl eine Dividende in de
 
 Auch die Häufigkeit von Dividendenzahlungen kann unterschiedlich sein. Die meisten Dividenden werden einmal pro Jahr ausgezahlt, aber in anderen Ländern (z. B. Vereinigtes Königreich, USA usw.) sind vierteljährliche oder halbjährliche Dividendenzahlungen üblicher.
 
-
+###
 In welchen Fällen haben Sie Anspruch auf eine Dividende?
 Um einen Dividendenanspruch geltend machen zu können, müssen Sie die Aktie am Ex-Dividende-Tag besitzen. An diesem Tag wird die Dividende vom Wert der Aktie abgezogen.
 
@@ -16,21 +16,14 @@ Sie müssen eine Aktie spätestens einen Tag vor dem Ex-Dividende-Tag kaufen, um
 
 Beispiel: Eine bestimmte Aktie hat einen Wert von 10 EUR und das Unternehmen beschließt, eine Dividende von 1 EUR auszuzahlen. Die Aktie hat dann am Ex-Dividende-Tag einen Wert von 9 EUR. Anleger, die die Aktie auf ihrem Wertpapierkonto haben, erhalten automatisch die Dividende auf dieses Konto.
 
-
+###
 Wie ist im Falle einer Dividendenzahlung vorzugehen?
 Wenn Sie Anspruch auf eine Dividende haben, müssen Sie gar nichts tun. Wenn Sie die Aktie auf Ihrem Wertpapierkonto haben, wird die Dividende automatisch auf Ihrem Wertpapierkonto verbucht.
 
 Dabei sollten Sie berücksichtigen, dass es oft eine Abweichung zwischen Ex-Dividenden-Datum und dem Datum, an dem die Dividende ausgezahlt wird (der Zahlungstermin), gibt. Der Zahlungstermin liegt in der Regel einige Tage oder Wochen hinter dem Ex-Dividenden-Datum.
 
 Die von Ihnen geschuldete Steuer (Quellensteuer) wird automatisch von Keytrade Bank Luxembourg einbehalten.
-
-
-How do I know if and when a company will be paying a dividend?
-This kind of information is published on the companys website. For most listed companies, you will find a section "investor relations" on their website. In this section, you will be able to find more information on dividends.
-
-Usually, this information is published in the (financial) press as well.
-
-
+###
 Was ist ein VVPR-Strip?
 VVPR ist die Abkürzung für Verminderde voorheffing/Précompte Réduit.
 
@@ -40,13 +33,13 @@ Bei den Dividenden der meisten belgischen Aktien beträgt die Quellensteuer 25%.
 
 Beachten Sie bitte, dass VVPR-Strips nicht für alle Aktien an der Brüsseler Börse Euronext zur Verfügung stehen. Die Emission von Strips unterliegt besonderen Bedingungen.
 
-
+###
 Wie werde ich besteuert, wenn ich eine ausländische Dividende erhalte?
 Wenn Sie eine Dividende von einem Unternehmen erhalten, müssen Sie die ausländische Quellensteuer zahlen. Die ausländische Quellensteuer ist eine Steuer, die in dem Land erhoben wird, in dem das Unternehmen seinen Sitz hat. Das führt zu einer Nettodividende, die automatisch auf Ihrem Wertpapierkonto verbucht wird.
 
 Beispiel: Nehmen wir an, ein ausländisches Unternehmen zahlt eine Bruttodividende von 100 EUR aus. Die ausländische Quellensteuer (in dem Land, in dem das Unternehmen seinen Sitz hat) beträgt z. B. 25%. Unterm Strich wird eine Nettodividende von 75 EUR auf Ihrem Wertpapierkonto verbucht.
 
-
+###
 Wie kann man sich einen Teil der Quellensteuer auf eine ausländische Dividende erstatten lassen?
 Luxemburg hat mit einer Reihe von Ländern ein Doppelbesteuerungsabkommen. Diese Doppelbesteuerungsabkommen bedeuten, dass in Luxemburg ansässige Personen nicht der vollen ausländischen Quellensteuer unterliegen.
 
@@ -57,7 +50,7 @@ Luxemburg hat mit einer Reihe von Ländern ein Doppelbesteuerungsabkommen. Diese
 
     Bedenken Sie auch, dass ein solches Erstattungsverfahren nicht kostenlos ist. Unsere Tarife können Sie auf unserer öffentlichen Webseite einsehen.
 
-
+###
 Welche verschiedenen Arten von Dividenden gibt es?
 The most common types of dividends are:
 
@@ -66,59 +59,13 @@ The most common types of dividends are:
     Aktiendividende
     DRIP (Dividend Reinvestment Plan, dt.: Dividenden-Wiederanlageplan)
 
-
-What is a cash dividend?
-A cash dividend is a dividend which is paid out entirely in cash.
-
-
-What is a choice dividend?
-A choice dividend gives the shareholder the opportunity to chose between a payment in cash or in stocks.
-
-On the ex dividend date of a choice dividend, youll receive dividend rights on your trading account. These dividend rights will appear in the section other markets of your trading account.
-
-If you do not indicate a preference, dividends will by default be paid out in cash by Keytrade Bank Luxembourg.
-
-If you prefer to receive a choice dividend in cash, you do not have to do anything. It will be paid in cash by default.
-
-If you prefer to receive choice dividends in stocks, you can communicate your choice through our website. There is a tool available on our platform which allows you to tell us that you allways want to receive a choice dividend in stocks (whenever such a choice dividend is offered). Despite your choice of receiving choice dividend in stock, it may occur that choice dividend are paid in cash nonetheless. This is due to the conversion multiple: a certain amount of dividend rights is required to be entitled to one whole new stock. If you are not holding enough dividend rights to be entitled to a whole new stock, the choice dividend can be paid out in cash, despite your preference to receive choice dividend in stocks.
-
-A choice dividend is rarely offered by Belgian companies. It is more common in the Netherlands.
-
-
-What is a stock dividend?
-A stock dividend is a dividend that is automatically paid out in stocks. Shareholders dont have the possibility to opt for a payment in cash.
-
-In case of a stock dividend, on or after the ex-dividend date, dividend rights will be booked on your trading account. You fill find these dividend rights in the section other markets of your trading account.
-
-Belgian companies will never or very rarely opt for a stock dividend. This procedure is mostly used by Dutch companies. One of the characteristics of a stock dividend is the creation of new shares.
-
-Attention:
-Some US companies offer a stock dividend as well. In this case, the shareholder is often subdued to the foreign withholding tax.
-
- What is a DRIP?
-DRIP is the abbreviation of Dividend Reinvestment Plan. A DRIP-dividend is paid out in cash by default. As a shareholder, one has the opportunity to reinvest the DRIP dividend in stocks.
-
-Basically, you will have the choice to opt for a dividend payment in cash or a dividend reinvestment in (existing) shares. A DRIP-dividend is not dilutive as no new shares are created.
-
-For the companies that are listed on Euronext, you will receive dividend rights on your trading account on or after the ex-dividend date. You will find these rights in the section Other Markets of your trading account.
-
-By default, Keytrade Bank Luxembourg will opt for the cash distribution of the DRIP dividend.
-
-If you prefer to receive a DRIP dividend in cash, you do not have to do anything. This will be done by default.
-
-If you prefer to receive a DRIP dividend in stocks, than you have a tool available on our platform which allows you to tell us that you allways want to receive a DRIP dividend in stock (whenever such a DRIP dividend is offered).
-
-
-What is the procedure for a DRIP?
-When a DRIP is proposed by a foreign company, the client has to pay the foreign withholding tax. The foreign withholding tax is automatically deducted from the gross dividend. The remainder (gross dividend minus foreign withholding tax) will be used to be reinvested in stocks. The reinvestment price is determined by the company. It is most often the average price of the stock on the exchange during a certain period.
-
-The exchange multiple (how many dividend rights are required to obtain one new stock) of a DRIP-dividend is not always know in advance. This means that you do not always know in advance how many stocks youll receive.
-
+###
 
 Wie ist das Verfahren für Bruchteile?
 Wenn eine Wahldividende oder eine Dividende im Rahmen eines DRIP ausgeschüttet wird, kann es Bruchteile von nicht genutzten Dividendenansprüchen geben, die auf Ihrem Wertpapierkonto verbleiben.
 
 Dies ist der Fall, wenn wegen des Umwandlungsfaktors nicht alle Dividendenansprüche in ganze neue Aktien umgewandelt werden können.
+###
 
 Wenn die Bruchteile gleich dem Wert von mindestens einer halben Aktie sind, wandelt Keytrade Bank Luxembourg diese Bruchteile normalerweise in eine neue Aktie um. Wenn die Bruchteile nicht mindestens dem Wert einer halben Aktie entsprechen, werden sie nicht verwendet, um sie in eine neue Aktie umzuwandeln.
 
@@ -128,17 +75,18 @@ In beiden genannten Fällen berechnet Keytrade Bank eine Transaktionsgebühr von
 
 In Ausnahmefällen kann es vorkommen, dass ein Dividende zahlendes Unternehmen darauf besteht, dass nicht verwendete Dividendenansprüche automatisch nicht in eine neue Aktie umgewandelt werden, auch wenn diese Bruchteile von ungenutzten Dividendenansprüchen dem Wert von mindestens einer halben Aktie entsprechen.
 
+###
 
 Wie teile ich meine Wahl im Hinblick auf Dividenden mit?
 In den meisten Fällen haben Aktionäre bei Dividenden keine Wahl. Eine Bardividende wird immer in bar ausgezahlt. Im Falle einer Aktiendividende erhalten Sie Aktien als Dividende. In beiden Fällen (Bardividende, Aktiendividende) bestehen keine Alternativen. Im Falle einer Wahldividende oder einer DRIP-Dividende kann der Aktionär eine Wahl treffen.
 
 Bei Aktien, die an der Euronext (Brüssel, Amsterdam und Paris) notiert sind, besteht die Möglichkeit, ein Tool auf der gesicherten Webseite zu verwenden, mit dem Sie uns mitteilen, ob Sie es vorziehen, dass Wahldividenden (oder DRIP-Dividenden) in bar oder in Aktien ausgezahlt werden (wenn eine Wahldividende angeboten wird). Standardmäßig wählt Keytrade Bank bei Wahl- und DRIP-Dividenden eine Dividende in bar.
-
-Wo finde ich das Tool?
+###
+Wo finde ich das Dividendentool ?
 
 Sie finden das Dividendentool in der Rubrik Meine Einstellungen Ihres Keytrade Bank-Kontos. In der Rubrik Meine Einstellungen wählen Sie bitte Dividende.
-
-Eine Ausnahme für Ihre Auswahl?
+###
+Eine Ausnahme für Ihre Auswahl oder DRIP-Dividende ?
 
 Wenn Sie eine Wahl- oder DRIP-Dividende ausnahmsweise in bar erhalten wollen, obwohl Ihre Standardauswahl Aktien ist, senden Sie uns bitte eine E-Mail an die folgende Adresse: info@keytradebank.lu.
 
@@ -154,3 +102,4 @@ Denken Sie bitte daran, folgende Angaben zu machen:
     Beachten Sie bitte, dass der Wahlzeitraum häufig beschränkt ist. In der Regel dauert dieser Wahlzeitraum einige Tage bis einige Wochen. Geben Sie uns bitte rechtzeitig Bescheid, wenn Sie bei einer bestimmten Aktie eine Ausnahme zu Ihrer Standardauswahl wünschen.
     Bei Aktien, die nicht an der Euronext, sondern an einer anderen Börse notiert sind, ist die Standardauswahl immer bar oder die Auswahl des Kunden, wenn sie von der Barausschüttung abweicht. Auf der Webseite besteht nicht die Möglichkeit, ihre Standardauswahl für Aktien anzugeben, die nicht an der Euronext notiert sind.
 
+###

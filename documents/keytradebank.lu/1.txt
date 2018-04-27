@@ -1,42 +1,42 @@
-
+###
 Was ist das Terminkonto von Keytrade Bank Luxembourg?
 Das Terminkonto ist ein Konto, auf dem eine Geldsumme während eines festgelegten Zeitraums zwischen einer Woche und einem Jahr in Erwartung einer zukünftigen Investition gesperrt werden kann.
-
+###
 
 Wie teuer ist ein Terminkonto?
 Die Eröffnung eines Terminkontos ist für Sie gebührenfrei. Sie können völlig kostenlos über dieses Konto verfügen.
-
+###
 
 Welche Laufzeit hat ein Terminkonto?
 Die Laufzeit des Terminkontos ist festgesetzt auf einen Zeitraum zwischen einschließlich einer Woche und einem Jahr, wobei die Möglichkeit besteht, den festgesetzten Zeitraum vorzeitig zu beenden oder bei Ende die Laufzeit zu verlängern.
-
+###
 
 Ist zur Aktivierung des Terminkontos ein Mindestbetrag erforderlich?
 Zur Aktivierung des Terminkontos ist tatsächlich eine Mindesteinlage erforderlich.
 Diese beläuft sich auf 1.000 EUR.
 
-
-Wie hoch ist der gültige Zinssatz?
+###
+Wie hoch ist der gültige Zinssatz eines Terminkontos?
 Die Zinssätze werden dem geltenden Marktzinssatz angepasst. Je höher der hinterlegte Betrag, desto höher der Zinssatz. Klicken Sie hier, um die aktuellen Zinssätze einzusehen.
-
+###
 
 Wer kann ein Terminkonto eröffnen?
 Nach Genehmigung des Eröffnungsantrags kann bei Keytrade Bank Luxembourg jeder ein Konto eröffnen.
-
+###
 
 Wie kann dieses Terminkonto gewinnbringend genutzt werden?
 
     Wenn Sie noch nicht Kunde bei Keytrade Bank Luxembourg sind, können Sie hier Ihr Konto eröffnen und selbst die Anlageparameter für Ihr Terminkonto festlegen. Wählen Sie Summe und Laufzeit und profitieren Sie von dieser risikofreien Anlage.
     Wenn Sie bereits Kunde bei Keytrade Bank Luxembourg sind, rufen Sie bitte unsere gesicherte Webseite auf und klicken Sie auf Startseite > Bank > Terminkonto.
 
-
-Kann ich die festgelegte Laufzeit vorzeitig beenden?
+###
+Kann ich die festgelegte Laufzeit eines Terminkontos vorzeitig beenden?
 Sie haben jederzeit das Recht, die festgesetzte Laufzeit zu beenden. Nähere Informationen zu den bezüglich des Terminkontos geltenden Kündigungsbedingungen erhalten Sie hier.
 
-
+###
 Was passiert am Ende der Laufzeit?
 Bei Laufzeitende werden die Einlagesumme und die erzielten Zinsen automatisch auf Ihr angebundenes Konto überwiesen. Sie entscheiden selbst, ob Sie Ihr Terminkonto verlängern möchten oder nicht.
-
+###
  Wie kann ich Geld auf mein Keytrade Bank Luxembourg-Konto einzahlen?
 Zur Einzahlung auf Ihr Keytrade Bank Luxembourg-Konto möchten wir Sie bitten, je nach Währung de überwiesenen Mittel eines der folgenden Konten zu wählen.
 
@@ -60,7 +60,7 @@ Zur Einzahlung auf Ihr Keytrade Bank Luxembourg-Konto möchten wir Sie bitten, j
     Zugunsten der Kontonummer LU35 0081 3337 6300 5826 von Keytrade Bank Luxembourg
     Zweck: Ihre Kontonummer + Name
 
-
+###
 Wie kann ich Geld von meinen Keytrade Bank Luxembourg-Konto abheben oder überweisen?
 Online können Sie Geld nur auf Ihr eigenes Bankkonto überweisen. Die IBAN muss der Nummer entsprechen, die Sie der Bank bei Eröffnung des Kontos mitgeteilt haben. Wenn Sie die Nummer des Referenzkontos ändern möchten (nur möglich bei Online-Überweisungen), müssen Sie dies erst per Post oder per Fax beantragen.
 
@@ -69,7 +69,7 @@ US-Dollar können online nicht übertragen werden. Bitte kontaktieren Sie uns in
     In der Geschäftsstelle (bitte nehmen Sie sich 3-4 Tage vorher einen Termin).
     Per Fax (nur für Ihr eigenes Bankkonto) oder per unterzeichneten Brief (mitsamt Anweisungen und Mitteilungen der Übertragung).
 
-
+###
 Wie übertrage ich Aktien auf mein Konto bei Keytrade Bank Luxembourg?
 Bitten Sie Ihre Bank, uns folgende Informationen per Fax (+352 45 04 49) zukommen zu lassen, wenn Sie Ihre Wertpapiere von Ihrem Finanz institut auf ein Konto von Keytrade Bank Luxembourg übertragen möchten.
 
@@ -81,7 +81,7 @@ Schicken Sie uns die Liste der Aktien in der Zwischenzeit per Mail an info@keytr
 
     Eine Übertragung von Wertpapieren wird in der Regel am Hauptsitz einer Bank vorgenommen.
     Für den Empfang von Wertpapieren berechnet Keytrade keine Gebühren.
-
+###
 
 Was ist die IBAN?
 Die IBAN (International Banking Account Number) ist eine standardisierte Kontonummer für Überweisungen innerhalb Europas. Gemäß der Struktur IBAN-LUX kann nur die Bank, die ein Konto hält, ein entsprechendes IBAN-LUX-Format erstellen. Sie muss Ihnen diese neue Nummer Mitteilen.
@@ -93,3 +93,4 @@ Die IBAN ist in allen Ländern gleich lang:
     Die IBAN-Struktur ist von Land zu Land verschieden, innerhalb eines Landes aber gleich.
 
 
+###

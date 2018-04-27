@@ -1,3 +1,4 @@
+###
 Was ist ein Verlusttopf?
 
 
@@ -13,7 +14,7 @@ Allgemeiner/Sonstige Verlusttopf: In diesem Verlusttopf werden alle anderen Ertr
 Quellensteuertopf: Im Quellensteuertopf wird die Quellensteuer aus ausländischen Kapitalanlagen berechnet, sofern diese veranlagt, aber nicht an der Quelle (im Ausland) abgeführt wurde.
 
 Nachdem alle positiven Erträge zunächst mit den Inhalten der Verlusttöpfe Aktien und Sonstige verrechnet wurden, wird der verbleibende Betrag um den jeweiligen Freibetrag reduziert. Im Anschluss findet noch die Quellensteuer Berücksichtigung. Als Ergebnis erhält man den zu versteuernden Betrag, der nun in die Steuertöpfe Aktien und Sonstige einfließt.
-
+###
 
 
 Wenn ich eine Aktie mit Verlust verkaufe, wird automatisch ein Verlusttopf angelegt?
@@ -23,7 +24,7 @@ Wenn ich eine Aktie mit Verlust verkaufe, wird automatisch ein Verlusttopf angel
 Werden Wertpapiere verkauft, die nach dem 01.01.2009 angeschafft wurden, so wird automatisch die Abgeltungsteuer berücksichtigt.
 
 Der Kursverlust wird in den Verlusttopf gebucht und gegen spätere Gewinne verrrechnet.
-
+###
 
 Wenn eine Aktie mit Verlust verkauft wird, bildet die Postbank dann automatisch dazu ein Verlusttopf?
 
@@ -32,3 +33,4 @@ Wenn eine Aktie mit Verlust verkauft wird, bildet die Postbank dann automatisch 
 Werden Wertpapiere verkauft, die nach dem 01.01.2009 angeschafft wurden, so wird automatisch die Abgeltungsteuer berücksichtigt.
 
 Der Kursverlust wird in den Verlusttopf gebucht und gegen spätere Gewinne verrechnet.
+###

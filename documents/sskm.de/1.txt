@@ -1,19 +1,28 @@
+###
 Kann ich meine Sparkassen-Card noch am Geldautomaten nutzen, wenn das chipTAN-Verfahren für das Online-Banking gesperrt ist?
 
 Ja, wenn Sie das Online-Banking sperren lassen, zum Beispiel weil Ihre PIN ausgespäht wurde, können Sie die anderen Funktionen der Sparkassen-Card unverändert weiter nutzen. Bargeld abheben, Kontoauszüge am Service-Terminal ausdrucken und Bezahlen mit Ihrer Karte und Geheimzahl (PIN) sind weiter möglich.
+###
+
 Wie kann ich meinen Online-Banking-Zugang auf chipTAN umstellen?
 
 Wenn Sie zukünftig chipTAN nutzen wollen, können Sie dies jederzeit selbst im Online-Banking oder in einer unserer Filialen veranlassen.
 Kurzanleitung: Auf chipTAN umstellen
+###
+
 Warum muss ich die Auftragsdaten zusätzlich im Display des TAN-Generators bestätigen?
 
 Dies dient zu Ihrer eigenen Sicherheit: Bitte prüfen Sie die Auftragsdaten im Display des TAN-Generators genau und vergleichen sie diese mit den Originaldaten, zum Beispiel auf Ihrer Rechnung.
 
 Durch die zusätzliche Freigabe der Daten über die "OK"-Taste des TAN-Generators bestätigen Sie, dass die Auftragsdaten richtig sind. Durch diese zusätzliche Anzeige der Auftragsdaten können Sie sogenannte Echtzeit-Angriffe erkennen, bei denen die Daten mit Schadprogrammen (Trojaner) während der Datenübertragung manipuliert werden. Wenn Sie Abweichungen zu den von Ihnen erfassten Daten feststellen, dürfen Sie den Auftrag nicht ausführen. Brechen Sie ab und setzen Sie sich in diesem Fall mit Ihrer Filiale in Verbindung.
+###
+
 Was passiert, wenn ich eine neue Sparkassen-Card erhalte?
 
 Im Online-Banking können Sie Ihre neue Sparkassen-Card für das chipTAN-Verfahren aktivieren. Melden Sie sich im Online-Banking an und rufen Sie im Menü "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "chipTAN: Karte verwalten" auf.
 Kurzanleitung: neue Sparkassen-Card für chipTAN aktivieren
+###
+
 Wo liegt der Unterschied zwischen chipTAN comfort und chipTAN manuell?
 
 Mit dem chipTAN comfort-Verfahren werden die auftragsbezogenen Daten per optischem Signal (Flicker-Grafik - Taste F) an den TAN-Generator übermittelt.
@@ -21,6 +30,8 @@ Mit dem chipTAN comfort-Verfahren werden die auftragsbezogenen Daten per optisch
 Bei dem manuellen Verfahren geben Sie zum Beispiel bei einer Überweisung die IBAN des Empfängers sowie den Betrag manuell über die Tastatur des TAN-Generators zur TAN-Erzeugung ein.
 
 Unsere Softwareprodukte StarMoney und SFirm unterstützen das chipTAN-Verfahren comfort und manuell.
+###
+
 Was soll ich tun, wenn die auf dem TAN-Generator angezeigten Daten nicht mit den Daten übereinstimmen, die ich vorher im Banking eingegeben habe?
 
 Prüfen Sie die Daten im Display des TAN-Generators genau, bevor Sie den Auftrag freigeben. So können Sie Manipulationen rechtzeitig vor der TAN-Eingabe feststellen. Wenn die angezeigten Auftragsdaten nicht mit den von Ihnen eingegebenen Daten übereinstimmen und Sie sicher sind, dass Sie die Daten richtig eingegeben haben, sollten Sie davon ausgehen, dass der Auftrag während der Datenübertragung durch Schadsoftware auf Ihrem PC gefälscht wurde.
@@ -31,15 +42,20 @@ Bei Fragen wenden Sie sich bitte an unseren Online-Banking-Support:
 
     Für Privatkunden: Telefon 089 2167-49149
     Für Geschäfts- und Firmenkunden: Telefon 089 2167-49049
+###
 
 Woher bekomme ich einen TAN-Generator?
 
 Einen TAN-Generator können Sie einfach online im Sparkassen-Shop erwerben.
+###
+
 Was kann ich tun, wenn das optische Verfahren (chipTAN comfort) mit dem Einlesen der Grafik einmal nicht funktioniert?
 
 Wenn das optische Verfahren einmal nicht funktioniert, können Sie auf das manuelle Verfahren wechseln. Auf der TAN-Eingabeseite klicken Sie einfach auf "Alternativ gelangen Sie hier zur manuellen Eingabe über die Gerätetastatur" und folgen dann den Anweisungen auf Ihrem Bildschirm. Das manuelle Verfahren bleibt solange aktiv, bis Sie Ihre Online-Banking-Sitzung beenden. Bei einer erneuten Anmeldung wird wieder auf das chipTAN-Verfahren zurückgegriffen, das Sie unter "Online-Banking" > "Service" > "PIN/ TAN-Verwaltung" -> "chipTAN: Verfahren festlegen" voreingestellt haben.
 
 Sie können das manuelle chipTAN-Verfahren voreinstellen. Klicken Sie dazu im Online-Banking unter "Online-Banking" > "Service" > "PIN/TAN-Verwaltung" > "chipTAN: Verfahren festlegen", markieren Sie "Manuelle Tastatureingaben" und bestätigen Sie dies mit einem Klick auf "Weiter".
+###
+
 Warum ist die Synchronisation des TAN-Generators mit der Sparkassen-Card nötig?
 
 Auf der Sparkassen-Card wird mit jedem Erzeugen einer TAN ein Zähler erhöht. Die Synchronisation Ihrer Sparkassen-Card ist nötig, um den Zählerstand dort mit dem Zählerstand auf unserem Online-Banking-System abzugleichen.
@@ -49,9 +65,13 @@ Die Synchronisation ist bei der Ersteinrichtung für das chipTAN-Verfahren sowie
 Eine Synchronisation wird aus Sicherheitsgründen auch dann verlangt, wenn der TAN-Zähler auf Ihrer Sparkassen-Card und der TAN-Zähler auf unserem Online-Banking-System zu stark voneinander abweichen. Dies kann vorkommen, wenn Sie TANs erzeugt haben, ohne diese in Aufträgen tatsächlich zu nutzen, zum Beispiel um das chipTAN-Verfahren zu testen.
 
 Sie sollten eine Synchronisation zudem vornehmen, wenn Sie beim Senden von Aufträgen die Meldung "Die eingegebene TAN ist falsch" bekommen. Erhalten Sie diese Meldung dreimal hintereinander, werden Sie automatisch zur Synchronisation geführt.
+###
+
 Ich nutze unterwegs meinen Laptop/Netbook. Beim Online-Banking liest mein TAN-Generator die animierte Grafik nicht immer erfolgreich ein. Was kann ich tun?
 
 Sollte die Helligkeit Ihres Bildschirms zu niedrig eingestellt sein, ist das Einlesen der animierten Grafik durch den TAN-Generator eventuell nicht mehr problemlos möglich. Schalten Sie den Laptop oder das Netbook vom Stromsparmodus in den Normalmodus um, bevor Sie chipTAN nutzen. Oder sie schließen Ihr Gerät an das Stromnetz an.
+###
+
 Welche Voraussetzungen gelten für das optische chipTAN-Verfahren?
 
 Damit der chipTAN-Leser die flickernde Grafik richtig einlesen kann, müssen diese Voraussetzungen erfüllt sein:
@@ -62,3 +82,4 @@ Damit der chipTAN-Leser die flickernde Grafik richtig einlesen kann, müssen die
 3. Die Geschwindigkeit der Balken-Animation sollte auf 100 Prozent eingestellt sein.So ändern Sie die Geschwindigkeit: Schneller: Klick mit der linken Maus-Taste unterhalb des rechten Dreiecks der animierten Grafik. Langsamer: Klick mit der linken Maus-Taste unterhalb des linken Dreiecks der animierten Grafik.
 
 Wenn das optische Verfahren einmal nicht funktionieren sollte, können Sie auf das manuelle Verfahren wechseln. Klicken Sie auf der TAN-Eingabeseite auf "Alternativ gelangen Sie hier zur manuellen Eingabe über die Gerätetastatur" und folgen Sie dann den Anweisungen auf Ihrem Bildschirm. Das manuelle Verfahren bleibt solange aktiv, bis Sie Ihre Online-Banking-Sitzung beenden. Bei einer erneuten Anmeldung ist dann wieder das voreingestellte chipTAN-Verfahren aktiv.
+###

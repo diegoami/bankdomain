@@ -1,83 +1,93 @@
-1 – Grundsätzliches zu Masterpass™
+###
+ Was ist Masterpass?
 
+ Masterpass von Mastercard ist ein kostenfreies „digitales Portemonnaie“, das all Ihre Zahlungs- und Versandinformationen bequem und zuverlässig an einem zentralen, sicheren Ort speichert. So können Sie Ihre Online-Einkäufe in Zukunft in Sekundenschnelle mit nur wenigen Klicks abschließen – immer und überall, ob vom Smartphone, vom Tablet oder vom Computer. Anmeldung und Nutzung sind kostenfrei – es ist kein Vertrag erforderlich.
+###
+ Wie funktioniert der Kauf mit Masterpass?
 
-
-1.1 – Was ist Masterpass?
-
-A: Masterpass von Mastercard ist ein kostenfreies „digitales Portemonnaie“, das all Ihre Zahlungs- und Versandinformationen bequem und zuverlässig an einem zentralen, sicheren Ort speichert. So können Sie Ihre Online-Einkäufe in Zukunft in Sekundenschnelle mit nur wenigen Klicks abschließen – immer und überall, ob vom Smartphone, vom Tablet oder vom Computer. Anmeldung und Nutzung sind kostenfrei – es ist kein Vertrag erforderlich.
-1.2 – Wie funktioniert der Kauf mit Masterpass?
-
-A: Wenn Sie alle gewünschten Waren ausgewählt und im Warenkorb abgelegt haben, klicken oder tippen Sie beim Zahlvorgang auf den Masterpass Button.
+ Wenn Sie alle gewünschten Waren ausgewählt und im Warenkorb abgelegt haben, klicken oder tippen Sie beim Zahlvorgang auf den Masterpass Button.
 
 Wenn Sie bereits ein Masterpass Profil erstellt haben, müssen Sie sich lediglich einloggen und aus Ihren gespeicherten Zahlkarten und Versandadressen diejenigen auswählen, die Sie verwenden möchten. Weitere Zahlkarten oder Lieferadressen fügen Sie einfach Ihrem Profil hinzu.
 
 Sollten Sie noch kein Masterpass Profil haben, können Sie sich auch während des Kaufs neu registrieren.
 
 Nach Bestätigung der Karte und Lieferadresse für die Bezahlung werden Sie zum Online-Shop des Händlers zurück geleitet, können dort die Bestellung noch einmal überprüfen und den Kauf bestätigen.
-1.3 – Ist die Nutzung von Masterpass kostenpflichtig?
+###
+ Ist die Nutzung von Masterpass kostenpflichtig?
 
-A: Nein, für die Nutzung von Masterpass fallen keine Gebühren oder Entgelte an.
-1.4 – Welche Zahlkarten kann ich mit Masterpass verwenden?
+ Nein, für die Nutzung von Masterpass fallen keine Gebühren oder Entgelte an.
 
-A: Sie können Mastercard und Visa Kreditkarten hinzufügen.
-1.5 – Wie registriere ich mich für Masterpass?
+###
+ Welche Zahlkarten kann ich mit Masterpass verwenden?
 
-A: Gehen Sie zurück zur Startseite von Masterpass, klicken Sie auf "Registrieren" und folgen Sie dann den Anweisungen. Nach Eingabe Ihrer persönlichen Daten sowie Ihrer Kartendaten werden Sie noch aufgefordert Ihre Karte zu verifizieren. Das Verfahren zur Verifizierung wird durch Ihr kartenausgebendes Kreditinstitut bestimmt. Es ist wirklich sehr einfach.
+ Sie können Mastercard und Visa Kreditkarten hinzufügen.
+###
+ Wie registriere ich mich für Masterpass?
+
+ Gehen Sie zurück zur Startseite von Masterpass, klicken Sie auf "Registrieren" und folgen Sie dann den Anweisungen. Nach Eingabe Ihrer persönlichen Daten sowie Ihrer Kartendaten werden Sie noch aufgefordert Ihre Karte zu verifizieren. Das Verfahren zur Verifizierung wird durch Ihr kartenausgebendes Kreditinstitut bestimmt. Es ist wirklich sehr einfach.
 
 Sie können sich auch während des Online-Einkaufs registrieren. Wählen Sie dazu beim Zahlvorgang die Zahlart Masterpass und folgen Sie dem Registrierungsprozess.
-1.6 – Wie funktioniert die Kartenverifizierung?
+###
+ Wie funktioniert die Kartenverifizierung?
 
-A: Die Verifizierung der Karte wird per 3DS-Verfahren vorgenommen und dient Ihrem Schutz bei Zahlungen im Internet. Während der Registrierung oder beim Bezahlvorgang im Shop wird dabei gegebenenfalls eine Anfrage an Ihre kartenausgebende Bank gesendet. Diese öffnet ein Eingabefenster in Ihrem Browser und fragt Sie nach Ihrem persönlichen Sicherheitscode oder nach einer Bestätigung in einer mobilen Banking-App.
+ Die Verifizierung der Karte wird per 3DS-Verfahren vorgenommen und dient Ihrem Schutz bei Zahlungen im Internet. Während der Registrierung oder beim Bezahlvorgang im Shop wird dabei gegebenenfalls eine Anfrage an Ihre kartenausgebende Bank gesendet. Diese öffnet ein Eingabefenster in Ihrem Browser und fragt Sie nach Ihrem persönlichen Sicherheitscode oder nach einer Bestätigung in einer mobilen Banking-App.
 
 Grundsätzlich sollten Sie darauf achten, dass alle Karten in Ihrem Profil verifizert sind. Noch nicht verfizierte Karten erkennen Sie an dem Schlüssel auf dem Kartensymbol.
-1.7 – Wo kann ich noch heute mit Masterpass zahlen?
+###
+ Wo kann ich noch heute mit Masterpass zahlen?
 
-A: Sie können Masterpass überall dort verwenden, wo Sie im Internet das Masterpass Logo sehen.
-1.8 – Welche Browser werden von Masterpass unterstützt?
+ Sie können Masterpass überall dort verwenden, wo Sie im Internet das Masterpass Logo sehen.
+###
+ Welche Browser werden von Masterpass unterstützt?
 
-A: Masterpass funktioniert mit aktuellen Internetbrowsern, einschließlich Google Chrome 4, Apple Safari 7, Microsoft Edge und Internet Explorer 11, Firefox 6 und neueren Versionen sowie mit mobilen Browsern einschließlich Google Chrome, Apple Safari und Android Browser.
-2 – Profil und Einstellungen verwalten
+ Masterpass funktioniert mit aktuellen Internetbrowsern, einschließlich Google Chrome 4, Apple Safari 7, Microsoft Edge und Internet Explorer 11, Firefox 6 und neueren Versionen sowie mit mobilen Browsern einschließlich Google Chrome, Apple Safari und Android Browser.
+###
+ Warum habe ich eine E-Mail mit der Mitteilung erhalten, dass es Änderungen bei meinem Masterpass Profil gab?
 
+  Die Sicherheit Ihres Masterpass Profils hat für uns höchste Priorität. Daher erhalten Sie nach jeder Änderung Ihrer Kontodaten eine Bestätigungs-E-Mail. Wenn Sie keine Änderungen vorgenommen haben, kontaktieren Sie bitte unseren Masterpass Kundenservice.
+###
+ Wie lösche ich mein Masterpass Profil?
 
+ Wir bedauern sehr, dass Sie Ihr Masterpass Profil löschen möchten. Die Schließung eines Masterpass Profils kann ausschließlich von einem unserer Kundenservice-Mitarbeiter durchgeführt werden. Bitte wenden Sie sich an unseren Kundenservice.
 
-2.1 – Warum habe ich eine E-Mail mit der Mitteilung erhalten, dass es Änderungen bei meinem Masterpass Profil gab?
+###
+ Ich habe mein Passwort vergessen. Was kann ich tun?
 
-A:  Die Sicherheit Ihres Masterpass Profils hat für uns höchste Priorität. Daher erhalten Sie nach jeder Änderung Ihrer Kontodaten eine Bestätigungs-E-Mail. Wenn Sie keine Änderungen vorgenommen haben, kontaktieren Sie bitte unseren Masterpass Kundenservice.
-2.2 – Wie lösche ich mein Masterpass Profil?
+ Gehen Sie auf https://wallet.masterpass.de, klicken Sie auf "Passwort zurücksetzen" und folgen Sie den Anweisungen.
+###
+ Ich muss mein Passwort aktualisieren. Wie gehe ich vor?
 
-A: Wir bedauern sehr, dass Sie Ihr Masterpass Profil löschen möchten. Die Schließung eines Masterpass Profils kann ausschließlich von einem unserer Kundenservice-Mitarbeiter durchgeführt werden. Bitte wenden Sie sich an unseren Kundenservice.
-2.3 – Ich habe mein Passwort vergessen. Was kann ich tun?
+ Melden Sie sich zunächst bei Ihrem Masterpass Profil an, klicken Sie auf "Kundendaten" und anschließend auf das Password-Feld. Geben Sie Ihr neues Passwort ein.
+###
+ Wie füge ich eine neue Zahlkarte hinzu?
 
-A: Gehen Sie auf https://wallet.masterpass.de, klicken Sie auf "Passwort zurücksetzen" und folgen Sie den Anweisungen.
-2.4 – Ich muss mein Passwort aktualisieren. Wie gehe ich vor?
+ Melden Sie sich bei Ihrem Masterpass Profil an. Klicken Sie anschließend auf das Plus-Zeichen im leeren Kartensymbol. Im nächsten Schritt geben Sie Ihre Kartendaten ein. Bitte vergessen Sie nicht, diese zu speichern.
+###
+ Wie aktualisiere ich meine Kartendaten?
 
-A: Melden Sie sich zunächst bei Ihrem Masterpass Profil an, klicken Sie auf "Kundendaten" und anschließend auf das Password-Feld. Geben Sie Ihr neues Passwort ein.
-2.5 – Wie füge ich eine neue Zahlkarte hinzu?
+ Aus Sicherheitsgründen ist eine Aktualisierung der Kartendaten nicht möglich. Melden Sie sich bei Ihrem Masterpass Profil an, löschen Sie die alte Karte und fügen Sie eine neue Karte hinzu.
+###
+ Warum muss ich zusätzliche Sicherheitsinformationen eingeben, wenn ich eine Karte hinzufügen möchte?
 
-A: Melden Sie sich bei Ihrem Masterpass Profil an. Klicken Sie anschließend auf das Plus-Zeichen im leeren Kartensymbol. Im nächsten Schritt geben Sie Ihre Kartendaten ein. Bitte vergessen Sie nicht, diese zu speichern.
-2.6 – Wie aktualisiere ich meine Kartendaten?
-
-A: Aus Sicherheitsgründen ist eine Aktualisierung der Kartendaten nicht möglich. Melden Sie sich bei Ihrem Masterpass Profil an, löschen Sie die alte Karte und fügen Sie eine neue Karte hinzu.
-3 – Sicherheitseinstellungen verwalten
-
-
-
-3.1 – Warum muss ich zusätzliche Sicherheitsinformationen eingeben, wenn ich eine Karte hinzufügen möchte?
-
-A: Wenn Sie eine neue Karte hinzufügen, werden Sie möglicherweise online aufgefordert, einen Sicherheitscheck durchzuführen. Dieser Check (z.B. Mastercard® Identity Check™ (SecureCode™)) wird von Ihrer kartenausgebenden Bank initiiert. Durch Eingabe weiterer Sicherheitsinformationen bestätigen Sie, dass Sie der autorisierte Karteninhaber sind und Ihre Karte sicher hinzugefügt werden kann. Mit dieser Maßnahme wird das Risiko einer betrügerischen Verwendung Ihrer Karte reduziert.
+ Wenn Sie eine neue Karte hinzufügen, werden Sie möglicherweise online aufgefordert, einen Sicherheitscheck durchzuführen. Dieser Check (z.B. Mastercard® Identity Check™ (SecureCode™)) wird von Ihrer kartenausgebenden Bank initiiert. Durch Eingabe weiterer Sicherheitsinformationen bestätigen Sie, dass Sie der autorisierte Karteninhaber sind und Ihre Karte sicher hinzugefügt werden kann. Mit dieser Maßnahme wird das Risiko einer betrügerischen Verwendung Ihrer Karte reduziert.
 
 Weitere Informationen zu Mastercard® Identity Check™ finden Sie hier.
 
 Weitere Informationen zu Verified by Visa finden Sie hier.
-3.2 – Kann ich eine Postfachadresse als Versand- oder Rechnungsadresse eingeben?
+###
+ Kann ich eine Postfachadresse als Versand- oder Rechnungsadresse eingeben?
 
-A: Ja, prinzipiell ist die Angabe einer Postfachadresse als Liefer- oder Rechnungsadresse möglich. Da jedoch einige Händler nicht an Postfachadressen versenden können, empfehlen wir Ihnen, sich deren Richtlinien anzusehen, bevor Sie sich für einen Versand an eine Postfachadresse entscheiden.
-3.3 – Was sollte ich tun, wenn ich den Verdacht habe, dass mit meinem Masterpass Profil oder meiner Karte Einkäufe in betrügerischer Absicht getätigt wurden?
+ Ja, prinzipiell ist die Angabe einer Postfachadresse als Liefer- oder Rechnungsadresse möglich. Da jedoch einige Händler nicht an Postfachadressen versenden können, empfehlen wir Ihnen, sich deren Richtlinien anzusehen, bevor Sie sich für einen Versand an eine Postfachadresse entscheiden.
+###
+ Was sollte ich tun, wenn ich den Verdacht habe, dass mit meinem Masterpass Profil oder meiner Karte Einkäufe in betrügerischer Absicht getätigt wurden?
 
-A: Falls Sie den Verdacht haben, dass mit Ihrem Masterpass Konto oder Ihrer Karte Einkäufe in betrügerischer Absicht getätigt wurden, wenden Sie sich bitte unverzüglich an Ihre kartenausgebende Bank und schildern Sie den Fall. In der Regel befindet sich auf der Rückseite Ihrer Karte eine Telefonnummer des Kundenservices der Bank. Wenn die betroffene Karte eine Mastercard Karte ist, können Sie sich auch jederzeit an die zentrale Mastercard Notfall-Servicenummer wenden unter +49 800 819 1040 (Anrufe aus dem deutschen Festnetz sind kostenfrei).
-3.4 – Ich habe von Mastercard eine E-Mail bzw. einen Telefonanruf bezüglich meines Masterpass Profils bzw. meiner Karte erhalten. Es scheint sich dabei jedoch um einen Betrugsversuch oder eine Phishing-Mail zu handeln. Wie soll ich mich verhalten?
+ Falls Sie den Verdacht haben, dass mit Ihrem Masterpass Konto oder Ihrer Karte Einkäufe in betrügerischer Absicht getätigt wurden, wenden Sie sich bitte unverzüglich an Ihre kartenausgebende Bank und schildern Sie den Fall. In der Regel befindet sich auf der Rückseite Ihrer Karte eine Telefonnummer des Kundenservices der Bank. Wenn die betroffene Karte eine Mastercard Karte ist, können Sie sich auch jederzeit an die zentrale Mastercard Notfall-Servicenummer wenden unter +49 800 819 1040 (Anrufe aus dem deutschen Festnetz sind kostenfrei).
+###
+ Ich habe von Mastercard eine E-Mail bzw. einen Telefonanruf bezüglich meines Masterpass Profils bzw. meiner Karte erhalten. Es scheint sich dabei jedoch um einen Betrugsversuch oder eine Phishing-Mail zu handeln. Wie soll ich mich verhalten?
 
-A: Als Karteninhaber sollten Sie Ihre personenbezogenen Daten stets schützen und nicht auf verdächtige E-Mails oder andere Anfragen antworten. Sollten Sie eine verdächtige E-Mail erhalten, leiten Sie diese bitte unverzüglich an StopIt@Mastercard.com zur Untersuchung weiter.
-3.5 – Wann und wie kann ich den Masterpass Kundenservice erreichen?
+ Als Karteninhaber sollten Sie Ihre personenbezogenen Daten stets schützen und nicht auf verdächtige E-Mails oder andere Anfragen antworten. Sollten Sie eine verdächtige E-Mail erhalten, leiten Sie diese bitte unverzüglich an StopIt@Mastercard.com zur Untersuchung weiter.
+###
+ Wann und wie kann ich den Masterpass Kundenservice erreichen?
 
-A: Sie können unseren Kundenservice von Montag bis Freitag von 08:30 - 19:30 Uhr und Samstag von 08:30 - 16:30 Uhr unter +49 30 25559 095 erreichen.
+ Sie können unseren Kundenservice von Montag bis Freitag von 08:30 - 19:30 Uhr und Samstag von 08:30 - 16:30 Uhr unter +49 30 25559 095 erreichen.
+###

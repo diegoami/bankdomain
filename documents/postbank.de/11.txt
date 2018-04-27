@@ -1,3 +1,4 @@
+###
 Wie kann ich den Finanzstatus abbestellen?
 
 
@@ -17,7 +18,7 @@ Alternativ geht es auch auf einem der folgenden Wege:
 Entsprechende Adressen und Rufnummern finden Sie hier: Privatkunden
 
 Bitte beachten Sie: Ihre durchgeführte Änderung ist ab sofort gültig, eine Terminierung auf ein anderes Datum ist nicht möglich.
-
+###
 Weshalb bekomme ich ab dem 01.01.2018 keinen Quartals-Kontoauszug mehr?
 
 
@@ -36,6 +37,8 @@ Um die Kontoauszüge aufzurufen, gehen Sie auf "alle Kontoauszüge anzeigen". Ge
 
 Übrigens: Den Rechnungsabschluss erhalten Sie wie gewohnt zum Quartalsende in Ihrem Kontoauszug.
 
+###
+
 Welche Alternativen habe ich zum Quartals-Kontoauszug?
 
 
@@ -46,10 +49,9 @@ Folgende Alternativen stehen Ihnen zur Verfügung:
     Aktuelle Kontoinformationen im Online-Banking, im Finanzassistent, an den Serviceterminals sowie im Telefon-Banking
     Finanzstatus (kostenpflichtig)
 
-
+###
  Auf meinem Kontoauszug steht bei einer Überweisung "not provided". Was bedeutet das?
 
- Antwort der Postbank von Daniel P.
 
  Bei SEPA-Überweisungen kann der Auftraggeber eine Referenznummer angeben. Diese Referenznummer vereinfacht sowohl beim Auftraggeber wie auch beim Empfänger eine Zuordnung der Zahlung. In der Regel wird dieses von "Großkunden" genutzt.
 
@@ -65,6 +67,7 @@ Die Online-Kontoauszüge werden nach zwölf Monaten automatisch aus der Nachrich
 Mein Tipp:
 
 Legen Sie sich auf dem Rechner Jahresordner an und sortieren Sie die PDF-Auszüge dort ein. Ändern Sie den Dateinamen nach dem Download nach eigenen Vorlieben. Das erleichtert eine spätere Suche. Die Endung ".pdf" muss natürlich bestehen bleiben.
+###
 
 Gibt es ein Limit für das Bezahlen und Geldabheben mit meiner Postbank Card (Debitkarte)?
 
@@ -80,6 +83,7 @@ Nutzen Sie das Postbank Online-Banking? Dann können Sie Ihr persönliches Karte
 
 Mein Tipp: Informieren Sie sich vor einer Reise, wo Ihre Postbank Card (Debitkarte) akzeptiert wird. Alle Länder finden Sie unter www.postbank.de/vpay. Sie möchten weltweit reisen und benötigen ein höheres Limit? Dann empfehlen wir Ihnen eine Postbank Kreditkarte. Die passende Karte finden Sie hier.
 
+###
 
 Wo finde ich einen Bargeldeinzahlungsautomaten, einen sogenannten Cash-Recycler?
 
@@ -89,6 +93,7 @@ Sie suchen ein Cash-Recycler in Ihrer Nähe? Klicken Sie auf die GAA Suche . Hie
 
 P.S.: unter dieser Suchfunktion finden Sie übrigens auch alle anderen Geräte und Terminals der Postbank.
 
+###
 
 Ich wünsche für meine SparCard weiterhin auch einen Halbjahres-Kontoauszug.
 
@@ -102,6 +107,7 @@ Ich habe mit meinem SparCard-Kontoauszug die Information erhalten, dass ich zuk�
 
 
 Das stimmt: Zukünftig werden wir Ihnen einmal jährlich – jeweils im Januar - einen Kontoauszug zu Ihrem SparCard-Konto zusenden, der alle Umsätze und die Zinsgutschrift des Vorjahres enthalten wird.
+###
 
 Warum stellen Sie für die SparCard den Versand des Halbjahreskontoauszugs ein?
 
@@ -112,6 +118,7 @@ Wir haben in den letzten Jahren festgestellt, dass sich die SparCard-Kunden verm
 Sie haben sicherlich Verständnis, dass wir als wirtschaftlich handelndes Unternehmen ständig unter Kosten-Nutzen-Aspekten überprüfen müssen, welche Serviceleistungen wir unseren Kunden anbieten.
 
 In diesem Fall sind wir aufgrund der beschriebenen Änderung im Kundenverhalten zu dem Entschluss gekommen, die Serviceleistung „Entgeltfreier SparCard-Halbjahresauszug“ nicht mehr anzubieten.
+###
 
 Wenn ich für die SparCard keinen Halbjahreskontoauszug mehr erhalte: Wie kann ich mich denn über den Kontostand meines SparCard-Kontos informieren?
 
@@ -135,6 +142,7 @@ Wir würden uns freuen, wenn Sie Ihr Sparkonto bei uns weiterführen würden.
 
 Bitte bedenken Sie, dass Sie sich jederzeit bequem am Geldautomaten und über das Telefon-Banking über den aktuellen Kontostand informieren können. Wenn Sie unser Online-Banking bereits nutzen, können Sie sich auch darüber die Umsätze Ihres SparCard-Kontos anzeigen lassen.
 
+###
 
 Sie bieten für das Geschäftskonto jetzt auch den Online-Kontoauszug an. Wird der Kontoauszug jetzt per Post teurer?
 
@@ -155,6 +163,7 @@ Loggen Sie sich wie gewohnt in Ihr Postbank Online-Banking ein.
     Wählen Sie hier Versandart und Rhythmus aus.
     Senden Sie Ihren Wunsch mit „Mitteilung erstellen“ ab. Bestätigen Sie Ihren Auftrag mit einer TAN.
 
+###
 
 Wo kann ich Münzgeld einzahlen?
 
@@ -163,6 +172,7 @@ Wo kann ich Münzgeld einzahlen?
 Münzgeld können Sie über einen Cash-Reycler oder eine Filiale direkt auf Ihr Konto einzahlen. Klicken Sie einfach auf Kundenservice. Hier finden Sie unter der "Geldautomatensuche" auch die Cash-Recycler. Geben Sie den gewünschten Ort ein und selektieren Sie "Einzahlung Münzen". Klicken Sie nun auf „Suchen“. Auch eine Filiale in Ihrer Nähe finden Sie hier.
 
 P.S.: unter dieser Suchfunktion finden Sie übrigens auch alle anderen Geräte und Terminals der Postbank.
+###
 
 Kann ich meine Kontoauszüge für mein Geschäftskonto weiterhin am Kontoauszugsdrucker erhalten und trotzdem online abrufen?
 
@@ -179,6 +189,7 @@ Loggen Sie sich wie gewohnt in Ihr Postbank Online-Banking ein.
     Als Anliegen wählen Sie „Kontoauszug“ und fahren mit „Anliegen konkretisieren“ fort.
     Wählen Sie hier Versandart und Rhythmus aus.
     Senden Sie Ihren Wunsch mit „Mitteilung erstellen“ ab. Bestätigen Sie Ihren Auftrag mit einer TAN.
+###
 
 
 Ab wann gilt die neue Regelung für die Kontoauszüge der SparCard?
@@ -186,6 +197,7 @@ Ab wann gilt die neue Regelung für die Kontoauszüge der SparCard?
 
 
 Der Versand des Halbjahresauszug wird 2018 eingestellt, das bedeutet, dass Sie im Juli 2018 keinen Kontoauszug mehr erhalten werden – auch wenn Sie im ersten Halbjahr Transaktionen auf Ihrem Konto gehabt haben sollten.
+###
 
 Für welche Produkte gilt die neue Regelung mit den Kontoauszügen?
 
@@ -203,6 +215,7 @@ Die Anpassung der Vertragsbedingungen bezieht sich auf alle Postbank SparCard-Pr
     Postbank Rendite plus direkt SparCard
     Postbank Business SparCard
 
+###
 
 Was ändert sich beim Finanzstatus?
 
@@ -213,7 +226,7 @@ Beim Finanzstatus mit Zusendung zweimal monatlich bzw. monatlich ändern sich di
 Beim Finanzstatus mit Zusendung buchungstäglich bzw. wöchentlich wird keine Preisanpassungen vorgenommen. Der Preis von 0,90 EUR bleibt unverändert.
 
 Hinweis: Der Online-Kontoauszug, der in die Nachrichtenbox des Online-Bankings gestellt wird, ist kein Finanzstatus und bleibt kostenfrei.
-
+###
 Ich möchte Bank und Kontonummer des Absenders von Zahlungen an mich sehen können?
 
 
@@ -224,6 +237,7 @@ Absendername, Verwendungszweck und Betrag reichen für die Zuordnung der Zahlung
 
 Unter Privatkunden finden Sie die Kontaktmöglichkeiten.
 
+###
 
 Ich habe eine Frage zu Ihren neuen Kontomodellen für Geschäftskonten. Warum buchen Sie mir das Kontoführungsentgelt denn jetzt monatlich ab?
 
@@ -231,6 +245,7 @@ Ich habe eine Frage zu Ihren neuen Kontomodellen für Geschäftskonten. Warum bu
 
 Mit der monatlichen Abrechnung haben Sie einen schnellen und transparenten Überblick über Ihre monatlichen Kosten.
 Kennen Sie schon den neuen Online Kontoauszug? Den Online-Kontoauszug können Sie bequem und schnell von zu Hause aus abrufen. Wir stellen ihn auf Wunsch in die Nachrichtenbox Ihres Online-Bankings. Dort können Sie ihn 24 Stunden am Tag einsehen, downloaden oder speichern.
+###
 
 Möchten Sie Ihren Kontoauszug künftig online erhalten? Loggen Sie sich wie gewohnt in Ihr Postbank Online-Banking ein.
 
@@ -240,3 +255,4 @@ Möchten Sie Ihren Kontoauszug künftig online erhalten? Loggen Sie sich wie gew
     Wählen Sie hier Versandart und Rhythmus aus.
 
 Senden Sie Ihren Wunsch mit „Mitteilung erstellen“ ab. Bestätigen Sie Ihren Auftrag mit einer TAN.
+###

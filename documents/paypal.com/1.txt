@@ -1,31 +1,32 @@
-
+###
 
 Mit welcher zusätzlichen Sicherheitsabfrage sollte ich rechnen?
 3D Secure ist ein sicheres Protokoll zur Gewährleistung von mehr Sicherheit und zuverlässigen Authentifizierungen bei Online-Zahlungen mit Kreditkarte. Je nach Kreditkarte hat das Protokoll unterschiedliche Bezeichnungen: "MasterCard SecureCode", "Verified by Visa" oder bei American Express "Safekey". Bei zukünftigen Transaktionen müssen Sie der ausstellenden Bank gegebenenfalls einen speziellen Sicherheitscode übermitteln, damit die Bank die Transaktion auf der PayPal-Zahlungsseite autorisieren kann. Jede Bank hat eine andere Methode, diesen Code zu generieren und bereitzustellen. Wenn Sie Ihren 3D Secure-Code nicht kennen und keine Möglichkeit haben, sich über das Pop-up-Fenster der Bank für 3D Secure anzumelden, setzen Sie sich mit Ihrer Bank in Verbindung. Bitte beachten Sie, dass der Code nicht mit Ihrem PayPal-Passwort identisch ist.
-
+###
 Warum führt PayPal diese zusätzliche Sicherheitsmaßnahme ein?
 Die Maßnahme gewährleistet noch mehr Sicherheit für alle PayPal-Kunden – sowohl für Käufer als auch für Verkäufer. 3D Secure ermöglicht eine noch zuverlässigere Authentifizierung und Ihre Transaktionen werden noch sicherer verarbeitet als zuvor. Wir nutzen die 3D Secure-Authentifizierung als Erweiterung unserer Maßnahmen zur Maximierung der Sicherheit und des Komforts bei Online-Zahlungen.
-
+###
 Wie funktioniert 3D Secure?
 Die 3D Secure-Authentifizierung dient der Interaktion zwischen Ihnen und Ihrer Bank. Dabei werden Sie aufgefordert, sich durch die Eingabe eines Sicherheitscodes als rechtmäßiger Inhaber einer Kreditkarte zu identifizieren, die Sie gerade bei PayPal hinterlegen oder für eine Zahlung verwenden. Wenn der Sicherheitscode stimmt, können Sie die Kreditkarte für zukünftige Transaktionen Ihrem PayPal-Konto hinzufügen. Auch bei diesen späteren Zahlungen kann es im Ausnahmefall vorkommen, dass Sie zur Eingabe Ihres 3D Secure-Codes aufgefordert werden. Wenn der Sicherheitscode nicht stimmt und die 3D Secure-Authentifizierung fehlschlägt, können Sie die Karte nicht für Transaktionen nutzen. Dies ist erst möglich, nachdem Sie sich mit Ihrem 3D Secure-Passwort verifiziert haben.
-
+###
 Wann muss ich den 3D Secure-Code eingeben? Muss ich ihn jetzt immer eingeben?
 Wir wollen unseren Kunden ein Maximum an Komfort und Sicherheit bieten. Daher werden wir künftig in bestimmten Fällen den 3D Secure-Code abfragen. Sie werden den Code nicht jedes Mal eingeben müssen – tatsächlich werden Sie in den meisten Fällen wie gewohnt mit PayPal zahlen können, indem Sie Ihre E-Mail-Adresse und Ihr Passwort eingeben.
-
+###
 Wo erhalte ich diesen zusätzlichen Code? Ist der Code nicht mit meinem PayPal-Passwort identisch?
 Nein, den 3D Secure-Code erhalten Sie von der Bank, die Ihre Karte ausgestellt hat; er entspricht nicht Ihrem PayPal-Passwort. Die Bank, die die in Ihrem PayPal-Konto hinterlegte Kreditkarte ausgestellt hat, kann Ihnen genau erklären, wie Sie den 3D Secure-Code erhalten. Möglicherweise hilft Ihre Bank Ihnen auch automatisch, wenn Sie den 3D Secure-Code zu Ihrer Karte noch nicht erhalten haben: Beispielsweise sind im Pop-up-Fenster Ihrer Bank zur Eingabe des 3D-Codes eventuell nützliche Optionen wie z.B. "Code vergessen?" oder ähnliches verfügbar. Andernfalls müssen Sie sich an Ihre Bank wenden. In vielen Ländern können Sie auch direkt mit Ihrem Bankkonto oder mit Ihrem gegebenenfalls vorhandenen PayPal-Guthaben bezahlen. Dafür brauchen Sie keinen 3D Secure-Code. Bitte beachten Sie, dass jede Bank ein eigenes Verfahren hat. Wenn die oben erklärten Optionen Ihnen nicht weiterhelfen, wenden Sie sich also direkt an Ihre Bank.
-
+###
 Muss ich bei jeder PayPal-Zahlung diesen zusätzlichen Schritt durchführen?
 Nein. Wir fragen diesen zusätzlichen Code Ihrer Bank nur dann ab, wenn es erforderlich ist. In den meisten Fällen können Sie wie bisher mit wenigen einfachen Schritten mit PayPal bezahlen. Die zusätzliche 3D Secure-Prüfung ergänzt unsere ohnehin schon umfangreichen Sicherheitsmaßnahmen.
-
+###
 Nach wie vielen Fehleingaben wird der Zugang gesperrt?
 Sie haben 3 bis 5 Versuche, Ihre Karte erfolgreich zu authentifizieren. Wenn Sie mehrmals einen falschen Code eingeben, werden Sie aufgefordert, die Zahlung mit Ihrem Bankkonto oder Ihrem Guthaben abzuschließen. Falls während der 3D Secure-Prüfung die Optionen angeboten werden, eine Kreditkarte anzumelden oder den Code wiederherzustellen, können Sie auch auf den entsprechenden Link klicken. Andernfalls müssen Sie sich an Ihre Bank wenden.
-
+###
 Was passiert, wenn Sie den 3D Secure-Code nicht erhalten haben, er von Ihrer Bank abgelehnt wird oder nicht stimmt?
 Wenn Sie Ihre Kreditkarte im Pop-up-Fenster auf der PayPal-Zahlungsseite nicht anmelden und auch nicht Ihren Code wiederherstellen können, wenden Sie sich an Ihre Bank.
-
+###
 Verlangen auch andere Zahlungsdienstleister die 3D Secure-Prüfung?
 Ja. Die EU schreibt das vor. Vom 1. August 2015 an müssen EU-weit alle Zahlungsanbieter 3D Secure einsetzen.
-
+###
 Kann ich auf die Eingabe meines 3D Secure-Codes verzichten?
 Nein, wenn Sie mit PayPal bezahlen und als Zahlungsquelle eine Kreditkarte ausgewählt haben, müssen Sie den Code eingeben. In vielen Ländern können Sie aber Ihrem PayPal-Konto Ihr Bankkonto hinzufügen oder mit Ihrem PayPal-Guthaben bezahlen. Doch wie schon erwähnt, werden wir den Code nur in bestimmten Fällen bei PayPal-Zahlungen mit Kreditkarte abfragen. In den meisten Fällen können Sie weiterhin mit PayPal bezahlen, indem Sie einfach Ihre E-Mail-Adresse und Ihr PayPal-Passwort eingeben. Bitte beachten Sie: Das PayPal-Passwort entspricht nicht dem 3D Secure-Code Ihrer Bankkarte.
+###

@@ -1,14 +1,14 @@
-
+###
 Kann für Anleihen eine physische Lieferung erfolgen?
 Nein. Anleihen, die über das Online-Tradingsystem von Keytrade Bank Luxembourg gehandelt werden, können nicht physisch ausgeliefert werden, selbst wenn Sie bereit sind, die anfallenden Kosten dafür zu tragen.
 
 Wenn Sie in Finanzinstrumente investieren möchten, für die eine physische Lieferung erfolgt, setzen Sie sich bitte mit uns in Verbindung.
 
-
+###
 Sind Eurobonds eine sichere Anlagemöglichkeit?
 Eurobonds bzw. Anleihen im Allgemeinen gelten als sichere Investition. Die Qualität von Eurobonds richtet sich nach der Kreditwürdigkeit des Emittenten.
 Diese wird von spezialisierten Rating-Agenturen wie Standard & Poors und Moodys analysiert und überwacht, die eine Einschätzung (ein Rating) zur Kreditwürdigkeit des Emittenten und somit zur Sicherheit der Anleihe abgeben.
-
+###
 
 Wie funktioniert die Preisbildung bei Anleihen? Warum unterliegt der Kurs einer Anleihe Schwankungen?
 Der Kurs einer Anleihe und somit auch ihre effektive Rendite werden von verschiedenen Elementen beeinflusst. Zu den wichtigsten gehören:
@@ -24,7 +24,7 @@ Der Kurs einer Anleihe und somit auch ihre effektive Rendite werden von verschie
     Wenn Sie bei einer Investition zwischen zwei identischen Anleihen wählen können, wobei eine von einem multinationalen Unternehmen mit hoher Bonität ausgegeben wurde und die andere von einem Unternehmen, das sich in Zahlungsschwierigkeiten befindet, werden Sie sich für den kreditwürdigeren Emittenten entscheiden. Diese Anleihe wird somit teurer sein als die andere Anleihe, die von einem schwächeren Unternehmen ausgegeben wurde. Mit anderen Worten, die effektive Rendite des schwachen Emittenten wird höher ausfallen als die des zahlungsstarken Emittenten. Die zusätzliche Rendite, die Sie durch den Kauf der Anleihe eines weniger zahlungsfähigen Emittenten erhalten, können Sie als eine Art Risikoprämie betrachten.
     Wenn sich in Ihrem Portfolio eine Anleihe befindet, deren Rating (mit dem die Bonität eines Emittenten relativ zuverlässig gemessen werden kann) sich plötzlich verbessert (z.B. Standard & Poors erhöht das Rating von A auf AA), führt dies bei der Anleihe zu einer Kurssteigerung und somit gleichzeitig zu einem Rückgang der effektiven Rendite.
 
-
+###
 Welcher Unterschied besteht zwischen der (effektiven) Rendite und dem Kupon?
 Der Kupon einer Anleihe wird vom Emittenten festgesetzt und gilt generell für die gesamte Laufzeit der Anleihe. Selbst bei Anleihen mit einem Kupon, der eine Schwankungsbreite aufweist, sind die Modalitäten des Kupons unveränderlich. Die effektive Rendite hingegen bleibt nicht konstant. Je nachdem, ob der Kurs der Anleihe steigt oder sinkt, unterliegt auch die effektive Rendite einem Rückgang oder Anstieg. Der Kurs einer Anleihe entwickelt sich immer gegenläufig zur effektiven Rendite einer Anleihe.
 
@@ -33,13 +33,13 @@ Beispiel: Eine Anleihe weist folgende Merkmale auf:
     Laufzeit: 7 Jahre
     Kupon: 4,50%
 
-
+###
 Wenn der Kurs dieser Anleihe 100% beträgt, liegt die effektive Rendite ebenfalls bei 4,50%.
 Angenommen, der Kurs der Anleihe steigt auf 101,25%, so geht die effektive Rendite auf 4,29% zurück. Ein Anleger, der diese Anleihe zu 101,25% erwirbt, erhält weiterhin einen Kupon von 4,50%. Da jedoch der Kurs der Anleihe (101,25%) beim Kauf über dem Wettbewerbspreis lag, der 7 Jahre später zurückgezahlt werden muss (100,00%), beläuft sich die effektive Rendite des Anlegers nur noch auf 4,29%.
 
+###
+Welcher Unterschied besteht zwischen der (effektiven) Rendite und dem Kupon? Welcher Unterschied besteht zwischen Marktkurs und effektiver Rendite?
 
-Welcher Unterschied besteht zwischen der (effektiven) Rendite und dem Kupon?
-Welcher Unterschied besteht zwischen Marktkurs und effektiver Rendite?
 Der Marktkurs bezeichnet die aktuelle Rendite, die von entsprechenden Referenzprodukten erzielt wird. Dabei wird der Zinssatz stets für eine bestimmte Laufzeit angegeben, z.B. 1 Monat, 1 Jahr, 3 Jahre, 5 Jahre usw.
 Am häufigsten werden Staatsschuldverschreibungen oder Interbanken-Produkte (wie beispielsweise Swaps) als Referenzwert verwendet. Es wird allgemein angenommen, dass das Ausfallrisiko bei diesen Produkten nicht existiert (Staatsschuldverschreibungen) oder praktisch nicht existiert (Interbanken-Swaps). Der Marktkurs entspricht somit dem Zinskurs von Staatsanleihen oder Swaps.
 Der Marktkurs verändert sich ständig. Der kurzfristige Marktkurs (1 Tag bis 1 Jahr) richtet sich im Prinzip nach der Geldpolitik der Zentralbank, während der langfristige Marktkurs eher die gesamtwirtschaftliche Stimmung abbildet. Die kurzfristigen Marktkurse gehen daher während einer Rezession häufig zurück und können in Zeiten der Hochkonjunktur stark anziehen.
@@ -55,14 +55,18 @@ Wird nun angenommen, dass der Marktkurs auf 5 Jahre von 4,25% auf 4,00% zurückg
 
 Es ist daher für einen Anleger in Anleihen von wesentlicher Bedeutung, die Entwicklung des Marktkurses aufmerksam zu verfolgen.
 
+###
 
 Welcher Zusammenhang besteht zwischen der effektiven Rendite und dem Kurs einer Anleihe?
+
 Die effektive Rendite und der Kurs einer Anleihe sind miteinander verknüpft, dies jedoch in umgekehrtem Verhältnis.
 Steigt der Kurs einer Anleihe an, sinkt deren effektive Rendite. Der Kursrückgang einer Anleihe impliziert, dass ihre effektive Rendite steigt. Das genaue Verhältnis wird in (komplizierten) Formeln der Finanzmathematik ausgedrückt.
 Excel-Nutzer können die Rendite einer Anleihe über die Funktion Yield" und den Kurs über die Funktion Price" berechnen.
 
 
+###
 Wie hoch sind die fälligen Zinsen und wer muss sie an wen zahlen?
+
 Mit Ausnahme der Nullkupon-Anleihe erhält der Anleger einen periodischen (häufig jährlichen) Kupon für jede seiner Anleihen. Diese Zinszahlung erfolgt für einen Jahreskupon nur einmal im Jahr (an einem bestimmten Tag), nämlich am Kuponzahltag. Wenn Sie eine Ihrer Anleihen einen Tag vor dem Kuponzahltag verkaufen möchten, erhalten Sie einen entsprechend anteiligen Kupon (364/365 des Kupons). Dies bezeichnet man als fällige Zinsen. Die fälligen Zinsen gehen zulasten des Käufers der Anleihe. Daher erhält der Käufer am Kuponzahltag den gesamten Kuponbetrag.
 
 In anderen Worten: Der Verkäufer erhält für den Zeitraum zwischen dem letzten Kuponzahltag und dem Datum, an dem er seine Anleihe verkauft hat, einen anteiligen Betrag des Kupons.
@@ -70,9 +74,10 @@ Dabei muss stets der Käufer der Anleihe diesen Betrag als fällige Zinsen an de
 Dies ist ein wesentlicher Unterschied zur Dividendenausschüttung einer Aktie: Der Anleger, der einen Tag vor der Dividendenausschüttung seine Aktie verkauft, hat keinerlei Anrecht auf eine Dividende. Der Käufer einer Aktie ist unter keinen Umständen verpflichtet, dem Verkäufer eine anteilige Dividende auszuzahlen, auf die er Anspruch zu haben glaubt.
 Bei Investitionen in Anleihen müssen Sie zudem nicht den Kuponzahltag abwarten, um Ihre Anleihe abstoßen zu können. Sie erhalten in jedem Fall die fälligen Zinsen, auf die Sie Anspruch haben.
 
-
+###
 Kann ich Limit-Orders erteilen?
 Es ist möglich, Limit-Orders für online gehandelte Anleihen aufzugeben.
+###
 
 
 Was ist das Rating einer Anleihe?
@@ -83,6 +88,9 @@ Nach einer grundlegenden Analyse der Emittenten stellen die Agenturen ein Kredit
 
 Achtung: Beim renditevergleich sollten die Ratings der Anleihen beachtet werden.
 
+###
 
 Wie viele verschiedene Anleihen können online über die Trading-Plattform von Keytrade Bank Luxembourg gehandelt werden?
+
 Gegenwärtig führen wir rund 450 Anleihen in unserer Liste. Wir werden dieses Angebot systematisch ausbauen.
+###

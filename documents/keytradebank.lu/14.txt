@@ -1,23 +1,23 @@
-
+###
 Wie erhalte ich meine Passwörter um mich auf Keytrade Pro anzumelden?
 Für die Erstanmeldung erhalten Sie von Keytrade Bank Luxembourg ein Login und ein Passwort.
 Nach der ersten Anmeldung müssen Sie Ihre Keytrade ID aktivieren, bevor Sie unter +352 / 45 04 39 Kontakt mit Keytrade Bank Luxembourg aufnehmen.
 Sobald die Keytrade ID aktiviert ist, können Sie Ihr Passwort ändern.
-
+###
 
 Wo finde ich Informationen zu den verschiedenen Produkten und Preisen von Keytrade Pro?
 Alle notwendigen Informationen finden Sie auf unserer Webseite www.keytradepro.lu.
-
+###
 
 Was ist eine Einschussmarge?
 Die Einschussmarge ist ein Betrag, den Sie auf Ihrem Keytrade Pro-Konto hinterlegen müssen, um Transaktionen abschließen zu können.
 Sie dient der Absicherung eventueller Verluste. Die Einschussmarge muss in bar EUR) auf Ihr Keytrade Pro-Konto eingezahlt werden.
 Je höher die Einschussmarge (Mindestbetrag von 2.500 EUR für ein Basic- und von 10.000 EUR für ein Advanced-Konto), desto größer dürfen die Positionen sein, die Sie eingehen.
-
+###
 
 Darf die Einschussmarge aus Aktien bestehen?
 Nein, das ist nicht möglich.
-
+###
 
 Kann man ein Keytrade Pro-Konto in einer anderen Währung als EUR eröffnen?
 Nein, das ist momentan nicht möglich.
@@ -30,7 +30,7 @@ Sie müssen die Einschussmarge auf Ihr Keytrade Pro-Konto überweisen.
 
     Wenn Sie das BASIC-Konto gewählt haben, müssen Sie einen Mindestbetrag von EUR 2.500 überweisen
     Wenn Sie das ADVANCED-Konto gewählt haben, müssen Sie einen Mindestbetrag von EUR 10.000 überweisen.
-
+###
 
 Warum ist die Testversion auf 20 Tage begrenzt?
 Keytrade Pro ist eine sehr leistungsstarke Plattform.
@@ -38,11 +38,11 @@ Die Testversion von Keytrade Pro ist eine exakte Kopie der Live-Version, und bea
 Darüber hinaus können sich Personen, die keine Kunden von Keytrade Bank Luxembourg sind, die Testplattform herunterladen.
 Wir glauben, dass 20 Tage ausreichen, um die Plattform kennenzulernen.
 
-
+###
 Kann ich gleichzeitig die Test- und die Live-Plattform nutzen?
 Nein, das ist nicht möglich.
 Die Testversion wird automatisch überschrieben, wenn Sie die Live-Version installieren.
-
+###
 
 Wie kann ich Geld von und auf dem/das Keytrade Pro-Konto überweisen?
 Derartige Transaktionen müssen übe die Plattform von Keytrade Bank Luxembourg erfolgen und sind über Keytrade Pro nicht durchführbar.
@@ -57,6 +57,7 @@ Einschusskonten bei Keytrade Pro dienen vollkommen anderen Zwecken als Trading-K
 
 Aufgrund dieses fundamentalen Unterschieds sollten die beiden Konten vollkommen unabhängig voneinander betrachtet werden.
 
-
+###
 Wo finde ich einen detaillierten Überblick über alle Transaktionen, die ich auf Keytrade Pro ausgeführt habe?
 Eine solche detaillierte Übersicht ist nur auf der Keytrade Pro-Plattform verfügbar.
+###

@@ -1,28 +1,28 @@
-Geldautomatensuche FAQ
 
+###
+ Wie benutze ich die Geldautomatensuche?
 
+ Geben Sie in der Geldautomatensuche eine Stadt oder eine Postleitzahl ein. Um die Liste von Geldautomaten weiter einzuschränken, können Sie außerdem eine Adresse und ein Kreditinstitut angeben und zusätzliche Kriterien auswählen, wie beispielsweise 24-Stunden-Service. Wenn Sie auf Suchen klicken, wird Ihnen eine Liste von Geldautomaten im Umkreis Ihres Zielortes angezeigt. Mit einem Klick auf einen bestimmten Geldautomaten erhalten Sie weitere Informationen zu dessen Standort. Je nach Zielort wird eventuell auch eine Anfahrtsbeschreibung und eine Karte angezeigt.
+###
+ Warum kann ich in einem bestimmten Land keine Geldautomaten finden?
 
-F: Wie benutze ich die Geldautomatensuche?
-
-A: Geben Sie in der Geldautomatensuche eine Stadt oder eine Postleitzahl ein. Um die Liste von Geldautomaten weiter einzuschränken, können Sie außerdem eine Adresse und ein Kreditinstitut angeben und zusätzliche Kriterien auswählen, wie beispielsweise 24-Stunden-Service. Wenn Sie auf Suchen klicken, wird Ihnen eine Liste von Geldautomaten im Umkreis Ihres Zielortes angezeigt. Mit einem Klick auf einen bestimmten Geldautomaten erhalten Sie weitere Informationen zu dessen Standort. Je nach Zielort wird eventuell auch eine Anfahrtsbeschreibung und eine Karte angezeigt.
-F: Warum kann ich in einem bestimmten Land keine Geldautomaten finden?
-
-A: Die Informationen zu den Geldautomaten werden Mastercard von den entsprechenden Kreditinstituten zur Verfügung gestellt. Wenn ein bestimmter Geldautomat oder ein bestimmtes Land nicht aufgelistet wird, liegen uns zu dazu keine Informationen vor. Wir arbeiten ständig mit den Kreditinstituten daran, um Ihnen möglichst aktuelle und korrekte Informationen zum Standort der Geldautomaten zu liefern.
+ Die Informationen zu den Geldautomaten werden Mastercard von den entsprechenden Kreditinstituten zur Verfügung gestellt. Wenn ein bestimmter Geldautomat oder ein bestimmtes Land nicht aufgelistet wird, liegen uns zu dazu keine Informationen vor. Wir arbeiten ständig mit den Kreditinstituten daran, um Ihnen möglichst aktuelle und korrekte Informationen zum Standort der Geldautomaten zu liefern.
 
 Bitte wenden Sie sich gegebenenfalls an Ihr herausgebendes Kreditinstitut, wenn Sie Hilfe zu den Standorten der Geldautomaten, zu persönlichen Abhebungslimits und -einschränkungen, Barvorlagen in Landeswährung, Währungsumrechnung, Wechselkursen oder sonstigen Dienstleistungen benötigen. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard® oder auf Ihrer Kreditkartenabrechnung. Weitere Informationen finden Sie außerdem auf der Website Ihres Kreditinstituts.
-Geldautomaten FAQ
 
+###
+ Ich kenne mein Passwort oder meine PIN nicht. Wie bekomme ich diese Informationen?
 
+ Informationen zu Ihrer PIN oder Ihrem Konto bekommen Sie nur bei Ihrem herausgebenden Kreditinstitut. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Außerdem können Sie über die Website des herausgebenden Kreditinstituts auch online auf Ihr Konto zugreifen.
+###
+ Welche Gebühren fallen für Abhebungen oder Barvorlagen am Geldautomaten an?
 
-F: Ich kenne mein Passwort oder meine PIN nicht. Wie bekomme ich diese Informationen?
+ Die Gebühren für die Nutzung der Geldautomaten werden nicht von Mastercard festgelegt. Vom Betreiber des Geldautomaten erhobene Gebühren werden zu Beginn der Transaktion mitgeteilt. Sie haben dann die Möglichkeit, die Transaktion abzubrechen, wenn Sie diese Gebühren nicht bezahlen wollen. Bitte erkundigen Sie sich auch bei Ihrem herausgebenden Kreditinstitut nach den dort geltenden Gebührenregelungen für die Nutzung von Geldautomaten. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Weitere Informationen finden Sie außerdem auf der Website Ihres Kreditinstituts.
 
-A: Informationen zu Ihrer PIN oder Ihrem Konto bekommen Sie nur bei Ihrem herausgebenden Kreditinstitut. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Außerdem können Sie über die Website des herausgebenden Kreditinstituts auch online auf Ihr Konto zugreifen.
-F: Welche Gebühren fallen für Abhebungen oder Barvorlagen am Geldautomaten an?
+###
+ Der Geldautomat nimmt meine Karte nicht an. Was kann ich tun?
 
-A: Die Gebühren für die Nutzung der Geldautomaten werden nicht von Mastercard festgelegt. Vom Betreiber des Geldautomaten erhobene Gebühren werden zu Beginn der Transaktion mitgeteilt. Sie haben dann die Möglichkeit, die Transaktion abzubrechen, wenn Sie diese Gebühren nicht bezahlen wollen. Bitte erkundigen Sie sich auch bei Ihrem herausgebenden Kreditinstitut nach den dort geltenden Gebührenregelungen für die Nutzung von Geldautomaten. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Weitere Informationen finden Sie außerdem auf der Website Ihres Kreditinstituts.
-F: Der Geldautomat nimmt meine Karte nicht an. Was kann ich tun?
-
-A: Wenn Sie Probleme mit der Nutzung Ihrer Karte an einem Geldautomaten haben, der das Markenlogo von Mastercard, Maestro oder Cirrus trägt, werden wir dies näher untersuchen. Bitte geben Sie dazu möglichst genaue Informationen zu den folgenden Punkten an:
+ Wenn Sie Probleme mit der Nutzung Ihrer Karte an einem Geldautomaten haben, der das Markenlogo von Mastercard, Maestro oder Cirrus trägt, werden wir dies näher untersuchen. Bitte geben Sie dazu möglichst genaue Informationen zu den folgenden Punkten an:
 
     Ihr Kreditinstitut und die Markenlogos auf Ihrer Karte
     Alle Markenlogos auf dem Geldautomaten
@@ -30,27 +30,39 @@ A: Wenn Sie Probleme mit der Nutzung Ihrer Karte an einem Geldautomaten haben, d
     Name des Kreditinstituts, das den Geldautomaten betreibt (auf dem Automaten angegeben)
 
 Wenn Sie alle diese Informationen haben, rufen Sie unter der folgenden Telefonnummer an: 0800-819-1040
-F: Wie komme ich ohne Internet-Zugang an eine Liste von Geldautomaten?
+###
 
-A: Das Geldautomatennetz von Mastercard ist immer nur einen Anruf weit weg – wo immer Sie sich aufhalten.
+ Wie komme ich ohne Internet-Zugang an eine Liste von Geldautomaten?
+
+ Das Geldautomatennetz von Mastercard ist immer nur einen Anruf weit weg – wo immer Sie sich aufhalten.
 
     Innerhalb von Deutschland –  0 800 - 897- 092
     Außerhalb von Deutschland – Erkundigen Sie sich nach den Telefonnummern
+###
 
-F: Kann ich meine Prepaid-Karte, Geschenkkarte oder Kreditkarte an einem Geldautomaten nutzen?
+ Kann ich meine Prepaid-Karte, Geschenkkarte oder Kreditkarte an einem Geldautomaten nutzen?
 
-A: Ja. Mit den meisten Prepaid- und -Geschenkkarten von Mastercard können Sie an jedem Geldautomaten Geld abheben. Allerdings lassen nicht alle Herausgeber von Prepaid- oder Geschenkkarten Transaktionen am Geldautomaten oder im Ausland zu. Erkundigen Sie sich also in jedem Fall beim Herausgeber Ihrer Karte, ob diese Transaktionen zulässig sind. Mit den meisten Mastercard-Kreditkarten können Sie am Geldautomat auch Barvorlagen erhalten. Um Geld abzuheben, benötigen Sie eine persönliche Identifikationsnummer (PIN). Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Weitere Informationen finden Sie außerdem auf der Website Ihres Kreditinstituts.
-F: Ich habe die PIN für meine Karte vergessen. Wie kann ich sie abfragen oder eine neue PIN bekommen?
+ Ja. Mit den meisten Prepaid- und -Geschenkkarten von Mastercard können Sie an jedem Geldautomaten Geld abheben. Allerdings lassen nicht alle Herausgeber von Prepaid- oder Geschenkkarten Transaktionen am Geldautomaten oder im Ausland zu. Erkundigen Sie sich also in jedem Fall beim Herausgeber Ihrer Karte, ob diese Transaktionen zulässig sind. Mit den meisten Mastercard-Kreditkarten können Sie am Geldautomat auch Barvorlagen erhalten. Um Geld abzuheben, benötigen Sie eine persönliche Identifikationsnummer (PIN). Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung. Weitere Informationen finden Sie außerdem auf der Website Ihres Kreditinstituts.
+###
 
-A: Um Ihre PIN abzufragen oder zurückzusetzen, müssen Sie sich an Ihr herausgebendes Kreditinstitut wenden. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung.
-F: Wie bekomme ich Ersatz für eine verlorene oder gestohlene Karte?
+ Ich habe die PIN für meine Karte vergessen. Wie kann ich sie abfragen oder eine neue PIN bekommen?
 
-A: Wir helfen Ihnen beim Ersatz Ihrer verlorenen oder gestohlenen Bankkarte – überall. Bei Anliegen rund um Ihre Kreditkarte erreichen Sie das Mastercard Assistance Center aus allen Ländern der Welt.
+ Um Ihre PIN abzufragen oder zurückzusetzen, müssen Sie sich an Ihr herausgebendes Kreditinstitut wenden. Die Kontaktinformationen Ihres Kreditinstituts finden Sie auf der Rückseite Ihrer Mastercard oder auf Ihrer Kreditkartenabrechnung.
+###
+
+ Wie bekomme ich Ersatz für eine verlorene oder gestohlene Karte?
+
+ Wir helfen Ihnen beim Ersatz Ihrer verlorenen oder gestohlenen Bankkarte – überall. Bei Anliegen rund um Ihre Kreditkarte erreichen Sie das Mastercard Assistance Center aus allen Ländern der Welt.
 
 Erkundigen Sie sich nach den Telefonnummern
-F: Haben Sie weitere Fragen?
+###
 
-A: Wenn Sie Ihre Frage hier nicht gefunden haben, empfehlen wir Ihnen, sich an Ihr kontoführendes Kreditinstitut zu wenden. Nur dort erhalten Sie spezifische Informationen zu Ihrem Konto. In der Regel finden die Servicenummer Ihres Kreditinstituts auf der Rückseite Ihrer Karte. Wenn Sie der Ansicht sind, dass nur Mastercard Ihre Frage beantworten kann, klicken Sie bitte hier, um Kontakt aufzunehmen.
-F: Wie kann ich meinen Kunden dabei helfen, den nächsten Geldautomaten finden, an dem sie mit ihrer Mastercard Geld abheben können?
+ Haben Sie weitere Fragen?
 
-A: Inhaber der Mastercard können über eine Million Geldautomaten weltweit nutzen. Nutzen Sie die Geldautomatensuche – mit diesem Tool finden Sie die Bankautomaten in Ihrer Nähe.
+ Wenn Sie Ihre Frage hier nicht gefunden haben, empfehlen wir Ihnen, sich an Ihr kontoführendes Kreditinstitut zu wenden. Nur dort erhalten Sie spezifische Informationen zu Ihrem Konto. In der Regel finden die Servicenummer Ihres Kreditinstituts auf der Rückseite Ihrer Karte. Wenn Sie der Ansicht sind, dass nur Mastercard Ihre Frage beantworten kann, klicken Sie bitte hier, um Kontakt aufzunehmen.
+###
+
+ Wie kann ich meinen Kunden dabei helfen, den nächsten Geldautomaten finden, an dem sie mit ihrer Mastercard Geld abheben können?
+
+ Inhaber der Mastercard können über eine Million Geldautomaten weltweit nutzen. Nutzen Sie die Geldautomatensuche – mit diesem Tool finden Sie die Bankautomaten in Ihrer Nähe.
+###

@@ -1,3 +1,4 @@
+###
 Ich möchten Aktien, Fonds, Wertpapiere und Anleihen kaufen. Wie mache ich das bei der Postbank?
 
 
@@ -10,7 +11,7 @@ Sie haben schon ein Brokerage-Konto? Ihre Fragen zu Aktien und Fonds beantworten
     per Telefon-Brokerage
     schriftlich an die Postbank Köln, OF BB K, Edmund-Rumpler-Str. 3, 51149 Köln
 
-
+###
  Ich benötige Hilfe zum Aktienhandel, an wen kann ich mich wenden?
 
  Antwort der Postbank von Daniel P.
@@ -21,7 +22,7 @@ Sie haben schon ein Brokerage-Konto? Ihre Fragen zu Aktien und Fonds beantworten
 
  Wenn Sie dennoch offene Fragen haben, erreichen Sie uns per E-Mail unter direkt@postbank.de , telefonisch unter 0228-55005536 und in der Filiale in Ihrer Nähe.
 
-
+###
 Warum werden auf meinem Online-Brokerage Konto Sollzinsen berechnet?
 
 
@@ -32,7 +33,7 @@ Erteilen Sie nun vor der tatsächlichen Gutschrift eine Überweisung, nehmen Sie
 
 Möchten Sie Sollzinsen vermeiden, erteilen Sie eine Überweisung bitte erst nach der tatsächlichen Gutschrift auf Ihrem Konto. Das Datum der Gutschrift finden Sie immer in Ihrer Wertpapierabrechnung
 
-
+###
 Was ist ein Depot?
 
 
@@ -41,20 +42,20 @@ Ein Depot(-konto) benötigen Anleger, um Aktien und andere Wertpapiere zu handel
 
 Es dient der Abwicklung von Wertpapiertransaktionen und der Verwahrung von Wertpapieren, die der Anleger erworben hat.
 
-
+###
 Kann ich meinen Wertpapierauftrag auch per Post an Sie schicken?
 
 
 
 Eine schriftliche Auftragserteilung für einen Verkauf kann mit allen erforderlichen Angaben, wie
 z. B. gewünschter Börsenplatz und/oder Limitvorgaben jederzeit eingereicht werden. Einen schriftlichen Auftrag für einen Kauf können Sie nur in einer Filiale tätigen. Ihre nächste Filiale finden Sie hier: Filialsuche
-
+###
 Welche Einzahlmöglichkeiten beim Postbank-Brokerage gibt es?
 
 
 
 Sie können bequem ein SEPA-Lastschriftmandat erteilen, oder manuell per Überweisung in das Online-Brokerage einzahlen.
-
+###
 Was ist das Online-Brokerage?
 
 
@@ -62,7 +63,7 @@ Was ist das Online-Brokerage?
 Als Online-Brokerage bezeichnet man den Wertpapierhandel über das Internet. Die Bank fungiert dabei als Broker und führt als Intermediär die Transaktionsaufträge des Kunden durch.
 
 Für den Handel mit Wertpapieren benötigt man ein Depot. Eröffnen Sie Ihr Depot gleich hier.
-
+###
 Wie kann ich Aktien stückeln?
 
 
@@ -75,7 +76,7 @@ Bei Fonds kann es dagegen zu sogenannten Bruchstücken kommen.
 
 Haben Sie Fragen zum Kauf oder Verkauf von Aktien oder Fonds? Dann wenden Sie sich bitte direkt an die Spezialisten von Brokerage unter der Rufnummer 0228 5500 5500. Wenn möglich, halten Sie die ISIN oder WKN bereit.
 
-
+###
 Was passiert im Todesfall des Inhabers eines Brokerage-Depots mit den Aktien? Können sie von den Angehörigen übernommen werden?
 
 
@@ -90,14 +91,14 @@ Der Erbe hat mehrere Möglichkeiten, um über das Depot und Anlagekonto im Sterb
 
 Für alle Verfügungen sind eine notwendige Legitimation des Erben und ein Erbnachweis notwendig.
 
-
+###
 Die Postbank hat nun ein neues Online-Brokerage. Wird das bestehende Banking/Brokerage abgeschaltet?
 
 
 
 Vorerst nicht. Das Alte Brokerage steht Ihnen weiterhin zur Verfügung. Über Änderungen werden Sie selbstverständlich rechtzeitig informiert.
 
-
+###
 Es gibt jetzt ein neues Brokerage bei der Postbank. Kann ich das alte Online-Brokerage wie gewohnt nutzen?
 
 
@@ -108,14 +109,14 @@ Sicherheits- und Service-Funktionen, wie Nachrichtenbox und TAN-Verwaltung, steh
 
 Wir möchten unseren Kunden die Möglichkeit geben, aktiv an der Weiterentwicklung unseres Online-Banking und Brokerage teilzunehmen. Deshalb werden wir das Leistungsangebot sukzessive ausbauen und dabei die Rückmeldung unserer Kunden berücksichtigen.
 
-
+###
 Was ist das neue Online-Brokerage?
 
 
 
 Das neue Online-Brokerage der Postbank ist die innovative Weiterentwicklung des bisherigen Online-Brokerage. Von nun an haben Sie die Möglichkeit, mit nur einem Login sowohl auf das Online-Banking als auch das Online-Brokerage zuzugreifen. Zudem haben wir das Nutzererlebnis optimiert.
 
-
+###
 Was ändert sich für mich mit der Einführung des neuen Online-Brokerage?
 
 
@@ -127,27 +128,27 @@ Das neue Banking & Brokerage, das Sie heute sehen, ist ein erster Schritt. Wir h
 In weiteren Schritten wird das neue Banking & Brokerage um alle notwendigen und um neue Funktionen erweitert.
 
 Sie können bereits jetzt schon auf allen Geräten (PC, Laptop, Tablet, Smartphone) vom neuen Banking & Brokerage und dessen Vorteilen profitieren, da es sich immer ihrem Endgerät anpasst.
-
+###
 Warum werden sowohl das alte als auch das neue Online-Brokerage parallel verfügbar sein?
 
 
 
 Wir arbeiten in nächster Zeit erhöht an der Erweiterung der Brokerage und Banking Funktionalitäten und möchten unseren Kunden die Möglichkeit geben, aktiv an der Weiterentwicklung unseres Online-Banking und Brokerage teilzunehmen. Das Leistungsangebot wird sukzessive ausgebaut, dabei berücksichtigen wir selbstverständlich auch die Rückmeldung unserer Kunden.
 
-
+###
 Es gibt bei der Postbank nun ein neues Brokerage. Darin sind aber noch nicht alle Funktionen enthalten. Habe ich eine Möglichkeit meine Orderabrechnungen Online einzusehen?
 
 
 
 Ja, die Abrechnungen können Sie im bestehenden Online-Brokerage über Ihre elektronische Nachrichten-Box einsehen. In einem weiteren Schritt ist geplant, die Nachrichten-Box auch in Ihrem neuen Online-Banking und Brokerage anzubieten.
 
-
+###
 Die Postbank hat ein neues Online-Brokerage. Wie kann ich eine Auslandsorder aufgeben oder eine Zeichnung für Neuemissionen?
 
 
 
 Das neue Banking & Brokerage, das Sie heute sehen, ist ein erster Schritt. Wir haben uns auf wesentliche Funktionen konzentriert. Auslandsorders und Zeichnungen von Neuemissionen können Sie derzeit noch nicht im neuen Banking & Brokerage erteilen. Bitte nutzen Sie dafür das alte Brokerage oder kontaktieren Sie das Call Center unter 0228 5500 5500.
-
+###
 Welche neuen Funktionen hat das Online-Brokerage?
 
 
@@ -161,7 +162,7 @@ Welche neuen Funktionen hat das Online-Brokerage?
 -       Nutzung einheitlicher und bekannter Legitimierungsverfahren für Banking und Brokerage
 
 
-
+###
 Wie logge ich mich in das Online-Brokerage ein?
 
 
@@ -170,7 +171,7 @@ Bitte loggen Sie sich mit der Anlagekontonummer, der Online-Brokerage-PIN und de
 
 Dieser Zugang gilt auch für jedes weitere Depotkonto, denn er ist personenbezogen.
 
-
+###
 Welche Produkte bietet die Postbank im Bereich Wertpapiere an?
 
 
@@ -180,7 +181,7 @@ Sie können an deutschen Börsen gehandelte in- und ausländischen Aktien und Op
 Ferner bieten wir interessante und leistungsstarke Fonds sowie ein wachsendes Angebot attraktiver Fonds von führenden Investmentgesellschaften an.
 
 Weiterhin können Neuemissionen gezeichnet werden, sofern wir uns im Konsortium befinden. Unsere Marktinfoseiten bieten Ihnen die Möglichkeit, sich umfassend über das aktuelle Marktgeschehen zu informieren.
-
+###
 Wenn ich eine Aktie mit Verlust verkaufe, wird automatisch ein Verlusttopf angelegt?
 
 
@@ -188,7 +189,7 @@ Wenn ich eine Aktie mit Verlust verkaufe, wird automatisch ein Verlusttopf angel
 Werden Wertpapiere verkauft, die nach dem 01.01.2009 angeschafft wurden, so wird automatisch die Abgeltungsteuer berücksichtigt.
 
 Der Kursverlust wird in den Verlusttopf gebucht und gegen spätere Gewinne verrrechnet.
-
+###
 Es gibt bei der Postbank ein neues Online-Banking/Brokerage. Warum kann ich mich nicht wie früher mit meiner Kontonummer anmelden?
 
 
@@ -197,7 +198,7 @@ Die Postbank ID ist der Zugang zu Ihren persönlichen Kontodaten und Information
 
 Neben den zahlreichen Vorteilen aus Kundensicht, erfüllt die Postbank außerdem zukünftige, gesetzliche Anforderungen.
 
-
+###
 Warum finde ich im neuen Banking / Brokerage nicht alle Funktionen?
 
 
@@ -214,13 +215,13 @@ Sie können bereits jetzt schon auf allen Geräten (PC, Laptop, Tablet, Smartpho
 
 -       Intuitive Benutzerführung und einheitliche User Experience von Banking und Brokerage (Einheitliche bei Überweisungen und Wertpapierorder)
 
-
+###
 Die Postbank hat ein neues Online-Brokerage. Ändern sich die Transaktionskosten?
 
 
 Nein, die Konditionen bleiben auch im neuen Online Auftritt unverändert. Darüber entfällt zum 01.01.18 das Depotentgelt.
 
-
+###
 Was kostet mich der Handel mit Wertpapieren?
 
 
@@ -231,7 +232,7 @@ Die Preise für das Postbank Wertpapierdepot finden Sie hier.
 
 Klicken Sie einfach auf "Konditionen".
 
-
+###
 Kann ich meine iTan-Liste auch im neuen Online-Brokerage nutzen?
 
 
@@ -246,21 +247,21 @@ Im neuen Online-Brokerage stehen Ihnen folgende Freigabeverfahren zur Verfügung
 
 - chipTAN
 
-
+###
 Die Postbank hat ein neues Banking bzw. Brokerage. Muss ich zwingend den Zugang über die Landingpage / Verteilerseite nutzen?
 
 
 
 Nein, Sie können sich beide Links zum alten sowie zum neuen Login als Favorit in Ihrem Browser hinterlegen (Bookmark setzten).
 
-
+###
 Was ist der Unterschied zwischen Ausgabepreis und Rücknahmepreis eines Fonds?
 
 
 
 Die Differenz zwischen Ausgabepreis und Rücknahmepreis ergibt sich durch den zu entrichtenden Ausgabeaufschlag beim erstmaligen Erwerb von Fondsanteilen.
 
-
+###
 
 Was sind beim Brokerage die Risikoklassen?
 
@@ -272,7 +273,7 @@ Dabei erstrecken sich die Klassen vom sicherheitsorientierten Anleger bis hin zu
 
 Für sehr sicherheitsorientierte Anleger können sich besonders einlagengesicherte Produkte wie Tagesgeld oder Festgeld eignen. Für sehr spekulative Anleger stellen Produkte wie hochspekulative Anleihen und Optionen Möglichkeiten dar.
 
-
+###
 Kann das Anlagekonto beim Online-Brokerage überzogen werden?
 
 
@@ -280,9 +281,10 @@ Kann das Anlagekonto beim Online-Brokerage überzogen werden?
 Das Anlagekonto wird lediglich auf Guthabenbasis geführt, daher ist eine Überziehung nicht möglich.
 
 
-
+###
 Was ist das Referenzkonto beim Online-Brokerage?
 
 
 
 Bei der Depoteröffnung geben Sie uns eine Kontonummer eines Kontos bei der Postbank, Sparkasse oder Bank an, auf das Überweisungen von Ihrem Anlagekonto bei uns erfolgen können.
+###

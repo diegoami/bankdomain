@@ -1,3 +1,5 @@
+###
+
 Ich möchte einen Kredit beantragen. Wie mache ich das?
 
 
@@ -20,6 +22,7 @@ Ihre Vorteile:
 
 Sie wünschen eine persönliche Beratung? Vereinbaren Sie einfach einen Termin mit einem unserer Kundenberater zu Hause oder in einem Postbank Finanzcenter. Gerne beraten wir Sie auch telefonisch. Teilen Sie uns einfach Ihre Telefonnummer und Ihren Wunschtermin über "Rückruf vereinbaren" unter Kundenservice mit.
 
+###
 
 Bieten Sie einen Kredit für Selbstständige an?
 
@@ -31,6 +34,7 @@ Mit diesem Festzinskredit bleiben Sie flexibel und profitieren von extragünstig
 
 Für Kreditbeträge über 100.000 Euro kontaktieren Sie bitte unsere Berater unter 0228 5500 4444.
 
+###
 
 Ich möchte meinen Kredit ablösen. Wie gehe ich vor?
 
@@ -41,6 +45,7 @@ Bitte bringen Sie Ihr Anliegen kurz zu Papier und senden uns einen Brief. Teilen
 Postbank Köln D 91 Kundenservice Kredit 51222 Köln
 
 Haben Sie den Kreditvertrag gemeinsam unterschrieben? Dann benötigen wir in Ihrem Brief die Unterschriften beider Kreditnehmer.
+###
 
 
 Was versteht man unter dem Laufzeitjahr bei einem Kredit?
@@ -49,6 +54,7 @@ Was versteht man unter dem Laufzeitjahr bei einem Kredit?
 
 Im Unterschied zum Kalenderjahr, das immer am 1.1. beginnt, fängt das Laufzeitjahr mit dem vertraglich vereinbarten Termin an. Wenn der Kredit z.B. am 15.11.2015 ausgezahlt wurde, endet das erste Laufzeitjahr am 14.11.2016.
 
+###
 
 Kann ich meinen laufenden Kredit nochmals erhöhen?
 
@@ -74,6 +80,7 @@ Ihre Vorteile:
 
 Sie wünschen eine persönliche Beratung? Vereinbaren Sie einfach einen Termin mit einem unserer Kundenberater zu Hause oder in einem Postbank Finanzcenter. Gerne beraten wir Sie auch telefonisch. Teilen Sie uns einfach Ihre Telefonnummer und Ihren Wunschtermin über "Rückruf vereinbaren" unter Kundenservice mit.
 
+###
 
 Wie aktiviere ich im Online-Banking die Teilzahlungsfunktion für meine VISA-Karte?
 
@@ -82,6 +89,7 @@ Wie aktiviere ich im Online-Banking die Teilzahlungsfunktion für meine VISA-Kar
 Eine direkte Aktivierung ist im Online-Banking der Postbank nicht möglich.
 
 Senden Sie uns Ihren Teilzahlungswunsch bitte per TAN-legitimierter Mitteilung (im Menüpunkt "Service") oder wenden Sie sich schriftlich an unseren Card Service.
+###
 
 
 Welche Leistungen hat meine Postbank MasterCard?
@@ -97,6 +105,7 @@ Folgende Leistungen hat Ihre Kreditkarte
     Wenn Sie möchten, zahlen Sie Ihre Kreditkartenabrechnung bequem in Teilbeträgen von 5%, 10%, 20% oder 50%. Flexible Sonderzahlungen sind jederzeit möglich, ebenso die Rückkehr zur 100% Vollzahlung.
     Emergency Service (auf Wunsch): Im Ausland Notfall-Ersatzkarte und Notfall-Bargeld innerhalb von 24 Stunden.
     Einkaufsversicherung: kostenloser Rundumschutz für Ihre Einkäufe! Nahezu alles, was Sie mit Ihrer Postbank Kreditkarte bezahlen, ist ab einem Warenwert von 50 Euro automatisch versichert -  kostenlos und an 33 Millionen Akzeptanzstellen weltweit!
+###
 
 
 Wieviele Kreditkarten kann ich für mobiles Bezahlen verwenden?
@@ -105,6 +114,7 @@ Wieviele Kreditkarten kann ich für mobiles Bezahlen verwenden?
 
 Wenn Sie mehrere Kreditkarten besitzen, können Sie im Finanzassistenten definieren mit welcher Sie mobil bezahlen möchten. Sie haben jedoch jederzeit die Möglichkeit auf eine andere Kreditkarte zu wechseln.
 
+###
 
 Was ist der Unterschied zwischen Sollzins und Effektivzins?
 
@@ -115,6 +125,7 @@ Der effektive Jahreszins, auch Effektivzins genannt, drückt die jährlichen Ges
 Der Sollzins hingegen gibt lediglich die Höhe der Verzinsung eines Kredites an. In der Vergangenheit wurde er auch als Nominalzins, Aktivzins oder Kreditzins bezeichnet.
 
 Der Kreditgeber errechnet aus dem Sollzins die jeweilige Darlehensrate für den Kreditnehmer. Der wesentliche Unterschied der beiden Zinsarten besteht darin, dass der Effektivzins neben der Höhe der Verzinsung des Kredites, auch Laufzeit, Zinszahlungs- und Verrechnungstermine sowie weitere preisbestimmende Faktoren miteinbezieht. Durch den Effektivzins werden verschiedene Kreditangebote, unterschiedlicher Kreditgeber vergleichbar gemacht.
+###
 
 Wie kann ich mobiles Bezahlen aktivieren?
 
@@ -133,6 +144,7 @@ Wenn Sie bereits eingeloggt sind, gehen Sie in der Übersicht zu Ihrer Kreditkar
 Konten:
 
 Im Bereich Konten finden Sie die Funktion unter den drei Punkten an Ihrer Kreditkarte.
+###
 
 Was ist eine Vorfälligkeitsentschädigung?
 
@@ -141,3 +153,4 @@ Was ist eine Vorfälligkeitsentschädigung?
 Wenn Sie als Kreditnehmer einen Ratenkredit vorzeitig ganz oder teilweise zurückzahlen, entgeht der Postbank als Kreditgeber ein Teil des vertraglich vereinbarten Zinsertrags. Um dies auszugleichen, können wir nach klar vorgegebenen Richtlinien ein Entgelt, die sogenannte Vorfälligkeitsentschädigung, erheben.
 
 Sofern Sie über eine vorzeitige Rückzahlung nachdenken, sprechen Sie uns gerne an, damit wir Ihnen vorab nähere Informationen über die mit dieser Rückzahlung ggf. verbundene Vorfälligkeitsentschädigung geben können. Sie erreichen uns telefonisch unter 02203 5993 6130. Wenn Sie sich für die vorzeitige Rückzahlung Ihres Kredites entscheiden, wenden Sie sich bitte in Textform an uns: Postbank Köln, Bestandsbetreuung Ratenkredit, 51222 Köln, Fax: 02203 5993 6109.
+###

@@ -1,28 +1,29 @@
-
+###
 
 Was ist 3D Secure?
 3D Secure ist ein sicheres Protokoll zur Gewährleistung von mehr Sicherheit und zuverlässigen Authentifizierungen bei Online-Zahlungen mit Kreditkarte. Je nach Kreditkarte hat das Protokoll unterschiedliche Bezeichnungen: "MasterCard SecureCode", "Verified by Visa" oder bei American Express "Safekey". In der Regel wird dabei der Kunde während der Transaktion von der ausstellenden Bank aufgefordert, sich durch Eingabe eines Passworts als rechtmäßiger Karteninhaber zu identifizieren. Der Code wird je nach Bank unterschiedlich generiert und bereitgestellt, d.h. der Kunde muss bei seiner Bank nachfragen, wie die 3D Secure-Registrierung im Einzelfall durchzuführen ist. Außerdem muss der Kunde bei der Abfrage des Codes darauf achten, nicht irrtümlich das PayPal-Passwort einzugeben.
-
+###
 Warum führt PayPal 3D Secure auf meiner PayPal-Zahlungsseite ein?
 Die Europäische Bankenaufsichtsbehörde verlangt von Zahlungsdienstleistern und Händlern insbesondere dann eine zuverlässige Authentifizierung durch den Kreditkartenherausgeber, wenn der rechtmäßige Inhaber seine Kreditkarte erstmalig einem E-Wallet hinzufügt oder eine Transaktion durchführt, die mit erhöhtem Risiko verbunden ist. In diesen Fällen wird die 3D Secure-Prüfung eingeleitet. PayPal kann durch 3D Secure seine Kunden sicherer identifizieren und Ihre Transaktionen noch zuverlässiger bearbeiten. Die 3D Secure-Kartenprüfung ist eine weitere Maßnahme, die unsere vielfältigen Bemühungen ergänzt, Ihre Zahlungen so sicher und einfach wie möglich zu gestalten.
-
+###
 Wie funktioniert 3D Secure?
 Die 3D Secure-Authentifizierung dient der direkten und sicheren Interaktion zwischen der ausstellenden Bank und dem Verbraucher. Hierbei hat PayPal keinen Zugriff auf die Bankdaten des Karteninhabers, ist jedoch für die Herstellung einer sicheren Verbindung zwischen der ausstellenden Bank und dem Kreditkarteninhaber verantwortlich. Auf diesem Weg identifiziert sich der Verbraucher als rechtmäßiger Inhaber der Kreditkarte, die dem PayPal-Konto hinzugefügt werden soll. Verkäufer, die die PayPal-Kaufabwicklung in ihren Online-Shops anbieten, müssen nichts weiter unternehmen. PayPal wird 3D Secure einführen, sobald die entsprechenden Vorschriften wirksam werden. Nachdem der Verbraucher seine Kreditkarte dem PayPal-Konto hinzugefügt hat, werden Transaktionen nur im Ausnahmefall als ausreichend riskant eingestuft, um diese strengere Prüfung auszulösen. Zu solchen Ausnahmen zählen Transaktionen, bei denen das Risiko durch 3D Secure minimiert werden kann. Statt solche Zahlungen vorweg abzulehnen, schalten wir das 3D Secure-System ein und fordern die ausstellende Bank auf, eine Authentifizierung des Verbrauchers durchzuführen. Einer der Vorteile der PayPal-Kaufabwicklung ist die zuverlässige Unterscheidung zwischen legitimen und fragwürdigen Transaktionen. PayPal kann sicherstellen, dass 3D Secure nur im Bedarfsfall eingesetzt wird, und dass der Großteil Ihrer Kunden ungestört einkaufen kann. Wir sind zuversichtlich, dass dieser Prozess durch Maximierung der Anzahl von legitimen, genehmigten Transaktionen langfristig eine Steigerung Ihrer Umsätze ermöglichen wird.
-
+###
 Welche Auswirkungen hat 3D Secure auf mein Unternehmen?
 Wir rechnen mit einer Umsatzsteigerung bei Transaktionen, die zuvor wegen übermäßigem Risiko abgelehnt wurden. Mit einer Zunahme von Rückbuchungen ist dagegen nicht zu rechnen, da bei der Nutzung von 3D Secure die Haftung für nicht genehmigte Zahlungen bei Zahlungen, auf die das 3D-Secure Verfahren angewandt wurde, vom Verkäufer auf die ausstellende Bank übergeht. Es ist aber auch möglich, dass ein bestimmter Anteil der Kunden den 3D Secure-Code vergisst und daher die Transaktion abbricht. Wirklich wichtig ist jedoch, dass die 3D Secure-Prüfung Betrüger entmutigen wird. Unsere Erfahrung zeigt, dass Verkäufer dank solcher Maßnahmen höhere Konversionsraten erzielen und ihren Kunden mit PayPal ein noch besseres Online-Zahlungssystem anbieten können.
-
+###
 Muss ich selbst irgendetwas unternehmen?
 Nein. Falls Ihre Kunden nicht bezahlen können, weil sie den Code ihrer Kreditkarte vergessen haben, verweisen Sie sie auf den „Passwort vergessen Link“ innerhalb des 3D-Sicherheits-Fensters oder an die ausstellende Bank. Sie müssen nichts weiter tun. 3D Secure ist nur eine von vielen Sicherheitsprüfungen, die wir nutzen, um Sie und Ihren Käufer zu schützen.
-
+###
 Welche neuen Vorteile habe ich, wenn einer meiner Kunden mit PayPal bezahlt?
 Wenn Ihre Kunden mit PayPal bezahlen, profitieren Sie dank 3D Secure von mehr Sicherheit, ohne diese Prüfung selbst implementieren zu müssen, und ohne eigene Richtlinien für den Einsatz der Prüfung zu erstellen. Wir sind überzeugt, dass Ihre Kunden sich sicherer fühlen werden, wenn 3D Secure sich nach und nach in Europa und weltweit als neue Norm durchsetzt. Für Sie ändert sich praktisch nichts: PayPal wird weiterhin dafür sorgen, dass Ihre Kunden bequem, einfach und sicher im Internet bezahlen können. Wenn es einmal ein Problem gibt, kümmern wir uns im Rahmen unseres umfassenden Käufer- und Verkäuferschutzes um die Lösung. 3D Secure hat keine Auswirkungen auf diese bewährte Praxis.
-
+###
 Kann ich PayPal auf meiner Website auch weiterhin ohne 3D Secure nutzen?
 Nein, die Authentifizierung durch die ausstellende Bank ist in bestimmten Situationen europaweit vorgeschrieben – etwa beim Hinterlegen einer Kreditkarte in ein E-Wallet (z.B. PayPal) oder bei riskanten Transaktionen. Wir tun jedoch alles dafür, dass sich unser Einsatz der 3D Secure-Technologie nicht negativ auf Ihre Umsätze auswirkt. Wir verfügen über sehr viel Erfahrung bei der Unterscheidung zwischen legitimen und fragwürdigen Transaktionen, wodurch wir einen unnötigen Einsatz von 3D Secure minimieren können. Außerdem wird 3D Secure schon bald europäischer Standard sein. Die Kunden werden sich also daran gewöhnen und bei allen Kartenzahlungen im Internet mit einer weiteren Sicherheitsabfrage rechnen.
-
+###
 Kann ich einem Kunden, der Schwierigkeiten mit dem neuen 3D Secure-System in seinem PayPal-Konto hat, beim Abschluss der Zahlung helfen?
 Sie können es versuchen, aber denken Sie daran, dass nur der Kunde und die ausstellende Bank den 3D Secure-Code kennen dürfen. Falls Ihr Käufer den Code vergessen hat, muss er während der 3D Secure-Prüfung auf den "Passwort vergessen"-Link klicken oder den Code von seiner Bank zurücksetzen lassen. In allen anderen Fällen empfehlen wir, den Verbraucher an unseren Kundenservice zu verweisen. Unsere Mitarbeiter können alternative Zahlungslösungen oder Authentifizierungsmethoden empfehlen, damit der Kunde die Transaktion abschließen kann.
-
+###
 Ändert sich mit der Einführung von 3D Secure etwas an meinem Verkäuferschutz?
 Nein. Ihre Rechte ändern sich nicht. Wir gehen davon aus, dass Sie mit der neuen Sicherheitsmaßnahme mehr Umsatz, zufriedenere Kunden und bessere Bewertungen haben werden.
+###

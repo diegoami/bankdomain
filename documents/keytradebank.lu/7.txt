@@ -1,4 +1,4 @@
-
+###
 Auf welchen Märkten kann ich investieren?
 Sie haben direkten Zugang zu den wichtigsten europäischen Finanzplätzen wie der Schweizer Börse (SWX), Xetra Frankfurt, Euronext Paris, Euronext Brüssel, Euronext Amsterdam, sowie den Börsen London, Mailand, Madrid, Helsinki, Stockholm und Kopenhagen.
 
@@ -10,7 +10,7 @@ Des Weiteren haben Sie Zugang zum Handel mit Fonds und Anleihen.
 
 Nähere Informationen zu den verschiedenen Börsenplätzen erhalten Sie über die Marktregeln.
 
-
+###
 Was sind Echtzeitkurse und kann ich diese selbst anfordern?
 Der Vorteil von Echtzeitkursen ist die unmittelbare Abbildung der Marktsituation. Sie sehen die besten Verkaufs- und Kaufkurse des Marktes.
 
@@ -30,8 +30,7 @@ Es existieren sechs Marktgruppen, für die Sie Echtzeitkurse abrufen können:
 
 Wenn Sie die Option Echtzeit" aktiviert haben, überprüfen wir am Ende jedes Kalendermonats, ob Sie mindestens 3 Transaktionen in der betreffenden Marktgruppe getätigt haben und stornieren gegebenenfalls die Gebühren für die Wiedergabe von Echtzeitkursen.
 Andernfalls werden die Gebühren automatisch von Ihrem gewählten Wertpapierkonto abgebucht. Echtzeitkurse sind für die Börsen von Madrid und Kanada nicht verfügbar.
-
-
+###
 Unter welchen Voraussetzungen erfolgt ein Währungsumtausch?
 Sollte bei der Generierung der Aufstellung (Geschäftstag nach dem Ausführungsdatum auf dem Markt) des Konto einer der beiden Währungen einen negativen Saldo aufweisen, wird der Negativbetrag automatisch mithilfe des positiven Saldos der anderen Währung ausgeglichen. Zunächst erfolgt jedoch der Ausdruck der Aufstellung.
 
@@ -39,6 +38,8 @@ Wenn Sie den Wechselkurs des US-Dollars und / oder des Euros für einen Kauf ode
 
 Falls Sie Ihre US-Dollar in Euro oder umgekehrt wechseln möchten, senden Sie uns Ihre Anfrage per E-Mail an: info@keytradebank.lu. Bitte geben Sie in der E-Mail Ihren Namen, Ihre Kontonummer (6 Ziffern) und den Betrag an, den Sie konvertieren möchten.
 
+###
+Könnten Sie Beispiele für Kurse in Echtzeit vorführen?
 
 Beispiel für Kurse in Echtzeit: Herr Müller führt ein Wertpapierkonto und had Kurse in Echtzeit aktiviert. Welche Situationen können sich ergeben?
 Herr Müller kann die Option Kurse in Echtzeit" pro Marktgruppe aktivieren.
@@ -79,35 +80,4 @@ Herr und Frau Müller haben beide jeweils ein Login, mit dem sie Zugang zu demse
 Am 3. Januar aktivieren sie jeweils getrennt voneinander Echtzeitkurse für die amerikanischen Märkte. Herr Müller tätigt 4 Transaktionen an der NYSE, die alle vier im Januar ausgeführt werden. Frau Müller hat ebenfalls 1 Transaktion an der AMEX getätigt.
 Im Januar werden somit für dieses Wertpapierkonto 5 Transaktionen an den amerikanischen Finanzmärkten ausgeführt.
 Das bedeutet, dass Ende Januar keinerlei Gebühren für Echtzeitkurse an den amerikanischen Märkten anfallen.
-
-
-What is a Legal Entity Identifier ?
-
-
-
-A Legal Entity Identifier (LEI) is a 20-character alphanumeric code, linked to key reference information: it enables legal entities participating in financial transactions to be clearly and uniquely identified throughout the world.
-
-The LEI is a requirement coming from the revised European Union (EU) Directive regarding Markets in Financial Instruments (MiFID II) and its associated Regulation (MIFIR), as well as the European Market Infrastructure Regulation (EMIR) which obliges banks to declare to their control authority financial instruments transactions of its clients by identifying its client companies or non-profit organisations, notably by their LEI. This requirement for identification applies to purchase and selling transactions (including outside the stock exchange), transfer of securities, etc.
-
-
-
-How can I get an LEI?
-
-Apply for one via the following issuing organisations: https://www.gleif.org/en/about-lei/how-to-get-an-lei-find-lei-issuing-organizations
-
-Once the application is approved with the issuing organisation, you will receive your LEI by email and it will then be listed in the global LEI data base (Global LEI Foundation or GLEIF).
-Please kindly note that it may take up to two weeks for the issuing organisation to issue and communicate your LEI.
-
-
-Do I need an LEI?
-
-If you are the representative of a company or of a non-profit organisation that has a trading account with Keytrade Bank Luxembourg and are willing to continue executing transactions on financial instruments (stocks, trackers, etc) after 1st  January 2018 on behalf of your company or non-profit organisation, then yes, your company / non-profit organisation needs an LEI.
-The only instruments that are out of scope are funds (non-tradable on an exchange).
-
-
-How can I get an LEI?
-
-Apply for one via the following issuing organisations: https://www.gleif.org/en/about-lei/how-to-get-an-lei-find-lei-issuing-organizations
-
-Once the application is approved with the issuing organisation, you will receive your LEI by email and it will then be listed in the global LEI data base (Global LEI Foundation or GLEIF).
-Please kindly note that it may take up to two weeks for the issuing organisation to issue and communicate your LEI.
+###

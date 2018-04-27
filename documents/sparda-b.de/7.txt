@@ -1,3 +1,4 @@
+###
  Kann ich mehrere Bankverbindungen in der SpardaApp anlegen?
 
     Sie können mehrere Bankverbindungen anlegen. Egal ob bei einer oder mehreren Sparda-Banken. Wir empfehlen, eindeutige Namen für die Bankverbindung zu vergeben.
@@ -5,13 +6,13 @@
      Ist es möglich, die SecureApp und die BankingApp auf dem gleichen Smartphone zu verwenden?
 
         Ja, Sie können die SecureApp und die SpardaApp auf einem Endgerät verwenden.
-
+###
  Warum erhalte ich den Fehlerhinweis "Zertifikat ungültig"?
 
     Das Zertifikat für Ihre StarMoney-Version ist mittlerweile veraltet und wurde nicht erneuert.
 
     Bitte nehmen Sie ein Update auf die aktuelle Version von StarMoney vor.
-
+###
  Woher weiß ich, dass meine Dateneingaben nicht missbraucht werden?
 
     Berechtigterweise sollten Sie darauf achten, die Zugangsdaten Ihres Online-Banking-Zugangs nur in vertrauenswürdige Internetseiten eingeben, um zu verhindern, dass Dritte unzulässiger Weise auf Ihr Online-Banking zugreifen können. Beachten Sie hier bitte folgende Hinweise:
@@ -45,18 +46,18 @@
 
 
 
-
+###
 Was kann ich tun, wenn ich noch keine Freischaltung für das Online-Banking habe?
 
     Wenn Sie noch keinen Online-Banking-Zugang haben, schreiben Sie uns über unser Kontaktformular hier auf der Homepage und wählen das Thema „Online-/Mobile-Banking“ aus. Alternativ können Sie Ihre Zugangsdaten auch direkt in der Filiale oder telefonisch beantragen.
 
-
+###
 
 Kann ich Lastschriften über die SpardaApp zurückgeben?
 
     Ja. Alle rückgabefähigen Lastschriften sind in der Umsatzanzeige mit einem grünen Fähnchen markiert. Nachdem Sie die gewünschte Lastschrift ausgewählt haben, können Sie diese mit dem Button "Rückgabe" zurückgeben.
 
-
+###
  Ich besitze schon einen TAN-Generator. Kann ich diesen auch für das SpardaNet-Banking nutzen?
 
     Ja, wenn dieser den HHD-Standard 1.4. unterstützt. Sie können in der Bedienungsanleitung nachlesen oder beim Hersteller nachfragen, ob Ihr Gerät diesem Standard entspricht.
@@ -65,7 +66,7 @@ Kann ich Lastschriften über die SpardaApp zurückgeben?
     Probieren Sie im Online-Banking einfach aus, ob Ihr Gerät funktioniert. Bei der Aktivierung wird geprüft, ob Ihr TAN-Generator kompatibel ist.
 
 
-
+###
 Warum erscheint die Fehlermeldung "Sie haben zu lange keine Eingaben getätigt“?
 
     Dieser Fehlerhinweis erscheint im SpardaNet-Banking nach 10 Minuten ohne Eingabe. Aus Sicherheitsgründen wird die Verbindung nach diesem Zeitraum getrennt.
@@ -73,7 +74,7 @@ Warum erscheint die Fehlermeldung "Sie haben zu lange keine Eingaben getätigt�
     Sobald Sie eine Eingabe vornehmen oder einen anderen Menüpunkt auswählen, wird die Zeit bis zur automatischen Trennung wieder auf 10 Minuten zurückgesetzt. Die noch verbleibende Zeit wird Ihnen am oberen Rand in Form eines Countdowns angezeigt.
 
     Sollte der Fehlerhinweis früher auftreten, kann dies z.B. an einem Proxy Cluster oder Ihrem Netzwerk liegen. Dies tritt unter anderem bei Firmen-Proxies auf, die wechselnde IP-Adressen vergeben. Dadurch kann es sein, dass Sie auf unterschiedliche Server geleitet werden, welchen Ihre Sitzungsdaten nicht bekannt sind. Bitte wenden Sie sich in diesem Fall mit der Problembeschreibung an den Netzwerkadministrator in ihrer Firma.
-
+###
 
  Wie kann ich von der Startseite direkt auf meine Kontoauszüge zugreifen?
 
@@ -89,22 +90,22 @@ Warum erscheint die Fehlermeldung "Sie haben zu lange keine Eingaben getätigt�
         Der Button "Kontoauszüge" erscheint.
         Ziehen Sie nun mit der Maus diesen Button an die erste Stelle der Liste.
         Ab sofort erscheint auf Ihrer Startseite nun stets der Punkt "Kontoauszüge".
-
+###
  Kann die SecureApp auch für Finanzsoftware genutzt werden?
 
     Nein, aktuell ist die SecureApp nicht für die Nutzung in einer Finanzsoftware freigegeben.
-
+###
  Woher bekomme ich IBAN und BIC des Empfängers?
 
     Für die Erfassung einer Überweisung ist die IBAN des Empfängers zwingend erforderlich. Diese finden Sie z.B. auf der Rechnung, dem Überweisungsbeleg oder Sie erhalten sie vom Empfänger.
 
-
+###
 
 Was ist die Foto-Überweisung?
 
     Bei der Foto-Überweisung werden abfotografierte Rechnungen/Überweisungsträger/DIN A4-Überweisungsträger ausgelesen und in Texte zur automatischen Befüllung des Überweisungsformulars gewandelt. Der Vorteil für den Nutzer besteht darin, dass Inhalte aus Rechnungen oder Überweisungsträgern nicht mehr manuell in das Überweisungsformular eingetragen werden müssen.
 
-
+###
 
 Wie melde ich mich vom Verfahren ab?
 
@@ -116,7 +117,7 @@ Wie melde ich mich vom Verfahren ab?
 
     Ja, die Möglichkeit besteht.
     Sie können das chipTAN-Verfahren in den gängigen Banking-Software-Produkten (Homebanking) ohne Einschränkung benutzen.
-
+###
  Warum erhalte ich beim Öffnen der Kontoauszüge ein leeres Blatt?
 
     Überprüfen Sie, ob ein PopUp-Killer oder ein Browser mit integriertem PopUp-Blocker installiert ist. Falls ja, deaktivieren Sie diesen.
@@ -129,24 +130,26 @@ Wie melde ich mich vom Verfahren ab?
 
     Ein Öffnen direkt über die Funktion "Datei öffnen" im Adobe Reader sollte jetzt problemlos möglich sein.
 
-
+###
 Kann der selbstgewählte Gerätename geändert werden?
 
     Aktuell kann der von Ihnen selbstgewählte Gerätename nicht geändert werden. Wir arbeiten an einer Lösung und hoffen, Ihnen diesen Service bald anbieten zu können.
 
-
+###
 
 Welche Transaktionsfreigabeverfahren stehen in der SpardaApp zur Verfügung?
 
     Neben der mobileTAN sowie der Chip-Tan besteht in der neuen Version der SpardaApp auch die Möglichkeit zur Transaktionsfreigabe per SpardaSecureApp. Bitte beachten Sie dabei, dass die SpardaSecureApp zuvor über das Netbanking freigeschaltet werden muss.
-
+###
  Wo sehe ich meine ausgewählte IBAN und den Kontostand?
 
     Innerhalb eines Vorgangs stehen Ihnen am rechten Rand weitere Informationen zur Verfügung. Das "i" bietet Ihnen Kontoinformationen, das "?" signalisiert Hilfestellung.
 
     Durch einen Klick auf das "i" werden Ihnen die aktuelle IBAN und der Kontosaldo angezeigt.
 
-
+###
  Wofür benötigt die SpardaApp den Zugriff auf die Kamera-Funktion?
 
     Innerhalb von Überweisungen besteht die Möglichkeit, per Bezahlcode-Funktion die Felder der Überweisung automatisch vorbelegen zu lassen. Da ein Bezahlcode von Rechnungen abfotografiert werden kann, benötigt die SpardaApp Zugriff auf die Kamera-Funktion Ihres Smartphones.
+
+###

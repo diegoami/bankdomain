@@ -1,3 +1,4 @@
+###
 Wie kann ich beim chipTAN-Verfahren die Größe und Taktfrequenz des Leuchtfeldes permanent auf die Größe meines chipTAN-Generators einstellen?
 
 
@@ -7,7 +8,7 @@ Ihre Änderungen an der Größe und Taktfrequenz der Flickergrafik bleiben autom
 Sie brauchen dazu nichts weiter zu tun.
 
 Löschen Sie allerdings Ihre Cookies wieder, ist auch die Einstellung zur Flickergrafik davon betroffen. Danach sind wieder unsere Standardeinstellungen aktiv.
-
+###
 
 Was ist chipTAN comfort?
 
@@ -23,47 +24,47 @@ Beim chipTAN comfort-Verfahren nutzen Sie für Ihre Transaktionen einen Kartenle
     Die wichtigsten Auftragsdaten werden auf dem TAN-Generator angezeigt. Sie können also vor Eingabe der TAN überprüfen, ob alle Daten korrekt sind.
 
 
-
+###
 Was brauche ich, um chipTAN comfort nutzen zu können?
 
 
 
 Für das chipTAN comfort-Verfahren benötigen Sie außer einer Postbank Card (Debitkarte) mit Chip einen chipTAN-Generator. Dieses Gerät erzeugt im Zusammenspiel mit Ihrer Postbank Card (Debitkarte) und dem Online-Banking eine TAN, die nur für kurze Zeit gültig ist.
 
-
+###
 Wie lange dauert die Bestellung eines chipTAN-Generators?
 
 
 
 In der Regel dauert es wenige Tage, bis der chipTAN-Generator bei Ihnen eintrifft. Sie werden nach der Online-Bestellung per E-Mail informiert, wenn der Hersteller das Gerät versendet.
 
-
+###
 Ich habe meinen chipTAN-Generator verloren/verlegt. Muss ich jetzt mein Konto/meine Karte sperren?
 
 
 
 Da der chipTAN-Generator selbst keine sicherheitsrelevanten Daten enthält, brauchen Sie weder Ihr Konto noch Ihre Karte zu sperren. Einen neuen chipTAN-Generator können Sie hier bestellen.
-
+###
 Ich habe ein Gemeinschaftskonto. Kann ich auch das chipTAN comfort-Verfahren nutzen?
 
 
 
 Natürlich, insofern Sie im Besitz einer für dieses Konto gültigen Postbank Card (Debitkarte) mit Chip sind.
 
-
+###
 Kann ich Postbank BestSign, chipTAN comfort und mobileTAN parallel nutzen?
 
 
 
 Ja. Für Nutzer der mobileTAN bietet sich die zusätzliche Aktivierung von Postbank BestSign vor allem dann an, wenn sie einen ausländischen Handyprovider haben oder in Gebieten mit gestörtem Handyempfang ("Funkloch") unterwegs sind.
 
-
+###
 Wie kann man das ChipTAN-Verfahren der Postbank aktivieren?
 
 
 
 Alle Informationen zum ChipTAN-Verfahren - wie man es freischaltet, wie man einen TAN-Generator kaufen kann usw. - findet man hier.
-
+###
 Kann ich im Online-Brokerage mit dem chipTAN-Verfahren arbeiten?
 
 
@@ -73,7 +74,7 @@ Ja, das geht unter gewissen Voraussetzungen durchaus.
 Besitzen Sie ein Postbank Girokonto und haben Ihre Postbank Card (Debitkarte) im Online-Banking für das chipTAN-Verfahren aktiviert, können Sie diese Karte auch im Online-Brokerage nutzen.
 
 Klicken Sie dazu einfach im Online-Brokerage unter „Service" - "Sicherheitseinstellungen" - "chipTAN konfigurieren" die gewünschte Karte an. Danach klicken Sie auf „Auswahl speichern“. Nun ist es einsatzbereit.
-
+###
 Ich möchte zwei TAN-Generatoren für mein Konto benutzen. Wie richte ich den zweiten Generator ein, sodass ich beide verwenden kann?
 
 
@@ -85,13 +86,13 @@ Daher können Sie ohne weiteres verschiedene TAN-Generatoren einsetzen. Einschr�
 Bitte verwenden Sie entweder von Kobil den TAN Optimus comfort oder den OpTan touch. Von Reiner SCT können Sie entweder den tanJack optic SR oder den tanJack optic SX nutzen.
 
 Generatoren anderer Hersteller sind nicht getestet und über deren Nutzbarkeit liegen uns keine Informationen vor.
-
+###
 Ich möchte verschiedene TAN-Generatoren nutzen.
 
 
 
 Ja, das ist möglich. Allerdings sollten nur Geräte mit Version 1.3.x oder 1.4 genutzt werden. Sonst ist nach einem Gerätewechsel eine Änderungen in den Einstellungen des Online-Bankings notwendig. Die Postbank bietet nur Geräte mit Version 1.4 an.
-
+###
 Wenn ich eine neue Postbank Card (Debitkarte) bekomme, muß ich diese erneut für das chipTAN Verfahren aktivieren?
 
 
@@ -104,7 +105,7 @@ bekommen haben.
 
 
 Als Faustregel gilt: Solange Ihre Karte noch mit der gleichen PIN ausgestattet ist, brauchen Sie die Karte nicht erneut aktivieren. Bekommen Sie zu Ihrer Karte eine neue PIN, müssen Sie die Karte im Online-Banking erneut aktivieren.
-
+###
 Kann im Online-Banking der Postbank die Reihenfolge der TAN-Verfahren geändert werden, wenn mehrere davon aktiviert sind?
 
 
@@ -113,13 +114,13 @@ Nein, eine favorisierte Einstellung eines aktivierten TAN-Verfahrens ist nicht m
 
 Wir haben bei der Auswahl der TAN-Verfahren das am häufigsten genutzte Verfahren vorangestellt.
 
-
+###
 Ich habe mehrere Konten bei der Postbank, kann ich einen TAN-Generator für alle Konten nutzen?
 
 
 
 Ja, Sie benötigen nur einen TAN-Generator.
-
+###
 Wie kann ich beim chipTAN-Verfahren die Blinkgeschwindigkeit des Flickercodes ändern?
 
 
@@ -129,7 +130,7 @@ Klicken Sie zum Ändern der Flickergeschwindigkeit auf den äußerst linken wei�
 Mit jedem Klick auf den äußerst rechten weißen Balken der Flickergrafik wird die Geschwindigkeit wieder um 5% erhöht.
 
 Mit einer Flickergeschwindigkeit zwischen 65% und 90% haben wir und unsere Kunden sehr gute Erfahrungen gemacht.
-
+###
 An wen wende ich mich bei Problemen mit ChipTAN, z.B. bei der Anmeldung?
 
 
@@ -141,14 +142,14 @@ Alternativ können Sie  sich über unser Kontaktformular mit uns in Verbindung s
 Wichtig:
 
 Da die Freischaltung eines TAN-Verfahrens immer auch einen Blick in die Kontodaten erfordert, können wir im Portal "Fragen und Antworten" hier nicht direkt weiterhelfen.
-
+###
 Kann ich den chipTAN-Generator für den neuen elektronischen Personalausweis nutzen?
 
 
 
 Nein, für den Personalausweis benötigen Sie ein an den PC anschließbares Gerät, dass über eine kontaktlose Schnittstelle verfügt.
 Der TAN-Generator ist hiermit nicht ausgerüstet und kann daher nicht für den neuen elektronischen Personalausweis genutzt werden.
-
+###
 Wie kann ich beim Chip-TAN-Verfahren die Größe und Taktfrequenz des Leuchtfeldes permanent auf die Größe meines Chip-TAN-Generators einstellen ?
 
 
@@ -157,7 +158,7 @@ Die Größe und Taktfrequenz der Flickergrafik bleibt mit Hilfe eines Cookies au
 
 Wenn Javascript im genutzten Browser deaktiviert ist, wird die Flickergrafik als GIF-Datei dargestellt. In diesem Fall kann die Blinkfrequenz nicht verändert werden.
 
-
+###
 Was muss ich beachten, wenn ich die chipTAN comfort mit einer Banking-Software nutzen will?
 
 
@@ -178,7 +179,7 @@ Ist in Ihrem Finanzprogramm die manuelle Eingabe des TAN Mediums/der TAN Bezeich
     mT:Frank
     SO:Lisa
     
-    
+###
 Wie kann ich "StarMoney" (ab Version 7.0) / "StarMoney Business" (ab Version 4.0) für chipTAN comfort einrichten?
 
 
@@ -197,5 +198,6 @@ Hinweis: Um den aktuellsten chipTAN Standard in Ihrem Banking Programm zu nutzen
 Die Postbank unterstützt das chipTAN Verfahren ab dem ZKA Standard HHD 1.3.2.
 
 Welche Version (HHD 1.3.2 oder HHD 1.4) Ihr TAN-Generator unterstützt und welche Einstellung der "TAN-Generierung“ (optisch oder manuell) bei Ihrem Postbank Girokonto hinterlegt ist, können Sie im Postbank Online-Banking unter "Einstellungen" - "chipTAN-Karten verwalten", "grünes Symbol hinter der Karte anklicken" prüfen und ggf. ändern.
+###
 
     

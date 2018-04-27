@@ -1,11 +1,11 @@
-
+###
 Eine bestimmte Aktie wurde gestern in einem Anlagethema aufgeführt, ist heute aber nicht mehr enthalten!
 Zu allen Wertpapieren erhalten wir täglich tausende neuer Daten (Ergebnisse, neue Perspektiven, Analystenmeinungen, ...), aus denen wir neue Analysen (technische und Fundamentalanalysen) erstellen. Aus den neuen Ergebnissen können sich neue Ideen entwickeln; sie können aber auch dazu führen, dass bestimmte Wertpapiere aus einem Anlagethema gestrichen werden.
 
 Jedes Themenverzeichnis kann sich somit täglich verändern, indem entweder neue Wertpapiere aufgenommen oder vorhandene Aktien entfernt werden. Um also keine Informationen Ihres Anlagethemas zu verpassen, sollten Sie es täglich überprüfen.
 
 
-
+###
 Der Stock Screener zeigt kein Ergebnis an.
 Einige Ihrer Auswahlkriterien sind wahrscheinlich zu restriktiv. Überprüfen Sie die von Ihnen eingegebenen Auswahlkriterien und korrigieren Sie diese gegebenenfalls.
 
@@ -15,20 +15,21 @@ Die für diese Anlagethemen verwendeten Auswahlkriterien sind sehr restriktiv. U
 
 Die Ergebnisse der Anlagethemen werden täglich aktualisiert. Um also keine Informationen bezüglich des von Ihnen ausgewählten Anlagethema zu verpassen, sollten Sie das Ideen-Center täglich überprüfen.
 
-
+###
 Was bietet Ihnen das Ideen-Center?
 Im Ideen-Center stehen SEINE drei einzigartige Finanztools zur Verfügung, mit denen Sie Aktien einfach vergleichen können.
 
 Zugang zu den drei spezifischen Tools erhalten Sie über die drei folgenden Registerkarten: Anlagethemen, Global Watchlist und  Stock Screener Wizard.
 
-
+###
 Das Auswahlverzeichnis enthält verschiedene Kennziffern, für die keine Angaben vorliegen und deren Wert gleich 0 ist. Liegt dies an einem Fehler im System?
 Keytrade Bank Luxembourg erhält Ihre Daten von renommierten Quellen für Finanzinformationen (unter anderem Reuters). Auf diese Weise können wir Ihnen gleichzeitig die Unabhängigkeit und die Genauigkeit der zur Verfügung gestellten Daten garantieren.
 
 Es kann jedoch der Fall eintreten, dass bestimmte kleinere Gesellschaften von den Analysten nicht mit der gleichen Detailtreue bewertet werden und uns folglich nicht alle Daten zu Geschäftsergebnis, Dividenden oder Sonstigem vorliegen.
 
-
+###
 Ich habe eine Aktie gekauft, die im Verzeichnis eines Anlagethemas aufgeführt wurde, deren Kurs nun aber eingebrochen ist! War die Aktie letztlich doch keine interessante Anlagemöglichkeit?
 Die in unseren Anlagethemen enthaltenen Verzeichnisse können nicht als Garantie für eine positive Entwicklung der angegebenen Aktienkurse angesehen werden. Statt einer Anlageberatung oder einer Einschätzung sollen Ihnen diese Verzeichnisse Anlageideen vermitteln, die das Ergebnis einer äußerst strengen Auswahl darstellen, die auf der Kombination sehr begrenzter, objektiver Auswahlkriterien.
 
 Die Börsenwelt und deren Phänomene entsprechen nicht den Regeln einer genauen Wissenschaft. Was heute eine günstige Gelegenheit zu sein scheint, kann morgen das genaue Gegenteil sein!
+###

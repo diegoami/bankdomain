@@ -1,8 +1,11 @@
+###
+
 Was kann ich tun, wenn die Identitätsprüfung beim SCHUFA-BonitätsCheck fehlschlägt?
 
 
 
 Falls Ihre Identität nicht zweifelsfrei festgestellt werden konnte, wird der SCHUFA-BonitätsCheck auf dem Postweg an die Meldeadresse versendet.
+###
 
 Was ist die SCHUFA-Bonitätsauskunft?
 
@@ -13,6 +16,7 @@ Die SCHUFA-Bonitätsauskunft ist das am Markt etablierte Produkt für alle Priva
 Erster Teil: Für die Weitergabe an Dritte, mit einer reduzierten Aufstellung der für den Geschäftspartner (z. B. Vermieter) relevanten Bonitätsinformationen zu Ihrer Person. Diese enthält ausschließlich Informationen, die erforderlich sind, um Ihre finanzielle Zuverlässigkeit zu dokumentieren.
 
 Zweiter Teil: Der zweite Teil der SCHUFA-Bonitätsauskunft für Sie persönlich enthält, eine separate, detaillierte und strukturierte Übersicht über die SCHUFA-Daten zur eigenen Person. Die SCHUFA-Bonitätsauskunft wird auf Sicherheitspapier gedruckt und ist mit Kopierschutz und Wasserzeichen versehen.
+###
 
 Was ist der SCHUFA-BonitätsCheck?
 
@@ -28,6 +32,7 @@ Ihre Vorteile bestehen in
 
     und der Sicherheit durch einen Verifizierungscode.
 
+###
 
 Was ist ein SCHUFA Terminal und was kann ich da machen?
 
@@ -36,6 +41,7 @@ Was ist ein SCHUFA Terminal und was kann ich da machen?
 Das SCHUFA-Terminal ist ein Gerät an dem jeder Kunde eine Bonitätsauskunft, nach Beauftragung durch einen Kundenberater der Postbank, drucken kann. Der Ausdruck erfolgt auf speziellem Sicherheitspapier der SCHUFA. Hierzu wenden Sie sich einfach an einen Kundenberater, bei dem Sie sich einmal legitimieren (ausweisen). Dann können Sie sich Ihre persönliche Bonitätsauskunft ausdrucken lassen.
 
 Die dabei entstehenden Kosten erfragen Sie bitte direkt bei der SCHUFA.
+###
 
 Wie lange beträgt die Bearbeitungszeit beim SCHUFA-BonitätsCheck oder der SCHUFA-Bonitätsauskunft?
 
@@ -44,6 +50,7 @@ Wie lange beträgt die Bearbeitungszeit beim SCHUFA-BonitätsCheck oder der SCHU
 Die Beauftragung und Erstellung beträgt in der Regel nur wenige Minuten. Nach einer erfolgreichen Bestellung des SCHUFA-BonitätsChecks können Sie sich nach erfolgreicher Identifikation Ihr Ergebnisdokument sofort online abrufen.
 
 Die SCHUFA-Bonitätsauskunft erhalten Sie beim Kundenberater in ausgewählten Postbank Filialen. Die Filialen mit diesem Service können Sie sich über die Filialsuche anzeigen lassen (www.postbank.de/filialsuche) – wählen Sie hierfür die Checkbox „SCHUFA-Auskunft“
+###
 
 
 Wie lange sind die SCHUFA-Bonitätsauskunft oder der SCHUFA-BonitätsCheck gültig?
@@ -54,6 +61,7 @@ SCHUFA-Bonitätsauskunft und SCHUFA-BonitätsCheck haben kein Gültigkeits- bzw.
 
 Mit einem möglichst aktuellen Ausstellungsdatum kann zwischen Ihnen und bspw. Ihrem Vermieter aber die größte Vertrauensbasis geschaffen werden.
 
+###
 
 An wen wende ich mich bei Fragen zur SCHUFA-Auskunft und wie erfahre ich, welche Daten die SCHUFA über mich gespeichert hat?
 
@@ -61,6 +69,7 @@ An wen wende ich mich bei Fragen zur SCHUFA-Auskunft und wie erfahre ich, welche
 
 Bei Fragen zum SCHUFA-BonitätsCheck oder der SCHUFA-Bonitätsauskunft wenden Sie sich bitte an das SCHUFA-Serviceteam unter 0611-92780 (Mo.-Fr. von 08:00-19:00 Uhr).
 
+###
 
 Wer ist die SCHUFA?
 
@@ -70,6 +79,7 @@ Die SCHUFA Holding AG ist die führende Auskunftei in Deutschland und verfügt n
 
 Die Bereitstellung kreditrelevanter Informationen ist das Kerngeschäft der SCHUFA. Als Dienstleister und Partner im modernen Wirtschaftsleben bietet die SCHUFA ihren Vertragspartnern wie Banken, Sparkassen, Handel und weiteren Branchen die Grundlage für eine sichere Kreditvergabe. Verbrauchern ermöglicht die SCHUFA eine bequeme und kostengünstige Kreditaufnahme. Mit der SCHUFA-Auskunft für Privatpersonen schafft die SCHUFA zudem ein Höchstmaß an Transparenz zwischen Geschäftspartnern.
 
+###
 
 Wie erhalte ich Auskunft über gespeicherte Daten bei der Schufa?
 
@@ -84,6 +94,7 @@ Postfach 103441
 50474 Köln
 
 Kopien von Dokumenten, die den Sachverhalt darlegen (Quittungen, Löschungsbescheid oder ähnliches) helfen bei der schnellen Bearbeitung.
+###
 
 
 Welche Vorteile bietet die SCHUFA für Verbraucher?
@@ -97,6 +108,7 @@ Mit ihren Informationen und Prognosen leistet die SCHUFA nach eigenen Angaben pr
     beim Kauf auf Rechnung im Onlinehandel oder
     beim Abschluss eines Mobilfunkvertrages, bei dem telefoniert werden darf, bevor die Rechnung kommt.
 
+###
 
 Was soll ich tun, wenn mein Vermieter oder ein anderer Geschäftspartner (bspw. Arbeitgeber) eine "SCHUFA-Auskunft" verlangt?
 
@@ -106,6 +118,7 @@ Unter einer „SCHUFA-Auskunft“ sind die SCHUFA-Bonitätsauskunft oder der SCH
 
 Der SCHUFA-BonitätsCheck kann online bestellt werden und wird digital zur Verfügung gestellt.
 
+###
 
 Ich benötige für einen Vermieter oder Arbeitgeber eine SCHUFA-Auskunft. Welche ist die Richtige?
 
@@ -117,6 +130,7 @@ Die SCHUFA-Bonitätsauskunft besteht aus zwei Teilen. Der erste Teil ist ein bew
 
 Der SCHUFA-BonitätsCheck gibt ebenfalls Auskunft über die Bonität einer Person. Die Vorteile bestehen in der schnellen, direkten Online-Auskunft (bei erfolgreicher Identifikation).
 
+###
 
 Wie kann ich für die Bestellung einer SCHUFA-Auskunft meine Identität nachweisen?
 
@@ -127,6 +141,7 @@ Für den Identitätsnachweis bei einer Bestellung der SCHUFA-Bonitätsauskunft i
 Für die online Bestellung und Download des SCHUFA-BonitätsChecks sind ein gültiger deutscher Personalausweis und eine Bankverbindung bei einem deutschen Kreditinstitut (IBAN) erforderlich. Diese werden im Rahmen des Bestellprozesses erfragt.
 
 
+###
 
 Stimmt es, dass eine Auskunft gem. §34 BDSG einmal im Jahr kostenlos ist?
 
@@ -136,6 +151,7 @@ Mit der Datenübersicht nach §34 BDSG erfüllt die SCHUFA die gesetzlichen Grun
 
 Die Datenübersicht ist stichtagsbezogen und damit nur eine Momentaufnahme, die lediglich Ihrer persönlichen Information dient. Sie bietet keinen Schutz Ihrer Privatsphäre und sollte aus diesem Grund vertraulich behandelt werden.
 
+###
 
 Wer sind Schufa, Deltavista und Infoscore und wie arbeiten sie?
 
@@ -147,12 +163,14 @@ Die jeweils zugrundeliegenden Informationen sind unterschiedlich. Bei der SCHUFA
 
 Auf Basis dieser Informationen stellen SCHUFA, Deltavista und Infoscore z.B. im Rahmen eines vom Kunden gestellten Kreditantrags Banken Bonitätsauskünfte zur Verfügung, die bei der Beurteilung hilfreich sind, mit welcher Wahrscheinlichkeit der Kunde den Kredit zurückzahlen kann.
 
+###
 
 Wird die Umwandlung in ein P-Konto automatisch der Schufa gemeldet?
 
 
 
 Die Umwandlung in ein P-Konto wird der Schufa gemeldet. Diese Information finden Sie auch in den Antragsunterlagen.
+###
 
 Kann ich die Einwilligungserklärung für die SCHUFA auch per Fax senden?
 
@@ -161,6 +179,7 @@ Kann ich die Einwilligungserklärung für die SCHUFA auch per Fax senden?
 Nein, die Einwilligungserklärung für die SCHUFA benötigen wir im Original.
 
 Senden Sie diese bitte per Post an die Postbank. Alternativ leiten auch die Mitarbeiter unserer Filialen das Formular gern für Sie weiter.
+###
 
 Unter welcher Mail-Adresse der Postbank kann die Löschung eines Schufaeintrages beantragt werden?
 
@@ -174,9 +193,11 @@ Um einen Eintrag löschen zu lassen, können Sie folgende Wege verwenden:
 
 Alle Kontaktdaten finden Sie gesammelt hier: Privatkunden
 
+###
 
 Welche Daten werden über meinen Ratenkredit bei der Postbank an die Auskunfteien übermittelt?
 
 
 
 Es werden nur an die SCHUFA Daten über Ihren bei der Postbank abgeschlossenen Ratenkredit gemeldet. Dabei handelt es sich um Daten zur Krediteinräumung (personenbezogene Angaben zum Kreditnehmer (Name, Vorname, Geburtsdatum, Anschrift) sowie zu Rahmendaten des Kredites wie Betrag, Laufzeit und Ratenbeginn), um Daten zur Rückzahlung des Kredites (z.B. vorzeitige Rückzahlung oder Laufzeitverlängerung), um Änderungen personenbezogener Daten während des Vertrags (z.B. Adressänderungen) sowie um Daten aufgrund eines nicht vertragsgemäßen Verhaltens. Basis dieser Übermittlung ist Ihr Einverständnis mit der Übermittlung entsprechender Informationen, die Sie im Rahmen des Kreditvertrags geben.
+###

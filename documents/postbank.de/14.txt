@@ -1,3 +1,4 @@
+###
 Wie funktioniert der Cash-Recycler bei der Postbank?
 
 
@@ -16,7 +17,7 @@ Wichtig: Pro Einzahlung können Sie bis 15.000 EUR mit bis zu 140 Banknoten sowi
 
 Einzahlungen werden taggleich auf dem Konto verbucht. Für Privatkunden ist dieser Service kostenlos.
 
-
+###
 Kann ich in den Postbank-Filialen Münzrollen bekommen? Und wenn ja, wie hoch sind die Kosten?
 
 
@@ -29,7 +30,7 @@ Nicht jede Filiale hat immer einen entsprechenden Vorrat an Münzrollen zur Verf
 
 Sie können das Rollenpapier natürlich auch über den Fachhandel bzw. Einzelhandel beziehen.
 
-
+###
 
 Kann man bei der Postbank Goldmünzen oder Goldbarren kaufen bzw. verkaufen?
 
@@ -38,13 +39,13 @@ Kann man bei der Postbank Goldmünzen oder Goldbarren kaufen bzw. verkaufen?
 Nein, wir bietet keinen Goldan- und verkauf mehr an.
 
 Die Postbank hat sich aus geschäftspolitischen Gründen und aufgrund einer stark gesunkenen Nachfrage dazu entschieden, das Geschäft einzustellen.
-
+###
 Kann man in den Postbankfilialen Geldscheine gegen Münzen (oder umgekehrt) wechseln?
 
 
 
 Nein, die Postbankfilialen führen keinen Geldwechsel durch.
-
+###
 Gibt es bei einem Geschäftskonto für die Einzahlung von Münzrollen in den Postbankfilialen eine Obergrenze?
 
 
@@ -52,7 +53,7 @@ Gibt es bei einem Geschäftskonto für die Einzahlung von Münzrollen in den Pos
 Ja, für Gewerbekunden ist die Menge der Münzgeldrollen, die eingezahlt werden dürfen, auf zehn Stück begrenzt.
 
 Gestattet ist nur das Einzahlen von Münzgeldrollen, nicht jedoch, Münzgeldrollen in ein anderes Geldformat zu tauschen oder einzuwechseln.
-
+###
 Ist es möglich, für eine Barabhebung in den Filialen unbenutzte Euro-Münzen vorzubestellen.
 
 
@@ -60,13 +61,13 @@ Ist es möglich, für eine Barabhebung in den Filialen unbenutzte Euro-Münzen v
 Nein, auf den Zustand (alt/neu) der Zulieferung von Münzen hat die Filiale keinen Einfluss.
 
 Gerne können Sie bei einem persönlichen Besuch in der Filiale Münzgeld bestellen bzw. abholen.
-
+###
 Was bedeutet der Hinweis: "Cash Recycler ohne Münzbeisteller"?
 
 
 
 Die Einzahlungsautomaten ohne Münzbeisteller sind nur für Banknoten geeignet und nehmen kein Münzgeld entgegen.
-
+###
 Wieviele Rollen Hartgeld kann ich täglich in der Filiale auf mein Konto einzahlen?
 
 
@@ -76,7 +77,7 @@ In der Regel können Sie in den Postbank Finanzcentern bis zu 10 Rollen täglich
 Wichtig: Nach unserer Geschäftsordnung müssen die Filialen ihren Bargeldbestand eigenverantwortlich planen und verwalten. Erfahrungswerte bilden die Grundlage für den Vorrat an Rollen und Geldscheinen.
 
 Aus diesem Grund kann Ihr Wunsch nicht immer erfüllt werden. Es ist ratsam, sich vorher in der entsprechenden Filiale zu erkundigen.
-
+###
 Kann in Postbankfilialen auch Münzgeld gegen Scheine getauscht werden?
 
 
@@ -85,8 +86,6 @@ Nein, grundsätzlich ist der Umtausch von Münzgeld gegen Scheine (oder umgekehr
 
 
 Kann ich Münzenrollenpapier-Vorlagen aus dem Internet ausdrucken, das Kleingeld darin einrollen und dann in einer Filiale abgeben?
-
-
 
 Eine selbstgebastelte Münzrollenvorlage aus dem Internet auszudrucken, dürfte nicht genügen. Die Filialen nehmen nur Rollen mit korrekten Aufdrucken an.
 

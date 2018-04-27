@@ -1,3 +1,4 @@
+###
 Wie mache ich eine Überweisung?
 
 
@@ -17,7 +18,7 @@ Sie können Ihre Überweisung bei der Postbank
 
 ***für Überweisungen innerhalb des Europäischen Wirstschaftsraumes (EWR) mit IBAN und BIC
 
-
+###
 Wie kann ich ins Ausland überweisen?
 
 
@@ -28,7 +29,7 @@ Oder nutzen Sie bereits das Postbank Online-Banking? Auch hier können Sie jeder
 
 Sie nehmen am Postbank Telefon-Banking teil? Dann können Sie uns Ihren Auftrag auch telefonisch erteilen.  Die Rufnummer 0228 5500 5500 ist Rund um die Uhr für Sie erreichbar. Halten Sie Ihre PIN dazu bereit.
 
-
+###
 Auf meinem Kontoauszug steht bei einer Überweisung "not provided". Was bedeutet das?
 
 
@@ -36,7 +37,7 @@ Auf meinem Kontoauszug steht bei einer Überweisung "not provided". Was bedeutet
 Bei SEPA-Überweisungen kann der Auftraggeber eine Referenznummer angeben. Diese Referenznummer vereinfacht sowohl beim Auftraggeber wie auch beim Empfänger eine Zuordnung der Zahlung. In der Regel wird dieses von "Großkunden" genutzt.
 
 Wenn keine Referenznummer angegeben ist, wird diese Leerzeile automatisch mit "NOTPROVIDED" gefüllt. Übersetzt bedeutet das "nicht angegeben". Auf Ihre Zahlung bzw. den Erhalt Ihrer Zahlung hat dieser Hinweis keinen Einfluss.
-
+###
 Wie kann ich im Telefon-Banking der Postbank eine Überweisung tätigen?
 
 
@@ -48,14 +49,14 @@ Auch Terminüberweisungen und Überweisungen mit einer kostenpflichtigen Buchung
 Bitte beachten Sie:
 Sie benötigen unbedingt die IBAN! Bei der Eingabe von Inlandsüberweisungen können Sie das DE weglassen.
 
-
+###
 Ich habe eine Überweisungsvorlage im Telefon-Banking angelegt. Kann ich diese nur im Telefon-Banking verwenden?
 
 
 
 Sie können Ihre Überweisungsvorlagen sowohl im Telefon-Banking als auch im Online-Banking nutzen, egal wo Sie diese angelegt haben
 
-
+###
 Warum erhöht die Postbank ab dem 01.01.2018 die Preise für Auslandsüberweisungen?
 
 
@@ -65,7 +66,7 @@ Die Postbank ändert die Preise für Auslandsüberweisungen. SEPA-Überweisungen
 Das Bearbeiten dieser Überweisungen ist besonders aufwendig. Auch nach der Anpassung der Preise sind diese Überweisungen bei der Postbank günstig.
 
 *Für eine SEPA-Überweisung müssen folgende Voraussetzungen erfüllt sein: Die Angabe der IBAN, Auftrags- und Zielwährung in Euro, Entgelt- und Kostenregelung -Share-.
-
+###
 Wie viel kostet eine Auslandsüberweisung außerhalb des SEPA-Raums ab dem 01.01.2018
 
 
@@ -76,7 +77,7 @@ Bei einem beleglosen Auftrag im Online-Banking fällt ein Entgelt von 1,5‰ des
 
 Bei einem beleghaften Auftrag (Überweisungsvordruck, Telefon-Banking beim Mitarbeiter) beträgt das Entgelt 1,5‰ des überwiesenen Betrags, mindestens aber 12 EUR. Zusätzlich fällt das Entgelt für den beleghaften Überweisungsauftrag i.H.v. 0,99 EUR (Giro plus, Giro Basis, Giro start direkt) oder 1,50 EUR (Giro direkt) an.
 
-
+###
 Wie viel kostet eine Auslandsüberweisung außerhalb des SEPA-Raums ab dem 01.01.2018
 
 
@@ -87,7 +88,7 @@ Bei einem beleglosen Auftrag im Online-Banking fällt ein Entgelt von 1,5‰ des
 
 Bei einem beleghaften Auftrag (Überweisungsvordruck, Telefon-Banking beim Mitarbeiter) beträgt das Entgelt 1,5‰ des überwiesenen Betrags, mindestens aber 12 EUR. Zusätzlich fällt das Entgelt für den beleghaften Überweisungsauftrag i.H.v. 0,99 EUR (Giro plus, Giro Basis, Giro start direkt) oder 1,50 EUR (Giro direkt) an.
 
-
+###
 Was ist der Unterschied zwischen der Auftrags- und Zielwährung bei einer Auslandsüberweisung?
 
 
@@ -100,7 +101,7 @@ Geben Sie diesen Betrag dagegen mit der Auftragswährung in "Euro" und nur der Z
 
 Erteilen Sie Ihren Auftrag mit der Auftrags- und Zielwährung in "Euro" erfolgt bei der Postbank keine Umrechnung. Der Betrag wird in "Euro" an die Korrezpondenzbank weitergeleitet und erst dort bzw. bei der Zielbank umgerechnet, wenn das Zielkonto mit der Kontowährung in "GBP" geführt wird.
 
-
+###
 Warum bietet die Postbank ab dem 01.01.2018 nicht mehr die Möglichkeit an, die Auslandsüberweisung dem Empfänger bar auszuzahlen?
 
 
@@ -110,7 +111,7 @@ Die Möglichkeit der Bargeldauszahlung besteht bisher nur noch für wenige Länd
 Die Auftragserteilung ist in allen Filialen der Postbank und den größeren Postfilialen mit Postbank-Service möglich. Auf unserer Homepage www.postbank.de können Sie unter „Kontakt/ Filialen/ Automaten" die nächste Filiale mit Western Union Service finden.
 
 Die jeweils aktuellen Konditionen finden Sie unter www.postbank.de Konten & Karten. Bitte klicken Sie nun rechts auf "Services". Wählen Sie auf der nächsten Seite "Western Union im Postbank Finanzcenter" aus und klicken auf den Reiter "Konditionen".
-
+###
 
 Was bedeutet die SHARE-Entgeltregelung?
 
@@ -122,7 +123,7 @@ Die bisherige "OUR-Regelung" entfällt ab dem 01.01.2018. Dabei konnte entweder 
 
 Die Postbank wird bei jeder Zahlung in einen EWR-Staat (Europäischer Wirtschaftsraum), in EURO oder in einer anderen Währung, ausschließlich die SHARE-Entgeltregelung anwenden.
 
-
+###
 Kann man eine Überweisung so einstellen, das der Betrag bar vom Postboten an den Empfänger überbracht wird?
 
 
@@ -132,14 +133,14 @@ Nein, dieser Service wird nicht angeboten.
 Mein Tipp: Nutzen Sie den Bargeld Service von Western Union in einer Postbank Filiale oder in vielen Partneragenturen der Deutschen Post.
 
 Mehr Informationen erhalten Sie hier.
-
+###
 
 Ich habe ein Business Giro und erhalte viele Überweisungen aus dem Ausland. Ändert sich für mich etwas an den Konditionen mit den neuen Preismodellen?
 
 
 
 Seit Schaffung des einheitlichen Zahlungsraums in Europa werden die meisten Auslandszahlungen als SEPA-Überweisungen ausgeführt. Hier ändert sich für Sie nichts. Abgesehen vom Entgelt für die Buchungsposten sind die Zahlungen für Sie gratis.
-
+###
 Was ändert sich für Zahlungen, die keine SEPA-Überweisungen sind?
 Diese Überweisungen nenne ich  zum besseren Verständnis „Auslandszahlungsverkehr“. Für sie beträgt das Entgelt ab dem 1. Juli 0,5 ‰ des Überweisungsbetrages und mindestens 5,00 EUR. Damit es für Sie nicht zu teuer wird, haben wird als Höchstbetrag ein Entgelt von 30,00 EUR festgelegt.
 
@@ -150,30 +151,30 @@ Diese Überweisungen nenne ich  zum besseren Verständnis „Auslandszahlungsver
 
 Zu SEPA gehören im Wesentlichen die EU-Länder sowie Island, Liechtenstein, Norwegen, die Schweiz, Monaco und San Marino.
 
-
+###
 Ich habe ein Business Giro und tätige viele Überweisungen in das Ausland. Ändert sich für mich etwas an den Konditionen mit den neuen Preismodellen?
 
 
 
 Seit Schaffung des einheitlichen Zahlungsraums in Europa werden die weitaus meisten Auslandszahlungen als SEPA-Überweisungen ausgeführt. Hier ändert sich für Sie nichts. Abgesehen vom  Entgelt für die Buchungsposten sind die Zahlungen für Sie gratis.
-
+###
 Was ändert sich für Zahlungen, die keine SEPA-Überweisungen sind?
 Diese Überweisungen nenne ich zum besseren Verständnis „Auslandszahlungsverkehr“. Für sie beträgt das Entgelt ab dem 1. Juli 0,8 ‰ des Überweisungsbetrages und mindestens 6,00 EUR. Damit es für Sie nicht zu teuer wird, haben wird als Höchstbetrag ein Entgelt von 40,00 EUR festgelegt.
 
-
+###
 Auf meinem Konto ist eine Buchung nicht richtig, was kann ich tun?
 
 
 
 Damit wir Ihnen schnellstmöglich helfen und die Buchung berichtigen können, müssen wir in Ihr Konto schauen. Das können wir hier im Portal nicht. Wenden Sie sich bitte an den Kundenservice. Die Kontaktdaten finden Sie hier: Privatkunden
 
-
+###
 Was passiert mit Überweisungsformularen, die an den Postbank-Überweisungsautomaten eingezogen worden sind?
 
 
 
 Eingezogene Belege werden entweder an unsere Kunden zurückgegeben oder sofort unter Berücksichtigung des Datenschutzes vernichtet.
-
+###
 Was kann ich alles über das Telefon-Banking erledigen?
 
 
@@ -192,7 +193,7 @@ Für weitere Services und Produktinformationen stehen Ihnen unsere Mitarbeiter z
 
 Tipp: In unserer Telefon-Banking Broschüre haben wir alle Informationen zum Telefon-Banking zusammengefasst.
 
-
+###
 Welche Möglichkeit habe ich ab dem 01.01.2018 für eine Auslandsüberweisung, wenn der Empfänger kein Konto hat?
 
 
@@ -202,7 +203,7 @@ Besitzt der Empfänger kein Konto, können Sie gerne den Service "Western Union"
 Die Auftragserteilung ist in allen Filialen der Postbank und den größeren Postfilialen mit Postbank-Service möglich. Auf unserer Homepage www.postbank.de können Sie unter „Kontakt/ Filialen/ Automaten" die nächste Filiale mit Western Union Service finden.
 
 Die jeweils aktuellen Konditionen finden Sie unter www.postbank.de Konten & Karten. Bitte klicken Sie nun rechts auf "Services". Wählen Sie auf der nächsten Seite "Western Union im Postbank Finanzcenter" aus und klicken auf den Reiter "Konditionen".
-
+###
 Wie funktioniert die Freigabe einer Überweisung im Finanzassistenten mit Postbank BestSign per App?
 
 
@@ -217,7 +218,7 @@ Der Rest läuft automatisch ab.
 
 Eine ausführliche Anleitung finden Sie hier
 
-
+###
 Was kann ich tun, wenn eine Überweisung nicht beim Empfänger angekommen ist?
 
 
@@ -235,7 +236,7 @@ Wichtig:
 
 Für die Bearbeitung eines Nachforschungsantrages wird durch die Postbank ein Entgelt erhoben. Über die Höhe des anfallenden Entgeltes können Sie sich Preisverzeichnis im Downloadcenter ab Seite 24 informieren.
 
-
+###
 In der Kontoübersicht des Postbank Online-Bankings wird zwar mein Sparbuch angezeigt, aber die Auswahl "Umbuchung" gibt es dort nicht. Wie komme ich an mein Geld?
 
 
@@ -244,7 +245,7 @@ Ein Sparbuch wird Ihnen zwar im Online-Banking angezeigt, Buchungen sind aber ni
 
 Um über den Betrag auf Ihrem Sparbuch zu verfügen, suchen Sie bitte eine Filiale in Ihrer Nähe auf (Filialsuche). Dort können Sie über den gewünschten Betrag bar verfügen. Bitte nehmen Sie Ihr Sparbuch mit.
 
-
+###
 Wie kann ich eine Auslandsüberweisung im Postbank Online-Banking so einstellen, dass sie für den Empfänger kostenfrei ist?
 
 
@@ -252,7 +253,7 @@ Wie kann ich eine Auslandsüberweisung im Postbank Online-Banking so einstellen,
 Geht Ihre Überweisung in ein EWR-Land? Dann muss sie als SHARE-Zahlung abgewickelt werden. So ist es gesetzlich geregelt. Dabei werden die Kosten zwischen Auftraggeber und Empfänger geteilt.
 
 Geht Ihre Zahlung in ein Land außerhalb des EWR? Dann wählen Sie bitte die Option "OUR". So tragen Sie alle anfallenden Kosten. Der Empfänger muss kein Entgelt zahlen.
-
+###
 Wie funktioniert das mobileTAN-Verfahren bei der Postbank - sowohl die Freischaltung wie auch die spätere Nutzung?
 
 
@@ -264,7 +265,7 @@ Hier haben wir einen Fragenkatalog zusammengestellt, der alles wichtige abdeckt.
 Zusätzlich empfehle ich zu diesem Thema noch unseren Tipp der Woche.
 
 Auch hier sind Erklärungen zur Nutzung der mobileTAN zu finden.
-
+###
 
 Gibt es für eine Blitz- bzw. Sofort- oder Eilüberweisung spezielle Überweisungsträger, oder geht das nur direkt in der Filiale?
 
@@ -277,3 +278,4 @@ Es reicht, wenn Sie die Überweisung oben rechts auf dem allgemeinen Formular al
 Eilüberweisungen können nur über die Filiale eingereicht werden. Bitte versenden Sie solche Aufträge nicht etwa per Kuvert im normalen Postdienst.
 
 Beachten Sie bitte auch die dadurch entstehenden Entgelte, wie sie in unserem Preis- und Leistungsverzeichnis angegeben sind. Das Verzeichnis finden Sie hier.
+###

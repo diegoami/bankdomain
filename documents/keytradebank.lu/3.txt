@@ -1,5 +1,6 @@
-
+###
 Zu welchem Marktkurs kann ich kaufen oder verkaufen?
+
 Für die meisten Fonds wird täglich (bei Börsenschluss) der Nettoinventarwert‟ (NIW) berechnet. Der NIW wird am Folgetag auf der Webseite veröffentlicht.
 Der NIW gilt nicht für Kauf- oder Verkaufstransaktionen. Die Höhe des NIW, zu dem Sie kaufen oder verkaufen, richtet sich vielmehr nach dem Fondsmanager.
 In der nachfolgenden Tabelle wird aufgezeigt, zu welchem NIW der Fondsmanager für gewöhnlich Transaktionen tätigt.
@@ -38,36 +39,36 @@ Achtung:
     Die Ausführungsdaten können in Ausnahmefällen von der oben genannten Tabelle abweichen.
     Obwohl Ihre Order am richtigen Ausführungsdatum und zum korrekten Kurs erfolgt ist, kann der Status noch einige Tage Noch auszuführen lauten. Grund hierfür ist, dass am Markt für Investmentfonds nicht in Echtzeit gehandelt wird und Keytrade Bank Luxembourg somit die definitive Ausführungsbestätigung seitens der Fondsmanager zeitverschoben, d.h. einige Tage später, erhält.
 
-
-Welche Gebühren fallen für eine Transaktion an?
+###
++Welche Gebühren fallen für eine Transaktion mit Fonds an?
 Unabhängig von der Größe der Order belaufen sich die Transaktionskosten auf:
 
     9,95 EUR (Kauf)
     0,00 EUR (Verkauf)
 
-
+###
 Muss ich Depotgebühren bezahlen?
 Nein, es werden keine Depotgebühren berechnet.
-
+###
  Wie wird eine Order bearbeitet und ausgeführt?
 Für die Erteilung einer Kauforder muss Ihr Wertpapierkonto eine ausreichende Liquidität aufweisen oder Sie müssen ein Margin Account besitzen.
 Sobald Sie Ihre Kauforder eingegeben haben, blockieren wir auf Ihrem Wertapapierkonto den Barbetrag, auf dessen Wert Ihre Order geschätzt wird.
 Die Order wird um 11.30 Uhr bearbeitet und zur Ausführung verschickt.
 Je nach Verwaltungsgesellschaft wird die Transaktion zum NIW (Nettoinventarwert) ausgeführt, der bei Börsenschluss (Tag t), am Folgetag (Tag t+1) oder manchmal auch am Tag t+2 berechnet wird.
-
+###
 
 Bis wann kann ich eine Order annullieren?
 Eine Order kann bis 11.30 Uhr annulliert werden. Nach 11.30 Uhr ist dies nicht mehr möglich.
 
-
+###
 Wie hoch ist der Mindestbetrag für eine Order?
 Für den Kauf kann der Mindestbetrag je nach Fondsart zwischen 300 EUR und 1.000 EUR liegen. Der Mindestbetrag wird in der Fondsbeschreibung angegeben.
 Es existiert kein Mindestbetrag für den Verkauf.
-
-
-Können Limits festgesetzt werden?
+###
+Können Limits bei Orders festgesetzt werden?
 Nein, die Orders können nicht limitiert werden. Alle Transaktionen (Kauf und Verkauf) werden auf Basis des am Abend berechneten NIW ausgeführt.
 
+###
 
 Was versteht man unter Risikoniveau oder Volatilität?
 Das Risikoniveau oder die Volatilität geben an, in welchem Maße die aktuelle Rendite eines Anlagefonds von der durchschnittlichen Rendite abweicht, die dieser Fonds langfristig erzielt hat. Je größer diese Abweichung, desto höher fällt die Schwankungsbreite des Fonds aus und desto risikoreicher ist die Investition.
@@ -84,18 +85,21 @@ Volatilität 	Risikoniveau
 23 bis 30 	Über dem Durchschnitt
 > 30 	Erhöht
 
+###
 
 Was versteht man unter einer jährlichen Verwaltungsgebühr?
 Hierbei handelt es sich um die Provision, die der Verwalter des Anlagefonds erhält.
 Der Verwalter behält die Provision direkt vom NIW des Fonds ein.
 Sie müssen sie also nicht mehr bezahlen.
 Die Verwaltungsgebühr ist bereits in allen Renditeangaben berücksichtigt.
+###
 
  Was versteht man unter Fondsrendite und wie wird sie berechnet?
 Die Fondsrendite ist der Anstieg (oder der Rückgang) des Fondswertes, der prozentual angegeben und gegebenenfalls um die ausgeschütteten Dividenden korrigiert wird.
 Diese Renditen können für verschiedene Zeiträume (von einem Tag bis zu sieben Jahren) berechnet werden.
 Für alle Zeiträume über einem Jahr wird die Rendite jährlich berechnet.
 
+###
 
 Was ist das Rating eines Fonds (Bewertung mit einer Anzahl von Sternen)?
 Das Rating eines Fonds ist definiert als die Anzahl von Sternen (auf einer Skala von 1 bis 5), die für die Qualität der vom Fonds erzielten Ergebnisse stehen.
@@ -103,6 +107,7 @@ Das Rating eines Fonds ist definiert als die Anzahl von Sternen (auf einer Skala
 Dieses Rating basiert auf den in den vorangegangenen 3 Jahren erzielten Ergebnissen in Relation zum betreffenden Vergleichsindex und der Volatilität des Fonds (und damit des Risikoausmaßes).
 
 Gute Anlagerenditen, die auf der Basis hoher Risiken erzielt wurden, werden von dem Rating-System unerbittlich bestraft. Andererseits kann ein Fonds, der zufriedenstellende, aber keine außergewöhnlichen Ergebnisse erzielt, ein gutes Rating bekommen, wenn das Risiko gering ist.
+###
 
 Wie ist die Anzahl von Sternen zu interpretieren, die von dem Rating-System vergeben werden?
 Interpretation der Anzahl von Sternen
@@ -115,10 +120,12 @@ Interpretation der Anzahl von Sternen
 Angesichts der Tatsache, dass ein Fonds 3 Jahre beobachtet wird, um einen Stern zu bekommen, haben junge Anlagefonds (unter 3 Jahre) kein Rating.
 Das bedeutet aber nicht, dass man sie nicht berücksichtigen sollte!
 
+###
 
 Meine Order befindet sich seit einigen Tagen in Bearbeitung. Was ist der Grund dafür?
 Obwohl Ihre Order am richtigen Ausführungsdatum und zum korrekten Kurs erfolgt ist, kann der Status noch einige Tage Noch ausführen lauten, da am Markt für Investmentfonds nicht in Echtzeit gehandelt wird und Keytrade Bank somit die definitive Ausführungsbestätigung seitens der Fondsmanager zeitverschoben, d.h. einige Tage später, erhält.
 
+###
 
 Welcher Unterschied besteht zwischen einer Stückorder und einer wertbezogenen Order?
 Eine Stückorder bedeutet, dass Sie eine gewisse Anzahl an Wertpapieren kaufen oder verkaufen möchten. Da zum Zeitpunkt der Orderplatzierung der NIW noch nicht bekannt ist, kennen Sie auch nicht den genauen Betrag, auf den sich Ihre Order beläuft.
@@ -129,6 +136,7 @@ Eine wertbezogene Order bedeutet, dass Sie Wertpapiere zu einem bestimmten Wert 
     Verkaufsorder können nur als Stückorder erteilt werden.
 
 
+###
 
 Was versteht man unter Fondsrating (Beurteilung nach Anzahl von Kronen)?
 Die Kronen zeigen die Entwicklung der Performance eines Fonds über die letzten 5 Jahre an. Die Performances werden durch den Vergleich des Fonds mit anderen Fonds der gleichen Kategorie berechnet. Nur die eindeutig einer Kategorie zugeordneten Fonds werden bei dieser Ratingart berücksichtigt.
@@ -155,7 +163,7 @@ Keytrade Bank Luxembourg hat auf Vorschlag erfahrener Vermögensverwalter an die
 Keytrade Bank Luxembourg wird diese Auswahl je nach den erzielten Ergebnissen und eventuellen neuen Anlagemöglichkeiten regelmäßig überarbeiten.
 Dieses umfassende Sortiment sollte im Prinzip auch den Anforderungen der anspruchsvollsten Anleger genügen.
 Wenn Sie trotzdem in einen anderen Fonds investieren möchten, setzen Sie sich einfach telefonisch mit uns in Verbindung.
-
-
+###
 Beraten Sie Anleger bei der Auswahl von Fonds?
 Nein, wir bieten keine Beratung hinsichtlich der Auswahl von Fonds. Wir stellen Ihnen jedoch ein Suchmodul zur Verfügung, mit dem Sie den Fonds auswählen können, der am besten zu Ihrem Profil passt.
+###

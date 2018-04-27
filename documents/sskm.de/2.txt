@@ -1,20 +1,25 @@
+###
 Wie aktiviere ich den elektronischen Kontoauszug?
 
 Den Empfang von elektronischen Kontoauszügen aktivieren Sie, indem Sie das gewünschte Konto/die gewünschten Konten für das Elektronische Postfach freischalten. Die Freischaltung ist für Privat- und Geschäftsgirokonten möglich. Bitte beachten Sie, dass Sie nur Konten freischalten können, bei denen Sie persönlich Inhaber oder Mitinhaber sind. Für Konten, die in der Auswahl nicht aufgeführt sind, wenden Sie sich bitte an Ihren Berater oder an eine unserer Filialen.
 Kurzanleitung: In 4 Schritten zum elektronischen Kontoauszug
+###
 Warum erhalte ich den elektronischen Kontoauszug nur monatlich?
 
 Sie erhalten den elektronischen Kontoauszug immer am ersten Kalendertag des Folgemonats. Diesen Kontoauszug benötigen Sie in der Regel nur, um die steuerlichen Anforderungen zu erfüllen. Daher reicht die Bereitstellung eines Monatsauszugs.
 
 Um sich über  Ihre laufenden Kontobewegungen zu informieren, nutzen Sie bitte die Funktion Umsätze "Online-Banking" > "Umsätze". Hier können Sie Ihre Kontensalden und Buchungen jederzeit und – im Gegensatz zu den Kontoauszügen – in Echtzeit einsehen. Die Kontoumsätze können Sie auch ausdrucken oder speichern.
+###
 Welche Dokumente kann ich in meinem Elektronischen Postfach empfangen?
 
 Als Privatkunde können Sie Kontoauszüge, Kreditkartenabrechnungen, Wertpapier-Dokumente und persönliche Nachrichten empfangen.
 
 Für Firmenkunden stellen wir aktuell elektronische Kontoauszüge zur Verfügung. Für die Zukunft planen wir die Bereitstellung weiterer Dokumente. Zusätzlich bietet das Elektronische Postfach die Möglichkeit zur vertraulichen und sicheren Kommunikation zwischen Kunde und Berater.
+###
 Kann ich das Elektronische Postfach auch mit meiner Bankingsoftware (zum Beispiel SFirm, StarMoney) nutzen?
 
 Das Elektronische Postfach können Sie ausschließlich in Ihrem Online-Banking der Internet-Filiale nutzen. Kunden, die eine Bankingsoftware mit PIN/TAN verwenden, nutzen dieselben  Zugangsdaten für das Online-Banking in der Internet-Filiale. Kunden, die ausschließlich die Online-Banking-Verfahren FinTS/ HBCI-Chipkarte oder EBICS einsetzen, können sich zusätzlich für ein PIN/TAN-Verfahren freischalten .
+###
 Wie aktiviere ich das Elektronische Postfach im Online-Banking in der Internet-Filiale?
 
 Als Privatkunde können Sie Kontoauszüge, Kreditkartenabrechnungen, Wertpapier-Dokumente und persönliche Nachrichten empfangen.
@@ -23,6 +28,9 @@ Für Firmenkunden stellen wir aktuell elektronische Kontoauszüge zur Verfügung
 
 Das Elektronische Postfach in der Internet-Filiale steht unseren Online-Banking-Kunden (Freischaltung für pushTAN, chipTAN oder smsTAN notwendig) automatisch zur Verfügung. Sie müssen nur die gewünschten Konten, Depots und Kreditkarten für das Elektronisches Postfach aktivieren. Für Konten, Depots und Kreditkarten, die in der Auswahl nicht aufgeführt sind, wenden Sie sich bitte an Ihren Berater oder an eine unserer Filialen.
 Kurzanleitung: In 4 Schritten zum elektronischen Kontoauszug
+###
 Wie erfahre ich, ob sich neue Dokumente und Nachrichten in meinem Postfach befinden?
 
 Dazu aktivieren Sie bitte den Benachrichtigungs-Service. Sie werden dann per E-Mail informiert, sobald neue Informationen in Ihrem Postfach eingehen. Den Benachrichtigungs-Service richten Sie unter "Online-Banking" > "Postfach" > "Einstellungen" ein. Wählen Sie im Abschnitt "E-Mail Benachrichtigungen verwalten" den Punkt "E-Mail Adresse hinterlegen" aus. In der Folgemaske hinterlegen Sie bitte eine E-Mail-Adresse und setzen die Option "Postfachbenachrichtigung erwünscht" auf "ja".
+
+###

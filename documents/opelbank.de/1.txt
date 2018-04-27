@@ -1,3 +1,4 @@
+###
 Ist mein Geld bei der Opel Bank sicher?
 Sicherheit der Geldanlage:
 
@@ -29,7 +30,7 @@ per Telefon (06142) 878 878
 
 Außerhalb unserer Servicezeiten nutzen Sie bitte das Formular Auftrag zur Entsperrung des Opel Bank eBankings
 
-
+###
 Wie kann ich zur Erhöhung der Sicherheit beitragen?
 
     Erledigen Sie Ihre Online-Überweisungen nur an einem Gerät (Computer, Tablet oder Smartphone), von dem Sie wissen, dass es frei von schädlichen Programmen ist.
@@ -44,18 +45,18 @@ Wie kann ich zur Erhöhung der Sicherheit beitragen?
     Ändern Sie Ihre PIN regelmäßig.
     Bewahren Sie Ihre PIN niemals zusammen mit Ihrer Kontonummer/IBAN sowie der Ihnen auf Ihr Mobiltelefon übermittelten mTAN auf.
     Löschen Sie E-Mails unbekannter Herkunft sofort.
-
+###
 Wie schützt die Opel Bank meine Daten?
 
 Ausführliche Informationen zu dieser Frage erhalten Sie in unseren Datenschutzbestimmungen.
-
+###
 Macht die Opel Bank Unterschiede zwischen Neu- und Bestandskunden bei den Konditionen für das Tagesgeld?
 
 Aktuell macht die Opel Bank keine Unterschiede zwischen Neu- und Bestandskunden bei den Konditionen für das Tagesgeld.
 
 Grundsätzlich besteht jedoch die Möglichkeit, dass sich die Konditionen für das Tagesgeld zwischen Neu- und Bestandskunden unterscheiden. Weitere Informationen und Neuigkeiten hierzu erhalten Sie jederzeit auf unserer Internetseite unter dem Menüpunkt „Tagesgeld“.
 
-
+###
 Welche Geldanlagen bietet die Opel Bank an?
 
 Bei der Opel Bank können Sie Tagesgeldkonten eröffnen und Festgelder anlegen. Es ist kein maximaler Anlagebetrag festgelegt. Summen ab 1.000.000,00 Euro (über alle Geldanlagen pro Kunde) müssen durch die Bank freigegeben werden. Die Opel Bank behält sich vor, Anlagen abzulehnen, die dazu führen, dass ein Gesamtanlagevolumen von 1.000.000,00 Euro überstiegen wird.
@@ -82,7 +83,7 @@ Hinweis: Sowohl die Eltern als auch das Kind werden kurz vor dem 18. Geburtstag 
 
 Zur Übernahme der Geldanlage müssen die persönlichen Daten des Kontoinhabers ergänzt werden. Bitte füllen Sie hierzu folgendes Formular aus: Auftrag zur Erfassung meiner persönlichen Daten.
 
-
+###
 Wie werden Geldanlagen bei der Opel Bank verzinst?
 
 Die Opel Bank hat das Ziel, Ihren Kunden attraktive Zinsen anzubieten. Dies erreichen wir unter anderem dadurch, dass wir auf teure Filialstrukturen verzichten. Zudem haben wir uns mit der europäischen Zinsmethode für eine Zinsberechnung im Sinne unserer Kunden entschieden.
@@ -104,21 +105,21 @@ Verzinsung Festgeld:
 
 Die Zahlung der Zinsen erfolgt am Ende jedes Laufzeitjahres. Sie können bei Vertragsabschluss auswählen, ob die Zinsen Ihrem Festgeld gutgeschrieben werden und Sie somit vom Zinseszinseffekt profitieren möchten oder ob die Zinsen auf Ihr Tagesgeldkonto gebucht werden sollen.
 
-
+###
 Entstehen mir Kosten bei einer Opel Bank Geldanlage?
 
 Die Kontoeröffnung, die Kontoführung als auch die -schließung sowie die Erteilung von Vollmachten und Freistellungsaufträgen sind für Sie kostenlos. Gebühren erheben wir nur in Ausnahmefällen (z.B. Drittgebühren von Fremdbanken bei Überweisungsrückläufen). Nähere Informationen entnehmen Sie bitte unserem Preis- und Leistungsverzeichnis.
 
-
+###
 Hat die Opel Bank eine Applikation (App) für Smartphones?
 
 Die Opel Bank hat keine eigene App. Die Internetseiten und das Opel Banke eBanking sind jedoch für mobile Geräte optimiert, so dass auch ohne App eine gute Darstellung auf mobilen Geräten gegeben ist.
-
+###
 Bietet die Opel Bank Gemeinschaftskonten an?
 
 Derzeit bietet die Opel Bank keine Gemeinschaftskonten an. Es besteht jedoch die Möglichkeit für ein Einzelkonto eine Vollmacht zu erteilen. Ein Bevollmächtigter kann z.B. Transaktionen ausführen und Festgelder beantragen.
 
-
+###
 Welche Voraussetzungen müssen erfüllt sein?
 Sie müssen folgende Voraussetzungen erfüllen:
 
@@ -135,7 +136,7 @@ Bei der Geldanlage für Kinder müssen die folgenden Voraussetzungen zusätzlich
     Sofern Sie alleine sorgeberechtigt sind, führen Sie den entsprechenden Nachweis
 
 Hinweis: Das Konto kann nur von den gesetzlichen Vertretern eröffnet werden, nicht von dem Minderjährigen selbst. Für die gesetzlichen Vertreter gelten die Voraussetzungen zur Kontoeröffnung. Firmen und Vereine können bei der Opel Bank kein Konto eröffnen.
-
+###
 
 Wie funktioniert die Kontoeröffnung?
 Wenn Sie noch keine Geldanlage bei der Opel Bank haben:
@@ -154,6 +155,7 @@ Hinweis: Zu Ihrem Festgeld wird automatisch ein Tagesgeldkonto eröffnet. Das Ta
 Wenn Sie bereits eine Geldanlage bei der Opel Bank haben:
 
 Als Bestandskunde können Sie kein weiteres Tagesgeldkonto mehr eröffnen. Sie können aber Gelder auf Ihrem Tagesgeldkonto fest anlegen. Melden Sie sich hierzu im Opel Bank eBanking an und wählen Sie dort den Menüpunkt „Geldanlagen | Festgeld eröffnen“.
+
 Wenn Sie Geld für Ihr Kind anlegen möchten:
 
 Die Kontoeröffnung für ein Kind unterscheidet sich nicht von den zuvor genannten Schritten. Lediglich müssen weitere Nachweise erbracht und ggf. ein zweiter gesetzl. Vertreter benannt werden.
@@ -172,3 +174,4 @@ Besondere Bedingungen für das Opel Bank Tagesgeld
 Besondere Bedingungen für das Opel Bank Festgeld
 
 Merkblatt zur Einlagensicherung
+###

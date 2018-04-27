@@ -1,11 +1,11 @@
-
+###
 Wo finde ich das neue Portfolio?
 Auf unserer Webseite finden Sie in der Registerkarte Wertschriftenhandel > Portfolio oben eine Leiste mit der Bezeichnung Zur neuen Version wechseln. Wenn Sie darauf klicken, gelangen Sie automatisch zur neuen Anzeige des Portfolios. Mit derselben Vorgehensweise können jederzeit zur alten Anzeige des Portfolios zurückkehren.
 
-
+###
 Wurden am Inhalt meines Portfolios Änderungen vorgenommen?
 Nein, an der Zusammensetzung Ihres Portfolios wurde nichts geändert. Wir haben nur das Layout angepasst und zusätzliche Optionen zur Verbesserung der Benutzerfreundlichkeit hinzugefügt.
-
+###
 
 Welche Optionen bietet das Portfolio?
 Wir haben eine neue Portfolio-Anzeige eingeführt, die unserer Meinung nach noch benutzerfreundlicher ist. Außerdem können Sie nun unter anderem folgende Optionen nutzen:
@@ -22,40 +22,40 @@ Wir haben eine neue Portfolio-Anzeige eingeführt, die unserer Meinung nach noch
     Sie können Ihre Aktien sehr einfach in einer anderen Währung anfordern.
     Sie können sich die Historie nach Instrumenten oder Positionen anzeigen lassen.
 
-
+###
 Wie kann ich mir eine Depotansicht anzeigen lassen?
 Wenn Sie in der Portfolioansicht auf ein Wertpapierdepot klicken, wird Ihnen direkt eine Übersicht über dieses Depot angezeigt. In dieser Ansicht können Sie den Gesamtbetrag Ihres Wertpapierdepots, Ihre unterschiedlichen Positionen, Ihre Barmittel und Aufträge (über die Registerkarten) einfach einsehen.
 
-
+###
 Welche Konten finde ich in meiner Portfolioansicht?
 In der Portfolioansicht sind alle Wertpapierdepots aufgeführt (einschließlich KEYPLAN), deren Inhaber Sie sind oder für die Sie eine Vollmacht besitzen. Wenn Sie nicht der Kontoinhaber sind, wird dies durch den Hinweis Nicht Kunde angezeigt.
 
 Achtung: Wenn Sie Bevollmächtigter eines Depots sind, können Sie alle Transaktionen bezüglich dieses Depots durchführen. Wenn Sie nicht Inhaber des Depots sind, können Sie sich nur die Kontodaten anzeigen lassen. In diesem Fall können Sie keine Transaktionen vornehmen, und die Kaufen- und Verkaufen-Schaltflächen funktionieren nicht.
 
-
+###
 Warum werden mir keine Informationen zu meinen Keytrade Pro-Wertpapierkonten angezeigt?
 Keytrade Pro ist eine eigenständige Plattform. Deshalb werden diese Informationen nicht in diesem Portfolio angezeigt. Sie können auf die Informationen zu diesen Konten über die Keytrade pro-Plattform oder -Web-Version zugreifen.
 
-
+###
 Was gibt der oben angezeigte Gesamtbetrag an?
 Oben wird standardmäßig der Gesamtwert aller Wertpapierkonten Ihres Portfolios angezeigt, deren Inhaber Sie sind. Wenn Sie andere Konten in dieses Gesamtportfolio mit aufnehmen möchten (zum Beispiel Konten, für die Sie eine Vollmacht besitzen), klicken Sie rechts neben dem Betrag auf Bearbeiten. Wählen Sie dann die gewünschten Konten aus. Wenn Sie nur über ein Wertpapierdepot verfügen, wird Ihnen keine Bearbeiten-Schaltfläche angezeigt. Denn der Gesamtbetrag entspricht dann dem Betrag Ihres einzigen Wertpapierdepots.
 
-
+###
 Warum ist der Gesamtbetrag meines Wertpapierdepots im neuen Portfolio höher?
 Im neuen Portfolio haben wir zwei Korrekturen hinsichtlich der Berechnung des Gesamtbetrags Ihres Wertpapierdepots vorgenommen. Infolge dieser Korrekturen ist der Gesamtbetrag Ihres Wertpapierdepots im neuen Portfolio höher als im alten. Zum einen sind nun die aufgelaufenen Zinsen ihrer Anleihen im Gesamtbetrag enthalten. Zum anderen werden die Kosten und Gebühren der ausstehenden Aufträge erst vom Gesamtbetrag abgezogen, wenn die Aufträge tatsächlich ausgeführt werden.
 
-
+###
 Wie kann ich das Layout, das Foto und/oder den Namen meiner Wertpapierkonten bearbeiten?
 Klicken Sie in Ihrer Portfolioansicht (das heißt auf dem Bildschirm, der erscheint, wenn Sie auf unserer Webseite auf Wertschriftenhandel geklickt haben) auf Bearbeiten. Sie können nun den Namen, das Foto und/oder den Ort für jedes Depot bearbeiten. Klicken Sie anschließend auf Speichern, um Ihre Änderungen zu speichern. Die Änderungen werden Ihnen auch in den mobilen Anwendungen der Keytrade Bank Luxembourg angezeigt (für iOS und Android).
 
 Achtung: Wenn Sie bereits Fotos und Namen in Ihrer mobilen Anwendung eingestellt haben, werden die Änderungen automatisch in der neuen Anzeige Ihres Portfolios übernommen.
 
-
-Welche Performance wird in der Performance-Grafik angezeigt?
+###
+Welche Performance wird in der Performance-Grafik zu meinem Wertpapierdepot angezeigt?
 Wenn Sie oben rechts auf Grafik klicken, erscheint die Performance-Grafik zu Ihrem Wertpapierdepot. In dieser Grafik wird die Performance der letzten zwölf Monate dargestellt. Es handelt sich um die vom gleichen Tag des Vorjahres bis zum aktuellen Zeitpunkt berechnete Performance Ihres Portfolios, was Ihnen einen Anhaltspunkt für die Performance Ihres Portfolios gibt.
 
-
-Wie wird die Performance berechnet?
+###
+Wie wird die Performance zu meinem Wertpapierdepot berechnet?
 Die Performance der letzten zwölf Monate, bezeichnet als 12M, gibt die Performance in Prozent sämtlicher zu diesem Zeitpunkt in Ihrem Wertpapierdepot befindlichen Positionen (wobei eingehende und ausgehende Barüberweisungen sowie gegebenenfalls eingehende und ausgehende Übertragungen von Wertpapieren berücksichtigt werden) vom gleichen Tag des Vorjahres bis zum aktuellen Zeitpunkt an. Diese Performance wird auf Basis der MWR-Methode (Money-Weighted Return) berechnet.
 
 Achtung: Diese Performance entspricht nicht der Rendite. Sie können sich die Rendite der einzelnen Positionen in der Registerkarte Positionen anzeigen lassen, dieser Wert basiert jedoch auf dem Unterschied zwischen dem aktuellen Preis und dem Break Even Price (BEP).
@@ -64,37 +64,37 @@ Beispiel: Nehmen wir an, Sie hätten im September 2009 Aktien des Unternehmens X
 
 Die Rendite, die Sie am Ende der Liste Ihrer Positionen finden (alphabetisch sortiert nach Markt oder Instrumenttyp), gibt die Rendite in Prozent aller Ihrer Positionen in der Liste an. Diese Rendite basiert somit auf der Rendite und dem BEP aller Einzelpositionen in dieser Liste.
 
-
+###
 Ich kann die Performance-Grafik für bestimmte Konten nicht finden. Wie kommt das?
 Aufgrund der Art bestimmter Produkte der Keytrade Bank Luxembourg, wie dem KEYPLAN, ist es nicht möglich, die Performance einzusehen.
 
 Bei Treetop, Merit Capital und Wealtheon wird die Performance zum Beispiel durch den Manager berechnet. Diese Performance ist im detaillierten Jahresbericht angegeben, den Sie vom Fondsmanagement erhalten.
 
-
+###
 Wie kann ich auf Marktnachrichten zugreifen?
 Sie können auf aktuelle Marktnachrichten zugreifen, indem Sie oben rechts auf die Schaltfläche News klicken.
 
-
+###
 Wie kann ich alle meine Positionen in eine externe Datei exportieren?
 Klicken Sie oben rechts auf die Schaltfläche Tools und dann auf Exportieren. Sie können dann das gewünschte Dateiformat wählen (in diesem Fall Excel, XML, CSV). Sie können die Datei anschließend öffnen oder auf Ihrem Computer speichern.
-
+###
 
 Wie kann ich Währungen umtauschen?
 Klicken Sie oben rechts auf die Schaltfläche Tools und dann auf Währungsumtausch. Sie können dann einfach einen Umtauschauftrag erteilen.
 
-
+###
 Wie kann ich mir mein Wertpapierdepot und meine Positionen in einer anderen Währung anzeigen lassen?
 Klicken Sie oben rechts auf die Schaltfläche Tools und wählen Sie die gewünschte Währung im Menü Währungsanzeige aus.
 
 Achtung: Hier kann nur die Art der Anzeige geändert werden. Der Wert und die Währung Ihrer Finanzinstrumente bleiben unverändert.
 
-
+###
 Wie kann ich Geld von meinem Wertpapierdepot auf mein Giro- oder Sparkonto überweisen?
 Wenn Sie Geld von Ihrem Wertpapierdepot überweisen möchten, können Sie dies sehr einfach tun, indem Sie oben rechts auf Tools und dann auf Zahlungsauftrag klicken. Sie können anschließend den Betrag eingeben, die gewünschte Kontonummer auswählen und die Überweisung bestätigen.
 
 Achtung: Sie können nur Beträge in Euro überweisen. Sie müssen zudem das Valutadatum beachten (klicken Sie hier für weitere Informationen).
 
-
+###
 Was wird in den unterschiedlichen Ansichten (Basis, Performance, Fundamentaldaten und Detail) angezeigt?
 Wir stellen mehrere Ansichten zur Verfügung, damit Sie sofort die Informationen zu Ihrem Portfolio erfassen können, die Sie am meisten interessieren. Es werden jeweils unterschiedliche Daten dargestellt, sodass Sie unterschiedliche Perspektiven einnehmen. Sie können auch eine neue Ansicht erstellen. Die zuletzt von Ihnen für jedes Depot gewählte Ansicht wird gespeichert. Wenn Sie Ihr Portfolio erneut öffnen, sind Sie somit sofort in Ihrer bevorzugten Ansicht.
 
@@ -108,16 +108,16 @@ Die Detailansicht liefert für jedes Instrument in Ihrem Portfolio detaillierter
 
 Es ist daher wichtig, dass Sie die Fundamentaldaten-Ansicht und die Detailansicht nicht anpassen können. Die Basis- und die Performance-Ansicht können Sie hingegen anpassen. Klicken Sie hierzu auf den kleinen Bleistift neben der Schaltfläche Ansichten.
 
-
-Wie kann ich die Ansichten anpassen?
+###
+Wie kann ich die Ansichten zu meinem Wertpapierdepot anpassen?
 Klicken Sie auf den kleinen Bleistift rechts neben der Schaltfläche Ansichten. Es erscheint ein Bildschirm, auf dem Sie oben rechts die Ansicht auswählen können, die Sie anpassen möchten.
 
 Im Feld auf der linken Seite sehen Sie eine Liste mit allen Spalten, die Sie in Ihrer Ansicht anzeigen lassen können. Ziehen Sie die gewünschte Spalten vom linken Feld (verfügbare Spalten) in das rechte Feld (Spalten in dieser Ansicht). Wenn Sie die Reihenfolge der Spalten in Ihrer Ansicht ändern möchten, können Sie die Spalten im rechten Feld verschieben. Sie können auch ausgewählte Spalten aus Ihrer Ansicht entfernen, indem Sie im rechten Feld auf das Papierkorb-Symbol neben der Spalte klicken. Zum Abschluss können Sie den Bildschirm schließen und so Ihre Änderungen speichern.
 
 Achtung: Sie können die Fundamentaldaten-Ansicht und die Detailansicht im Gegensatz zu den anderen Ansichten nicht bearbeiten.
 
-
-Wie kann ich eine eigene Ansicht erstellen?
+###
+Wie kann ich eine eigene Ansicht zu meinem Wertpapierdepot erstellen?
 Klicken Sie auf den kleinen Bleistift rechts neben der Schaltfläche Ansichten. Klicken Sie auf dem erscheinenden Bildschirm oben rechts auf das Pluszeichen. Geben Sie oben den gewünschten Namen der neuen Ansicht an und klicken Sie anschließend auf das Diskettensymbol. Sie können dann die gewünschten Spalten auswählen. Wenn Sie den Bildschirm schließen, werden die Spalten automatisch gespeichert.
 
 Die von Ihnen erstellte Ansicht ist automatisch auch für Ihre anderen Konten verfügbar.
@@ -126,21 +126,21 @@ Die von Ihnen erstellte Ansicht ist automatisch auch für Ihre anderen Konten ve
 Für jede Position gibt es eine grüne Schaltfläche mit einem Pluszeichen und eine rote Schaltfläche mit einem Minuszeichen. Welche Funktion haben diese Schaltflächen?
 Bei den Schaltflächen links neben jeder Position mit einem Plus bzw. Minus handelt es sich um die Schaltflächen für den schnellen Kauf bzw. Verkauf. Wenn Sie auf die grüne Schaltfläche mit dem Pluszeichen klicken, können Sie sehr schnell zusätzliche Titel kaufen. Wenn Sie auf die rote Schaltfläche mit dem Minuszeichen klicken, können Sie die Position teilweise oder vollständig verkaufen.
 
-
-Wie kann ich meine Positionen gruppieren?
+###
+Wie kann ich meine Positionen in der Ansicht meines Wertpapierdepots gruppieren?
 In der Registerkarte Positionen finden Sie oben rechts die Schaltfläche Gruppen nach. Sie können, je nach Wunsch, eine Gruppierung nach Märkten oder Instrumenttyp oder keine Gruppierung vornehmen.
 
-
+###
 Wie kann ich mir die Historie nach Positionen anzeigen lassen?
 Sie können sich die Historie einer Position anzeigen lassen, indem Sie links neben der Position auf die blaue Schaltfläche mit den drei Punkten klicken. Sie können anschließend Historie auswählen und sich so die Historie dieser Position anzeigen lassen.
 
 Eine weitere Möglichkeit ist es, in die Registerkarte Historie zu wechseln und dort den Namen Ihres Instruments zu suchen. Es wird Ihnen die Historie nach Instrument angezeigt.
 
-
+###
 Wie kann ich mir mehr Einzelheiten zu den Positionen anzeigen lassen?
 Wenn Sie in der Positionen-Registerkarte auf Name/Symbol Ihrer Position klicken, werden Ihnen sofort weitere Einzelheiten zu diesem Instrument angezeigt.
 
-
+###
 Wie kann ich meinen Break Even Price (BEP) anpassen?
 Sie können jetzt Ihren Break Even Price (BEP) selbst anpassen. Sie können den BEP auf dem Bildschirm mit Ihren Positionen ändern, indem Sie das BEP-Feld einer Position anklicken. Es erscheint dann ein Feld. Dort können Sie den gewünschten BEP eingeben und speichern.
 
@@ -148,38 +148,39 @@ Sie möchten den BEP auf den ursprünglichen Wert zurücksetzen? Geben Sie 0
 
 Achtung: Wenn Sie erneut Produkte kaufen oder verkaufen, wird Ihr BEP anhand des angepassten BEP berechnet.
 
-
+###
 Wie kann ich die Funktion Auto Sell aktivieren bzw. deaktivieren (für Optionen)?
 Links, neben Ihren Optionspositionen, finden Sie eine blaue Schaltfläche mit drei Punkten. Wenn Sie auf die Schaltfläche klicken, können Sie die Funktion Auto Sell aktivieren bzw. deaktivieren. Die Funktion Auto Sell ist standardmäßig aktiviert.
 
 Achtung: Die Funktion Auto Sell kann nur für Optionen aktiviert bzw. deaktiviert werden.
 
-
-Was ist der Unterschied zwischen dem verfügbaren und dem hinterlegten Betrag?
+###
+Was ist der Unterschied zwischen dem verfügbaren und dem hinterlegten Betrag in meinem Wertpapierdepot?
 In der Registerkarte Cash finden Sie alle Barmittel in Ihrem Wertpapierdepot, die nicht in Finanzinstrumente investiert sind.
 
 Bei dem verfügbaren Betrag handelt es sich um die Differenz zwischen Ihren gesamten Barmitteln und Ihren reservierten Barmitteln.
 
 Reservierte Barmittel sind gesperrte Barmittel, die für ausstehende Aufträge reserviert sind. In Ihrem reservierten Betrag sind auch Kosten und Gebühren für ausstehende Aufträge und/oder gezeichnete Put-Optionen enthalten.
 
-
-Wo finde ich meine ausstehenden Aufträge?
+###
+Wo finde ich meine ausstehenden Aufträge in meinem Wertpapierdepot?
 In der Registerkarte Order finden Sie die ausstehenden Aufträge (die also noch nicht ausgeführt worden sind). Sie können die Basisansicht oder die Detailansicht wählen, um sich die Daten anzeigen zu lassen, die Sie am meisten interessieren.
 
-
-Wo finde ich meine ausgeführten, abgelehnten oder stornierten Aufträge?
+###
+Wo finde ich meine ausgeführten, abgelehnten oder stornierten Aufträge in meinem Wertpapierdepot?
 In der Registerkarte Order werden Ihnen ohne Begrenzung alle Ihre ausgeführten, abgelehnten und stornierten Aufträge angezeigt. Sie können die Basisansicht oder die Detailansicht wählen, um sich die Daten anzeigen zu lassen, die Sie am meisten interessieren. Außerdem können Sie den gewünschten Zeitraum auswählen (Tag, Woche, Monat).
 
-
-Wie kann ich einen Auftrag stornieren?
+###
+Wie kann ich einen Auftrag in meinem Wertpapierdepot stornieren?
 Sie können in der Registerkarte Order die Aufträge ankreuzen, die Sie stornieren möchten. Geben Sie anschließend Ihren Bestätigungscode (sofern zutreffend) ein und klicken Sie auf Löschen bestätigen.
 
 Wenn Sie in Ihr Profil > Webseiten Einstellungen > Handelseinstellung festgelegt haben, dass die Eingabe des Bestätigungscode bei der Platzierung von Börsenaufträgen nicht erforderlich ist, müssen Sie den Code nicht eingeben. Sie können die Annullierung dann sofort bestätigen, indem Sie auf Löschen bestätigen klicken.
 
-
-Wie kann ich mir die Historie einer Position anzeigen lassen?
+###
+Wie kann ich mir die Historie einer Position in meinem Wertpapierdepot anzeigen lassen?
 Sie können sich die Historie der Transaktionen Ihres Wertpapierdepots in der Registerkarte Historie anzeigen lassen. Außerdem ist es möglich, die Historie eines einzigen Instruments abzurufen, indem Sie es nach dem Namen oder dem Symbol suchen. Sie können auch den gewünschten Zeitraum auswählen.
-
+###
 Wenn Sie weitere Informationen zu Transaktionen angezeigt bekommen möchten, können Sie ein PDF-Dokument herunterladen, indem Sie in der Spalte links auf das PDF-Symbol klicken.
 
 In der Historie oben finden Sie zudem zwei PDF-Dateien mit einer Ansicht für das gesamte Portfolio: eine vom letzten Tag des abgelaufenen Jahres und eine vom letzten Börsentag.
+###

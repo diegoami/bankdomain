@@ -1,3 +1,5 @@
+
+###
 Wie kann ich Geld einzahlen bzw. auszahlen?
 Einzahlung:
 
@@ -7,13 +9,13 @@ Eine Überweisung direkt auf Ihr Festgeld ist nicht möglich. Die Überweisung m
 Auszahlung:
 
 Melden Sie sich dazu im Opel Bank eBanking an. In der Übersicht Ihrer Geldanlagen klicken Sie auf das gewünschte Tagesgeld und dort auf den Button „Auszahlung“. Geben Sie anschließend den gewünschten Betrag, Verwendungszweck und das Auszahlungsdatum an. Abschließend bestätigen Sie die Transaktion mit einer mTAN. Der gewünschte Betrag wird auf das hinterlegte Auszahlungskonto überwiesen.
-
+###
 Wo finde ich die IBAN für ein Tagesgeldkonto oder ein Festgeld?
 
 Die IBAN des Tagesgeldkontos finden Sie auf dem Anschreiben, das Sie gemeinsam mit den Eröffnungsunterlagen von uns erhalten haben. Liegt Ihnen dieses nicht mehr vor, finden Sie die IBAN jederzeit im Opel Bank eBanking. Melden Sie sich dort an und klicken Sie in der Übersicht, unter dem Menüpunkt „Geldanlagen“, auf das gewünschte Tagesgeldskonto.
 
 Eine IBAN für Ihr Festgeld gibt es bei der Opel Bank nicht. In der Kontoübersicht finden Sie zu jedem Festgeld eine Vertragsnummer. Einzahlungen auf ein Opel Bank Festgeld sind nachträglich nicht möglich. Die Einzahlung erfolgt über das zugehörige kostenlose Tagesgeldkonto.
-
+###
 Was ist das Auszahlungskonto (Referenzkonto)?
 
 Das Auszahlungskonto ist Ihr persönliches Girokonto, das sie bei einem anderen Kreditinstitut führen.
@@ -36,7 +38,7 @@ Sie haben 4 Versuche, um die korrekte mTAN einzugeben.
 
 Falls Sie beim vierten Versuch wieder eine falsche mTAN eingeben, werden Sie automatisch vom Opel Bank eBanking abgemeldet. Sie müssen sich danach erneut anmelden und eine PIN-Änderung vornehmen. Diese muss erneut mit einer mTAN bestätigt werden. Erst danach steht Ihnen das Opel Bank eBanking wieder vollständig zur Verfügung.
 
-
+###
 Wie ändere ich meine Mobilfunknummer für das mTAN-Verfahren?
 
 Eine Änderung Ihrer Mobilfunknummer zur Nutzung des mTAN-Verfahrens können Sie, aus Sicherheitsgründen, nur schriftlich vornehmen. Das dafür benötigte Formular „Mobilfunknummer ändern/entsperren“ finden Sie im Opel Bank eBanking unter „Service | PIN / MTAN“.
@@ -44,7 +46,7 @@ Eine Änderung Ihrer Mobilfunknummer zur Nutzung des mTAN-Verfahrens können Sie
 Bietet die Opel Bank Gemeinschaftskonten an?
 
 Derzeit bietet die Opel Bank keine Gemeinschaftskonten an. Es besteht jedoch die Möglichkeit für ein Einzelkonto eine Vollmacht zu erteilen. Ein Bevollmächtigter kann z.B. Transaktionen ausführen und Festgelder beantragen.
-
+###
 Kann ich das Opel Bank eBanking über eine Banking Software nutzen?
 
 Die Opel Bank unterstützt den HBCI Standard.
@@ -61,11 +63,11 @@ Wir empfehlen Ihnen folgende Anwendungen, die die Opel Bank bereits hinterlegt h
 starmoney_icon StarMoney 	outbank_icon OutBank 	finanzblick_icon finanzblick
 Sollten Sie Fragen bezüglich Funktionalität und Ausstattung der Anwendungen haben, wenden Sie sich bitte an Ihren Anbieter.
 
-
+###
 Wie kann ich mein Auszahlungskonto ändern?
 
 Melden Sie sich im Opel Bank eBanking an, gehen Sie dort auf den Menüpunkt „Service | Auszahlungskonto ändern“. Laden Sie sich dort das Formular „Auszahlungskonto ändern“ herunter. Ergänzen Sie dieses und senden Sie uns dieses unterschrieben zu. Aus Sicherheitsgründen erfordert diese Änderung die Schriftform.
-
+###
 Wie kann ich eine Vollmacht erteilen und wozu berechtigt sie?
 
 Die Erteilung einer Vollmacht ist erst nach Kontoeröffnung über das Opel Bank eBanking möglich.
@@ -91,12 +93,12 @@ Wir haben uns aktuell gegen das Angebot von Gemeinschaftskonten entschieden. Die
 Konten Ihrer Kinder:
 
 Eine Bevollmächtigung über Konten Ihrer Kinder ist ebenfalls möglich. Folgen Sie hierzu bitte den oben beschriebenen Schritten.
-
+###
 Wie kann ich eine Vollmacht widerrufen bzw. löschen?
 
 Die Vollmacht kann vom Vollmachtgeber jederzeit schriftlich widerrufen werden. Widerruft dieser die Vollmacht, hat er die Bank hierüber unverzüglich und aus Beweisgründen schriftlich zu unterrichten, denn die Vollmacht behält gegenüber der Bank ihre Gültigkeit bis zum Zugang dieser Mitteilung.
 
-
+###
 Wie kann ich mein Tagesgeldkonto oder Festgeld auflösen?
 Tagesgeldkonto:
 
@@ -113,7 +115,7 @@ Wählen Sie hierzu bitte eine der folgenden Möglichkeiten:
 
     Kündigung per Opel Bank eBanking: Melden Sie sich im Opel Bank Login an. Wählen Sie hierzu den Menüpunkt „Nachrichten | Schreiben“ und formulieren Sie den Kündigungswunsch. Anschließend bestätigen Sie den Versand der Nachricht mit einer mTAN.
     Kündigung per Post: Formulieren Sie Ihren Kündigungswunsch schriftlich und senden Sie uns diesen, eigenhändig unterschrieben, per Post.
-
+###
 Welche technischen Voraussetzungen müssen erfüllt sein?
 
 Ihr PC, Tablet oder Smartphone muss über eine stabile Internetverbindung und einen aktuellen Internetbrowser verfügen. Wir empfehlen die Nutzung einer aktuellen Version der folgenden Browser:
@@ -124,7 +126,7 @@ Ihr PC, Tablet oder Smartphone muss über eine stabile Internetverbindung und ei
     Safari (Version 7 für MAC OSX/ Version 5.1.7 unter Windows 7)
 
 Um alle Funktionalitäten korrekt nutzen zu können, sollten Sie in ihrem Browser Java Script aktivieren. Wir empfehlen Cookies zuzulassen, damit wir unsere Angebote Ihren Interessen besser anpassen können.
-
+###
 Wie kann ich meine PIN ändern, sperren oder entsperren lassen?
 
 Melden Sie sich mit Ihrer bestehenden PIN im Opel Bank eBanking an und klicken Sie im Bereich „Service“ auf „PIN/mTAN“. Dort können Sie dem Prozess zur PIN-Änderung folgen oder Ihre PIN sperren. Bitte beachten Sie, dass die Änderung der PIN durch eine mTAN bestätigt werden muss, die per SMS auf Ihr Mobiltelefon geschickt wird.
@@ -135,7 +137,7 @@ Kundenservice Geldanlage:
 Montag bis Freitag von 8 bis 20 Uhr
 Samstags von 8 bis 16 Uhr
 per Telefon (06142) 878 878
-
+###
 Wie kann ich meine PIN ändern, sperren oder entsperren lassen?
 
 Melden Sie sich mit Ihrer bestehenden PIN im Opel Bank eBanking an und klicken Sie im Bereich „Service“ auf „PIN/mTAN“. Dort können Sie dem Prozess zur PIN-Änderung folgen oder Ihre PIN sperren. Bitte beachten Sie, dass die Änderung der PIN durch eine mTAN bestätigt werden muss, die per SMS auf Ihr Mobiltelefon geschickt wird.
@@ -146,7 +148,7 @@ Kundenservice Geldanlage:
 Montag bis Freitag von 8 bis 20 Uhr
 Samstags von 8 bis 16 Uhr
 per Telefon (06142) 878 878
-
+###
 Wie kann ich persönliche Daten ändern?
 Adressänderung:
 
@@ -162,7 +164,7 @@ Schicken Sie uns anschließend das vollständig ausgefüllte und eigenhändig un
 Änderung der Mobilfunknummer:
 
 Eine Änderung Ihrer Mobilfunknummer zur Nutzung des mTAN-Verfahrens können Sie nur schriftlich vornehmen. Das dafür benötigte Formular finden Sie im Opel Bank eBanking unter „Service“. Klicken sie dort auf „PIN/mTAN“ und laden Sie sich das Formular „Mobilfunknummer ändern/entsperren“ herunter. Bitte senden Sie uns dieses komplett ausgefüllt und eigenhändig unterschrieben per Post. Wir nehmen dann gerne die gewünschten Änderungen vor.
-
+###
 Wie und wann bekomme ich Kontoauszüge?
 
 Sie können sich Ihren Kontostand und die Umsätze täglich im Opel Bank eBanking anzeigen lassen und auf Wunsch ausdrucken.
@@ -186,13 +188,14 @@ Es gibt keine Veränderungen. Festgeldverträge können aufgrund des Eigentümer
 
 GEPLANTE EINZAHLUNGEN:
 Die Opel Bank nimmt auch weiterhin Geldanlagen entgegen. Kontoeröffnungen und Festgeldabschlüsse sind jederzeit zu den jeweils aktuellen Zinssätzen möglich.
-
+###
 
 Kann ich mein Festgeld vor Vertragsende verlängern?
 
 4 Wochen vor Ende der Laufzeit des bestehenden Festgelds erhalten Sie ein Prolongationsangebot in Ihr ePostfach. Unter dem Menüpunkt
 „Geldanlagen I Festgeld verlängern“ können Sie ab diesem Zeitpunkt die Verlängerung durchführen. Zur Bestätigung Ihres Auftrags benötigen Sie lediglich eine mTan. Das prolongierte Festgeld startet an dem Tag, an dem Ihr bestehendes Festgeld ausläuft.
-
+###
 Zu welchen Bedingungen kann ich prolongieren?
 
 Anlagebetrag, Laufzeit und Zinszahlung (Zinsen werden jährlich entweder dem Tagesgeld oder dem Festgeld gutgeschrieben) bleiben bei der Prolongation unverändert. Die aufgelaufenen Zinsen aus dem bestehenden Festgeld werden am Laufzeitende Ihrem Tagesgeldkonto gutgeschrieben. Zusätzlich bieten wir Ihnen eine Bestzinsgarantie: Steigt der Zinssatz, solange die Laufzeit des neuen Festgelds noch nicht begonnen hat, erhalten Sie automatisch den höheren Zins.
+###

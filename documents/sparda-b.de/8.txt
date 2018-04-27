@@ -1,27 +1,28 @@
+###
  Wie kann ich meine Daten aus der SpardaApp exportieren?
 
     Ein Export von Daten aus der SpardaApp ist nicht möglich.
-
+###
  Kann ich die mobileTAN über die App verwenden?
 
     Das mTAN-Verfahren kann im Zusammenspiel mit der SpardaApp aus sicherheitstechni-schen Gründen nicht genutzt werden. Mit der SpardaSecureApp steht Ihnen jedoch eine komfortable Möglichkeit zur Transaktionsfreigabe zur Verfügung.
 
-
+###
  Das Masterpasswort - Wofür wird es benötigt?
 
     Das Masterpasswort schützt Ihre geöffnete Anwendung und wird nach einer Unterbrechung, z.B. nach einem Telefonat, verlangt. Des Weiteren wird das Masterpasswort dazu genutzt, die auf dem Smartphone gespeicherten App-Daten (Anwendungsdaten) zu ver- und entschlüsseln.
-
+###
  Kann ich Sammelüberweisungen oder -lastschriften tätigen?
 
     Sammelüberweisungen und Sammellastschriften werden von unserem SpardaNet-Banking grundsätzlich nicht unterstützt.
     Dies gilt auch, wenn diese Funktionen von der verwendeten Finanzsoftware angeboten werden.
 
-
+###
 
 Wie erkenne ich neue Umsätze?
 
     Neue Umsätze seit Ihrem letzten Login werden grafisch hervorgehoben.
-
+###
  Ist meine Finanzsoftware StarMoney SEPA-fähig?
 
     Ab der Version 9.0 ist StarMoney in vollem Umfang SEPA-fähig und bietet alle Funktionen für den neuen Zahlungsverkehrsstandard.
@@ -29,18 +30,18 @@ Wie erkenne ich neue Umsätze?
     Ältere StarMoney-Versionen unterstützen nur eingeschränkt die SEPA-Funktionalitäten. Detailliertere Informationen finden Sie in der Übersicht SEPA in Starmoney.
 
     Hinweis: Die folgenden Links leiten Sie auf eine Seite außerhalb des Verantwortungsbereichs der Sparda-Bank weiter. Für den Inhalt der vermittelten Seite haftet nicht die Sparda-Bank, sondern der Herausgeber dieser Website.
-
+###
  Warum wird mein Verwendungszweck nicht vollständig angezeigt?
 
     Bei Finanzsoftware-Produkten können maximal vier Zeilen des Verwendungszwecks angezeigt werden.
 
-
+###
  Ich bin erstmals für das SpardaNet-Banking freigeschaltet. Was muss ich hinsichtlich meiner Finanzsoftware beachten?
 
     Sofern Sie eine Finanzsoftware mit HBCI PIN/TAN benutzen, beachten Sie bitte Folgendes:
 
     Bevor Sie mit einer Finanzsoftware (HBCI PIN/TAN) arbeiten können, ist es erforderlich, dass Sie zuerst Ihre Online-PIN über das SpardaNet-Banking (Online-Nutzung) ändern. Verwenden Sie hierzu den Login-Bereich in unserem Internetauftritt.
-
+###
  Welche Funktionen stehen über das SpardaMobil-Banking zur Verfügung?
 
     Banking mit dem Handy - das können Sie mobil erledigen:
@@ -55,36 +56,36 @@ Wie erkenne ich neue Umsätze?
     So erreichen Sie das SpardaMobil-Banking:
 
 
-
+###
 Wie schützt mich 3D-Secure?
 
     Durch die korrekte Eingabe der Online-PIN und die Freigabe der Zahlung während eines Online-Bezahlvorgangs weisen Sie sich als rechtmäßiger Karteninhaber aus und der Kaufvorgang wird abgeschlossen - denn nur Sie kennen  Ihre Online-PIN und haben Zugang zu den zugehörigen Freigabeverfahren. Bei falschen Eingaben oder nicht durchgeführter Freigabe, wird der Bezahlvorgang nicht autorisiert, d. h. nicht durchgeführt. Es erfolgt keine Belastung.
-
+###
  Wie ich kann ich als Kunde testen, ob mein TAN-Generator geeignet ist?
 
     Stecken Sie Ihre BankCard in den TAN-Generator und drücken Sie die TAN-Taste. Geben Sie dann als "Start-Code 1 2 3 4 5 ein und drücken Sie die OK-Taste. Auf dem Display sollte dann "Terminüberweisung SEPA" erscheinen. Ist das der Fall, handelt es sich um ein geeignetes Gerät.
-
+###
  Gibt es eine App für das SpardaNet-Banking?
 
     Es gibt eine SpardaApp für iOS und für Android.
     Für alle anderen Smartphone-Betriebssysteme verwenden Sie bitte das mobileBanking.
-
+###
  Was ist zu tun, wenn die BankCard nicht erfolgreich synchronisiert werden kann?
 
     Bitte wenden Sie sich in diesem Fall an Ihre Filiale.
-
+###
  Was ist der tokenbasierte Login?
 
     Sofern Sie im Zuge des initialen Logins in die SpardaApp die Funktion „Login merken" aktivieren, werden Kundennummer und Online-PIN verschlüsselt und einem eindeutigen, nutzer- und gerätespezifischen Token zugeordnet. Es erfolgt keine Speicherung von Kundennummer und/oder Online-PIN auf dem mobilen Endgerät. Der Token entspricht gängigen Sicherheitsstandards und ist mit einer 32-Bit-Verschlüsselung gesichert. Der Vorteil für den User besteht neben der hohen Sicherheit des Tokens darin, dass eine Anmeldung in der SpardaApp dann allein mittels des frei wählbaren Masterpassworts erfolgen kann. Perspektivisch ist angedacht, eine Möglichkeit zum Widerruf des Tokens über das Netbanking bereitzustellen. Dies stellt einen weiteren Sicherheitsvorteil dar und kann beispielsweise im Zusammenhang mit einem Geräteverlust relevant werden.
-
+###
  Können die Umsätze gespeichert werden?
 
     Eine Speicherung von Umsätzen oder Überweisungsdaten findet auf dem Endgerät nicht statt. Es können maximal die letzten 90 Tage bei den Umsätzen eingesehen werden.
-
+###
  Das Masterpasswort - Was muss ich bei der Einrichtung beachten?
 
     Das Passwort muss aus mindestens 8 Zeichen bestehen und Ziffern, Groß- und Kleinbuchstaben enthalten.
-
+###
 
 
 Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
@@ -92,7 +93,7 @@ Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
     Konten sind standardmäßig immer dem jeweiligen Bankkontakt zugeordnet.
 
     Es ist nicht möglich, Konten umzubenennen oder anders anzuordnen.
-
+###
  Wie ändere ich meine vorbelegte BIC?
 
     Bei der Ersteinrichtung der SpardaApp wählen Sie Ihre BIC aus. Diese wird fest hinterlegt. Möchten Sie diese Auswahl ändern, müssen Sie die Anwendungsdaten der SpardaApp löschen.
@@ -104,7 +105,7 @@ Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
 
 
     Bitte beachten Sie, dass Sie danach aufgefordert werden, ein neues Masterpasswort festzulegen.
-
+###
  Welche Voraussetzungen sind notwendig, um das SpardaMobil-Banking zu nutzen?
 
     Das brauchen Sie für das SpardaMobil-Banking:
@@ -116,15 +117,15 @@ Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
 
 
     So erreichen Sie das SpardaMobil-Banking:
-
+###
  Wie kann ich die Liste meiner Zahlungsempfänger verwalten?
 
     Zwischen der App und dem SpardaNet-Banking besteht Synchronität. Wenn Sie die Liste Ihrer Zahlungsempfänger im SpardaNet-Banking verändern, wird diese Änderung automatisch in die App übernommen. Änderungen der Zahlungsempfänger in der App werden ebenso für das SpardaNet-Banking ausgeführt.
-
+###
  Wie rufe ich meine Kontoauszüge oder Mitteilungen der Bank ab?
 
     Über die SpardaApp haben Sie keine Möglichkeit, Ihre Kontoauszüge oder Mitteilungen digital abzurufen. Nutzen Sie für diese Funktionen bitte das SpardaNet-Banking.
-
+###
  Warum werden im Firefox-Browser in manchen PDFs Umlaute falsch dargestellt?
 
     Seit der Firefox-Version 19 besitzt der Browser einen eigenen, integrierten PDF-Viewer. Dieser kann Umlaute in manchen PDFs nicht darstellen, die Buchstaben fehlen dann einfach.
@@ -135,7 +136,7 @@ Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
         (Ist die Menüleiste in Ihrem Browser ausgeblendet, drücken Sie die Alt-Taste auf Ihrer Tastatur und lassen Sie sie wieder los.)
         Scrollen Sie herunter, bis Sie in der Liste den Eintrag "Portable Document Format (PDF)" erhalten. Voreingestellt ist dort "Vorschau in Firefox".
         Wählen Sie stattdessen den Eintrag "Adobe Acrobat (in Firefox) verwenden".
-
+###
  Warum wird meine Seite unvollständig gedruckt?
 
     Sie erhalten einen Hinweis, dass eine Seite nicht vollständig gedruckt wird. An den Rändern werden Inhalte "abgeschnitten".
@@ -151,3 +152,4 @@ Kann ich meine Konten in der Auflistung anders anordnen oder umbenennen?
     Mozilla Firefox
     Im Menü "Datei" finden Sie den Punkt "Seite einrichten...". Dort können Sie den Ausdruck vom Hochformat auf Querformat umstellen.
     (Ist die Menüleiste in Ihrem Browser ausgeblendet, drücken Sie die Alt-Taste auf Ihrer Tastatur und lassen Sie sie wieder los.)
+###

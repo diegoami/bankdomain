@@ -1,13 +1,17 @@
-F: Soll ich mein Bargeld lieber hier oder erst am Urlaubsort umtauschen?
+###
+Soll ich mein Bargeld lieber hier oder erst am Urlaubsort umtauschen?
 
-A: Das hängt davon ab, wohin Sie reisen. Es können je nach Land und Kreditinstitut Umtauschgebühren zwischen zwei und vier Prozent anfallen.
+Das hängt davon ab, wohin Sie reisen. Es können je nach Land und Kreditinstitut Umtauschgebühren zwischen zwei und vier Prozent anfallen.
 
 In Ländern mit weichen Währungen empfiehlt es sich, vor Ort zu wechseln. Das ist in der Regel günstiger. Erkundigen Sie sich jedoch vor Reiseantritt nach den aktuellen Deviseneinfuhrbestimmungen bei Ihrer Bank oder Ihrem Kreditinstitut.
-F: Welche Vorteile hat es meine Karte auf Reisen zu benutzen?
+###
+Welche Vorteile hat es meine Karte auf Reisen zu benutzen?
 
-A: Beim Verlust von Bargeld ist dieses unwiederbringlich weg. Daher sind bargeldlose Zahlungsmittel wie Reiseschecks und Kreditkarten weitaus sicherer. Denn bei Verlust oder Diebstahl gibt es für beide umgehend Ersatz.
-F: Kann ich mit meiner Mastercard Karte im Ausland auch Bargeld abheben?
+Beim Verlust von Bargeld ist dieses unwiederbringlich weg. Daher sind bargeldlose Zahlungsmittel wie Reiseschecks und Kreditkarten weitaus sicherer. Denn bei Verlust oder Diebstahl gibt es für beide umgehend Ersatz.
+###
+Kann ich mit meiner Mastercard Karte im Ausland auch Bargeld abheben?
 
-A: Ja, den Mastercard Karteninhabern stehen weltweit Geldautomaten und Bargeldauszahlungsstellen zur Verfügung. Die Gebühren für diesen Service werden von Ihrer kartenausgebenden Bank festgelegt.
+Ja, den Mastercard Karteninhabern stehen weltweit Geldautomaten und Bargeldauszahlungsstellen zur Verfügung. Die Gebühren für diesen Service werden von Ihrer kartenausgebenden Bank festgelegt.
 
 Hier können Sie einen Geldautomaten in Ihrer Nähe finden.
+###
