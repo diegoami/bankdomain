@@ -1,0 +1,28 @@
+###
+Was ist wirtschaftlicher Berechtigter?
+
+Bei juristischen Personen zählt gemäß § 3 Abs. 1 GwG zu den wirtschaftlich Berechtigten jede natürliche Person, die unmittelbar oder mittelbar
+
+    mehr als 25% der Kapitalanteile hält
+    oder mehr als 25% der Stimmrechte kontrolliert
+    oder auf vergleichbare Weise Kontrolle ausübt.
+
+§ 3 Abs. 2 GwG definiert Kontrolle folgendermaßen:
+
+    Mittelbare Kontrolle liegt insbesondere vor, wenn entsprechende Anteile von einer oder mehreren Vereinigungen (Juristische Personen des Privatrechts und eingetragene Personengesellschaften gemäß § 20 Abs. 1 GwG) gehalten werden, die von einer natürlichen Person kontrolliert werden.
+    Kontrolle liegt insbesondere vor, wenn die natürliche Person unmittelbar oder mittelbar einen beherrschenden Einfluss auf die Vereinigung nach § 20 Abs. 1 ausüben kann.
+
+Für die Beurteilung, ob ein beherrschender Einfluss vorliegt gelten § 290 Abs. 2 bis 4 HGB entsprechend. Demnach besteht beherrschender Einfluss eines Mutterunternehmens, wenn
+
+    ihm bei einem anderen Unternehmen das Recht zusteht, die Mehrheit der Mitglieder des die Finanz- und Geschäftspolitik bestimmenden Verwaltungs-, Leitungs- oder Aufsichtsorgans zu bestellen oder abzuberufen, und es gleichzeitig Gesellschafter ist (§ 290 Abs. 2)
+    ihm das Recht zusteht, die Finanz- und Geschäftspolitik auf Grund eines mit einem anderen Unternehmen geschlossenen Beherrschungsvertrages oder auf Grund einer Bestimmung in der Satzung des anderen Unternehmens zu bestimmen (§ 290 Abs. 3 HGB) oder
+    es bei wirtschaftlicher Betrachtung die Mehrheit der Risiken und Chancen eines Unternehmens trägt, das zur Erreichung eines eng begrenzten und genau definierten Ziels des Mutterunternehmens dient (Zweckgesellschaft).
+
+Wirtschaftlich Berechtigter in Zweckgesellschaften
+
+Neben Unternehmen können Zweckgesellschaften auch sonstige juristische Personen des Privatrechts oder unselbständige Sondervermögen des Privatrechts sein, ausgenommen bestimmte Spezial-Sondervermögen (§ 290 Abs. 4 HGB).
+
+Wenn auch nach Durchführung umfassender Prüfungen und, ohne dass Hinweise auf kriminelle Aktivitäten nach § 43 Abs. 1 GwG vorliegen, keine natürliche Person ermittelt wird oder wenn Zweifel daran bestehen, dass die ermittelte Person wirtschaftlich Berechtigter ist, gilt als wirtschaftlich Berechtigter der gesetzliche Vertreter, die geschäftsführenden Gesellschafter oder der Partner des Vertragspartners (§ 3 Abs. 2 GwG). Diese Personen bezeichnet man als fiktiv wirtschaftlich Berechtigte. Sie müssen gemeldet werden, wenn die betreffenden Informationen nicht in öffentlichen Registern nach § 20 Abs. 2 GwG zu finden sind.
+
+Das Gesetz unterscheidet nicht zwischen eigen- und gemeinnützigen juristischen Personen. Laut Bundesverwaltungsamt sind die allgemeinen Vorschriften aus § 3 Abs. 1 und 2 GwG auch auf gemeinnützige Organisationen anzuwenden.
+###

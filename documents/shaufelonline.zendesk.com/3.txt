@@ -1,0 +1,187 @@
+###
+Welche Voraussetzungen müssen für die Onlinebanking-Erweiterung und das SEPA-Lastschriftverfahren erfüllt sein?
+
+Die Onlinebanking-Erweiterung in Shaufelonline bietet zwei wesentliche Funktionen. Zum einen ruft Sie Zahlungseingänge von Ihren Konten ab, um bezahlte Rechnungen auszubuchen. Zum anderen können mit ihr SEPA-Lastschriften für offene Ausgangsrechnungen direkt an Ihre Bank übermittelt werden.
+
+Damit Sie die Onlinebanking-Erweiterung mit ihrem vollen Funktionsumfang nutzen können, müssen folgende Voraussetzungen erfüllt sein:
+
+    Aktivierung des Onlinebankings bei Ihrer Hausbank
+    Teilnahme am SMS-TAN Verfahren (mobileTAN)
+
+Sie benötigen einen Onlinebanking-Zugang zu Ihrem Bankkonto. Diesen Zugang müssen Sie bei Ihrer Hausbank beantragen und aktivieren lassen. Sie bekommen von Ihrer Bank Zugangsdaten (Benutzername und PIN) für Ihr Konto mitgeteilt. Nach erfolgreicher Aktivierung haben Sie dann mit Ihren Zugangsdaten die Möglichkeit, sich über die Homepage Ihrer Hausbank einzuloggen. Dort finden Sie Ihre gewohnte Kontoübersicht mit allen Daten zu Ihrem Konto wie Kontostand, Buchungen, Ein- und Auszahlungen etc.
+
+Mit denselben Zugangsdaten können Sie über Schnittstelle der Onlinebanking-Erweiterung Ihr Bankkonto mit Ihrem Shaufelonline System verbinden.
+
+Wichtiger Hinweis: Die Speicherung Ihrer Onlinebanking-Zugangsdaten erfolgt verschlüsselt. Auch die Übertragung von Daten zwischen Shaufelonline und Ihrer Bank ist verschlüsselt. Shaufelonline empfängt von Ihrer Bank ausschließlich Zahlungseingänge. Andere Daten wie Kontostände und Zahlungsausgänge werden nicht gelesen oder gespeichert.
+
+Im Zuge der Beantragung Ihres Onlinebanking-Zugangs werden Sie von Ihrer Bank gefragt, welches TAN-Verfahren (TAN = Transaktionsnummer) Sie nutzen möchten. Transaktionsnummern müssen Sie bei jeder Art von Transaktion eingeben, bspw. bei einer Überweisung von Ihrem Bankkonto aber auch bei der Einreichung einer SEPA-Lastschrift.
+
+Shaufelonline unterstützt derzeit ausschließlich das SMS-TAN Verfahren (mobileTAN oder mTAN). Die Unterstützung weiterer TAN-Verfahren ist geplant. Wenn Sie eine Transaktion tätigen möchten, schickt Ihnen Ihre Bank per SMS die TAN, welche dann in Shaufelonline während des Einreiche-Vorgangs eingegeben werden muss. Die TAN ist für die Authentifizierung der SEPA-Lastschriften notwendig. Ohne TAN kann keine Transaktion ausgeführt werden.
+###
+
+Wie richte ich das Onlinebanking für ein Konto ein?
+
+
+
+Das Onlinebanking muss für jedes der konfigurierten Bankkonten separat aktiviert werden. Bevor das möglich ist, muss das entsprechende Konto in den Einstellungen unter „Mein Unternehmen“ angelegt sein.
+
+
+
+Bitte beachten Sie, dass für die Konfiguration der Onlinebanking-Einstellungen die Angabe von Kontonummer und Bankleitzahl erforderlich ist. Dies ist unabhängig vom neuen SEPA-Standard, bei dem Kontonummer und Bankleitzahl nicht mehr benötigt werden. Sind Ihre Bankkonten korrekt angelegt, können Sie die Onlinebanking-Einstellungen unter „Onlinebanking“ vornehmen.
+
+Zum Hinterlegen Ihrer Onlinebanking-Zugangsdaten klicken Sie bei dem entsprechenden Konto auf „HBCI Konfigurieren“.
+
+Wenn Sie an dieser Stelle die Meldung erhalten, dass „HBCI-Informationen“ nicht abgerufen werden konnten, dann liegen dem System die erforderlichen Daten für die digitale Kommunikation mit Ihrer Bank nicht vor. Kontaktieren Sie in diesem Fall bitte das Shaufelonline Support-Team. Wir werden die Daten umgehend nachtragen.
+
+In den Einstellungen zum Onlinebanking geben Sie bitte den Benutzernamen und die PIN für Ihr Onlinebanking an. Die Zugangsdaten bekommen Sie von Ihrer Bank mitgeteilt.
+
+Vor dem Speichern ist wichtig, dass der Zugriff auf das Onlinebanking durch Sie aktiviert wird. Setzen Sie dafür bitte das Häkchen. So können Sie den Zugriff auf das Onlinebanking auch jederzeit für ein Konto wieder deaktivieren.
+
+Der Zugriff auf Ihr Onlinebanking wird im Falle von Fehlern automatisch deaktiviert. An dieser Stelle können Sie nach der Problembehebung (bspw. fehlerhafte Zugangsdaten) den Zugriff wieder aktivieren.
+###
+
+Wie funktioniert das SEPA-Lastschriftverfahren?
+
+
+
+SEPA (Abkürzung für englisch Single Euro Payments Area) ist ein europäisches Projekt zur Vereinheitlichung des bargeldlosen Zahlungsverkehrs im europäischen Wirtschaftsraum (inkl. Schweiz und Monaco).
+
+Das SEPA-Lastschriftverfahren löst seit Februar 2014 das Lastschrift-Einzugsermächtigungsverfahren ab. SEPA bietet Vorteile in Schnelligkeit und Sicherheit der Transaktionen sowie einer einheitlichen gesetzlichen Basis.
+
+Es werden zwei Arten von Lastschriftverfahren unterschieden:
+
+    SEPA-Basislastschrift (Privatkunden)
+    SEPA-Firmenlastschrift (Firmenkunden)
+
+Auf die ebenfalls existierende SEPA-Eillastschrift wird hier nicht eingegangen, da Sie von Shaufelonline nicht unterstützt wird.
+
+Das SEPA-Basislastschriftverfahren kommt für Zahlungsabwicklungen zwischen Ihnen und Ihren Privatkunden zum Einsatz.
+
+Das SEPA-Firmenlastschriftverfahren kommt für Zahlungsabwicklungen zwischen Ihnen und Ihren Firmenkunden zum Einsatz.
+Unterscheidungsmerkmal
+
+Der Unterschied beider Verfahren wird im Widerspruchsrecht der Lastschrift durch den Zahlungspflichtigen deutlich: Privatkunden haben innerhalb von 8 Wochen nach Belastung des Kontos die Möglichkeit, diese zurückzufordern.
+
+Firmenkunden verzichten auf das Widerspruchsrecht und können eine Belastung ihres Kontos durch eine Firmenlastschrift nicht zurückfordern.
+Mandate
+
+Für die Durchführung beider Verfahren benötigen Sie die Autorisierung Ihrer Kunden. Dies geschieht über ein SEPA-Lastschriftmandat. Dieses Mandat erlaubt dem Zahlungsempfänger, den fälligen Betrag vom Konto des Zahlungspflichtigen einzuziehen. Shaufelonline erstellt diese Mandate automatisch und legt diese in den Stammdaten des Kunden ab. Diese können Sie per E-Mail oder per Post an den Kunden senden. Mehr dazu hier.
+SEPA-Lastschriften in Shaufelonline
+
+Shaufelonline bietet als Teil der Onlinebanking-Erweiterung die Funktion, SEPA-Lastschriften direkt aus dem System wirksam einzureichen!
+
+Um den SEPA-Lastschriften innerhalb von Shaufelonline einzureichen, müssen ein paar Kriterien in den folgenden Bereichen erfüllt sein:
+
+    Bankkonto
+    Firmendaten
+    Kundendaten
+
+Für die Nutzung des Lastschriftverfahrens muss die Onlinebanking-Erweiterung gebucht sein. Diese muss ebenfalls korrekt konfiguriert sein. Mehr zur Einrichtung der Onlinebanking-Erweiterung finden Sie hier.
+
+Zunächst muss in den Firmendaten Ihre Gläubiger-Identifikationsnummer angeben werden. Diese benötigt Shaufelonline, um Lastschriften bei Ihrer Bank einzureichen. Weitere Informationen zur Gläubiger-ID sowie zur Beantragung erhalten Sie bei der Deutschen Bundesbank sowie Ihrer Hausbank.
+
+Gehen Sie über die Toolbar in die Shaufelonline Einstellungen und wählen „Mein Unternehmen“. Dort finden Sie Ihre Firmendaten. Klicken Sie auf „Bearbeiten“.
+
+Geben Sie Ihre Gläubiger-ID ein und klicken Sie auf „Speichern“.
+
+Bitte beachten Sie, dass die Gläubiger-ID eine verpflichtende Angabe für das SEPA-Lastschriftverfahren ist! Ohne Gläubiger-ID kann ein Unternehmen kein Mandat für eine SEPA-Lastschrift entgegennehmen.
+
+Rufen Sie als nächstes einen Kunden auf, dessen Rechnung(en) Sie per Lastschriftverfahren einziehen möchten.
+
+Klicken Sie auf „Rabatt & Konto“.
+
+Geben Sie dort IBAN und BIC Ihres Kunden ein. Wenn diese nicht vorliegen, dafür aber die Kontonummer und Bankleitzahl, können Sie diese über einen Klick auf „IBAN aus Kto und BLZ generieren“ und „BIC aus BLZ generieren“ automatisch ausfüllen lassen.
+
+Setzen Sie das Häkchen bei „Einzugsermächtigung vorhanden“. Wenn dieses Häkchen gesetzt ist wird mit Klick auf „Speichern“ ein vorgefertigtes SEPA-Lastschriftmandat erstellt. Dieses finden Sie in den Kundenstammdaten unter „Bankeinzug“. Weitere wichtige Informationen zum SEPA-Lastschriftmandat finden Sie hier.
+
+Unter „Mandats-Referenz“ geben Sie eine eindeutige Kennzeichnung ein des Mandats ein. Diese ist ein vom Ihnen individuell vergebenes Kennzeichen für eine vom Kunden erteilte Lastschrift-Einwilligung (Mandat).
+
+Am einfachsten erstellen Sie eine Mandats-Referenz automatisch gleich der Kundennummer. Dafür muss in den Shaufelonline Einstellungen das richtige Häkchen gesetzt sein (Toolbar > Kunden> Kundennummern und SEPA-Mandate: Häkchen unten bei „Mandatsrefenznummer automatisch gleich der Kundennummer setzen“). Sie haben dann die Möglichkeit, ein Präfix und Suffix für die Mandatsreferenz einzustellen.
+
+Wählen Sie das „Mandats-Datum“ sowie den „Lastschrift-Typ“ aus und klicken auf „Speichern“.
+
+
+
+Rufen Sie als nächstes eine Rechnung dieses Kunden auf. Klicken Sie bei der Rechnung, die per SEPA-Lastschrift eingezogen werden soll, auf das gekennzeichnete Symbol.
+
+Es öffnet sich ein Fenster, in dem die einzureichende SEPA-Lastschrift zusammengefasst ist.
+
+Ihre Bank hat Ihnen in diesem Moment eine SMS mit einer TAN gesendet. Geben Sie diese TAN in das dafür vorgesehene Feld ein und klicken auf „Lastschrift mit TAN bestätigen“.
+
+Die SEPA-Lastschrift ist nach dem erfolgreichen Einreichen bei Ihrer Bank hinterlegt und wird zum nächstmöglichen Zeitpunkt ausgeführt.
+
+Bitte beachten Sie, dass Rechnungen, die Sie per SEPA-Lastschrift in Shaufelonline eingezogen haben, nicht sofort als bezahlt gekennzeichnet werden. Da die Lastschrift erst durch Ihre Bank geprüft wird und Ihr Kunde außerdem die Möglichkeit zum Widerspruch hat, wird die offene Rechnung in Shaufelonline erst dann ausgebucht, wenn eine entsprechende Buchung auf Ihrem Konto vorhanden ist und diese durch die Onlinebanking-Erweiterung erfasst wurde.
+###
+
+Warum werden SEPA-Mandate für Kunden benötigt?
+
+
+
+Durch ein SEPA-Lastschriftmandat werden Sie als Zahlungsempfänger von Ihrem Privat- oder Firmenkunden autorisiert, das Konto des Kunden durch Ihre Bank zu belasten.
+
+Diese Mandate bedürfen der Schriftform und werden von Ihnen als Zahlungsempfänger an den Schuldner übermittelt. Die Mandate müssen einen von der Deutschen Bundesbank vorgeschriebenen Inhalt aufweisen. Enthalten sein müssen Ihre Gläubiger-ID, die Mandats-Referenz, Name und Adresse des Schuldners, Kontoverbindung des Schuldners sowie Ort und Datum des Schuldners.
+
+Um Ihnen unnötigen bürokratischen Aufwand zu ersparen, erstellt Shaufelonline solche Mandate automatisch!
+
+Damit ein SEPA-Lastschriftmandat erstellt werden kann, öffnen Sie die Detailansicht eines Kunden und klicken auf „Rabatt & Konto“. Bei „Einzugsermächtigung vorhanden“ muss ein Häkchen gesetzt sein. Des Weiteren wählen Sie aus, um welchen Lastschrift-Typ es sich handelt. Klicken Sie auf „Speichern“.
+
+
+
+In den Stammdaten des Kunden tauchen unter „Bankeinzug “ zwei Buttons auf.
+
+Mit Klick auf den linken Button „Mandat drucken“ öffnet sich das erstellte SEPA-Lastschriftmandat in PDF-Format. Dieses können Sie als PDF speichern und ausdrucken.
+
+Mit Klick auf den rechten Button „Mandat per E-Mail senden“ öffnet sich ein weiteres Fenster. Hier können Sie das SEPA-Mandat per E-Mail als Anhang direkt an Ihren Kunden verschicken.
+Der Unterschied zwischen Basis- und Firmenlastschrift Mandaten
+
+SEPA-Mandate für Privatkunden und Mandate für Firmenkunden unterscheiden sich im Wesentlichen im Widerspruchsrecht der Lastschrift. Der Schuldner hat bei der SEPA-Basislastschrift ein Widerspruchsrecht von 8 Wochen ab Erteilung des Mandats. Bei der der Firmenlastschrift hat der Schuldner kein Recht auf einen Widerspruch. Dieser Umstand geht auch aus dem erstellten SEPA-Mandat hervor, je nach gewähltem Lastschrift-Typ.
+
+Im Falle eines SEPA-Mandats für die Basis-Lastschrift übermitteln Sie das SEPA-Mandat an Ihren Privatkunden. Dieser füllt das Dokument aus, unterschreibt und übermittelt es zurück an Sie.
+
+Im Falle eines SEPA-Mandats für die Firmen-Lastschrift übermitteln Sie das SEPA-Mandat an Ihren Firmenkunden. Dieser füllt das Dokument aus, unterschreibt und reicht ein gescanntes Exemplar zusätzlich bei seiner Bank ein, bevor er es an Sie zurück übermittelt.
+
+In jedem Fall sind Sie gesetzlich verpflichtet SEPA-Mandate aufzubewahren!
+Empfehlung zur Aufbewahrung
+
+Mit dem erweiterten Büromodul haben Sie die Möglichkeit, in den Kunden-Stammdaten aber auch in den Stammdaten von Aufträgen Dateien hochzuladen.
+
+Hier bietet es sich an, das zum Kunden gehörige SEPA-Mandat in den Kunden-Stammdaten hochzuladen.
+
+Damit ist es immer an der richtigen Stelle, geht nicht verloren und nimmt keinen unnötigen Platz in Aktenordnern in Anspruch.
+
+###
+
+Wie bestimme ich den Verwendungszweck für SEPA-Lastschriften?
+
+
+
+Mit Shaufelonline haben Sie die Möglichkeit, Rechnungen per SEPA-Lastschrift einzuziehen. Wenn Sie die entsprechende Rechnung einziehen, wird automatisch ein Verwendungszweck angegeben. Voreingestellt ist der Verwendungszweck „Rechnung“ mit der jeweiligen Rechnungsnummer. In den Shaufel-Einstellungen unter Onlinebanking finden Sie ein Texteingabefeld. Dort können Sie einen Text eingeben, sowie verschiedene Platzhalter hinzufügen.
+
+Diese Eingabe steht bei jedem Einreichen einer SEPA-Lastschrift standardmäßig im Verwendungszweck. Sie haben des Weiteren die Möglichkeit, den Text während des Einreichvorgangs individuell anzupassen.
+
+###
+Wie werden SEPA-Lastschriftbuchungen in Shaufel online gehandhabt?
+
+
+
+Mit Shaufelonline haben Sie die Möglichkeit, offene Rechnungen per SEPA-Lastschrift von Ihren Kunden einzuziehen. Die SEPA-Lastschriftfunktion ist Teil der Onlinebanking-Erweiterung. Diese müssen Sie für die Verwendung der SEPA-Lastschriftfunktion in Shaufelonline gebucht haben.
+
+Wenn Sie eine SEPA-Lastschrift eingereicht haben, erscheint ein Häkchen an der Rechnung. Das bedeutet, dass für die Rechnung eine Lastschrift erfolgreich eingereicht wurde. Der rote Punkt an der Rechnung bleibt vorerst bestehen. Dieser zeigt an, dass für diese Rechnung noch kein Zahlungseingang verbucht wurde. Ein grüner Punkt – Rechnung wurde als bezahlt verbucht – erscheint erst dann, wenn eine Zahlung auf Ihrem Konto eingegangen ist und von der Onlinebanking-Schnittstelle erfasst wurde. Von dem Moment an, in dem Sie die SEPA-Lastschrift eingereicht haben, bis zum tatsächlichen Zahlungseingang können mehrere Bank-Arbeitstage vergehen. Das liegt daran, dass Ihre Bank die Lastschrift erst prüfen muss. Des Weiteren hat Ihr Kunde die Möglichkeit, Widerspruch gegen die Lastschrift einzulegen. Das Datum an dem Sie die Lastschrift eingereicht haben, können Sie über das Informationssymbol an der jeweiligen Rechnung abrufen.
+Wichter Hinweis!
+
+Wenn ein Privatkunde (Basislastschriftverfahren) binnen 8 Wochen Widerspruch gegen eine Lastschrift einlegt, wird von Ihrer Bank eine Rückbuchung auf Ihrem Konto gemacht. Shaufelonline kann keine Rückbuchungen registrieren! Wurde ein Zahlungseingang verbucht (grüner Punkt an Rechnung) und es findet eine anschließende Rückbuchung von Ihrem Bankkonto statt, wird das von Shaufelonline nicht erfasst (Punkt bleibt grün). Bitte kontrollieren Sie daher auch bei Nutzung der Onlinebanking-Erweiterung in Shaufelonline regelmäßig Ihre Kontoauszüge! Nehmen Sie Korrekturen an den Zahlungseingängen im Zweifelsfall manuell vor.
+###
+Welche Status-E-Mails werden versendet?
+
+
+
+Wenn Sie in den Onlinebanking-Einstellungen die E-Mail-Benachrichtigungen für verschiedene Nutzer aktiviert haben, werden automatisch Status-E-Mails versendet. In folgenden Fällen werden E-Mails versendet:
+Neue Zahlungseingänge
+
+Wenn neue Zahlungseingänge erfasst wurden, wird an die ausgewählten Nutzer eine E-Mail mit einem Hinweis und der Anzahl der Zahlungseingänge gesendet. Die E-Mail enthält aus Sicherheitsgründen keine Informationen über Absender oder Höhe der Zahlungen.
+Fehler im Onlinebanking
+
+Falls die Anmeldung an Ihrem Onlinebanking-Zugang fehlgeschlagen ist, wird der Onlinebanking-Zugriff auf das entsprechende Konto sofort automatisch deaktiviert. Die eingestellten Nutzer werden darüber per E-Mail informiert und dazu aufgefordert, die Onlinebanking-Zugangsdaten zu korrigieren und den Zugriff wieder zu aktivieren. Die E-Mail enthält keine sonstigen Angaben zum Onlinebanking.
+
+
+###

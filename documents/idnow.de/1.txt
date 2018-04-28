@@ -1,0 +1,57 @@
+###
+Was ist eine Video-Identifikation oder Video-Legitimation?
+
+Bei der Video-Identifikation oder Video-Legitimation handelt es sich um eine moderne Möglichkeit zur Online-Identifikation von Personen. IDnow Video-Ident wurde 2014 von der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) offiziell als Verfahren zur rechtskonformen Fernidentifizierung nach dem Geldwäschegesetz (GWG) zugelassen. Das IDnow-Verfahren wird von diversen Banken, Leasingfirmen, Versicherungen, Finanzdienstleistern und anderen Firmen erfolgreich eingesetzt. Im Vergleich zu analogen Verfahren, wie beispielsweise PostIdent, kann sich der Nutzer bei IDnow Video-Ident bequem von zu Hause oder unterwegs identifizieren. Hierzu wird eine Video-Verbindung zwischen dem Nutzer und einem Ident-Spezialisten von IDnow aufgebaut, in der der Ausweis und die Identität des Nutzers kontrolliert werden. Die Online-Identifikation per Video ist komplett digital und in wenigen  Minuten erledigt. Somit werden wesentlich höhere Konversionsraten erzielt als mit herkömmlichen Identifizierungsverfahren.
+###
+
+Ist die IDnow Video-Ident Lösung für GWG offiziell zugelassen?
+
+Ja. IDnow ist von der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) offiziell als Verfahren zur rechtskonformen Fernidentifizierung nach dem Geldwäschegesetz (GWG) zugelassen. Der Identifizierungsvorgang wird gemäß BaFin-Rundschreibens 3/2017 (GW) durchgeführt und erfüllt daher die Identifizierungspflichten gemäß §4 Geldwäschegesetz (GWG).
+###
+
+Kann IDnow Video-Ident auch zur Altersverifikation eingesetzt werden?
+
+Ja. IDnow Video-Ident ist von der Kommission für Jugendmedienschutz (KJM) offiziell für die Altersverifikation im Internet zugelassen.
+###
+
+Ersetzt IDnow Video-Ident das PostIdent-Verfahren?
+
+Ja. IDnow ist die moderne Alternative zu PostIdent. Ihre Kunden können sich bequem von zu Hause oder unterwegs identifizieren – an 7 Tagen die Woche und ohne Warteschlangen am Schalter. Natürlich können Sie neben Video-Ident auch weiterhin PostIdent als Alternative zur Identifizierung anbieten.
+###
+
+Wie einfach ist der Prozess für meine Kunden?
+
+IDnow ist stolz darauf, das Video-Identifikationsverfahren mit der höchsten Conversion Rate und Annahmerate im Markt anzubieten. Wir legen viel Wert auf die Optimierung des Produktes, damit Sie eine optimale Conversion Rate erzielen. Hierzu haben wir den Prozess für die Identifizierung von Grund auf neu entwickelt und auf die Online-Medien ausgerichtet. IDnow läuft direkt im Internet-Browser ohne zusätzliche Software. Darüber hinaus bieten wir für Mobilgeräte native Apps für iOS und Android an. Während des gesamten Prozesses wird der Nutzer durch eingeblendete Hilfestellungen unterstützt und bei Fragen hilft der Ident-Spezialist persönlich im Video-Chat. Hierdurch erreichen wir eine bestmögliche Kundenzufriedenheit und benötigen für den Identifizierungs-Vorgang nur wenige Minuten.
+###
+
+Sind bei einer Video-Identifikation die Daten meiner Kunden sicher?
+
+Ja. Ihre Kundendaten liegen sicher verschlüsselt auf Hochverfügbarkeits-Servern in Deutschland. IDnow vertraut dafür auf das Hochsicherheits-Rechenzentrum der Noris Network AG in Nürnberg. IDnow hält strengste Datenschutzrichtlinien ein und wurde hierfür durch das Institut für IT-Recht zertifiziert. Sämtliche Daten werden sicher verschlüsselt übertragen. Auf Wunsch können beliebige Datenfelder der aufgenommenen Ausweise geschwärzt werden, um nach dem Grundsatz der Datensparsamkeit zu agieren. Gerne arbeiten wir darüber hinaus auch im Rahmen einer Auftragsdatenverarbeitungsvereinbarung (ADV) mit Ihnen zusammen.
+###
+
+Kann ich auch Agenten aus meinem eigenen Call Center einsetzen?
+
+Ja. Sie können IDnow mit Ident-Spezialisten aus Ihrem eigenen Call Center betreiben. Hierzu wird Ihnen die Software als Software-as-a-Service-Lösung (SaaS) zur Verfügung gestellt. Natürlich können Sie IDnow auch als Full-Service buchen und die Video-Identifizierungen durch unser Call Center durchführen lassen. Das – Call Center von IDnow ist ausschließlich mit spezialisierten Mitarbeitern besetzt, die ausführlich nach dem Geldwäschegesetz (GWG), relevanten Sicherheits- und Datenschutzrichtlinien sowie im professionellen Auftreten per Videotelefonie geschult sind. Das Call-Center verfügt über strikte Zugangskontrolle.
+###
+
+In welchen Ländern und Sprachen ist IDnow verfügbar?
+
+IDnow ist weltweit verfügbar. IDnow unterstützt eine Vielzahl von Ausweisdokumenten (wie Reisepässe oder Personalausweise) nach dem gängigen ICAO-Standard – derzeit über 150 Ausweisdokumente aus über 50 Ländern. Unsere Software sowie unser Call Center arbeiten dabei komplett mehrsprachig auf Deutsch, Englisch, Italienisch, Französisch und Spanisch. Wenn Sie darüber hinaus weitere Sprachen benötigen, so können wir diese im Rahmen unseres Software-as-a-Service-Modells (SaaS) jederzeit anbieten.
+###
+
+Was benötigen meine Kunden, um sich per IDnow zu identifizieren?
+
+Für die Video-Legitimation über IDnow Video-Ident benötigen ihre Kunden lediglich:
+
+    Computer mit Webcam oder -Smartphone bzw. Tablet
+    Gültiges Ausweisdokument
+    Internetverbindung
+    Mobiltelefon zum Empfang eines Freigabecodes per SMS
+###
+
+Was sind die größten Vorteile von IDnow?
+
+Unsere Lösungen punkten mit drei großen Vorteilen: einem optimalen Nutzererlebnis, führender Technologie und höchster Flexibilität. Durch die ausgeprägte Nutzerorientierung unserer Produkte profitieren Unternehmen, die IDnow in ihrer digitalen Antragsstrecke einsetzen, von einer deutlich höheren Abschlussquote als z.B. beim Offline-Verfahren. Die innovative Technologie, die wir entwickeln und einsetzen, ist führend in Sachen Sicherheit und Qualität. Auch bei der Implementierung unserer Lösungen genießen unsere Partner höchste Flexibilität. So kann die IDnow-Schnittstelle einfach in die eigene Webseite und in eigene iOS- bzw. Android-Apps integriert werden. Die Tiefe der Integration ist dabei immer frei wählbar.
+
+###
+

@@ -1,0 +1,55 @@
+###
+Wie funktioniert das chipTAN-Verfahren ?
+
+Eine Mischung aus Komfort und Sicherheit bietet das chipTAN-Verfahren. Bei einigen Banken wird dieses Verfahren auch smartTAN genannt.
+
+Die TAN wird dabei durch einen TAN-Generator erzeugt.
+
+Dieses kann entweder manuell (mit EC-Karte und ohne Flickercode) oder optisch (mit EC-Karte und Flickercode) verwendet werden.
+
+Die Verwendung von zwei getrennten Geräten macht es Betrügern fast unmöglich, die Verbindung zu manipulieren.
+Funktionsweise des chipTAN-Verfahrens
+
+Für die Erzeugung der TAN ist der TAN-Generator das Ein- bzw. Ausgabemedium.
+Die TAN selbst wird auf dem Chip der eingesetzten Karte errechnet. Daher auch die Bezeichnung chipTAN.
+
+Das chipTAN bzw. bei einigen Banken auch smartTAN-Verfahren genannt.
+
+Das Verfahren kann in zwei unterschiedlichen Varianten angewendet werden.
+
+chipTAN manuell / smartTAN-plus
+
+Bei diesem Verfahren müssen die Überweisungsdaten (Kontonummer und Betrag) nicht nur in den PC, sondern auch in den TAN-Generator eingegeben werden. Mit diesen Angaben generiert die Bank die auftragsbezogene TAN, die nun in das vorgesehene Feld am PC eingegeben werden muss.
+
+chipTAN komfort / smartTAN optic
+
+Der Kunde gibt die Überweisungsdaten ein. Diese werden von der Bank umgerechnet und in Form eines Flickercodes angezeigt. Der Kunde steckt seine EC-Karte in das Gerät und hält den TAN-Generator direkt an den Computer-Bildschirm. Die Überweisungsdaten werden nun am Gerät angezeigt und können nun mit der Rechnung verglichen werden. Sind die Daten korrekt, können sie mit OK bestätigt werden. Danach wird automatisch eine TAN erzeugt, die nur einmalig gültig ist und die in das entsprechende Feld eingegeben werden muss.
+
+Vorteile chipTAN-Verfahren
+
+    Praktisch: der TAN-Generator passt in jede Tasche
+    Bequem: Sie können die TAN-Generatoren sofort einsetzen. Eine Installation auf Ihrem PC ist nicht nötig.
+    Komfortabel: TAN-Ermittlung auf Knopfdruck,
+    Sicher: TAN-Generierung mit zwei voneinander getrennten Geräten und vom PC-unabhängige Eingabe, Anzeige und Bestätigung der Transaktion macht es Hackern unmöglich, Banking-Trojaner zu installieren oder Überweisungen zu manipulieren. Durch die Datenübernahme auf das Gerät können Sie Abweichungen sofort erkennen und entsprechend reagieren.
+    Einmalig: TAN ist nur für eine und nur für diese spezielle Transaktion gültig
+    Einfach: kann sowohl für das Banking im Browser als auch für Software verwendet werden
+    Günstig: Es fallen keine Folgekosten wie z.B. SMS-Gebühren an.
+    Unabhängig: Die Transaktionen werden ausschließlich über das Institutsnetz der Bank abgewickelt. Das heißt: Infrastrukturen außerhalb des Einflussbereichs Ihrer Bank, wie beispielsweise Mobilfunknetze, werden nicht benötigt. So ist für die maximale Sicherheit Ihrer Daten gesorgt.
+    Multibankenfähig: Das Verfahren kann bei fast jedem Kreditinstitut angewendet werden.
+    Mobil: TAN-Generierung ist auch von mobilen Geräten möglich
+
+Gefahren des chipTAN-Verfahrens
+
+Da der PC und der TAN-Generator nicht miteinander verbunden sind, gilt das chipTAN-Verfahren als das momentan sicherste Verfahren, da sich niemand dazwischen schalten kann.
+
+Einzige Möglichkeit für Betrüger, an eine TAN zu kommen, ist es, die Sorglosigkeit des Nutzers auszunutzen.
+"Social Engineering"
+
+Beliebt ist, Kunden durch „Social Engineering“  dazu zu bewegen, selbst Überweisungen an den Betrüger vorzunehmen.  Dabei wird nach Geld gebettelt, eine Testüberweisung vorgespielt oder der Kunde soll falsch gebuchtes Geld zurücküberweisen.
+Phishing
+
+Ideal sind auch Phishingangriffe. Hier wird dem Nutzer eine Seite angezeigt, die ähnlich aussieht wie die der eigenen Bank. Gibt das Opfer seine Nutzerdaten und seine TAN dort ein, werden diese abgefangen.
+Trojaner
+
+Auch Trojaner, die dem Nutzer bei Aufruf eines Links in einer Mail oder durch Öffnen eines Anhangs auf den PC gespielt werden, können die sensiblen Daten ausspionieren. Der Trojaner kann mitlesen, er kann aber auch eine falsche Webseite oder ein Formular anzeigen, indem der Nutzer dazu aufgefordert wird, die TAN preiszugeben. Bemerkt er dies nicht, filtern die Betrüger Ihre Nutzungsdaten und die generierte TAN heraus.
+###

@@ -1,0 +1,21 @@
+###
+Wie funktioniert das Verfahren mit der TAN-Liste?
+
+Bei diesem Verfahren erhält der Kunde vom Kreditinstitut eine Liste mit TANs, die er jeweils nur einmal nutzen kann.
+
+Nachdem der Kunde vom Kreditinstitut eine Liste mit TANs erhalten hat, muss er bei jeder Überweisung eine TAN der Liste eingeben. Welche spielt keine Rolle. Nach der Verwendung werden die TANs durchgestrichen. Sobald alle verbraucht sind, erhält der Kunde eine neue Liste.
+Vorteile
+
+    Günstig: Es wird kein externes Gerät benötigt und es fallen daher keine Kosten an.
+    Komfortabel: Die Liste befindet sich immer in der Nähe des Rechners.
+
+
+Gefahren bei der Nutzung der TAN-Liste
+
+Mittlerweile gilt dieses Verfahren als sehr unsicher, da der Betrüger nur eine beliebige TAN Ihrer Liste und Ihre Zugangsdaten benötigt, um damit großen Schaden anrichten zu können.
+
+Wie kommen die Betrüger an Ihre Daten?
+
+Um an die Daten zu kommen, werden Phishingangriffe durchgeführt: Nutzer werden auf falsche, angeblich von der eigenen Bank stammende Seiten gelockt. Bemerken Sie dies nicht, filtern die Betrüger Ihre Nutzungsdaten und eine TAN heraus, falls Sie auf dieser Seite sogar eine Überweisung tätigen. So können die Betrüger mit einer Überweisung Ihr Konto leerräumen.
+
+###

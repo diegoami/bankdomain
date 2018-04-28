@@ -1,0 +1,152 @@
+###
+Was bedeutet SEPA?
+SEPA ist die Abkürzung für englisch "Single Euro Payment Area", dem einheitlichen Euro-Zahlungsverkehrsraum. Dieser besteht aus 28 EU-Staaten sowie den Ländern Island, Lichtenstein, Monaco, Norwegen, San Marino und der Schweiz, also innerhalb der EU und mit den Ländern des europäischen Wirtschaftsraums (EWR). Innerhalb der SEPA werden europaweit standardisierte Überweisungen, Lastschriften angeboten. Verbraucher und Unternehmen können mit einheitlichen Überweisungs- und Lastschriftprodukten bargeldlose Euro-Zahlungen auch über die Ländergrenzen hinweg so einfach und bequem tätigen wie in ihrem Heimatland.
+###
+Was ist die IBAN?
+
+Die IBAN ist eine internationale Bankkontonummer, die alle nationalen Kontoangaben (in Deutschland Kontonummer und Bankleitzahl) ersetzt (International Bank Account Number; sie kann weltweit genutzt werden).
+Die IBAN ist je nach Land unterschiedlich lang, vom Prinzip her aber immer gleich aufgebaut.
+In Deutschland hat sie immer 22 Stellen und ist wie folgt untergliedert:
+Beispiel: DE12 50090 9000 0003 4567 89
+
+    2-stelliger Ländercode (DE)
+    2-stellige Prüfziffer (12)
+    8-stellige Bankleitzahl (50090900)
+    10-stellige Kontonummer (3456789)
+
+Hat die Kontonummer, wie im Beispiel, weniger als 10 Ziffern, wird sie vorne mit Nullen ergänzt.
+###
+Was ist die BIC?
+
+Beim BIC (Bank Identifier Code) handelt es sich um eine von der SWIFT (Society for Worldwide Interbank Financial Telecommunication) festgelegte international gültige Bankleitzahl. Sie dient der eindeutigen Identifizierung von Kreditinstituten. Da der BIC von der SWIFT vergeben wird, bezeichnet man ihn oftmals auch als SWIFT-Code. Der BIC oder SWIFT-Code besteht aus acht oder elf alphanumerischen Zeichen. Die BIC ist für alle Kunden der PSD Bank Hessen-Thüringen gleich und ist wie folgt untergliedert:
+Beispiel: GENODEF1P06
+
+    4-stelliger Bankcode (GENO)
+    2-stelliger Ländercode (DE)
+    2-stellige Codierung des Ortes (F1)
+    3-stellige optionale Kennzeichnung der Filiale (P06)
+
+Hat die BIC weniger als elf Zeichen, also nur acht, wird sie am Ende mit „XXX“ ergänzt.
+###
+Wo finde ich IBAN und BIC?
+
+Sie finden Ihre IBAN sowie unseren BIC auf Ihrem Kontoauszug. Den BIC Ihrer PSD Bank finden Sie aber auch in der Fußzeile der Homepage und die IBAN finden Sie (sofern vorhanden) auf der Rückseite Ihrer girocard.
+Wenn Sie auf ein anderes Zahlungskonto/Girokonto eine SEPA-Überweisung tätigen wollen, entnehmen Sie die IBAN und BIC des Zahlungsempfängers bitte den Geschäftspapieren Ihres Vertragspartners (Rechnung oder Briefkopf).
+###
+Was ist ein SEPA-Lastschriftmandat?
+Ein SEPA-Lastschriftmandat ist die rechtliche Legitimation für den Einzug von SEPA-Lastschriften. Ein Mandat umfasst sowohl die Zustimmung des Zahlers zum Einzug der Zahlung der SEPA-Lastschrift an den Zahlungsempfänger, als auch den Auftrag an die PSD Bank Hessen-Thüringen zur Einlösung der Zahlung.
+###
+Wann werden Überweisungsein- und Ausgänge gebucht?
+Ausgehende Überweisungen verarbeiten wir taggleich, sofern uns der Auftrag bis 16:00 Uhr an einem Bankarbeitstag vorliegt. Eingehende Überweisungen verbuchen wir unmittelbar auf Ihrem Konto, sobald uns diese erreichen.
+###
+Kann ich einen Bundesbankscheck / LZB – Scheck erhalten?
+Bundesbank– und LZB – Schecks stellen wir Ihnen gerne zur Verfügung. Wir benötigen hier ein wenig Vorlaufzeit und informieren Sie über die Bereitstellung gerne persönlich.
+###
+Was ist ein Bundesbankscheck / LZB – Scheck?
+Ein Bundesbankscheck ist von der Deutschen Bundesbank ausgestellter Scheck mit einer befristeten Einlösegarantie. Dazu wird von der Bundesbank auf der Rückseite ein Bestätigungsvermerk angebracht.
+Im Unterschied zum gewöhnlichen Scheck bietet der bestätigte Bundesbankscheck eine Einlösungsverpflichtung gegenüber dem Schecknehmer innerhalb der Vorlegungsfrist von 8 Tagen. Nach den 8 Tagen wird der Bundesbankscheck wie ein gewöhnlicher Scheck behandelt.
+###
+Wie melde ich eingehende oder ausgehende Auslandsüberweisungen über 12.500 Euro an die Bundesbank und wer ist meldepflichtig?
+
+Inländer (in Deutschland ansässige natürliche und juristische Personen) haben Zahlungen von mehr als 12.500 Euro oder Gegenwert zu melden, die sie von den Ausländern (im Ausland ansässige natürliche und juristische Personen) oder für deren Rechnung von Inländern entgegennehmen (eingehende Zahlungen) oder an Ausländer oder für deren Rechnung an Inländer leisten (ausgehende Zahlungen).
+Die Meldungen sind in elektronischer Form bei der Deutschen Bundesbank einzureichen.
+
+Hierzu steht Ihnen das Allgemeine Meldeportal Statistik (AMS) auf der Internetseite der Deutschen Bundesbank zur Verfügung:
+zum Meldeportal
+
+Fragen beantworten Ihnen die Mitarbeiter der Deutschen Bundesbank gerne telefonisch unter der kostenfreien Nummer 0800 - 123 41 11.
+###
+Wie werden Zahlungen umgerechnet, wenn das Empfängerkonto in einer abweichenden Währung geführt wird?
+Überweisungen werden, wenn möglich, immer in der vorgegebenen Auftragswährung ausgeführt. Bei einer Euro-Überweisung wird das Konto des Auftraggebers in Euro belastet. Wenn Sie eine andere Auftragswährung als Euro auswählen, wird die Umrechnung zum jeweils aktuellen Referenzkurs durchgeführt.
+
+Wird das Empfängerkonto nicht in der gewählten Auftragswährung geführt, erfolgt die Umrechnung bei der Empfängerbank. Der Umrechnungskurs wird hierbei von der Empfängerbank zugrunde gelegt. In Ausnahmefällen kann die Umrechnung durch ein zwischengeschaltetes Kreditinstitut (Korrespondenzbank) durchgeführt werden.
+
+Umrechnungen von Euro in Fremdwährungen und von Fremdwährungen in Euro erfolgen zum Beispiel auf der Basis der durch die DZ Bank AG Deutsche Zentral-Genossenschaftsbank, Frankfurt am Main festgestellten Kurse des Bankgeschäftstages der Buchung. Der entsprechende Kurs der DZ Bank AG ist im Internet unter www.genofx.dzbank.de veröffentlicht. Liegt ein solcher Kurs nicht vor, erfolgt die Umrechnung zu einem anderen Marktkurs.
+###
+Wo erhalte ich einen Auslandszahlungsauftrag Z1?
+In unserem Formularcenter unter der Kategorie Giro & Karten -> Sonstiges
+oder einfach unter diesem Link.
+###
+Ich erwarte Zahlungseingänge aus dem Ausland. Welche Angaben benötige ich dafür?
+
+Für Zahlungseingänge aus dem Ausland benötigen Sie einen BIC (Bank Identifier Code) und eine IBAN (International Bank Account Number). Den BIC Ihrer PSD Bank finden Sie in der Fußzeile der Homepage. Die IBAN finden Sie z.B. im Onlinebanking, auf Ihrem Kontoauszug oder (sofern vorhanden) auf der Rückseite Ihrer girocard.
+###
+Wie kann ich Geld ins Ausland überweisen?
+
+Über folgenden Link können Sie uns den Auslandszahlungsauftrag einreichen. Hierzu benötigen Sie die IBAN und BIC des Zahlungsempfängers, sowie die Adressdaten der Empfängerbank. Sie haben auch die Möglichkeit die Entgeltregelung festzuhalten.
+
+Detaillierte Informationen erhalten Sie hier.
+###
+Ich habe von meinem Konto eine Überweisung veranlasst und möchte diese zurückrufen. Ist das möglich?
+Der Überweisungsauftrag wird wirksam, wenn er der Empfängerbank zugeht. Bei ausreichender Kontodeckung werden Überweisungen per Onlinebanking sofort ausgeführt.
+
+Nach Zugang des Überweisungsauftrags bei der Empfängerbank ist die Stornierung des Überweisungsbetrages durch uns nicht mehr möglich. Bis zu diesem Zeitpunkt ist ein Widerruf durch Erklärung gegenüber der Bank möglich.
+
+Sofern die angegebene Bankverbindung nicht existiert, wird das Geld automatisch retourniert. Wurde der Betrag dagegen bereits der angegebenen Bankverbindung gutgeschrieben, so wenden Sie sich zur Rückbuchung bitte direkt an den Überweisungsempfänger. Nach Gutschrift auf dem Konto des Zahlungsempfängers ist eine Rücküberweisung nur mit dessen Einwilligung möglich.
+###
+Was ist eine Eilüberweisung / Blitzüberweisung?
+Eine Eil- oder auch Blitzüberweisung kommt, wie ihr Name schon verrät, schneller bei ihrem Empfänger an, als eine normale Überweisung. Soweit die Eilüberweisung rechtzeitig aufgegeben wurde, wird der Betrag dem Empfängerkonto noch am gleichen Tag (Geschäftstag) gutgeschrieben. Zu den Geschäftstagen und den Preisen der Bank siehe unser Preis- und Leistungsverzeichnis.
+
+###
+Von meinem Konto wurde ein Betrag per Lastschrift gezogen. Wie kann ich dieser Belastung widersprechen und den Betrag zurückbuchen lassen?
+
+Wenn auf Ihrem Konto unberechtigt ein Betrag per Lastschrift abgebucht wurde, können Sie die Buchung innerhalb von 8 Wochen, nach Belastung, ohne Angabe von Gründen rückgängig machen. Dazu haben Sie folgende Möglichkeiten:
+
+    Im Onlinebanking der Bank: Dort finden Sie die entsprechende Funktion unter dem Reiter „Banking“ im Menüpunkt „Zahlungsaufträge“.
+    Telefonisch: Rufen Sie unser Service Center unter 06196 / 938 4220 an
+    In einem unserer Beratungscenter: Sprechen Sie hier mit einem unserer Mitarbeiter.
+###
+Ich möchte eine Lastschrift dauerhaft stornieren, bzw. löschen lassen. An wen kann ich mich wenden?
+Da Sie die Einzugsermächtigung beim Empfänger erteilt haben, müssen Sie diese auch hier widerrufen. Wir haben nicht die Möglichkeit, eine generelle Lastschriftsperre für einen bestimmten Empfänger einzurichten.
+###
+Ich möchte eine Lastschrift zu Gunsten meines Kontos einreichen. Ist das möglich?
+Für die Einreichung von Lastschriften zur Gutschrift benötigen Geschäftskunden und Vereine eine gesonderte Lastschriftvereinbarung. Lastschriften zur Gutschrift können von Privatkunden leider nicht eingereicht werden.
+###
+Ich habe einen Scheck erhalten. Wie kann ich diesen auf meinem Konto gutschreiben lassen?
+
+Diesen können Sie formulargebunden bei einem unserer Beratungscenter einreichen.
+
+Vorlegungsfristen:
+8 Kalendertage  für im Inland ausgestellte Schecks
+20 Kalendertage für in Europa und den Mittelmeerländern ausgestellte Schecks
+70 Kalendertage für in der übrigen Welt ausgestellte Schecks
+###
+Ich habe meine girocard erhalten, kann diese aber noch nicht verwenden. Wann erhalte ich die dazugehörige PIN?
+Die 4-stellige PIN erhalten Sie aus Sicherheitsgründen wenige Tage nach der Karte mit separater Post. Gleiches gilt für die Kreditkartenprodukte der Bank.
+###
+Was ist eine PIN?
+
+Die Abkürzung PIN steht für "Persönliche Identifikationsnummer". Es gibt verschiedene Arten von PIN:
+
+    Onlinebanking PIN in Verbindung mit Ihrem Girokonto für die Onlinebanking-Nutzung (Finanzstatus, Umsätze etc.). Für die Freigabe von Online-Transaktionen (Überweisungen, Online-Aufträge, Wertpapier-Orders, etc.) benötigen Sie zusätzlich zur PIN noch eine TAN (Transaktionsnummer).
+    Bankkarten-PIN: Für Kartenzahlungen und Bargeldabhebungen am Automaten. Diese PIN erhalten Sie bei Neubestellung separat zu Ihrer girocard.
+    Kreditkarten-PIN: Für Bargeldabhebungen und bei Kartenzahlungen (vor allem im Ausland). Diese PIN erhalten Sie bei Neubestellung separat zu Ihrer PSD Kreditkarte.
+    Hinweis: Geben Sie Ihre PIN niemals an Dritte weiter!
+###
+Kann ich meine PIN ändern?
+Sie können die PIN Ihrer girocard oder PSD Kreditkarte kostenlos an allen Geldautomaten des BankCard ServiceNetzes ändern, an denen diese Funktion mit dem neuen Auswahlpunkt „PIN verwalten“ angezeigt wird. Ihre neue PIN (auch 4 Stellen) gilt dann ab sofort statt der alten.
+###
+Was ist ein Karten-Verfügungslimit?
+
+    Karten-Verfügungslimit bedeutet, dass innerhalb eines bestimmten Zeitraumes Verfügungen mit der Karte nur bis zu einer festgelegten Höhe möglich sind. Auf diese Weise soll im Falle eines Karten-Missbrauchs (z.B. durch Skimming) der Schaden so gering wie möglich gehalten werden.
+    Die Verfügungslimite können sich hinsichtlich der Karten- und Einsatzart voneinander unterscheiden. Die jeweiligen Verfügungslimite der angebotenen Karten finden Sie in den Rubriken Geschäftkunden, Privatkunden und Vereine im Menüpunkt "Karten". Gerne nehmen wir einen legitimierten Auftrag von Ihnen entgegen, Ihr girocard -Verfügungslimit temporär zu erhöhen.
+###
+Wann kann der online verfügbare Betrag geringer sein als der aktuelle Kontosaldo?
+
+Zu dieser Situation kann es kommen, wenn:
+
+    das wöchentliche Online-Überweisungslimit kleiner ist als der Kontosaldo.
+    Bargeldverfügungen dem Konto noch nicht belastet, aber bereits vorgemerkt wurden.
+    garantierte Kartenzahlungen dem Konto noch nicht belastet wurden.
+    zur Gutschrift eingereichte Schecks und Lastschriften bereits gebucht, aber noch nicht verfügbar sind.
+    eine Pfändung auf Ihrem Konto vorliegt.
+###
+Ab wann sind zur Gutschrift eingereichte Schecks und Lastschriften verfügbar?
+Zur Gutschrift eingereichte Schecks und Lastschriften sind 6 Bankarbeitstage nach dem Buchungstag verfügbar.
+###
+Wie kann ich das Verfügungslimit im Onlinebanking ändern?
+Gerne nehmen wir hier Ihren legitimierten Auftrag über das Onlinebanking entgegen und passen Ihr Limit, dauerhaft oder temporär, Ihren Wünschen an.
+###
+Wie kann ich bankinterne Umbuchungen oder eine größere Umbuchung von meinem Tagesgeldkonto auf das hinterlegte Referenzkonto veranlassen?
+Für bankinterne Umbuchungen an sich selbst sowie Umbuchungen auf ein vereinbartes Referenzkonto können Sie im Onlinebanking anstelle der Auftragsart "Überweisung" auch die Auftragsart "Umbuchung" nutzen. Dadurch sind diese Verfügungen dann nicht mehr von dem beschriebenen Verfügungslimit betroffen.
+###

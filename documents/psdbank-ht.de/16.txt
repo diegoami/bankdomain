@@ -1,0 +1,44 @@
+###
+Was ist IDnow?
+
+IDnow ist die von uns seit Mitte Februar angebotene videobasierte Identitätskontrolle, welche der Identifikationspflicht nach dem Geldwäschegesetz entspricht.
+
+Bei diesem Verfahren wird der Kunde mittels Video-Chat identifiziert. Die Legitimation erfolgt durch unseren Kooperationspartner IDnow.
+
+Die Sofort-Legitimation stellt eine zusätzliche Option zur Legitimation in einem unserer PSD BeratungsCenter oder mittels dem Postident-Verfahren dar.
+###
+Was sind die Voraussetzungen für die Sofort-Legitimation?
+
+    Ihr gültiger deutscher Personalausweis oder Reisepass (derzeit sind technisch bedingt nur deutsche Ausweisdokumente möglich)
+    Ein PC mit gängigem Browser, Webcam und Mikrofon oder ein Smartphone bzw. Tablet (mit Betriebssystem Android oder iOS) und eine schnelle Internetverbindung
+    Ihr Mobiltelefon für den Erhalt des Ident-Codes
+###
+Welche Ausweise werden bei der Sofort-Legimitation akzeptiert?
+
+Derzeit werden technisch bedingt nur deutsche Ausweisdokumente (gültiger deutscher Personalausweis oder Reisepass) akzeptiert.
+
+Möchten Sie sich mit einem anderen Ausweis legitimieren, bitten wir Sie Postident zur Identitätsfeststellung zu nutzen.
+###
+Wie sicher sind meine Daten bei der Sofort-Legimitation ?
+Ihre Daten sind sicher und werden verschlüsselt von IDnow an die PSD Bank Hessen-Thüringen eG übertragen. Die Fotos und die Tonaufzeichnungen werden nach bankrechtlichen Vorschriften gespeichert. Eine Aufzeichnung der Videoübertragung findet nicht statt. Falls Sie keine Erstellung und Speicherung von Fotos oder einer Aufzeichnung wünschen, bitten wir Sie zur Identitätsfeststellung Postident zu nutzen.
+###
+Wie läuft die Sofort-Legitimation ab?
+Zur Sofort-Legitimation wird eine sichere Verbindung zwischen Ihrem PC, Smartphone oder Tablet und IDnow aufgebaut. Im Rahmen der Sofort-Legitimation fertigt IDnow Fotos von Ihnen und der vollständigen Vorder- und Rückseite Ihres Personalausweises an. Zur Prüfung der Authentizität des Ausweises prüft IDnow die Unversehrtheit und das Vorhandensein  der optischen Sicherheitsmerkmale. Dazu wird Sie der IDnow-Mitarbeiter bitten den Personalausweis vor der Kamera in bestimmte Positionen zu bringen. Zum Abschluss der Identitätsfeststellung wird IDnow Ihnen einen Freigabecode per SMS senden. Das Verfahren entspricht den Vorgaben der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin). 
+###
+Für welche Produkte ist die Durchführung von Sofort-Legitimation möglich?
+
+Die Sofort-Legitimation kann für Produkte wie: PSD GiroDirekt, PSD FestGeld, PSD SparBrief, PSD WachstumsSparen, PSD TagesGeld und PSD PrivatKredit durchgeführt werden.
+
+###
+Kann man die Sofort-Legitimation für einen Dritten durchführen?
+Es ist nicht möglich die Sofort-Legitimation für einen Dritten durchzuführen. Für die Sofort-Legitimation muss der Antragsteller persönlich den Videochat durchführen, um die Identität eindeutig festzustellen.
+###
+Wie übermittelt IDnow die erfassten Daten an die PSD Bank Hessen-Thüringen eG ?
+Die Daten werden zur weiteren Bearbeitung und Speicherung verschlüsselt nach bankrechtlichen Vorschiften an die PSD Bank Hessen-Thüringen eG übermittelt.
+###
+Wie geht man bei einem Abbruch der Sofort-Legitimation vor?
+Sollte die Sofort-Legitimation von Ihnen oder aus technischen Gründen nicht beendet werden, werden alle Daten umgehend gelöscht. Selbstverständlich können Sie die Sofort-Legitimation wiederholt beginnen. Folgen Sie dazu bitte dem Link der Bestätigungsmail der PSD Bank Hessen-Thüringen eG, die Ihnen nach dem Abschluss des Online-Antrags zugesendet wurde.
+###
+Was muss man nach einer erfolgreichen Sofort-Legitimation tun?
+Nach Abschluss der Sofort-Legitimation können Sie das Browserfenster von IDnow schließen. Bitte denken Sie daran Ihren Online-Antrag auszudrucken und unterschrieben per Post an die PSD Bank Hessen-Thüringen eG zu schicken.
+###

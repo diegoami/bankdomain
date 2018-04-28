@@ -1,0 +1,21 @@
+###
+Wie funktioniert das HBCI / FinTS-Verfahren mit Schlüsseldatei?
+
+Für den Online-Banking mit FinTS gibt es heute neben dem PIN/TAN-Verfahren das HBCI classic Verfahren mit zwei Möglichkeiten der Kundenauthentifizierung. Dies ist entweder die Nutzung einer Signatur-Chipkarte oder die Verwendung einer HBCI-Schlüsseldatei RDH-10.
+
+
+Das HBCI / FinTS-Verfahren mit Schlüsseldatei basiert auf dem Einsatz einer elektronischen Signatur, denn jeden Vertrag muss unterschrieben werden. Die Software erzeugt für die Signatur einen Schlüssel, den man auf einem persistenten Spechermedium wie z. B. einem USB-Stick speichert. Bei der Einrichtung wird der öffentliche Teil des Schlüssels online an die Bank übermittelt. Dazu wird von der HBCI-Software ein INI-Brief erzeugt. Der vom Kunden unterschriebener INI-Brief bestätigt der Bank die Authentizität der elektronischen Signatur. Für die Überweisungen wird keine TAN-Nummern mehr benötigt, sondern nur noch die Schlüsseldatei.
+
+
+Für das HBCI/FinTS-Verfahren mit Schlüsseldatei sieht der Standard verschiedene Sicherheitsprofile vor. Derzeit sind das RDH-1, RDH-2, RDH-10 sowie RAH-10. Diese unterscheiden sich in kryptographischen Merkmalen wie z.B. in den Längen der verwendeten Schlüssel von 768bit bis 4096bit.
+
+
+Die neue EU-Richtlinie zur Regelung der Geschäftstätigkeit von Zahlungsdienstleistern in der EU (PSD II) wird die bislang geltende Zahlungsdienste-Richtlinie (PSD I) ersetzen und die Zahlungsdienstleister sowie Zahlungsformen, die bis jetzt nicht reguliert waren, erfassen. Des Weiteren soll diese Richtlinie neuen Zahlungsmöglichkeiten eine rechtliche Grundlage geben und damit den Weg für neue Bezahlarten erleichtern. Dabei werden die gestiegenen Anforderungen an den Datenschutz und der Sicherheit von elektronischen Zahlungen ebenso berücksichtigt.
+
+
+Zur Durchführung der starken Kundenauthentifizierung gemäß PSD II müssen zwei Elemente aus den Kategorien „Wissen“, „Besitz“ und „Inhärenz“ (Biometrie) verwendet werden. Dabei muss der Faktor „Besitz“ eindeutig sein und darf nur einmal existent vorliegen. Eine Karte erfüllt z. B. das Kriterium „Besitz“ und eine PIN den Faktor „Wissen“.
+
+
+Gemäß PSD II sind Sicherheitsverfahren als Besitzelement zulässig, wenn sie ein Kopieren wirksam verhindern. Da eine Schlüsseldatei im Sicherheitsverfahren RDH-10 kopierbar ist und an verschiedenen Stellen gleichzeitig verwendet werden kann, erfüllt sie den Faktor „Besitz“ nicht. Vor diesem Hintergrund wurde in der DK beschlossen, dass unter Gültigkeit der PSD II eine kopierbare Schlüsseldatei nicht mehr verwendet werden darf und das RDH-10-Verfahren abgelöst werden muss. Mögliche Alternativen sind die Nutzung einer Signatur-Chipkarte oder ein PIN/TAN-Verfahren. Eine Entscheidung, welches Alternativ-Verfahren genutzt werden soll, hängt individuell von der Situation des Kunden ab.
+
+###

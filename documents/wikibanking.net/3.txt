@@ -1,0 +1,31 @@
+###
+Wie funktioniert das iTAN-Verfahren ?
+
+Mit der iTAN-Liste wurde das Verfahren der TAN-Liste weiterentwickelt. Das "i" steht hierbei für "indiziert", was soviel heißt wie "verweisen auf".
+
+Bei diesem Verfahren erhält der Kunde von seinem Kreditinstitut eine Liste mit nummerierten TANs.
+Funktionsweise des iTAN- Verfahrens
+
+Während einer Online-Transaktion wird der Kunde aufgefordert, die zu der angezeigten Ziffer gehörige TAN einzugeben. Nach der Verwendung wird die TAN durchgestrichen. Sobald alle verbraucht sind, erhält der Kunde eine neue Liste.
+
+Vorteile
+
+Ohne vorliegende Liste schwer zu knacken:
+
+Um eine Überweisungen tätigen zu können, benötigt der Nutzer genau die TAN, die hinter der angezeigten Nummer steht.
+
+Fängt der Betrüger diese ab, kann er diese bei seiner Überweisung nur mit geringer Wahrscheinlichkeit verwenden, da das System nach einer anderen Nummer fragen wird.
+Gefahren
+Phishing
+
+Die Betrüger können durch Phishingangriffe eine TAN ergaunern, die sie mit etwas Glück bei einer folgenden Überweisung nutzen können. Dies funktioniert jedoch nur, wenn genau diese TAN abgefragt wird. Diese Wahrscheinlichkeit ist sehr gering.
+Beispiel
+
+Tanja folgt dem Link zu Ihrer Bank, den sie per E-Mail erhalten hat. Sie ahnt nicht, dass es sich nicht um die Seite Ihrer Bank, sondern um eine ähnlich aussehende Seite der Betrüger handelt. Sie gibt wie immer Ihre Überweisungsdaten und Ihre TAN Nr. 45 ein. Allerdings fangen die Betrüger die TAN ab und starten eine neue Überweisung.  Wird hier nach der TAN 45 gefragt, können sie das Konto leerräumen.
+Trojaner
+
+Daher setzen die Betrüger meist auf Man-in-the-middle-Angriffe. Hier wird ein Trojaner auf den Rechner des Nutzers gespielt, der sich während einer Transaktion dazwischen schaltet und die Daten nicht der Bank überspielt, sondern den Betrügern. Diese können die Summe ändern oder die Kontonummer durch die eigene ersetzen.
+Beispiel
+
+Tanja gibt die TAN mit der Nummer 45 ein. Nachdem bei Klick auf Absenden die Verbindung abgebrochen ist, versucht sie es nochmal - diesmal mit einer anderen TAN. Gleichzeitig verwenden nun die Betrüger ihre TAN 45, verändern per Fernsteuerung den Geldbetrag und das Konto und räumen so ihr Konto leer.
+###

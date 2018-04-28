@@ -1,0 +1,45 @@
+###
+Welche Voraussetzungen muss ich erfüllen, um die Funktion "Geld senden & anfordern" nutzen zu können?
+
+Um "Geld senden & anfordern" nutzen zu können, benötigen Sie einen Online-Banking-Zugang bei Ihrer
+PSD Bank sowie die PSD BankingApp (iOS 9.0 und höher oder Android 4.1 und höher). Ihre Kontakte sind ebenfalls Kunden einer PSD Bank oder der Volksbanken Raiffeisenbanken und nutzen die Funktion "Geld senden & anfordern".
+
+Geld senden & anfordern funktioniert auch mit Kwitt von den Sparkassen.
+Wichtiger Hinweis: Die Funktion kann nicht in beiden Apps parallel genutzt werden. Bei Nutzern, die schon in beiden Apps registriert sind, wurde bereits das jeweils ältere Konto deaktiviert. Das können Sie jederzeit in der App wieder rückgängig machen.
+###
+Wie sehe ich, ob mir jemand Geld gesendet hat oder ob jemand Geld bei mir anfordert?
+Wenn Sie in den Einstellungen Ihres Smartphones Push-Nachrichten für die Anwendung erlaubt haben, erhalten Sie auf diesem Wege eine Benachrichtigung. Andernfalls erhalten Sie beim Öffnen der App eine Benachrichtigung.
+###
+Wann erhält der Empfänger das Geld, nachdem ich es gesendet habe?
+Wenn der Empfänger sein Konto ebenfalls bei einer PSD Bank hat, erhält dieser das Geld sofort. Hat der Empfänger sein Konto dagegen bei der Volksbank Raiffeisenbank, so dauert es genauso lange wie bei einer regulären Überweisung.
+###
+Kann ich auch ablehnen, wenn jemand Geld bei mir anfordert?
+Ja, Sie können eine Anforderung ablehnen. Der Anfordernde erhält hierzu eine Benachrichtigung.
+###
+Wie lange habe ich Zeit, um zu antworten, wenn jemand Geld bei mir anfordert?
+Sie haben 21 Tage Zeit, um zu antworten. Erst danach läuft die Anforderung ab.
+###
+Benötige ich eine TAN, um Geld zu senden?
+Beträge bis zu 30 Euro (maximal 150 Euro am Tag) können Sie ohne TAN senden. Bei Beträgen darüber hinaus gelten die gleichen Limits wie im Online-Banking.
+###
+Was bedeutet es, einen Kontakt zu blockieren?
+Wenn Sie von einem Kontakt keine Anforderungen oder Geld erhalten möchten, können Sie diesen blockieren. Dieser Kontakt wird in Ihrer Kontaktliste dann nicht mehr angezeigt. Die Blockierung können Sie jederzeit wieder aufheben.
+###
+Was passiert mit "Geld senden & anfordern", wenn ich ein neues Handy habe?
+Sofern Sie ein Backup erstellt haben, können Sie diese Daten ganz einfach auf ihr neues Handy übertragen. Danach registrieren Sie Ihre App im Online-Banking im Bereich "Service: Geld senden & anfordern" erneut.
+###
+Was passiert mit "Geld senden & anfordern", wenn ich eine neue Nummer habe?
+Im Online-Banking können Sie im Bereich "Service: Geld senden & anfordern" Ihre Mobilfunknummer ändern. Nach einer TAN-Eingabe erhalten Sie einen SMS-Code, den Sie im Bereich "Service: Geld senden & anfordern" eingeben. Die Historie Ihrer Daten bleibt erhalten.
+###
+Wie kann ich ein anderes Konto für "Geld senden & anfordern", wählen?
+Sie können im Online-Banking im Bereich "Service: Geld senden & anfordern" ein neues Konto auswählen.
+###
+Handelt es sich um eine Lastschrift, wenn ich Geld anfordere?
+Nein. Wenn Sie Geld anfordern, überweist Ihr Kontakt Ihnen das Geld.
+###
+Wer kann mir eine Anforderung für "Geld senden & anfordern" senden?
+Sie erhalten nur Anforderungen von Personen, die Sie in Ihrem Adressbuch gespeichert haben und in deren Adressbuch Sie gespeichert sind.
+###
+Wo finde ich die Nutzungsbedingungen für "Geld senden & anfordern" ?
+Die Nutzungsbedingungen finden Sie bei der Anmeldung im Online-Banking.
+###

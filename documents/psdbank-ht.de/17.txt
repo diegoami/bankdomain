@@ -1,0 +1,32 @@
+###
+Online-Bezahlen ist mir zu unsicher. Warum soll ich jetzt paydirekt nutzen?
+paydirekt nutzt das eigene Girokonto im Hintergrund und wird daher von der Bank in bewährter Form abgesichert. So sind Sicherheit, Datenschutz und Transparenz der Bezahlvorgänge durch deutsche Normen und Regularien garantiert.
+###
+Welche Garantien bietet paydirekt beim Online-Bezahlen?
+Sollte der Kunde seine bestellte Ware nicht erhalten, so greift der Käuferschutz und der Kunde erhält sein Geld zurück. Auch der Händler hat die Gewissheit, dass der Kunde zahlungsfähig ist, sonst wird die Zahlung gar nicht erst ausgelöst.
+###
+Wer hat Zugriff auf meine Daten bei paydirekt?
+paydirekt verkauft keine Daten der Kunden. Ihre Kontodaten bleiben bei Ihrer PSD Bank Hessen-Thüringen eG und werden nicht an den Händler weitergegeben. Zudem nimmt das Bezahlsystem keine außereuropäischen Umwege im Zahlungsverkehr. Die Server und die Datenströme laufen ausschließlich in Deutschland (Made in Germany).
+###
+Welche Voraussetzungen brauche ich für paydirekt?
+Voraussetzung für die Teilnahme an paydirekt ist ein onlinefähiges Girokonto. Sollten Sie Ihr Konto noch nicht für das OnlineBanking freigeschaltet haben, so nehmen Sie bitte Kontakt zu Ihrer PSD Bank Hessen-Thüringen eG auf.
+###
+Wo kann ich mich für paydirekt anmelden?
+Ab sofort können Sie sich im PSD OnlineBanking Ihrer PSD Bank Hessen-Thüringen eG für paydirekt registrieren. Über den Button "Service -> Weitere Services -> paydirekt" öffnet sich ein Formular. Hier können Sie Ihre Daten eingeben und sich kostenlos für das neue Online-Bezahlverfahren anmelden.
+###
+Wie funktioniert paydirekt beim Einkaufen?
+Ab sofort steht die Bezahlfunktion in ausgewählten Online-Shops für Sie zur Verfügung. Nach Ihrem Einkauf wählen Sie paydirekt im Bezahlvorgang aus. Geben Sie einfach Ihren Benutzernamen oder Ihre E-Mail-Adresse und Ihr Passwort ein. Danach erhalten Sie eine Bestätigung Ihres Einkaufs und der Betrag wird direkt von Ihrem Girokonto abgebucht.
+###
+Wer steht hinter paydirekt?
+paydirekt wurde von Genossenschaftsbanken, Privatbanken sowie Sparkassen in Deutschland entwickelt und ist der neue Bankenstandard beim Online-Bezahlen
+###
+Bei welchen Händlern kann ich mit paydirekt einkaufen?
+
+Bei paydirekt handelt es sich um ein Online-Bezahlverfahren, also gewissermaßen um eine technische Infrastruktur, für Ihren Einkauf.
+
+Damit Sie sicher mit paydirekt zahlen können, muss es im Vorfeld bereits durch den Händler Ihres Vertrauens implementiert worden sein.
+
+Aktuell können Sie u.a. schon bei folgenden Händlern mit paydirekt einkaufen:
+
+https://www.paydirekt.de/kaeufer/paydirekt-online-bezahlen-kaeufer-Shops.html
+###

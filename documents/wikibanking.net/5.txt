@@ -1,0 +1,14 @@
+###
+Wie funktioniert das chipTAN USB-Verfahren?
+
+
+
+Ab sofort gibt es eine zusätzliche Möglichkeit das Onlinebanking noch sicherer zu machen. Die Methode kombiniert das bewährte chipTAN- bzw. sm@artTAN-Verfahren mit einem USB-Gerät.
+Dieses wird einfach an Ihren Rechner angeschlossen.
+
+Die Sparkassen haben bereits zugestimmt, ihren Kunden das neue chipTAN USB-Verfahren anzubieten. Die Umstellung hat schon begonnen und bis spätestens Ende 2021 werden die Deutschen Sparkassen verstärkt und ggf. auch weitere Kreditinstitute das bekannte HBCI-Verfahren mit Chipkarte durch das chipTAN USB-Verfahren mit Chipkarte ablösen.
+
+Alles, was man dann für die sichere Online-Abwicklung der Bankgeschäfte braucht, bietet REINER SCT bereits an: mit einem einfachen Upgrade können Sie verschiedene Chipkartenleser für alle Chipkarten-basierten Banking-Verfahren bei allen Banken nutzen.
+
+Einfache Voraussetzung für die Nutzung des neuen Verfahrens ist eine Finanzsoftware für Online-Banking, die chipTAN USB unterstützt. Dazu gehören z.B. StarMoney, WISO mein Geld, MacGiro und MoneyMoney, uvam.
+###

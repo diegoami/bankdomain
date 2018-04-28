@@ -1,0 +1,67 @@
+###
+Warum fragen Sie mich nach meiner Staatsangehörigkeit bzw. Steuerverpflichtung in den USA?
+Durch ein Abkommen zwischen Deutschland und den USA sind deutsche Banken verpflichtet, ihre Kunden nach ihrer US-Steuerpflicht zu fragen.
+###
+Was bedeutet FATCA?
+Wörtlich übersetzt: Foreign Account Tax Compliance Act. Es ist ein amerikanisches Gesetz zur Bekämpfung von Steuerhinterziehung. Durch ein Abkommen zwischen Deutschland und den USA sind deutsche Banken verpflichtet, ihre Kunden auf US-Steuerpflichtige zu überprüfen.
+###
+Warum wird FATCA eingeführt?
+Die USA möchten weltweit alle US-Steuerpflichtigen gemeldet bekommen.
+###
+Wer meldet meine Daten an wen?
+Die Bank ist verpflichtet, Ihre Daten an das Bundeszentralamt für Steuern (BZSt) zu melden. Dieses wiederum gibt Ihre Daten an das amerikanische Finanzamt weiter.
+###
+Was wird in die USA gemeldet?
+Für das Jahr 2014: Name, Adresse, Steuernummer, IBAN und Kontostände. Ab 2015 werden zusätzlich Zins- und Dividendenerträge gemeldet.
+###
+Ich möchte nicht, dass meine Daten gemeldet werden, wo / wie kann ich widersprechen?
+Der Meldung kann nicht widersprochen werden, da das Abkommen zwischen Deutschland und den USA in ein deutsches Gesetz umgewandelt wurde.
+###
+Warum greift der Datenschutz / das Bankgeheimnis nicht?
+Durch die Umsetzung der Vereinbarung zwischen Deutschland und den USA in deutsches Recht sind diese Regeln vorrangig vor dem Bundesdatenschutzgesetz bzw. Bankgeheimnis zu beachten.
+###
+Was machen die USA mit meinen Daten?
+Die gemeldeten Personen werden auf Steuerpflicht in den USA überprüft.
+###
+Warum schickt die Bank mir Formulare zu?
+Wenn in Ihren Daten US-Indizien wie US-Adresse, US-Telefonnummer, US-Staatsangehörigkeit oder ähnliches festgestellt werden, ist die Bank verpflichtet, zu verifizieren, ob Sie in den USA Steuern bezahlen müssen. Wenn Sie nicht steuerpflichtig sind, bekommen Sie von uns das Formular W8-BEN. Wenn Sie dieses ausfüllen und uns eine Ausweiskopie zur Verfügung stellen, werden keine Daten an die USA gemeldet.
+###
+Warum sind die Formulare in englischer Sprache?
+Wenn in Ihren Daten US-Indizien wie US-Adresse, US-Telefonnummer, US-Staatsangehörigkeit oder ähnliches festgestellt werden, ist die Bank verpflichtet, zu verifizieren, ob Sie in den USA Steuern bezahlen müssen. Wenn Sie nicht steuerpflichtig sind, bekommen Sie von uns das Formular W8-BEN. Wenn Sie dieses ausfüllen und uns eine Ausweiskopie zur Verfügung stellen, werden keine Daten an die USA gemeldet.
+###
+Wie muss ich die Formulare ausfüllen?
+Sowohl eine Ausfüllhilfe als auch eine inoffizielle deutsche Übersetzung können Sie von Ihrer Bank auf Anfrage erhalten.
+###
+Was passiert, wenn ich die Formulare nicht zurück schicke?
+Dann sind wir als Bank auf jeden Fall dazu verpflichtet, Ihre Daten in die USA zu melden.
+###
+Was passiert, wenn ich US-Staatsbürger bin?
+Sie müssen das Formular W9 ausfüllen und Ihre Daten werden über das Bundeszentralamt für Steuern an das amerikanische Finanzamt gemeldet.
+###
+Müssen amerikanische Banken auch ihre Kunden nach der Staatsangehörigkeit fragen?
+Ja, das Abkommen zwischen den USA und Deutschland begründet Pflichten für beide Vertragspartner.
+###
+Unter welchen Voraussetzungen bin ich steuerpflichtig in den USA, da ich US- Wertpapiere in meinem Depot habe / ich ein Ferienhaus in den USA habe usw.?
+Eine Bank darf keine Steuerberatung erteilen. Bitte fragen Sie das für Sie zuständige Finanzamt bzw. Ihren Steuerberater.
+###
+Ich habe ein gemeinsames Konto mit meinem US-Partner. Was bedeutet das für mich?
+Die Daten Ihres Partners werden gemeldet, wobei jedoch der gesamte Kontosaldo / die gesamten Kontensalden der Gemeinschaft gemeldet werden. Es werden jedoch keine Salden von Darlehen berücksichtigt.
+###
+Ich habe gehört, dass mein Guthaben erst ab einem Gesamtsaldo im Gegenwert von 50.000 $ gemeldet wird? Ab welchem Betrag wird mein Guthaben gemeldet?
+Das ist grundsätzlich richtig / grundsätzlich ab 50.000 $.
+###
+Muss ich selbst schon tätig werden?
+
+Wenn Sie selbst schon aufgrund der Fragen erkannt haben, dass die neuen Regelungen für Sie zutreffen, freuen wir uns natürlich über Ihre Mitwirkung und nehmen die von Ihnen schon ausgefüllten Formulare gerne entgegen. Im Grunde müssen Sie allerdings nichts machen. Wenn wir aufgrund der hinterlegten Daten einen Bezug erkennen, kommen wir auf Sie zu und erläutern Ihnen in einem Schreiben noch einmal die grundsätzlichen Punkte.
+
+Im nächsten Abschnitt finden Sie alle Formulare, die Sie dann für die Rückmeldung benötigen. Nehmen Sie einfach den für Sie richtigen Vordruck, füllen ihn aus und lassen uns diesen zusammen mit den entsprechenden Nachweisen per Post zukommen.
+###
+Welche Meldefristen sind zu berücksichtigen?
+Die relevanten Daten werden jeweils zum Jahresende erhoben. Die Bank hat dann bis zum 30.09. des Folgejahres Zeit, die Daten an das BZSt zu melden.
+
+###
+Wo finde ich die Formulare?
+
+An dieser Stelle finden Sie die Vordrucke (in englischer Version).
+
+###

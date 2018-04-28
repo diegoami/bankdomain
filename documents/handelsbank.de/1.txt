@@ -1,0 +1,9 @@
+###
+Welche Voraussetzungen benötige ich für EBICS?
+
+Für die Nutzung von EBICS benötigen Sie Zugangsdaten, eine gültige Vereinbarung über die Datenfernübertragung, eine EBICS-fähige Finanzsoftware und einen Internet-Zugang.
+###
+Wie beantrage ich Zugangsdaten für EBICS?
+
+Sie beantragen Ihre Zugangsdaten für EBICS mit dem Antrag EBICS Anbindung und der Vereinbarung über die Datenfernübertragung. Bitte senden Sie diese Unterlagen ganz einfach unterzeichnet per Post an die Deutsche Handelsbank, Kundenbetreuung, Elsenheimerstr. 41, 80687 München, Deutschland.
+###

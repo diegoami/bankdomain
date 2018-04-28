@@ -1,0 +1,36 @@
+###
+
+Kann ich SEPA-Zahlungen auch in anderen Währungen als Euro abwickeln?
+
+Nein. SEPA-Zahlungen können nur in Euro abgewickelt werden. Zahlungen in anderen europäischen Währungen sind weiterhin nur mit einer Auslandsüberweisung möglich.
+###
+Welche Daten sind für den Einzug von SEPA-Lastschriften erforderlich?
+
+Ohne die Einholung eines Lastschriftmandats können Sie keine SEPA-Lastschriften einziehen. Zum SEPA-Lastschrifteinzug werden folgende Daten benötigt:
+
+    Gläubiger-ID (Gläubiger-Identifikationsnummer hier beantragen: www.glaeubiger-id.bundesbank.de)
+    Gültiges Lastschriftmandat (digitalisiert oder papierhaft) oder eine gültige umgewidmete Einzugsermächtigung
+    IBAN und BIC des Zahlungspflichtigen
+
+###
+    Was ist unter "Vorabinformation" zu verstehen?
+
+    Der Lastschrifteinreicher muss den Zahlungspflichtigen mindestens 14 Tage (sofern keine andere Frist mit dem Zahlungspflichtigen vereinbart wurde) vor dem Einzug der ersten Lastschrift über das Datum des Einzugs sowie die Mandatsreferenz informieren (Vorabinformation bzw. Pre-Notification).
+###
+
+    Was ist die Gläubiger-Identifikationsnummer (Creditor-Identifier oder Gläubiger-ID)?
+
+    Die Gläubiger-Identifikationsnummer brauchen Sie, um SEPA-Lastschriften einziehen zu dürfen. Beantragen Sie diese bei der Deutschen Bundesbank. Nach wenigen Tagen erhalten Sie Ihre individuelle ID. Möchten Sie SEPA-Lastschriften einziehen, müssen Sie Ihre Gläubiger-Identifikationsnummer auf dem Mandat vermerken. Beachten Sie bitte, dass Sie eine neue Gläubiger-Identifikationsnummer beantragen müssen, sollten sich die Stammdaten Ihres Unternehmens ändern (z.B. Änderung des Namens oder der Anschrift).
+
+###
+    Was ist IBAN-only?
+
+    Bereits bestehende Kontodaten können einfach mittels Kontonummer und Bankleitzahl in eine IBAN gewandelt werden. Durch diese Wandlung stehen dem Einreicher alle nötigen Daten zur Verfügung, so dass keine weitere Recherche mehr notwendig ist. Kunden können auch mit Einführung von IBAN only Zahlungen weiterhin mit BIC liefern. Wenn Kunden IBAN only nutzen möchten, ist es möglich, in einer Datei Zahlungen ohne BIC anzugeben. Die Befüllung des BIC ist für den Kunden optional möglich. Bitte beachten Sie, dass IBAN only bis 2016 nur für Zahlungen innerhalb Deutschlands zulässig ist. Ab voraussichtlich Februar 2016 wird IBAN only im gesamten SEPA Raum möglich sein. Bitte beachten Sie bei der Erstellung des XML Files die besondere Belegung der XML-Tags für IBAN only. Aktuelle Formatbeschreibung der SEPA XML Formate finde Sie hier.http://www.ebics.de/index.php?id=77
+
+###
+    Was ist SCL-Directory?
+
+    Das SEPA-Clearer-Directory (SCL-Directory) ist ein Verzeichnis der erreichbaren Zahlungsdienstleister und dient der automatisierten Abwicklung von SEPA-Zahlungen über die Deutsche Bundesbank. Es beinhaltet alle BICs der über den SEPA-Clearer erreichbaren Zahlungsdienstleister. Es besteht die Möglichkeit, mit Hilfe des SCL-Directory zu prüfen, ob der BIC eines Zahlungsdienstleisters erreichbar ist. Dies ist vor allem beim Einzug im SEPA-Firmen-Lastschriftverfahren wichtig, da hier keine gesetzlich vorgeschriebene Erreichbarkeitsverpflichtung besteht und nicht jede Bank diese Auftragsart anbietet. Hier gelangen Sie zu dem unverbindlichen Verzeichnis der Deutschen Bundesbank der erreichbaren Zahlungsdienstleister.
+
+
+###

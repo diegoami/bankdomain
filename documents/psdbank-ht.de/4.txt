@@ -1,0 +1,54 @@
+###
+Warum werden bei der Eröffnung eines Kontos die Zugangsdaten meiner bisherigen Bank benötigt?
+Die Daten Ihrer alten Bank dienen dazu, die bisherigen Zahlungspartner und Daueraufträge übersichtlich aufzulisten. So sparen Sie viel Zeit – das Durchsuchen Ihrer Unterlagen und Kontoauszüge ist nicht notwendig.
+###
+Welche Daten werden bei der Eröffnung eines Kontos verarbeitet?
+
+Damit wir Ihnen den bestmöglichen Service bieten können, werden folgende Daten benötigt:
+
+    Ihre Anschrift als Absenderadresse für die Anschreiben an Ihre Zahlungspartner
+    Ihre Bankleitzahl und Onlinebanking-Zugangsdaten für die Ermittlung der Zahlungspartner und Daueraufträge
+
+Ihre Daten werden nur einmalig verarbeitet, verschlüsselt übertragen und unmittelbar nach dem abgeschlossenen Kontowechsel wieder gelöscht.
+###
+Sind meine Daten bei der Eröffnung eines Kontos sicher?
+Ja. Ihre Daten werden lediglich für die Ermittlung der Zahlungspartner und Daueraufträge benötigt. Zu keinem Zeitpunkt werden Ihre Daten an Dritte übermittelt oder für andere Zwecke genutzt.
+
+Zu Ihrer Sicherheit werden wir Sie niemals nach einer TAN Ihrer bisherigen Bank fragen.
+###
+Werden alle Zahlungspartner bei der Eröffnung eines Kontos automatisch erkannt?
+Je nach Bank werden nur die Umsätze der letzten 90 Tage oder von bis zu 12 Monaten bereitgestellt.
+
+Wir zeigen Ihnen mögliche Vorschläge für fehlende Zahlungspartner an – zum Beispiel für die KFZ-Versicherung, die nur am Jahresanfang abgebucht wird.
+###
+Muss ich nach dem Kontowechsel noch etwas tun?
+Bitte überprüfen Sie bei der nächsten Lastschrift, ob alle Zahlungspartner Ihre neue Kontoverbindung übernommen haben.
+###
+Welche Dokumente enthält das Kontowechselpaket?
+
+Sobald Sie den Kontowechselservice abgeschlossen haben, erhalten Sie per E-Mail ein Kontowechselpaket mit folgenden Dokumenten:
+
+    ein Übertragungsprotokoll mit den von uns automatisch benachrichtigten Zahlungspartnern
+    Schreiben, die Sie selbst ausdrucken und an Ihre Zahlungspartner versenden müssen (zum Beispiel die Kündigung Ihrer alten Bankverbindung)
+    eine Liste der Daueraufträge, die Sie für Ihr neues Konto anlegen und bei Ihrer bisherigen Bank löschen sollten
+###
+Was passiert, wenn ich den Kontowechsel abbreche?
+Alle Daten werden gelöscht, wenn der Kontowechsel von Ihnen selbst oder aus technischen Gründen vorzeitig beendet wird. Selbstverständlich können Sie den Vorgang jederzeit erneut starten.
+###
+Was kann ich tun, wenn Daten der Zahlungspartner unvollständig sind oder fehlen?
+Sie haben jederzeit die volle Kontrolle und können eigenständig Anschriften korrigieren. Ebenfalls ist es möglich Zahlungspartner hinzuzufügen oder zu ignorieren.
+###
+Kann ich mein altes Konto über den Kontowechselservice kündigen?
+
+Aus rechtlichen Gründen dürfen wir Ihr Konto nicht direkt kündigen. Allerdings bereiten wir ein Kündigungsschreiben vor, das sie nur noch unterschrieben an Ihre bisherige Bank senden müssen.
+
+Wir empfehlen Ihnen Ihr altes Konto ungefähr noch 6-8 Wochen parallel zum neuen Konto bestehen zu lassen, damit keine unerwünschten Rücklastschriften entstehen.
+###
+Wie erfolgt die Umstellung von Dauer- und Freistellungsaufträgen?
+
+Wir erstellen für Sie eine Übersicht Ihrer Daueraufträge auf Grundlage der Daten Ihrer bisherigen Bank. Das letztmalige Ausführungsdatum der Daueraufträge können Sie Ihrer Bank mit unserem Kündigungsschreiben mitteilen.
+
+Legen Sie auf der Grundlage des letzten Ausführungstermins neue Daueraufträge im PSD OnlineBanking an. So vermeiden Sie Doppelabbuchungen.
+
+Prüfen Sie Ihren alten Freistellungsauftrag und ändern Sie diesen bei Bedarf oder stellen Sie einen neuen Freistellungsauftrag bei uns.
+###

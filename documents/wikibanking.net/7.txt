@@ -1,0 +1,44 @@
+###
+Wie funktioniert das mTAN-Verfahren?
+
+
+mTAN
+
+mTAN steht für „mobileTAN“ und wird oft auch „SMS-TAN“ oder „mobil TAN“ genannt.
+
+Bei diesem Verfahren wird die TAN per SMS auf das Handy des Nutzers gesandt.
+
+Lange Zeit galt das Verfahren als sicher, da zwei voneinander getrennte Geräte zur TAN-Generierung verwendet werden. Da dieses Verfahren so beliebt ist, haben es sich Hacker jedoch zum Ziel gemacht, dieses Verfahren zu knacken, was ihnen in einigen Fällen auch gelungen ist.
+So funktioniert das mTAN-Verfahren
+
+Um dieses Verfahren nutzen zu können, benötigt der Nutzer einen PC sowie ein Handy mit SMS-Funktion und muss die Handynummer bei seiner Bank hinterlegen.
+
+Nachdem der Nutzer die Überweisungsdaten eingeben hat, bekommt er per SMS eine TAN zugeschickt, die nur wenige Minuten und nur für diese eine Überweisung gültig ist. Nachdem die TAN in das vorgegebene Feld eingetragen wurde, ist die Transaktion abgeschlossen.
+
+Kosten
+
+Bei manchen Banken wird die SMS kostenlos zugeschickt, bei manchen Banken kostet dies ein paar Cent, bei anderen Banken kostet dies erst nach der 5. Überweisung.
+Vorteile des mTAN-Verfahrens
+
+    Einfach: Fast jeder besitzt heutzutage ein Handy mit SMS-Funktion.
+    Sicher: Die TANs gelten nur zeitlich begrenzt und können nur einmalig für die angegebene Transaktion genutzt werden.
+    Aktuell: Die TANs sind nicht auf Vorrat angelegt und es ist keine Freischaltung neuer Nachfolgelisten notwendig.
+    Flexibel: Das Handy ist meist in der Nähe und daher von jedem Ort aus erreichbar, um Überweisungen tätigen zu können.
+    Komfortabel: Es wird kein extra Gerät oder eine Liste benötigt.
+    Unabhängig: Kontrollierbar: Prüfung möglich durch Anzeige der Überweisungsdaten
+    Sicher: TAN-Generierung mit zwei voneinander getrennten Geräten und vom PC-unabhängige Eingabe, Anzeige und Bestätigung der Transaktion
+
+
+Gefahren des mTAN-Verfahrens
+
+Seit 2010 wird auch dieses Verfahren als unsicher eingestuft. Gerade weil es so viele Menschen nutzen, haben Betrüger den Ehrgeiz entwickelt, das Verfahren zu knacken.
+Abfangen der SMS
+
+Betrüger spielen meist einen Trojaner durch eine Spammail auf den PC. Dieser setzt sich zwischen die Bank und den Kunden. Damit werden zunächst die Zugangsdaten abgefangen. Die Betrüger blenden während der Überweisung ein Formular ein. Darin sollen bestimmte Handydaten eingegeben werden, um angeblich ein Sicherheitsupdate durchzuführen. Auf dieses Handy wird eine App geschickt, die bei Installation die TANs abfängt und umleitet. So kann der Betrüger Überweisungen tätigen.
+
+Auch können Trojaner auf das Handy gespielt werden, wenn das Handy durch den PC aufgeladen oder synchronisiert wird, da dieses währenddessen mit dem PC verbunden ist.
+
+Bei Smartphones mit Internetzugang werden durch verschiedene Links oder Anhänge ebenfalls Trojaner aufgespielt, die die TANs abfangen.
+
+Durch Ausspähen des Computers ist es den Betrügen ebenfalls möglich, mit den geklauten Nutzerdaten z.B. beim Handyanbieter eine 2. SIM-Karte zu bestellen. Diese lassen sie sich an Ihre Adresse schicken und können damit alle SMS und damit auch die TANs umleiten.
+###

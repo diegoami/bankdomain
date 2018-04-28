@@ -1,0 +1,24 @@
+###
+Wie füge ich eine neue Zahlkarte im Masterpass Profile hinzu?
+
+Melden Sie sich bei Ihrem Masterpass Profil an und klicken Sie anschließend auf Karte hinzufügen. Geben Sie Ihre Kartendaten ein und vergessen Sie nicht, diese zu speichern.
+###
+Wie aktualisiere ich meine Karte oder meine Karten-Rechnungsdetails im Masterpass Profile ?
+
+Melden Sie sich bei Ihrem Masterpass Profil an, um Ihre Kartendaten, Profil-Informationen oder Versandadressen zu bearbeiten. Einzig Ihre Rechnungsadresse ist nicht nachträglich änderbar. Hat sich diese geändert, müssen Sie Ihre Karte einschließlich der aktualisierten Rechnungsadresse erneut hinzufügen.
+###
+Wie entferne ich eine Karte vom Masterpass Profile ?
+
+Melden Sie sich bei Ihrem Profil an, wählen Sie die zu löschende Karte aus und klicken Sie anschließend auf Löschen.
+###
+Wie ändere ich meine Standard-Zahlkarte im Masterpass Profile ?
+
+Um Ihre Standard-Zahlkarte zu ändern, melden Sie sich bei Ihrem Masterpass Profil an und aktivieren Sie dann das Kontrollkästchen neben der Karte, die Sie bevorzugt verwenden möchten.
+###
+Warum muss ich zusätzliche Sicherheitsinformationen im Masterpass Profile eingeben, wenn ich eine Karte hinzufügen oder bearbeiten möchte?
+
+Wenn Sie eine neue Karte hinzufügen oder Daten einer vorhandenen geändert haben, werden Sie möglicherweise online aufgefordert, einen Sicherheitscheck durchzuführen. Dieser Check (z.B. MasterCard® SecureCode™) ist vom Finanzinstitut, das Ihre Karte ausgestellt hat, initiiert. Durch Eingabe weiterer Sicherheitsinformationen bestätigen Sie, dass Sie der autorisierte Karteninhaber sind und Ihre Karte sicher hinzugefügt werden kann. Mit dieser Maßnahme wird das Risiko einer betrügerischen Verwendung Ihrer Karte reduziert.
+
+Weitere Informationen zu MasterCard® SecureCode™ finden Sie unter: https://www.mastercard.de/de-de/privatkunden/produkte-features/features/securecode.html. Weitere Informationen zu Verified by Visa finden Sie unter:  https://www.visa.de/produkte/zahlung-mit-visa#verified-by-visa
+
+###

@@ -1,0 +1,31 @@
+###
+Kann ich eine Postfachadresse als Versand- oder Rechnungsadresse eingeben?
+
+Ja, es ist möglich, in Ihrem Masterpass Profil eine Postfachadresse als Versand- oder Rechnungsadresse zu speichern. Da einige Online-Shops jedoch nicht an Postfachadressen versenden können, wird empfohlen, sich deren Richtlinien anzusehen, bevor Sie sich für einen Versand an eine Postfachadresse entscheiden. Wenn Sie eine Postfachadresse als Rechnungsadresse speichern möchten, jedoch eine Fehlermeldung erhalten, wenden Sie sich bitte an Ihre Bank oder das Finanzinstitut, das Ihre Karte ausgestellt hat, um zu prüfen, ob ein Problem mit Ihrer Rechnungsadresse vorliegt.
+###
+Meine Karte wurde vom Händler abgelehnt. Was kann ich tun?
+
+Zunächst sollten Sie prüfen, ob in Ihrem Masterpass Profil die korrekten und aktuellen Karteninformationen gespeichert sind. Melden Sie sich bei Ihrem Masterpass Profil an und klicken Sie unter „Zahlkarten“ auf Alle anzeigen. Sind die Angaben fehlerhaft, klicken Sie auf das Bearbeiten-Symbol neben der abgelehnten Karte und geben Sie die Kartendaten erneut ein.
+
+Sind die Angaben korrekt, wenden Sie sich bitte telefonisch an die Bank oder das Kreditinstitut, das die Karte ausgestellt hat, um zu erfahren, warum die Karte abgelehnt wurde. In der Regel befindet sich auf der Rückseite Ihrer Karte eine Telefonnummer des Kundenservices.
+###
+Was passiert, wenn der Händler die Karte nicht akzeptiert, die ich für den Zahlvorgang verwenden möchte?
+
+Auch wenn wir es Ihnen ermöglichen, die Karten aller bekannten Marken in Ihrem Profil zu speichern, kann es vorkommen, dass Händler nicht alle Karten akzeptieren. Wenn eine Karte nicht akzeptiert wird, können Sie diese Karte beim Zahlungsvorgang nicht auswählen und das Karten-Symbol ist deaktiviert. Onlinehändler, die Masterpass als Option beim Zahlvorgang anbieten, akzeptieren immer auch Mastercard.
+###
+Warum kann ich nicht an die Versandadresse versenden, die ich gerne benutzen möchte?
+
+Jeder Händler ist eigenständig und besitzt für den Versand jeweils eigene Richtlinien. Wenn ein Händler nicht an eine der von Ihnen hinterlegten Adressen liefern kann, ist das Symbol deaktiviert, das diese Adresse enthält. Bitte wählen Sie nach Möglichkeit eine andere Versandadresse. Falls dies nicht möglich ist, wenden Sie sich direkt an den Onlinehändler, um weitere Hilfe zu erhalten.
+###
+Während des Zahlvorgangs habe ich auf der Website vom Händler auf Masterpass geklickt. Nun bin ich jedoch auf einer neuen Seite gelandet. Wie melde ich mich für meinen Masterpass Account an?
+
+Nachdem Sie zur Bezahlung auf das Masterpass Logo geklickt oder getippt haben, müssen Sie Ihr Passwort eingeben, um sich anzumelden. Sollten Sie bei Ihrem letzten Besuch die Option „Auf diesem Gerät angemeldet bleiben“ nicht aktiviert haben oder den Browser zum ersten Mal für einen Zahlungsvorgang verwenden, müssen Sie Ihre E-Mail oder Mobilnummer eingeben, um den Anmeldevorgang abzuschließen.
+
+Markieren Sie für zukünftige Zahlungsvorgänge (Cookies müssen in Ihrem Browser aktiviert sein) das Kontrollkästchen Angemeldet bleiben , damit Sie nur Ihr Passwort eingeben müssen, um einen Einkauf abzuschließen.
+###
+Wie registriere ich mich während des Zahlvorgangs für Masterpass, wenn ich noch nicht angemeldet bin?
+
+Klicken oder tippen Sie auf der Website zum Zahlen mit Masterpass auf das Masterpass Logo. Geben Sie zur Registrierung bitte Ihre E-Mail oder Mobilnummer ein. Sie werden aufgefordert, Ihre Karten- und Profildaten einzugeben, um Ihr neues Masterpass Profil zu erstellen und Ihren Einkauf abzuschließen.
+
+Anschließend können Sie Ihren Masterpass Account überall dort zum Einkaufen verwenden, wo das Masterpass Logo beim Zahlvorgang erscheint.
+###

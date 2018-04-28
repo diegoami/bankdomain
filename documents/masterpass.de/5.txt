@@ -1,0 +1,19 @@
+###
+Wie füge ich eine neue Versandadresse hinzu?
+
+Um eine neue Versandadresse hinzuzufügen, melden Sie sich an und klicken Sie im Bereich „Versandadresse“ auf Adresse hinzufügen. Geben Sie dort Ihre neue Adresse ein und vergessen Sie nicht, diese zu speichern.
+
+###
+Wie aktualisiere ich eine Versandadresse?
+
+Melden Sie sich bei Ihrem Masterpass Profil an, klicken Sie im Bereich Versandadresse neben der Adresse, die Sie ändern möchten, auf Bearbeiten, aktualisieren Sie dann die Daten und klicken Sie abschließend auf Speichern.
+###
+Wie entferne ich eine Versandadresse?
+
+Melden Sie sich bei Ihrem Masterpass Profil an und klicken Sie im Bereich Versandadresse neben der Adresse, die Sie löschen möchten, auf Löschen.
+###
+Wie ändere ich meine Standard-Versandadresse?
+
+Melden Sie sich bei Ihrem Masterpass Profil an und markieren Sie das Kontrollkästchen neben der Versandadresse, die Sie als bevorzugte Versandadresse verwenden möchten.
+
+###

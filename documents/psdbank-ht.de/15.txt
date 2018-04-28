@@ -1,0 +1,59 @@
+###
+Wie sicher ist das PSD OnlineBanking der PSD Bank Hessen-Thüringen eG?
+Der TÜV Rheinland hat zum wiederholten Male die Sicherheit des PSD OnlineBanking bestätigt, insbesondere der von der PSD Bank Hessen-Thüringen eG angebotenen PIN- und TAN-Verfahren mobileTAN und Sm@rt-TAN plus zur Autorisierung von Transaktionen. Diese bieten effektiven Schutz im PSD OnlineBanking. Mit den Verfahren bieten wir Ihnen zwei mobile und flexible TAN-Verfahren, mit denen Ihr PSD OnlineBanking doppelt zukunftssicher ist. Mehr Informationen zu unseren TAN-Verfahren finden Sie hier. Außerdem verfügt das PSD OnlineBanking über ein SSL-Zertifikat, das gegenüber Ihrem Internet-Browser als eine Art "elektronischer Ausweis" fungiert und anzeigt, dass Ihre Daten ausschließlich vom PSD OnlineBanking entschlüsselt werden können.  Durch das „Extended Validation SSL“ (kurz EV-SSL)-Zertifikat wird dies dem Nutzer schnell und einfach angezeigt: Beim Aufruf unserer sicheren Bankingseiten färbt sich die Adresszeile Ihres Browsers grün und ein Schloss-Symbol wird eingeblendet.
+###
+Worauf sollte ich beim Onlinebanking grundsätzlich achten, um möglichst sicher zu sein?
+
+Das PSD OnlineBanking kann nur so sicher sein wie Ihr eigener Computer. Durch das Überprüfen Ihres Systems und Ihr richtiges Verhalten können Sie maßgeblich zur Sicherheit beitragen. Gehen Sie einfach die Punkte Schritt für Schritt durch.
+
+    Nutzen Sie ein aktuelles Betriebssystem. Nutzer von älteren Systemen sollten auf die aktuelle Version updaten. Verfügbare Sicherheitspatches und Service-Packs sollten regelmäßig installiert werden.
+    Benutzen Sie einen aktuellen Browser. Updaten sie regelmäßig und installieren Sie verfügbare Servicepatches und Service-Packs.
+    Benutzen Sie eine Firewall. Aktivieren Sie die integrierte Firewall Ihres Betriebssystems oder installieren Sie die eines namhaften Herstellers.
+    Benutzen Sie ein aktuelles Antivirenprogramm. Aktivieren Sie den andauernden Schutz Ihres Systems. Überprüfen Sie Ihre Festplatte und aktualisieren Sie die Virenliste regelmäßig.
+    Gehen Sie sehr sorgfältig mit eingehenden E-Mails um. Löschen Sie Mails von unbekannten Absendern, öffnen Sie nie deren Anhänge. Rufen Sie niemals die Onlinebanking-Seiten über einen Link in einer E-Mail auf.
+    Verwenden Sie keine Downloads aus zwielichtigen Quellen. Laden Sie keine Programme von dubiosen Internetseiten. Seien Sie vorsichtig bei angeblichen Schnäppchen und auffallend günstigen Angeboten.
+    Bewegen Sie sich vorsichtig und verwantwortungsbewusst im Internet. Verwenden Sie zum Surfen nicht den Administrator-Zugang sondern einen Zugang mit eingeschränkten Rechten. Meiden Sie Internetseiten mit zweifelhaften Inhalten. Schließen Sie bei verdächtigen Aktivitäten sofort alle Browserfenster.
+    Benutzen Sie Ihren Computer aufmerksam und kritisch. Überprüfen Sie Ihren Rechner regelmäßig auf Viren. Seien Sie misstrauisch, wenn sich ihr Computer ungewohnt verhält.
+    Geben Sie vertrauliche Daten nicht an Dritte weiter. Mitarbeiter der PSD Bank Hessen-Thüringen eG werden Sie niemals nach Ihrer Onlinebanking-PIN fragen, weder per Telefon noch per E-Mail.
+    Starten Sie das PSD OnlineBanking nur über die Homepage der PSD Bank Hessen-Thüringen eG oder per App. Legen Sie keine Favoriten an und starten Sie die Anmeldeseiten niemals über per E-Mail zugesandte Links.
+###
+Was tut die PSD Bank Hessen-Thüringen eG für die Sicherheit Ihres PSD OnlineBanking?
+
+Wir arbeiten mit den modernsten Technologien, um Ihre Daten vor Missbrauch zu schützen. Moderne TAN-Verfahren bieten effektiven Schutz im PSD OnlineBanking. Mit mobileTAN und Sm@rt-TAN plus bieten wir Ihnen zwei mobile und flexible TAN-Verfahren, deren Sicherheit vom TÜV Rheinland erneut bestätigt wurde.
+
+Zusätzlich zur Eingabe Ihrer Anmeldedaten ist es bei jeder Anmeldung erforderlich, die Zeichen einzugeben, die im Feld "Zugriffscode" angezeigt werden. Diese Zeichenfolge wird zufällig generiert und ist durch ihre Darstellung für Computerprogramme unlesbar, so dass automatisierte Angriffe auf das PSD OnlineBanking unterbunden werden.
+
+Ihre PSD Bank setzt für die Übertragung von Kundendaten im PSD OnlineBanking immer die sogenannte SSL-Verschlüsselung ein. SSL gewährleistet, dass die Daten, die Sie im
+
+PSD OnlineBanking empfangen, und auch Ihre dort vorgenommenen Transaktionen für Außenstehende nicht einsehbar sind. Das PSD OnlineBanking verfügt über ein SSL-Zertifikat, das gegenüber Ihrem Internet-Browser als eine Art "elektronischer Ausweis" fungiert. Durch das „Extended Validation SSL“ (kurz EV-SSL) wird dies dem Nutzer schnell und einfach angezeigt: Beim Aufruf unserer sicheren Bankingseiten färbt sich die Adresszeile Ihres Browsers grün und ein Schloss-Symbol wird eingeblendet.
+Während einer Sitzung im PSD OnlineBanking werden Ihnen am rechten Bildschirmrand zusätzliche Informationen zu Ihren Onlinebanking-Aktivitäten angezeigt.  In den "Sicherheitsinformationen" finden Sie das Datum und die Uhrzeit der letzten Anmeldung zum PSD OnlineBanking. Desweiteren wird hier die Anzahl der PIN-Fehlversuche eingeblendet: Dies gibt Ihnen Rückmeldung über eventuelle Unregelmäßigkeiten und ermöglicht Ihnen eine schnelle Reaktion, z.B. die Sperrung Ihres Banking-Zugangs, Ihrer PIN-Änderung o.Ä.
+###
+Woran erkenne ich, dass meine Internet-Verbindung sicher ist?
+
+Das PSD OnlineBanking verfügt über ein SSL-Zertifikat, das gegenüber Ihrem Internet-Browser als eine Art "elektronischer Ausweis" fungiert und anzeigt, dass Ihre Daten ausschließlich vom
+PSD OnlineBanking entschlüsselt werden können. Durch das „Extended Validation SSL“ (kurz EV-SSL)-Zertifikat wird dies dem Nutzer schnell und einfach angezeigt: Beim Aufruf unserer sicheren Bankingseiten färbt sich die Adresszeile Ihres Browsers grün und ein Schloss-Symbol wird eingeblendet. Durch Doppelklick auf das Schloss-Symbol können Sie sich in jedem Browser das Zertifikat jederzeit anschauen. Das EV-SSL-Zertifikat Ihres PSD OnlineBanking ist von der international anerkannten "Certificate Authority" VeriSign Co. ausgestellt, die für die Richtigkeit der Daten bürgt. Ausgestellt ist das Zertifikat auf onlinebanking.psd-bank.de vom Antragsteller „Servicegesellschaft der PSD Banken mbH“. Dieser elektronische Ausweis wird regelmäßig verlängert, so dass Sie immer sicher sein können, dass Ihre persönlichen Daten in guten Händen sind.
+Welche TAN-Verfahren bietet die PSD Bank Hessen-Thüringen eG an?
+
+Moderne TAN-Verfahren bieten effektiven Schutz im Onlinebanking. Mit mobileTAN und Sm@rt-TAN plus bieten wir Ihnen zwei mobile und flexible TAN-Verfahren, mit denen Ihr PSD OnlineBanking doppelt zukunftssicher ist. Mit dem mobileTAN-Verfahren kommt die TAN per kostenfreier SMS auf Ihr Handy. Zu jedem Auftrag, den Sie im PSD OnlineBanking einstellen, wird eine spezielle Transaktionsnummer erstellt, die nur für diesen speziellen Auftrag und für wenige Minuten gültig ist. Diese TAN wird Ihnen auf Ihr Mobiltelefon gesendet. In der SMS sind weitere Daten wie Empfänger-IBAN und Betrag enthalten, die Ihnen optimale Kontrollmöglichkeiten bieten. Im Sm@rt-TAN-plus-Verfahren können Sie mit einem kabellosen TAN-Generator und Ihrer
+
+PSD BankCard jederzeit und überall Ihre Bankgeschäfte sicher erledigen. Unterhalb Ihres Auftrags wird eine blinkende Grafik, der sogenannte "Flicker-Code" eingeblendet. Sie stecken Ihre
+PSD BankCard in den TAN-Generator und halten diesen vor die Grafik an Ihren Bildschirm. Über Lichtsensoren auf der Rückseite werden die Auftragsdaten auf den TAN-Generator übertragen. Auf dem Chip Ihrer PSD BankCard wird die speziell für diesen Auftrag gültige TAN errechnet.
+###
+Warum sind die TAN-Verfahren der PSD Bank Hessen-Thüringen eG besonders sicher?
+Die TAN-Verfahren der PSD Bank Hessen-Thüringen eG steigern Ihre Sicherheit, indem zwei unterschiedliche Kommunikationsmedien (Computer und Handy bzw. Computer und TAN-Generator mit PSD BankCard) eingesetzt werden. Die jeweilige TAN ist nur wenige Minuten und für die aktuelle Transaktion gültig und kann von Dritten nicht für andere Aufträge missbraucht werden. Die Anzeige der Auftragsdaten wie z.B. Empfänger-IBAN und Betrag bieten Ihnen optimale Kontrollmöglichkeiten. Im mobileTAN-Verfahren wird die SMS nur auf Ihr eigenes, zuvor freigeschaltetes Mobiltelefon gesendet. Im Sm@rt-TAN-plus-Verfahren kann die TAN nur mit Ihrer registrierten PSD BankCard errechnet werden.
+###
+Schützen die TAN-Verfahren der PSD Bank Hessen-Thüringen eG vor Phishing und Echtzeitangriffen?
+
+Ja. Unter Phishing versteht man das Sammeln von TAN-Nummern unter falschem Vorwand durch Kriminelle. Da die TANs in beiden Verfahren nur wenige Minuten gültig sind und zudem nur die Bestätigung des konkreten Auftrags ermöglichen, für den sie errechnet wurde, können klassische Phishing-Angriffe bei Nutzung des mobileTAN- oder des Sm@rt-TAN-plus-Verfahrens keinen Schaden anrichten.
+Auch  Echtzeitangriffe auf Ihre Onlinebanking-Sitzung (sogenannte "Man-in-the-middle-Angriffe") können Sie durch die beiden Verfahren schnell und einfach erkennen und somit zeitnah abwehren. Bei einem solchen Manipulationsversuch hat sich ein Krimineller über ein Schadprogramm (Trojaner o.Ä.) Zugang zu Ihrem Computer verschafft. Während Ihrer Onlinebanking-Sitzung ändert der Kriminelle für Sie zunächst nicht merkbar die Daten Ihres Bankingauftrags ab. Da aber die konkreten Transaktionsdaten des im Onlinebanking eingegebenen Auftrags in der SMS bzw. im TAN-Generator angezeigt und von Ihnen geprüft und bestätigt werden müssen (bei einer Überweisung sind dies beispielsweise Empfänger-IBAN, -BIC und Betrag), können Sie im Falle eines Falls sofort erkennen, ob hier andere als die von Ihnen eingegebenen Auftragsdaten übermittelt werden. Bestätigen Sie in einem solchen Fall Ihre Transaktion auf gar keinen Fall mit der errechneten TAN, sondern brechen Sie den Onlinebanking-Vorgang ab, sperren Sie umgehend Ihren Onlinebanking-Zugang und melden dies der PSD Bank. Durchsuchen Sie Ihren Rechner nach Viren und Trojanern und entfernen Sie diese. Ziehen Sie im Zweifelsfall einen Fachmann hinzu. Wenden Sie sich anschließend für die Einrichtung eines neuen Onlinebanking-Zugangs an Ihre PSD Bank.
+###
+Warum muss ich bei der Anmeldung zum PSD OnlineBanking einen Zugriffscode eingeben?
+Der Zugriffscode ist ein weiteres Sicherheitsfeature von PSD OnlineBanking. Diese Zeichenfolge wird zufällig generiert und ist durch ihre Darstellung für Computerprogramme unlesbar. Automatisierte Angriffe auf Ihr PSD OnlineBanking werden somit unterbunden.
+###
+Gibt es während der Nutzung von PSD OnlineBanking zeitliche Begrenzungen?
+
+Aus Sicherheitsgründen gelten bei der Benutzung von PSD OnlineBanking bestimmte zeitliche Begrenzungen. Ihre Onlinebanking-Sitzung wird bei Inaktivität sicherheitshalber nach 15 Minuten abgebrochen. Sollten Sie PSD OnlineBanking also 15 Minuten lang nicht verwenden, werden Sie bei der nächsten Aktion automatisch abgemeldet. Die Uhrzeit, zu der dies passiert, finden Sie am rechten Bildschirmrand im Modul "Online-Status". Sollten Sie innerhalb dieser 15 Minuten-Frist PSD OnlineBanking wieder aktiv benutzen, beginnt die Zeit erneut von vorn. Vom PSD OnlineBanking angeforderte Transaktionsnummern sind ausschließlich der Transaktion zugeordnet, für deren Bestätigung sie angefordert wurden und verlieren nach 5 Minuten automatisch ihre Gültigkeit.
+###
+An wen kann ich mich bei Fragen wenden?
+Bei Fragen und Problemen zum PSD OnlineBanking wenden Sie sich bitte an unsere technische Hotline unter 0800 / 7734801.
+###

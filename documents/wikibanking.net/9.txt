@@ -1,0 +1,49 @@
+###
+Wie funktioniert das HBCI-Verfahren?
+
+Das Standardverfahren HBCI (Homebanking Computer Interface) wurde im Jahr 1998 eingeführt. Es basiert auf der starken Verschlüsselung der Kommunikation zwischen Bank und Kunden über eine Chipkarte. Um diese Vorteile nutzen zu können benötigt der Kunde ein Chipkartenleser, der am Kunden-PC angeschlossen wird.
+
+HBCI wurde im Laufe der Jahre stetig verbessert und 2002 in FinTS (Financial Transaction Services) umbenannt. Der 2008 eingeführte Secoder-Standard bietet zusätzliche Sicherheit. Hierbei zeigt das Display des Kartenlesegerätes detailliert an, welche Daten jeweils signiert und verschlüsselt werden.
+
+Wer das derzeit sicherste Verfahren für sein Onlinebanking einsetzen möchte, muss seine Konten bei seiner Bank oder Sparkasse hierfür freischalten lassen und eine HBCI-Chipkarte bestellen. Nach der Installation des Chipkartenlesegerätes - und ggf. einer Banking-Software - auf dem PC kann es losgehen.
+Funktionsweise des HBCI-Verfahrens
+
+Zum Einsatz von HBCI wird benötigt:
+
+    eine spezielle Chipkarte,
+    eine Finanzsoftware und
+    ein Chipkartenleser.
+
+
+So läuft die Überweisung mit HBCI ab
+
+Sie möchten einen Auftrag - z.B. eine Überweisung - durchführen. Hierfür starten Sie auf Ihrem PC die Finanzsoftware und loggen sich mit Ihren Zugangsdaten ein.
+
+    Bereiten Sie die Überweisung vor und klicken Sie auf "senden".
+    Stecken Sie Ihre persönliche Chipkarte  in den Kartenleser und identifizieren sich durch die Eingabe Ihres PIN-Codes.
+    Bevor die Überweisung an Ihre Bank oder Sparkasse verschickt wird, "unterschreibt" der Signier-Schlüssel auf Ihrer Chipkarte diese (digitale Unterschrift). Zusätzlich wird die Überweisung mit einem Chiffrier-Schlüssel codiert. Die beiden Schlüssel sind für Dritte unsichtbar, da sie sich ausschließlich auf Ihrer Chipkarte und im gesicherten Bankrechner befinden.
+    Der Auftrag wird per mehrfach gesicherter Leitung an den Bank-Server versandt.
+    Sobald Ihr Institut die Überweisung erhält, decodiert sie diese und vergleicht danach Ihre "Unterschrift" mit der auf dem Signier-Schlüssel der Bank.
+    Nur wenn diese Informationen übereinstimmen, wird Ihr Auftrag ausgeführt.
+
+
+Vorteile HBCI
+
+    Praktisch: Kombination HBCI und PIN/TAN
+
+Auch eine Kombination von Verfahren ist möglich. So kann das Webbanking mit PIN/TAN auch parallel mit dem HBCI-Verfahren mit Chipkarte genutzt werden. So bleibt für dringliche Fälle von unterwegs der schnelle Zugriff auf das Konto erhalten, aber Transaktionen und Auswertungen können in Ruhe und unter höchsten Sicherheitsbedingungen von zu Hause per Chipkarte durchgeführt werden.
+
+
+    Software: Komfort und Multibankenfähigkeit
+
+Dank der Software können mehrere Bankverbindungen bei unterschiedlichen Instituten verwaltet werden. Umständliches Einloggen auf den jeweiligen Internetseiten des Instituts mit den entsprechenden Zugangsdaten entfallen dadurch. Zudem bietet die Software zahlreiche Komfort- und Auswertungsfunktionen.
+
+
+    Chipkarte: Multifunktional von HBCI bis Online-Zahlung
+
+Auch die Chipkarte bietet weitere Vorteile: Chipkarte und Kartenleser werden online zum Beispiel bereits für das sichere Bezahlen im Internet von Beträgen bis 200 Euro, zur digitalen Signatur, Altersverifikation oder E-Ticketing eingesetzt.
+
+Gefahren des HBCI-Verfahrens
+
+HBCI ist zwar im Vergleich zu den anderen Verfahren weniger komfortabel und teuerer, da eine Software und ein Chipkartenleser benötigt wird, dafür gibt es aber keine Gefahren.
+###

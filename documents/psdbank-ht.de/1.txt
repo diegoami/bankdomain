@@ -1,0 +1,69 @@
+###
+Was ist CRS?
+Der Common Reporting Standard („CRS“), ist eine von der OECD entwickelte Regelung, mit der Steuerhinterziehung verhindert werden soll und die zu einem internationalen, automatischen Informationsaustausch zwischen den CRS-Teilnehmerstaaten führt. Auf Ebene der Europäischen Union wurde diese Regelung mit der Richtlinie 2014/107/EU) verbindlich übernommen.
+Der CRS schreibt Finanzinstituten vor, Finanzkonten zu melden, die direkt oder indirekt von Kontoinhabern gehalten werden, die in einem CRS-Staat steueransässig sind.
+###
+Was bedeutet die CRS-Abfrage und wofür wird sie benötigt?
+Seit dem 1. Januar 2016 sind Finanzinstitute, d.h. auch Ihre PSD Bank, gesetzlich dazu verpflichtet, die steuerliche Ansässigkeit ihrer Kunden zu erfragen. Das neue weltweite Steuerabkommen "Common Reporting Standard" (CRS) umfasst die Dokumentation von Privatpersonen sowie Geschäftskunden.
+###
+Wer fällt in den Geltungsbereich von CRS?
+Die CRS-Verordnung gilt für alle in einem CRS-Staat angesiedelten Finanzinstitute und verpflichtet diese Finanzinstitute, Kontoinhaber zu melden, die in einem anderen CRS-Staat ansässig sind. CRS gilt sowohl für natürliche Personen als auch für Rechtsträger.
+###
+Welche Angaben sind bei der CRS Abfrage erforderlich?
+
+CRS verpflichtet Finanzinstitute Kunden zu identifizieren, bei denen anhand der bekannten Daten ein ggf. steuerrelevanter Bezug zum Ausland besteht. Ausschlaggebend sind Hinweise aus den nachfolgenden Daten:
+
+    Adresse (Post-/Hausanschrift, Postfach oder wohnhaft) in einem CRS-Staat;
+    Telefonnummer aus einem CRS-Staat, die die einzige Telefonnummer ist;
+    Daueraufträge von ihrem Konto an ein Konto, das in einem CRS-Staat geführt wird;
+    Vollmacht für ihr Konto an eine Person mit Anschrift in einem CRS-Staat (Post-/Hausanschrift, Postfach oder wohnhaft)
+
+Das Ergebnis der Aufklärung muss im Anschluss dokumentiert werden; das bedeutet, dass Kunden ein Selbstauskunftsformular unterzeichnen müssen, um Ihre CRS Steueransässigkeit zu bestätigen. Unter anderem müssen die Selbstauskunftsinformationen das Land/die Länder der steuerlichen Ansässigkeit und die Steueridentifikationsnummer beinhalten.
+###
+Was muss ich machen, wenn der Hinweis falsch ist?
+Wenn wir bei der Auswertung der Daten auf Sie zukommen und Sie dabei feststellen, dass ein Fehler vorliegen muss, weil Sie keinen steuerlichen Bezug zum Ausland haben, klären wir mit Ihnen im Gespräch die Sachlage und korrigieren die fehlerhaften Daten. Eine Meldung erfolgt dann selbstverständlich nicht.
+###
+Wie kann ich einen Nachweis führen, dass ich keinen Steuerbezug zum Ausland habe?
+Ein Nachweis kann leicht über die Legitimationsdokumente erfolgen, die zum Beispiel im Rahmen einer Kontoeröffnung vorgelegt werden. Gerade wenn Sie ein langjähriger Kunde der Bank sind, kann es sein, dass wir keine aktuellen Informationen vorliegen haben und passen das aber gerne mit Ihnen an.
+
+###
+Was ist von den Finanzinstituten zu melden?
+
+    die Identitäts- und Identifizierungsinformationen des CRS-Steueransässigen;
+    dessen Konten und Kontensalden;
+    die Finanzerträge auf diesen Konten, einschließlich Bruttoerlöse.
+###
+Wann ist zu melden?
+Die erste Meldung erfolgt zum 01.07.2017; gemeldet werden Daten zum 31.12.2016. In den folgenden Jahren erfolgt ebenfalls jeweils zum 01.07. eine Meldung, die in den Meldedaten auf das Vorjahr Bezug nimmt.
+###
+Was ist für Neukunden zu beachten?
+Als Neukunden geben Sie Ihrer PSD Bank Hessen-Thüringen eG die notwendigen Eckdaten (Steueransässigkeit (en) / Steueridentifikationsnummer(n)) bereits mit der Weitergabe der vollständig ausgefüllten Kontoeröffnungsunterlagen. Ohne diese Informationen dürfen wir Ihr Bankkonto nicht eröffnen. Bei Fragestellungen wenden wir uns direkt an Sie, um diese zeitnah zu klären.
+###
+Was haben Bestandskunden zu beachten?
+Sind Sie zum Zeitpunkt, in dem die Vorschriften zu CRS zu beachten sind, bereits Kunde der Bank, müssen Sie zunächst nichts unternehmen.
+
+Anhand der oben genannten Daten prüfen wir für Sie, ob Informationspflichten zu erfüllen sind. Ihre PSD Bank Hessen-Thüringen eG wird – für den Fall, dass die Prüfungshandlungen ein Indiz gefunden haben – die betroffenen Kunden ansprechen, um ein Selbstauskunftsformular einzuholen, in Sie Ihre Angaben (steuerliche Ansässigkeit/Steueridentifikationsnummer) machen können.
+###
+Welche Folgen hat es, wenn ich mich bezüglich der CRS-Abfrage nicht melde?
+
+Ohne Selbstauskunft ist die PSD Bank Hessen-Thüringen eG gesetzlich verpflichtet, den Kontoinhaber (sofern ein Bezug zu einem CRS Land besteht) als meldepflichtige Person zu betrachten. Demzufolge werden nicht dokumentierte Kontoinhaberinformationen an die zuständigen Steuerbehörden gemeldet.
+
+
+Die bisher vorliegenden Daten werden an das BZSt gemeldet. Zudem kann die PSD Bank von ihrem ordentlichen Kündigungsrecht gemäß Nr. 19 der Allgemeinen Geschäftsbedingungen Gebrauch machen.
+###
+Wo kann ich weitere Informationen zum Thema CRS erhalten?
+Diesbezüglich können Sie sich auf den Internetseiten der OECD (Organisation for Economic Co-operation and Development) und des Bundeszentralamt für Steuern (BZSt) informieren
+OECD-Website unter:
+http://www.oecd.org/ctp/exchange-of-tax-information/automatic-exchange-financial-account-information-common-reporting-standard.pdf .
+BZSt-Website unter:
+http://www.bzst.de/DE/Steuern_International/CRS/Allgemeine_Informationen/Allgemeine_Informationen_node.html
+###
+Welche Staaten nehmen am Common Reporting Standard teil?
+Im Grunde nehmen alle OECD - Staaten teil, wobei einige Staaten, wie die Bundesrepublik Deutschland bei den sogenannten „First Movern“ direkt von Beginn an dabei sind und ein Teil der Staaten erst in einem späteren Umsetzungsstand ab 2018 teilnehmen werden. Zur Übersicht der insgesamt teilnehmenden Staaten bzw. den „First Movern“ gelangen Sie über den folgenden Link
+http://www.oecd.org/tax/exchange-of-tax-information/mcaa-signatories.pdf.
+###
+Wieso nehmen die USA nicht am CRS teil?!
+Die Bundesrepublik Deutschland und die Vereinigten Staaten von Amerika haben sich darauf verständigt, durch gegenseitigen Informationsaustausch über Finanzkonten (mit US-Bezug bzw. mit Bezug zu Deutschland) eine effektive Besteuerung sicherzustellen ( FATCA-Abkommen).
+
+Durch das Abkommen verpflichten sich die beiden Vertragsparteien – ähnlich wie bei CRS - die vereinbarten Daten von Finanzinstituten zu erheben und regelmäßig automatisch auszutauschen.
+###

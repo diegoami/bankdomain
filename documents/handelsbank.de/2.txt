@@ -1,0 +1,34 @@
+###
+Wer kann ein Konto bei der Deutschen Handelsbank eröffnen?
+
+Die Deutsche Handelsbank bietet ihr Konto ausschließlich für Geschäfts- und Firmenkunden im In- und Ausland an. Nur in Ausnahmefällen eröffnet die Deutsche Handelsbank für Minderjährige ein Geschäftskonto für deren selbständigen Betrieb eines Erwerbsgeschäfts. Die rechtlichen Voraussetzungen des § 112 BGB zur unbeschränkten Geschäftsfähigkeit des Minderjährigen für solche Rechtsgeschäfte, die der Geschäftsbetrieb mit sich bringt, haben der Bank vor Kontoeröffnung vorzuliegen.
+###
+Hat das Konto der Deutschen Handelsbank eine Vertragslaufzeit?
+
+Nein, das Business Konto der Deutschen Handelsbank hat keine vertragliche Mindestlaufzeit.
+###
+Welche Verfahren zur Legitimationsprüfung kann ich nutzen, um ein Konto bei der Deutschen Handelsbank zu eröffnen?
+
+Um ein Business-Konto bei der Deutschen Handelsbank zu eröffnen, müssen Sie sich gegenüber der Deutschen Handeslsbank legitimieren. Sie nutzen das für Sie kostenlose PostIdent-Verfahren (PostIdent-Coupon ist dem Kontoeröffnungsantrag beigefügt). Bitte beachten Sie, dass Ihr PostIdent-Coupon nur eine Gültigkeit von 30 Tagen hat und nur in Deutschland verfügbar ist.
+###
+Wie kann ich mich der Legitimationsprüfung im Ausland unterziehen?
+
+Wenn Sie das kostenlose PostIdent-Verfahren nicht nutzen können, da Sie beispielsweise im Ausland leben, benötigen wir eine beglaubigte Ausweiskopie aller wirtschaftlich Berechtigten, Kontoinhaber, gesetzlichen Vertreter und Zugriffsberechtigten des Online-Bankings. Die Legitimation kann durch Behörden, Banken, Rechtsanwälte und Notare vorgenommen werden.
+Bitte beachten Sie, dass zusätzlich ein aktuelles offizielles Dokument wie beispielsweise eine Verbrauchsabrechnung (Utility Bill) eingereicht werden muss, sollte in Ihrem Ausweis keine Adresse vermerkt sein.
+###
+Wie lautet die BIC der Deutschen Handelsbank?
+
+BIC steht für Bank Identifier Code und ist der internationale standardisierte Bank-Code zur eindeutigen Identifizierung eines Kreditinstituts. Für europäische Überweisungen muss der BIC immer angegeben werden. Der BIC der Deutschen Handelsbank lautet: DEKTDE7GXXX. Sie finden den BIC auch auf der Startseite Ihres Online-Bankings.
+###
+Wo kann ich die IBAN für mein Konto bei der Deutschen Handelsbank finden?
+
+IBAN steht für International Bank Account Number und ist eine standardisierte internationale Kontonummer für grenzüberschreitende Zahlungen innerhalb Europas. Für europäische Überweisungen muss die IBAN immer angegeben werden. Ihre IBAN finden Sie im Online-Banking der Deutschen Handelsbank in der Kontenübersicht.
+###
+Wie kann ich das Lastschriftverfahren nutzen?
+
+Um das Lastschriftverfahren nutzen zu können, ist eine separate Lastschriftinkassovereinbarung mit der Deutschen Handelsbank notwendig. Bitte kontaktieren Sie unsere Kundenbetreuung für nähere Informationen.
+###
+Wie kann ich eine Lastschrift widerrufen?
+
+Um eine Lastschrift zu widerrufen, wenden Sie sich bitte an unsere Kundenbetreuung.
+###

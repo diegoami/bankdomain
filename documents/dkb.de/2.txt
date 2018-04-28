@@ -1,0 +1,50 @@
+###
+Für welche Banken funktioniert Multibanking?
+
+Unser Multibanking funktioniert mit rund 3.000 Banken. Prüfen Sie im Finanzstatus unter "Bankverbindung hinzufügen" ganz unverbindlich über die Bankensuche, ob Ihre Bank dabei ist.
+###
+
+Welche Vorteile bietet mir Multibanking?
+
+Die Multibanking-Funktion ermöglicht Ihnen einen Überblick über Ihre Finanzen bei verschiedenen Banken an einer Stelle: in Ihrem DKB-Banking. Sie sehen die Umsätze Ihrer Konten und können Konten hinzufügen oder löschen. Aufträge, wie z.B. Überweisungen, führen Sie weiterhin im Onlinebanking Ihrer Bank durch.
+###
+
+Entstehen mir Kosten für die Nutzung der Multibanking-Funktion?
+
+Nein, die Nutzung von Multibanking ist kostenfrei.
+###
+
+Wie funktioniert Multibanking?
+
+Wählen Sie im Finanzstatus über „Ändern“ > „Bankverbindung hinzufügen“ Ihre Bank aus. Geben Sie dann Ihre Anmeldedaten ein, z.B. Zugangsnummer und PIN. Damit fragen wir Ihre Konto- und Umsatzdaten vom Server Ihrer anderen Bank ab. Wenn Sie Ihre Anmeldedaten speichern, aktualisieren wir Ihre Kontodaten mehrfach täglich automatisch. Zusätzlich können Sie Ihre Kontodaten jederzeit manuell aktualisieren. Gehen Sie im Finanzstatus am Zeilenende der Bankverbindung auf „mehr > aktualisieren“. So haben Sie immer den aktuellen Überblick über Ihre Finanzen.
+###
+
+Wie verwendet die DKB meine Multibanking-Daten?
+
+Sie stimmen mit der Nutzung des Multibanking-Service der Erhebung, Verarbeitung und Analyse der Daten Ihrer eingebundenen Bankverbindung(en) zu. Wir unterbreiten Ihnen auf Basis dieser Daten individuelle Angebote zu Services und Produkten der DKB. Selbstverständlich sind dabei die von Ihnen präferierten Kontaktwege maßgeblich. Diese können Sie in Ihrem Internet-Banking unter Service > Informationsservice einsehen und einstellen.
+###
+
+Wie wird die Sicherheit meiner Daten gewährleistet?
+
+Jegliche Datenübertragung zwischen uns und anderen Banken erfolgt über verschlüsselte Verbindungen. Speichern Sie bei uns die Zugangsdaten Ihrer Bank, damit wir Ihre Kontodaten automatisch aktualisieren, werden diese bei uns mehrfach gesichert und nur verschlüsselt gespeichert. Die Umsatzdaten sind genauso sicher gespeichert, wie Ihre DKB-Umsatzdaten.
+###
+
+Sehe ich im DKB-Multibanking immer die aktuellsten Salden und Umsätze meiner Bank?
+
+Wir zeigen immer die Daten der letzten Abfrage bei Ihrer Bank an. Wenn Sie die Anmeldedaten speichern, fragen wir mehrfach täglich automatisch die Daten bei Ihrer Bank ab. Den Zeitpunkt der letzten Abfrage sehen Sie im Finanzstatus (nicht auf dem Smartphone), auf der Umsatzanzeige und im Finanzstatus. Sollten Ihnen die Daten nicht aktuell genug sein, so können Sie jederzeit im Finanzstatus über „mehr > aktualisieren“ Ihre Kontodaten manuell aktualisieren.
+###
+
+Ich muss jedes Mal die Login-Daten meiner Bank eingeben – was muss ich tun, um dies zu vermeiden?
+
+Setzen Sie beim Login mit den Daten Ihrer Bank das Häkchen bei „Anmeldedaten speichern“. Künftig aktualisieren wir dann mehrfach täglich Ihre Kontodaten automatisch. Sie müssen dann keine Login-Daten mehr eingeben.
+###
+
+Warum sehe ich im DKB-Multibanking weniger Umsätze als im Online-Banking meiner Bank?
+
+In unserem Multibanking können wir nur die Umsätze abbilden, die uns von Ihrer Bank über die Schnittstelle übermittelt werden. Wird uns zum Beispiel ein abweichender Umsatzzeitraum übermittelt, als im Online-Banking Ihrer Bank dargestellt, kann es zu Abweichungen kommen. Maßgeblich sind immer die Umsätze im Online-Banking Ihrer Bank.
+###
+
+Wie kann ich eine verknüpfte Bankverbindung vom Multibanking wieder löschen?
+
+Möchten Sie eine Bankverbindung löschen, gehen Sie bitte auf die entsprechende Bankverbindung im Finanzstatus. Am Ende der Zeile klicken Sie auf „mehr“ > „Bank ändern“ und entfernen die Bankverbindung. Sie möchten nicht alle Konten einer Bankverbindung sehen, zum Beispiel weil sie nicht aktiv sind? Dann können Sie die nicht gewünschten Konten ausblenden. Gehen Sie hierfür in Ihrem Finanzstatus auf „Ansicht ändern“.
+###

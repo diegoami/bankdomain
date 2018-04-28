@@ -1,0 +1,27 @@
+###
+Wie funktioniert das EBICS-Verfahren?
+
+EBICS steht für „Electronic Banking Internet Communication Standard".
+
+Es bietet Firmenkunden die Möglichkeit, internetbasiert den weltweiten Zahlungsverkehr mit dem Kreditinstitut auf höchstem Sicherheitsniveau schnell und flexibel abzuwickeln.
+
+Die Banken sind verpflichtet, diesen Standard anzubieten.
+Banking mit EBICS im Überblick:
+
+    nationaler Multibank-Standard
+    Transportmittel für alle Geschäftsprozesse wie Lastschriften, Überweisungen, Kontoauszüge, Cash-Management, Wertpapierorder und vieles mehr
+    Gleichzeitige Abwicklung von Zahlungsvorgängen
+    standortunabhängige Freigabe von Zahlungsaufträgen
+    Funktionen, die die Arbeit erleichtern, z. B. die verteilte (standortunabhängige) elektronische Unterschrift
+    Mehrstufiges Unterschriftskonzept ermöglicht die Einbeziehung von Dienstleistern
+    Alle Vorteile der SEPA in vollem Umfang nutzen
+    Integration von moderner Technologie und internationalen Standards wie https
+
+Vorteile
+
+    Mit einer Software alle Kreditinstitute erreichen
+    Nutzbar mit vorhandener Standardsoftware
+    Nutzung schneller Internet-Verbindungen
+    verschlüsselter Datentransfer
+    Hohe Sicherheit durch moderne Verschlüsselungsverfahren
+###

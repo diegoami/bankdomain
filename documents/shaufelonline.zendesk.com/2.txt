@@ -1,0 +1,103 @@
+###
+Wie werde ich über neue Zahlungseingänge informiert?
+
+Shaufelonline überprüft Ihr Onlinebanking an Werktagen jede Nacht automatisch auf neue Zahlungseingänge. Sie können sich per E-Mail darüber informieren lassen, wenn neue Zahlungseingänge erfasst wurden. Außerdem erscheinen auf der Startseite von Shaufelonline Benachrichtigungen über neue Zahlungseingänge.
+
+Für die Einstellung der E-Mail-Benachrichtigung gehen Sie in die Onlinebanking-Einstellungen.
+
+Unter „E-Mail-Benachrichtigungen“ werden die Benutzer Ihres Shaufelonline Systems aufgelistet. Setzen Sie ein Häkchen bei den Benutzern, die per E-Mail über neue Zahlungseingänge informiert werden sollen.
+
+Klicken Sie anschließend auf „Änderungen speichern“.
+
+###
+ EBICS: Wann geht eine Sammellastschrift bei der Bank ein, nachdem sie erstellt wurde?
+
+
+
+Sammellastschriften können in Shaufelonline erstellt werden. Wenige Minuten nach erstellen werden sie von Shaufelonline an Ihre Bank übermittelt. Es müssen bestimmte Fristen je nach Lastschrift-Typ eingehalten werden. Je nach Kunde (Basislastschrift oder Firmenlastschrift sowie erstmalige, Folge- oder einmalige Lastschriften) sind die Fristen unterschiedlich. Shaufelonline berücksichtigt diese Fristen automatisch.
+
+Weitere Informationen zu den Fristen finden auf den Webseiten der Deutschen Bundesbank.
+###
+Wie reiche ich Sammellastschriften ein?
+
+Mit SEPA-Sammellastschriften können mehrere Rechnungen mit einer Lastschrift an die Bank übermittelt werden. In Shaufelonline sind Sammellastschriften nur über das EBICS-Protokoll verfügbar. Weitere Informationen dazu im Artikel „Was ist EBICS und wie wird EBICS in Shaufelonline eingesetzt?".
+
+In der Liste aller Rechnungen, in der Kundenansicht oder in der Auftragsansicht können mehrere Rechnungen gleichzeitig markiert werden (Häkchen setzen). Daraufhin erscheint über den Rechnungen eine weitere Funktionsleiste mit Funktionen, die auf die ausgewählten Rechnungen gleichzeitig angewendet werden können. Klicken Sie hier auf das Lastschrift-Symbol um die Sammellastschrift einzureichen.
+
+###
+Wie richte ich EBICS für mein Konto ein?
+
+EBICS ist ähnlich wie HBCI ein Protokoll für elektronisches Banking und speziell für den Geschäftskundenbereich entwickelt. Mit EBICS können Einzel- und Sammellastschriften von Shaufelonline aus bei Ihrer Bank eingereicht werden.
+
+Um EBICS in Shaufelonline nutzen zu können, ist die Buchung der Onlinebanking-Erweiterung erforderlich. Sie können diese in den Einstellungen von Shaufelonline jederzeit hinzubuchen.
+
+Bei EBICS müssen Sie die Shaufelonline-Software einmalig für die Kommunikation mit Ihrer Bank authentifizieren. Um EBICS mit Shaufelonline nutzen zu können, sind im Folgenden die Schritte und deren Abläufe geschildert, welche zur Einrichtung notwendig sind.
+
+    Sie müssen EBICS bei Ihrer Bank, mit der Angabe von Nutzeranzahl sowie genauen Angaben zu den Nutzern, beantragen. Bitte kontaktieren Sie dafür Ihren Ansprechpartner bei Ihrer Bank.
+    Sie erhalten Unterlagen von Ihrer Bank, welche die Daten zu Hostname, Host URL, Partnerkennung und User-ID enthalten.
+    Die erhaltenen Daten werden in Shaufelonline In diesem Fall ist Shaufelonline Ihre Banking Software.
+    Klicken Sie dafür auf „EBICS konfigurieren“ und geben die Daten ein.
+
+
+    Nach Eingabe der Daten werden digitale Schlüssel (öffentliche und private) generiert und in Shaufelonline sicher abgelegt. Die öffentlichen Schlüssel werden in ein Dokument (INI-Brief) geschrieben, welches Sie ausdrucken, ausfüllen und unterschreiben müssen. Sie erhalten das PDF-Dokument im Einrichtungsprozess in Shaufelonline. Dieses Dokument senden Sie anschließend unterschrieben an Ihre Bank.
+    Ihre Bank schaltet mit dem erhaltenen Dokument und den Schlüsseln Ihren EBICS Zugang frei.
+    Wenn Sie von Ihrer Bank die Nachricht bekommen, dass Ihr EBICS-Zugang aktiviert wurde, wählen Sie „Bank-Schlüssel abholen“.
+
+
+    Bestätigen Sie im nächsten Schritt mit „Bank-Schlüssel jetzt abholen“. Dieser Vorgang kann einen Moment dauern.
+
+Sie erhalten vom System die Meldung, ob das Abholen der Schlüssel erfolgreich war. Sollten dabei Probleme auftreten, wenden Sie sich bitte an den Shaufelonline Support.
+
+Nach der Konfiguration können Sie Lastschriften für Ausgangsrechnungen in Shaufelonline mit einem Klick wirksam bei Ihrer Bank einreichen.
+
+###
+Was ist das EBICS Protokoll?
+
+
+In dem EBICS-Protokoll werden alle Anfragen und Informationen, die Shaufelonline an Ihre Bank schickt, dokumentiert. Das Protokoll wird von der Bank erstellt. Alle Kommunikationsaktivitäten zwischen Shaufelonline und der Bank werden hier festgehalten. Damit können auftretende Fehlerquellen schnell gefunden und behoben werden. Reichen Sie zum Beispiel eine Sammellastschrift ein und es tritt ein Fehler auf, kann die Ursache sofort identifiziert werden.
+
+Das EBICS Protokoll können Sie in den Einstellungen von Shaufelonline unter „Onlinebanking“ für die Konten aufrufen, für die EBICS konfiguriert und aktiviert ist. Klicken Sie dafür auf den Button „EBICS Protokoll abrufen“.
+###
+Was ist EBICS und wie wird EBICS in Shaufel online eingesetzt?
+
+
+
+EBICS (Electronic Banking Internet Communication Standard) ist ein Standard für die Übertragung von Zahlungsverkehrsdaten über das Internet. EBICS ist im Gegensatz zu HBCI für den Firmenkundenbereich konzipiert. Shaufelonline setzt EBICS ein, um Einzel- und Sammellastschriften für Rechnungen einreichen zu können. Der Vorteil von EBICS gegenüber HBCI ist, dass beim Einreichen von Lastschriften keine TANs (bspw. SMS-TAN) erforderlich sind.
+
+Um EBICS in Shaufelonline nutzen zu können, müssen Sie EBICS bei Ihrer Bank beantragen. Die HBCI Zugangsdaten reichen dafür nicht aus. Für die Nutzung von EBICS können Gebühren bei Ihrer Bank anfallen, die unabhängig von den Shaufelonline Nutzungsgebühren sind.
+###
+Ich habe einen Zahlungseingang einem falschen Kunden zugeordnet. Wie kann ich diesen neu zuordnen?
+
+Es kann vorkommen, dass ein Onlinebanking-Zahlungseingang einem falschen Kunden zugeordnet wird. Um diesen Fehler zu korrigieren, müssen Sie den Zahlungseingang löschen. Navigieren Sie dafür im Hauptmenü unter Zahlungseingänge auf „Zahlungseingänge“. Achtung – nicht „Onlinebanking“ wählen!
+
+Markieren Sie den entsprechenden Zahlungseingang mit einem Häkchen und löschen ihn.
+
+Nach dem Löschvorgang taucht der Onlinebanking-Zahlungseingang wieder auf der Startseite unter „X nicht zugeordnete Zahlungseingänge aus Onlinebanking“ auf und kann neu zugeordnet werden.
+
+Wenn Sie einen Zahlungseingang manuell eingeben und einem falschen Kunden zugeordnet haben, können Sie diesen Zahlungseingang ebenso wie oben beschrieben löschen. Geben Sie als nächstes den Zahlungseingang erneut ein und ordnen Sie ihn dem richtigen Kunden zu.
+###
+Beim Einreichen einer SEPA-Lastschrift erhalte ich eine Fehlermeldung. Woran kann das liegen?
+
+
+
+Shaufelonline bietet als Teil der Onlinebanking-Erweiterung die Funktion, SEPA-Lastschriften direkt aus dem System heraus wirksam einzureichen. Dafür muss die Onlinebanking-Erweiterung aktiviert sein. Damit Sie eine SEPA-Lastschrift einreichen können, müssen die folgenden Kriterien erfüllt sein. Erhalten Sie beim Einreichen einer SEPA-Lastschrift eine Fehlermeldung, prüfen Sie zunächst diese Punkte.
+
+Voraussetzungen und Einstellungen im Überblick
+
+    Buchung der Onlinebanking-Erweiterung
+    Onlinebanking einrichten (Bankkonto)
+    Firmendaten eingeben
+    Kundendaten eingeben
+
+Detaillierte Informationen zu den Voraussetzungen und Einstellungen finden Sie in den Artikeln „Wie richte ich das Onlinebanking für ein Konto ein?“ und „Wie funktioniert das SEPA-Lastschriftverfahren?“.
+
+Haben Sie diese Einstellungen korrekt vorgenommen, kann es beim Einreichen einer SEPA-Lastschrift dennoch zu einer Fehlermeldung kommen mit dem Hinweis, dass Sie in den Firmendaten eine Gläubiger-ID eingeben müssen (auch dann, wenn Sie bereits eine Gläubiger-ID eingegeben haben!).
+
+Der Fehler tritt dann auf, wenn Sie eine SEPA-Lastschrift einreichen möchten und die dazugehörige Rechnung vor der Eingabe der Gläubiger-ID in die Firmendaten erstellt haben. In der Rechnung sind dann noch Ihre alten Firmendaten ohne die Gläubiger-ID abgespeichert.
+
+Um das Problem zu lösen müssen Sie die Rechnung bearbeiten, sodass die aktuellen Firmendaten hinterlegt werden. Setzen Sie dafür ein Häkchen an der entsprechenden Rechnung und wählen Sie den Button „Bearbeiten“.
+
+Wählen Sie nun die Firmendaten aus. Auch wenn es sich dabei vermeintlich um dieselben Firmendaten handelt, werden nun die aktuellen Firmendaten mit der Gläubiger-ID abgespeichert.
+
+Nun können Sie die SEPA-Lastschrift wirksam einreichen.
+###

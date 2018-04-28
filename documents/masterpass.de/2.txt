@@ -1,0 +1,42 @@
+###
+Wie aktualisiere ich meinen Namen, meine E-Mail-Adresse, meine Mobilnummer und/oder mein Passwort?
+
+Melden Sie sich zunächst bei Ihrem Profil an und klicken Sie anschließend neben Profil auf „Bearbeiten“. Wenn Sie Ihre Änderungen abgeschlossen haben, klicken Sie auf Weiter. Sie erhalten eine Bestätigungs email mit einer Zusammenfassung der vorgenommenen Änderungen.
+###
+
+Was bedeutet das Kontrollkästchen „Auf diesem Gerät angemeldet bleiben“?
+
+Das Anklicken der Funktion Auf diesem Gerät angemeldet bleiben ermöglicht Ihnen eine schnellere Anmeldung bei Ihrem Masterpass Profil. Durch Auswählen dieser Option wird Ihr Masterpass Profil jedes Mal erkannt, wenn Sie auf Masterpass beim Kauf klicken oder sich anmelden, um Ihr Masterpass Profil zu verwalten. Dies ermöglicht einen schnelleren Zahlvorgang. Ihr Benutzername wird automatisch eingetragen und Sie können gleichzeitig die Authentifizierung mittels Einmal-Code umgehen. Sie können diese Merk-Funktion jederzeit aufheben, indem Sie in Ihrem Browsermenü die Option „Cookies löschen“ auswählen. Wenn Sie Ihren Masterpass Account oder Ihre Anmeldedaten ändern möchten, wählen Sie in der Fußzeile die Funktion Profil ändern, um Änderungen an Ihren Anmeldedaten vorzunehmen oder einen neuen Masterpass Account auszuwählen.
+###
+
+Ich habe die mit meinem Profil verknüpfte E-Mail vergessen. Was kann ich tun?
+
+Diese Information finden Sie in Ihren Profildaten, auf die Sie über Ihren Computer oder Ihr Mobilgerät zugreifen können. Melden Sie sich bei Ihrem Masterpass Profil mit der Mobilnummer an, die Sie zur Profilerstellung verwendet haben. Sie gelangen zur Profilübersicht Ihres Accounts. Dort finden Sie die mit Ihrem Account verknüpfte E-Mail im Bereich Verwaltung.
+###
+
+Ich habe die mit meinem Profil verknüpfte Mobilnummer vergessen. Was kann ich tun?
+
+Diese Information finden Sie in Ihren Profildaten, auf die Sie über Ihren Computer oder Ihr Mobilgerät zugreifen können. Melden Sie sich bei Ihrem Masterpass Profil mit der E-Mail an, die Sie zur Profilerstellung verwendet haben. Sie gelangen zur Profilübersicht Ihres Accounts. Dort finden Sie die mit Ihrem Account verknüpfte Mobilnummer im Bereich Verwaltung.
+###
+Was kann ich tun, wenn ich keinen Zugriff auf die mit meinem Masterpass Profil verknüpfte E-Mail oder Mobilnummer mehr habe?
+
+Wenn Sie immer noch Zugriff auf Ihre Mobilnummer oder Ihre E-Mail haben, verwenden Sie diese Informationen, um sich bei Ihrem Profil anzumelden. Es ist ganz einfach, die mit Ihrem Masterpass Profil verknüpften, persönlichen Daten zu aktualisieren.
+
+Melden Sie sich bei Ihrem Profil an, klicken Sie neben Verwaltung auf „Bearbeiten“ und nehmen Sie die gewünschten Änderungen an Ihrem Profil vor. Klicken Sie nach Abschluss der Änderungen auf Weiter.
+
+Wenn Sie keinen Zugriff mehr auf Ihre E-Mail oder Mobilnummer haben, an den Masterpass-Support unter der kostenfreien Telefonnummer 0800 6649296
+###
+
+Warum habe ich eine E-Mail mit der Mitteilung erhalten, dass es Änderungen bei meinem Masterpass Profil gab?
+
+Die Sicherheit Ihres Masterpass Profils hat für uns höchste Priorität. Daher erhalten Sie nach jeder Änderung an Ihrem Profildaten eine Bestätigungs-E-Mail. Wenn Sie keine Änderungen vorgenommen haben, an den Masterpass-Support unter der kostenfreien Telefonnummer 0800 6649296
+###
+Wie lösche ich mein Masterpass Profil?
+
+Wir bedauern, dass Sie Ihr Masterpass Profil löschen wollen. Sollte der Grund hierfür in unserem Service liegen, möchten wir Sie bitten, sich an Masterpass by Mastercard unter der Telefonnummer 0800 6649296 zu wenden. Sie können Ihr Profil jederzeit löschen, indem Sie sich über Ihren Computer oder Ihr Tablet anmelden: Entweder mit Ihrer Mobilnummer oder E-Mail-Adresse bei Ihrem Masterpass Profil einloggen. Sobald Sie sich angemeldet haben, klicken Sie neben Veraltung auf „Bearbeiten“. Wählen Sie anschließend unten links auf der Seite „Profil“ die Option Profil löschen. Sie werden aufgefordert, die Profil-Löschung zu bestätigen. Sobald Sie auf Ja, löschen klicken, wird Ihr Profil gelöscht.
+###
+
+Was ist ein Expresskauf und wie kann ich diesen bei einem Händler aktivieren?
+
+Wenn Sie den Expresskauf bei einem Händler deaktivieren möchten, melden Sie sich bei Ihrem Masterpass Profil an und klicken Sie auf Datenfreigaben. Suchen Sie in der Liste nach dem Händler, bei dem Sie den Expresskauf deaktivieren möchten, und klicken Sie auf Trennen. Sie können die Verbindung jederzeit wiederherstellen, indem Sie die Website oder App des Händler besuchen und Ihr Masterpass Profil erneut für den Expresskauf bei diesem Händler aktivieren.
+###

@@ -1,0 +1,20 @@
+###
+Wie funktioniert mobile-Banking mit QR-Code
+
+Beim Mobile-Banking fungieren QR-Codes mittlerweile als Bezahlcode mit Informationen für eine Überweisung. Offene Rechnungen können Sie somit bequem von unterwegs mit dem Smartphone begleichen.
+
+Dieses Verfahren soll Tippfehler und damit Stornierungen vermeiden. Bislang werden QR-Codes neben Rechnungen auch auf Verpackungen oder in Anzeigenwerbungen verwendet.
+
+Auch lässt sich dieses Verfahren zum Bezahlen an Bezahlterminals wie zum Beispiel in Einkaufsgeschäften, Parkautomaten oder Schwimmbädern nutzen. Dazu muss der QR-Code am Bezahlterminal abgescannt werden. Der Betrag erscheint dann am Handy, es muss nun noch der PIN eingegeben werden und der Betrag ist bezahlt.
+So funktioniert Mobile-Banking mit QR-Code
+
+Zur Nutzung muss eine Banking-App mit integrierter Scanfunktion heruntergeladen werden.
+
+Nach Auslesen des Codes öffnet sich eine vollständig ausgefüllte Überweisungsmaske.
+
+Die Überweisung muss dann nur noch mit einer TAN bestätigt werden, wozu ein TAN-Generator benötigt wird.
+
+Achtung:
+
+Auch hier ist es besser, auf das mTAN-Verfahren zu verzichten, da die Sicherheit erst durch Verwenden eines zweiten Geräts garantiert wird.
+###

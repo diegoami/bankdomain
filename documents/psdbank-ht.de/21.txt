@@ -1,0 +1,65 @@
+###
+Mit welchem Smartphone funktioniert die mobile Auszahlung?
+Mobile Auszahlung funktioniert auf Android Phone ab Version 2.2 und iPhone ab iOS 7.0.
+
+###
+
+Ich habe mein Smartphone gewechselt bzw. auf Werkseinstellungen zurückgesetzt. Was muss ich bezüglich der mobilen Auszahlung tun?
+Bitte registrieren Sie die PSD Banking-App erneut. Nach Eingabe des Freischaltcodes ist die mobile Auszahlung wieder möglich. Die mPIN (mobile PIN) behält weiterhin ihre Gültigkeit.
+###
+Was ist eine mPIN?
+
+Die mPIN (mobile persönliche Identifikationsnummer) wird am Geldautomaten eingegeben und dient der Autorisierung der Bargeldverfügung. Sie ist nur für die Mobile Auszahlung nutzbar und verändert sich nicht. Sie ist daher vergleichbar mit Ihrer Karten-PIN.
+
+
+Die mPIN erhalten Sie nach der Freischaltung in der PSD BankingApp via Post.
+###
+Kann ich die mPIN (mobile PIN) ändern?
+Eine Änderung der mPIN ist nicht möglich.
+###
+Was ist eine mTIN?
+Die mTIN (mobile Transaktions-Identifikations-Nummer) dient der Bestätigung der Transaktionsdaten. Bei der mobilen Auszahlung geben Sie nach Aufforderung die mTIN, die am Geldautomaten angezeigt wird, in der PSD BankingApp ein. Die mTIN wird einmalig für eine Mobile Auszahlung erzeugt und ist daher zeitlich nur begrenzt gültig.
+###
+An welchen Geldautomaten kann ich mit der Mobilen Auszahlung Geld abheben?
+In der Geldautomaten- und Filialsuche innerhalb der PSD BankingApp finden Sie bei jedem teilnehmenden Geldautomaten ein Kennzeichen. Das Kennzeichen ist ein Smartphone mit einem Geldschein. Sie finden das Kennzeichen direkt unterhalb des Logos der Bank.
+###
+Kann ich die Geldautomatensuche auch ohne GPS-Empfang verwenden?
+Ja, die Geldautomaten- und Filialsuche kann auch ohne GPS-Empfang genutzt werden. Die Standortbestimmung erfolgt dann über die geografische Zuordnung des WLAN-Einwahlknotens. Zudem ist die manuelle Eingabe des Standortes über den Ortsnamen oder die Postleitzahl möglich.
+###
+Kann ich die Mobile Auszahlung auch offline nutzen?
+Nein, die Mobile Auszahlung können Sie nicht offline verwenden.
+###
+Welche Berechtigungen benötigt die PSD BankingApp?
+
+Standort
+
+Die PSD BankingApp beinhaltet einen Geldautomaten- und Filialfinder. Um hiermit schnell Ziele in der direkten Nähe zu finden, kann der aktuelle Standort des Gerätes verwendet werden.
+
+
+Fotos/Medien/Dateien
+
+Bei Nutzung des PSD ProfiBrokers der App werden ggf. Inhalte in PDF-Form auf dem Speicher des Endgerätes abgelegt.
+
+
+Kamera/Mikrofon
+
+Die Berechtigung "Bilder und Videos aufnehmen" wird für die Funktion GiroCode benötigt. Hierbei wird mithilfe der Smartphone- oder Tablet-Kamera ein Zweidimensionaler Code abgescannt, mithilfe dessen eine vorausgefüllte Überweisungsmaske bereitgestellt werden kann.
+
+
+Sonstige
+
+Für das Abrufen der Kontoinformationen und -umsätze wird der Zugriff auf Netzwerkverbindungen benötigt. Mithilfe der Smartphone-Vibration kann dem Nutzer ein physisches Feedback beispielsweise bei der Erkennung eines GiroCodes geliefert werden. Da die PSD BankingApp im Geldautomatenfinder Google Maps zur Kartendarstellung einbindet, werden die Google-Servicekonfigurationen ausgelesen, welche zur Nutzung aller Google In-App-Angebote benötigt werden.
+###
+Was passiert mit der mobilen Auszahlung, wenn ich mein Handy verliere?
+Ohne Kenntnis des Passwortes Ihrer PSD BankingApp sowie ohne mPIN kann kein Geld abgehoben werden.
+###
+Ich möchte die Mobile Auszahlung sperren bzw. kündigen. Was soll ich tun?
+
+Ihnen stehen nun folgende Sperrmöglichkeiten/Kündigungsmöglichkeiten zur Verfügung:
+
+1. Sperren/löschen Sie Ihren Zugang einfach und schnell im PSD OnlineBanking
+
+Melden Sie sich in Ihrem Onlinebanking und sperren Sie die App-ID unter "Service" / "Mobile Auszahlung". Auszahlung über die PSD BankingApp nun nicht mehr möglich.
+
+2. Kündigung der Funktion "Mobile Auszahlung" erfolgt nur schriftlich.
+###

@@ -1,0 +1,29 @@
+###
+Wie funktioniert das photoTAN-Verfahren?
+
+Einige Banken bieten das neue photoTAN-Verfahren an.
+
+Hier wird zur TAN-Generierung ein Lesegerät oder ein Smartphone mit photoTAN-App benötigt und der farbige Barcode abgescannt.
+So funktioniert das photoTAN-Verfahren
+
+Bei diesem Verfahren wird ein PC und ein Smartphone mit einer speziellen App oder ein spezielles Lesegerät benötigt.
+
+Nach Eingabe der Überweisungsdaten muss mit der photoTAN-App oder dem Lesegerät ein farbiger Barcode gescannt werden.
+
+Im Display erscheinen nun die Überweisungsdaten, die nochmals überprüft werden können, sowie eine TAN, mit der nach Eingabe in den PC die Transaktion abgeschlossen werden kann.
+Vorteile des photoTAN-Verfahren
+
+    Einfach: Die Bedienung ist leicht verständlich
+    Mobil: Es wird keine Internet- oder Telefonverbindung benötigt
+    Günstig: Für das Verfahren wird das eigene Smartphone und eine kostenlose App oder ein kostengünstiges Lesegerät benötigt.
+    Sicher: TAN-Generierung mit zwei voneinander getrennten Geräten und die Verschlüsselung der Daten bieten hohe Sicherheit
+
+
+Gefahren des photoTAN-Verfahrens
+
+Nur, wenn die TAN zusammen mit Kontoverbindung, Geldbetrag und Konto des Empfängers errechnet wird, ist das Verfahren sicher.
+
+Wird Ihr Smartphone geklaut, kann der Dieb zusammen mit den Nutzungsdaten einfach Überweisungen vornehmen.
+
+Befindet sich auf dem Smartphone ein Trojaner, kann sich der Betrüger ebenfalls eine TAN ergaunern und Überweisungen umlenken.
+###

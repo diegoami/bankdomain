@@ -1,0 +1,31 @@
+###
+
+Ist das Online-Banking der Deutschen Handelsbank sicher? Was soll ich beachten?
+
+Die Sicherheit Ihrer Daten hat beim Online-Banking der Deutschen Handelsbank allerhöchste Priorität. Aus diesem Grunde setzen wir auf fortschrittliche technische Sicherheitsstandards: Unsere Firewall verhindert den nicht befugten Zugriff auf die Daten der Deutschen Handelsbank. Zusätzlich sorgt ein mehrstufiges Identifizierungs- und Verschlüsselungssystem dafür, dass unerlaubte Dritte Ihre Daten weder abfangen noch lesbar machen oder erfragen können.
+
+Folgendes sollten Sie dennoch bei der Nutzung von Online-Banking generell beachten:
+
+    Loggen Sie sich nicht über einen Ihnen unbekannten Computer (zum Beispiel im Internetcafé) in das Online-Banking der Deutschen Handelsbank ein.
+    Nutzen Sie nach einer Online-Banking-Session mit der Deutschen Handelsbank immer den Button 'Beenden', um sich abzumelden. Nur so ist sichergestellt, dass Ihre Sitzung sofort unterbrochen wird.
+    Wenn Sie vermuten, dass Ihr Computer von einem Virus oder Trojanischen Pferd befallen ist, sollten Sie auf keinen Fall eine Online-Transaktion ausführen.
+    Nutzen Sie regelmäßig die jeweils von Ihrem Computerhersteller empfohlenen aktuellen Sicherheitsupdates.
+    Setzen Sie ein gängiges Virenschutzprogramm ein und aktualisieren Sie dieses idealerweise täglich.
+
+Das BSI (Bundesamt für Sicherheit in der Informationstechnik) bietet übrigens kostenfreie Virenscanner und Firewalls auf seiner Website www.bsi-fuer-buerger.de an.
+
+###
+
+Was sollte ich im Umgang mit meinen Zugangsdaten für das Online-Banking beachten?
+
+Das Online-Banking der Deutschen Handelsbank wird insbesondere durch Ihre persönlichen Zugangsdaten sicher, nämlich durch die nur Ihnen bekannten Online-Banking-Zugangsdaten und die immer nur einmal verwendbaren TAN-Nummern. Um auf das Online-Banking der Deutschen Handelsbank zugreifen zu können, benötigen Sie Ihre Zugangsnummer und Ihre PIN. Die PIN kann nicht einfach durch Ausprobieren herausgefunden werden. Bereits nach drei Fehlversuchen wird der Zugang zum Online-Banking der Deutschen Handelsbank gesperrt. In diesem Fall sollten Sie sich mit der Deutschen Handelsbank in Verbindung setzen. Von der Deutschen Handelsbank erhalten Sie per Post zusätzlich eine Liste mit indizierten Transaktionsnummern (iTANs). Um eine Online-Transaktion zu tätigen, ist die Eingabe der TAN notwendig. Jede TAN ist nur einmal gültig und wird über einen Zufallsmechanismus abgefragt. Ferner bietet die Deutsche Handelsbank mit dem mTAN Verfahren ein alternatives, zusätzliches Legitimationsverfahren im Online-Banking über Ihr Mobiltelefon.
+
+Folgendes sollten Sie bei der Nutzung des Online-Banking beachten:
+
+    Ändern Sie Ihre PIN regelmäßig und benutzen Sie dabei möglichst die komplette Auswahl von großen und kleinen Buchstaben sowie die Zahlen 0 bis 9. Sie sollten keine PIN verwenden, die einen privaten Bezug zu Ihnen hat, wie zum Beispiel Geburtsdatum, Postleitzahlen, Telefonnummer oder ähnliches.
+    Speichern Sie Ihre PIN oder TAN unter keinen Umständen auf Ihrem Computer.
+    Sollten Sie feststellen, dass unbefugte Dritte Zugang zu Ihrer PIN oder TAN-Liste haben, so informieren Sie uns umgehend darüber, damit wir Ihre PIN oder TAN-Liste unverzüglich sperren können.
+
+Die Deutsche Handelsbank wird von Ihnen niemals vertrauliche Daten wie Kontonummer, PIN oder TAN per E-Mail, telefonisch oder per SMS abfragen bzw. um Rücksendung oder Angabe dieser Daten beziehungsweise direkter Eingabe von Zugangsdaten bitten. Auf der Login-Seite zum Online-Banking fragen wir niemals nach einer oder mehreren TAN. Sollten Sie eine solche Anfrage erhalten, handelt es sich um einen Betrugsversuch durch einen Dritten.
+
+###

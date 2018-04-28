@@ -1,0 +1,37 @@
+###
+Was heißt eigentlich Secoder Verfahren?
+
+Der Secoder-Standard wurde von der deutschen Kreditwirtschaft spezifiziert.
+
+Ziel war es, einen einfachen und primär für das Online-Banking optimierten Chipkartenleser zur definieren, damit Onlinetransaktionen durch eine Datenvisualisierung im Display des Kartenlesers noch besser abgesichert werden können.
+
+Chipkartenleser mit Display und Tastatur ermöglichen die eindeutige Visualisierung und die explizite Bestätigung der Transaktionsdaten. So werden zum Beispiel Empfängerkontonummer und Betrag der Transaktionen im eigenen Display angezeigt. Zusammen mit der sicheren PIN-Eingabe resultiert daraus ein wesentlicher Sicherheitsgewinn im Online-Banking, da zum Beispiel auch Manipulationen durch nur sehr schwer erkennbare Man-in-the-MiddleAngriffe sofort aufgedeckt werden können, denn die Anzeige ist stets unabhängig von der Anzeige Ihres PC-Monitors und damit durch Trojaner oder Phisher nicht manipulierbar.
+
+Funktionen:
+
+    Kabelgebundener Chipkartenleser mit Display und Pinpad
+    Spezielle Filterregeln für den Kartenzugriff (quasi eine Hardware-Firewall)
+    Zur vollständigen Nutzung des Secoders im Onlinebanking (Anzeige der Transaktionsdaten), muss das RZ den Leser backendseitig unterstützen
+    Nutzbar für HBCI / FinTS, elektronische Signatur, GeldKarte und TAN-Generierung
+    Nur PC/SC 2.0 Part 10-Unterstützung, keine ZKA-SIG-API!
+    Optional: Firmware-Update
+###
+Was ist neu mit dem Secoder 2 Verfahren?
+
+Bei Secoder 2-Verfahren akzeptiert der Leser zusätzlich nur zertifizierte Softwareupdates. Ein Nutzer kann also sicher sein, dass nur die angezeigte Transaktion von ihm freigeben wird und ihm ein Hacker somit keine anderen Daten unterschiebt.
+
+Das patentierte Secoder 2-Verfahren ist der höchste Sicherheitsstandard der Deutschen Kreditwirtschaft für Chipkartenleser und Transaktionsabsicherung.
+
+Relevante neue Funktionen in Secoder 2.1 vs. Secoder 1.2
+
+    Bei ZKA-Karten kann die PIN nicht mehr vom PC aus zur Karte gesendet werden, eine sichere PIN-Eingabe am Klasse 3-Chipkartenleser ist jetzt zwingend erforderlich.
+    Transaktionsdaten können vorher im Display des Chipkartenlesers visualisiert werden
+    Optional können nun auch RFID-Chipkartenleser für die eID-Fuktion des neuen Personalausweises genutzt werden.
+    Wird die Secoder 2.1-Funktion in den Chipkartenleser geladen, so kann diese nicht mehr aus dem Chipkartenleser entfernt werden. Es sind nur gesicherte Chipkartenleser-Updates der Secoder 2.ff-Version möglich.
+
+
+Zusammengefasst heißt das:
+
+    Anhebung des Sicherheitsniveaus um mögliche Angriffe prinzipiell auszuschließen.
+
+###

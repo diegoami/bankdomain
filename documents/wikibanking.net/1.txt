@@ -1,0 +1,28 @@
+###
+Welche sind die Verfahren für Online-Banking?
+
+Zur Bestätigung einer Überweisung wird eine TAN bzw. eine andere Verschlüsselung benötigt.
+Um diese zu generieren, gibt es unter anderem folgende Verfahren:
+
+    TAN-Liste
+    iTAN-Liste
+    chipTAN bzw. smartTAN
+    mTAN bzw. smsTAN
+    eTAN
+    HBCI
+    photoTAN
+    pushTAN
+    QR-TAN
+    EBICS
+###
+Wie sicher sind die Verfahren für Online-Banking?
+
+Die Verfahren bieten jeweils einen unterschiedlichen Sicherheitsgrad.
+
+Das derzeit sicherste Verfahren ist das HBCI-Verfahren, bei dem eine Finanzsoftware, ein Chipkartenleser und eine HBCI-Chipkarte benötigt wird.
+
+Die beste Mischung aus Komfort und Sicherheit bietet das chipTAN-Verfahren, bei dem zur Generierung einer TAN ein TAN-Generator an den Bildschirm gehalten wird. Durch die beiden voneinander getrennten Geräte haben Betrüger keine Chance, sich dazwischen zu schalten.
+
+Nicht mehr sicher ist die TAN- und iTAN-Liste, bei der die TANs auf einer Liste neben dem Arbeitsplatz liegen. Geraten die Liste sowie die Zugangsdaten in falsche Hände, ist es für Betrüger ein leichtes, Überweisungen in Ihrem Namen durchzuführen. Daher werden die Nutzer oft Opfer von Phishingangriffen, bei denen Betrüger Sie auf falsche Internetseiten leiten und sie auffordern, Ihre Zugangsdaten oder eine bestimmte TAN einzugeben.
+
+###

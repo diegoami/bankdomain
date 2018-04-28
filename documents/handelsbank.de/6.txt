@@ -1,0 +1,43 @@
+###
+
+Welche Finanzverwaltungssysteme kann ich verwenden?
+
+Der HBCI-Server der Deutschen Handelsbank sollte mit den meisten HBCI-Kundenprodukten kompatibel sein.
+Aufgrund der Vielzahl an verfügbaren Softwareprodukten mit HBCI-Unterstützung ist es uns allerdings nicht möglich eine komplette Liste aller unterstützten Programme an dieser Stelle wiederzugeben. Aus dem gleichen Grunde können wir natürlich auch nicht garantieren oder versprechen, dass jedes HBCI-Kundenprodukt mit unserem HBCI-Server kommunizieren kann. Wir sind aber immer um größtmögliche Abdeckung bemüht.
+
+Sollten Sie die Unterstützung für ein bestimmtes HBCI-Programm vermissen sprechen Sie gerne unseren Kundenservice darauf an und teilen uns den Programmentwickler und/oder einen Link zu einer eventuellen Demoversion mit.
+
+Wichtiger Hinweis: Die Deutsche Handelsbank kann in der Regel keinen konkreten Support für die jeweiligen HBCI-Kundenprodukte leisten. Kontaktieren Sie bei Fragen zur Programmeinrichtung und –benutzung immer zuerst den jeweiligen Programmhersteller.
+
+Im folgenden listen wir einige gängige Finanzverwaltungsprogramme auf, von denen uns bekannt ist, dass eine Kommunikation mit unserem Server grundsätzlich möglich ist:
+
+    Starmoney 10.0 / Starmoney Business 7.0 (Star Finanz-Software Entwicklung und Vertriebs GmbH)
+    sFirm 3.1 (Star Finanz-Software Entwicklung und Vertriebs GmbH)
+    Banking 4W / 4X / 4A / 4I, jsHBCI Bibliothek, FinTS API (Subsembly GmbH)
+    DataDesign Banking Application Components [DDBAC] 5.3.33.0 (B+S Banksysteme AG)
+    Hinweis: Die DDBAC HBCI-Komponenten werden vielfach in anderen gängigen Softwareprodukten verwendet, u.a. in Produkten der Firmen Buhl Data Service GmbH  („WISO-Software-Reihe“), Haufe-Lexware GmbH & Co. KG (Quicken, Lexware Programme, u.a.)
+    jameica/hibiscus (Olaf Willuhn)
+
+Wir bitten Sie um Verständnis, dass wir die folgenden Programme aktuell nicht unterstützen können:
+
+    VR-NetWorld (lokale Volks-und Raiffeisenbank)
+    proficash (lokale Volks- und Raiffeisenbank)
+
+###
+
+Welche Einstellungen muss ich in meiner Finanzverwaltungssoftware vornehmen?
+
+Wichtiger Hinweis: Vor der ersten Nutzung muss der HBCI-Zugang erst via Browser „aktiviert“ werden. Rufen Sie hierzu die Seite https://banking.handelsbank.com/freischalten auf. Tragen Sie dort die zugesandten HBCI-Zugangsdaten incl. „Erst-PIN“ ein und vergeben anschließend eine eigene 5-stellige HBCI-PIN. Erst danach können Sie den Zugang in einer Finanzverwaltungssoftware verwenden!
+
+In Ihrer Finanzverwaltungssoftware müssen Sie dann noch die folgenden HBCI-Einstellungen vornehmen:
+
+HBCI-Server-URL: https://hbci.handelsbank.com [Je nach Programm kann die Protokollangabe „https://“ evtl. erforderlich sein!]
+HBCI/FinTS-Version: 3.0
+
+Benutzerkennung: gemäß Zugangsdaten-Brief, dort genannt „Benutzerkennung“ (Nummerierung erfolgt kontounabhängig)
+Kundenkennung: gemäß Zugangsdaten-Brief, dort genannt „HBCI-Kunden-ID“ (Nummerierung erfolgt Kontounabhängig)
+Hinweis: Benutzerkennung und Kundenkennung müssen beide verpflichtend angegeben werden! Bietet Ihr Programm hier keine passenden Eingabefelder, so fragen Sie bitte beim Programmhersteller nach.
+
+Nur wenn im Programm zusätzlich abgefragt:
+Filter für Übertragung: Base64
+TCP-Port: 443

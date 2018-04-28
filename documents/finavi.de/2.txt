@@ -22,7 +22,7 @@ EBICS könnte interessant für Sie sein, da wesentlich mehr Funktionalitäten al
 Ist EBICS sicher?
 
 EBICS nutzt mehrere Sicherheitsebenen zum Schutz der Vertraulichkeit, Integrität und Nichtabstreitbarkeit von Transaktionen. So werden nicht nur die Kommunikationen mit der Bank auf dem Transportweg sondern auch die Nachrichten selbst verschlüsselt. Zudem unterstützt der Authorisierungsprozess auch anspruchsvolle Berechtigungs- und Freigabekonzepte. EBICS-Nachrichten werden basierend auf modernen kryptografischen Verfahren verschlüsselt und digital signiert.
-
+###
 
 Der Code zur Authentifizierung per mTan wurde mir nicht zugestellt.
 

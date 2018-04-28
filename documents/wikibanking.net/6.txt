@@ -1,0 +1,22 @@
+###
+Wie funktioniert das bluetoothTAN-Verfahren?
+
+
+
+Das bluetoothTAN-Verfahren ist für sicheres und komfortables Online-Banking mit mobilen Geräten und PC gedacht.
+So funktioniert das bluetoothTAN-Verfahren
+
+Die Sicherheitstechnik des bluetoothTAN-Verfahrens beruht auf dem bewerten chipTAN-Verfahren. Die Überweisungsdaten werden wie beim chipTAN-Verfahren überprüft und freigegeben. Die TAN wird erzeugt und nach einem Tastendruck per Bluetooth an die Online-Banking App übertragen.
+Voraussetzungen
+
+Voraussetzung ist neben dem Bluetooth fähigen TAN-Generator ein Gerät mit passender Online-Banking Anwendung die Bluetooth unterstützt. Dies können Smartphone, Tablet, aber auch der klassische PC sein.
+Vorteile des bluetoothTAN-Verfahrens
+
+    Komfort: kein Abgreifen des Flickercodes am Bildschirm mehr nötig
+    Sicherheit: bewerte Sicherheit des chipTAN-Verfahrens
+
+Nachteile des bluetoothTAN-Verfahrens
+
+Da es sich bei diesem Verfahren um eine Erweiterung des bekannten chipTAN-Verfahrens handelt können Hacker auch hier keine sensible Daten abgreifen. Allein die Sorglosigkeit des Benutzers kann ein Sicherheitsrisiko darstellen.
+
+###

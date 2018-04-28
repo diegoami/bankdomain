@@ -1,0 +1,18 @@
+###
+Wie funktioniert das pushTAN-Verfahren?
+
+
+pushTAN
+
+pushTAN ist ein weiteres Verfahren zur TAN-Generierung, wozu ein Smartphone und die pushTAN-App benötigt wird.
+
+Das Smartphone ist durch die Registrierung für das pushTAN-Verfahren in zwei logische Kanäle geteilt, was jedoch keinerlei Auswirkungen auf den Betreib des Smartphones hat. Die beiden Kanäle wissen nichts voneinander und sind somit getrennt, was dem chipTAN- und mTAN-Verfahren entspricht und somit die gleiche Sicherheit bietet.
+So funktioniert das pushTAN-Verfahren
+
+Um das Verfahren anwenden zu können, nutzen Sie entweder das Internetportal der Sparkasse, eine Banking-App auf Ihrem Smartphone oder Tablet oder eine Banking-Software auf Ihrem PC.
+
+Zunächst müssen wie gewohnt die Überweisungsdaten eingegeben werden.
+
+Danach empfangen Sie in der pushTAN-App eine Nachricht. Diese enthält die Daten, die Sie nochmals prüfen müssen. Erst nach Bestätigung wird die TAN angezeigt. Die TAN kann dann bei Nutzung einer Banking-App automatisch in den Überweisungsträger übernommen werden, ansonsten muss sie abgetippt werden.
+
+###

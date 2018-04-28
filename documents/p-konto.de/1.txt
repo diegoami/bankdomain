@@ -1,0 +1,84 @@
+###
+Ich habe gehört, dass Leute ihr Girokonto „vermieten“. Was ist das? Ist das strafbar?
+
+Dabei geht es darum, dass der Kontoinhaber sein Girokonto einer dritten Person zur Verfügung stellt und in deren Auftrag eine Überweisung entgegennimmt. Der Kontoinhaber soll das eingehende Geld dann an den Dritten weiterleiten und darf als Provision einen Teil der Überweisung einbehalten. Fast immer sitzt der Auftraggeber im Ausland. Es handelt sich dabei in aller Regel um Betrug. Der Kontoinhaber muss damit rechnen, dass er sich wegen leichtfertiger Geldwäsche strafbar macht (§ 261 StGB), da er dazu beiträgt, widerrechtlich vereinnahmte Gelder in dunklen Kanälen verschwinden zu lassen. Außerdem setzt er sich den Schadensersatzansprüchen geschädigter Dritter aus (BGH VIII ZR 302/11). Also: Finger weg!
+
+###
+Ist ein Girokonto im Ausland eine gute Alternative zum P-Konto?
+
+Nicht wirklich. Mit dem P-Konto haben Sie größere Rechtssicherheit.
+
+Wer sein Bargeld schützen möchte, kann es natürlich auf einem Girokonto im Ausland deponieren. Können Sie das Girokonto online führen, mag dies praktikabel sein. Soweit sich das Konto im Ausland befindet, haben Sie von Deutschland aus naturgemäß nicht die Rechtssicherheit, die Sie in Deutschland hätten. Hinzu kommt, dass die seit dem 18. Januar 2017 geltende Kontenpfändungsverordnung dem Gläubiger in Deutschland die Möglichkeit gibt, auf Ihre ausländischen Girokonten in den Mitgliedstaaten der Europäischen Union mit Ausnahme von Großbritannien und Dänemark zuzugreifen. Soweit Sie ein Girokonto im Nicht-EU-Ausland führen, erhöht sich die Rechtsunsicherheit je nach Land in Richtung Rechtlosigkeit.
+
+###
+
+In den Banken-AGB ist öfter von der Textform die Rede. Was ist das?
+
+Möchte Ihre Bank die Geschäftsverbindung kündigen, muss sie die Erklärung regelmäßig in Textform abgeben (§ 126b BGB). Textform bedeutet, dass eine Erklärung in lesbarer Form auf einem dauerhaften Datenträger abgegeben werden muss. Als Empfänger sollen Sie die Möglichkeit haben, die Mitteilung für einen längeren Zeitraum aufzubewahren. Fehlt es an der Textform, ist die Erklärung unwirksam.
+
+
+###
+Was ist denn der Basiszinssatz?
+
+Die Deutsche Bundesbank gibt zum 1. Juli und 1. Januar des Jahres im Hinblick auf die Kapitalmarktsituation den Basiszinssatz bekannt. Danach berechnen sich die Verzugszinsen. Der Basiszinssatz betrug zum 1.1.2017 minus 0,88 %. Er war also negativ. Der gesetzliche Verzugszinssatz für Verbraucher ist nach § 288 BGB auf 5 Prozent über dem Basiszinssatz festgelegt. Daraus errechnet sich der Verzugszinssatz von 5 % minus 0,88 % = 4,12 %. Dies ist der Zinssatz, den Sie im Fall eines Zahlungsverzuges an Ihren Gläubiger zahlen müssen.
+
+###
+
+Auf Kontoauszügen lese ich manchmal „p.a.“ oder „per annum“. Was bedeutet das?
+
+Das ist lateinisch und bedeutet pro Jahr. Heißt es zum Beispiel „4 % p.a.“, zahlt der Kontoinhaber 4 Prozent Zinsen im Jahr, falls er das Konto überzieht oder einen Kredit nutzt.
+
+###
+Auf meinem Kontoauszug steht das Wort Wertstellung / Validierung. Was bedeutet das?
+
+Wertstellung bezeichnet den Tag, an dem eine Gutschrift auf dem Girokonto verzinst wird oder die Verzinsung beendet ist, wenn sie einen Guthabenbetrag abheben. Der Tag der Wertstellung ist meist nicht identisch mit dem Tag der Buchung.
+
+###
+Was sind Online-Banken?
+
+Online-Banken unterhalten kein Filialnetz. Sie bieten ihre Dienstleistungen ausschließlich über das Internet an. Damit sind sie besonders kostengünstig. Aber auch herkömmliche Banken, die vor Ort mit Filialen vertreten sind, bieten neben dem normalen Girokonto auch an, ein Girokonto online zu führen.
+
+###
+
+Was kann ich tun, wenn ich Probleme mit der SCHUFA habe (Ombudsmannverfahren)?
+
+Können Sie in Ihrer SCHUFA einen Eintrag nicht nachvollziehen, können Sie die Angelegenheit durch den Ombudsmann der SCHUFA überprüfen lassen. Ist Ihre Beanstandung begründet, verpflichtet der Ombudsmann mit seinem Schlichtungsspruch die SCHUFA, den Eintrag zu korrigieren. Sind Sie hingegen im Unrecht, soll er Ihnen den Sachverhalt verständlich und nachvollziehbar erklären. Auf der Website des Ombudsmanns, finden Sie ein Onlineformular auf dem Sie Ihr Anliegen online vortragen können.
+
+
+###
+Unter welchen Voraussetzungen kann ich ein negatives SCHUFA-Merkmal vorzeitig löschen lassen?
+
+Ihr Zahlungsverzug kann auch auf reiner Nachlässigkeit beruhen. Sie können deshalb ein Negativmerkmal vorzeitig in der SCHUFA löschen lassen, wenn die Forderung höchstens 2.000 € beträgt, der Gläubiger die Forderung noch nicht gerichtlich hat feststellen (titulieren) lassen und Sie die Forderung binnen Monatsfrist bezahlt haben. Außerdem müssen Sie der SCHUFA die schriftliche Bestätigung Ihres Gläubigers vorlegen, dass die Forderung bezahlt ist.
+
+###
+
+Was sind negative SCHUFA-Merkmale und welche Auswirkungen haben sie?
+
+Die SCHUFA sammelt Informationen über Ihr Zahlungsverhalten bei Bankgeschäften. Wurde Ihr Konto wegen eines nicht vertragsgemäßen Verhaltens gekündigt, steht die Kündigung in der SCHUFA. Die Kündigung stellt ein negatives SCHUFA-Merkmal dar. Negative SCHUFA-Merkmale beeinträchtigen Ihre Bonität. Aber auch die Abgabe der Vermögensauskunft (früher: Eidesstattliche Versicherung) sowie der Haftbefehl zur Erzwingung der Vermögensauskunft sind negative SCHUFA-Merkmale. Diese „harten“ Negativmerkmale verhindern oft jegliche Geschäftsbeziehung. Die SCHUFA löscht Negativmerkmale in der Regel am Ende des dritten Jahres nach dem Jahr der Speicherung.
+
+###
+
+Was ist eine SCHUFA-Selbstauskunft? Wie erhalte ich eine solche?
+
+Sie haben das Recht, jedes Jahr bei der SCHUFA eine gebührenfreie SCHUFA-Selbstauskunft (Eigenauskunft) über die dort über Ihre Person gespeicherten Daten zu verlangen. Damit können Sie kontrollieren, ob die Eintragungen korrekt sind. Die SCHUFA bietet auch eine spezielle SCHUFA-Selbstauskunft an, wenn Sie gegenüber einem potentiellen Vermieter oder Arbeitgeber ihre wirtschaftliche Integrität nachweisen wollen. Sie kostet 29.95 €. Sie können Ihre SCHUFA nach einer Registrierung auch online auf der Website der SCHUFA einsehen.
+
+
+###
+Was beinhaltet die SCHUFA-Klausel? Muss ich diese akzeptieren
+
+Beantragen Sie ein Girokonto oder einen Kredit, verlangen die Banken meist, dass Sie eine SCHUFA-Klausel unterschreiben. Sie willigen damit ein, dass die Bank Ihre Geschäftsverbindung sowie Ihr eventuell nicht vertragsgemäßes Verhalten bei der Führung Ihres Girokontos oder Ihr Kreditverhalten an die SCHUFA meldet. Sie sind zwar nicht verpflichtet die SCHUFA-Klausel zu akzeptieren. Lehnen Sie die Klausel ab, müssen Sie damit rechnen, dass die Bank die Geschäftsverbindung mit Ihnen ablehnt.
+
+###
+
+Was ist ein SCHUFA-freies Girokonto?
+
+Möchten Sie vermeiden, dass eine Bank eine SCHUFA Auskunft über Sie zieht oder von Ihnen verlangt, können Sie ein SCHUFA-freies Girokonto einrichten. Ein SCHUFA-freies Girokonto wird nicht in die SCHUFA eingetragen. Einige Banken haben sich darauf spezialisiert, gerade Kunden mit schlechter SCHUFA-Auskunft SCHUFA-freie Girokonten einzurichten. Solche Konten können Sie in der Regel nur im Guthabenbereich führen. Sie werden oft mit einer Prepaid-Kreditkarte gewährt (u.a. Fidor-Bank, Paycenter, Triodos-Bank, Viabuy). Auch wenn diese Konten nicht in der SCHUFA vermerkt sind, werden sie beim Bundeszentralamt für Steuern registriert. Ein Gläubiger kann dort über den Gerichtsvollzieher Auskunft über Ihr SCHUFA-freies Girokonto einholen und es bei der Bank pfänden lassen.
+
+
+###
+Warum wünscht die Bank von mir eine SCHUFA-Auskunft?
+
+Die Bank möchte sich einen Überblick über Ihr Zahlungsverhalten verschaffen.
+
+Die SCHUFA speichert Daten über das Zahlungsverhalten der Bürger. Sie erhält diese Daten von ihren ca. 4.500 Vertragspartnern, zu denen vor allem Banken, Kreditkartenunternehmen, Leasingfirmen und Telekommunikationsunternehmen gehören. Haben Sie sich als Bankkunde vertragswidrig verhalten (z.B. wenn Ihre Bank Ihnen wegen des Vorwurfs eines Kreditkartenmissbrauchs Ihr Girokonto gekündigt hat), wird dieser Umstand in Ihrer SCHUFA eingetragen. Sie haben dann ein negatives Merkmal in der SCHUFA stehen. Beantragen Sie dann bei einer anderen Bank ein neues Konto, müssen Sie damit rechnen, dass die Bank Ihren Antrag wegen Ihrer negativen SCHUFA-Auskunft ablehnt. Sie haben dann allenfalls Anspruch auf Einrichtung eines Basisgirokontos im Guthabenbereich.
+###

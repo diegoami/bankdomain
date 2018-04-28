@@ -1,0 +1,91 @@
+###
+Wer ist WebID Solutions GmbH?
+
+WebID Solutions GmbH ist einer der führenden Anbieter für die zertifizierte Online-Identifikation bei Online-Vertragsabschlüssen.
+###
+Was brauche ich für die Legitimation per Video?
+
+    Computer, Laptop, Tablet oder Smartphone mit einer internen oder externen Webcam (Kamera) mit einer Mindestauflösung von 640x480
+    gültigen Personalausweis oder Reisepass
+    Video-Telefonie (z. B. WebRTC)
+    stabile Internetverbindung
+    Aktuell funktioniert Video-Ident als Alternative zu Postident für Personen mit Wohnsitz in Deutschland, Österreich, Schweiz und vielen weiteren Ländern.
+###
+Wie funktioniert die Legitimation per Video?
+
+Die Legitimation per Video können Sie an 7 Tagen in der Woche in der Zeit von 7 – 22 Uhr durchführen. Ganz bequem innerhalb weniger Minuten von zu Hause oder unterwegs. Verschaffen Sie sich einen Eindruck, wie einfach und sicher das Verfahren ist: Erklärvideo zur Video-Identifikation
+
+Ihre Online-Legitimation - Schritt für Schritt:
+Produkt 	Wie erhalte ich die Referenznummer?
+DKB-Cash 	unmittelbar nach Ihrem Online-Antrag direkt per E-Mail
+Immobilien-
+finanzierung
+
+auf dem Postweg zusammen mit Ihren Vertragsunterlagen für Ihre Immobilienfinanzierung
+DKB-Privatdarlehen
+
+direkt am Ende des Online-Antragsprozesses auf unserer Homepage sowie per E-Mail
+
+     Gehen Sie auf www.webid-solutions.de/dkb
+     Halten Sie Ihre persönliche Referenznummer bereit:
+     Erfassen Sie Ihre persönlichen Daten sowie Ihre Referenznummer mit Ihrem Rechner, per Smartphone oder Tablet.
+     Bestätigen Sie die AGB und die Datenschutzbestimmung. Anschließend wird Ihnen eine Vorgangsnummer angezeigt.
+     Halten Sie Ihr Ausweisdokument bereit und starten Sie Ihre Online-Legitimation per Video-Call. Nennen Sie dem Mitarbeiter von WebID Solutions Ihre Vorgangsnummer, er führt Sie Schritt für Schritt durch die Legitimation.
+     Abschließend erhalten Sie per E-Mail oder SMS eine TAN (Transaktionsnummer). Geben Sie diese über die Eingabemaske - in das dafür vorgesehene Feld - ein.
+    Ihre Legitimation ist abgeschlossen, Sie brauchen nichts weiter zu tun.
+###
+Was ist WebRTC?
+
+Der Begriff steht für „Web Real Time Communication“ und bedeutet Kommunikation in Echtzeit über den Browser. Es handelt sich um eine von ausgewählten Browsern automatisch unterstützte, verschlüsselte Video-Kommunikation, die keine zusätzliche Software voraussetzt.
+###
+WebRTC unterstützende Browser sind:
+
+    Mozilla Firefox ab Version 25
+    Google Chrome ab Version Build 1180
+    Opera ab Version 20
+###
+Die eingegebene TAN wird nicht akzeptiert. Was kann ich tun?
+
+    Lassen Sie sich einfach von dem WebID-Mitarbeiter eine neue TAN zusenden.
+    Geben Sie die TAN in das dafür vorgesehene Feld ein und klicken Sie auf den Button „Jetzt mit TAN bestätigen“.
+    Falls auch die neue TAN nicht angenommen wird: Deaktivieren Sie gegebenenfalls Java Script in Ihrem Browser, oder schicken Sie eine E-Mail an service@webid-solutions.de.
+###
+Die Videoqualität ist nicht optimal. Woran kann das liegen?
+
+    Höhe der Übertragungsrate
+    schlechte Lichtverhältnisse
+    Webcam ist über USB an Ihr Endgerät angeschlossen
+    zu geringe Mindestauflösung der Webcam
+    Firewall oder Virenscanner
+
+ ###
+
+Benutzertipps
+
+    Ihre Webcam (Kamera) sollte über eine Mindestauflösung von 640x480 verfügen.
+    Für die Video-Telefonie sollte die Übertragungsrate mindestens bei 500 kbit/s liegen. Ist diese geringer, stoppen Sie laufende Down- oder Uploads, automatische Updates oder einen laufenden Bittorrent-Client (Filesharing) – z. B. mit dem Windows-Taskmanager.
+    Achten Sie darauf, dass Sie sich während des Video-Calls in einem hellen Raum aufhalten. Optimal ist eine Lichtquelle, die sich hinter Ihnen befindet.
+    Entfernen Sie in diesem Fall die Geräte, die Sie gerade nicht brauchen. Oder nutzen Sie für Ihre Webcam einen anderen USB-Anschluss. Falls Ihre Webcam an einem USB-Hub angeschlossen ist, kann es helfen, sie stattdessen direkt an einen USB-Anschluss am Computer anzudocken.
+
+
+###
+Wo werden meine Daten gespeichert?
+
+Ihre Daten werden ausschließlich auf einem Server in Deutschland gespeichert. Für Sicherheit sorgt ein zusätzliches Verschlüsselungsverfahren.
+###
+Wer bekommt meine Daten?
+
+Ihre Daten werden an die DKB für die Prüfung bzw. Bestätigung Ihrer Identität weitergegeben. Darüber hinaus wird WebID Ihre Daten und Nachweise, wie in der Datenschutzerklärung beschrieben, auch zur Identifizierung gegenüber anderen Partnern von WebID verwenden. Die Weitergabe Ihrer Daten erfolgt ausschließlich mit Ihrem Einverständnis.
+###
+Wie wird gewährleistet, dass meine Daten sicher sind?
+
+Ihre Daten werden vollständig verschlüsselt – sowohl in der Übertragung, bei der Datenspeicherung, bei der Bearbeitung während der Identifikation als auch bei der Übertragung an die WebID Solutions GmbH oder an einen WebID Partner. Die Verschlüsselung mittels DTLS-SRTC-Protokoll entspricht den aktuell höchsten technischen Standards.
+###
+Kann ich meine Einwilligung widerrufen?
+
+Ja. Sie können Ihre Einwilligung zur Erhebung, Verarbeitung und Nutzung Ihrer Daten mit Wirkung für die Zukunft ganz oder teilweise widerrufen. Ihre Daten werden vorbehaltlich gesetzlicher Aufbewahrungsfristen in dem von Ihnen gewünschten Umfang unverzüglich gelöscht oder für eine weitere Verwendung gesperrt.
+###
+Ist die Video-Legitimation auch mit einem vorläufigen Ausweis möglich?
+
+Nein. Die Prüfung Ihrer Identität ist nur mit einem gültigen Personalausweis oder Reisepass möglich.
+###

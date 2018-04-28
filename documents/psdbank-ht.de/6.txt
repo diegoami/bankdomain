@@ -1,0 +1,78 @@
+###
+Welche Informationen erhalte ich bei Verified by Visa per SMS oder in der App?
+
+Die Nachricht enthält
+
+    den Händlernamen,
+    Währung und Betrag der Transaktion und
+    die für diese Daten berechnete E-Commerce-TAN.
+
+Nur wenn die Daten aus der Nachricht denen der Transaktion entsprechen, die Sie freigeben möchten, geben Sie die E-Commerce-TAN während des Kaufvorgangs ein.
+###
+Ich habe kein Smartphone. Kann ich die Sicherheitsverfahren für Verified by Visa  trotzdem weiter nutzen?
+Selbstverständlich können Sie neben der eComTAN-App auch weiterhin eine SMS zur Zustellung der Nachricht mit der E-Commerce-TAN auswählen. Als zusätzliche Absicherung werden Sie bei SMS-Zustellung gebeten, Ihre persönliche Antwort zu einer Sicherheits-Frage zu hinterlegen.
+###
+Was ist die "virtuelle Handynummer"?
+Bei Nutzung der eComTAN-App ist die virtuelle Handynummer Ihre persönliche Kennung – vergleichbar mit Ihrer Mobilfunknummer für die Zustellung einer SMS.
+###
+Ich habe mein Smartphone/Tablet gewechselt. Was muss ich bezüglich der eComTAN-App tun?
+
+Ihre bisherige virtuelle Handynummer wechselt mit Ihnen. Installieren Sie die eComTAN-App auf Ihrem neuen Gerät, aber wählen Sie beim ersten Start "Vorhandene virt. Handynummer übernehmen".
+
+
+
+Erzeugen Sie nun auf Ihrem alten Gerät in der eComTAN-App einen Migrationscode unter "Einstellungen/Rufnummernmigration".
+
+
+
+Nach Eingabe des angezeigten 60 Minuten gültigen Sicherheitscodes auf Ihrem neuen Gerät in der eComTAN-App wird Ihre virtuelle Handynummer übertragen und die App auf dem alten Gerät zurückgesetzt.
+
+###
+Kann ich sofort nach der Registrierung mit Verified by Visa einkaufen?
+
+Wenn Sie Ihren Aktivierungscode erhalten und damit die Registrierung abgeschlossen haben, können Sie Verified by Visa sofort nutzen.
+
+
+
+Bitte berücksichtigen Sie die Postlaufzeit zwischen Anforderung des Aktivierungscodes und dessen Erhalt / Abschluss der Registrierung. Wir empfehlen daher, Ihre Karte nach Erhalt zu registrieren. Damit steht Ihrem späteren Einkauf nichts mehr im Weg.
+###
+Wo kann ich mich für Verified by Visa registrieren?
+Sie können den Registrierungsvorgang im Abschnitt "Registrieren & Verwalten" auf dieser Seite vornehmen. Fordern Sie Ihren Aktivierungscode nach Eingabe Ihrer Kartennummer an. Haben Sie Ihren Aktivierungscode schon vorliegen, können Sie dort Ihre Registrierung abschließen.
+###
+Entstehen mir Kosten durch die Übermittlung der SMS oder der Nachricht in die eComTAN-App?
+
+Seitens der Bank ist der Versand der SMS mit der E-Commerce-TAN kostenfrei. Der Empfang von Kurzmitteilungen ist in der Regel ebenfalls sowohl im Heimatnetz als auch beim Auslands-Roaming kostenfrei.
+
+
+Für die Nutzung der eComTAN-App zum Empfang von Nachrichten benötigen Sie eine Datenverbindung, die nach den Konditionen Ihres Mobilfunkbetreibers oder des WLANs, in dem Ihr Endgerät angemeldet ist, kostenpflichtig sein kann.
+###
+Was bedeutet es, wenn beim Online-Shopping kein Fenster mit der Eingabeaufforderung für Verified by Visa angezeigt wird?
+
+Sie sollten sich vergewissern, dass
+
+    Ihre Karte registriert ist,
+    der Händler am Programm teilnimmt (Online-Händler beschreiben dies meist unter den akzeptierten Zahlungsarten),
+    jegliche Software deaktiviert ist, die die Anzeige von Eingabefenstern verhindert.
+
+Wenn Sie auch keine Nachricht mit den Transaktionsdaten und Ihrer E-Commerce-TAN erhalten haben, unterstützt der Händler die Verfahren vermutlich nicht. In diesem Fall wird der Umsatz ohne Verified by Visa abgewickelt.
+###
+
+Wie weiß ein Online-Händler, dass die Kreditkarte durch Verified by Visa geschützt ist?
+Der Online-Händler stellt eine Anfrage an den Server der Kartenorganisation und prüft, ob es sich um einen Kartennummernkreis handelt, der durch das Kreditinstitut freigeschaltet wurde. Ist dies der Fall, öffnet sich automatisch ein Fenster der kartenausgebenden Bank bzw. des Dienstleisters zur Eingabe der E-Commerce-TAN. Nach der Eingabe erhält der Händler eine Rückmeldung über die erfolgte Prüfung und der Bezahlvorgang im Shop des Händlers wird abgeschlossen.
+###
+
+Kann ich auch bei Händlern einkaufen, die nicht an Verified by Visa teilnehmen?
+Ja, der Kauf kann wie gewohnt durchgeführt werden. Es wird dann keine Verified by Visa-Prüfung durchgeführt.
+###
+
+Was passiert, wenn eine Kreditkarte ungültig wird oder verloren geht?
+Erhalten Sie eine Folgekarte, weil bei Ihrer alten Karte der Gültigkeitszeitraum abgelaufen ist, bleibt Ihre Registrierung weiterhin bestehen. Sperren Sie Ihre Karte z. B. wegen Verlust und wird bei diesem Vorgang automatisch eine Ersatzkarte erstellt, wird die Registrierung ebenfalls übertragen. Lediglich bei einer späteren Erstellung einer neuen Karte ist diese erneut zu registrieren.
+###
+
+Wie muss ich mit meinen Verified by Visa-Daten umgehen?
+Per E-Mail werden wir Sie weder zur Registrierung auffordern noch nach Ihren Sicherheitsdaten fragen. Bei entsprechenden Aufforderungen zur Preisgabe Ihrer Kreditkartendaten in E-Mails handelt es sich um sogenannte Phishing-Angriffe, bei denen Betrüger versuchen, an Kunden- bzw. Kreditkartendaten und Sicherheitsmerkmale zu gelangen. Bitte befolgen Sie diese in keinem Fall!
+###
+
+Wie ändere ich meine Mobilfunknummer / Sicherheitsfrage / virtuelle Handynummer oder wechsle zwischen den Verfahren?
+Als registrierter Verified by Visa-Kunde gelangen Sie im Abschnitt "Registrieren & Verwalten" auf dieser Seite durch Eingabe Ihrer Kartennummer in die Benutzerverwaltung, wo Sie die genannten Daten ändern können.
+###

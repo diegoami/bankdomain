@@ -1,0 +1,30 @@
+###
+Wie funktioniert das eTan-Verfahren?
+
+
+eTAN-Verfahren
+
+eTAN ist ein Identifikationsverfahren beim Online-Banking.
+
+Um dieses Verfahren anwenden zu können, benötigt der Nutzer einen spezieller TAN-Generator, der ohne Chipkarte auskommt.
+
+Zudem gibt es das eTAN plus-Verfahren, bei dem statt eines TAN-Generators ein Kartenlesegerät verwendet wird.
+Wie funktioniert das eTan-Verfahren?
+
+Nachdem der Nutzer die Überweisungsdaten eingegeben hat, erhält er von der Bank eine Kontrollnummer, die er über den TAN-Generator eingeben muss. Das Gerät errechnet damit eine TAN, mit der die Überweisung abgeschlossen werden kann.
+eTAN plus-Verfahren
+
+Noch eine Nummer sicherer ist das eTAN plus Verfahren. Hier bekommt der Nutzer anstelle des TAN-Generators ein Kartenlesegerät. Hierbei wird die eigene Bankkarte für die Transaktionen genutzt, welche einen geheimen Schlüssel verbirgt. Dieser erzeugt in Verbindung mit der Kontrollnummer der Bank eine gültige TAN Nummer. Diese ist abhängig von den jeweiligen Überweisungsangaben und kann nicht mehr durch Trojanerangriffe ermittelt werden.
+Vorteile des eTAN-Verfahrens
+
+    Sicher: Kein Phishing möglich, da ohne gültige Kontrollnummer der Bank keine Transaktionsnummer erzeugt werden kann
+
+
+Gefahren des eTAN-Verfahrens
+
+Durch das eTAN-Verfahren ist das Online-Banking zwar schon um einiges sicherer, aber dennoch ist ein Ausspähen der Zugangsdaten mittels Trojaner und Pharming beim eTAN-Verfahren immer noch möglich.
+
+Trojaner, die dem Nutzer bei Aufruf eines Links in einer Mail oder durch Öffnen eines Anhangs auf den PC gespielt werden, können die sensiblen Daten ausspionieren. Der Trojaner kann mitlesen, er kann aber auch eine falsche Webseite oder ein Formular anzeigen, indem der Nutzer dazu aufgefordert wird, die TAN preiszugeben. Bemerkt er dies nicht, filtern die Betrüger Ihre Nutzungsdaten und die generierte TAN heraus.
+
+Bei Phishingangriffen werden den Nutzern eine Seite angezeigt, die ähnlich aussieht wie die der eigenen Bank. Gibt das Opfer seine Nutzerdaten und seine TAN dort ein, werden diese abgefangen.
+###

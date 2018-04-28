@@ -1,0 +1,33 @@
+###
+Sie haben bereits ein UnionDepot und PSD OnlineBanking?
+
+Dann sind es nur noch wenige Klicks zur Freischaltung.
+
+Dazu benötigen wir einmalig Ihre Zustimmung, dass Ihre Daten – Name, Geburtsdatum, Adresse und Bankkundennummer – an die Union Investment Service Bank AG übermittelt werden dürfen. Damit werden Sie eindeutig als berechtigte Person identifiziert.
+
+Melden Sie sich wie gewohnt in Ihrem Onlinebanking an:
+
+    Klicken Sie auf den Punkt „UnionDepot".
+    Es erscheint die Seite „Zustimmung zur Datenübermittlung“.
+    Setzen Sie ein Häkchen bei „Ich stimme zu“.
+    Klicken Sie abschließend auf „Speichern“.
+
+Nach der eindeutigen Identifizierung Ihrer Person können Sie alle UnionDepot-Funktionen im PSD OnlineBanking nutzen.
+###
+Auftragserteilung über UnionDepot
+
+Bei der ersten Auftragserteilung im UnionDepot wird automatisch geprüft, ob die erforderlichen Berechtigungen bestehen.
+
+    Ist dies der Fall, müssen Sie lediglich die Sondernutzungsbedingungen/AGB der Union Investment Service Bank AG bestätigen.
+    Bestehen noch keine Berechtigungen zur Auftragserteilung, erscheint beim Aufruf der Funktion ein Freischaltungsantrag zur Online-Depotführung. Füllen Sie das Formular einfach online aus und senden Sie es unterschrieben an uns zurück.
+###
+Wie nutze ich das UnionDepot-Postfach?
+
+So können Sie Ihr Postfach für das UnionDepot direkt online freischalten:
+
+    Klicken Sie auf den Reiter Postfach, Unterpunkt Union Investment.
+    Es erscheint die Seite „Postfach für UnionDepot freischalten“.
+    Setzen Sie jeweils ein Häkchen bei den Punkten „Zustimmung zu den AGBs“ und „Verzicht auf die papierhafte Bereitstellung der Korrespondenz“.
+    Nach erfolgreicher Freigabe können Sie zusätzlich einen Benachrichtigungsservice für eingehende Dokumente einrichten.
+
+###

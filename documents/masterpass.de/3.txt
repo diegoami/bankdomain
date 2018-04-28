@@ -1,0 +1,17 @@
+###
+Ich habe mein Passwort vergessen. Was kann ich tun?
+
+Melden Sie sich auf der Startseite von Masterpass an, klicken Sie auf Passwort vergessen? und folgen Sie den Anweisungen auf dem Bildschirm.
+
+###
+Ich muss mein Passwort aktualisieren. Wie gehe ich vor?
+
+Melden Sie sich zunächst bei Ihrem Profil an und klicken Sie anschließend neben Verwaltung auf „Bearbeiten“. Geben Sie hier Ihr altes und neues Passwort ein, um die Anmeldedaten zu ändern. Vergessen Sie nicht, nach diesem Schritt auf Weiter zu klicken.
+###
+Was muss ich tun, wenn ich mein Mobiltelefon verloren habe oder es mir entwendet wurde?
+
+Ihre Kartendaten sind sicher in Ihrem Masterpass Profil verwahrt und werden nicht auf Ihrem Gerät gespeichert. Falls Ihr Passwort für Masterpass mit anderen ungeschützten Passwörtern auf Ihrem Mobilgerät übereinstimmt, sollten Sie Ihr Passwort ändern, um noch besser geschützt zu sein.
+
+Ist dies nicht der Fall, können Sie Ihr Passwort auf der Masterpass Website ändern, indem Sie sich bei Ihrem Masterpass Profil anmelden. Sobald Sie sich angemeldet haben, klicken Sie neben Verwaltung auf „Bearbeiten“. Geben Sie hier Ihr altes und neues Passwort ein, um die Anmeldedaten zu ändern. Vergessen Sie nicht, nach diesem Schritt auf Weiter zu klicken.
+###
+
