@@ -1,0 +1,73 @@
+###
+Was ist ein Zugriffscode?
+
+Ein Zugriffscode ist ein wechselnder 6-stelliger Code, der Ihnen bei jedem Log-in-Vorgang angezeigt wird und den Sie im Feld rechts daneben eingeben müssen. Dieser Code bietet einen zusätzlichen Schutz.
+
+###
+
+Was ist eine mobile TAN?
+
+Um eine Transaktion (z. B. eine Überweisung) im Online-Banking freizugeben, benötigen Sie eine TAN (Transaktionsnummer). Beim Mobile-TAN-Verfahren erhalten Sie diese TAN per SMS auf Ihr Mobiltelefon. Jede mobile TAN ist nur für die Transaktion gültig, für die sie angefordert wurde. Ihre Gültigkeit erlischt kurze Zeit nach der Anforderung bzw. nach Benutzung.
+
+###
+
+
+Was ist eine PIN?
+
+Eine PIN ist eine persönliche Identifikationsnummer, die Sie benötigen, um sich für das Online-Banking zu legitimieren. Beim Log-in geben Sie jedes Mal sowohl den TriodosZugang als auch die PIN sowie den Zugriffscode ein, und schon sind Sie im Triodos Online-Banking-Programm angemeldet. Bei der ersten Anmeldung im Online-Banking-Programm werden Sie aufgefordert, diese PIN zu ändern – dies geschieht zu Ihrer eigenen Sicherheit.
+Achtung: Wünschen Sie die Teilnahme am Telefon-Banking, so wählen Sie bei der Änderung der PIN nur eine Zahlenkombination. Aus technischen Gründen ist eine Teilnahme am Telefon-Banking nicht möglich, wenn Ihre PIN auch Buchstaben enthält.
+
+
+
+###
+Wie funktioniert Online-Banking (elektronisch per PC) bei der Triodos Bank?
+
+Bei der Online-Kontoführung haben Sie schnell und rund um die Uhr Zugriff auf Ihr Triodos Bank Konto. Dazu benötigen Sie lediglich einen PC mit Internetzugang.
+Für das Online-Banking im Internet nutzen Sie das PIN/TAN-Verfahren. Sie bekommen per Post neben dem TriodosZugang Ihre PIN (persönliche Identifikationsnummer) sowie den Freischaltcode für das Mobile-TAN-Verfahren zugeschickt. Generell loggen Sie sich ein, indem Sie Ihren TriodosZugang, anschließend Ihre PIN und den Zugriffscode, der Ihnen auf der Seite angezeigt wird, eingeben.
+Ihre jeweiligen Aufträge bestätigen Sie mit einer TAN die Ihnen per SMS auf Ihr Mobilfunktelefon geschickt wird. Beim ersten Log-in müssen Sie aus Sicherheitsgründen Ihre PIN ändern.
+
+
+
+###
+Wie funktioniert Telefon-Banking bei der Triodos Bank?
+
+Sie können Ihr Konto auch telefonisch führen. Hierfür benötigen Sie neben Ihrem Namen Ihre Kunden- oder Kontonummer und ebenfalls Ihre PIN, mit der Sie sich in einem speziellen Verfahren legitimieren. Überweisungen, Umsatzabfragen usw. können Sie über die Telefonnummer unseres Kundenbetreuungsteams 069 7171 9191 abwickeln.
+
+
+###
+Wie führe ich mein Konto bei der Triodos Bank?
+
+Bei der Triodos Bank führen Sie Ihr Konto zu Hause an einem PC mit Internetzugang (Online Banking) oder per Smartphone mit unserer MyBankingApp (Mobile Banking), alternativ dazu können Sie sich an unsere telefonische Kundenbetreuung wenden, die sich gerne um Ihre Aufträge kümmert (Telefon Banking).
+
+
+###
+Wie kann ich die Kundenbetreuung der Triodos Bank erreichen?
+
+Bei Fragen stehen Ihnen unsere Mitarbeiterinnen und Mitarbeiter selbstverständlich gerne zur Verfügung.
+
+Tel.: 069 7171 9191
+E-Mail: kundenbetreuung@triodos.de
+
+Servicezeiten:
+Individuelle Betreuung und Kontoeröffnung:
+Mo. – Fr.: 08:30 – 18:30 Uhr
+Telefon-Banking, Sperre Zugangsdaten, Entgegennahme von Rückrufwünschen:
+Mo. –Fr.: 08:30 – 22:00 Uhr
+Sa. + So.: 10:00 – 22:00 Uh
+Sperrservice Online-Banking:
+Mo.-So.: 24 Stunden
+
+###
+Wie teile ich meine neue Mobilrufnummer mit?
+
+Sie können uns Ihre neue Mobilrufnummer auf drei Wegen zukommen lassen:
+
+    Online-Banking: Sie können uns per "Mitteilung an die Bank" eine Nachricht zukommen lassen. Diese Funktion finden Sie unter dem Menüpunkt "Verwaltung".
+    WICHTIG : Bitte beachten Sie, dass Sie diese Mitteilung mit einer TAN legitimieren müssen. Sollten Sie das mobile TAN-Verfahren nutzen und es sich um die Nummer Ihres für dieses Verfahren genutzten Mobiltelefons handeln, stellen Sie bitte sicher, dass Sie unter der ursprünglich hinterlegten Mobilrufnummer die mobile TAN per SMS erhalten können. Sollte das nicht mehr möglich sein, so können Sie die unter 2. und 3. genannten Wege nutzen.
+    Telefon-Banking: Sie können uns auch per Telefon-Banking beauftragen, die bei uns hinterlegte Mobilrufnummer zu ändern. Ihre PIN für die Anmeldung zum Telefon-Banking ist identisch mit Ihrer Online-Banking PIN. Damit Sie sie über das Telefon eingeben können, darf sie nur aus Zahlen bestehen. Sollte Ihre PIN nicht nur aus Zahlen bestehen, so können Sie uns Ihren Änderungswunsch auf dem unter 3. beschriebenen Weg mitteillen. Das Telefon-Banking erreichen Sie Mo. - Fr. zwischen 8.30 und 22.00 Uhr sowie Sa. und So. zwischen 10.00 und 22.00 Uhr unter 069 7171 9191.
+    Postalisch: Natürlich können Sie uns den Auftrag zur Änderung Ihrer Mobilrufnummer auch per Brief mit Ihrer eigenhändigen Unterschrift erteilen. Schreiben Sie dazu einfach an:
+    Triodos Bank N.V. Deutschland
+    Kundenbetreuung
+    Mainzer Landstraße 211
+    60326 Frankfurt
+###

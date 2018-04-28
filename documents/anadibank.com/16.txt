@@ -1,0 +1,59 @@
+###
+Was versteht man unter „Eigene Werte“?
+
+Zu finden im Menü unter „Finanzen“ / „Eigene Werte“.
+Hier erfassen und verwalten Sie Ihre zusätzlichen Vermögenswerte.
+Die Vermögenswerte werden auf der Kontoübersicht sowie auch auf der Finanzübersicht dargestellt.
+###
+Wie kann ich meine Kontoauszüge bzw. Daten exportieren?
+
+Unter Service "Schließfach"
+Im Reiter Kontoauszüge werden Ihre vorhandenen Kontoauszüge so lange angezeigt, bis Sie diese löschen. Ungelesene Auszüge werden fett angezeigt. Unterhalb der Kontoauszugsübersicht können Sie Kontoauszüge nacherstellen.
+Beachten Sie bitte: Für die Nacherstellung von Kontoauszügen fallen Kosten an. Eine Nacherstellung ist rückwirkend für zwölf Monate möglich.
+
+###
+Was bedeutet das Rufzeichen neben dem Menüpunkt „Service“ /„Schließfach“?
+
+Unter Service "Schließfach"
+Ein Rufzeichen neben einem Menüpunkt bedeutet, dass Sie mehr als 100 Einträge unter diesem Punkt haben. Z.B. Sie haben mehr als 100 Kontoauszüge im Schließfach.
+###
+
+Wo finden ich Nachrichten oder Mitteilungen?
+
+Ihre Nachrichten und/oder Mitteilungen finden Sie unter Service. In Ihrem Posteingang werden Nachrichten als gelesen bzw. ungelesen markiert. Um eine Nachricht zu lesen, klicken Sie einfach auf die gewünschte Nachricht. Sie haben die Möglichkeit, direkt aus der Nachricht eine Antwort an uns zu generieren. Eine neue Nachricht erstellen Sie mit dem Button „Neue Nachricht“. Ihre Nachricht wird an unser Customer Care Center weitergeleitet.
+###
+Wie erfolgt die Verwaltung aller Kontakte?
+
+Das Anadi Online-Banking ist intelligent. Es merkt sich IBANs, Kontakt- bzw. Empfängerdaten, Zahlungstermine. Es lernt ständig dazu, denkt für Sie und merkt sich alle einmal eingegebenen Daten.
+
+Alle Ihre Transaktionspartner werden automatisch als Kontakt gespeichert. Diese stehen Ihnen somit für neue Transaktionen zur Schnellauswahl zur Verfügung. Weiters können Sie Kontakte als Favoriten kennzeichnen, um Überweisungen noch einfacher durchführen zu können.
+
+Unter alle Kontakte sehen Sie Ihre gespeicherten Kontakte in Listenform. Diese Liste können Sie sortieren und filtern. Aus den Kontaktdetails heraus können Sie eine Überweisung erstellen oder den Kontakt bearbeiten.
+Mit dem Button Kontakt hinzufügen können Sie neue Kontakte erstellen. Im Reiter Favoriten finden Sie Ihre Favoriten-Kontakte. Wenn Sie auf einen vorhandenen Favoriten klicken, gelangen Sie zu den Kontaktdetails. Sortieren und Filtern ist auch hier möglich. Zudem wird Ihnen unter alle Kontakte - Ihre Favoriten mit einem Stern dargestellt.
+###
+Wo sehe ich meine Karten?
+
+Unter dem Menüpunkt "Service" finden Sie die Rubrik "Meine Karten".
+Hier werden Ihre Bankomatkarten und Kreditkarten angezeigt. Über das Detailfenster jeder Bankomatkarten können Sie direkt in Ihre Geo-Control Einstellungen wechseln.
+###
+Wie sicher ist das neue Online-Banking?
+
+Alle unsere Online-Anwendungen entsprechen immer den aktuellsten Sicherheitsstandards.
+
+Tigerstarker Anadi-Tipp:
+1. Halten Sie Ihre Zugangsdaten stets geheim!
+2. Speichern Sie niemals Ihre persönlichen Zugangsdaten auf Ihrem Endgerät.
+3. Sichern Sie Ihren PC, Smartphone oder Tablet bei Nichtgebrauch stets durch eine Bildschirmsperre.
+
+Wenn Sie Ihr Online-Banking beenden, klicken Sie immer auf den Logout-Button im Hauptmenü.
+###
+Wo finde ich die Suchfunktion?
+
+Die Suchfunktion ist auf jeder Seite eingebettet. Sie hilft Ihnen, gezielt nach konkreten Inhalten zu suchen.
+
+Und: Sie können auch Aktionen direkt in der Hilfe ausführen. Beispielsweise können Sie ab sofort aus der Suche heraus einen "neuen Auftrag" an einen Ihrer bestehenden Kontakte erstellen. Einfach ausprobieren und Sie werden sehen, wie einfach das Anadi Online-Banking funktioniert.
+###
+Was wird im Journal angezeigt?
+
+Hier sehen Sie alle Ihre Aktivitäten wie z.B. Datum und Uhrzeit Ihres letzten Logins und durchgeführte Aufträge.
+###

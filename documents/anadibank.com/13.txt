@@ -1,0 +1,77 @@
+###
+Wo finde ich das Online-Banking?
+
+Den Login für das Online-Banking finden Sie oben rechts in der Hauptnavigation unserer Webseite.
+Sie können sich auch hier einloggen: Online-Banking
+
+###
+Wie erhalte ich meine persönlichen Zugangsdaten zum Anadi Online-Banking?
+
+Für den Erst-Login erhalten Sie von der Anadi Bank eine Verfügernummer und eine Erst-PIN. Diese Erst-PIN ist nur einmalig gültig und muß von Ihnen beim ersten Einstieg geändert werden. Ebenso vergeben Sie selbst einen Verfügernamen. Wir machen Ihnen den ersten Einstieg besonders leicht und führen Sie durch diesen Prozess. Außer Ihnen weiß niemand die Kombination Ihrer Zugangsdaten, auch die Anadi Bank nicht.
+Mit der Zugangsberechtigung erhalten Sie die Eintrittskarte für das Anadi Online-Banking.
+###
+Wie steige ich zum ersten Mal ins Online-Banking ein?
+
+1. Steigen Sie über unsere Webseite ein: Erst-Login Online-Banking
+
+2. Erst-Login über die Online-Banking App
+Laden Sie unsere Online-Banking App von Ihrem App Store (Google Play Store oder Apple App Store) herunter.
+Appstore    Playstore    Windows
+
+
+Hier erhalten Sie weitere Informationen der Online-Banking App.
+
+3. Erst-Login bei Abschluss eines Anadi Online-Produktes:
+Im Zuge des Anlageprozesses eines Anadi Online-Produktes legen Sie Ihre Zugangsdaten selbst an. Die Verfügernummer wird Ihnen vom System automatisch zugeteilt. Den Verfügernamen sowie die PIN vergeben Sie jedoch selbst.
+
+Tigerstarker Anadi-Tipp:
+Bitte notieren Sie sich die von Ihnen und vom System vergebenen Daten (Verfügernummer, Verfügername, PIN), damit Sie später einen Zugang zum Online-Banking haben.
+
+4. Online-Banking bei Ihrem Kundenberater in einer Anadi-Filiale: Sie schätzen den persönlichen Support?
+Ihr Kundenberater steht Ihnen zum Thema Online-Banking gerne zur Verfügung.
+###
+Wann erfolgt der automatische Logout?
+
+Wenn Sie 15 Minuten in Online-Banking keine Aktion durchführen, werden Sie aus Sicherheitsgründen automatisch abgemeldet.
+
+###
+Wo finde ich den Logout-Button?
+
+Der Logout-Button befindet sich rechts neben dem persönlichen Verfügerbild.
+###
+Wo kann ich die Verfügerdaten einsehen und warten?
+
+Im Menüpunkt „Meine Daten“ können Sie in Ihre Verfügerdaten einsehen und warten und die Kontaktdaten, E-Mailadresse und Telefonnummer ändern.
+
+Anadi Online-Banking ist persönlich:
+Unter Ihren persönlichen Daten werden alle personenbezogenen Daten angezeigt. Verfügername und PIN können Sie jederzeit mit dem Bleistifticon ändern. Ihre Verfügernummer wird lediglich zur Information angezeigt.
+
+Personalisierung – Verfügerbild hochladen:
+Hier haben Sie die Möglichkeit ein eigenes Bild hochzuladen. Mit dem Bleistifticon starten Sie die Bildauswahl.
+
+Ihre persönliche Startseite im Online-Banking:
+Mit der Funktion "Meine Startseite" können Sie Ihr Anadi Online-Banking ganz nach Ihren persönlichen Bedürfnissen gestalten.
+
+Jede Ansicht kann hinzugefügt, verschoben oder gelöscht werden. Für jede Ansicht definieren Sie, welche Konten angezeigt werden sollen. Zusätzlich können auch Bezeichnung und Darstellungsgröße der Ansicht angepasst werden.
+
+Mit einem eigenen Hintergrundbild, Verfügerbild und Begrüßungstext personalisieren Sie Ihre Startseite noch weiter. Das erhöht die Sicherheit und geht ganz einfach.
+###
+Welche Zeichnungsverfahren stehen mir zur Verfügung?
+
+Im Online-Banking können Sie Aufträge mittels tresorTAN, mobileTAN und cardTAN vornehmen. Sie können diese Zeichnungsverfahren im Online-Banking unter „Meine Daten“ – „Zeichnungsverfahren“ aktivieren bzw. ändern. Das Zeichnungsverfahren mittels tresorTAN ist kostenlos. Bei der Zeichnung von Aufträgen mit mobileTAN können Kosten entstehen.
+
+Weitere Konditionen und Bedingungen zum Online-Banking entnehmen Sie hier.
+
+Tigerstarker Anadi-Tipp:
+Sie können die tresorTAN auf mehreren Geräten aktivieren und beim Zeichnen auswählen auf welches Gerät der tresorTAN übermittelt werden soll. Unter „App-Einstellungen“ / „verbundene Geräte“ sehen Sie alle verbunden Geräte zu Ihrer Online-Banking App, der tresorTAN-App und dem Quick-Check und können diese verwalten.
+###
+Wo finden Sie ich Kontoauszüge?
+
+Unter dem Punkt: Service "Schließfach" / „Kontoauszüge“
+
+Im Reiter Kontoauszüge werden Ihre vorhandenen Kontoauszüge so lange angezeigt, bis Sie diese selbst löschen. Ungelesene Auszüge werden zur besseren Übersicht fett angezeigt.
+
+Sie können nach Konten, Erstellungsdatum bzw. Dokumentbezeichnung filtern und die Anzeige nach verschiedenen Kriterien sortieren.
+
+Sie können die Kontoauszüge je Konto anzeigen und filter.
+###

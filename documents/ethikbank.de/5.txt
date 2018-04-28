@@ -1,0 +1,31 @@
+###
+Muss ich für jedes Konto das POSTIDENT durchführen?
+
+Wenn Sie bereits Kunde bei uns sind, benötigen wir keine neue POSTIDENT von Ihnen. Als Neukunde reicht die einmalige Legitimation aus.
+###
+Kann ich das POSTIDENT auch nachreichen?
+
+Ja, Sie können die Identifikation per POSTIDENT auch separat durchführen und getrennt von den Kontoeröffnungsunterlagen zu uns schicken. Die Kontoeröffnung verzögert sich jedoch solange, bis wir Ihr POSTIDENT erhalten.
+###
+Müssen alle Bevollmächtigten gleichzeitig das POSTIDENT durchführen?
+
+Nein, die Legitimation kann getrennt voneinander durchgeführt werden.
+###
+Wo finde ich den POSTIDENT-Coupon?
+
+Auf unserer Internetseite zur Videolegitimation finden Sie den Link, der Sie auf das POSTID-Portal weiterleitet. Nach Eintragung Ihrer Daten können Sie entscheiden, ob die Legitimation per Video oder in einer Postfiliale erfolgen soll.
+###
+Was muss ich tun, wenn meine Identifizierung per Videochat endgültig fehlschlägt?
+
+In diesem Fall können Sie über das POSTID Portal das Verfahren "POSTIDENT durch Filiale" wählen. Sie erhalten dann einen Coupon mit dem Sie zur Postfiliale gehen müssen.
+Sollte sie über das Portal keinen Coupon ausdrucken können, wenden Sie sich bitte an unser Kundenzentrum.
+###
+Sind meine Daten sicher/geschützt, wenn ich Sie auf dem Portal eingebe?
+
+Ja! POSTIDENT durch Videochat erfüllt die datenschutzrechtlichen Leitlinien des Bundesbeauftragten für Datenschutz (BfDI), die im Schreiben des Bundesministeriums für Finanzen vom 17. April 2015 dargelegt werden (DOK 2015/0339066).
+###
+Welche Browser sind WebRTC fähig?
+
+WebRTC wird zurzeit von den Browsern Google Chrome, Mozilla Firefox und Opera unterstützt. Der Internet Explorer und Safari sind noch nicht ohne weiteres fit für die neue Technologie. Dort wird ein zusätzliches PlugIn benötigt, dass auf dem Portal der Deutschen Post zur Verfügung steht.
+
+###

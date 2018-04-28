@@ -1,0 +1,60 @@
+
+
+###
+Was ist die mobileTAN?
+
+Die mobileTAN ist ein alternatives, zusätzliches Legitimationsverfahren im Online-Banking. Mit dem mobileTAN-Verfahren können Sie jederzeit bequem und sicher Ihre Transaktionen legitimieren. Sie benötigen bei TAN-pflichtigen Transaktionen wie z.B. Überweisungen keinen TAN-Block, sondern fordern einfach eine SMS auf Ihr Handy an. Die SMS enthält nicht nur Ihre TAN, sondern auch alle wesentlichen Auftragsdaten zur Kontrolle. Die Kosten pro mobile TAN, die für einen Auftrag verwendet wird, betragen 0,09 EUR.
+
+
+
+Weitere Informationen zu mobileTAN
+###
+
+Was kostet eine mobileTAN?
+
+Die Kosten pro mobile TAN, die für einen Auftrag verwendet wird, betragen 0,09 EUR.
+###
+
+Auf welches Handy werden die TANs geschickt? Kann ich eine oder mehrere Handynummern angeben?
+
+Für die Zustellung der mobileTAN wird die Mobilfunknummer verwendet, die Sie bei der Anmeldung zum mobileTAN-Verfahren angegeben haben. Sie können die Nummer jederzeit ändern und überprüfen. Klicken Sie dazu im Online-Banking den Reiter „Services“ an, dann die Seite „mobileTAN-Verfahren“. Nach Änderung der Mobilfunknummer müssen Sie die Aktivierungsschritte erneut durchlaufen Die Angabe von mehreren Mobilfunknummern ist nicht möglich.
+###
+
+Über welches Konto werden die mobileTAN-Kosten verrechnet? Kann ich dies ändern?
+
+Die Kosten für die zugestellten mobileTANs werden über das Verrechnungskonto abgerechnet, das Sie bei der Anmeldung zum mobileTAN-Verfahren angegeben haben. Sie können das Konto jederzeit ändern und überprüfen. Klicken Sie dazu den Reiter „Services“ an, dann die Seite „mobileTAN-Verfahren“.
+###
+
+Wann erfolgt die Abrechnung der mobileTAN-Kosten?
+
+Die Abrechnung erfolgt monatlich, jeweils am 25. eines jeden Monats.
+###
+
+Wie erhalte ich einen Überblick aller versendeten mobileTANs?
+
+Klicken Sie den Reiter "Services" an, dann die Seite "mobileTAN-Verfahren". In der Statustabelle wird Ihnen die Anzahl der versandten mobileTANs angezeigt. Über den Link "Versandte SMS anzeigen" erhalten Sie sowohl eine Auflistung der SMS vom aktuellen Monat als auch eine Zusammenfassung der vergangenen Monate.
+
+###
+
+Kann ein Bevollmächtigter meines Kontos die mobileTAN nutzen?
+
+Ja. Der Bevollmächtigte muss sich dazu ebenfalls zum mobileTAN-Verfahren anmelden. Hierbei kann er eine eigene Mobilfunknummer angeben.
+###
+
+Kann die mobileTAN auch im Mobile-Banking-, HBCI- und FinTS-Zugangs-Kanal genutzt werden?
+
+Das mobileTAN-Verfahren kann im Online-Banking sowie für HBCI/FinTS genutzt werden. Es steht Ihnen aus Sicherheitsgründen jedoch nicht im Mobile-Banking zur Verfügung.
+###
+
+Wie kann ich mich für das mobileTAN-Verfahren freischalten wenn ich kein Smartphone habe und kein Lesegerät kaufen möchte?
+
+In diesem Falle erfolgt die Freischaltung für das mobileTAN-Verfahren im Kundenservice unter 030 - 310 66 005. Dazu legitimieren Sie sich mit der Telefon-Pin. Der Mitarbeiter schaltet Sie dann frei.
+###
+
+Was tue ich, wenn der angeforderte Aktivierungscode zur Nutzung des mobileTAN-Verfahrens ist nicht angekommen ist?
+
+Falls Sie nach ca. 30 Sekunden keine SMS bekommen haben, überprüfen Sie bitte die angegebene Mobilfunknummer und fordern Sie den Aktivierungscode erneut an.
+
+Besteht das Problem weiterhin, erreichen Sie unseren 24-h-Kundenservice unter 030 – 310 66 005.
+
+###

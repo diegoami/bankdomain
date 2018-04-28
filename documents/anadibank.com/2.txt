@@ -1,0 +1,175 @@
+###
+Wie kann ich meine Bankomatkarte/Kreditkarte sperren?
+
+Bemerken Sie den Verlust, Diebstahl oder Missbrauch Ihrer Maestro-Bankomatkarte oder Kreditkarte, verständigen Sie sofort Ihre kontoführende Filiale bzw. Ihren Kundenbetreuer oder eine der Sperr-Notrufnummern. Erstatten Sie unbedingt auch eine Verlust- bzw. Diebstahlsanzeige bei der nächsten Sicherheitsdienststelle.
+Sperre der Maestro-Bankomatkarte
+
+    Bitte melden Sie den Verlust oder Diebstahl der Maestro-Bankomatkarte in Ihrer Bankfiliale bzw. bei Ihrem Kundenbetreuer sofort nach dem Bekanntwerden.
+    Nach Angabe von IBAN und BIC sowie der Kartenfolgenummer erfolgt die Sperre Ihrer Karte.
+    Bei Verlust oder Diebstahl der Karte muss zusätzlich eine polizeiliche Meldung erfolgen.
+
+
+Möglichkeiten der Kontaktaufnahme
+
+Persönlich: zu den jeweiligen Banköffnungszeiten
+Schriftlich: per Mail an austrian@anadibank.com
+Telefonisch: +43 (0)50202 0
+Außerhalb der Banköffnungszeiten steht Ihnen auch der 24 Stunden Maestro-Sperrnotruf unter folgenden Telefonnummern zur Verfügung:
+Sperr-Notruf im Inland: 0800 20488 00 gebührenfrei
+Sperr-Notruf im Ausland +43 (0)1 20488 00 gebührenpflichtig
+
+Sperre der Kreditkarte
+card complete
+Kreditkarten 	PayLife
+Kreditkarten
+
+Tel.: +43 (0)1 71111 770
+Fax: +43 (0)1 71111 559
+
+
+PayLife Service Center
+Tel: 059906 - 4500
+E-Mail: paylife24@paylife.at
+###
+Was ist GeoControl?
+
+GeoControl ermöglicht es, Bargeldbehebungen auf Magnetstreifen-Basis in bestimmten gefährdeten Regionen außerhalb Europas für österreichische Maestro-Bankomatkarten zu unterbinden. Damit schützen Sie die Maestro-Bankomatkarte vor etwaigem Missbrauch.
+
+###
+Was ist Skimming?
+
+Beim Skimming werden an manipulierten Geldausgabeautomaten die Magnetstreifendaten der Maestro-Bankomatkarte ausgelesen und zusätzlich der eingetippte PIN-Code ausgespäht. Mit den gestohlenen Daten können die Betrüger dann missbräuchliche Geldbehebungen an bestimmten Geldausgabeautomaten in außereuropäischen Risikoländern durchführen.
+###
+Was kostet GeoControl?
+
+Diese Dienstleistung, welche die Sicherung der Nutzung Ihrer Maestro-Bankomatkarte weiter erhöht, wird Ihnen von der Anadi Bank kostenlos zur Verfügung gestellt.
+###
+Ich fahre demnächst ins Ausland außerhalb Europas und werde dort die Bankomat-Funktion benötigen.
+Wo kann ich GeoControl deaktivieren?
+
+Standardmäßig ist die Funktion auf Ihrer Maestro-Bankomatkarte aktiv. D.h. Sie können in Risikoländern Ihre Maestro-Bankomatkarte nicht nutzen.
+
+Sie haben drei Möglichkeiten die Funktion vorübergehend zu deaktivieren:
+
+    1. Im Online-Banking bzw. in der Online-Banking App: Gehen Sie dazu ins Online-Banking oder in die Online-Banking App. Unter Ihrem persönlichen Profil finden Sie den Menüpunkt „Sicherheit“ und darunter die Funktion „GeoControl“. Wählen Sie Ihre Maestro-Bankomatkarte aus, gehen Sie auf Bearbeiten und ändern Sie den Punkt „GeoControl aktiv“ auf „Nein“. Wählen Sie dann noch den Zeitraum für die Deaktivierung der Funktion. Danach müssen Sie die Änderung mit der TAN bestätigen.
+    2. Über Ihren Kundenbetreuer oder das Customer Care Center der Anadi Bank
+    3. Direkt telefonisch über die Maestro-Sperr-Hotline unter Tel. +43 1 204 88 00.
+###
+Wo sehe ich, ob GeoControl deaktiviert ist?
+
+Im Online-Banking sehen Sie unter Ihrem persönlichen Profil  / „Sicherheit“ / „GeoControl“, ob GeoControl für Ihre Maestro-Bankomatkarte aktiv ist oder vorübergehend deaktiviert wurde. Standardmäßig ist die Funktion aktiviert.
+###
+
+Wie lange kann ich GeoControl deaktivieren?
+
+Der von Ihnen selbst eingegebene Deaktivierungszeitraum kann maximal drei Monate in der Zukunft starten und darf zu Ihrer eigenen Sicherheit dann drei Monate nicht überschreiten. Bei längerem Auslandsaufenthalt kontaktieren Sie bitte Ihren Kundenbetreuer oder das Customer Care Center der Anadi Bank.
+###
+
+Wie kann ich GeoControl wieder aktivieren?
+
+GeoControl wird automatisch zu dem bei der Deaktivierung bekanntgegebenen Datum aktiviert. Um die Funktion manuell zu aktivieren gehen Sie in das Online-Banking bzw. in die Online-Banking App und aktivieren Sie GeoControl unter Ihrem persönlichen Profil / „Sicherheit“ / „GeoControl“. Oder Sie kontaktieren Ihren Kundenbetreuer bzw. das Customer Care Center der Anadi Bank oder die Maestro-Sperr-Hotline unter Tel. +43 1 204 88 00.
+###
+
+Ich habe meine Maestro-Bankomatkarte verloren und eine neue erhalten. Muss ich die neue Karte nochmals für
+GeoControl anmelden?
+
+Nein, die von Ihnen gewählten Einstellungen werden automatisch auf die neue Maestro-Bankomatkarte übertragen.
+###
+
+Was ist bei einer Bankomatbehebung sowohl im Inland als auch im Ausland zu beachten?
+
+    Decken Sie beim Eingeben des PIN-Codes die Tastatur immer mit der freien Hand ab.
+    Lassen Sie sich bei der PIN-Eingabe nicht ablenken.
+    Lassen Sie sich nicht von Dritten „helfen“.
+    Geben Sie die Karte nicht aus der Hand.
+    Tragen Sie den PIN-Code nie bei sich.
+    Melden Sie Auffälligkeiten direkt der Polizei oder dem Betreiber des Bankomaten.
+
+
+###
+
+Was ist NFC / Kontaktloses Bezahlen?
+
+Die NCF-Technologie, auch Near Field Communication (NFC – Nahfeldkommunikation) genannt, ermöglicht kontaktloses Bezahlen an Bankomatkassen und Geldbeheben an Bankomaten. Die Daten werden über die sogenannte NFC, Near Field Communication (Nahfeldkommunikation) per Funk übertragen. Zusätzlich entfällt bei Beträgen unter EUR 25,- pro Transaktion die Eingabe des PIN-Codes. Dies funktioniert an allen Terminals, an denen Sie das NFC-Symbol   sehen.
+
+Durch kontaktloses Bezahlen wird der Bezahlvorgang beschleunigt. NFC ist ein international gültiger Standard für die kontaktlose Datenübertragung über kurze Distanzen.
+
+Zum Freischalten der Funktion "Kontaktloses Bezahlen" ist bei der ersten Transaktion das Stecken der Karte notwendig. Zur Sicherheit ist das Stecken der Karte nach max. 5 Transaktionen unter EUR 25,- bzw. EUR 125,- und die Eingabe der PIN erforderlich.
+###
+In welchen Geschäften kann kontaktlos bezahlt werden?
+
+Überall, wo Sie das entsprechende Logo „Contactless indicator“ angebracht sehen.
+
+###
+Mit welcher Karte kann kontaktlos bezahlt werden?
+
+Alle Karten mit denen kontaktlos bezahlt werden kann, sind mit dem entsprechenden Logo „Contactless indicator" gekennzeichnet.
+###
+Erhöht sich durch die neue Technologie der Kartenpreis bzw. sind die Transaktionen kostenpflichtig?
+
+Nein, durch die neue Technologie erhöht sich der Kartenpreis nicht. Kontaktlos-Zahlungen sind im Euroraum genauso kostenlos wie Zahlungen mit PIN. Je nach gewähltem Kontomodell werden wie bisher max. die Buchungszeilen verrechnet.
+###
+Welche Vorteile bietet die Kontaktlos-Funktion?
+
+    Kein lästiges Hantieren mit Kleingeld.
+    Höchste Sicherheitsstandards durch Nutzung der bewährten EMV-Technologie.
+###
+Muss die neue Kontaktlos-Funktion freigeschaltet bzw. aktiviert werden?
+
+Eine Aktivierung der Kontaktlos-Funktion erfolgt durch die erste Transaktion mit gesteckter Karte und Eingabe des PIN-Codes. Dieses Prozedere stellt sicher, dass nur der Karteninhaber die Kontaktlos-Funktion aktivieren kann.
+###
+Bis zu welchem Betrag kann mit der Kontaktlos-Funktion bezahlt werden?
+
+Bis EUR 25,- ohne Eingabe des persönlichen PIN-Codes, über EUR 25,- ist die PIN-Code Eingabe erforderlich.
+###
+
+Werden alle Beträge bis EUR 25,- kontaktlos abgewickelt?
+
+Nein, denn der Karteninhaber entscheidet, ob er die Transaktion kontaktlos oder durch Stecken der Karte und Eingabe des PIN-Codes abwickeln möchte. Voraussetzung ist natürlich, dass das Terminal die Kontaktlos-Funktion bereitstellt.
+###
+
+Innerhalb welcher Entfernung funktioniert die Karte kontaktlos?
+
+Bis zu einem Abstand von 4 cm vor dem Terminal.
+###
+Wie erkennt man eine erfolgreiche Zahlung?
+
+Durch ein optisches und akustisches Signal wird angezeigt, dass die Transaktion erfolgreich abgeschlossen wurde. Anschließend erhalten Sie wie gewohnt den gedruckten Kassabeleg.
+###
+Gibt es Beschränkungen für kontaktloses Bezahlen?
+
+Ja. Das betragliche Limit für Kontaktlos-Zahlungen ohne PIN beträgt pro Transaktion EUR 25,00. Nach einem Transaktionswert von in Summe maximal EUR 125,00 ohne PIN in Folge erfolgt die nächste Zahlung wie gewohnt durch Stecken der Karte und PIN-Code-Eingabe. Auch ein „klassischer“ Kauf im Geschäft mit gesteckter Karte oder eine Bargeldbehebung mit gesteckter Karte geben die Kontaktlos-Funktion wieder in vollem Umfang frei.
+###
+
+Ich habe mehrere Karten mit Kontaktlos-Funktion in der Geldbörse. Was passiert, wenn die Geldbörse zum
+Karten-Leser gehalten wird?
+
+Da das Terminal dadurch mehrere Impulse bekommt, können zwei Fälle auftreten:
+
+    Das Gerät erkennt nicht, von welcher Karte die Zahlung gebucht werden soll und daher kommt keine Zahlung zustande. Nehmen Sie einfach die entsprechende Karte aus der Börse und halten Sie diese vor das Gerät.
+    Der Betrag wird von derjenigen Karte, die am „schnellsten“ reagiert, abgebucht.
+###
+
+Kann die Kontaktlos-Bezahlfunktion auf der Karte deaktiviert werden?
+
+Eine Deaktivierung der Funktion ist in Ausnahmefällen auf Antrag durch den Karteninhaber an die Anadi Bank möglich. Wurde die Kontaktlos-Bezahlfunktion einmal deaktiviert, ist eine neuerliche Aktivierung nicht mehr möglich! Grundsätzlich entscheidet der Karteninhaber – es gilt jedoch bei einer Deaktivierung unbedingt zu beachten, dass es künftig auch Zahlungsterminals geben wird, die nur noch Kontaktlos-Transaktionen zulassen (Automaten, Parkometer, Bäckereien etc.). Von diesen Zahlformen wäre der Karteninhaber bei Deaktivierung der Funktion ausgeschlossen.
+###
+Ab wann wird eine Deaktivierung aktiv?
+
+Die Antragsbearbeitung erfolgt ca. innerhalb einer Woche ab Unterfertigung der Deaktivierungserklärung bei der Anadi Bank. Die Deaktivierung der Kontaktlos-Funktion auf der Karte wirkt erst bei der nächsten Online-Chip-Transaktion mit gesteckter Karte durch den Kunden, d. h. Bezahlvorgang mit PIN-Eingabe oder Bankomat-Transaktion. Mit der Deaktivierung sind keine weiteren Kontaktlos-Transaktionen mehr möglich.
+
+###
+Welche Schutzmechanismen werden eingesetzt?
+
+    Das Limit für Kontaktlos-Zahlung ohne PIN-Eingabe ist mit EUR 25,- pro Einzeltransaktion beschränkt.
+    Zur Verifizierung des Karteninhabers verlangt das System in regelmäßigen Abständen klassische Transaktionen mit Eingabe eines PIN-Codes und Stecken der Karte.
+    Sämtliche Maestro-Bankomatkarten werden seit 2014 auf eine von der Kontonummer und Bankverbindung unabhängige, eindeutige Kartennummer (so wie bei den Kreditkarten) umgestellt. D. h. ein Konnex zur Kundenverbindung ist nicht mehr gegeben.
+    Weiters gibt es spezielle Schutzhüllen, welche die Karte zu 100 % abschirmen. Diese Schutzhüllen werden in den Filialen der Anadi Bank angeboten.
+    Das Risiko ist mit max. EUR 125,- begrenzt. Sobald die Karte gesperrt ist, max. EUR 75,-.
+    Die Anadi Bank haftet bei missbräuchlicher Verwendung der Karte für Schäden, die durch Kontaktlos-Transaktionen entstehen.
+    NFC ist eine weltweit etablierte und geprüfte Technologie, die in vielen Ländern schon seit Jahren für kontaktloses Zahlen angewendet wird. Bis dato sind keine Missbrauchsfälle durch widerrechtliches Auslesen von Kartendaten bekannt.
+    Unbeabsichtigte Zahlungen können nicht passieren, da der Händler das Terminal für jeden Vorgang extra aktivieren muss. Andererseits ist die Bezahlung nur aus sehr geringer Distanz möglich.
+    Durch ein optisches und akustisches Signal wird dem Karteninhaber angezeigt, dass die Transaktion erfolgreich abgeschlossen wurde. Anschließend wird der Kassabeleg wie gewohnt gedruckt.
+
+
+###

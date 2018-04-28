@@ -1,0 +1,47 @@
+###
+Was ist 3D Secure?
+
+3D Secure ist ein Authentifizierungsverfahren für ein noch sicheres Einkaufen im Internet. Bei Mastercard heißt das Verfahren „Mastercard SecureCode“.
+
+Und so funktioniert es: Im Bezahlvorgang bei einem Online-Händler der 3D Secure nutzt, sendet der Händler eine Zahlungsanfrage an die norisbank. Während dieser Zahlungsanfrage wird Ihnen in einem Pop-Up-Fenster die Eingabeseite der norisbank angezeigt, auf der Sie sich als rechtmäßiger Karteninhaber identifizieren müssen. Dabei weisen Sie sich im Rahmen Ihrer Kartenzahlung über eine mobile Transaktionsnummer (TAN) als berechtigter Karteninhaber aus. Diese TAN wird Ihnen per SMS kostenlos auf Ihr Mobiltelefon zugesandt. Geben Sie diese dann in das geöffnete Pop-Up-Fenster ein und führen Sie die von Ihnen gewünschte Zahlung aus.
+###
+Muss meine Mastercard für 3D Secure freigeschaltet werden?
+
+Nein, ab dem 10. Oktober 2017 ist keine individuelle Registrierung Ihrer Mastercard für 3D Secure mehr erforderlich. Alle bisherigen und neu ausgegebenen Mastercard Karten der norisbank sind ab diesem Zeitpunkt bereits automatisch für die Nutzung von 3D Secure vorbereitet.
+
+Nutzen Sie als Karteninhaber also nach dem 10.10.2017 Ihre Mastercard erstmals für das 3D Secure-Verfahren, können Sie dies sofort tun und erhalten, sofern dies für die Transaktion erforderlich ist, direkt eine TAN per SMS auf Ihr Mobiltelefon zugesandt.
+
+Wichtig: Die Nutzung des 3D Secure Verfahren ist nur möglich, sofern Sie Ihre Mobilfunknummer bei uns hinterlegt haben! Dies können Sie ganz einfach in Ihrem Online-Banking unter „Adressdaten bearbeiten“ vornehmen.
+###
+Muss bei Karten, die bereits vor dem 10.10.2017 für 3D Secure genutzt wurden, etwas berücksichtigt werden?
+
+Nein, für diese Kreditkarten ändert sich nichts, sie sind wie bisher für das 3D Secure-Verfahren nutzbar.
+###
+Muss für die Nutzung von 3D Secure weiterhin ein Passwort vergeben werden?
+
+Nein. Ab dem 10. Oktober 2017 ist zur Nutzung des 3D Secure-Verfahrens keine Passworteingabe mehr erforderlich. Ihre Authentifizierung erfolgt per TAN als SMS auf Ihr persönliches Mobiltelefon. Lediglich in besonderen Fällen wird zusätzlich noch das Geburtsdatum des Karteninhabers abgefragt.
+###
+Worin besteht der besondere Schutz durch 3D Secure?
+
+Die stetig steigenden Sicherheitsanforderungen wurden mit 3D Secure weiter verbessert.
+
+Als zusätzlichen Schutz vor der unberechtigten Nutzung Ihrer Kartendaten vereint 3D Secure deshalb mehrere wichtige Sicherheitsmerkmale, um Ihre Zahlung als rechtmäßiger Karteninhaber zu autorisieren: So ist neben der Kreditkarte unbedingt eine der Karte zugeordnete Mobilnummer erforderlich. Ihre Authentifizierung erfolgt für die jeweilige Transaktion per TAN als SMS auf Ihr Mobiltelefon. Im Einzelfall wird darüber hinaus noch das Geburtsdatum des Karteninhabers abgefragt.
+
+Sie sehen: 3D Secure bietet hohe Sicherheit – für Sie und den am 3D Secure-Verfahren teilnehmenden Händler, da nur Sie als berechtigter Karteninhaber eine Online-Transaktion auslösen können.
+###
+Wie kann die für 3D Secure benötigte Mobiltelefonnummer hinterlegt werden?
+
+Zur Hinterlegung Ihrer Mobiltelefonnummer oder zur eventuellen Aktualisierung Ihrer alten Mobilnummer können Sie ganz einfach folgende komfortable Möglichkeiten nutzen:
+
+    Per Online-Banking über „persönliche Daten“ (erfordert PIN und TAN)
+    Per Telefon-Banking (erfordert Ihre Telefon-PIN)
+###
+Kann auch bei Unternehmen online mit Karte gezahlt werden, die nicht am 3D Secure-Verfahren teilnehmen?
+
+Selbstverständlich ist dies auch weiterhin möglich, denn die Entscheidung für die Nutzung von 3D Secure liegt allein beim Händler. Der Kartenzahlungsvorgang wird dann wie gewohnt ohne Eingabe einer TAN ausgeführt. Kunden entstehen somit keinerlei Nachteile.
+###
+Ist 3D Secure auch auf einem Smartphone nutzbar?
+
+Die Nutzung von Smartphones für Interneteinkäufe steigt stetig. Die bisherigen 3D Secure-Seiten waren bisher jedoch nur für die Zahlung am PC ausgerichtet. Ab Oktober 2017 erfolgt deshalb eine automatische Optimierung der Seiten – optimal abgestimmt auf das von Ihnen genutzte Gerät (z. B. Ihren PC, Ihr Tablet oder Ihr Smartphone). Somit können Sie 3D Secure künftig ebenso komfortabel auf weiteren digitalen Wegen nutzen.
+
+###

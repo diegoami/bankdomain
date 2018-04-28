@@ -1,0 +1,97 @@
+###
+Was bedeutet SEPA?
+
+    SEPA ist die Abkürzung für „Single Euro Payment Area“ (= einheitlicher Euro-Zahlungsverkehrsraum).
+
+    Im Euro-Zahlungsverkehrsraum gibt es einheitliche Standards zum Bezahlen mit dem Euro – sowohl bei Überweisungen, Lastschriften wie auch Kartenzahlungen. Basis dafür sind die internationale Kontonummer (IBAN) und der BIC-Code der Bank.
+###
+Welche Länder gehören zu SEPA?
+
+    SEPA umfasst derzeit 34 Länder. Neben den 19 Euro-Staaten sind alle weiteren EU-Mitgliedsländer beteiligt, ebenso die EWR-Staaten Island, Liechtenstein und Norwegen. Auch Monaco und die Schweiz stellen auf SEPA um.
+
+        SEPA-Länder im Überblick (PDF)
+###
+Wo finde ich Hilfsmittel für den täglichen Umgang mit SEPA?
+
+    Im Download Bereich stellen wir Ihnen die wichtigsten Dokumente und
+    Formulare zur Verfügung.
+###
+
+    Was sind IBAN und BIC?
+
+    Jedes Konto in der Europäischen Union (EU) hat eine eigene "International Bank Account Number" (IBAN). Die IBAN besteht aus bis zu 34 Ziffern und Buchstaben. In Deutschland ist die IBAN 22-stellig. Sie setzt sich zusammen ausder 2-stelligen Länderkennung (DE), einer 2-stelligen Prüfziffer, der Bankleitzahl und der Kontonummer.
+
+    Darüber hinaus erhält jede Bank eine internationale Bankleitzahl als eindeutige Kennung, den "Business Identifier Code" (BIC). Der BIC besteht aus acht oder elf Stellen.
+
+    Die BIC Ihrer EthikBank lautet: GENO DE F1 ETK
+###
+    Wo finde ich meine IBAN und den BIC meiner Bank?
+
+    Die IBAN finden Sie auf jedem Kontoauszug oder im Internetbanking.
+
+    Die BIC Ihrer EthikBank lautet: GENO DE F1 ETK
+###
+    Woher bekomme ich IBAN und BIC meines Geschäftspartners?
+
+    Beides steht in der Regel auf der Rechnung oder auf dem Briefpapier Ihres Geschäftspartners.
+###
+
+Wie nutze ich die SEPA-Überweisung?
+
+    Mit der SEPA-Überweisung führen Sie einfach Überweisungen in Euro innerhalb Deutschlands, in die anderen EU-/ EWR-Staaten sowie nach Monaco, San Marino und in die Schweiz durch. Die SEPA-Überweisung steht Ihnen auch im Online-Banking und innerhalb Ihrer Banking-Software zur Verfügung.
+
+    Pflichtangaben:
+
+    - Bezeichnung (Name und Vorname oder Firmenname) des Zahlungsempfängers
+
+    - IBAN des Zahlungsempfängers
+
+    - Zu überweisender Betrag in Euro
+
+    - Optional: Angabe eines Verwendungszwecks
+
+    - Ihren Namen und Vornamen oder Ihre Firma
+
+    - Ihre IBAN (finden Sie auf Ihrem Kontoauszug)
+
+    Keine Verwendung möglich:
+    Bei allen Zahlungen,
+
+    - die in Länder außerhalb der EU und des EWR gehen,
+
+    - die in Schweizer Franken in die Schweiz gehen,
+
+    - deren Überweisungsbetrag nicht in Euro angegeben wird,
+
+    - bei denen Sie nicht IBAN und BIC verwenden.
+
+###
+
+Welchen Sinn hat die Vorlauffrist von 5 bzw. 2 Arbeitstagen?
+
+Wenn Sie erstmals eine Lastschrift einziehen, müssen Sie eine Vorlauffrist von 5 Arbeitstagen einhalten; bei regelmäßigen Zahlungen nur noch 2 Arbeitstage. Damit reagiert der Gesetzgeber auf Unterschiede in den einzelnen Ländern. Nicht überall läuft der Zahlungsverkehr so schnell wie in Deutschland. Wettbewerbsnachteile sollen auf diese Weise ausgeglichen werden.
+###
+Was ist die Gläubiger-Identifikationsnummer (Gläubiger-ID)?
+
+Damit Sie Euro-Lastschriften auf Basis der SEPA-Lastschriftverfahren nutzen können, brauchen Sie eine Gläubiger-ID. Das ist eine eindeutige Kennung, die EU-weit gültig ist und Ihr Unternehmen als Lastschrift-Einreicher identifiziert.
+###
+Wo bekomme ich meine Gläubiger-ID her?
+
+Sie können Ihre Gläubiger-ID bei der Deutschen Bundesbank online beantragen. Sofern Sie mit unserer Finanzsoftware VR-NetWorld arbeiten, können Sie diesen Antrag auch innerhalb des Programms auslösen (Stammdaten – SEPA – Gläubiger-Identifikation).
+
+Die Bundesbank wird Ihnen Ihre Gläubiger-ID innerhalb weniger Tage per E-Mail schicken. Sobald Sie diese haben, hinterlegen Sie diese auch in Ihrer Finanzsoftware.
+###
+Muss ich meine Gläubiger-ID der Bank mitteilen?
+
+Ja, wenn Sie mit uns eine Lastschrift-Inkassovereinbarung geschlossen haben, brauchen wir Ihre Gläubiger-ID. Bitte schicken Sie uns diese per E-Mail:
+
+onlinebanking@ethikbank.de
+
+Welche Widerspruchsfristen gelten bei SEPA-Lastschriften?
+
+8 Wochen nach dem Belastungsdatum (Fälligkeit), allerdings nur bei der SEPA-Basislastschrift. Bei autorisierten SEPA-Firmenlastschriften kann Ihr Geschäftspartner gar nicht widersprechen.
+###
+Muss die Gläubiger-ID der Muttergesellschaft als Kontoinhaberin oder die der Tochtergesellschaft als Vertragspartner des Kunden angegeben werden?
+
+Der Inhaber des Kontos, über das technisch die Lastschrift eingereicht wird, muss auch das Mandat einholen. Das Mandat muss also immer die Gläubiger-ID des Kontoinhabers enthalten.
+###

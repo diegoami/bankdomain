@@ -1,0 +1,28 @@
+###
+Wo erfahre ich, dass die Information an den Zahlungspartner erfolgreich versendet worden ist?
+
+Sie können anhand der Zusammenfassung Ihres Kontowechsels (.pdf) nachvollziehen, wann FinReach die Benachrichtigungsschreiben über Ihre neue Bankverbindung an Ihre Zahlungspartner versendet hat.
+###
+
+Was passiert, wenn ich eine Lastschrift manuell „ignoriere“?
+
+Sie geben FinReach damit den Hinweis, dass Sie den ausgewählten Zahlungsempfänger eigenständig über Ihren Kontowechsel informieren möchten. Es wird kein Benachrichtigungsschreiben erstellt und versendet.
+
+###
+Was passiert, wenn der Saldo bei Kontoschließung negativ ist?
+
+Da die abgebende Bank die Kontoschließung nicht annehmen wird, solange Ihr Kontosaldo negativ ist, empfehlen wir Ihnen, den negativen Betrag vor der Kontoschließung auszugleichen.
+###
+
+Ich möchte mein Konto doch nicht schließen und habe schon auf „Benachrichtigungen“ geklickt. Was nun?
+
+In diesem Fall ist der Kontoschließungsbrief bereits versandt, kontaktieren Sie daher Ihre alte Bank umgehend. Sollte Ihr Konto aufgrund Ihres erteilten Auftrages bereits aufgelöst worden sein, können Sie einen neuen Girokontovertrag abschließen.
+###
+Wie sicher sind meine Daten?
+
+Die Übertragung aller im Rahmen des Kontowechsel-Service eingegebenen Daten erfolgt über eine SSL-Verschlüsselung, um diese vor Missbrauch durch Dritte zu schützen. FinReach stellen sicher, dass Ihre personenbezogenen Daten ausschließlich zu dem jeweils angegebenen Zweck erhoben, verarbeitet und verwendet werden.
+###
+Wie kann ich meine Daten wieder aus dem Online-Kontowechsel-Service löschen?
+
+Als Nutzer des Online-Kontowechsel-Service von FinReach haben Sie das Recht auf Löschung nicht mehr erforderlicher Daten, die keiner Aufbewahrungsfrist unterliegen oder deren Speicherung unzulässig ist. Sie können jederzeit für die Zukunft wiedersprechen, dass FinReach Ihre Daten für den Kontowechsel nutzen darf. Hierzu genügt es, wenn Sie eine formlose Mitteilung an folgende Adresse schicken:  FinReach GmbH, Anna-Louisa-Karsch-Straße 2, 10178 Berlin, service@finreach.com senden. Nach Erhalt der Mitteilung werden Ihre Daten unverzüglich gelöscht.
+###

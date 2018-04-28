@@ -1,0 +1,39 @@
+###
+Wie lange kann ich Kontoumsätze im Internetbanking sehen?
+
+    Die Umsätze werden 90 Tage lange gespeichert. Danach sind sie nicht mehr sichtbar.
+###
+Ich habe meinen Onlinezugang durch mehrfache Falscheingaben von PIN oder TAN gesperrt. Was kann ich tun?
+
+    In diesem Falle müssen wir eingreifen und Ihren Zugang erneut aktivieren. Informieren Sie uns per E-Mail, oder rufen Sie im Kundenzentrum an: 036691-862345.
+###
+
+Worin liegen die Vorteile des Internetbanking gegenüber dem Banking mit Hilfe eines Zahlungsverkehrsprogramms?
+
+    Wenn Sie ein Zahlungsverkehrsprogramm nutzen, können Sie Ihr Online-Banking nur an dem Computer abwickeln, auf dem das Programm installiert ist. Mit dem Internetbanking sind Sie unabhängiger, weil Sie Ihre Bankgeschäfte an jedem Ort der Welt erledigen können. Sie brauchen dafür nur einen Internetzugang. Allerdings raten wir dringend davon ab, für das Online-Banking öffentliche oder unbekannte Computer zu nutzen. Kleine Spionageprogramme könnten Ihre Tastatureingaben aufzeichnen und an Unbefugte weitergeben.
+###
+
+Ich möchte überweisen, und bekomme zur Antwort, dass mein Verfügungsrahmen nicht ausreicht. Was bedeutet das?
+
+    Der Verfügungsrahmen markiert den täglichen Höchstbetrag für Überweisungen. Sofern Sie nichts anderes mit uns vereinbart haben, liegt dieser – je nach Kontoart - bei 20.000 oder 50.000 Euro pro Tag. Das heißt, im Interesse Ihrer Sicherheit sind Verfügungen auf diesen Höchstbetrag beschränkt, auch wenn Ihr Kontoguthaben höher ist. Sofern Ihnen dieses Limit zu niedrig oder zu hoch sein sollte, können Sie es selbstverständlich korrigieren. Bitte verwenden Sie dafür das Formular zur Änderung des Tageslimits (PDF) und schicken Sie uns dieses auf dem Postweg zurück.
+###
+
+Das Internetbanking lässt sich nicht öffnen. Was kann ich tun?
+
+    Das Problem könnte an den Grundeinstellungen Ihres Internetbrowsers liegen. Wenn Sie mit dem Internet-Explorer oder Netscape arbeiten, prüfen Sie folgende Einstellungen:
+
+    1. Der Browser muss Cookies akzeptieren:
+    Vorgehen beim Internet-Explorer 5: Extras – Internetoptionen – Sicherheit – Stufe anpassen – Cookies pro Sitzung annehmen (nicht gespeichert). Vorgehen beim Internet-Explorer 6: Extras – Internetoptionen –
+###
+
+Datenschutz – Sitzungscookies immer zulassen. Vorgehen bei Netscape: Bearbeiten – Einstellungen – Erweitert – Alle Cookies akzeptieren
+
+    2. Es dürfen keine verschlüsselten Seiten auf der Festplatte gespeichert werden:
+    Extras – Internetoptionen – Erweitert – Verschlüsselte Seiten nicht auf Festplatte speichern
+
+    3. Ihr Browser muss eine 128-Bit-Verschlüsselungstiefe unterstützen:
+    Siehe 1.
+
+    4. Wenn Sie über einen Favoriten / Lesezeichen ins Internetbanking gehen:
+    Die direkte Einwahlseite könnte sich im Detail geändert haben. Löschen Sie das Lesezeichen, starten Sie das Internetbanking innerhalb des Internetauftrittes der EthikBank (www.ethikbank.de), und setzen Sie das Lesezeichen neu.
+###

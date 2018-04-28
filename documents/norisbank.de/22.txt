@@ -1,0 +1,75 @@
+###
+Ich bin noch kein Mobile-Banking-Kunde, wie kann ich dafür freigeschaltet werden?
+
+Für das norisbank Mobile-Banking nutzen Sie die Zugangsdaten Ihres Online-Bankings. Den Antrag für das Online-Banking finden Sie unter https://www.norisbank.de/zugang.
+###
+Wie komme ich ins Mobile-Banking?
+
+Geben Sie bitte in Ihren mobilen Browser https://meine.norisbank.de/mobile ein. So gelangen Sie sofort zu Ihrem Kunden-Login.
+###
+Benötige ich eine separate Registrierung/Freischaltung für mein Mobile-Banking?
+
+Nein. Alle Nutzer, die für das Online-Banking freigeschaltet sind, können ebenfalls den mobilen Service nutzen.
+###
+Was benötige ich für den Zugang?
+
+Zur Nutzung benötigen Sie ein Handy mit WebBrowser sowie Ihre Online-PIN. Alternativ können Sie die kostenlose Mobile Banking App der norisbank in Ihrem App-Store herunterladen.
+
+Für die Datenübertragung muss Ihr Handy ein geeignetes Datenübertragungsverfahren (z. B. UMTS / 3G) unterstützen. Wir empfehlen den Einsatz eines UMTS-fähigen Handys. Technische Details entnehmen Sie bitte der Bedienungsanleitung Ihres Handys.
+###
+Brauche ich ein spezielles Handy für das Mobile Banking?
+
+Grundsätzlich können Sie mit jedem aktuellen Handy unser Angebot nutzen. In Abhängigkeit von Bildschirmgröße und integriertem Browser kann es bei einigen Modellen zu Fehlern in der Anzeige kommen. Alternativ können Sie die kostenlose Mobile-Banking-App der norisbank in Ihrem App-Store herunterladen.
+###
+Muss ich an meinem Handy spezielle Konfigurationen vornehmen?
+
+Nein. Allerdings können Sie nach Ihrem persönlichen Geschmack die Schriftgröße in der Anzeige größer oder kleiner stellen. Lesen Sie hierzu bitte in der Bedienungsanleitung Ihres Handys, wie Sie diese Einstellung vornehmen können.
+###
+Was kostet mich dieser Service?
+
+Dieser Service ist für unsere Kunden kostenlos. Es fallen lediglich die Roamingkosten für Daten bei Ihrem Telefonnetzanbieter an.
+
+Bei der Benutzung der Handy-zurück-Taste erhalte ich immer einen Fehler. Was kann ich dagegen tun?
+
+Bitte benutzen Sie zur Navigation in unserem Angebot nur die auf der Seite dargestellten Menüpunkte.
+###
+Kann ich das Mobile-Banking auf meinem iPhone ausführen?
+
+Das Mobile-Banking steht Ihnen mit dem iPhone ebenso zur Verfügung. Es gelten dabei die gleichen Voraussetzungen wie bei anderen Mobiltelefonen.
+###
+Welche Funktionen bietet mir das Mobile-Banking?
+
+Mit dem norisbank Mobile-Banking erledigen Sie Ihre täglichen Bankgeschäfte einfach und sicher über Ihr Smartphone. Hier finden Sie alle wichtigen Funktionen:
+
+    die Finanzübersicht
+    die Umsatzanzeige
+    die Umsatzsuche
+    die SEPA-Überweisung
+    die Verwaltung Ihrer Daueraufträge
+###
+Wo finde ich meine Überweisungsvorlagen?
+
+Ihre Überweisungsvorlagen aus dem Online-Banking finden Sie auch in der norisbank App wieder. Wählen Sie zunächst, ob Sie eine Überweisung oder einen Dauerauftrag ausführen wollen. Klicken Sie dann wie dargestellt auf das orangene Symbol. Sie können dann aus Ihren persönlichen Überweisungsvorlagen die passende auswählen.
+
+norisbank App Überweisungsvorlagen
+###
+Sind meine Daten auch sicher, wenn ich mit dem Handy ins Internet gehe?
+
+Ihre Daten sind mit denselben Verfahren zur Verschlüsselung gesichert, die auch an Ihrem PC zum Einsatz kommen.
+###
+Welchen Beitrag zur Sicherheit im Mobile-Banking leistet die norisbank?
+
+Die Sicherheit Ihrer Daten hat beim Mobile-Banking oberste Priorität. Deshalb setzen wir stets auf die aktuellsten Sicherheitsstandards: Eine Firewall verhindert den nicht-autorisierten Zugriff von außen auf die Daten in unseren Systemen.
+
+Darüber hinaus sorgt ein mehrstufiges Verschlüsselungs- und Identifizierungssystem dafür, dass Unbefugte Ihre Daten weder erfragen noch abfangen oder lesbar machen können.
+###
+Welchen Beitrag zur Sicherheit kann ich selbst leisten?
+
+Beherzigen Sie stets die Grundregeln für sicheres Online-Banking bei der norisbank:
+
+
+    Loggen Sie sich möglichst nicht über ein fremdes Gerät (Computer, Handy) in unser Online-Banking-Angebot ein.
+    Ändern Sie Ihre PIN regelmäßig und verwenden Sie dabei Kombinationen aus Buchstaben in Groß- und Kleinschreibung und Zahlen. Wählen Sie keine Kombinationen, die einen privaten Bezug haben wie Namen, Geburtsdaten, Telefonnummern, Postleitzahlen o.ä.
+    Nutzen Sie immer den Button „Kunden-Logout“, um Ihr Mobile-Banking zu verlassen.
+
+###

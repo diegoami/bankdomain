@@ -1,0 +1,148 @@
+###
+Wie erkenne ich den aktuellen Umsatz meines Kontos und warum sehe ich nach einer Online-Buchung nicht sofort den veränderten Umsatz?
+
+Jede Buchung auf Ihrem Girokonto durchläuft drei Schritte, während wir sie verarbeiten:
+
+    Neue Buchungen sind zunächst immer im Bereich "vorgemerkte und noch nicht gebuchte Umsätze" sichtbar.
+    Während der Buchungs-Verarbeitung sind die vorgemerkten Buchungen für kurze Zeit nicht in der Umsatzübersicht sichtbar.
+    Ist die Buchung vollständig verarbeitet, wird sie im Bereich "Gebuchte Umsätze" vermerkt und dem Gesamtsaldo Ihres Kontos zugerechnet.
+
+Hinweis: Sobald die Buchung verarbeitet ist, erscheint sie sofort in den Online-Umsätzen Ihres Kontos. Die Buchungsdurchführung in mehreren Schritten ermöglicht umfassende Sicherheitsprüfungen, die zu den hohen Sicherheitsstandards Ihres Online-Bankings beitragen.
+###
+Wie schalte ich meine Maestro-Card für das Ausland frei?
+
+Möchten Sie Ihre Maestro-Card im Ausland nutzen, müssen Sie sie zuvor in Ihrem Online-Banking freischalten. Legen Sie fest,
+
+    in welchen Ländern Sie die Karte nutzen möchten
+    für welchen Zeitraum die Freischaltung gelten soll
+    welches Limit Sie für den Auslandseinsatz wünschen.
+
+Jetzt Auslandseinsatz freischalten
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unser Telefon-Banking unter 030 – 310 66 005. Oder Sie senden einen Brief an „norisbank GmbH, 10910 Berlin“.
+###
+Wie kann ich eine Überweisung durchführen?
+
+SEPA-Überweisungen mit IBAN und ggf. BIC können Sie entweder an den Banking-Terminals der Deutschen Bank durchführen oder Sie erledigen Ihre Zahlungen direkt in Ihrem Online-Banking.
+
+Weitere Informationen zu SEPA-Überweisungen finden Sie in unserem Demokonto.
+###
+Wie kann ich Schecks bei der norisbank einreichen?
+
+Bei der norisbank können Sie auf € lautende Inlandsschecks Ihrem Girokonto gutschreiben lassen. Bitte füllen Sie zur Scheckeinreichung das PDF zur Inlandsscheckeinreichung online aus. Senden Sie den Ausdruck und den auf der Rückseite unterschriebenen und mit Ihrem Namen versehenen Scheck an:
+
+norisbank GmbH
+10910 Berlin
+
+Bitte beachten Sie, dass Schecks in einer Fremdwährung oder Auslandsschecks nicht gutgeschrieben werden können.
+###
+Wie gehe ich mit nicht gutgeschriebenen Schecks vor?
+
+Die Nachforschung von Scheckeinreichungen kann jederzeit erfolgen. Hierfür benötigen wir von Ihnen die Angaben:
+
+
+    Namen und IBAN Ihres norisbank Kontos
+    Betrag in Euro
+    Schecknummer
+    Name des Scheckausstellers und
+    IBAN des Scheckausstellers
+###
+Wie widerspreche ich einer Lastschrift?
+
+Dies können Sie innerhalb von acht Wochen nach Belastung der Lastschrift in Ihrem Online-Banking erledigen:
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unser Telefon-Banking unter 030 – 310 66 005. Oder Sie senden einen Brief an „norisbank GmbH, 10910 Berlin“.
+###
+Was ist IBAN und BIC und wo finde ich diese?
+
+Die International Bank Account Number (IBAN) ist eine einheitliche europäische Kontonummer. Sie ist eine Kombination aus bisheriger Kontonummer und Bankleitzahl. Damit kann insbesondere bei grenzüberschreitenden Überweisungen eine Kontoverbindung zusammen mit dem Bank Identifier Code (BIC) eindeutig identifiziert werden. Die IBAN löst im Rahmen der Umsetzung eines einheitlichen europäischen Zahlungsverkehrsraum die genutzte Kontonummer und Bankleitzahl ab. Die IBAN setzt sich im elektronischen Format aus maximal 34 Stellen mit folgendem Aufbau zusammen:
+
+
+    Zweistelliger ISO-Ländercode des Staats, in dem das Konto geführt wird
+    Zweistellige Prüfziffer
+    Nationale Bankleitzahl
+    Kontonummer
+
+Bitte beachten Sie, dass die IBAN für jedes Unterkonto individuell errechnet wird.
+Durch den Bank Identifier Code (BIC) – international standardisierte Bankleitzahl – wird ein Kreditinstitut eindeutig identifiziert.
+
+Sie finden die IBAN Ihres jeweiligen Kontos und Ihren BIC-Code auf der ersten Seite Ihres Kontoauszugs oder auf Ihrer Maestro-Card.
+
+Weitere Erläuterungen zum Thema IBAN und BIC finden Sie auf unserer Website.
+###
+Welche Zeichen kann ich bei Überweisungen verwenden?
+
+Bitte berücksichtigen Sie bei Überweisungen, dass hier keinerlei Sonderzeichen verwendet werden dürfen, weder im Empfängernamen noch im Verwendungszweck. Die für diese Zahlungen erlaubten Zeichen sind im Falle einer SEPA-Überweisung:
+
+
+    1234567890
+    abcdefghijklmnopqrstuvwxyz
+    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+    ":?.,- +()/
+
+###
+Welche Beträge kann ich maximal online überweisen?
+
+Das Ihnen zur Verfügung stehende Online-Limit bzw. die am aktuellen Tag noch zur Verfügung stehende Summe wird Ihnen unterhalb des Überweisungsformulars angezeigt. Ihren maximalen Verfügungsrahmen können Sie in Ihrem Onlinebanking Ihren Wünschen anpassen.
+
+Jetzt Online-Limit anpassen
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unseren
+24-h-Kundenservice unter 030 – 310 66 005.
+###
+Kann ich online Überweisungsvorlagen speichern?
+
+Zur wiederkehrenden Verwendung Ihrer Auftragsdaten können Sie diese in Ihrem Online-Banking als Vorlage abspeichern.
+
+Beachten Sie beim Arbeiten mit Vorlagen bitte folgende Punkte:
+
+
+    Verwenden Sie bitte keine Sonderzeichen (z. B. é, §, à etc.).
+    Der Name einer Vorlage darf maximal 50 Stellen lang sein.
+    Wenn Sie beim Speichern einer Vorlage einen Namen wählen, der bereits existiert, so wird dieser um einen Index erweitert; aus „Miete“ wird z.B. „Miete_01“.
+###
+Wie erkenne ich, dass meine Überweisung ausgeführt wurde?
+
+Wenn Sie im Online-Banking eine Überweisung in Auftrag geben, zeigt Ihnen das System nach dem Absenden eine Bestätigung. In Ihren Kontoumsätzen finden Sie die Überweisung als noch nicht gebuchte Online-Überweisung. Zusätzlich wird die Nutzung der TAN, die Sie verwendet haben, in der TAN-Verwaltung Ihres Online-Bankings dokumentiert.
+###
+Kann ich eine getätigte Überweisung rückgängig machen?
+
+Bitte beachten Sie, dass eine Überweisung nur widerrufen werden kann, solange die Gutschrift noch nicht auf dem Konto der Bank des Begünstigten erfolgt ist. Zur Prüfung einer möglichen Stornierung wenden Sie sich bitte unverzüglich an den 24h-Kundenservice (030 - 310 66 005). Hierfür halten Sie bitte Ihre Telefon-PIN bereit.
+###
+Wann werden meine Buchungen durchgeführt bzw. wann erfolgt der Geldeingang auf mein Konto?
+
+Die Daten werden an jedem Bankarbeitstag über Nacht aktualisiert. Bankarbeitstage sind jeweils Dienstag bis Freitag. Samstag, Sonntag und Montag gelten als ein gemeinsamer Bankarbeitstag, Gleiches gilt für einen Feiertag und den darauffolgenden Bankarbeitstag. Alle Buchungen, die an einem Bankarbeitstag bis 15:30 Uhr eingegangen sind, werden noch am selben Tag bearbeitet.
+
+Zwei Beispiele:
+
+Wenn Sie am Montag um 17.00 Uhr online eine SEPA-Überweisung vornehmen, wird die Überweisung am Dienstag gebucht. Die Aktualisierung erfolgt in der Nacht von Dienstag auf Mittwoch, so dass Sie die durchgeführte Überweisung und den neuen Saldo am Mittwoch sehen können.
+
+Wenn Sie Ihre Überweisung an einem Samstag durchführen, erfolgt die Buchung am Montag, die Aktualisierung in der Nacht von Montag auf Dienstag – der neue Saldo ist also am Dienstag online für Sie sichtbar.
+
+Alle Überweisungen, die Sie in Auftrag gegeben haben, werden unterhalb Ihrer Umsatzanzeige aufgelistet, bis sie tatsächlich gebucht werden.
+###
+Warum werden meine Kreditkartenumsätze nicht angezeigt, obwohl ich dafür freigeschaltet bin?
+
+Zur Anzeige der Kreditkartenumsätze in Ihrem Online-Banking ist es erforderlich, dass mindestens ein Umsatz innerhalb der letzten sieben Monate getätigt wurde. Die Daten werden dann direkt an die norisbank übertragen und sind einen Tag später sichtbar.
+###
+Warum sind meine Kreditkartenumsätze in meinem Online-Banking nicht mehr zu sehen?
+
+Ihre Kreditkartenumsätze sind rückwirkend für die letzten sechs Monate abrufbar. Werden länger als sieben Monate keine Umsätze mit der Kreditkarte getätigt, erscheint die Umsatzanzeige erst wieder, nachdem Sie erneut mit Ihrer Kreditkarte bezahlt haben.
+###
+Wie kann ich Daueraufträge von meinem Girokonto einrichten, ändern oder löschen?
+
+Ihre Daueraufträge verwalten Sie in Ihrem Online-Banking.
+###
+Wird eine Lastschrift eingelöst, wenn dadurch das Girokonto überzogen wird?
+
+Lastschriften, die zu einer Überziehung des Girokontos führen würden, werden mangels Deckung abgewiesen. Bitte sorgen Sie deshalb immer für genügend Deckung auf Ihrem Girokonto.
+###
+Kann ich eine Lastschrift stornieren, die von meinem Konto abgebucht wurde?
+
+Bei Lastschriften, die im Lastschriftverfahren abgebucht werden, ermächtigen Sie als Kontoinhaber den Zahlungsempfänger, diese Buchung vorzunehmen. Sollte die Lastschrift nicht ordnungsgemäß sein, haben Sie die Möglichkeit, diese per Widerspruch zurückzugeben. Bitte rufen Sie dafür den 24h-Kundenservice (030 - 310 66 005) an.
+###
+Können Auslandsschecks zur Gutschrift auf das Konto eingereicht werden?
+
+Nein, diese Leistung wird nicht angeboten.
+
+###

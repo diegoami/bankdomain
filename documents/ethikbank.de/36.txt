@@ -1,0 +1,84 @@
+###
+Warum muss ich auf Version 5 umstellen?
+
+    Die bisherige Version 4 wird nicht mehr weiterentwickelt und der Kundensupport wird Ende 2013 eingestellt. Die Version kann zwar weiter genutzt werden, aber sobald sich technische Änderungen ergeben, wird die Version unbrauchbar. Um dies zu vermeiden, empfehlen wir Ihnen die baldige Umstellung.
+
+    Ihre Daten aus Version 4 übernimmt das Programm automatisch.
+###
+Was passiert wenn ich den Lizenzschlüssel nicht rechtzeitig innerhalb der 60 Tage eingebe?
+
+    Die Daten bleiben alle erhalten, es können allerdings keine Transaktionen mehr durchgeführt werden, bis Sie einen neuen Lizenzschlüssel eingegeben haben.
+###
+Wo finde ich meine Kundennummer?
+
+    Bei der Lizenzierung der Version 5 verlangt das System eine Kundennummer. Diese wurde Ihnen vorab schriftlich mitgeteilt. Sollten Sie diese nicht zur Hand haben, geben Sie bitte Ihre Kontonummer an. Sollten Sie mehrere Konten führen, reicht eine Kontonummer aus.
+###
+Wie oft kann ich das Programm mit einer Lizenz installieren?
+
+    Sie können VR-NetWorld mit einer Lizenz an 3 PC's installieren. Möchten Sie die Software darüber hinaus einsetzen, schreiben Sie uns eine E-Mail an onlinebanking@ethikbank.de.
+###
+Meine Mobiltelefonnummer hat sich geändert. Was muss ich tun, um mobileTAN weiterhin nutzen zu können?
+
+    Entweder Sie füllen das Formular zur Änderung einer Mobiltelefonnummer (PDF) aus und schicken uns dieses auf dem Postweg zurück oder Sie verwalten Ihre neue Nummer einfach und schnell im Internetbanking.
+###
+Wie bediene ich den Kartenleser?
+
+    Erfassen Sie die Überweisung im Online-Banking. Klicken Sie auf „Weiter“. Jetzt erscheint an Ihrem PC eine optische Schnittstelle (animierte Grafik), deren Lichtsignale die Daten an das Lesegerät übertragen.
+
+    Stecken Sie nun Ihre girocard in das Lesegerät. Drücken Sie die F-Taste und halten Sie das Gerät an den Monitor. Wichtig dabei ist, dass die weißen Pfeile von Lesegerät und optischer Schnittstelle genau übereinander liegen.
+
+    Im Lesegerät werden jetzt nacheinander alle Daten (Kontonummer, BLZ, Betrag) angezeigt, die Sie jeweils mit der grünen Taste bestätigen. Zum Schluss wird die TAN eingeblendet, die nur für diese Transaktion gültig ist. Übertragen Sie die TAN in Ihren PC.
+###
+Ich habe keine girocard. Kann ich Sm@rtTAN optic trotzdem nutzen?
+
+    Nein. Weil Sm@rtTAN optic eine girocard verlangt, ist dieses Verfahren nur für Inhaber eines Girokontos oder eines Geschäftkonto geeignet. Wenn Ihr Geschäftskonto noch nicht mit einer girocard ausgestattet ist, können Sie diese jederzeit im Kundenzentrum bestellen.
+###
+Sind die TAN's zahlenmäßig begrenzt, die ich mit meiner girocard erzeugen kann?
+
+    Der Chip auf Ihrer girocard erlaubt es, ca. 65.000 TAN-Nummern zu generieren. Das ist mehr als ausreichend.
+###
+Kann ich die TAN's, die der Kartenleser erzeugt, in beliebiger Reihenfolge verwenden?
+
+    Nein. Jede TAN, die Sie mit Ihrem Kartenleser erzeugen, können Sie nur für diese eine Überweisung verwenden. Das macht Sm@rtTAN optic so sicher.
+###
+Müssen meine TAN's auf die girocard geladen oder aktiviert werden?
+
+    Nein, weil Sie jede TAN erst dann erzeugen, sobald Sie eine Überweisung ausführen. Ihre Karte muss lediglich für das Sm@rtTAN-optic-Verfahren freigeschaltet sein.
+###
+Angenommen meine girocard wird gestohlen und der Dieb hat einen Kartenleser. Hätte er dann Zugriff auf mein Konto?
+
+    Nein, dann der Dieb bräuchte neben Ihrer Karte auch Ihre PIN. Außerdem würden Sie bei Diebstahl oder Verlust Ihre girocard sofort sperren lassen. Und mit einer gesperrten Karte ist kein Kontozugriff mehr möglich.
+###
+Kann ich auch dann noch TAN's generieren, wenn die girocard gesperrt wurde?
+
+    Ja, aber das nützt Ihnen nichts, denn unser System wird diese als ungültig zurückweisen.
+###
+Kann ich Sm@rtTAN optic auch dann nutzen, wenn ich mit einem Zahlungsverkehrsprogramm arbeite?
+
+    Das ist abhängig von dem Zahlungsverkehrsprogramm, welches Sie nutzen: Bei VR-NetWorld (Version 3.1) und ProfiCash (Version 8.5a) funktionieren sowohl Sm@rtTAN optic als auch mobileTAN. HOME cash, HOME cash light und Geno-Light unterstützen die Verfahren nicht mehr. Hier ist ein Update auf VR-NetWorld oder ProfiCash notwendig. Wenn Sie ein anderes Programm nutzen, zum Beispiel Starmoney oder Quicken, fragen Sie bitte den Hersteller.
+###
+Ich habe mehrere Konten und daher mehrere girocards. Kann ich alle Karten für Online-Banking freischalten lassen?
+
+    Nein, Sie müssen sich für ein Konto und damit eine Karte entscheiden. Jeder Kunde kann nur eine girocard für das Online-Banking nutzen. Bei einem Partnerkonto können sich beide mit ihrer jeweiligen Karte freischalten lassen. Übersetzt könnte man sagen: Pro Mensch eine Karte.
+###
+Was ist ein ATC-Zähler?
+
+    Im Chip der girocard wird die TAN durch eine mathematische Formel berechnet. Jede TAN hat eine laufende Nummer, den so genannten ATC. Immer wenn Sie eine neue TAN generieren, erhöht sich der ATC-Zähler um eins. Verwenden Sie diese TAN anschließend im Internetbanking, erhöht sich auch der zugehörige ATC-Zähler auf dem Bankrechner um eins. Bleibt die TAN jedoch ungenutzt, ergibt sich eine Differenz. Wenn diese Differenz zu groß wird, lehnt unsere Anwendung weitere Zahlungen ab. In diesem Falle müssen Sie die ATC-Zähler wieder angleichen.
+###
+Wie kann ich die ATC-Zähler angleichen?
+
+    Im Internetbanking unter „PIN/TAN verwalten“. Klicken Sie weiter auf „Sm@rtTAN (ATC) angleichen“. Nun geben Sie Folgendes ein: die 11-stellige Nummer Ihrer girocard, den 5-stelligen ATC-Stand sowie eine 6-stellige TAN. Sowohl ATC-Zählerstand wie die zugehörige TAN sehen Sie im Display Ihres Kartenlesers, sobald Sie Ihre girocard dort einführen und die Taste “T“ solange drücken, bis das Wort "Code" auf dem Display erscheint. Jetzt drücken Sie zweimal "OK", und ATC und TAN sind auf dem Display zu sehen. Sie geben beiden Zahlen in die entsprechenden Felder ein und klicken auf den Button “Abschicken“.
+###
+Warum bekomme ich die Fehlermeldung „TAN ist falsch“?
+
+    Es könnte sein, dass der Chip auf Ihrer girocard nicht mehr synchron ist mit unserem Großrechner. Helfen Sie sich, indem Sie zunächst folgende Daten bereithalten: die Kartennummer Ihrer girocard, die ATC-Nummer und eine dazugehörige TAN. ATC-Nummer und TAN bekommen Sie, wenn Sie Ihre Karte in den Kartenleser stecken. Drücken Sie die Taste "T" solange, bis das Wort "Code" auf dem Display erscheint. Jetzt drücken Sie zweimal "OK" und ATC und TAN sind auf dem Display zu sehen.
+
+    Melden Sie sich nun im Internetbanking an und wählen Sie links die Navigation "PIN/TAN verwalten" aus. Klicken Sie auf "ATC angleichen". Tragen Sie nun Ihre Daten ein, und klicken Sie abschließend auf "Abschicken". Nun sind die Daten wieder synchron.
+
+    Falls Sie Ihre TAN drei Mal falsch eingegeben haben, klicken Sie auf folgenden Link:
+    „TAN 3x falsch eingegeben“.
+###
+Was ist HBCI?
+
+    Die HBCI-Verfahren gehören zu den sogenannten Schlüsselaustauschverfahren. Das bedeutet, dass Sie alle Aufträge mit Ihrer dauerhaft gültigen elektronischen Unterschrift signieren. HBCI gibt es in zwei Varianten – mit Software oder Chipkarte. Die HBCI-Verfahren bieten die höchste Sicherheit. Die einmalige Einrichtung verlangt allerdings ein wenig technisches Verständnis. Unsere Spezialisten beraten Sie gern: 036691-58207
+###

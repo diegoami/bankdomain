@@ -1,0 +1,42 @@
+###
+Was befindet sich in der Finanzübersicht?
+
+Hier sehen Sie alle Produkte, die für Sie freigeschalten sind. Bei den Ein- und Ausgaben werden automatisch die letzten 30 Tage angezeigt.
+
+Tigerstarker Anadi Tipp:
+Sie können direkt aus der Finanzübersicht einen neuen Auftrag erstellen.
+###
+Nutzen Sie Ihren persönlichen Finanzmanager!
+
+Mit dem Finanzmanager verschaffen Sie sich einen Überblick über Ihre Einnahmen und Ausgaben. Dank der automatischen Kategorisierung und grafischen Aufbereitung sehen Sie auf einen Blick, wie viel Sie ausgegeben haben und wofür.
+
+Selbstverständlich können Sie Ihre Umsätze auch selbst kategorisieren und bearbeiten.
+
+###
+Wie kann ich ein Sparziel anlegen?
+
+Sie benötigen dazu nur ein Online-Sparen oder die Anadi Cash Card mit Online-Banking.
+
+Die Anlage eines neuen Sparzieles erfolgt in drei Schritten.
+Schritt 1: Geben Sie Ihrem Sparziel einen Namen und definieren Sie bitte Zieldatum und Zielbetrag. Wenn Sie möchten informieren wir Sie gerne, wenn Sie Ihr Sparziel erreicht haben, oder wenn die Zielerreichung gefährdet ist. Dazu aktivieren Sie bitte die entsprechende Mitteilung.
+Schritt 2: Im zweiten Schritt wählen Sie bitte Ihr Konto aus, welchem Ihr Sparziel zugeordnet wird. Definieren Sie bitte Ihre gewünschte Zahlungsart: Standard: monatlich unregelmäßig (=manuell) Überschuss-Sparen (Angabe eines Limit-Betrags, welcher nach der Umbuchung auf dem Auftraggeberkonto verbleiben soll.)
+Schritt 3: Zuletzt wählen Sie bitte noch aus, ob es sich um ein übergeordnetes Sparziel oder ein Wunsch-Sparziel handelt. Dies hat auf die Abwicklung Ihres Sparziels keinen Einfluss. Die Sparziele werden nur entsprechend gekennzeichnet und in der Zeitleiste unterschiedlich dargestellt.
+
+Die grafische Darstellung erleichtert es Ihnen, den Überblick über Ihre Finanzen zu bewahren. Wollen Sie unregelmäßig sparen oder zusätzliche Beträge überweisen, funktioniert dies auch ganz einfach. Unter „Überweisung & Transfer“ können Sie Sparbeträge sowohl zwischen Konten, zwischen Sparzielen und Konten, sowie zwischen Ihren Sparzielen durch Drag and Drop verschieben. Wurden alle Beträge wie gewünscht verschoben, wird ein Übertrag durchgeführt.
+
+Tigerstarker Anadi Tipp:
+Sparziele können jederzeit geändert, pausiert und gelöscht werden.
+###
+Was kann die Kalenderfunktion in der Finanzübersicht?
+
+In Ihrer Finanzübersicht finden Sie die Kalenderfunktion. Hier wird Ihnen Ihr Kontosaldo je Buchungstag angezeigt. Auch regelmäßige Aufträge und Terminüberweisungen finden Sie hier.
+
+Klicken Sie einfach auf den Buchungstag, um die einzelnen Umsätze einzusehen.
+###
+Was versteht man unter „Eigene Werte“?
+
+Zu finden im Menü unter „Finanzen“ / „Eigene Werte“.
+Hier erfassen und verwalten Sie Ihre zusätzlichen Vermögenswerte.
+Die Vermögenswerte werden auf der Kontoübersicht sowie auch auf der Finanzübersicht dargestellt.
+###
+

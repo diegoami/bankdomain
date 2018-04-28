@@ -1,0 +1,132 @@
+
+###
+Wer kann die Online-Banking App der Austrian Anadi Bank nutzen?
+
+Die Online-Banking App steht nur Kunden der Austrian Anadi Bank mit entsprechender Kontoverbindung und Berechtigungen für das Online-Banking zur Verfügung.
+###
+Auf welchen mobilen Endgeräten ist die Online-Banking App der Austrian Anadi Bank nutzbar?
+
+Die Online-Banking App ist für die gängigsten Smartphones und Tablets optimiert und kann auf den Betriebssystemen iOS, Android und Windows-Phone betrieben werden.
+###
+Benötige ich als Kunde für die Nutzung der Online-Banking App zusätzliche Vereinbarungen oder Zugangsdaten?
+
+Wenn Sie bereits das Online-Banking der Anadi Bank am PC oder Laptop nutzen, können Sie sich mit denselben Zugangsdaten (Verfügernummer, Verfügername, PIN) auch in die Online-Banking App einloggen.
+###
+Wie kann ich mich in die Online-Banking App einloggen, wenn ich bereits das Anadi Online-Banking nutze?
+
+1. Laden Sie die Online-Banking App von Ihrem App Store herunter.
+2. Öffnen Sie die Online-Banking App auf Ihrem Smartphone / Ihrem Tablet.
+3. Tippen Sie auf den Button „Anadi Online-Banking“
+4. Geben Sie Ihre Zugangsdaten aus dem Online-Banking ein: Verfügernummer, Verfügername, PIN
+5. Stellen Sie eine „Gerätebindung“ her. Das heißt, Sie verbinden Ihre Online-Banking App mit Ihrem Smartphone / Tablet. Vergeben Sie für jedes Gerät einen eigenen Namen. Dann vergeben Sie die shortPIN (4-stellige Identifikationsnummer). In weiterer Folge können Sie auf Ihrem Smartphone / Tablet mit der definierten shortPIN auf Ihre Daten zugreifen.
+6. Wollen Sie die shortPIN-Funktion nicht nutzen, überspringen Sie den Punkt „Gerät verbinden“ einfach. Sie können auch beim nächsten Mal die shortPIN vergeben.
+Hinweis zur shortPIN:
+
+Wenn Sie mit der shortPIN einsteigen, ist nur die Datenansicht möglich. Wollen Sie Transaktionen oder Änderungen durchführen, müssen Sie am Ende der Transaktion zusätzlich PIN und TAN eingeben. Haben Sie einmal eine shortPIN festgelegt, können Sie weitere mobile Geräte für die Nutzung der shortPIN freigeben. Eine festgelegte shortPIN kann direkt in der Online-Banking App unter "App Einstellungen / shortPIN" geändert werden. Ebenso kann die Gerätebindung aufgehoben werden.
+Die definierte shortPIN gilt sowohl für Online-Banking App, als auch für Quick-Check und tresorTAN App.
+Hinweis zum Fingerabdruckscan:
+
+Zusätzlich zur shortPIN können Sie auch den am Gerät hinterlegten Fingerabdruck zur Anmeldung verwenden. Voraussetzung ist, dass Sie die Funktion "Fingerabdruckscan" auf Ihrem Smartphone oder Tablet verfügbar und aktiviert ist. Aktivieren Sie dazu im Feld "Fingerabdruck aktivieren" die Funktion. Bitte beachten Sie, dass die Funktion "Fingerabdruck" von den Einstellungen auf Ihrem Smartphone oder Tablet abhängig ist. Alle am Gerät registrierten Fingerabdrücke können für den Login verwendet werden, da für den Fingerabdruck keine Personenbindung vorhanden ist.
+###
+Wie kann ich mich in die Anadi Online-Banking App einloggen, wenn ich Neukunde bin, bzw. bisher noch nie
+Online-Banking genutzt haben.
+
+1. Kommen Sie in die Filiale und fordern Sie den Zugang zum Online-Banking an. Die Zugangsdaten zur Nutzung des Online-Bankings: Verfügernummer und Verfügername werden Ihnen per Post zugeschickt.
+2. Laden Sie die Online-Banking App von Ihrem App Store (Google Play Store oder Apple App Store) herunter.
+4. Öffnen Sie die Online-Banking App auf Ihrem Smartphone / Ihrem Tablet. Tippen Sie auf "Zum Erst-Login". Die für den Erst-Login benötigten Zugangsdaten: Verfügernummer und Erst-PIN entnehmen Sie dem Schreiben, das Sie von der Austrian Anadi Bank erhalten haben.
+5. Geben Sie im ersten Schritt die Verfügernummer und die Erst-PIN ein.
+6. Danach definieren Sie Ihren persönlichen Verfügernamen und bestätigen diesen durch nochmalige Eingabe.
+7. Ändern Sie im nächsten Schritt Ihre Erst-PIN in eine frei wählbare PIN und bestätigen Sie diese. Bitte beachten Sie, dass die Erst-PIN nur bis zur Abänderung gültig ist.
+8. Schließen Sie den Erst-Login durch Tippen auf "Abschließen" ab.
+9. Stellen Sie die "Gerätebindung" her. Das heißt, Sie verbinden Ihre Online-Banking App mit Ihrem Smartphone / Tablet. Vergeben Sie für jedes Gerät einen eigenen Namen. Dann vergeben Sie die shortPIN (4-stellige Identifikationsnummer). In weiterer Folge können Sie auf Ihrem Smarthphone / Tablet mit der definierten shortPIN auf Ihre Daten zugreifen. Wollen Sie die shortPIN-Funktion nicht nutzen, überspringen Sie den Punkt „Gerät verbinden“ einfach. Sie können auch beim nächsten Mal die shortPIN vergeben.
+Hinweis zur shortPIN:
+
+Wenn Sie mit der shortPIN einsteigen, ist nur die Datenansicht möglich. Wollen Sie Transaktionen oder Änderungen durchführen, müssen Sie am Ende der Transaktion zusätzlich PIN und TAN eingeben. Haben Sie einmal eine shortPIN festgelegt, können Sie weitere mobile Geräte für die Nutzung der shortPIN freigeben. Eine festgelegte shortPIN kann direkt in der Mobile Banking App unter "Apps-Einstellungen / shortPIN" geändert werden. Ebenso kann die Gerätebindung aufgehoben werden.
+Die definierte shortPIN gilt sowohl für Online-Banking, als auch für Quick-Check und tresorTAN App.
+Hinweis zum Fingerabdruckscan:
+
+Zusätzlich zur shortPIN können Sie auch den am Gerät hinterlegten Fingerabdruck zur Anmeldung verwenden. Voraussetzung ist, dass Sie die Funktion "Fingerabdruckscan" auf Ihrem Smartphone oder Tablet verfügbar und aktiviert ist. Aktivieren Sie dazu im Feld "Fingerabdruck aktivieren" die Funktion Bitte beachten Sie, dass die Funktion "Fingerabdruck" von den Einstellungen auf Ihrem Smartphone oder Tablet abhängig ist. Alle am Gerät registrierten Fingerabdrücke können für den Login verwendet werden, da für den Fingerabdruck keine Personenbindung vorhanden ist.
+###
+Was ist die Gerätebindung?
+
+Bei der Gerätebindung verbinden Sie alle mobilen Geräte mit der Online-Banking App und tresorTAN App. Nur wenn Sie die Gerätebindung durchgeführt haben, ist der einfache Zugang mit der ShortPIN möglich.
+###
+Was ist die shortPIN?
+
+Die shortPIN ist eine vierstellige persönliche Identifikationsnummer, die Sie beim Einstieg in die Online-Banking App definieren können. Wenn Sie mit der shortPIN einsteigen, ist nur die Datenansicht möglich. Wollen Sie Transaktionen oder Änderungen durchführen, müssen Sie zusätzlich PIN und / oder TAN eingeben.
+Haben Sie einmal eine shortPIN festgelegt, können Sie weitere mobile Geräte für die Nutzung der shortPIN freigeben. Die shortPIN ist nur auf den verbundenen Geräten einsetzbar. Eine einmal festgelegte shortPIN ändern Sie direkt in der Online-Banking App unter dem Punkt Einstellungen / App. Der Einstieg über shortPIN kann jedoch nicht mehr deaktiviert werden. Sie können die shortPIN jedoch überspringen, tippen Sie dazu auf "zum klassischen Login" im rechten unteren Eck.
+###
+Was ist der Fingerabdruckscan?
+
+Zusätzlich zur shortPIN können Sie auch den am Gerät hinterlegten Fingerabdruck zur Anmeldung verwenden. Voraussetzung ist, dass Sie die Funktion "Fingerabdruckscan" auf Ihrem Smartphone oder Tablet verfügbar und aktiviert ist.
+
+    Google Pixel
+    Coolpad Note 5
+    Blu Pure XR
+    Xiaomi Redmi Note 4
+    Infocus Epic 1
+    LeTV Le Max2
+    LeEco Le 2
+    Moto G Plus (4th Gen)
+    OukiTel K6000 Pro
+    LeEco Le 1S
+    Lenovo K4 Note
+    Lenovo K6 Note
+    Xiaomi Redmi Note 3
+    Xiaomi Mi 5
+    Redmi 3S
+    OnePlus 2
+    Galaxy A5 (2016)
+    Samsung Galaxy A9 Pro
+    Lenovo Vibe X3
+    Vivo X6
+    HTC 10
+    Oneplus 3
+    LG G5
+    Xperia Z5 Premium
+    Galaxy S7 and S7 Edge
+    LG V 10
+    Nexus 5X and Nexus 6P
+    Meizu Pro 6
+    Lenovo Vibe P1
+    Honor 7
+
+###
+Kann ich in mein Online-Banking mittels Fingerabdruck einsteigen?
+
+JA!
+Online-Banking unterstützt den Einstieg mittels Fingerprint für iOS und Android Geräte. Weitere Informationen finden Sie auf unserer Webseite.
+
+So aktivieren Sie Ihren Fingerprint:
+
+    Steigen Sie direkt in Ihre Einstellungen ein.
+    Aktivieren Sie im letzten Reiter [Mehr]/Menüpunkt [Apps] die Funktion Fingerabdruck.
+    Wählen Sie unter "verbundene Geräte" jenes aus, auf dem Sie den Fingerabdruck nutzen wollen.
+    Wenn Sie Ihren shortPin Login aktiviert haben: Tippen Sie auf das Schlosssymbol und authentifizieren Sie sich mit Ihrem Verfüger-PIN.
+    Abschließend bestätigen Sie Ihre Eingaben mit "Ja".
+
+
+Tigerstarker Anadi Tipp:
+1. Stellen Sie sicher, dass der Login mittels Fingerabdruck auf Ihrem Android Gerät unterstützt wird.
+2. Bitte bedenken Sie: Wenn Sie mittels Fingerabdruck einsteigen, stehen Ihnen die Daten nur zur Ansicht zur Verfügung. Für Transaktionen geben Sie zusätzlich PIN und TAN ein.
+3. Jeder am Gerät gespeicherte Fingerabdruck - auch von Ihnen berechtigten Personen - kann für den Login verwendet werden.
+###
+Was versteht man unter Push-Mitteilungen?
+
+Es ist immer gut zu wissen, was läuft. Nicht nur für das gute Gefühl, sondern auch aus Sicherheitsgründen. Immer bestens informiert. Sie selbst entscheiden, wie!
+
+Aktivieren Sie Push-Mitteilungen über Kontoein- bzw. ausgänge und Nachrichten über „Mitteilungs - Einstellungen“. So behalten Sie den Überblick, ob wichtige Zahlungen eingegangen sind bzw. durchgeführt wurden. Bitte beachten Sie, um Push-Mitteilungen zu erhalten benötigen Sie unsere Online-Banking App und eine aktive Gerätebindung.
+
+Sie können sich alternativ auch per E-Mail oder SMS über Eingänge und Ausgänge bzw. neue Nachrichten in Ihrem Online-Banking informieren lassen. Bei SMS-Mitteilungen können Kosten entstehen.
+###
+Was ist zu tun, wenn ich meine shortPIN vergessen habe?
+
+Haben Sie Ihre shortPIN vergessen, tippen Sie unter dem Eingabefeld auf "shortPIN vergessen". Sie müssen sich mit Ihren Online-Banking-Verfügerdaten voll-authentifizieren. D. h. Eingabe von Verfügernummer, dem Verfügernamen und der PIN.  Danach gelangen Sie zur Änderungsmaske für die shortPIN. Vergeben Sie eine vierstellige Ziffernkombination und bestätigen Sie diese durch nochmalige Eingabe. Mit Tippen auf "Speichern" haben Sie die shortPIN geändert. Haben Sie Ihre Online-Banking-Verfügerdaten vergessen, hilft Ihnen gerne das Customer Care Center weiter. Sie erreichen uns unter 050202 0.
+###
+Welche Sicherheitsaspekte enthält das Online-Banking?
+
+- Nach maximal 15 Minuten werden Sie automatisch ausgeloggt
+- Nach drei fehlerhaften Login-Versuchen wird der Verfüger automatisch gesperrt.
+Die Sperre gilt auch für das Online-Banking und kann nur vom Customer Care Center aufgehoben werden.
+
+ ###

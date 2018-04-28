@@ -1,0 +1,79 @@
+ TWINT allgemein
+###
+Was ist TWINT?
+TWINT ist eine mobile Bezahllösung und somit das digitale Portemonnaie der Schweiz. Ob an der Ladenkasse, an Automaten oder im Online-Shop mit der OKB TWINT App bezahlen Sie bequem und sicher mit Ihrem Smartphone. Zudem bietet Ihnen TWINT das grösste Zahlungsnetzwerk der Schweiz, um Geldbeträge direkt an eine Person zu übermitteln.
+###
+Was bedeutet der Name „TWINT“?
+TWINT setzt sich aus „twin" für Zwilling, „twist" für Dynamik und „win" für Erfolg zusammen.
+###
+Was ist damit gemeint, dass TWINT eine bankenübergreifende mobile Bezahllösung ist?
+Ein TWINT-Nutzer kann einem anderen TWINT-Nutzer einen Geldbetrag übermitteln, egal bei welcher Bank sich der Geldempfänger für TWINT registriert hat. Somit ist für das Übermitteln eines Geldbetrages weder die Bankbeziehung des einen noch diejenige des anderen relevant.
+###
+Kann ich TWINT nur fürs Zahlen nutzen?
+Nein. Sie können Ihre Kundenkarten und Mitgliederausweise digital in der App aufbewahren.
+###
+Welche Voraussetzungen muss ich erfüllen, um OKB TWINT nutzen zu können?
+Sie benötigen…
+
+    …ein Privatkonto unserer Bank (Privatkonto Jugend, Privatkonto Bildung, Privatkonto Bezahlen Basis, Privatkonto Bezahlen Plus oder Privatkonto Mono).
+    …ein Android- oder iOS-Mobiltelefon.
+    …eine Schweizer Mobiltelefonnummer.
+###
+Ich bin bereits bei einem anderen TWINT-Anbieter registriert. Kann ich die OKB TWINT trotzdem auch nutzen?
+Ja, dies ist möglich.
+###
+Was kostet mich die Nutzung von OKB TWINT?
+Nichts. Die OKB TWINT App wie auch das Übermitteln eines Geldbetrages ist kostenlos.
+###
+Kann ich OKB TWINT auch im Ausland und beim Übermitteln eines Fremdwährungsbetrages nutzen?
+Nein. Zahlungen im Ausland und in einer Fremdwährung sind derzeit nicht möglich.
+Direkte Kontoanbindung
+###
+Was bedeutet „direkte Kontoanbindung“?
+Jede Transaktion wird direkt in Echtzeit auf dem hinterlegten Konto verbucht.
+###
+Ab wann ist mein Konto vollständig mit OKB TWINT verknüpft?
+Direkt nach der Registrierung, steht Ihnen eine erste Gesamtlimite von 500 Franken und ein Einzeltransaktionslimite von100 Franken  zur Verfügung. Sobald Sie den per Post zu gestellten QR-Code eingescannt haben, ist Ihr TWINT App vollständig mit Ihrem Konto verknüpft.
+###
+Kann ich für OKB TWINT mein Sparkonto als Kontaktkonto angeben?
+Nein, dies ist nicht möglich. Das hinterlegte Kontaktkonto muss ein Privatkonto sein.
+###
+Kann ich für OKB TWINT mein Unternehmerkonto als Kontaktkonto angeben?
+Nein, dies ist nicht möglich. Die mobile Bezahllösung OKB TWINT steht nur Privatpersonen und Vereine zur Verfügung. Informationen zu TWINT für Geschäftskunden finden Sie hier.
+Zahlung
+###
+Werde ich benachrichtigt, wenn ich eine Zahlung oder Forderung erhalten habe?
+Nur, sofern Sie die Push-Funktion aktiviert haben, erhalten Sie eine Nachricht.
+###
+Kann ich eine irrtümlich gemachte Zahlung rückgängig machen?
+Nein, weil jede TWINT-Zahlung in Echtzeit ausgeführt wird. TWINT erstellt deshalb für jede Zahlung eine Übersicht mit den Zahlungsdetails, die Sie bestätigen müssen. Erst nach erfolgter Bestätigung wird die Zahlung ausgelöst.
+###
+Was ist eine Stempelkarte und wie kann ich davon profitieren?
+Eine Stempelkarte ist eine in der OKB TWINT App integrierte digitale Sammelkarte eines Händlers. Für jede Zahlung via OKB TWINT erhalten Sie einen „Stempel“. Sobald Sie genügend Stempel gesammelt haben, schenkt Ihnen der Händler ein Produkt oder Sie erhalten einen Preisvorteil.
+###
+Was ist ein Coupon und wie kann ich davon profitieren?
+Ein Coupon ist ein Rabatt oder Preisvorteil, den Ihnen ein Händler direkt in der OKB TWINT App anbietet. Sie finden die aktuelle Übersicht der erhältlichen Coupons in der App unter "Angebote". Sobald Sie einen Coupon nutzen möchten, tippen Sie auf "aktivieren". Bei Ihrer nächsten Zahlung an den entsprechenden Händler wird Ihnen der Rabatt gewährt (meist automatisch).
+###
+Ich möchte weder Coupons noch Stempelkarten nutzen. Wie muss ich vorgehen?
+Deaktivieren Sie die „Angebote von Dritten“ im Menüpunkt „Mehr“, „Nutzungsbestimmungen“. Sobald Sie dies getan haben werden keine Coupons und Stempelkarten mehr unter „Angebote“ angezeigt.
+Sicherheit und Datenschutz
+###
+Sind Zahlungen mit OKB TWINT sicher?
+Ja. OKB TWINT erfüllt die höchsten Sicherheitsanforderungen. Eine 6-stellige PIN schützt die App vor Missbrauch. Die an der Zahlung beteiligten Systeme sind dieselben, über die auch sämtliche Banküberweisungen und Kreditkartenzahlungen in der Schweiz abgewickelt werden.
+###
+Ist meine Privatsphäre geschützt?
+Ja. Das TWINT-System gibt weder Nutzer- noch Transaktionsdaten an Dritte weiter. Die App unterliegt den Sicherheitsstandards der Schweizer Banken.
+###
+Wie kann ich meine PIN wechseln?
+Sie können sie jederzeit in den Einstellungen ändern.
+
+###
+Ich habe OKB TWINT irrtümlich blockiert. Was kann ich tun?
+Kontaktieren Sie uns. Sobald das System wieder freigeschaltet ist, steht Ihnen OKB TWINT wieder ohne Einschränkungen zur Verfügung.
+###
+Ich möchte OKB TWINT blockieren bzw. löschen lassen. Wie muss ich vorgehen?
+Nehmen Sie mit uns Kontakt auf.
+###
+Kann die Obwaldner Kantonalbank OKB TWINT blockieren oder gar löschen?
+Ja. Besteht der Verdacht auf eine strafbare Handlung werden wir Ihren OKB TWINT-Zugang blockieren. Unter gewissen Umständen haben wir zudem das Recht, Ihre gesamte Registrierung zu löschen.
+###

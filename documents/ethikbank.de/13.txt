@@ -1,0 +1,43 @@
+###
+Wie benutze ich meinen Sicherheitscode?
+
+    Wenn Sie einen Einkauf bei einem teilnehmenden Händler tätigen, wird ein Fenster angezeigt, in dem Sie zur Eingabe Ihrer E-Commerce TAN aufgefordert werden. Nachdem Sie die Details Ihrer Bestellung geprüft haben und der persönliche Begrüßungstext korrekt ist, vergleichen Sie bitte, ob die in der SMS angezeigten Transaktionsdaten der von Ihnen gewünschten Zahlung entsprechen. Wenn alle Daten stimmen, geben Sie die E-Commerce TAN aus der SMS Nachricht im angezeigten Fenster ein, um die Transaktion freizugeben.
+###
+Ich habe meine Kreditkarte(n) noch nicht registriert, beim Bezahlen bei einem Online-Händler werde ich aber aufgefordert, meine Kreditkarte zu registrieren. Was muss ich tun?
+
+    Bitte klicken Sie auf "registrieren". Sie werden dann zur Registrierung Ihrer Kreditkarte auf eine sichere Seite Ihrer Bank geleitet. Dort geben Sie bitte die Abrechnungskonto-Nr. sowie Ihr Geburtsdatum an. Anschließend hinterlegen Sie Ihre Mobilfunknummer, die Sicherheitsfrage sowie eine persönliche Begrüßung. Damit ist die Registrierung abgeschlossen und der Bezahlvorgang wird fortgesetzt.
+
+    Auch wenn Sie sonst im Internet seitens Ihrer Bank nirgends zur Angabe von Daten aufgefordert werden, handelt es sich bei der Registrierung während eines Bezahlvorgangs im Internet um die einzige Ausnahme von dieser Regel!
+
+    Ab dem zweiten Bezahlvorgang bei einem für den Sicherheitscode registrierten Online-Händler muss der per Brief erhaltene Aktivierungscode auf der Homepage Ihrer Bank eingegeben worden sein (näheres erläutert das Aktivierungscode-Schreiben), um das Verfahren uneingeschränkt nutzen zu können.
+###
+Was bedeutet es, wenn beim Online-Shopping kein Fenster mit der Eingabeaufforderung für den Sicherheitscode angezeigt wird?
+
+    Sie sollten sich vergewissern, dass Ihre Karte registriert ist, der Händler am Programm teilnimmt (Online-Händler beschreiben dies meist unter den akzeptierten Zahlungsarten), jegliche Software deaktiviert ist, die die Anzeige von Eingabefenstern verhindert.
+
+    Wenn Sie auch keine Nachricht mit den Transaktionsdaten und Ihrer E-Commerce-TAN erhalten haben, unterstützt der Händler die Verfahren vermutlich nicht. In diesem Fall wird der Umsatz ohne Mastercard SecureCode /Verified by Visa abgewickelt.
+###
+Wie weiß ein Online- Händler, dass die Kreditkarte durch den Sicherheitscode geschützt ist?
+
+    Der Online-Händler stellt eine Anfrage an den Server der Kartenorganisation (MasterCard-Server) und prüft, ob es sich um einen Kartennummernkreis handelt, der durch das Kreditinstitut freigeschaltet wurde. Ist dies der Fall, öffnet sich automatisch das Fenster zur Eingabe  der E-Commerce TAN und der Sicherheitsfrage. Nach deren Eingabe erhält der Händler eine Rückmeldung über die erfolgte Prüfung und der Bezahlvorgang im Shop des Händlers wird abgeschlossen.
+###
+Können Sie bei Händlern einkaufen, die nicht am Sicherheitscode-Verfahren teilnehmen?
+
+    Ja, der Kaufvorgang kann wie gewohnt durchgeführt werden.
+###
+Was passiert, wenn eine Kreditkarte ungültig wird oder die Karte verloren geht?
+
+    Da sich durch eine Neukarte die Kartennummer ändert, wird für Sie eine Neuregistrierung erforderlich. Erhalten Sie allerdings eine Folgekarte, weil bei Ihrer alten Karte der Gültigkeitszeitraum abgelaufen ist, so bleibt Ihre Registrierung weiterhin bestehen.
+###
+Werden verloren/gestohlen gemeldete Karten auch für den Sicherheitscode gesperrt?
+
+    Ja, die Sperrung erfolgt automatisch auch für den Sicherheitscode. Haben Sie bei der Sperrung gleich eine Ersatzkarte beantragt, so müssen Sie die Ersatzkarte für diesen Service neu registrieren.
+###
+Wie muss ich mit meinem Sicherheitscode umgehen?
+
+    Per Telefon oder E-Mail werden wir Sie weder zur Registrierung auffordern, noch nach Ihrem Kennwort fragen! Bei entsprechenden Aufforderungen zur Preisgabe Ihrer Kreditkartendaten in E-Mails handelt es sich um so genannte Phishing-Versuche, bei denen Betrüger versuchen, an Kunden-, Kreditkartendaten und Sicherheitsmerkmale zu gelangen, mit denen dann Missbrauch betrieben werden kann.
+###
+Was passiert, wenn sich meine Mobilfunknummer geändert hat?
+
+    Rufen Sie die Service-Hotline (Tel-Nr.: 0721-120966001 Auswahl 4 (0,14 Euro/Min. aus dem Festnetz der Deutschen Telekom, Mobilfunkhöchstpreis im Inland 0,42 EUR/Minute)) an.
+###

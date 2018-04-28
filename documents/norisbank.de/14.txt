@@ -1,0 +1,47 @@
+###
+Was benötige ich, um das Online-Banking bei der norisbank zu nutzen?
+
+Hierfür benötigen Sie lediglich einen Computer mit einem aktuellen Browser (z.B. Internet Explorer oder Mozilla Firefox) und einen Internetanschluss.
+
+Nach Ihrer Kontoeröffnung senden wir Ihnen automatisch PIN und den photoTAN Aktivierungsbrief zu, die Sie für Ihren Zugang zum Online-Banking auf unserer Website benötigen.
+
+Selbstverständlich können Sie das Online-Banking der norisbank auch mit Ihrem Smartphone, Tablet oder einem anderen, an das Internet angeschlossenen Computer nutzen. Eine Software-Installation ist nicht erforderlich.
+
+Sie sind Kunde und haben noch keine Online-PIN? Kein Problem:
+
+
+Jetzt Online-Zugang beantragen
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unseren
+24-h-Kundenservice unter 030 – 310 66 005.
+Bitte halten Sie Ihre Telefon-PIN bereit.
+###
+Kann ich das norisbank Online-Banking auch vom Büro aus nutzen?
+
+Mit einem PC, Tablet oder Smartphone mit Internetzugang können Sie das Online-Banking der norisbank auch von Ihrem Büro aus nutzen. Viele Unternehmen nutzen allerdings eine sogenannte Firewall, um sich vor unliebsamen Daten zu schützen. Diese kann auch das Online-Banking beeinflussen. Um das Online-Banking nutzen zu können, muss der Port 443 freigegeben sein. Sprechen Sie deshalb mit Ihren Systemadministratoren oder Technikern.
+###
+Muss ich für das Login immer die Homepage der norisbank nutzen?
+
+Nein. Sie erreichen das Login der norisbank auch direkt unter: https://meine.norisbank.de
+###
+Was muss ich tun, wenn ich mich nicht mehr in das Online-Banking einloggen kann?
+
+Die norisbank nutzt sogenannte Cookies, um bestimmte Einstellungen, die Sie im Online-Banking vornehmen, zu speichern. Eine mögliche Ursache für ein Login-Problem kann ein fehlerhafter Cookie sein.
+
+Am besten löschen Sie alle Cookies, die zum Online-Banking der norisbank gehören. Sie erkennen die Cookies an der Domain https://meine.norisbank.de. Nachdem die Cookies gelöscht wurden, sollte der Login wieder funktionieren.
+###
+Was muss ich beachten, wenn ich meine Sitzung bei der norisbank beenden will?
+
+Sie sollten das Online-Banking immer über den Menüpunkt „Kunden-Logout" ganz oben rechts auf der Seite oder im Menü links unten schließen.
+
+Anderenfalls besteht die Möglichkeit, dass Unbefugte an Ihrem PC Einblick in Ihre Kontoinformationen nehmen können.
+
+Transaktionen sind jedoch nur mit einer gültigen TAN (Transaktionsnummer) möglich.
+###
+Für welche Funktionen des Online-Bankings kann ich die Fingerprint-Funktion meines Smartphones nutzen?
+
+Wenn Sie das Mobile-Banking auf einem iPhone 5s oder neuer verwenden, können Sie sich über die Fingerprint-Funktion im Online-Banking anmelden.
+
+Wir entwickeln die Mobile-Banking-App kontinuierlich weiter, damit der Login per Fingerabdruck künftig auch auf anderen Geräten bzw. mit anderen Betriebssystemen möglich ist.
+
+###

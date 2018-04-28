@@ -1,0 +1,87 @@
+ROBIN Allgemein
+###
+Was ist die digitale Vermögensverwaltung ROBIN?
+
+Die digitale Vermögensverwaltung ROBIN ist eine Finanzdienstleistung, die Kunden die Möglichkeit bietet, ihr Vermögen ab einem Mindestanlagebetrag von 5.000 Euro durch die Deutsche Bank verwalten zu lassen. Als Finanzinstrumente werden dabei börsennotierte ETFs (Exchange Traded Funds) verwendet. Anhand von Kundenangaben zu seinen finanziellen Verhältnissen, Kenntnissen und Erfahrungen mit Wertpapieren, seiner persönlichen Risikobereitschaft sowie seinem Anlageziel wird festgestellt, ob sich die digitale Vermögensverwaltung für den Kunden eignet. Trifft dies zu, erhält der Kunde anschließend eine Empfehlung für eine Anlagestrategie.
+
+Die Deutsche Bank übernimmt das Management des Anlagebetrags und investiert diesen in breit diversifizierte Wertpapiere. Dabei wird ausschließlich in ETFs (börsengehandelte Indexfonds) investiert, die wiederum in Aktien, Renten und Rohstoffen anlegen. Auf die konkrete Wertpapierauswahl und die Portfolioaufteilung hat der Kunde keinen Einfluss. Er kann jedoch jederzeit online auf das sogenannte Cockpit zugreifen, das die aktuelle Portfoliozusammensetzung und weitere Informationen laufend aktualisiert. Zusätzlich erhält jeder Kunde quartalsweise einen Bericht über alle Portfolioveränderungen, die aktuelle Portfoliozusammensetzung und die Wertentwicklung in der Berichtsperiode.
+###
+Was sind ETFs?
+
+Exchange Traded Funds (ETFs) sind eine Sonderform klassischer Investmentfonds, die auch an der Börse gehandelt werden. Sie bilden die Wertentwicklung eines Index und der darin enthaltenen Wertpapiere nach. ETFs bezeichnet man auch als passive Anlageinstrumente, da keine aktiven Kauf- und Verkaufsentscheidungen durch einen Fondsmanager getroffen werden. Dadurch fallen deutlich niedrigere Verwaltungsgebühren als bei aktiv gemanagten Fonds an. Börsennotierung und Standardisierung ermöglichen eine gute Handelbarkeit und niedrige Gesamtkosten.
+
+Man unterscheidet zwischen physischen und synthetischen ETFs: Bei einer physischen Replikation werden die dem Index zugrundeliegenden Wertpapiere direkt gekauft. Die synthetische Replikation ist dagegen ein Tauschgeschäft, bei dem eine Gegenpartei dem ETF die Performance des abgebildeten Index garantiert und dafür eine Gebühr erhält. Besonders auf Nischenmärkten und bei Rohstoffen können synthetische ETFs ein Investment erst möglich machen.
+###
+An wen richtet sich die digitale Vermögensverwaltung?
+
+ROBIN richtet sich an Anleger, die diversifiziert am Kapitalmarkt investieren und bei der Auswahl geeigneter Wertpapiere auf die Expertise einer erfahrenen Bank setzen möchten. Grundsätzlich ist unsere Vermögensverwaltung für Anleger geeignet, die
+
+    Anlageentscheidungen über ihr eingesetztes Kapital an die Bank delegieren wollen,
+    mindestens 18 Jahre alt sind,
+    wohnhaft in Deutschland sind,
+    keine US-amerikanischen Staatsbürger sind bzw. nicht in den USA geboren sind,
+    keine US-amerikanische Steuerpflicht haben,
+    bereit sind, mindestens 5.000 Euro zu investieren und
+    die ausreichende Kenntnisse und Erfahrungen über Chancen und Risiken einer Anlage am Kapitalmarkt im Zusammenhang mit einer Vermögensverwaltung besitzen.
+
+Die digitale Vermögensverwaltung eignet sich nicht für Anleger, die beabsichtigen, kurzfristig und/oder spekulativ anzulegen. Ebenfalls nicht geeignet ist ROBIN für Kunden, die keinerlei Risiko mit ihrer Kapitalanlage eingehen möchten oder aus einem bestimmten Grund eine Kapitalgarantie benötigen. Der Mindestanlagehorizont beträgt zwei Jahre.
+###
+Welche Merkmale weist unsere digitale Vermögensverwaltung auf?
+
+Die digitale Vermögensverwaltung zeichnet sich durch folgende Eigenschaften aus:
+
+    Risikoadjustierte Portfoliosteuerung: Die börsentägliche Portfolioüberwachung bedeutet, dass ROBIN auf Veränderungen an den Kapitalmärkten und Über- oder Unterschreitung des vertraglich vereinbarten Risikolevels über Nacht reagiert und durch eine Anpassung der Portfoliozusammensetzung wieder an Ihr Risikolevel angepasst wird.
+    Fundierte Kapitalmarkteinschätzung: ROBIN nutzt die zukunftsgerichtete Kapitalmarkteinschätzung der Spezialisten aus dem gesamten Team rund um Chief Investment Officer Dr. Ulrich Stephan. Die Bewertungen einzelner Märkte werden regelmäßig und bei besonderen Ereignissen als Parameter in speziell für ROBIN entwickelte Algorithmen eingegeben. Mit der Bewertung der künftigen Entwicklungspotentiale einzelner Marktsegmente strebt ROBIN eine Reduktion der Kapitalmarktrisiken und eine Erhöhung gegebener Wachstumspotentiale an. Weitere Informationen erhalten Sie in unserer Produktinformation und der entsprechenden FAQ.
+    Komfort: Als ROBIN-Kunde nutzen Sie unser digitales Cockpit, um jederzeit und überall Einblick in Ihre Kapitalanlagen und deren Wertentwicklung zu erhalten.
+    Kostentransparenz: Neben den ETF-Kosten fällt nur die Vergütung an, die abhängig von Ihrem Anlagebetrag ist (siehe Preis- und Leistungsverzeichnis der Deutsche Bank Privat- und Geschäftskunden AG). Mit unserem Vergütungsmodell stellen wir sicher, dass Sie genau wissen, welche Kosten maximal auf Sie zukommen.
+    Flexibilität: Einlagen und Entnahmen sind jederzeit möglich. Sie können die Anlage damit an Ihre aktuelle Finanzsituation anpassen. Unterschreiten Sie jedoch dauerhaft den Mindestanlagebetrag, kann dies zu einer Beendigung des Vermögensverwaltungsvertrags führen.
+###
+Wie unterscheidet sich ROBIN vom sonstigen Angebot von maxblue?
+
+Während Sie als Anleger mit einem klassischen maxblue Depot Ihre Anlageentscheidungen selbst treffen und frei aus allen am Markt handelbaren Wertpapieren auswählen können, verwaltet bei ROBIN die Deutsche Bank Ihr zur Verfügung gestelltes Kapital und trifft sämtliche Anlageentscheidungen für Sie.
+###
+In welche Wertpapiere wird investiert?
+
+Bei ROBIN, der digitalen Vermögensverwaltung, legen wir Ihr Kapital in ETFs (Exchange Traded Funds) an. ROBIN nutzt ausschließlich ETFs, die in Aktien, Anleihen und Rohstoffe investieren.
+###
+Wie setzt sich mein Portfolio zusammen?
+
+Die Produkte für Ihr Portfolio wählen wir aus einer Vielzahl von ETFs aus, die alle aus unserer Sicht relevanten Märkte abdecken. Daraus treffen unsere Investment-Experten wiederum eine Auswahl von rund 30 ETFs. Je nach Anlagestrategie und Marktsituation befinden sich 7 bis 14 verschiedene ETFs in Ihrem Portfolio. Diese investieren in Aktien, Anleihen und je nach Marktlage auch in Rohstoffe. Als Kunde können Sie jederzeit Ihr Cockpit online einsehen.
+###
+Wie wird die Anlagestrategie bzw. der Risikolevel für mich ermittelt?
+
+Zur Ermittlung der Anlagestrategie fragen wir Ihre persönlichen Daten, finanzielle Situation, Kenntnisse und Erfahrungen im Wertpapierhandel sowie Risikobereitschaft und Anlagehorizont ab. Mit Kenntnis dieser Daten können wir zum einen Ihre Eignung für die digitale Vermögensverwaltung prüfen, zum anderen den maximal möglichen Risikolevel ermitteln. Sie wählen anschließend im Rahmen der Möglichkeiten Ihren Risikolevel aus, der Grundlage für Ihre Anlagestrategie ist.
+###
+Kann ich die Zusammensetzung meines Portfolios eigenständig ändern?
+
+Nein. Die Portfoliozusammensetzung wird von unseren Algorithmen und Portfoliomanagern täglich überwacht und bei Bedarf an neue Marktgegebenheiten angepasst, damit das Gesamtportfolio zu Ihrem vertraglich vereinbarten Risikolevel verwaltet werden kann. Eine Einflussnahme des Kunden auf die Portfoliozusammensetzung ist nicht möglich.
+###
+Wann bzw. wie oft wird mein Portfolio angepasst?
+
+Jedes Kundenportfolio wird börsentäglich überwacht. Bei Bedarf wird eine Portfolioanpassung kurzfristig angestoßen. Die Häufigkeit einer Portfolioanpassung hängt jedoch von Ihrem Risikolevel sowie der Entwicklung der einzelnen Anlageklassen und den Kapitalmarktprognosen für diese Anlageklassen ab. Zusätzliche Portfolioanpassungen können z.B. dann entstehen, wenn Sie als Kunde eine zusätzliche Einzahlung oder eine Entnahme tätigen.
+###
+Wer ist für die Anlageentscheidungen verantwortlich?
+
+Die Deutsche Bank. Wir nutzen eigens entwickelte Algorithmen, die Kundenportfolios börsentäglich auf mögliche Abweichungen zum gewählten Risikolevel überprüfen und Anlageentscheidungen vorschlagen und von unseren Portfoliomanagern zunächst geprüft werden. Die Algorithmen arbeiten einerseits mit Marktdaten und umfangreichen Simulationen, andererseits mit der Kapitalmarkteinschätzung des Teams um den Chief Investment Officer der Deutsche Bank Privat- und Geschäftskunden AG. Die Umsetzung der Anlagestrategien und die danach folgenden Anpassungen des Portfolios sind im Wesentlichen die Konsequenz aus Umschichtungsvorschlägen der Algorithmen und der finalen Freigabe durch unsere Portfoliomanager.
+###
+Gibt es einen Mindestanlagebetrag?
+
+Ja. Der Mindestanlagebetrag für ROBIN beträgt 5.000 EUR.
+###
+Gibt es einen Mindestanlagehorizont für die Vermögensverwaltung?
+
+Ja. Der Mindestanlagehorizont beträgt bei ROBIN zwei Jahre. Die digitale Vermögensverwaltung ist für den mittel- und langfristigen Vermögensaufbau konzipiert und eignet sich nicht als kurzfristige Anlageform.
+###
+Wird mein Kapital vollständig in Wertpapiere investiert?
+
+Nein, es wird immer ein gewisser Teil des Portfolios als Liquidität vorgehalten, um z.B. die Quartalsgebühren ohne vorherigen Wertpapierverkauf abrechnen zu können. Die Liquidität dient jedoch nicht nur der Kostendeckung. Geldreserven in der Vermögensverwaltung dienen auch der Stabilisierung von Schwankungen am Kapitalmarkt. Eine teilweise Nichtinvestition von Barreserven ist damit gewollt und Teil der Anlagestrategie. Grundsätzlich lässt sich sagen: Je defensiver der gewählte Risikolevel, desto höher ist der Liquiditätsanteil. Je offensiver der Risikolevel, desto geringer ist der Liquiditätsanteil.
+###
+Werden Dividenden ausgeschüttet?
+
+Bei unserer Produktauswahl legen wir den Fokus auf thesaurierende (wieder anlegende) ETFs. Wenn wir im Ausnahmefall ausschüttende ETFs einsetzen, werden deren Dividenden im Rahmen der Anlagestrategie für den Kauf weiterer ETFs reinvestiert. Es erfolgt keine automatische Auszahlung von Dividendenzahlungen.
+###
+Wo kann ich eine Wertpapier-Umsatzübersicht erhalten?
+
+Im Menü „Umsätze / Depot“ werden alle Wertpapiertransaktionen mit Stückzahl und Preis aufgeführt. Sie erhalten quartalsweise ein schriftliches Reporting von uns, das Sie umfassend über den jeweiligen Berichtszeitraum informiert.
+
+###

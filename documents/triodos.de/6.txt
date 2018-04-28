@@ -1,0 +1,141 @@
+###
+Gibt es gerätespezifische Einschränkungen für die Installation der MyBankingApp?
+
+Die MyBankingApp ist kompatibel mit dem iPhone, dem iPad und dem iPod touch ab iOS-Version 9 und mit allen Android-Geräten ab Version 4.
+Die Multibankfähigkeit wird für alle genannten Geräte unterstützt.
+
+Folgende Funktionen sind auf einzelnen Betriebssystemen nur eingeschränkt oder nicht verfügbar:
+1. Geld senden und anfordern (nur auf iPhone/iPod und Android verfügbar)
+2. mobile TAN, d.h. der Versand einer TAN per SMS auf das Gerät, auf dem die App installiert ist (nur auf dem iPad verfügbar)
+3. Login mit TouchID (nur auf iPhone/iPod und iPad verfügbar)
+
+
+
+###
+Ich habe mein Login-Passwort vergessen, wie kann ich es zurücksetzen?
+
+Das Startpasswort kann zurückgesetzt werden, indem es 5 mal falsch eingegeben wird.
+Bitte beachten Sie, dass es sich dabei nur um das App-Passwort handelt. Sollten Sie Ihre Online-Banking-Zugangsdaten vergessen haben, wenden Sie sich bitte direkt an Ihre Bank.
+
+
+
+###
+Ich kann meine Bank nicht hinzufügen. An wen kann ich mich wenden?
+
+Es können alle HBCI-Fähigen Bankverbindungen hinzugefügt werden. Sollte es nicht möglich sein, Ihre Bankverbindung hinzuzufügen, nehmen Sie bitte Kontakt mit der Triodos Bank Kundenbetreuung auf. Wir unterstützen Sie gerne bei der Einrichtung und leiten gegebenenfalls Fehler gezielt an den Hersteller weiter.
+
+###
+
+Ist Banking über die App genauso sicher wie Banking am PC?
+
+Unsere App steht dem eBanking in puncto Sicherheit in nichts nach. Die App kommuniziert über eine sichere „https“-Verbindung mit dem Rechenzentrum. Die vorbildliche Sicherheit der MyBankingApp wurde sowohl vom TÜV als auch von SecureNet bescheinigt.
+
+
+
+###
+Ist die MyBankingApp von der Triodos Bank?
+
+Nein, die MyBankingApp wird durch die Fiducia & GAD IT AG bereitgestellt. Ein kleine Gruppe von Privatkbanken verwendet diese App. Dabei handelt es sich ausschließlich um Banken, die das Rechenzentrum der Volks-und Raiffeisenbanken in Deutschland verwenden.
+
+###
+
+Kann ich die Geldautomatensuche ohne GPS-Empfang verwenden?
+
+Ja. Die Geldautomatensuche kann auch ohne GPS-Empfang genutzt werden. Die Standortbestimmung erfolgt dann über die geografische Zuordnung des WLAN-Einwahlknotens. Zudem ist die manuelle Eingabe des Standorts über den Ortsnamen oder die Postleitzahl möglich.
+Bitte beachten Sie, dass derzeit nur Geldautomaten des sogenannten „Cashpool“ dargestellt werden. Mit einem Girokonto der Triodos Bank und der entsprechenden Kreditkarte dazu können Sie jedoch an allen Geldautomaten kostenfrei Bargeld abheben. Weltweit.
+
+###
+
+
+Kann ich die MyBankingApp auch nutzen, wenn ich kein Kunde der Triodos Bank bin?
+
+Nein. Als erstes Konto müssen Sie ein Triodos Konto auswählen und mit der App verknüpfen. Danach können Sie mit der Funktion „Multibankenfähigkeit“ die App auch für weitere Konten nutzen, auch wenn Ihre Bank nicht im Geschäftsgebiet der Fiducia & GAD IT AG ist. Ihr Konto wird dann per HBCI hinzugefügt. Sie können beispielsweise Kontosalden abrufen oder Transaktionen durchführen.
+
+
+
+###
+Kann ich die MyBankingApp auch offline, also ohne Internetverbindung nutzen?
+
+Ja, Sie können die App auch offline nutzen. Bitte beachten Sie jedoch, dass dann nur die Umsätze von der letzten Aktualisierung angezeigt werden.
+
+###
+
+Kann ich die MyBankingApp auch ohne Zugangsdaten testen?
+
+Ja, in der aktuellsten Version für iOS und Android ist die Funktion "Demo-Anwendung" verfügbar, unter dem Sie alle Funktionen testen können.
+
+
+###
+
+Warum bietet die App die Funktion nicht, die ich dringend bräuchte?
+
+Wir freuen uns über jede Anregung zur Verbesserung und Weiterentwicklung unserer App. Bitte nehmen Sie sich die Zeit und schreiben Sie diese in das Kontaktformular. Dies wird dann direkt an die entsprechende Stelle adressiert und kann von uns bewertet und in ein Update mit aufgenommen werden.
+
+
+###
+
+Warum kann ich mich nach einer Übertragung der Daten von meinem alten iPhone auf mein neues iPhone nicht mehr anmelden?
+
+Bei Erstellung des Backups auf Ihrem alten Gerät müssen Sie das Häkchen "Lokales Backup verschlüsseln" aktivieren. Das Passwort wird sonst aufgrund einer Sicherheitsrichtlinie von Apple nicht mit übertragen und verhindert so die Anmeldung.
+
+
+###
+
+Welche Berechtigungen benötigt die MyBankingApp auf Android-Geräten?
+
+Die MyBankingApp beinhaltet einen Geldautomatenfinder. Um hiermit schnell Ziele in der direkten Nähe zu finden, benötigt die App den aktuellen Standort des Gerätes.
+Kamera/Mikrofon
+Die Berechtigung "Bilder und Videos aufnehmen" wird für die Funktionen Scan2Bank, GiroCode und Geldbote benötigt. Hierbei wird mithilfe der Smartphone- oder Tablet-Kamera ein Dokument oder ein zweidimensionaler Code abgescannt, mithilfe dessen eine vorausgefüllte Überweisungsmaske bereitgestellt werden kann.
+Sonstige
+1. Für das Abrufen der Kontoinformationen und -umsätze wird der Zugriff auf Netzwerkverbindungen benötigt.
+2. Mithilfe der Smartphone-Vibration kann dem Nutzer ein physisches Feedback beispielsweise bei der Erkennung eines GiroCodes geliefert werden.
+3. Da die MyBankingApp im Geldautomatenfinder Google Maps zur Kartendarstellung einbindet, werden die Google-Servicekonfigurationen ausgelesen.
+
+###
+Welche Voraussetzungen sind nötig, um die MyBankingApp nutzen zu können?
+
+Um die App nutzen zu können, benötigen Sie ein Konto bei der Triodos Bank sowie einen Triodos Zugang für unser Online Banking. Falls Sie sich nicht mit Ihrem Konto anmelden können, melden Sie sich bitte bei uns. Derzeit unterstützt die MyBankingApp das Betriebssystem Android ab Version 4.1. iOS (iPhone und iPad) wird ab Version 9 unterstützt.
+
+###
+
+Welches Risiko besteht, wenn ich mein Smartphone oder Tablet-PC verliere?
+
+Für den Zugang zum Banking wird das Masterpasswort benötigt oder der Triodos Zugang/Alias und die PIN. Masterpasswort und PIN werden nicht gespeichert und können daher bei Verlust des Smartphones nicht entwendet werden. Achten Sie dennoch darauf, ein Masterpasswort mit einer hohen Sicherheitsstufe anzulegen. Hierbei helfen Ihnen die Tipps in den Sicherheitshinweisen der App bei Anlage des Masterpassworts. Wird das Masterpasswort 5 mal falsch eingegeben, wird die Anwendung zurückgesetzt.
+
+
+
+###
+Wer ist die Fiducia & GAD IT AG?
+
+Die Fiducia & GAD IT AG ist der Dienstleister für Informationstechnologie innerhalb der genossenschaftlichen Finanzgruppe in Deutschland. Das Unternehmen mit Verwaltungssitz in Karlsruhe und Münster sowie Niederlassungen in München, Frankfurt und Berlin beschäftigt in der Unternehmensgruppe gegenwärtig fast 5.700 Mitarbeiter, die gemeinsam einen jährlichen Konzernumsatz von rund 1,3 Milliarden Euro erwirtschaften.
+Zum Kundenkreis der Fiducia & GAD zählen alle 1.000 Volksbanken und Raiffeisenbanken in Deutschland, die Unternehmen der genossenschaftlichen Finanzgruppe sowie zahlreiche Privatbanken und Unternehmen anderer Branchen. Die Fiducia & GAD betreut mehr als 167.000 Bankarbeitsplätze, verwaltet knapp 79 Millionen Kundenkonten und stellt mit bundesweit gut 36.000 eigenen Selbstbedienungsgeräten flächendeckend eine reibungslose Bargeldversorgung sicher.
+
+
+###
+
+Wie funktioniert die Anmeldung via Touch-ID?
+
+Die Anmeldung an der MyBankingApp lässt sich mit Hilfe des Touch ID-Fingerabdruckscanners durchführen. Die Funktion ist verfügbar für Nutzer, die mindestens ein iPhone 5s, iPad Air 2, iPad Mini  2  besitzen und muss gesondert aktiviert werden.
+Entscheiden Sie sich für den Einsatz des Touch ID-Verfahrens, geben Sie ihr Passwort einmalig ein und können die MyBankingApp fortan mit Ihrem Fingerabdruck entsperren.. Die Autorisierung von Transaktionen bestätigen Sie natürlich weiterhin mit einer TAN.
+
+
+
+
+###
+Wieso kann ich mobileTAN beim Banking über die MyBankingApp auf meinem Smartphone nicht nutzen?
+
+Das besondere Sicherheitsmerkmal des mobileTAN-Sicherheitsverfahren besteht darin, dass Transaktionsnummern (TAN) über einen zweiten Kanal, das Handy oder Smartphone, bereitgestellt werden. Dies wäre im Falle Ihrer App aktuell nicht gewährleistet. So entstünde eine vermeidbare Sicherheitslücke. Für Transaktionen auf der App stehen Ihnen die sicheren Verfahren Sm@rt-TAN Plus sowie die TAN-Verwaltung über eine weitere App („SecureGo“) zur Verfügung. Beim Banking über die App auf Ihrem iPad können Sie mobileTAN nutzen, da dort die Kanaltrennung gegeben ist.
+Hinweis: Wenn Sie derzeit das mobileTAN-Verfahren nutzen, stellen Sie bitte zunächst ihr TAN-Verfahren um und richten Sie sich danach erst die MyBankingApp ein.
+
+
+###
+Wird meine Kreditkarte unterstützt?
+
+Ob Ihre Kreditkarte unterstützt wird, ist davon abhängig, ob die Konten HBCI unterstützen. Falls es nicht klappt, das Kreditkartenkonto hinzuzufügen, fragen Sie bitte bei Ihrer Bank nach, ob HBCI unterstützt wird. Die Kreditkarten der Triodos Bank werden in jedem Fall unterstützt.
+
+###
+
+Wo kann ich neue Bankverbindungen hinzufügen?
+
+Sie können neue Bankverbindungen in den Einstellungen hinzufügen. Öffnen Sie im Menü den Punkt "Einstellungen". Wählen Sie "Bankverbindung hinzufügen". Ein Assistent führt Sie durch die Funktion.
+###

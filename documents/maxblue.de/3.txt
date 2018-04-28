@@ -1,0 +1,52 @@
+###
+Wann wird die Vergütung in Rechnung gestellt?
+
+Wir stellen die Vergütung nach dem Quartalsende in Rechnung. Die Belastung dieser Gebühren erfolgt zu Beginn des folgenden Quartals und wird im Reporting ausgewiesen. Einmal jährlich erhalten Sie eine komplette Gebührenaufstellung.
+###
+Werden Gebühren berechnet, wenn ich ROBIN kündige?
+
+Nein, bei einer Kündigung entstehen für Sie keine zusätzlichen Kosten. Wir rechnen lediglich die bis zu diesem Zeitpunkt anteilig angefallene Vergütung für Ihre Vermögensverwaltung ab.
+###
+
+Was ist ein Referenzkonto?
+
+Zum Schutz aller Kunden haben wir bei ROBIN, einem voll digitalen Produkt, ein sogenanntes Referenzkonto im System hinterlegt. Das Referenzkonto ist ein Konto, welches jeder Kunde bei Vertragsabschluss selbst festlegt. Dabei handelt es sich um das Konto, über das alle Auszahlungen aus ROBIN abgewickelt werden sollen. In der Regel handelt es sich um ein anderes Girokonto, das ebenfalls bei der Deutschen Bank aber auch bei jedem anderen deutschen Bankinstitut geführt werden kann. Das Referenzkonto dient Ihrer Sicherheit: Bei einer Entnahme aus ROBIN soll sichergestellt sein, dass nur Sie den Auszahlungsbetrag erhalten. Selbstverständlich können Sie als ROBIN-Kunde das Referenzkonto während der Laufzeit ändern. Eine Änderung Ihres Referenzkontos müssen Sie zu Ihrer eigenen Sicherheit mit der TAN im Online Banking bestätigen.
+###
+
+Zu welchem Zeitpunkt wird meine Einlage angelegt?
+
+Der Wertpapierkauf erfolgt zeitnah nach dem Eingang Ihres Kapitals auf dem Verrechnungskonto.
+###
+
+Was muss ich bei einer Entnahme beachten?
+
+Jede Entnahme führt zu einem Verkauf von Wertpapieren. Wertpapierverkäufe finden grundsätzlich am nächsten Börsentag nach Auftragseingang statt. Nach der Gutschrift der Verkaufserlöse zu allen von der Auszahlung betroffenen Wertpapieren wird der gewünschte Auszahlungsbetrag automatisch auf Ihr Referenzkonto überwiesen.
+###
+
+Wie ändere ich meine Anschrift oder mein Referenzkonto?
+
+Wählen Sie im Menü „Verwaltung“ den Unterpunkt „Services“, um Ihre Anschrift oder Ihr Referenzkonto zu ändern.
+###
+Mein Anlagehorizont hat sich geändert. Welche Folgen hat das für meine Anlagestrategie?
+
+Bei ROBIN haben Sie die Möglichkeit, Ihre persönlichen Daten und ihre Anlagewünsche jederzeit anzupassen. Ein entsprechendes Formular erhalten Sie bei unserem Kundenservice unter Tel. 069/910-10002 oder per E-Mail an info.maxblue@db.com. Beachten Sie bitte, dass bei größeren Anpassungen eine Anpassung der Anlagestrategie erforderlich werden kann. In diesem Fall müsste eine Vertragsanpassung noch einmal separat von Ihnen bestätigt werden.
+###
+Kann ich meine Anlagestrategie anpassen?
+
+Grundsätzlich ja, Veränderungen der Anlagestrategie können Sie jederzeit vornehmen. Auf Basis Ihrer neuen Daten überprüfen wir, welche Anlagestrategie für Sie in Frage kommt und unterbreiten Ihnen ggfs. ein entsprechendes Angebot. Sollten die von Ihnen angegebenen Eckdaten eine Fortführung der digitalen Vermögensverwaltung nicht erlauben, können wir Ihnen leider kein Angebot unterbreiten. Das Formular für alle Arten von Vertragsanpassungen erhalten Sie bei unserem Kundenservice unter Tel. 069/910-10002 oder per E-Mail an info.maxblue@db.com.
+###
+Welche Berichte gibt es zu meinem Vertrag und wo finde ich sie?
+
+Für die digitale Vermögensverwaltung wird quartalsweise ein Bericht (Reporting) erstellt, den Sie in Ihrer elektronischen Postbox ansehen und downloaden können. Der Inhalt dieses Quartalsberichts beinhaltet verschiedene Informationen zur Wertentwicklung, listet alle Wertpapiertransaktionen im Berichtszeitraum auf und nennt Ihnen die konkrete Portfoliozusammensetzung zum Berichtsende. Zusätzlich können Sie alle wesentlichen Informationen auch dem Cockpit (der digitalen Steuerzentrale für ROBIN) rund um die Uhr einsehen.
+###
+Wie kann ich meinen Vertrag kündigen und was ist dabei zu beachten?
+
+Eine Vertragskündigung können Sie jederzeit im Menü „Verwaltung / Strategie und Gebühren“ anstoßen. Bitte beachten Sie dort die Optionen „Kündigung mit Wertpapierverkauf“ sowie „Kündigung mit Depotübertrag“. Die jeweiligen Formulare erhalten Sie nach der TAN-Bestätigung oder hier als PDF-Download:
+
+    ROBIN – Auftrag zum Komplettverkauf der Wertpapiere
+    ROBIN – Auftrag zum Wertpapierübertrag
+    ROBIN – Wertpapierüberträge: Ehegattenübertrag und Schenkung
+
+Bitte senden Sie das ausgefüllte und unterschriebene Formular an uns zurück. Im Anschluss an die Kündigung des Vermögensverwaltungsvertrags werden eventuell ausstehende Restgebühren von Ihrem Verrechnungskonto abgebucht. Nach dem Verkauf der Wertpapiere überweisen wir Ihr Guthaben auf das Referenzkonto. Bei einem Wertpapierübertrag werden die Wertpapiere auf das von Ihnen angegeben Depot übertragen, die verbleibenden Bruchstücke verkauft und der Gegenwert auf Ihr Referenzkonto überwiesen. Sie bekommen ein Bestätigungsschreiben sowie ein Abschlussreporting per Post und digital im Postfach Ihres Online-Banking.
+
+###

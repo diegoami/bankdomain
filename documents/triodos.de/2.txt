@@ -1,0 +1,145 @@
+###
+
+Mit welchen Sicherheitsstandards arbeitet die Triodos Bank Deutschland?
+
+Zusätzlich zur Absicherung durch das PIN/Mobile TAN-Verfahren setzen wir bei der Datenübertragung im Online Banking das SSL-Verfahren (Secure Socket Layer) ein. Dabei werden die Daten verschlüsselt gesendet. Ein Sicherheitszertifikat stellt sicher, dass Sie auch mit dem richtigen Gegenüber verbunden sind. Sie erkennen die Verwendung von SSL daran, dass die Adresse einer Internetseite mit „https://" statt mit „http://" beginnt. Außerdem wird in der Fußzeile des Browsers ein Schloss angezeigt.
+###
+
+Was muss ich beachten, wenn ich an einem öffentlichen Computer Online Banking nutze?
+
+Generell ist aufgrund der erhöhten Risiken Online Banking an öffentlichen Computern nicht zu empfehlen. Sollten Sie es dennoch nutzen wollen, vergessen Sie bitte in keinem Fall das Ausloggen und schließen Sie sicherheitshalber auch das Browserfenster.
+
+
+###
+Welche Sicherheitseinstellungen braucht mein PC?
+
+Beim Zugang über Wireless LAN empfehlen wir eine Verschlüsselung (WPA-Verschlüsselung). Genaue Informationen erhalten Sie von Ihrem Internet-Provider.
+Achten Sie bitte zudem darauf, dass Ihr Computer mit einer aktuellen Antivirensoftware ausgestattet ist.
+
+###
+
+Welche Systemvoraussetzungen muss mein PC für das Online-Banking erfüllen?
+
+Zusätzlich zu den Voraussetzungen zum Internetzugang (PC, Modem oder ISDN-Karte und Provider-Zugang) benötigen Sie einen www-Browser (Software, um Internetseiten darzustellen), der sowohl Java Script als auch das Sicherungsprotokoll SSL mit 128-Bit-Verschlüsselung unterstützt.
+
+Die Browser sind von den jeweiligen Herstellern für unterschiedliche Betriebssysteme erhältlich.
+
+Ab den folgenden Browser-Versionen kann die Online-Anwendung genutzt werden:
+
+- Netscape ab 7.1
+- Internet Explorer ab 6.0
+- Firefox ab 1.01
+
+###
+Wie kann ich mein Konto im Notfall sperren und wieder entsperren lassen?
+
+Wenden Sie sich telefonisch an die Triodos Bank Kundenbetreuung mit der Telefonnummer 069 7171 9191.
+
+Individuelle Betreuung und Kontoeröffnung:
+Mo – Fr: 08:30 – 18:30 Uhr
+
+
+Telefon-Banking, Sperre Zugangsdaten, Entgegennahme von Rückrufwünschen:
+Mo – Fr: 08:30 – 22:00 Uhr
+Sa – So: 10:00 – 22:00 Uhr
+
+
+Sperrservice Online Banking und Karten:
+Mo – So: 24 Stunden
+
+
+###
+Wird eine bestimmte Bildschirmauflösung benötigt?
+
+Die Online-Anwendung läuft optimal mit der Auflösung 1280 x 1024.
+Sie können die Online-Anwendung aber auch mit einer niedrigeren Auflösung benutzen. Dies ist aber nicht zu empfehlen, da Sie in diesem Fall scrollen müssen, um den gesamten Bildschirminhalt angezeigt zu bekommen.
+
+
+###
+Bieten Sie auch mobileTAN an? Kann ich dies bei Kontoeröffnung direkt mit beantragen?
+
+Die Triodos Bank bietet ausschließlich das Mobile-TAN-Verfahren an. In der Vereinbarung zum Online-Banking können Sie Ihre Mobilfunknummer hinterlegen, um das Mobile-TAN-Verfahren zu nutzen.
+
+
+
+###
+Sperren Sie mein Konto, wenn ich den falschen Triodos Zugang eingebe?
+
+Nein, Ihr Konto wird dabei nicht gesperrt. Die falsche Eingabe des Triodos Zugangs hat somit keine Folgen.
+
+###
+Was ist der Triodos Zugang?
+
+Der Triodos Zugang ist Ihre persönliche Zugangskennung für das Online Banking. Es besteht zu dem die Möglichkeit, dass Sie einen Alias vergeben, wenn Sie möchten.
+
+
+
+###
+Was muss ich beachten, wenn ich meine PIN ändere?
+
+Sie werden bei der ersten Anmeldung im Online- bzw. Telefon-Banking dazu aufgefordert, Ihre PIN zu ändern.
+
+Sie können jede beliebige 5-stellige Zahlen-/Buchstabenkombination verwenden, sollten jedoch beachten, dass die Verwendung einer alphanumerischen Kombination (das heißt, einer Kombination aus Buchstaben und Zahlen) aus technischen Gründen die Teilnahme am Telefon-Banking verhindert. Daher raten wir, eine reine Zahlenkombination zu wählen, wenn Sie das Telefon-Banking nutzen möchten. Vermeiden Sie persönliche Daten wie zum Beispiel Geburtstage.
+
+
+###
+
+Was passiert, wenn ich meinen Triodos Zugang vergesse?
+
+Wir senden Ihnen Ihren Triodos Zugang gern erneut per Post zu. Ein Anruf, Brief oder eine E-Mail ist hier ausreichend.
+
+
+###
+
+Was passiert, wenn meine PIN gesperrt ist?
+
+Wenn die PIN gesperrt ist, ist kein Zugang zum Online- und Telefon-Banking möglich. Unter bestimmten Bedingungen haben Sie jedoch die Möglichkeit, falls Sie sich an die richtige PIN erinnern, den Zugang wieder freizuschalten.
+
+###
+
+
+Welche Zugangsdaten bekomme ich von Ihnen?
+
+Sie erhalten Ihren Triodos Zugang, die PIN und den Freischaltcode für das Mobile-TAN-Verfahren jeweils mit separater Post zugesandt.
+
+
+###
+
+Wie lautet die Bankleitzahl (BLZ) der Triodos Bank?
+
+Die BLZ der Triodos Bank lautet: 50031000
+###
+
+
+Wie lautet die BIC der Triodos Bank?
+
+Die BIC der Triodos Bank lautet: TRODDEF1
+
+###
+Wie teile ich meine neue Mobilrufnummer mit?
+
+Sie können uns Ihre neue Mobilrufnummer auf drei Wegen zukommen lassen:
+
+    Online-Banking: Sie können uns per "Mitteilung an die Bank" eine Nachricht zukommen lassen. Diese Funktion finden Sie unter dem Menüpunkt "Verwaltung".
+    WICHTIG : Bitte beachten Sie, dass Sie diese Mitteilung mit einer TAN legitimieren müssen. Sollten Sie das mobile TAN-Verfahren nutzen und es sich um die Nummer Ihres für dieses Verfahren genutzten Mobiltelefons handeln, stellen Sie bitte sicher, dass Sie unter der ursprünglich hinterlegten Mobilrufnummer die mobile TAN per SMS erhalten können. Sollte das nicht mehr möglich sein, so können Sie die unter 2. und 3. genannten Wege nutzen.
+    Telefon-Banking: Sie können uns auch per Telefon-Banking beauftragen, die bei uns hinterlegte Mobilrufnummer zu ändern. Ihre PIN für die Anmeldung zum Telefon-Banking ist identisch mit Ihrer Online-Banking PIN. Damit Sie sie über das Telefon eingeben können, darf sie nur aus Zahlen bestehen. Sollte Ihre PIN nicht nur aus Zahlen bestehen, so können Sie uns Ihren Änderungswunsch auf dem unter 3. beschriebenen Weg mitteillen. Das Telefon-Banking erreichen Sie Mo. - Fr. zwischen 8.30 und 22.00 Uhr sowie Sa. und So. zwischen 10.00 und 22.00 Uhr unter 069 7171 9191.
+    Postalisch: Natürlich können Sie uns den Auftrag zur Änderung Ihrer Mobilrufnummer auch per Brief mit Ihrer eigenhändigen Unterschrift erteilen. Schreiben Sie dazu einfach an:
+    Triodos Bank N.V. Deutschland
+    Kundenbetreuung
+    Mainzer Landstraße 211
+    60326 Frankfurt
+
+
+###
+Wird mein Konto nach falscher Eingabe der PIN gesperrt?
+
+Nach dreimaliger Eingabe einer falschen PIN wird Ihr Triodos Zugang gesperrt. Sie haben jedoch, falls Sie sich an die richtige PIN erinnern, die Möglichkeit, den Zugang wieder freizuschalten.
+
+
+###
+
+Woher bekomme ich den Triodos Zugang?
+
+Der Triodos Zugang geht Ihnen nach der Kontoeröffnung auf dem Postweg zu.
+
+###

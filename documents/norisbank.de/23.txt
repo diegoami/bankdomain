@@ -1,0 +1,33 @@
+###
+Was ist SEPA und wie funktioniert eine SEPA-Überweisung?
+
+Zum Thema SEPA haben wir Ihnen alle wichtigen Informationen sehr anschaulich zusammengestellt. Bitte informieren Sie sich auf unserer Website.
+###
+Welche Länder gehören zum SEPA Zahlungsverkehrsraum?
+
+Zum SEPA Zahlungsverkehrsraum gehören die 28 EU-Mitgliedsstaaten sowie Island, Liechtenstein, Monaco, Norwegen, San Marino und die Schweiz.
+###
+Wo finde ich meine IBAN und den BIC?
+
+Sie finden Ihre IBAN und den BIC in Ihrem Online-Banking im Menüpunkt "IBAN und BIC anzeigen", auf Ihrem Kontoauszug, auf Ihrer Maestro-Card bzw. auf Ihrer Sparcard.
+
+Der BIC richtet sich nach Ihrer dreistelligen Filialnummer bzw. der bisherigen Bankleitzahl:
+
+
+    Filialnummer 430 / BLZ: 760 260 00 / BIC: NORS DE 71 XXX
+    Filialnummer 431 / BLZ: 100 777 77 / BIC: NORS DE 51 XXX
+###
+Wieso kann ich keine Überweisungen mit Kontonummer/Bankleitzahl beauftragen?
+
+Ab/Seit 1. Februar 2016 können Sie Zahlungsaufträge nur noch mit Ihrer internationalen Kontonummer - der IBAN - erteilen. Eine Umrechnung der Empfänger-Kontonummer und -Bankleitzahl in die IBAN wird ab/seit dem 31. Januar 2016 nicht mehr angeboten.
+###
+Was sind und wie funktionieren SEPA-Lastschriftmandate?
+
+Seit Januar 2014 ist die Einzugsermächtigung durch das SEPA-Lastschriftmandat ersetzt worden. Dieses gibt es für einmalige und für wiederkehrende Zahlungen.
+
+Stimmen Sie einem Lastschriftmandat zu, teilt Ihnen der Zahlungsempfänger eine Gläubiger-Identifikationsnummer und eine Mandatsreferenz mit. Bitte unterzeichnen Sie als Privatkunde kein Mandat, bei dem die Erstattung des belasteten Betrags (Widerspruchsrecht) ausgeschlossen ist. Diese Mandatsform ist für Privatkunden nicht zulässig.
+
+In Ihrem Online-Banking können Sie einer Lastschrift innerhalb von acht Wochen widersprechen und das eingezogene Geld auf Ihr Konto zurückbuchen lassen.
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unser Telefon-Banking unter 030 – 310 66 005. Oder Sie senden einen Brief an „norisbank GmbH, 10910 Berlin“.
+###

@@ -1,0 +1,60 @@
+###
+Wie kann ich die App nutzen, wenn ich noch nicht für MasterCard SecureCode registriert bin?
+
+1. Laden Sie sich die VR-SecureCARD App über den iTunes Store bzw. Google Play Store herunter.
+
+2. Legen Sie beim ersten Start der App Ihr persönliches Kennwort fest. Damit haben nur Sie Zugriff auf die VR-SecureCARD App.
+
+3. Registrieren Sie sich nun über unsere Internetseite für das MasterCard SecureCode Verfahren.
+
+    Jetzt registrieren!
+    4. Geben Sie im Registrierbereich Ihre Kartennummer ein und bestätigen Sie diesen Vorgang mit einer TAN. Anstelle Ihrer Mobilfunknummer geben Sie nun die erzeugte virtuelle Handynummer der VR-SecureCARD App ein. Somit erhalten Sie zukünftig beim Online-Shopping ihre TAN dierekt in die App.
+###
+
+Wie kann ich das MasterCard Secure Code Verfahren von SMS auf die App umstellen?
+
+1. Klicken Sie auf folgenden Link
+
+    Jetzt umstellen!
+
+
+
+2. Geben Sie Ihre Kartennummer ein und bestätigen Sie diesen Vorgang mit einer TAN
+
+3. Laden Sie sich die VR-SecureCARD App aus dem iTunes Store bzw. Google Play Store
+
+4. Vergeben Sie sich Ihr persönliches Kennwort in der App
+
+5. Geben Sie nun die erzeugte virtuelle Handynummer der VR-SecureCARD App in die Verwaltungsmaske ein
+
+6. Bei Online-Einkäufen wird Ihnen in Zukunft die TAN in der App bereitgestellt
+
+
+###
+
+Welche Informationen erhalte ich per SMS oder in der App?
+
+Die Nachricht enthält den Händlernamen, Währung und Betrag der Transaktion und die für diese Daten berechnete E-Commerce-TAN.
+
+Nur wenn die Daten aus der Nachricht denen der Transaktion entsprechen, die Sie freigeben möchten, geben Sie die E-Commerce-TAN während des Kaufvorgangs ein.
+###
+
+Was ist die "virtuelle Handynummer"?
+
+Bei Nutzung der VR-SecureCARD App ist die virtuelle Handynummer Ihre persönliche Kennung - vergleichbar mit Ihrer Mobilfunknummer für die Zustellung einer SMS.
+###
+
+Ich habe mein Smartphone/Tablet gewechselt. Was muss ich bezüglich der VR-SecureCARD App beachten?
+
+Ihre bisherige virtuelle Handynummer wechselt mit Ihnen. Installieren Sie die VR-SecureCARD App auf Ihrem neuen Gerät, aber wählen Sie beim ersten Start "Vorhandene virt. Handynummer übernehmen". Erzeugen Sie nun auf Ihrem alten Gerät in der VR-SecureCARD App einen Migrationscode unter "Einstellungen/Rufnummernmigration".
+
+Nach Eingabe des angezeigten, 60 Minuten gültigen Sicherheitscodes auf Ihrem neuen Gerät in der VR-SecureCARD App wird Ihre virtuelle Handynummer übertragen und die App auf dem alten Gerät zurückgesetzt.
+###
+
+Ich habe die App gelöscht, mein Smartphone wurde gestohlen oder ich habe mein Kennwort vergessen. Wie gehe ich vor?
+
+In diesen Fall ist ein Zugang zur App nicht mehr möglich. Eine vollständig neue Registrierung und App-Installation ist erforderlich!
+
+Über den Button "Registrierung/Login" gelangen Sie in Ihre Benutzerverwaltung und können problemlos einen neuen Aktivierungscode beantragen. Ist dieser per Post eingetroffen, starten Sie nochmals über den Login-Button den Registrierungsprozess und geben den Aktivierungscode ein. Sie können sich erneut für das „App-Verfahren“ oder „SMS-Verfahren“ entscheiden. Informationen zu den Maskenschritten beider Verfahren finden Sie in der Schritt-für-Schritt Anleitung.
+
+###

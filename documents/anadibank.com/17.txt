@@ -1,0 +1,173 @@
+###
+Was ist das Office-Banking?
+
+Das Office-Banking ist die multibankfähige (MBS) Software für Unternehmen der Anadi Bank. Mit der Office-Banking-Software wickeln Sie Ihren gesamten Zahlungsverkehr effizient ab.
+###
+Was bedeutet Multi Bank Standard - MBS?
+
+Der Multi Bank Standard (kurz MBS) ist ein österreichischer Bankenstandard, der den Zugriff auf Konten und den Zahlungsverkehr aller MBS-Teilnehmerbanken ermöglicht. Sie verwalten somit alle Konten und den gesamten Zahlungsverkehr Ihres Unternehmens mit nur einem Software-Paket.
+###
+Wem empfehlen wir die Verwendung des Office-Bankings?
+
+Das Office-Banking ist das ideale Produkt für Unternehmer und Kunden wie Bund, Länder, Städte, Gemeinden sowie öffentliche Körperschaften, Energieversorgungsunternehmen, Wohnbaugenossenschaften sowie klein- und mittelständische Unternehmen.
+###
+Welche Vorteile bietet das Office-Banking?
+
+    Bereitstellung der Software durch die Anadi-Bank (= Erstbank)
+    Einzel-/Mehrplatzfähig
+    Für Windows, Mac & Linux verfügbar
+    Installation in einem bestehenden Firmennetzwerk möglich
+    Beliebig viele Benutzer mit unterschiedlichen Berechtigungen
+    einfach und bequem zu bedienen
+    direkter Zugriff auf Ihre Konten, unabhängig von Banköffnungszeiten
+    einfache Auftragserstellung durch Vorlagen & Empfängerverwaltung
+    Schnittstelle von und zu Ihrer Finanzbuchhaltung
+###
+Wie kann größtmögliche Sicherheit beim Office-Banking gewährleistet werden?
+
+    Der Zugang ins Office-Banking ist durch Benutzer & Passwort geschützt.
+    Jeder Benutzer kann mit eigenen Berechtigungen ausgestattet werden.
+    Die Zeichnung von Aufträgen erfolgt mit mobileTAN, cardTAN oder digitaler Signatur.
+    Die Kommunikation zur Datenbank und zum Bankrechner erfolgt verschlüsselt.
+###
+Was benötige ich um das Office-Banking zu nutzen?
+
+    mindestens ein Girokonto bei der Anadi Bank
+    Vereinbarung über die Teilnahme am Office-Banking
+    PC oder Laptop
+    Office-Banking-Software
+###
+Wie wird das Office-Banking installiert?
+
+Das Office-Banking wird über einen Link heruntergeladen. Dabei muss zwischen Einzel- und Mehrplatzinstallation unterschieden werden.
+
+Wenn Sie Fragen bei der Installation vom Office-Banking haben, kontaktieren Sie das Online-Support-Team unter der Telefonnummer: +43 (0)50502 2525 von Montag bis Freitag von 07:30 bis 16:30 Uhr.
+###
+Was befindet sich in der Finanzübersicht?
+
+Die Finanzübersicht bietet einen Überblick über sämtliche in der Applikation angelegten Produkte (Konten, Depots, etc.), die für Sie freigeschalten sind. Pro Benutzer ist die Finanzübersicht individuell gestaltbar.
+
+Die Anzeige der Produkte erfolgt in Kategorien, z.B. Girokonten, Sparprodukte, Wertpapierdepots, usw. In jeder Kategorie wird über die enthaltenen Produkte eine Saldosumme gebildet und angezeigt. Zusätzliche wird eine Gesamtsumme über alle in der Finanzübersicht angezeigten Produkte und Kategorien gebildet.
+
+Es können eigene Kategorien und Filter gesetzt werden und die Finanzübersicht noch zusätzlich auf individuelle Bedürfnisse angepasst werden.
+###
+Mein Benutzerpasswort ist gesperrt. Was ist zu tun?
+
+Die Freischaltung Ihres Benutzers erfolgt ausschließlich durch das Online-Support-Team.
+
+Die Mitarbeiter vom Online-Support-Team stehen Ihnen unter der Telefonnummer: +43 (0)50502 2525 von Montag bis Freitag von 07:30 bis 16:30 Uhr zur Verfügung.
+###
+Wie werden die Berechtigungen der einzelnen Verfüger am jeweiligen Konto freigeschalten?
+
+Die Berechtigungen der einzelnen Verfüger richten sich nach den Berechtigungen auf den einzelnen Konten und werden bei Abschluss des Office-Banking Vertrages vom Online-Support-Team freigeschalten. Dies betrifft: z.B. Ansicht des Kontos, Überweisungsberechtigung, Zeichnungsverfahren, etc.
+
+Die Mitarbeiter vom Online-Support-Team stehen Ihnen unter der Telefonnummer: +43 (0)50502 2525 von Montag bis Freitag von 07:30 bis 16:30 Uhr zur Verfügung.
+###
+Wie können Umsatzlisten gedruckt werden?
+
+    Wählen Sie in der Finanzübersicht Ihr gewünschtes Konto aus.
+    Sie können den Umsatzdruck von jeder Kontobewegung drucken. Die Umsatzübersicht wird in Tabellenform dargestellt. Aktuelle Umsätze werden immer an oberster Position angezeigt.
+    Bei Sammelüberweisungen haben Sie die Möglichkeit einen Sammeldruck oder einzelne Überweisungen zu drucken.
+###
+Wo finde ich meine Kontoauszüge im Office-Banking?
+
+Die Kontoauszüge werden in Ihrer lokalen Office-Banking Datenbank abgespeichert. Sie haben mehrere Möglichkeiten diese abzurufen.
+
+Unter dem Punkt „Infos und Nachrichten“ signalisiert Ihnen das Office-Banking, wenn Sie einen neuen Kontoauszug erhalten haben. Sie können diesen sofort mittels Klick auf das Kontoauszugs-Symbol öffnen, ausdrucken und/oder exportieren. Zusätzlich ordnet Ihr Office-Banking den Kontoauszug automatisch dem Buchungszeitraum zu, den der Kontoauszug betrifft. Das gibt Ihnen die Möglichkeit auf ein beliebiges Buchungsdatum mit der rechten Maustaste zu klicken und sich den Kontoauszug anzeigen zu lassen. Auch hier ist ein Druck oder Export möglich.
+
+Ebenfalls ist ein automatischer Export der Kontoauszüge in einem auf Ihrem PC/Laptop/Server definierten Ordner möglich.
+###
+Ich möchte mehrere Kontoauszüge bzw. Daten auf einmal exportieren, wie funktioniert das?
+
+Im Benutzerbereich klicken Sie auf „Datei“ / „Exportieren“.
+
+Folgende Exportverfahren stehen Ihnen zur Auswahl:
+
+    Auszugsdaten Export
+    Kontoauszug Export
+    Umsatz Export
+    Export Retourdatenträger
+    Auftrag Export
+###
+Was wird im Journal angezeigt?
+
+Im Journal werden alle in der Applikation von einem Benutzer bzw. einem Verfüger ausgeführten Aktionen protokolliert. Sie finden das Datum und die Uhrzeit des letzten Logins, die durchgeführten Aufträge sowie die Fehlermeldungen. Durch die detaillierte Darstellung im Journal können die Probleme im Office-Banking schneller behoben werden.
+###
+Wie spielt man ein neues Update ein?
+
+Sie werden automatisch auf ein neues Update hingewiesen. In der Benutzerfläche unter dem Punkt „Hilfe“/„Versionsinfo“ haben Sie die Möglichkeit ein neues Update manuell herunterzuladen.
+
+Bitte beachten Sie, das Update erfordert mehr Berechtigungen auf Ihrem PC/Laptop/Server und ist somit im Normalfall vom Administrator vorzunehmen.
+###
+Wo ist der Administrationsbereich und was kann ich einstellen?
+
+Der Administrationsbereich befindet sich unter „Datei“ und „In den Administratorbereich wechseln“. Im Administrationsbereich werden die Basisdaten von Benutzer, Verfüger und Produkten verwaltet und die Berechtigungen eingestellt. In der Navigation werden die in der Applikation angelegten Benutzer, Verfüger und Produkte in Baumstruktur angezeigt. Sie können somit aus jedem Gesichtspunkt Berechtigungen vergeben und Verknüpfungen vornehmen.
+
+Bitte beachten Sie, dass Ihnen der Administrationsbereich nur bei vergebener Benutzerberechtigung zur Verfügung steht.
+###
+Was versteht man unter Verfüger, Benutzer und Produkte?
+
+    Verfüger: Ist der Kontoinhaber. Für jeden Kontoinhaber wird ein Verfüger erstellt und ins Office-Banking eingebunden. Der Verfüger ist notwendig um Kontodaten zu aktualisieren und Aufträge zu zeichnen.
+    Benutzer: Ist jeder der mit dem Office-Banking arbeiten kann. Jeder Benutzer kann dabei unterschiedliche Berechtigungen besitzen und mit beliebig vielen Verfügern verknüpft sein.
+    Produkte: Darunter versteht man Konten, die im Office-Banking eingebunden sind und mit beliebig vielen Verfügern und Benutzern zusammenhängen.
+###
+Kann ich meine Daten im Office-Banking auch sichern?
+
+Damit die Datenbank nicht verloren geht, kann in der Benutzerfläche unter dem Punkt „Extras“ / „Datenbank sichern“ klicken. Hierbei haben Sie auch die Möglichkeit eine automatische Sicherung in einem definierbaren Intervall einzustellen.
+###
+Wie funktioniert die Auftragsmaske?
+
+Die wichtigsten Daten wie Empfängername, Empfänger-IBAN, Betrag und Verwendungszweck müssen angegeben werden. Das System wählt automatisch nach den eingetragenen Daten die richtige Auftragsart aus. Egal ob es sich z.B. um eine Zahlung im Inland, eine Auslandsüberweisung oder Finanzamtszahlung handelt.
+
+Bei Auftragserfassung eingetragene Daten können zur späteren Wiederverwendung als Vorlagen gespeichert werden.
+###
+Wie kann ich Vorlagen im Office-Banking erstellen?
+
+Grundsätzlich werden bei sämtlichen Überweisungen die Empfängerdaten (Empfängername, IBAN) automatisch im Office-Banking in der Empfängerverwaltung gespeichert. Zusätzlich können alle eingegebenen Auftragsdaten (Verwendungszweck, Betrag, etc.) als Vorlage abgespeichert werden. Um Auftragsdaten als Vorlage zu speichern, aktivieren Sie in der Auftragserfassungsmaske nach Eingabe aller Auftragsdaten die Checkbox bei als Vorlage und klicken Sie anschließend auf einen der beiden Speichern-Buttons.
+
+Um eine bessere Übersicht zu bekommen, können sowohl die Empfänger, wie auch die Vorlagen (z.B. themenbezogen Gruppen) gespeichert werden.
+###
+Wie erfolgt die Suche nach Umsätzen?
+
+Die Umsatzsuche erfolgt in der Finanzübersicht. Klicken Sie auf das jeweilige Konto und suchen Sie nach dem Umsatz. Mit dem Filter können die Ergebnisse in Tabellen eingeschränkt werden. Tragen Sie die gewünschten Einschränkungen ein und klicken Sie auf Fertigstellen. In der Umsatztabelle werden nur Datensätze angezeigt, die den Einschränkungen entsprechen.
+###
+Was versteht man unter Datenträger importieren oder exportieren?
+
+Um Daten zwischen Buchhaltungsprogrammen und Office-Banking auszutauschen, gibt es die Möglichkeit einen Datenträger zu importieren bzw. exportieren. Das ermöglicht ein schnelles Überweisen, da die einzelnen Aufträge nicht manuell in das Office-Banking eingegeben werden müssen. Umgekehrt lassen sich Buchungen vom Office-Banking in ein Buchhaltungsprogramm importieren und ermöglicht so ein automatisches Verbuchen der Zahlungen in Ihrem Buchhaltungsprogramm.
+###
+Was ist das Übertragungsprotokoll?
+
+Mit dem Ausdruck des Übertragungsprotokolls bestätigt die Bank den Empfang der übermittelten Daten.
+
+Das Übertragungsprotokoll enthält alle bestandsrelevanten Informationen. Zusätzlich ist der Verfüger bzw. bei Kollektivzeichnung beide Verfüger angeführt, der die Zeichnung vorgenommen hat. War die Übertragung erfolgreich und wurden die Aufträge von der Bank übernommen, so wird dies am Übertragungsprotokoll mit dem Vermerk „Übertragung OK!“ bestätigt.
+###
+Was ist der Unterschied zwischen dem Online-Banking und dem Office-Banking?
+
+Das Online-Banking ist der ideale Weg Ihre Bankgeschäfte rasch und einfach online zu erledigen. Egal ob Sie ein Laptop einen PC oder doch Ihr Smartphone oder Tablet zur Erledigung der Bankgeschäfte bevorzugen, überall wo Ihnen Internetzugang zur Verfügung steht, haben Sie den Zugang zum Online-Banking & App mit vielen nützlichen Funktionen.
+
+Beim Office-Banking handelt sich um eine Software, die lokal am Computer oder Server installiert wird. Mit diesem Programm wickeln Sie Ihren gesamten Zahlungsverkehr vom Arbeitsplatz aus effizient ab. Das Office-Banking bietet viele Funktionen (MBS, Datenträger Import/Export), die vor allem für Unternehmen und Kunden wie Bund, Länder, Städte, Gemeinden sowie öffentliche Körperschaften, Energieversorgungsunternehmen, Wohnbaugenossenschaften und KMUs.
+###
+Wie kann ich das cardTAN-Verfahren aktivieren?
+
+Das cardTAN-Verfahren muss für Ihren Verfüger im Online- / Office-Banking freigeschalten werden. Wenden Sie sich dazu bitte an unser Customer Care Center.
+###
+Wo erhalte ich einen cardTAN-Generator?
+
+Den cardTAN-Generator erhalten Sie in unserem Customer Care Center.
+###
+Wie wird der cardTAN-Generator aktiviert?
+
+Sie aktivieren den cardTAN-Generator, wenn Sie die cardTAN-fähige Karte in den Generator stecken und Ihre EB-PIN Electronic Banking Persönliche Identifikations-Nummer eingeben.
+###
+Wo erhalte ich die Electronic PIN?
+
+Die Electronic-PIN erhalten Sie per Post eingeschrieben von uns zugestellt.
+###
+Wie weiß ich, ob meine Maestro Bankomatkarte cardTAN-fähig ist?
+
+Auf der Rückseite Ihrer Maestro Bankomatkarte finden Sie das cardTAN-Logo an der rechten Seite.
+###
+Wann benötige ich eine separate cardTAN Secure Karte?
+
+Wenn mehrere Personen über Konten verfügen sollen, dann benötigen Sie eine separate cardTAN Secure Karte für jede weitere Person.
+###

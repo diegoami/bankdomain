@@ -1,0 +1,105 @@
+###
+Schicken Sie mir neben dem elektronischen Kontoauszug weiterhin einen Papierauszug?
+
+    Nein, das wäre nicht Sinn und Zweck und würde unsere Umwelt und Ihre Portokasse unnötig belasten.
+###
+Kostet der elektronische Kontoauszug etwas?
+
+    Nein, dieser Service ist kostenfrei. Beachten Sie aber, dass wir Ihnen einen kostenpflichtigen Papierauszug schicken müssen, wenn Sie Ihre Auszüge nicht regelmäßig abholen.
+###
+
+Was ist ein Zwangsauszug?
+
+    Dieser fällt an, wenn Sie Ihre Kontoauszüge zu lange nicht abgeholt haben (ca. 80 Tage). Portokosten vermeiden Sie, indem Sie Ihre Auszüge regelmäßig abholen - spätestens innerhalb dieser Fristen.
+###
+
+Wo ist der Unterschied zwischen KontoauszugOnline und dem Postkorb?
+
+    Beide Varianten stellen wir im PDF-Format bereit. Beim KontoauszugOnline werden Sie aktiv. Sie entscheiden also selbst, wann Sie Ihren Auszug abholen. Das muss aber mindestens einmal in 80 Tagen passieren. Sonst müssen wir Ihnen einen kostenpflichtigen Zwangsauszug schicken.
+
+    Bequemer ist der Postkorb, denn hier werden wir aktiv. Das heißt, wir stellen Ihren Auszug automatisch zum Monatsende in Ihren Postkorb.
+###
+
+Welche technischen Voraussetzungen und Programme benötige ich für den elektronischen Kontoauszug?
+
+    Sie brauchen einen Onlinezugang zu Ihrem Konto und zum Lesen von PDF-Dateien den Adobe-Reader, den Sie hier kostenlos herunterladen können. Der Postkorb setzt die Nutzung unserer Internetbanking-Anwendung voraus.
+###
+
+Kann ich meine Kontoauszüge auch per Briefpost bekommen?
+
+    Natürlich, aber beachten Sie, dass wir Ihnen die Portokosten bei bestimmten Kontoarten in Rechnung stellen.
+
+        Bedingungen, Preise und Informationen
+
+    Wenn Sie Ihre Auszüge dennoch per Briefpost bekommen möchten, beauftragen Sie uns per E-Mail, oder rufen Sie im Kundenzentrum an.
+###
+
+Erkennt das Finanzamt den Kontoauszug in Form einer PDF-Datei an?
+
+    Der elektronische Kontoauszug ist ein juristisch einwandfreier Kontoauszug. Dessen steuerliche Anerkennung liegt derzeit aber noch im Ermessen des jeweiligen Finanzamtes. Sollten Sie Ihre Kontoauszüge für steuerliche Zwecke benötigen, empfehlen wir, die Akzeptanz des elektronischen Kontoauszugs mit Ihrem Finanzamt zu klären.
+###
+
+Funktioniert der elektronische Kontoauszug auch bei Gemeinschaftskonten?
+
+    Ja. Sofern wir die Auszüge Ihres Gemeinschaftskontos im Postkorb zustellen sollen, müssen wir in unserer EDV ein Häkchen verändern. Bitte beauftragen Sie uns in diesem Falle direkt über den Postkorb.
+Funktioniert der elektronische Kontoauszug auch bei Bevollmächtigten?
+
+    Auch Bevollmächtigte können den Kontoauszug via Postkorb nutzen. Diese Einstellung übernehmen wir für Sie. Bitte beachten Sie hierbei, dass der Auszugversand nur für eine Einzelperson aktiviert werden kann.
+
+###
+
+Wie funktioniert der KontoauszugOnline?
+
+    Beim KontoauszugOnline werden Sie aktiv, denn den Zeitpunkt der Abholung bestimmen Sie selbst. Sie müssen den KontoauszugOnline aber mindestens einmal in 80 Tagen holen. Sonst müssen wir Ihnen einen kostenpflichtigen Zwangsauszug schicken.
+###
+
+Wie oft muss ich den KontoauszugOnline abholen?
+
+    Mindestens einmal in 80 Tagen. Wenn Sie diese Frist versäumen, müssen wir Ihnen einen kostenpflichtigen Zwangsauszug schicken.
+###
+
+Gibt es Alternativen zum KontoauszugOnline?
+
+
+    Ja, den Postkorb. Der Postkorb ist bequemer, weil wir Ihre Kontoauszüge dort jeweils zum Monatsende automatisch ablegen und Sie die für den KontoauszugOnline relevante 80-Tage-Abholfrist ignorieren können.
+###
+
+Wie funktioniert der Dialog im Postkorb?
+
+    Der Postkorb ist ein Bestandteil unserer Internetbanking-Anwendung. In diesem gesicherten Bereich können Sie mit uns in Dialog treten, aber auch Ihre Kontoauszüge oder Rechnungsabschlüsse empfangen. Das heißt, unser Postkorb ist eine Mailbox, die sich auf eine Verbindung zwischen Ihnen und uns beschränkt. Auf diesem Wege können wir sehr sicher vertrauliche Informationen austauschen.
+###
+
+Woran erkenne ich, ob eine Nachricht für mich eingetroffen ist?
+
+    Sobald Sie sich in der Bankinganwendung anmelden, sehen Sie wieviele Nachrichten in Ihrem Postkorb liegen.
+###
+
+Muss ich mich jedes Mal anmelden, um zu sehen, ob etwas in meinem Postkorb liegt?
+
+    Nein, wenn Sie möchten, benachrichtigen wir Sie automatisch per E-Mail.  Den Benachrichtungsservice aktivieren Sie innerhalb des Postkorbs im Reiter „Einstellungen“. Sollte Ihre E-Mailadresse nicht (mehr) stimmen, können Sie diese im Reiter „Adressänderung“ korrigieren.
+###
+
+Wie kann ich Dokumente archivieren?
+
+    Sie speichern Nachrichten oder Kontoauszüge auf Ihrer Festplatte.
+###
+
+Wie kann ich die Zustellung der Kontoauszüge auf den Postkorb umstellen?
+
+
+    In Ihrer Onlinebanking-Anwendung haben Sie über den Reiter „Service & Verwaltung“ die Möglichkeit, die Zustellart Ihrer Kontoauszüge zu ändern.
+###
+
+Wie häufig legen Sie meine Kontoauszüge in den Postkorb?
+
+    Jeweils zum Monatsende.
+###
+
+30 Tage sind mir zu lang. Ich möchte meine Kontoauszüge öfter bekommen. Kann ich den Turnus ändern?
+
+    Nein. Die Erstellung erfolgt ausschließlich zum Monatsletzten.
+###
+Kann ich den Postkorb auch nutzen, wenn ich mein Online-Banking mit einem Zahlungsverkehrsprogramm erledige?
+
+    Nein, der Postkorb ist ein Bestandteil unserer Internetbanking-Anwendung.
+###

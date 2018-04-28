@@ -1,0 +1,168 @@
+###
+Was ist ein SEPA-Lastschriftmandat?
+
+Mit dem Lastschriftmandat autorisieren Sie gegenüber Ihrer Bank die Einlösung von Lastschrifteinzügen.
+
+Jedes Lastschriftmandat muss folgende Erklärungen von Ihnen als Zahler enthalten:
+
+- die Ermächtigung des Zahlungsempfängers, Zahlungen vom Konto des Zahlers mittels Lastschrift einzuziehen, und
+
+- die Weisung an die Bank des Zahlers, die vom Zahlungsempfänger auf sein Konto gezogenen Lastschriften einzulösen.
+
+Folgende Angaben sind Bestandteil der Lastschriftmandate
+
+- Bezeichnung des Zahlungsempfängers
+
+- Gläubiger-Identifikationsnummer des Zahlungsempfängers
+
+- Kennzeichnung, ob es sich um einmalige oder eine wiederkehrende Zahlungen handelt
+
+- Name des Zahlers
+
+- Name der Bank des Zahlers
+
+- Kundenkennung des Zahlers
+###
+
+Wie kann ein SEPA-Mandat erteilt werden?
+
+Ein SEPA-Mandat kann nur schriftlich erteilt werden und muss vom Zahlungspflichtigen mit Angabe eines Datums unterschrieben werden.
+###
+
+Können meine Kunden das SEPA-Mandat auch formlos erteilen?
+
+Nein, bitte verwenden Sie nur die dafür vorgesehenen Formulare. Sonst riskieren Sie ein nicht autorisiertes Mandat, wodurch sich die Widerrufsfrist Ihrer Kunden auf 13 Monate verlängert. Dieses Risiko können Sie vermeiden, indem Sie die Form einhalten.
+
+    Formular für ein Basis-Lastschriftmandat (PDF)
+    Formular für ein Firmen-Lastschriftmandat (PDF)
+###
+
+Kann das SEPA-Mandat in den Ursprungsvertrag integriert werden?
+
+Ja.
+
+    Praxisbeispiele für die Ausgestaltung des Mandats (PDF)
+###
+
+Was passiert bei einem Lastschrifteinzug ohne die Unterschrift meines Kunden?
+
+Dann handelt es sich um eine nicht autorisierte Zahlung. Wir empfehlen Ihnen, Lastschriften niemals ohne Mandat einzuziehen, denn zum einen verlängert sich die Widerrufsfrist Ihres Kunden dadurch auf 13 Monate. Außerdem würden Sie dabei riskieren, dass wir unsere Inkassovereinbarung mit Ihnen kündigen.
+###
+
+Was ist die Mandatsreferenz?
+
+Es handelt sich um eine vom Zahlungsempfänger individuell zu vergebende Mandatskennzeichnung. Diese muss alpha-numerisch sein und darf aus höchstens 35 Zeichen bestehen. Eine Mandatsreferenz ist notwendig, um das Mandat (in Verbindung mit der Gläubiger-ID) eindeutig identifizieren zu können.
+
+Dabei bietet es sich an, die Kunden- oder Mitgliedsnummer zu nutzen.
+###
+
+Muss ich die Mandate aufbewahren?
+
+Ja, Sie müssen jedes Mandat unbegrenzt aufbewahren - nicht nur aktuelle, sondern auch historische und geänderte. Aus Gründen der Rechtssicherheit empfehlen wir Ihnen die Archivierung in Papierform.
+###
+
+Ist für jede Transaktion ein neues SEPA-Mandat nötig?
+
+Nur, wenn Sie eine Einmal-Lastschrift vereinbart haben. Deshalb sollten Sie generell wiederkehrende Lastschriften mit Ihren Kunden vereinbaren.
+###
+
+Gibt es Fälle, in denen ein neues SEPA-Mandat nötig ist?
+
+Ja, zwei Fälle sind denkbar. Erstens: Wenn Ihr Kunde den Einzug über eine neue Bankverbindung wünscht, für die Sie kein gültiges SEPA-Mandat haben und außerdem, wenn das bisherige Mandat länger als 36 Monate ungenutzt blieb (kein Lastschrifteinzug).
+###
+
+Wie lange ist ein SEPA-Mandat gültig?
+
+SEPA-Mandate sind grundsätzlich 36 Monate gültig. Die 36-Monatsfrist beginnt mit dem Fälligkeitsdatum der Erstlastschrift und beginnt dann erneut mit dem Fälligkeitsdatum der Folgelastschrift. Praktisch bedeutet das, dass bei wiederkehrenden Lastschriften die 36-Monatsfrist immer wieder neu beginnt, und das Mandat damit dauerhaft gültig bleibt. Wenn zwischen zwei aufeinanderfolgenden Einzügen aber mehr als 36 Monate liegen, verliert das Mandat seine Gültigkeit und muss mit dem Zahler neu vereinbart werden. Weiterhin verliert ein SEPA-Mandat seine Gültigkeit, sobald es vom Zahlungspflichtigen widerrufen wird.
+###
+
+In welcher Sprache ist das Mandat auszustellen?
+
+Das Mandat muss immer in der Amtssprache des Zahlungspflichtigen ausgestellt werden. Die Empfehlung ist deshalb, das Mandat bestenfalls zweisprachig bzw. zusätzlich in Englisch auszustellen.
+
+Können Abweichungen vom Mandatstext dazu führen, dass das Mandat ungültig ist?
+
+Ja! Gemäß der Sonderbedingungen für den Lastschrifteinzug sind Lastschrifteinreicher verpflichtet, die vorgegebenen Texte der SEPA-Mandate genauso zu verwenden, wie sie durch das EPC (European Payments Council) vorgegeben wurden. Wir empfehlen daher keine individuellen Ergänzungen zu verwenden. Muster dafür finden Sie im Download-Bereich.
+
+Ab welchem Zeitpunkt werden Mandatsänderungen des Zahlungspflichtigen gültig?
+
+Ist kein bestimmter Zeitpunkt genannt, gilt das Datum des Posteingangs beim Zahlungsempfänger.
+###
+
+Bedarf eine Mandatsänderung der Schrift- oder Textform?
+
+Die Mandatsänderung muss zwingend in Schriftform erfolgen, da nur so der Nachweis für ein gültiges Mandat erbracht werden kann.
+###
+
+Muss ein Mandat neu erstellt werden, weil der Abbuchungsvorgang mangels Deckung nicht gebucht wurde?
+
+Nein. Eine mangels Deckung zurückgegebene Lastschrift gilt nicht als Widerruf des Mandats. Das Mandat hat weiterhin Gültigkeit.
+###
+
+Muss ich neue Mandate einholen, wenn ich eine Namensänderung bzw. Umfirmierung vornehme?
+
+Nein. Es wird nur ein neues Mandat notwendig, wenn sich die Identität des Zahlungspflichtigen ändert. Ihre Namensänderung bzw. Umfirmierung geben Sie durch eine Mandatsänderung bekannt. Als Mandatsänderung gilt eine schriftliche Information an den Zahlungspflichtigen. Bitte beachten Sie: Die Mandatsänderung muss archiviert werden. Zusätzlich muss die Mandatsänderung zwingend beim zeitlich ersten Einzug nach der Änderung in der Lastschrifttransaktion übermittelt werden.
+###
+
+Wann ist ein Mandat ungültig und muss neu eingeholt werden?
+
+Ein neues Mandat muss in folgenden Fällen neu eingeholt werden:
+
+- wenn seit dem letzten Einzug 36 Monate verstrichen sind
+
+- wenn eine Lastschrift auf Grund einer Nicht-Autorisierung zurückgegeben wird
+
+- wenn der letzte Einzug mit der Sequenz FNAL (final) oder OOFF (einmalige Lastschrift) erfolgte
+
+- wenn der Zahler gegenüber dem Einreicher das Mandat widerrufen hat
+###
+
+Was muss beachtet werden, wenn ich die Mandatsreferenz aus organisatorischen Gründen nicht auf dem Mandat nenne?
+
+- Auf dem Mandat muss ein entsprechender Hinweis erfolgen z.B. „siehe Rechnung“.
+
+- Die Mandatsreferenz muss dem Zahler anschließend per Pre-Notification mitgeteilt werden.
+
+- Im Rahmen der Nachweispflicht des Gläubigers muss zusätzlich zum Mandat auch die Pre-Notification mit der Mandatsreferenz archiviert werden.
+
+- Sofern es sich um ein Firmenlastschriftmandat handelt, ist es sehr wahrscheinlich, dass die Zahlerbank das unvollständige Mandat nicht akzeptiert.
+###
+
+Wie müssen die Mandate aufbewahrt werden? Reicht ein Scan bzw. ein Fax des unterschriebenen Mandats aus?
+
+Die Mandate müssen als Original aufbewahrt werden.
+###
+Basis-Lastschriftmandate - Die Bankverbindung des Zahlers hat sich geändert. Wird das alte Basis-Lastschriftmandat damit ungültig und muss neu eingeholt werden?
+
+Nein! Die Änderung der Bankverbindung bedeutet eine Änderung des Basis-Lastschriftmandats, es ist aber kein neues Mandat erforderlich. Der Gläubiger sollte sich von seinen Zahlern die Änderung der Bankverbindung schriftlich bestätigen/mitteilen lassen und im Anschluss eine Mandatsänderung in der Mandatsverwaltung vornehmen. Beim nächsten Lastschrifteinzug nach der erfolgten Änderung muss der Gläubiger im Lastschriftdatensatz die Mandatsänderung mitteilen. Die alte Bankverbindung wird aber in diesem Zusammenhang trotzdem noch einmal übermittelt. Es ist also kein neues Mandat notwendig, aber eine Mandatsänderung.
+
+###
+Firmenlastschriftmandate - Die Bankverbindung des Zahlers hat sich geändert. Wird ein neues Firmen-Lastschriftmandat benötigt?
+
+Ja! Die Änderung der Bankverbindung bedeutet eine Änderung des Firmen-Lastschriftmandats und es ist ein neues Firmen-Lastschriftmandat erforderlich. Das neue Firmen-Lastschriftmandat muss der Zahlbank vorgelegt werden!
+###
+
+
+Was ist eine Pre-Notification?
+
+Sie informiert den Zahlungspflichtigen über Zeitpunkt und Höhe der Belastung, damit dieser auf seinem Konto für ausreichende Deckung sorgen kann. Außerdem müssen Sie in dieser Vorankündigung Ihre Gäubiger-ID und die Mandatsreferenz mitteilen.
+
+Bei wiederkehrenden Lastschriften mit gleichen Beträgen genügt eine einmalige Vorankündigung. Dabei müssen Sie alle Einzugstermine oder -perioden (z. B. zum Monatsultimo) nennen.
+###
+Wann muss die Pre-Notification verschickt werden?
+
+Sofern beide Partner nichts anderes vereinbart haben, muss der Zahlungsempfänger 14 Tage vor dem Fälligkeitsdatum den Zahlungspflichtigen über die anstehende Lastschrift informieren. Dabei genügt – wie heute auch – die Ankündigung der Lastschrift auf der Rechnung oder im Vertrag.
+###
+Kann die 14-Tage-Frist verkürzt werden? Wenn ja, was muss ich beachten?
+
+Der Gesetzgeber hat vorgesehen, dass verkürzte Vorlauffristen möglich sind. Die Frist kann bis auf einen Tag verkürzt werden. Diese Verkürzung muss mit dem Zahler in Form einer beidseitigen (schriftlichen) Willenserklärung z.B. im Rahmen eines Kauf- / Abovertrages vereinbart werden.Sofern beide Partner nichts anderes vereinbart haben, gilt die 14-Tage-Frist. Wurde eine kürzere Frist vereinbart, ist diese maßgebend.
+###
+Muss der Zahlungspflichtige der Pre-Notification zustimmen?
+
+Nein, es handelt sich lediglich um eine Information.
+###
+Muss die Pre-Notification den Fälligkeitszeitpunkt der SEPA Lastschrift und den genauen Belastungsbetrag enthalten?
+
+Grundsätzlich ja, da sie sonst nicht rechtsgültig ist. Bei wiederkehrenden Lastschriften ist aber z.B. auch folgende Formulierung möglich: „…zum jeweils 1. des Monats, beginnend mit dem 1.11.2012. Fällt der Fälligkeitstag auf ein Wochenende/Feiertag verschiebt sich der Fälligkeitstag auf den 1. folgenden Werktag.“ Weitere Beispiele dafür finden Sie im Download-Bereich.
+
+###

@@ -1,0 +1,73 @@
+###
+Ist die Nutzung des Online-Postfachs mit Gebühren verbunden?
+
+Nein, die Nutzung des Online-Postfachs steht allen Online-Bankingkunden kostenfrei zur Verfügung.
+###
+
+Wie (de-)aktiviere ich das Online-Postfach?
+
+Ihr Online-Postfach schalten Sie über den Menüpunkt "Services" und den Link "Postfach aktiveren / deaktivieren" im Abschnitt "Sonstiges" ein oder aus.
+
+Jetzt Online-Postfach (de-)aktivieren
+###
+
+Wer kann das Online-Postfach aktivieren?
+
+Das können alle Kontoinhaber tun, die auf das Online-Banking zugreifen können.
+###
+
+Wie lange dauert die Aktivierung des Online-Postfachs?
+
+Die Umstellung kann bis zu einem Tag dauern. Dokumente werden erst nach erfolgreicher Umstellung elektronisch ins Postfach eingestellt. Bis dahin erhalten Sie die Dokumente wie gehabt am Kontoauszugsdrucker.
+###
+
+Erscheint der Menüpunkt Online-Postfach erst nach der Aktivierung?
+
+Nein, das Postfach ist generell sichtbar. Es erfolgt jedoch keine elektronische Zustellung von Dokumenten, solange dieses nicht aktiviert wurde.
+###
+
+Welche Dokumente werden eingestellt?
+
+Über Ihr Online-Postfach erhalten Sie Ihre Kontoauszüge, Umsatzabrechnungen Ihrer Kreditkarten und wichtige Bankmitteilungen.
+###
+
+Wann werden die Dokumente eingestellt?
+
+Ihre Kontoauszüge werden zum Ende jedes Kalendermonats, Ihre Umsatzabrechnungen jeweils zum 25. eines Monats eingestellt.
+###
+
+Wie erkenne ich neue / ungelesene Dokumente in meinem Online-Postfach?
+
+Sobald Sie in Ihrem Online-Banking eingeloggt sind, wird Ihnen die Anzahl neuer / ungelesener Dokumente links oben am Menüpunkt "Postfach" angezeigt. Auf Wunsch informieren wir Sie per E-Mail und/oder SMS über den Eingang neuer Dokumente. Diese Benachrichtigung können Sie in Ihrem Online-Banking aktivieren/deaktivieren.
+
+###
+Welche Funktionen stehen im Online-Postfach zur Verfügung?
+
+Sie können Ihre Dokumente als PDF anzeigen lassen, drucken, speichern und löschen.
+###
+
+Wie lange bleiben meine Dokumente in meinem Online-Postfach gespeichert?
+
+Ihre Dokumente bleiben während der gesamten Dauer der Nutzung des Online-Postfachs sichtbar.
+
+###
+Kann ich gelöschte Dokumente wiederherstellen?
+
+Dokumente, die Sie gelöscht haben, können nicht wiederhergestellt werden. Die Löschfunktion steht jedoch nur für die Kreditkarten-Umsatzabrechnung zur Verfügung. Ihre Kontoauszüge sowie wichtige Bankmitteilungen bleiben immer 36 Monate lang erhalten.
+###
+
+Wie werde ich über neue Dokumente in meinem Online-Postfach informiert?
+
+Sie können sich per SMS und / oder E-Mail informieren lassen. Auf Wunsch aktivieren Sie diese Benachrichtungsfunktion direkt in Ihrem Online-Banking. Die Kosten für eine Benachrichtigung per SMS betragen 9 Cent pro SMS. Eine Benachrichtigung per E-Mail ist kostenlos.
+###
+
+Was passiert bei Deaktivierung des Online-Postfachs mit bereits eingestellten Dokumenten?
+
+In ein inaktives Postfach werden keine neue Dokumente mehr eingestellt, Ihre bereits erhaltenen Dokumente bleiben aber bis zum Erreichen der Aufbewahrungsfrist (Einstelldatum plus 36 Monate) sichtbar.
+###
+
+Was passiert, wenn ich die Kontoauszüge in meinem Online-Postfach nicht abrufe?
+
+Wenn Sie Ihren Kontoauszug nicht innerhalb von 50 Kalendertagen öffnen oder speichern, sind wir gesetzlich verpflichtet, Ihnen diesen per Post zuzusenden. Dafür berechnen wir Ihnen kein Entgelt, nur der dafür entstehende Aufwand (Porto) wird Ihnen ab Februar 2018 in Rechnung gestellt.
+
+###

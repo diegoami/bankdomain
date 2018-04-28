@@ -1,0 +1,157 @@
+###
+Wo bekomme ich die photoTAN-App?
+
+Die photoTAN-App können Sie aus dem Apple App Store oder Google Play Store herunterladen.
+
+###
+
+Benötige ich ein Handy oder Smartphone, um die photoTAN nutzen zu können?
+
+Die photoTAN-App ist kostenlos für Apple iOS, Google Android erhältlich. Sie können die photoTAN alternativ auch mit einem speziellen Lesegerät nutzen, welches Sie im Online-Banking bestellen können.
+###
+
+Wie melde ich mich zum photoTAN Verfahren an?
+
+In Ihrem Online-Banking starten Sie im Menü „Sicherheitsverfahren“ die Einrichtung Ihres photoTAN-Verfahrens. Abschließend fordern Sie einen postalischen Aktivierungsbrief an. Mit diesem Brief erhalten Sie eine Aktivierungs-Grafik, die Sie mit der kostenlosen norisbank photoTAN-App aus Ihrem App-Store einscannen. Und schon kann es losgehen!
+
+Jetzt photoTAN-Verfahren einrichten
+###
+
+Wie wird die Aktivierung des photoTAN-Verfahrens bestätigt?
+
+Im Online-Banking erhalten Sie eine Bestätigung über die erfolgreiche Aktivierung, nachdem Sie den Aktivierungscode eingegeben und mit einer photoTAN bestätigt haben. In der Smartphone-App bzw. dem photoTAN-Lesegerät müssen Sie die erfolgte Aktivierung selbst bestätigen. Erst danach ist sie im Gerät abgeschlossen und es kann sofort für die Freigabe von Aufträgen und Transaktionen genutzt werden.
+###
+
+Was passiert, wenn ich die Erstaktivierung der photoTAN nicht innerhalb von 30 Tagen nach Erhalt des Aktivierungsbriefs durchführen kann?
+
+Sofern Sie Ihre Aktivierung nicht, wie aus Sicherheitsgründen erforderlich, innerhalb von 30 Tagen durchführen, benötigen Sie einen neuen Aktivierungsbrief. Diesen können Sie bequem über Ihr Online-Banking unter dem Menüpunkt Sicherheitsverfahren erneut anfordern. Hierzu ist keine weitere Legitimierung erforderlich.
+###
+
+Wie funktioniert die photoTAN?
+
+Mit der photoTAN geben Sie bequem und sicher Aufträge im Online-Banking frei.
+
+Nachdem Sie in Ihrem Online-Banking z.B. die Überweisungsdaten eingegeben haben, wird Ihnen eine photoTAN-Grafik angezeigt. Diese Grafik scannen Sie mit der photoTAN-App auf Ihrem Smartphone oder Ihrem photoTAn-Lesegerät. Anschließend wird Ihnen die für diesen Auftrag generierte TAN angezeigt, mit der Sie abschließend Ihren Auftrag im Online-Banking bestätigen.
+###
+
+Kann ich weitere Smartphones oder Lesegeräte für das photoTAN-Verfahren verwenden?
+
+Sie können unbegrenzt weitere Freischaltungen von Smartphones oder Lesegeräten durchführen, zum Beispiel, wenn Sie ihr Gerät wechseln. Dafür benötigen Sie den Aktivierungsbrief, bewahren Sie den Brief daher an einem sicheren Ort auf.
+###
+
+Kann ich die photoTAN auch im Mobile-Banking per Smartphone nutzen?
+
+Ja!
+Die Mobile Banking- und photoTAN-App wurden so entwickelt, dass sie optimal zusammen funktionieren.
+Nachdem Sie in der Mobile Banking-App z.B. alle Überweisungsdaten eingegeben haben, wird mit einem Klick auf den Button "TAN mit photoTAN-App generieren" automatisch die photoTAN-App geöffnet und die für den Auftrag gültige TAN erzeugt.
+Nachdem Sie alle Überweisungsdaten geprüft haben, können Sie die TAN genauso einfach per Klick in die Mobile Banking-App übernehmen und den Auftrag bestätigen.
+###
+
+Wie kann ich die Überweisung durchführen, bis ich den Aktivierungsbrief erhalten habe?
+
+Sofern Sie als Kunde bisher das iTAN-Verfahren nutzen, können Sie Ihre Aufträge vorübergehend noch weiter mit Ihrer iTAN oder mTAN legitimieren.
+
+Standardmäßig werden unsere Kunden bei der Neueröffnung eines Kontos automatisch mit dem photoTAN-Verfahren ausgestattet.
+###
+
+Benötige ich für das Telefonbanking auch die photoTAN?
+
+Nein, für das Telefonbanking benötigen Sie nur Ihre Telefonbanking-PIN.
+###
+
+Die iTAN funktioniert noch. Wieso musste ich dann das photoTAN Verfahren aktivieren?
+
+Das iTAN Verfahren wird in Kürze abgeschaltet. Ab diesem Zeitpunkt können Sie Ihre Bankaufträge  dann nur noch mit Ihrer photoTAN oder mobileTAN legitimieren.
+
+photoTAN im Online-Banking aktivieren
+###
+
+Warum kann ich das iTAN-Verfahren bei der norisbank nicht weiter nutzen?
+
+Alle Banken sind verpflichtet im Rahmen der Europäischen Zahlungsdienstrichtlinie bis 2019 das ITAN-Verfahren abzuschalten.
+
+photoTAN im Online-Banking aktivieren
+###
+
+Gibt es eine detaillierte Anleitung für die TAN Verfahren der norisbank?
+
+Die Nutzung des photoTAN- oder mobileTAN-Verfahrens ist ganz einfach. Zu Ihrer Unterstützung haben wir entsprechende Anleitungen erstellt. Darüber hinaus stehen Ihnen auch gerne unsere Mitarbeiter telefonisch unter der Rufnummer 030 - 310 66 005 zur Verfügung.
+
+Weitere Informationen zu photoTAN
+###
+
+Kann auch mein Bevollmächtigter das photoTAN-Verfahren nutzen?
+
+Ja. Kontobevollmächtigte können ebenfalls für das photoTAN-Verfahren angemeldet werden. Der Aktivierungsbrief wird Ihnen als Kontoinhaber zugestellt, den Sie dann entsprechend an Ihren Bevollmächtigten weitergeben.
+###
+
+Kann ich die photoTAN App und die norisbank App auf einem mobilen Endgerät benutzen?
+
+Ja. Wenn Sie Sie beide Apps auf Ihrem Smartphone installieren, besteht die Möglichkeit, Aufträge auf einem Gerät (Smartphone oder Tablet) zu erfassen und freizugeben.
+
+photoTAN App jetzt herunterladen:
+###
+
+Der angeforderte Aktivierungscode ist nicht angekommen?
+
+Falls Sie nach ca. 30 Sek. keine SMS bekommen haben, überprüfen Sie bitte die angegebene Mobilfunknummer und fordern Sie den Aktivierungscode erneut an. Besteht das Problem weiterhin, wenden Sie sich gerne an unseren 24h-Kundenservice unter 030 - 310 66 005.
+
+Fragen zum photoTAN Lesegerät
+###
+
+Wie funktioniert das photoTAN-Lesegerät und wie nutze ich es?
+
+Eine übersichtliche Anleitung zu allen wichtigen Funktionen und Handhabung des photoTAN-Lesegeräts finden Sie in diesem PDF.
+###
+
+Wie kann ich ein defektes photoTAN-Lesegerät zurückschicken?
+
+Bitte verpacken Sie das Lesegerät und nutzen Sie für die Rücksendung das Retouren-Formular.
+###
+
+Wo kann ich das photoTAN-Lesegerät bestellen?
+
+Das photoTAN-Lesegerät kann bequem in Ihrem Online-Banking bestellt werden.
+###
+
+Was ist sicherer, photoTAN per Smartphone oder per Lesegerät?
+
+Beide Verfahren haben den gleichen Sicherheitsstandard.
+
+Weitere Informationen zu photoTAN
+###
+
+Wie hoch sind die Kosten für das Lesegerät?
+
+Das Lesegerät ist eine kostenlose Zusatzoption, die Sie als Kunde wählen können. Bequemer können Sie mit der kostenlosen photoTAN- App alle Aufträge einfach über Ihr Smartphone legitimieren.
+
+Lesegerät jetzt bestellen
+
+App downloaden
+###
+
+Wie lange dauert es bis ich das Lesegerät nach der Bestellung erhalte?
+
+In der Regel erhalten Sie das Lesegerät in 2-3 Werktagen per Post zugesandt.
+
+Lesegerät jetzt bestellen
+###
+
+Kann ich das photoTAN-Lesegerät auch für alle anderen Banken nutzen?
+
+Nein. Das Lesegerät funktioniert nur für Konten bei der norisbank GmbH, der Deutsche Bank AG und Deutsche Bank Privat- und Geschäftskunden AG (inklusive Berliner Bank).
+
+Lesegerät jetzt bestellen
+###
+
+Was kann man im Falle eines Verlust oder Diebstahls des Smartphones oder Lesegerätes tun?
+
+Wurde das Smartphone oder ein Lesegerät verloren oder gestohlen, können Sie dieses im Online-Banking in der photoTAN-Verwaltung („Services“ >> „Sicherheitsverfahren“) ohne TAN-Eingabe wieder deaktivieren. Alternativ wenden Sie sich bitte an den 24-h-Kundenservice unter 030 - 310 66 005. Ab dem Zeitpunkt der Deaktivierung kann das Gerät nicht mehr für die Freigabe von Transaktionen genutzt werden.
+###
+
+Warum werde ich bei der Bestellung des kostenlosen Lesegeräts mit 14,90€ belastet?
+
+Die Kosten von 14,90€ - die wir Ihnen zeitnah zurückerstatten - entstehen durch die Abwicklung Ihrer Bestellung durch unseren Dienstleister.
+Das photoTAN-Lesegerät der norisbank ist für unsere Kunden grundsätzlich kostenlos.
+
+###

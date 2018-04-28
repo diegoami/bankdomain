@@ -1,0 +1,146 @@
+###
+Was versteht man unter einem Gemeinschaftskonto?
+
+Ein Gemeinschaftskonto ist ein Konto mit zwei Kontoinhabern. Was die Verfügungsberechtigung betrifft, wird beim Gemeinschaftskonto zwischen Und-Konten (alle Kontoverfüger müssen gemeinsamen unterschreiben) und Oder-Konten (jeder kann alleine Abhebungen oder Überweisungen durchführen) unterschieden.
+
+    Oder-Konto: Jeder der Kontoinhaber kann rasch und ohne besondere Formalitäten Geld abheben oder Überweisungen tätigen. Einen wesentlichen Vorteil haben Oder-Konten im Todesfall oder wenn einer der beiden Partner nicht mehr handlungsfähig ist: Denn der verbliebene Kontoverfüger hat nach wie vor vollen Zugriff auf das Konto. Alle Abbuchungen werden plangemäß vorgenommen.
+    Und-Konto: Beim Und-Konto benötigt man die Zustimmung aller Kontoteilhaber, um Geldbewegungen durchzuführen.
+
+###
+Was versteht man unter Verfügungsberechtigung?
+
+Die volle Verfügungsberechtigung hat ausschließlich der Kontoinhaber. Sie beinhaltet folgende Rechte:
+
+    Erteilung und Entzug von Zeichnungsberechtigungen
+    Änderungen des Kontowortlautes
+    Änderung der Zustellart des Kontoauszuges
+    Antrag auf Ausstellung einer Kundenkarte oder Kreditkarte
+
+
+Vom Kontoinhaber können ein oder mehrere Zeichnungsberechtigte am Girokonto erteilt werden. Der Kontoinhaber bestimmt, ob die Zeichnungsberechtigten einzeln oder gemeinsam über das Konto verfügen dürfen. Auch die Zeichnungsberechtigten müssen sich mit einem amtlichen Lichtbildausweis bei der Anadi Bank legitimieren.
+
+Eine Zeichnungsberechtigung erlaubt es dem Zeichnungsberechtigten nur über das Girokonto zu disponieren (Abhebungen, Einzahlungen, Überweisungen).
+###
+
+
+    Startseite FAQs Konto & Karte
+
+Häufige Fragen zu Konto & Karte
+
+    Konto
+    Karte
+    Micro-Bankomatkarte
+
+Was versteht man unter einem Gemeinschaftskonto?
+Was versteht man unter Verfügungsberechtigung?
+Wie kann ich ein Anadi Konto eröffnen?
+
+Eröffnen Sie Ihr Anadi Konto in Ihrer Filiale.
+Ihr Kundenberater unterstützt Sie gerne und füllt mit Ihnen gemeinsam das Antragsformular zur Kontoeröffnung aus. Zur Identifizierung bringen Sie einfach einen Identitätsnachweis (Reisepass, Personalausweis) mit in Ihre Anadi-Filiale.
+
+Eröffnen Sie Ihr Anadi Online-Konto einfach und online von zu Hause aus.
+Der Weg zu Ihrem Online-Konto ist ganz einfach: mit innovativer Online-Videolegitimation eröffnen und Online-Kontoumzugsservice nutzen. Inkl. Kontoführung, Maestro-Bankomatkarte, Kreditkarte, Kontorahmen, Online-Banking & App sowie Online-Sparen mit einem attraktiven Zinssatz.
+###
+
+Wo finden Sie IBAN und BIC?
+
+Ihren IBAN „International Bank Account Number“ und BIC „Bank Identifier Code“ finden Sie auf Ihrer Bankkarte, Ihrem Kontoauszug oder im Online-Banking.
+###
+Wie setzt sich der IBAN zusammen?
+
+In Österreich ist die IBAN 20 Zeichen lang und setzt sich wie folgt zusammen:
+
+    2-stelliger Ländercode, z. B. Österreich = AT
+    2-stellige Prüfziffer - für jedes Konto verschieden
+    5-stellige Bankleitzahl, z. B. Austrian Anadi Bank = 52000
+    11-stellige Kontonummer(kürzere Kontonummern werden durch Nullen am Anfang auf 11 Stellen aufgefüllt)
+
+
+###
+Was ist der BIC und wie setzt sich dieser zusammen?
+
+BIC ist der international gültige Bank-Code. Der BIC – auch SWIFT-Code genannt – wird neben der IBAN als zweite Information für internationale Zahlungen benötigt. Mit dem BIC können Geldinstitute weltweit eindeutig identifiziert werden. Wenn Sie Überweisungen im europäischen Zahlungsverkehrsraum tätigen, wird der BIC nicht mehr benötigt, hier reicht die Angabe des IBANs.
+
+Tipp: Die Auftragsmaske unseres Anadi Online-Bankings macht Ihre Überweisungen einfach. Das Online-Banking merkt sich IBAN´s sowie Namen und ergänzt fehlende Daten, die es schon kennt. Damit erledigen sich viele Überweisungen fast von selbst. Jetzt kostenloses Online-Konto eröffnen und von den vielen Vorteilen des Online-Bankings profitieren.
+###
+Kann das Konto auch als Gemeinschaftskonto mit einem Partner eröffnet werden, mit dem Sie nicht verheiratet sind?
+
+Ja, ein gemeinschaftliches Girokonto können Sie grundsätzlich mit jeder beliebigen Person eröffnen.
+###
+Wie und wo erhalte ich meine Kontoauszüge?
+
+Informationen zum Kontostand Ihres Girokontos erhalten Sie jederzeit in Ihrem Online-Banking. Nutzen Sie auch die Quick-Check Funktion unserer App. Damit erhalten Sie einen schnellen Überblick über Ihre Kontosalden und Umsätze. Sie können im Online-Banking auch Mitteilungen aktivieren und sich über Eingänge und Ausgänge auf Ihren Konten informieren lassen.
+
+Kontoauszüge können Sie entweder in Papierform in Ihrer Anadi-Wunschfiliale „postlagernd“ bereitstellen bzw. per Post nach Hause zustellen lassen oder als elektronische Kontoauszüge (e-Kontoauszüge) direkt im Online-Banking unter „Services“ und „Schließfach“ erhalten.
+
+Bei allen Anadi Online-Produkten werden Ihnen alle Informationen inklusive der Kontoauszüge bequem in Ihr Online-Banking zugestellt. Sie erhalten Ihre Kontoauszüge noch in Papierform? Dann können Sie eine Umstellung auf e-Kontoauszüge in unser Customer Care Center oder Ihrem Anadi-Kundenbetreuer umstellen lassen.
+###
+Wie ändere ich meine Hauptkontoverbindung zur Austrian Anadi Bank AG?
+
+Damit Ihre Transaktionen so rasch wie möglich über Ihr neues Anadi-Konto abgewickelt werden können, können Sie einen Kontowechsel von Ihrem alten Konto zu Ihrem neuen Anadi Konto veranlassen. Dazu haben Sie mehrere Möglichkeiten:
+
+    Nutzen Sie rasch und unkompliziert den Online-Kontowechsel mit FinReach GmbH
+    Kontowechsel in der Filiale bei Ihrem Anadi-Kundenbetreuer oder
+    Sie führen den Kontowechsel selbst durch.
+
+
+###
+Was ist das SEPA Direct Debit Core und welche Fristen gibt es?
+
+Die SEPA-Lastschrift (SEPA Direct Debit Core/COR1) ähnelt dem bisherigen österreichischen Einzugsermächtigungsverfahren und wird erstrangig für Einzüge von Verbrauchern, jedoch auch für Einzüge von Geschäftskunden, verwendet.
+Rückgaberecht bei SEPA-Lastschriften (SEPA Direct Debit Core)
+
+Um Lastschriften von Ihrem Konto einziehen zu können, ist die Grundvoraussetzung ein erteiltes Mandat (=Einzugsermächtigung).
+
+Sollten Sie Einspruch gegen eine Lastschrift haben, stehen Ihnen folgende Fristen zur Verfügung:
+
+    Rückgabe mit einem gültigen Mandat (=Lastschriftvereinbarung) 56 Kalendertage ohne Angabe von Gründen.
+    Rückgabe ohne einem gültigen Mandat (=Lastschriftvereinbarung) 13 Monate ab Belastungstag.
+
+
+Umfassenden Informationen zu Zahlungsdienstleistungen lesen Sie in unserer ZADIG-Broschüre
+
+Das Customer Care Center steht Ihnen unter der Telefonnummer +43 (0)50202 0 von Montag bis Freitag von 07:30 bis 18:00 Uhr gerne zur Verfügung.
+
+###
+
+Wie legitimiere ich mich bei Kontoeröffnung?
+
+Bei unseren Online-Produkten können Sie wählen zwischen:
+
+1. Video-Legitimation:
+Ohne das Haus zu verlassen, können Sie in wenigen Schritten online Ihre Identität am Desktop oder mobilen Endgerät (Tablet, Smartphone) bestätigen. Nach Abschluss der Online-Kontoeröffnung übermitteln wir Ihnen einen Link zur Online-Videolegitimation. Durch Klick auf diesen Link starten Sie die Online-Videoidentifizierung mit unserem Kooperationspartner WebID Solutions GmbH. Erfahren Sie mehr im Video:
+
+
+2. Legitimation am Postweg durch Briefwechsel:
+Sie erhalten Ihre persönlichen Eröffnungsunterlagen per Post zugestellt. Alle Unterlagen senden Sie uns vollständig ausgefüllt und unterschrieben retour. Zur Identifizierung übermitteln Sie uns wieder per Post die Kopie eines gültigen Lichtbildausweises (Reisepass, Personalausweis). Gerne können Sie auch die praktische Upload-Funktion im Online-Banking bzw. während des Anlageprozesses nutzen, um uns die Kopie eines gültigen Lichtbildausweises (Reisepass, Personalausweis) zu übermitteln.
+
+
+Alle weiteren Konten eröffnen Sie in einer unserer Filialen:
+Die Anadi Bank verfügt über Filialen in Salzburg, Wien, Steiermark und Kärnten. Gemeinsam mit Ihrem Anadi-Berater füllen Sie die Anträge zur Eröffnung des Kontos aus. Dabei erfahren Sie alles Wissenswerte über die verschiedenen Kontomodelle und wählen das für Sie passende aus.
+###
+Bin ich beim Online-Banking an Öffnungszeiten gebunden?
+
+Nein. Rund um die Uhr, also 7 x 24 Stunden und 365 Tage im Jahr können Sie das Anadi Online-Banking nutzen. Jedoch werden Überweisungen und Änderungen an Daueraufträgen usw. nur während der Banköffnungszeiten von unserem System weiterverarbeitet.
+###
+Wie erhalte ich meine Online-Banking Zugangsdaten?
+
+Mit jeder Kontoeröffnung erhalten Sie von uns Ihre ganz persönlichen Online-Banking Zugangsdaten. Sowohl bei der Kontoeröffnung in einer unserer Filiale, als auch bei der Eröffnung eines Online-Produktes erhalten Sie die Zugangsdaten im Zuge der Kontoeröffnung.
+###
+In welchem Zeitraum können Überweisungen im Online-Banking zurückgerufen werden und unter welchen Bedingungen?
+
+Überweisungen, die Sie im Online-Banking eingereicht haben, können Sie zurückrufen bzw. stornieren, solange die Anadi Bank den Auftrag noch nicht durchgeführt hat. Sollte die Überweisung schon ausgeführt worden sein, ist es häufig der einfachste und kostengünstigste Weg, sich an den Zahlungsempfänger zu wenden und darum zu bitten, den Betrag zurück zu überweisen.
+
+Sie haben noch Fragen? Das Customer Care Center steht Ihnen unter der Telefonnummer +43 (0)50202 0 von Montag bis Freitag von 07:30 bis 18:00 Uhr gerne zur Verfügung.
+###
+Wie hoch ist das maximale Barbehebungslimit der Maestro-Bankomatkarte bei meinem Girokonto? Wie kann ich es verwalten?
+
+Das Standard Barbehebungslimit an Bankomaten liegt bei EUR 400,- pro Tag bzw. EUR 2.800,- pro Woche. Für POS-Zahlungen (Bankomatkassenzahlungen) steht standardisiert ein zusätzliches Limit von EUR 1.100,- pro Woche zur Verfügung. Eine ausreichende Deckung auf Ihrem Konto ist die Voraussetzung.
+
+Gegen einen Aufpreis ist es möglich, die Standardverfügungslimit für Bankomat- und POS-Transaktionen zu erhöhen. Wenden Sie sich diesbezüglich an Ihren Anadi-Kundenbetreuer oder an unser Customer Care Center.
+###
+Wie erhalte ich meine Bankomatkarte und meine Bankomatkarten-Pin?
+
+Nach vollständiger Kontoeröffnung senden wir Ihnen Ihre Maestro-Bankomatkarte und Ihre Bankomatkarten-PIN mit jeweils separater Post zu.
+
+###

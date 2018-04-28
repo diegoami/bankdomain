@@ -1,0 +1,94 @@
+###
+Was ist der Sicherheitscode?
+
+Ein von MasterCard und VisaCard entwickelter Sicherheitsstandard für Kreditkartenzahlungen, der die Gefahr des Kartenmissbrauchs durch Dritte bei Zahlungen im Internet erheblich reduziert. Mit diesem Service wird online Einkaufen im Internet noch sicherer.
+
+Der Sicherheitscode schützt Ihre Kreditkartenzahlung im Internet mit einer zusätzlichen Bestätigung Ihrer Identität und verhindert damit, dass Unbefugte mit Ihrer Kreditkarte oder mit Ihren Kreditkartendaten bezahlen können. Der Service ist einfach anzuwenden und gibt Ihnen als Kreditkarteninhaber die Möglichkeit, sicher und bequem Einkäufe im Internet zu tätigen.
+###
+
+Was ist die Wissensfrage/Sicherheitsfrage?
+
+Die Wissensabfrage ist eine Erweiterung des bestehenden SMS-TAN Verfahrens. In der Benutzerverwaltung können Sie Ihre bevorzugte Wissensfrage auswählen und eine entsprechende Antwort hinterlegen.
+
+    Jetzt Wissensfrage hinterlegen!
+###
+
+Ich habe den Aktivierungscode nicht erhalten!
+
+Bitte fordern Sie den Aktivierungscode erneut an:
+
+    Jetzt Aktivierungscode anfordern!
+###
+
+Wie funktioniert das Bezahlen im Internet mit dem Sicherheitscode?
+
+Ihre Kreditkarte muss für diesen Service registriert sein.
+
+So funktioniert die Registrierung
+
+Beim Einkauf im Internet wählen Sie die gewünschten Produkte oder Dienstleistungen aus, legen diese in den Warenkorb und geben nach Auswahl der Zahlungsart die Daten Ihrer Kreditkarte ein. Daraufhin werden Sie auf eine Seite Ihrer Bank weitergeleitet, auf der Sie die E-Commerce TAN eingeben, die Sie für diese Transaktion per SMS oder über die VR SecureCard App auf Ihr Mobiltelefon erhalten haben. Sowohl Händler als auch Karteninhaber haben nun die Gewissheit, dass die gegenseitige Identität verifiziert wurde.
+###
+
+Wie kann ich von dem bisherigen E-Commerce TAN Verfahren auf die Sicherheitsfrage wechseln?
+
+Von dem Internetauftritt der EthikBank besteht die Möglichkeit, über den Sicherheitscode direkt in die „Benutzerverwaltung“ zu wechseln. Um Änderungen vorzunehmen ist eine Anmeldung erforderlich. Hierfür sind die Kartennummer und die übermittelte E-Commerce TAN einzugeben. Im Anschluss wählen Sie eine Frage aus und hinterlegen die Antwort.
+###
+
+Wie kann auf die E-Commerce TAN wechseln, wenn ich mein Passwort vergessen habe?
+
+Wenden Sie sich an die Service-Hotline Tel-Nr.: 0721-1209-66001 * Auswahl 4. Diese setzt Ihre Kreditkarte so zurück, dass Sie sich dann über eine Neuregistrierung für E-Commerce TAN anmelden können.
+
+* 0,14 Euro/Min. aus dem Festnetz der Deutschen Telekom, Mobilfunkhöchstpreis im Inland 0,42 EUR/Minute
+###
+
+Welche Informationen erhalte ich per SMS?
+
+Die SMS enthält den Händlernamen, Währung und Betrag der Transaktion und die für diese Daten berechnete E-Commerce TAN. Nur wenn die Daten aus der SMS denen der Transaktion entsprechen, die Sie freigeben möchten, geben Sie die E-Commerce TAN während des Kaufvorgangs ein. Die Zeit bis zur Auslieferung der SMS hängt von verschiedenen Faktoren wie Netzbetreiber, Auslastung des Netzes etc. ab. In der Regel erfolgt die Zustellung innerhalb von 30 Sekunden bis einer Minute.
+###
+
+Wie bin ich als Kreditkarteninhaber geschützt?
+
+Die korrekte Eingabe der E-Commerce TAN, die mit den passenden Transaktionsdaten an das von Ihnen registrierte Mobiltelefon gesendet wurde und der Sicherheitsfrage, weist Sie als rechtmäßigen Karteninhaber aus und der Kaufvorgang wird abgeschlossen.
+###
+
+Welche Vorteile habe ich vom Sicherheitscode?
+
+Sichere Internet-Zahlungen!
+
+Dieser für Sie kostenlose Service sichert Ihre Kreditkartenzahlungen im Internet vor unbefugtem Zugriff zusätzlich ab. Alle Daten (persönliche Daten, Bestellinformationen, Kreditkartendaten, Passwort) werden mittels SSL (Secure Socket Layer) verschlüsselt übertragen. Alle Beteiligten (Händler, Karteninhaber, etc.) werden als rechtmäßige Teilnehmer am jeweiligen Bezahlvorgang identifiziert. Sicherheitscode-Zahlungen können nur bei zuvor registrierten Händlern vorgenommen werden. Diese Händler erkennen Sie an diesem Symbol:
+
+
+
+
+Hohe Flexibilität!
+
+Sie können von jedem PC oder jedem anderen Internet-Zugangsgerät aus rund um die Uhr und weltweit im Internet einkaufen und sicher mit Ihrer Kreditkarte bezahlen.
+
+Keine Software-Installation!
+
+Für den Sicherheitscode benötigen Sie keine Software-Installation auf Ihrem PC. Die Anmeldung und Nutzung ist für Sie ganz unkompliziert.
+###
+
+Wie kann ich meine Kreditkarte(n) für diesen Service "Sicherheitscode" anmelden?
+
+Es gibt zwei Möglichkeiten der Registrierung:
+
+1. Registrierung während des Bezahlvorganges bei Händlern, die den Sicherheitscode anbieten.
+
+2. Gleich hier registrieren
+
+Sie erhalten zur Freigabe per Post einen Aktivierungscode, den Sie bei der nächsten Anmeldung oder dem nächsten Online-Einkauf eingeben.
+
+Als registrierter Nutzer können Sie zwischen den Verfahren VR-SecureCard App und SMS wählen. Sie schützen so Ihren Kartenumsatz durch eine auf Ihr Mobiltelefon gesandte Transaktionsnummer (TAN) via Push-Nachricht oder SMS.
+###
+
+Welche Systemanforderungen stellt der Sicherheitscode?
+
+Der Sicherheitscode erfordert Microsoft Internet Explorer ab Version 5.5 oder Firefox ab Version 2. Darüber hinaus müssen Sie evtl. beim Onlineeinkauf Software deaktivieren, die die Anzeige von Popup-Fenstern verhindert. Diese würde ggf. zu Konflikten beim Bezahlvorgang führen.
+###
+
+Kann ich den Sicherheitscode von jedem Computer aus nutzen?
+
+Da keine spezielle Software installiert werden muss, können Sie mit jedem Computer, der die Systemanforderungen erfüllt, online einkaufen.
+
+###

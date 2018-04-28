@@ -1,0 +1,25 @@
+###
+Wie kann ich mein Kartenguthaben aufladen?
+
+Per Überweisung. Füllen Sie Ihre Online-Überweisung nach diesem Muster aus:
+
+Empfänger: <Kontoinhaber>
+
+BIC: GENODEF1ESN
+
+IBAN: DE90830944940009422080
+
+Verwendungszweck: <BasicCard-Nummer>
+
+Ganz wichtig ist es, dass Sie Ihre BasicCard-Nummer ohne Leerzeichen eintippen.
+###
+
+Warum kann ich nicht verfügen, obwohl ich das Kartenguthaben heute aufgeladen habe?
+
+Es kann einige Stunden dauern, ehe die Daten übertragen sind. Probieren Sie es in 3 - 4 Stunden noch einmal. Sollte das Problem dann immer noch bestehen, rufen Sie uns an: 036691-862345.
+###
+
+Warum ist das Verfügungslimit "0,00 EUR", obwohl Guthaben auf meiner Karte ist?
+
+Das hat nichts zu bedeuten. Maßgebend ist der Kontostand auf Ihrem Kreditkartenkonto, den Sie im Online-Banking sehen können.
+###

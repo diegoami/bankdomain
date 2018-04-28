@@ -1,0 +1,115 @@
+
+###
+Was ist der Unterschied zwischen ZOIN und der Anadi mobilePAY App?
+
+Die Anadi mobilePAY App - auch Anadi mPAY App genannt - ist Ihre elektronische Geldbörse als Anadi Bank Kunde. ZOIN ist eine Funktion innerhalb dieser App, die Ihnen das einfache Geld-Senden, Geld-Empfangen oder Geld-Anfordern an Telefonkontakte oder an die Kartennummer der Maestro-Bankomatkarte ermöglicht.
+###
+Wie sicher ist ZOIN?
+
+Transaktionen sind mit der ZOIN-PIN gesichert und alle Daten werden verschlüsselt übertragen. Wer ZOIN am Smartphone aktiviert hat, sollte das Smartphone gleich gut schützen wie seine Maestro-Bankomatkarte.
+###
+Kann ich ZOIN vor dem Zugriff Dritter schützen?
+
+Der Login in die Anadi mobilePAY App ist durch E-Mail und Passwort geschützt. Wenn Sie Geld über ZOIN versenden, müssen Sie Ihre selbstgewählte, vierstellige ZOIN-PIN zur Transaktionsautorisierung eingeben, ausgenommen Sie haben die Einstellung so getroffen, dass Transaktionen unter EUR 25,00 ohne ZOIN-PIN abgewickelt werden können. Richten Sie auch eine allgemeine Sperre Ihres Smartphones z.B. durch Wischmuster ein, um den Zugriff auf Ihre Smartphone und somit ZOIN zu verhindern.
+###
+Welche PIN verwende ich bei ZOIN?
+
+Im Zuge der Registrierung für ZOIN legen Sie selbst eine vierstellige PIN fest. Diese benötigen Sie bei allen Geldsendungen. Auf Wunsch können Sie Ihre ZOIN-Einstellungen auch so wählen, dass Sie die ZOIN-PIN nur bei Geldsendungen über EUR 25,00 eingeben müssen. Gehen Sie dazu ins App-Menü (links oben im gelben Bereich) und deaktivieren Sie die "ZOIN-PIN Eingabe". Die Umstellung müssen Sie mit Ihrer ZOIN-PIN bestätigen.
+###
+Was passiert, wenn ich meine ZOIN-PIN vergessen oder falsch eingegeben habe?
+
+Wenn Sie die ZOIN-PIN vergessen haben, setzen Sie diese bitte neu. Gehen Sie dazu im App-Menü (links oben im gelben Bereich) unter "App-Einstellungen / ZOIN-PIN rücksetzen". Steigen Sie mit den Login-Daten ein und vergeben Sie eine neue ZOIN-PIN.
+###
+Wie viel kostet ZOIN?
+
+ZOIN ist derzeit kostenlos. Ab 1.4.2018 werden pro Transaktion für Geld senden bzw. Geld empfangen EUR 0,12 verrechnet.
+###
+Wie lange ist ZOIN gültig?
+
+Transaktionen über ZOIN sind möglich, solange die verbundene Maestro-Bankomatkarte aktiv und gültig ist.
+###
+Kann ich mehrere Maestro-Bankomatkarten für ZOIN registrieren?
+
+Je Telefonnummer kann immer nur eine Maestro-Bankomatkarte aktiviert werden. Ihre Telefonnummer ist der Schlüssel für ZOIN-Transaktionen.
+###
+Wie kann ich ZOIN deaktivieren?
+
+Sie finden In der Anadi mobilePAY App in der ZOIN-Übersicht den Menüpunkt „Kartenoptionen". Unter dem Punkt "ZOIN deaktivieren“, melden Sie sich jederzeit von ZOIN ab.
+
+Deaktivieren Sie die Maestro-Bankomatkarte für die ZOIN-Funktion bei:
+
+    Beendigung des Telekommunikationsvertrages mit dem aktuellen Mobilfunkbetreiber ohne Mitnahme der Telefonnummer.
+    Weitergabe des Telekommunikationsvertrages mit Smartphone
+    Weitergabe des Smartphones
+    Weitergabe des Telekommunikationsvertrages ohne Smartphone
+
+
+
+Wenn der Sender des Gelbetrages die Kartennummer (und nicht die Telefonnummer) verwendet, ist trotz Deaktivierung der ZOIN-Funktion nach wie vor das Empfangen von Geldbeträgen möglich.
+###
+Welche Limits habe ich bei ZOIN?
+
+Beim Senden
+
+    Maximalbetrag pro Transaktion: EUR 400,00
+    Maximalbetrag pro Tag: EUR 400,00
+    Maximalbetrag pro Woche: EUR 1.000,00
+    Einzelbeträge bis EUR 25,00 können auch ohne Eingabe des selbstgewählten ZOIN-PIN gesendet werden.
+    Ab einem kumulierten Gesamtbetrag von EUR 125,00 ist jedenfalls die Eingabe der selbstgewählten ZOIN-PIN notwendig
+    Anfragen an nicht registrierte Benutzer: Max. 5 Anfragen/Tag. Es werden Anfragen an nicht registrierte Benutzer gezählt.
+
+
+
+ZOIN-Transaktionen werden zudem den vereinbarten Höchstbeträgen für Verfügungen an POS-Kassen mit der Maestro-Bankomatkarte zugerechnet. Das bedeutet z.B., dass eine Geld-Senden-Transaktion Ihr verfügbares POS-Wochenlimit reduziert.
+
+Beim Empfangen:
+
+    Maximalbetrag pro Tag EUR 400,00
+    Maximalbetrag pro Woche EUR 1.000,00
+
+
+Beim Anfordern:
+
+    Maximalbetrag pro Tag EUR 400,00
+    Maximalbetrag pro Woche EUR 1.000,00
+    Limit für die Anzahl der Anforderungen pro Tag: 10 Mal
+    Limit für die Anzahl der Anforderungen pro Woche: 50 Mal
+
+###
+Wird ZOIN von allen österreichischen Mobilfunkanbietern unterstützt?
+
+Ja.
+###
+Wird ZOIN von allen österreichischen Kreditinstituten angeboten?
+
+Noch nicht alle Kreditinstitute bieten Ihren Kunden die Möglichkeit sich für ZOIN zu registrieren und so einfach und bequem Geld an Telefonkontakte zu senden. Unter folgendem Link sehen Sie bereits aktive Anbieter: https://www.zoin.at/mit-zoin-starten/
+Möchten Sie dennoch Geld im Rahmen von ZOIN an einen Empfänger senden, dessen Kreditinstitut diese Funktion noch nicht anbietet, so können Sie dies anstelle der Auswahl über das Telefonbuch Ihres Smartphones unter Angabe der Maestro-Kartennummer des Geldempfängers tun.
+###
+Kann ich auf meinem Smartphone die ZOIN Funktion verwenden?
+
+ZOIN ist für alle Smartphones mit den Betriebssystemen Android (ab Version 6) oder iOS (ab Version 9) verfügbar.
+###
+Was muss ich beim Senden, Empfangen und Anfordern von Geld mit ZOIN beachten?
+
+Es ist wichtig, dass Sie immer den Kontakt oder die Telefonnummer und den Betrag korrekt wählen. Eine einmal getätigte Geldsendung an einen registrierten Kontakt lässt sich nämlich nicht widerrufen. Daher überprüfen Sie Ihre Eingaben bitte sorgfältig.
+###
+Wie kann ich ZOIN sperren lassen, wenn mein Smartphone gestohlen wurde?
+
+Melden Sie sich bitte umgehend bei der 24h-Sperrhotline aus Österreich unter 0800 204 8800 bzw. aus dem Ausland: +43 1 204 8800
+
+Folgende Daten müssen Sie angeben, damit die ZOIN-Funktion gesperrt werden kann:
+
+    Ihre Kontonummer und die Bankleitzahl oder
+    die IBAN (Internationale Kontonummer)
+    Wenn Sie mehrere Maestro-Bankomatkarten haben, geben Sie bitte auch die Folgenummer der Maestro-Bankomatkarte an.
+
+
+
+Sie finden alle Daten auf Ihrer Maestro-Bankomatkarte. Ihre Maestro-Bankomatkarte können Sie nach der Sperre der ZOIN-Funktion weiterhin zum Bezahlen in Geschäften bzw. zum Bargeldbeheben nutzen.
+###
+Kann ich ZOIN auch zum Einkaufen im Internet verwenden?
+
+ZOIN ist ausschließlich für P2P Payments (Person to Person Geldtransfer d.h. zwischen Privatpersonen) nutzbar.
+
+
+###

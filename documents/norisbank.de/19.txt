@@ -1,0 +1,99 @@
+###
+Ist das Online-Banking bei der norisbank sicher?
+
+Ja, das Online-Banking der norisbank ist außerordentlich sicher. Die norisbank verwendet im Online-Banking die modernsten Sicherheitsverfahren. Alle Online-Transaktionen werden durch ein spezielles Sicherheitsprotokoll geschützt, das die Daten mit einer Verschlüsselung von 128 Bit überträgt.
+
+Die norisbank verwendet hier den weltweit anerkannten Sicherheitsstandard, die SSL-Verschlüsselung (Secure Socket Layer). Trojanische Pferde oder Viren sind nicht in der Lage, dieses Sicherheitsprotokoll direkt anzugreifen. Allerdings können Trojanische Pferde Ihre Login-Daten auf Ihrem PC mitlesen und unbemerkt über das Internet auf andere PCs übertragen.
+
+Bitte beachten Sie daher die Sicherheitshinweise auf unserer Website.
+###
+Welche Sicherheitsvorkehrungen sollte ich beim Online-Banking beachten?
+
+Sie sollten sich auf keinen Fall von einem Ihnen unbekannten Computer aus in den Transaktionsbereich der norisbank einloggen. Das gilt vor allem für Internetcafés, da die dort vorhandenen Computer für die Allgemeinheit zugänglich sind.
+
+Sie sollten ein Sicherheitsprogramm (Virenscanner) auf Ihrem Computer installieren, das nach Viren und Trojanern sucht, die Zugangsdaten ausspionieren. Achten Sie darauf, dass diese Sicherheitsprogramme immer auf dem neuesten Stand sind. Software aus Ihnen nicht bekannten Quellen sollten Sie auf keinen Fall auf Ihrem PC installieren.
+
+WICHTIGER HINWEIS: Für den Fall, dass Sie Ihren Computer nicht alleine benutzen, sollten Sie nach dem Verlassen des Transaktionsbereichs der norisbank grundsätzlich den Zwischenspeicher (Cache) löschen.
+###
+Wo erhalte ich Schutzprogramme?
+
+Wir empfehlen die Installation eines Virenscanners, einer Anti-Spionage-Software sowie einer Firewall. Sie können geeignete Schutzprogramme im Fachhandel erwerben.
+
+Beachten Sie bitte auch unsere Sicherheitshinweise.
+###
+Woran erkenne ich, dass meine Internetverbindung sicher ist?
+
+Eine sichere Internetverbindung können Sie u. a. an der Adresse erkennen. Beginnt sie mit „https“, so ist dies ein Zeichen für eine sichere Verbindung (z. B. https://meine.norisbank.de/). Ein weiteres Signal ist das geschlossene Schloss in der unteren Iconleiste Ihres Browsers.
+###
+Kann ich die Funktion "Auto-Vervollständigen" bzw. "Kennwörter speichern" für das Online-Banking ohne Sicherheitsverlust nutzen?
+
+Aktuelle Browser wie der Internet Explorer, Mozilla Firefox oder Google Chrome bieten die Möglichkeit, Einträge und Passwörter in Formularfeldern automatisch zu ergänzen und zu speichern. Aus Sicherheitsgründen sollten Sie diese Funktion deaktivieren bzw. nicht nutzen.
+###
+Ist das Online-Banking sicher, wenn ein Trojanisches Pferd auf meinem PC ist?
+
+Wenn Ihr PC, Tablet oder Smartphone von einem Trojanischen Pferd oder einem Virus befallen ist, sollten Sie zu Ihrer eigenen Sicherheit keine Online-Transaktionen durchführen, bis Ihr Betriebssystem und Ihre Anwendungsprogramme wieder virenfrei sind.
+
+Wir empfehlen Ihnen folgende Maßnahmen, um einen Befall Ihres PCs mit Viren und Trojanischen Pferden zu verhindern:
+
+Installieren Sie ein Schutzprogramm, einen sogenannten Virenscanner, der einen solchen "Befall" in den meisten Fällen melden und entsprechend beseitigen kann.
+
+Installieren Sie niemals Software, die Ihnen von unbekannten Absendern "zum Ausprobieren" zugeschickt wird. Löschen Sie E-Mails, deren Absender Sie nicht kennen, ohne sie zu lesen. Im schlimmsten Fall kann bereits das Aufrufen der Nachricht zum Virenbefall führen.
+
+Laden Sie nur Software von seriösen Softwareherstellern auf Ihren PC herunter und auch nur dann, wenn es wirklich zwingend erforderlich ist. Je weniger Programme Sie installieren, desto kleiner ist Ihr Risiko.
+
+Beachten Sie auch die Sicherheitshinweise auf unserer Website.
+###
+Was bedeutet "Phishing"?
+
+Beim "Phishing" (abgeleitet aus: Passwort fischen) wird die E-Mail-Absender-Adresse von bekannten Unternehmen und Dienstleistern vorgetäuscht. Über solche E-Mails mit gefälschtem Absender wird versucht, an vertrauliche Kundendaten zu gelangen.
+###
+Was ist „Pharming“ und wie kann ich mich schützen?
+
+"Pharming" hat sich als Oberbegriff für verschiedene Arten von DNS-Angriffen etabliert (DNS = Domain Name Server). Eine Methode dabei ist z.B. die lokale Manipulation der sog. Hosts-Datei. Dabei wird unter Zuhilfenahme eines Trojaners oder eines Virus eine gezielte Manipulation des PC vorgenommen – mit der Konsequenz, dass von diesem PC nur noch gefälschte Websites abrufbar sind, selbst wenn die Adresse korrekt eingegeben wurde.
+
+Der Begriff "Pharming" ergibt sich dadurch, dass die Pharming-Betrüger eigene große Server-Farmen unterhalten, auf denen gefälschte Webseiten abgelegt sind (Quelle: Wikipedia). Um diese Manipulation zu entdecken, achten Sie bitte immer darauf, dass die Adresse des Online-Banking mit https:// beginnt. Überprüfen Sie außerdem immer, dass Ihr Browser ein geschlossenes Schloss-Symbol anzeigt und kontrollieren Sie das Zertifikat des Servers (siehe nächste Frage: "Wie kann ich prüfen, ob ich tatsächlich mit der norisbank kommuniziere?").
+
+Installieren Sie eine Firewall und einen Virenscanner sowie eine Anti-Spionage-Software und aktualisieren Sie diese Programme regelmäßig. Lassen Sie den Virenscanner und die Anti-Spionage-Software regelmäßig Ihren PC überprüfen.
+
+Bitte beachten Sie auch die Sicherheitshinweise auf unserer Website.
+###
+Wie kann ich prüfen, ob ich tatsächlich mit der norisbank kommuniziere?
+
+Wenn eine sichere Internetverbindung hergestellt wird, bestätigt ein sogenanntes Zertifikat die Echtheit des Kommunikationspartners. Das Zertifikat, mit dem sich der Server identifiziert, wird von einem vertrauenswürdigen Drittanbieter, im Falle der norisbank VeriSign, erstellt. Bei einer sicheren Internetverbindung zeigen die verschiedenen Internet-Browser ein abgeschlossenes Schloss-Symbol in der Status- bzw. Adressleiste. Mit diesem Symbol können Sie auch die Zertifikate überprüfen. Es ist wichtig darauf zu achten, dass die Zertifikate gültig sind und auf meine.norisbank.de sowie die norisbank ausgestellt sind.
+
+Bitte beachten Sie hierzu die Sicherheitshinweise auf unserer Website.
+###
+Wie kann ich meinen PC vor Viren und Trojanischen Pferden schützen?
+
+Viren und Trojanische Pferde verbreiten sich über das Internet – diese Viren können überall lauern und sind ein grundsätzliches Risiko bei allen Computeranwendungen. Wenn sich Nutzer ungeschützt Daten und Anwendungen aus dem Internet auf ihren PC – z.B. via E-Mail oder Download – herunterladen, können sich sogenannte „Trojanische Pferde“ einschleichen. Diese manipulieren – vom Nutzer unbemerkt – die auf dem PC installierten Programme. Dies kann dazu führen, dass Eingaben und Bildschirmanzeigen Ihres PCs über das Internet an fremde PCs weitergeleitet werden. Diese Gefahr besteht für alle Anwendungen am PC.
+
+Wir empfehlen die Installation eines Virenscanners, einer Anti-Spionage-Software und einer Firewall. Geeignete Schutzprogramme können Sie im Fachhandel erwerben.
+
+Beachten Sie bitte auch unsere Sicherheitshinweise.
+###
+In welchem Fall ist von Online-Banking unter Linux, Solaris oder anderen Unix-Betriebssystemen abzuraten?
+
+Unter Linux, Solaris oder anderen Unix-Betriebssystemen sollten Sie dann kein Online-Banking durchführen, wenn Sie mit dem XWindows-System arbeiten und Ihnen mittels des Befehls „xhost +rechnername“ der Zugriff auf einen anderen Rechner gestattet wurde oder wenn Sie einen solchen Zugang zu Ihrem Rechner erlaubt haben. Dritte könnten in diesem Fall ungehindert auf Ihre Bildschirmdarstellung zugreifen und jederzeit über das Netzwerk Screenshots anfertigen sowie sämtliche Tastenkombinationen mitprotokollieren. Dabei können auch Passwörter in die Hände von unbefugten Personen gelangen.
+###
+Was sollte ich beachten, wenn ich das Online-Banking unter Linux, Solaris oder anderen Unix-Betriebssystemen nutzen möchte?
+
+Achten Sie beim Online-Banking unter Linux, Solaris oder anderen Unix-Betriebssystemen darauf, dass Sie einen Browser benutzen, der lokal auf Ihrem Rechner/Terminal ausgeführt wird.
+
+Nutzen Sie zum Beispiel einen Browser auf dem zentralen Unix-Rechner Ihrer Firma (dessen Oberfläche dann nur an Sie übertragen wird), dann ist die Gefahr groß, dass Unbefugte Ihre übertragenen Daten einsehen können. Das X11-Protokoll überträgt normalerweise sämtliche Daten unverschlüsselt zwischen Ihrem Rechner und dem System, auf dem der Browser installiert ist. Dabei werden auch sensible Informationen wie Passwörter übermittelt.
+
+Eine Übertragung ist auch dann nicht sicher, wenn die Daten mithilfe einer alten Version des Verschlüsselungssystems SSH (unter 2.0) kodiert werden.
+###
+Welcher Browser ist für meine Online-Banking-Geschäfte am besten geeignet?
+
+Um eine reibungslose Abwicklung Ihrer Online-Banking-Geschäfte zu gewährleisten, sollten Sie stets die aktuelle neue Version Ihres Browsers auf Ihrem PC, Tablet oder Smartphone installieren. Unsere Anwendung entspricht modernsten Sicherheitsanforderungen. Dadurch können bei älteren Browserversionen Probleme beim Online-Banking auftreten, da diese Versionen einige von uns verwendete Sicherheitsmerkmale nicht unterstützen.
+###
+Welche Browser empfehlen Sie für den Apple-Computer?
+
+Wenn Sie Mac OS X einsetzen, benutzen Sie bitte den von Apple mitgelieferten Safari-Browser oder die aktuellen Versionen von Mozilla Firefox bzw. Google Chrome.
+###
+Wann und warum wird meine Verbindung zum Bankserver automatisch getrennt?
+
+Haben Sie zehn Minuten lang keine Eingabe vorgenommen, wird Ihre Verbindung zum Bankserver automatisch getrennt.
+
+Dies geschieht ausschließlich aus Sicherheitsgründen. Dadurch wird verhindert, dass eine Fremdperson unbemerkt Zugriff auf Ihr Online-Banking nehmen kann.
+###

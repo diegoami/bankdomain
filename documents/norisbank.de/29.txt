@@ -1,0 +1,39 @@
+###
+Wie funktioniert der SMS-Service?
+
+Wenn bei Kartenzahlungen mit der Karte die Vermutung besteht, dass Ihre Karte in fremde Hände geraten ist, kontaktieren wir Sie per SMS, um den Sachverhalt zu klären.
+###
+Bei welchen Transaktionen erhalte ich eine SMS?
+
+Sie erhalten nur in den Fällen, bei denen Auffälligkeiten auftreten, eine SMS. Dies kann z. B. der Fall sein, wenn Sie eine Transaktion in Deutschland tätigen und wenige Stunden später in den USA.
+###
+Was muss ich tun, wenn ich eine SMS erhalte?
+
+Es gibt zwei unterschiedliche SMS.
+
+Bei der einen besteht lediglich ein allgemeiner Verdacht, dass es sich um einen missbräuchlichen Umsatz handeln könnte, die Karte kann aber uneingeschränkt weiter genutzt werden:
+
+„Umsatzanfrage zu Ihrer Kreditkarte: xxx,xx EUR bei [Händlername]. Bei
+Unstimmigkeiten rufen Sie bitte 030 310 66 010 an. Ihre norisbank“.
+
+Wurde diese Transaktion durch Sie getätigt, müssen Sie nichts weiter tun. Sollten Sie die Transaktion nicht zuordnen können, wenden Sie sich bitte umgehend an unseren telefonischen 24h-Kundenservice.
+
+Wenn die Wahrscheinlichkeit, dass die Karte missbräuchlich genutzt wurde, sehr hoch ist, wird sie vorübergehend für eine weitere Nutzung blockiert. Sie erhalten dann eine SMS mit folgendem Inhalt:
+
+„Verdächtige Kreditkartenanfrage: xxx,xx EUR bei [Händlername]. Ihre Karte wurde
+blockiert. Bitte rufen Sie 030 310 66 010 an. Ihre norisbank“.
+
+Bitte wenden Sie sich umgehend an unseren telefonischen 24h-Kundenservice um den Missbrauch zu bestätigen und eine Ersatzkarte zu bestellen oder um die Echtheit des Umsatzes zu bestätigen. Die Karte wird dann wieder freigeschaltet.
+###
+Kann ich die SMS auch auf ein Mobiltelefon mit ausländischer Rufnummer erhalten?
+
+Ja.
+
+SMS können grundsätzlich auch auf Mobiltelefone mit ausländischer Rufnummer gesendet werden.
+###
+Werden mir Kosten für die Zusendung der SMS in Rechnung gestellt?
+
+Nein.
+
+Die SMS wird Ihnen von uns kostenlos zugestellt. Für den Empfang von SMS im Ausland könnten ggf. zusätzliche Gebühren des Mobilfunkanbieters (Roaming) anfallen.
+

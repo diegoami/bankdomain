@@ -1,0 +1,65 @@
+###
+Wie erhalte ich erstmalig meine PIN und die TAN für das Online-Banking?
+
+Nach Ihrer Kontoeröffnung senden wir Ihnen automatisch Ihre PIN und die iTAN-Liste zu, die Sie für Ihren Zugang zum Online-Banking auf unserer Website benötigen.
+
+Sie sind Kunde und haben noch keine Online-PIN? Kein Problem:
+
+Jetzt Online-Zugang beantragen
+
+Steht Ihnen das Online-Banking nicht zur Verfügung, erreichen Sie unseren 24-h-Kundenservice unter 030 – 310 66 005.
+###
+Wie sicher ist meine fünfstellige PIN?
+
+Eine fünfstellige PIN ist ausreichend sicher. Wenn Sie für Ihre PIN die komplette Auswahl von großen und kleinen Buchstaben sowie die Zahlen Null bis Neun nutzen, so gibt es dafür 62 hoch 5 Kombinationsmöglichkeiten, also etwa 916 Millionen verschiedene PINs. Ihre PIN kann außerdem nicht einfach durch Ausprobieren herausgefunden werden.
+
+Ihr Zugang zum Online-Banking wird nach drei Fehlversuchen gesperrt. Beachten Sie daher bitte folgende Regeln für den Umgang mit Ihrer PIN:
+
+    Notieren Sie die PIN nirgendwo, auch nicht auf dem TAN-Block!
+    Achten Sie darauf, dass Ihre PIN keinem anderen bekannt wird!
+    Haben Sie den Verdacht, Ihre PIN könnte Dritten bekannt sein, ändern Sie sie bitte sofort in Ihrem Online-Banking. Oder lassen Sie Ihre PIN von unserem telefonischen Kundenservice unter 030 - 310 66 005 sperren.
+    Eine gute PIN nutzt kleine und große Buchstaben und Zahlen.
+    Verwenden Sie keine Geburtsdaten, Nummernschilder, Telefonnummern, Namen von Verwandten und Freunden, einfache Wörter etc.
+    Ändern Sie Ihre PIN regelmäßig mindestens einmal pro Quartal.
+###
+Meine PIN wurde gesperrt. Was muss ich tun, damit ich online wieder auf mein Konto zugreifen kann?
+
+Aufgrund dreimaliger falscher PIN-Eingabe wurde Ihr Kontozugang zur Sicherheit gesperrt. Ihre PIN entsperren wir gerne, nachdem Sie uns einen legitimierten Auftrag auf einem der folgenden Wege erteilt haben:
+
+Schriftlich:
+Per Brief, versehen mit Ihrer Unterschrift, an „norisbank GmbH, 10910 Berlin“.
+
+Telefonisch:
+Über den 24h-Kundenservice: 030 - 310 66 005
+
+Über Ihren Online-Banking-Zugang:
+Mit der richtigen PIN und einer TAN. Folgen Sie nach dem Einloggen einfach den Anweisungen in der Maske und geben Sie abschließend Ihre TAN ein.
+
+Jetzt Online-Banking aufrufen
+###
+Wie bilde ich eine sichere PIN, die ich mir gut merken kann?
+
+Eine gute Methode, eine PIN zu bilden, besteht z. B. darin, sich einen leicht einprägsamen Satz zu überlegen und den Worten jeweils einen Buchstaben zu entnehmen, z. B. den zweiten.
+
+Beispiel: "Mein Auto ist sehr schön." In diesem Beispiel entstünde "eusec". Um noch Zahlen hineinzubringen, ersetzt man z. B. das "s" durch die "5" und das "c" durch die "6". Die PIN wäre dann in diesem Fall "Eu5e6".
+###
+Wie aktiviere ich die PIN für das Telefon-Banking?
+
+Ihr Telefon-Banking erreichen Sie kostenlos unter 030 - 310 66 005. Bei Ihrem ersten Anruf werden Sie zur Eingabe Ihre Kontonummer und Ihrer PIN aufgefordert. Anschließend ist diese PIN aktiviert.
+
+Mit der Option TelefonPIN ändern können Sie die vorgegebene PIN für künftige Anrufe gegen eine selbstgewählte Wunschpin tauschen.
+
+Weitere Informationen finden Sie auf unserer Website.
+###
+Kann ich meine PIN und TAN auf der Festplatte speichern?
+
+Einen wichtigen Beitrag zur Vermeidung eines missbräuchlichen Zugriffs auf Ihr Konto leisten Sie selbst. Verhindern Sie, dass Dritte Kenntnis von Ihrer PIN bzw. den TAN erlangen und speichern Sie Ihre PIN und die TAN-Blöcke nicht auf Ihrem PC, Tablet oder Smartpone ab. Gleichermaßen raten wir von Software ab, die solche Informationen verschlüsselt auf der Festplatte ablegt.
+###
+Wie aktiviere ich einen neuen TAN-Block?
+
+Öffnen Sie in Ihrem Online-Banking den Reiter "Services" an, dann die Seite "TAN verwalten". Wählen Sie dort bitte das Feld "Aktivieren des TAN-Blocks Nr ...". Geben Sie die Nummer des neuen TAN-Blocks ein und klicken Sie auf "ausführen". Nun können Sie eine TAN vom neuen TAN-Block verwenden.
+
+Bitte beachten Sie: Alle TAN des vorher verwendeten TAN-Blocks werden bei der Aktivierung des neuen TAN-Blocks sofort ungültig.
+
+Weiterhin können Sie auf der Seite "TAN verwalten" TAN-Blöcke sperren, z.B. einen TAN-Block mit einer bestimmten Nummer, den derzeit aktiven TAN-Block oder alle TAN-Blöcke.
+###

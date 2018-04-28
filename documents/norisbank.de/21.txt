@@ -1,0 +1,48 @@
+###
+Welche Filter- und Suchmöglichkeiten stehen mir zur Verfügung?
+
+    Sie können die Liste Ihrer Umsätze nach Konten, Zeitraum, Kategorien und frei definierbaren Suchbegriffen einschränken.
+    In der erweiterten Suche können Sie zusätzlich ein tagesgenaues Zeitfenster, einen Mindestbetrag und einen Höchstbetrag sowie Suchbegriffe in der Umsatzbeschreibung festlegen.
+    Die Suche berücksichtigt die Transaktionsdetails, die Beträge sowie alle Haupt- und Unterkategorien.
+
+Hinweis: Falls Sie einen Zeitraum auswählen, der nur teilweise Umsatzdaten enthält, werden nur die vorhandenen Umsätze angezeigt.
+###
+Wie kann ich Transaktionen umkategorisieren?
+
+Klicken Sie dazu in der entsprechenden Zeile der Transaktion in der Spalte „Kategorie“ auf das Stiftsymbol und wählen Sie die entsprechende Kategorie. Auf der Folgeseite ist es möglich, eine genauere Unterkategorie auszusuchen. Die resultierende Regel wird als Dialog zusammengefasst.
+
+Bestimmen Sie, ob diese Kategorisierung einmalig nur für diese Transaktion angewendet oder generell als Regel definiert werden soll. Bei der Verwendung als dauerhafte Regel muss der Suchbegriff so gewählt werden, dass er tatsächlich mehrere Transaktionen betrifft.
+
+Bevor die Regel abgespeichert wird, zeigt der FinanzPlaner an, wie viele Transaktionen von der gerade erstellten Regel betroffen wären. Wird hier nur eine Transaktion aufgelistet, ist dies ein Hinweis darauf, dass der Suchbegriff nicht geeignet gewählt wurde. Über den „Ändern“-Link können Sie den Suchbegriff anpassen.
+
+Verwaltungsmöglichkeiten für allgemeine Regeln finden Sie auch unter „Einstellungen“.
+###
+Wie kann ich Transaktionen von der Analyse ein-/ausschließen?
+
+Klicken Sie dazu im Abschnitt "Umsätze" in der Zeile der Transaktion auf das „Bearbeiten“-Symbol rechts. Über das Diagrammsymbol auf der rechten Seite schließen Sie die Transaktion wahlweise ein oder aus.
+
+Hinweis: Über das Auswahlfeld in der Spalte „Kategorie“ können Sie auch aus diesem Dialog heraus die Transaktion kategorisieren.
+###
+Wie kann ich eine Transaktion aufteilen / Transaktionen wieder zusammenführen?
+
+Klicken Sie dazu im Abschnitt "Umsätze" in der entsprechenden Zeile der Transaktion auf das „Bearbeiten“-Symbol rechts und anschließend auf „Transaktion aufteilen“ (kleine Schere).
+
+Anschließend können Sie die ursprüngliche, in der ersten Zeile der Liste stehende Transaktion in zwei Transaktionen aufteilen. Den Teil-Transaktionen werden nun über die Eingabe in der Spalte „Betrag“ die jeweiligen Teilbeträge zugeordnet.
+
+Es ist zudem möglich, für die aufgeteilten Transaktionen über die Listenfelder eigene Umsatzdetails zu definieren, die neuen Teil-Transaktionen zu kategorisieren, ihre Relevanz für die Analyse einzustellen und die Aufteilung zu löschen (einzeln per Papierkorb-Symbol in der jeweiligen Zeile oder insgesamt über „Alle Aufteilungen löschen“).
+
+Über das „+“-Symbol können Sie weitere Aufteilungen definieren. Mit Klick auf „Speichern“ werden die Änderungen übernommen.
+###
+Wie trage ich die einzelnen Umsätze in meiner Kreditkartenabrechnung nach?
+
+Verwenden Sie hierfür die Funktion „Transaktionen aufteilen“.
+###
+Was muss ich tun, damit Transaktionen zwischen meinen Konten nicht in die Auswertung einbezogen werden?
+
+Klicken Sie dazu im Abschnitt "Umsätze" in der Zeile der Transaktion auf das „Bearbeiten“-Symbol rechts. Über das Diagrammsymbol auf der rechten Seite schließen Sie die Transaktion wahlweise ein oder aus.
+###
+Warum stimmt der Wert in "Ausgaben der letzten Monate" nicht mit dem Wert überein, der auf der Seite "Analyse" für die Ausgaben angezeigt wird?
+
+Diese Situation tritt auf, wenn Sie Transaktionen auf der Seite „Umsätze“ von der Analyse ausgeschlossen haben. Dann wird auf der Seite „Analyse“ die Summe über die nicht für die Analyse ausgeschlossenen Transaktionen gebildet. Auf der Seite „Umsätze“ jedoch geschieht dies über alle Transaktionen.
+
+###

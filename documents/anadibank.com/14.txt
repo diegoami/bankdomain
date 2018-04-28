@@ -1,0 +1,92 @@
+###
+Wo finden Sie ich Kontoauszüge?
+
+Unter dem Punkt: Service "Schließfach" / „Kontoauszüge“
+
+Im Reiter Kontoauszüge werden Ihre vorhandenen Kontoauszüge so lange angezeigt, bis Sie diese selbst löschen. Ungelesene Auszüge werden zur besseren Übersicht fett angezeigt.
+
+Sie können nach Konten, Erstellungsdatum bzw. Dokumentbezeichnung filtern und die Anzeige nach verschiedenen Kriterien sortieren.
+
+Sie können die Kontoauszüge je Konto anzeigen und filter.
+###
+
+Wie erstelle ich eine Sammelüberweisung?
+
+Unter Aufträge => Offene Aufträge
+Klicken Sie auf den Button „Alle Zeichnen“ oder Markieren Sie mehrere Aufträge und klicken auf „Selektierte Zeichnen“.
+
+Im Online-Banking werden immer jene Aufträge mit der gleichen Auftragsart (also Inlands- und Europaüberweisungen, Daueraufträge usw.) zu einer Sammelüberweisung zusammen geführt. Wählen Sie „JA“ beim Punkt „Diese Aufträge zusammengefasst buchen“.
+###
+Was sind „Offene Aufträge“?
+
+Offene Aufträge sind Aufträge, die Sie erfasst, aber nicht gezeichnet haben.
+
+###
+Was bedeutet die Zahl neben „Offene Aufträge“?
+
+Die Zahl zeigt Ihnen auf einem Blick, wie viele offene Aufträge Sie erfasst haben.
+###
+Wie erstelle ich eine Finanzamtszahlung?
+
+Unter Aufträge => Neuer Auftrag => Erweiterte Aufträge können Sie direkt eine Finanzamtszahlung erstellen. Wählen Sie die Auftragsart „Finanzamtszahlung“ aus oder geben Sie einfach die IBAN ein. Das Anadi Online-Banking ist intelligent. Es erkennt die IBAN eines Finanzamts und leitet Sie automatisch auf die Eingabemaske der Finanzamtszahlung um.
+
+Bitte beachten Sie, dass Sie für Finanzamtszahlungen eine Steuernummer benötigen, die für Online-Banking Überweisungen ausgelegt ist. Das Online-Banking überprüft diese Steuernummer bei der Eingabe und gibt Ihnen ggf. eine Hinweismeldung aus. Sollten Sie eine Hinweismeldung erhalten wenden Sie sich bitte an Ihr Finanzamt.
+###
+Wie erstelle ich einen periodischen Auftrag?
+
+Einen neuen periodischen Auftrag erstellen Sie unter:
+Wählen Sie für periodische Aufträge die Auftragsvariante "Erweitert" aus.
+
+Im Gegensatz zum Dauerauftrag legen Sie periodische Aufträge an, und müssen jede einzelne Durchführung vor Fälligkeit mit einer TAN freigeben. Wählen Sie wöchentliche oder monatliche Wiederholung aus und deaktivieren Sie den Punkt "Auftrag automatisch ausführen?" Eine Übersicht über alle angelegten periodischen Aufträge finden Sie unter den "geplanten Aufträgen".
+###
+Wie erstelle ich eine Überweisung über einen QR-Code?
+
+Die Überweisung über einen QR-Code ist eine Sonderfunktion der anadi Online-Banking App.
+Wann immer Sie eine Rechnung mit QR-Code erhalten: Nutzen Sie dieses Service, um Fehler bei der Datenerfassung zu vermeiden. Einfach neuen Auftrag öffnen, auf die Registerkarte „Scan“ wechseln und den QR-Code am Smartphone oder Tablet scannen. Alle relevanten Daten für Ihre Überweisung werden automatisch übernommen. Bitte beachten Sie, dass diese Funktion nur in unserer Online-Banking App auf Ihrem Smartphone oder Tablet zur Verfügung steht.
+
+###
+Wie kann ich einen Auftrag, Eigenübertrag und eine internationale Zahlung erstellen?
+
+Unter Aufträge "Neuer Auftrag"
+
+Das Anadi Online-Banking ist intelligent. Es merkt sich IBANs, Empfängerdaten, Zahlungstermine. Es lernt ständig dazu, denkt für Sie mit und merkt sich alle einmal eingegebenen Daten. Einfache Aufträge: Für Euro-Überweisungen. Im Empfängerfeld können Sie entweder einen Namen oder eine IBAN, den Betrag und Verwendungszweckeingeben. Abschicken, zeichnen und fertig. Erweiterte Aufträge: Auslandszahlung, Finanzamtszahlung, Dauerauftragserstellung und barTAN.
+
+Smarte Aufträge: Für Eigenüberträge oder Zahlungen an Ihre Favoriten mittels Drag & Drop.
+
+Tigerstarker Anadi-Tipp:
+Eigenüberträge können Sie ohne TAN-Eingabe durchführen. Zu Ihrer eigenen Sicherheit prüfen Sie immer die Auftragsdetails wie Empfänger-Name, Empfänger-IBAN und Betrag in Ihrer mobileTAN oder tresorTAN!
+###
+Was ist die tresorTAN bzw. tresorTAN App?
+
+Wir stellen Ihnen Ihre Transaktionsnummern in einer separaten App zur Verfügung quasi in einem Tresor, zu dem nur Sie Zugang haben. Die Trennung der Online-Banking App und der tresorTAN App macht Ihre Online-Geldgeschäfte jetzt noch sicherer.
+
+Und so einfach geht´s:
+1. Laden Sie die tresorTAN App der Anadi Bank im jeweiligen Store herunter und installieren Sie die App auf Ihrem mobilen Endgerät.
+2. Führen Sie einen Login mit Ihren persönlichen Zugangsdaten (Verfügernummer, Verfügername und PIN) durch.
+3. Stellen Sie eine Gerätebindung her. Dazu vergeben Sie einen Namen für Ihr mobiles Endgerät und tippen auf den Button verbinden.
+4. Abschließend zeichnen Sie mittels mobileTAN. Sie können nach erfolgreichem Registrierungsprozess die tresorTAN App sofort nutzen.
+###
+Wo finde ich Daueraufträge, periodische Aufträge und Terminüberweisungen?
+
+Unter Aufträge => Geplante Aufträge
+
+Daueraufträge werden automatisch zu den von Ihnen angegebenen Terminen gebucht. Sie können direkt aus der Dauerauftragsübersicht einen neuen Dauerauftrag erstellen. Bequemer geht es nicht.
+
+Die Anlage eines periodischen Auftrages erfolgt ähnlich der Anlage eines Dauerauftrages, allerdings werden Ihnen periodische Aufträge 7 Tage vor Fälligkeit in die "Offenen Aufträge" gestellt und müssen von Ihnen immer gezeichnet und gesendet werden.
+
+Terminaufträge liegen auf Termin und werden zum angeführten Durchführungstermin gebucht. Bis 24 Stunden vor Durchführung des Terminauftrages können diese storniert oder geändert werden. Bitte beachten Sie, dass eine Änderung und ein Storno immer mit einer TAN gezeichnet werden müssen. Das Online-Banking führt Sie bequem durch diesen Prozess.
+
+###
+Wie drucke ich die Buchungsbestätigung oder Umsatzliste?
+
+Sie können die Buchungsbestätigung von jedem Umsatz den Sie selbst getätigt haben aus der Umsatzübersicht drucken. Zusätzlich haben Sie die Möglichkeit bei Sammelüberweisungen einen Sammeldruck oder aus dem Sammler einzelne Überweisungen zu drucken.
+
+Wählen Sie Ihr gewünschtes Konto.
+
+Dafür klicken Sie auf den gewünschten Umsatz. Es öffnet sich ein Fenster - dort finden Sie den Button Buchungsbestätigung drucken.
+###
+Wie kann ich eine Übernahmebestätigung drucken?
+
+Drucken Sie Ihre Übernahmebestätigung entweder gleich beim Zeichnen under „Auftragsdetails / Drucken“ oder später unter Aufträge => Gezeichnete Aufträge.
+
+###

@@ -1,0 +1,25 @@
+###
+Kann ich eine andere Website besuchen, während ich in meinem Online-Banking angemeldet bin?
+
+
+Sie können in einem weiteren Browser-Fenster zu einer anderen Site wechseln, während Sie in Ihrem Online-Banking angemeldet sind. Dies wird von uns aber nicht empfohlen. Öffnen Sie für das Online-Banking immer nur ein Browserfenster bzw. einen Tab auf Ihrem PC, Tablet oder Smartphone.
+
+Bitte beachten Sie, dass wir Ihre Verbindung aus Sicherheitsgründen nach zehn Minuten automatisch trennen, wenn keine weiteren Eingaben erfolgen.
+
+Jetzt Online-Banking aufrufen
+###
+
+Warum werden in meiner Finanzübersicht keine Konten angezeigt?
+
+Auf dem Reiter "Services" Ihres Online-Bankings können Sie Ihre Finanzübersicht individuell konfigurieren. Aktivieren Sie die Konten und Kreditkarten, die Sie im Überblick sehen möchten und speichern Sie Ihre Einstellungen.
+###
+
+Kann ich das Online-Banking auch ohne Java, JavaScript, ActiveX, Active Scripting etc. nutzen?
+
+Ja, das Online-Banking mit PIN und TAN funktioniert auch dann, wenn Sie die aufgeführten Technologien in Ihrem Browser nicht nutzen.
+
+Bitte beachten Sie dabei, dass bestimmte Funktionen, wie der Kalender zur Eingabe von Daten, nicht funktionieren und sich z. B. die Hilfefunktion nicht in einem neuen Fenster öffnet.
+
+Benutzen Sie in diesem Fall bitte folgenden Link, um sofort zu Ihrem Online-Banking zu gelangen.
+###
+

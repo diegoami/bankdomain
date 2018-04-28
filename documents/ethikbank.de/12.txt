@@ -1,0 +1,56 @@
+###
+Kann ich sofort nach der Registrierung einkaufen?
+
+    Bei der Registrierung während des Einkaufsvorgangs: Die Registrierung wird im Kartenmanagementsystem Ihrer Bank sofort vorgenommen. Nach der Registrierung kann der Sicherheitscode zum Abschluß dieser Transaktion genutzt werden. Vor der Durchführung weiterer Transaktionen ist die Eingabe des per Post übermittelten Aktivierungscodes erforderlich.
+
+    Die Registrierung über die Bankhomepage nehmen Sie am besten gleich nach Erhalt der Karte vor, da zunächst der Erhalt des Briefs mit dem Aktivierungscode abgewartet werden muss, bevor Sie die Karte bei 3D-Secure-fähigen Händlern einsetzen können.
+###
+Welche Angaben sind für die Registrierung notwendig?
+
+    Die Kreditkartennummer, die Abrechnungskonto-Nr., das Geburtsdatum des Kreditkarteninhabers sowie die Mobilfunknummer sind für die Registrierung erforderlich.
+###
+Kann ich mich über die Internetseite der EthikBank registrieren?
+
+    Ja. Sie haben die Möglichkeit, sich hier für das Verfahren zu registrieren.
+###
+Kann ich mich auch während des Bezahlvorganges bei einem Händler, der den Sicherheitscode anbietet, registrieren?
+
+    Ja. Während des Einkaufsprozesses werden Sie aufgefordert sich zu registrieren. Vor der Nutzung bei weiteren Sicherheitscode-fähigen Händlern muss zum Abschluss der Registrierung der per Post versendete Aktivierungscode und die Sicherheitsfrage eingegeben werden.
+###
+Was ist eine persönliche Begrüßung?
+
+    Während des Registrierungsvorganges erstellen Sie eine persönliche, individuelle Begrüßung. Zukünftig wird bei jedem Online-Kaufvorgang (bei teilnehmenden Händlern), der getätigt wird, ein Eingabe-Fenster angezeigt, in dem Sie zur Eingabe der E-Commerce TAN  und der Sicherheitsfrage aufgefordert werden. In diesem Fenster wird auch Ihre persönliche Begrüßung angezeigt. Durch die persönliche Begrüßung können Sie sicher sein, dass Sie mit dem richtigen Server der Volksbank Eisenberg kommunizieren.
+
+    Wenn die im Eingabe-Fenster angezeigte persönliche Begrüßung nicht richtig ist, sollten Sie die Transaktion abbrechen und sich sofort mit dem Karteninhaberservice bzw. unserer Bank in Verbindung setzen.
+###
+Wieso muss ich meine Mobiltelefonnummer nochmals registrieren, obwohl ich sie bei meiner Bank doch schon für die mobile TAN/ Transaktionssignale hinterlegt habe? Wofür wird meine Mobilfunknummer genutzt?
+
+    Zum einen darf die für andere Verfahren hinterlegte Nummer nicht ohne Ihr Einverständnis für die Kontaktaufnahme im Rahmen neuer Verfahren genutzt werden, zu denen Sie nicht Ihr Einverständnis erklärt haben.
+
+    Zum anderen erfolgt die Abwicklung der Kreditkartenzahlungen nicht über die Kernbank-Anwendung Ihrer Bank, so dass im Rahmen der Kreditkartenabwicklung nicht auf die dort gespeicherte Mobilfunknummer zurückgegriffen werden kann.
+###
+Entstehen mir für die Übermittlung der SMS Kosten?
+
+    Seitens der Bank wird der Versand der SMS mit der E-Commerce TAN nicht bepreist. Der Empfang von Kurzmitteilungen ist in der Regel im Heimatnetz wie auch beim Auslandsroaming kostenfrei.
+
+    Tarifmodelle, in denen der Empfang bepreist wird, sind uns nicht bekannt. Bitte klären Sie ggf. mit Ihrem Mobilfunkanbieter, ob dieser Ihnen den Empfang von SMS Nachrichten in Ihrem Tarif in Rechnung stellt.
+###
+Was ist, wenn ich mehrere Kreditkarten habe?
+
+    Sie müssen jede Kreditkarte anmelden. Das System ist kartenbezogen aufgebaut. Eine Betrachtungsweise auf Kundenebene ist leider nicht möglich.
+###
+Was ist, wenn ich Hilfe brauche oder weitere Fragen zur Registrierung habe?
+
+    Wenn Sie während der Registrierung Fragen haben oder Hilfe benötigen, können Sie die Service-Hotline anrufen.
+
+    Tel-Nr.: 01805/585252 "Auswahl 4" (0,14 Euro/Min. aus dem
+    Festnetz der Deutschen Telekom, Mobilfunkhöchstpreis 0,42 EUR/Minute).
+###
+Bei der Registrierung werden meine Daten (Geburtsdatum, Abrechnungskonto) als fehlerhaft moniert.
+
+    In einigen Konstellationen (Zusatzkarte, Privatkarte mit Abrechnung über ein anderes Konto) sind ggf. die Daten des Inhabers des Abrechnungskontos einzugeben. Bitte setzen Sie sich mit Ihrem Berater in Verbindung, welche Daten zu Ihrer Karte im System hinterlegt sind.
+###
+Ich besitze eine BasicCard, weiß aber mein bei der Beantragung angegebenes Abrechnungskonto nicht.
+
+    Bitte setzen Sie sich mit Ihrem Berater in Verbindung, welche Daten zu Ihrer Karte im System hinterlegt sind, sofern Sie Ihre Kopie des Kartenantrags nicht zur Hand haben.
+###

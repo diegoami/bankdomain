@@ -1,0 +1,45 @@
+####
+Wie sicher ist das kontaktlose Bezahlen?
+
+Die girocard kontaktlos nutzt den internationalen EMV-Standard für die Transaktionsabwicklung. So kommen die gleichen hohen technischen Standards wie bei der bisherigen girocard zum Einsatz. Hierdurch ist ein durchgehend hohes Sicherheitsniveau gewährleistet.
+
+Der erforderliche geringe Abstand von wenigen Zentimetern zwischen Karte und Terminal verhindert, dass eine Zahlung unbeabsichtigt ausgelöst wird. Falls das System in seiner Umgebung mehrere Karten gleichzeitig erkennt, wird die Transaktion automatisch abgebrochen. Durch bloßes Vorbeigehen an einem Lesegerät lässt sich kein Geld von der girocard abbuchen.
+
+Als weitere Schutzmaßnahme ist der Höchstbetrag zum mehrmaligen, kontaktlosen Bezahlen ohne PIN auf insgesamt 100 Euro begrenzt. Dieses Limit erneuert sich bei jedem Karteneinsatz mit PIN, wenn die Karte in eine Bezahlterminal oder einen Geldautomaten gesteckt wird.
+####
+
+Kann jemand unbefugt Geld von meiner girocard abbuchen?
+
+Nein, „aus Versehen“, etwa „im Vorbeigehen“ an einem kontaktlosen Lesegerät, lässt sich kein Geld von der Karte abbuchen. Die Daten werden nur bei sehr geringem Abstand zwischen Karte und Terminal übertragen.
+
+In absoluten Ausnahmefällen kann es möglich sein, dass auf Kartendaten zugegriffen wird, die über die kontaktlose Schnittstelle ausgelesen werden können - ohne das Wissen und die Zustimmung des Karteninhabers. Der Name des Karteninhabers und weitere personenbezogene Informationen wie Geburtsdatum oder Adresse sind jedoch nicht im Chip gespeichert und können nicht aus den frei auslesbaren Daten abgeleitet werden. Trotzdem ist es nicht auszuschließen, dass die unrechtmäßig erhobenen Daten dann möglicherweise von Betrügern weiterverarbeitet und weitergegeben werden könnten, ohne dass der Karteninhaber unmittelbar Kenntnis davon erhält. Aus dieser unrechtmäßigen Verarbeitung könnten gegebenenfalls missbräuchliche Aktivitäten resultieren (zum Beispiel Lastschriften oder Überweisungen nach Ermittlung von Kontodaten). Sollten Sie irgendwelche widerrechtlichen Buchungen auf Ihrem Girokonto feststellen, setzen Sie sich bitte sofort mit uns in Verbindung.
+
+####
+Was ist bei einem Verlust der Karte zu beachten?
+
+Bei Verlust der girocard müssen Sie diese wie bisher umgehend sperren lassen. Wenden Sie sich hierzu an unseren Kundenservice unter 036691 - 862345 oder nutzen Sie gleich die  zentrale Sperrnummer 116 116.
+
+Darüber hinaus sollte ein Diebstahl der Karte immer zusätzlich der Polizei gemeldet werden. Grundsätzlich gilt: Bewahren Sie Ihre Karte sorgfältig auf, überlassen Sie sie niemals Dritten, lernen Sie die Geheimzahl (PIN) auswendig und notieren diese nirgends.
+####
+
+Können meine Daten mit einem Smartphone ausgelesen werden?
+
+Ja, auch bei der girocard kontaktlos kann auf die sehr wenigen frei auslesbaren Daten mit einer App und einem NFC-fähigen Smartphone zugegriffen werden. Hierzu muss das Smartphone jedoch bis auf wenige Zentimeter an die Karte herangeführt werden. Zudem stören auch Metalle wie Kleingeld im Portemonnaie das Auslesen.
+
+####
+
+Wie kann ich das Auslesen meiner durch Dritte verhinden?
+
+Auch wenn die auslesbaren Daten kein echtes Datenschutz- oder Sicherheitsrisiko darstellen, können Sie ein ungewolltes Auslesen der Karte verhindern. Dies kann zum Beispiel über eine Kartenhülle oder spezielle Portemonnaies erfolgen. Es reicht jedoch teilweise auch schon, Kleingeld im Portemonnaie zu haben - durch mehrere Münzen hindurch kann die Karte nicht ausgelesen werden.
+####
+
+Können mittels der girocard kontaktlos Bewegungsprofile von mir erstellt werden?
+
+Nein, in der Praxis können keine Bewegungsprofile von Kunden erstellt werden. Auch wenn durch eine Vielzahl innerhalb eines bestimmten Bereichs aufgestellter Lesegeräte die theoretische Möglichkeit besteht, ist in der Praxis eine solche Überwachung angesichts der erforderlichen kurzen Distanzen zu den Lesegeräten bzw. Vielzahl von Lesegeräten systembedingt äußerst unwahrscheinlich. Auch durch eine deutliche Vergrößerung der Lesegeräteleistung können keine Bedingungen geschaffen werden, die das einfache Erstellen von Bewegungsprofilen im Alltag ermöglichen.
+####
+
+Ich möchte kontaktlos nicht nutzen. Kann ich anstelle der girocard kontaktlos auch noch eine alte kontaktbehaftete girocard bekommen?
+
+Alle girocards werden zukünftig als kontaktlose Karten ausgegeben. Wenn Sie die bequeme Möglichkeit der kontaktlosen Zahlung mit der girocard nicht nutzen möchten, können Sie die Kontaktlos-Funktionalität an genossenschaftlichen Geldautomaten abschalten. Dabei wird der kontaktlose Zugriff auf die Karte vollständig unterbunden bis an einem genossenschaftlichen Geldautomaten eine Reaktivierung erfolgt.
+
+####
