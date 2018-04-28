@@ -1,0 +1,180 @@
+###
+Gibt es Muster vom Händlervertrag?
+
+Die Vertragsfreiheit ist einer der Vorteile für SumUp Händler, daher fallen auch keine monatlichen Fixkosten an. Günstige Transaktionskosten, sofern Transaktionen stattfinden, bieten einen hohen Grad an Flexibilität und Transparenz. Die rechtliche Grundlage der Beziehung zwischen SumUp und seinen Nutzern sind die Datenschutzbestimmungen sowie die AGB.
+###
+Wann gibt es das Kassenterminal für Android?
+
+Die SumUp POS Box ist nur als Paketlösung (im Starterpaket inkl. iPad für 999 €) erhältlich und nur für iOS. Android ist bisher nicht angedacht!
+###
+Kann SumUp in Onlineshops integriert werden?
+
+Ja, SumUp arbeitet derzeit an einer ECOM-Lösung. Genaue Spezifikation anhand eines Anwendungsfalles wäre hilfreich.
+Mehr Informationen
+###
+Kann SumUp in PSP eingebunden werden?
+
+Ja, aber eine genaue Spezifikation anhand eines Anwendungsfalles wäre hilfreich. Genau genommen ist SumUp selbst auch ein PSP. Es sind bereits diverse APIs vorhanden, die unterschiedliche Ansprüche abdecken können.
+###
+Wie ist der Abrechnungsrhythmus von Händlern?
+
+Es gibt eine tägliche Abrechnung sowie eine zum Monatsende. Je nach Bedarf kann der Händler in seinem Dashboard den Betrachtungszeitraum wählen sowie eine CSV-Datei als Download generieren und an seinen Steuerberater weiterleiten.
+###
+Wie lange dauert die Gutschrift?
+
+Die Auszahlung dauert 2-4 Werktage. EC-Zahlungen sind in der Regel bereits nach 2 Tagen schon überwiesen.
+###
+Mit welchen Geräten kann ich SumUp nutzen?
+
+SumUp kann mit einer Vielzahl von iOS und Android Geräten genutzt werden.
+
+Die Voraussetzung ist, dass Ihr Smartphone oder Tablet Bluetooth 4.0 unterstützt und auf iOS 7 oder höher bzw. Android 4.4 oder höher läuft.
+
+Unter diesem Link können Sie prüfen, ob Ihr Smartphone oder Tablet mit dem SumUp AIR Kartenterminal kompatibel ist.
+###
+Bestätigung der Zahlung mit PIN oder Unterschrift?
+
+Nachdem Sie den Kaufbetrag in die SumUp App eingegeben und die Karte des Kunden in das Kartenterminal eingesteckt haben, autorisiert der Kunde die Zahlung.
+
+Um die Zahlung zu autorisieren, gibt der Kunde seine 4-stellige Geheimzahl in das AIR oder NFC Kartenterminal ein und tippt im Anschluss auf das grüne Häkchen.
+
+Es kann vorkommen, dass anstatt der Eingabe der Geheimzahl, die Autorisierung über die Unterschrift des Kunden auf dem Bildschirm der SumUp App stattfindet. Der Normalfall ist allerdings die Autorisierung über die Eingabe der PIN.
+
+Ob PIN-Eingabe oder Unterschrift hängt von den Einstellungen ab, die auf dem Chip der Karte des Kunden hinterlegt sind. Der Händler kann nicht beeinflussen, ob Geheimzahl oder Unterschrift abgefragt wird. Beträge unter 25 € sind autorisierungsfrei.
+###
+Was passiert im Funkloch?
+
+SumUp benötigt für die Abwicklung der Transaktion immer eine bestehende Internetverbindung mind. EDGE (E) da die ausgelesenen Kartendaten niemals auf dem Gerät oder Smartphone gespeichert werden, sondern direkt über eine Internetverbindung (u. a. auch Wifi) an den SumUp Bankenserver geschickt werden müssen.
+###
+Kann ich SumUp auch im Ausland einsetzen?
+
+SumUp kann innerhalb des Landes benutzt werden, das Sie bei Ihrer Registrierung angegeben haben.
+
+SumUp kann Ihnen die Nutzung in einem weiteren Land ermöglichen. Bitte beachten Sie hierfür, dass nur die Länder möglich sind, in denen SumUp das Produkt anbietet. Wenn Sie einen SumUp Account haben und diesen außerhalb Ihres angemeldeten Landes benutzen wollen, kontaktieren Sie bitte den SumUp Kundenservice. Bitte geben Sie an, in welchem Land Sie SumUp benutzen wollen, den Grund für Ihren Besuch des Landes sowie den Zeitraum, in dem Sie Transaktionen in diesem Land tätigen möchten.
+
+Hier finden Sie in alphabetischer Reihenfolge eine Liste aller Länder, in denen SumUp angeboten wird:
+
+• Belgien
+
+• Brasilien
+
+• Chile
+
+• Deutschland
+
+• Frankreich
+
+• Irland
+
+• Italien
+
+• Niederlande
+
+• Österreich
+
+• Polen
+
+• Portugal
+
+• Schweden
+
+• Schweiz
+
+• Spanien
+
+• USA
+
+• Vereinigtes Königreich
+
+Der Karteninhaber muss eventuell eine Gebühr bei seiner eigenen Bank für die Transaktion bezahlen. Diese Gebühr fällt an, wenn die Währung des Landes, in der die Karte ausgestellt wurde, nicht der Währung des Landes entspricht, in dem Sie Ihr Geschäft bei SumUp registriert haben. Ein Beispiel wäre, wenn Sie sich in der Schweiz befinden, Ihr SumUp Konto jedoch für Deutschland registriert ist und Ihr Kunde eine Karte einer Bank aus der Schweiz besitzt. In diesem Fall kann die Bank des Kunden eine zusätzliche Gebühr berechnen.
+###
+Wie hoch sind Transaktionsgebühren?
+
+Es gibt keine monatliche Grundgebühr und keine Vertragsbindung. Sie zahlen lediglich eine Gebühr pro Kartentransaktion:
+
+• 0,95% für EC-Karten
+
+• 2,75% für Mastercard, Visa und American Express
+
+Darüber hinaus fallen KEINE Kosten an.
+###
+Welche Geschäftsmodelle werden nicht unterstützt?
+
+Als reguliertes Institut unterliegt SumUp den strengen Vorgaben der Finanzbehörden, der Kartengesellschaften (Visa, Mastercard und American Express) sowie der Zahlungsabwickler, die als Schnittstelle zwischen den Kartenservice-Anbietern agieren. Die Lizenz ist nicht unbegrenzt und folglich kann SumUp nicht jedes Geschäftsmodell unterstützen. Ab und an werden von dieser Liste der nicht akzeptierten Geschäftsmodelle neue Kategorien hinzugefügt oder bestehende entfernt. SumUp bemüht sich aus diesem Grund, die Liste auf dem aktuellen Stand zu halten. Für weitere Fragen, kontaktieren Sie bitte das SumUp Support Team.
+
+Die folgenden Geschäftsmodelle können aktuell leider nicht unterstützt werden:
+
+• Geschäfte, die in der Zukunft stattfinden: der Zeitraum zwischen der Kartenzahlung und dem Überbringen der Ware/Erbringen des Services sollte nicht länger als 7 Tage sein. Sollten es in Ihrem Fall mehr als 7 Tage sein, fällt ihr Geschäft in diese Kategorie (z.B. Verkauf von Konzertkarten (außerhalb der Abendkasse) oder Flugtickets).
+
+• Pornografie, Unterhaltung für Erwachsene
+
+• Fluglinien
+
+• Geschäftsseminare, wie beispielsweise zu Immobilien, Investment, Geschäftsstrategien, Selbst-Hilfe Bücher
+
+• Inkassounternehmen, Rückfinanzierung bei Schulden, Absatzfinanzierung, Pfand/Hypotheken, Börsenmakler, Refinanzierung, Kleinkredite
+
+• Plastische Chirurgie
+
+• Nicht-Lizenzierte Beratungszentren (z.B. Finanz- und Schuldenberatung, Heirats- und Familienberatung, Alkohol- und Drogenberatung sowie weitere persönliche Beratungen)
+
+• Detektivagenturen, Schutzagenturen, Sicherheitsagenturen (inkl. bewaffneter Autos und Wachhunde)
+
+• Tür-zu-Tür Verkäufe
+
+• Verkauf von Drogen
+
+• Arbeitsagenturen, zeitlich begrenzter Hilfsservice
+
+• Escort Service
+
+• File Sharing Dienste
+
+• Wahrsagen
+
+• Glücksspiel
+
+• Verkauf sowie Vertrieb von Schusswaffen, Feuerwaffen, Munition
+
+• Illegale oder hinsichtlich der Legalität fragwürdige Geschäfte/Produkte
+
+• Investor Services / Investment Clubs, Verkauf von Aktien, Wertpapieren, Optionen, binären Optionen, Forex und anderen Anlagen
+
+• Produkte zur männlichen/weiblichen Potenzsteigerung
+
+• Mitgliedschaftsbeiträge
+
+• Model-/Talentagenturen
+
+• Non-Profit-Organisationen (NPO) bzw. gemeinnützige Organisationen
+
+• Pfandleihhäuser
+
+• Politische Organisationen
+
+• Produkte mit zweifelhafter Effizienz: u. a. Produkte zur Gewichtsabnahme, Haarwachstum, zur Stärkung körperlicher Leistungsfähigkeit
+
+• Schutzdienste: Versicherungsschutz, Dienste gegen Identitätsdiebstahl, Internetbetrug, Kreditkartendiebstahl oder -betrug, usw.
+
+• Schneeballsystem, Multi-Level-Marketing
+
+• Religiöse Organisationen & Geschäfte
+
+• Handel mit Briefmarken und Münzen
+
+• Telekommunikationsdienste: u. a. Verkauf von Prepaid Telefonen oder sich wiederholende Telefondienste
+
+• Sexuelle Begegnungen, wie z.B. Massagesalons, bei denen sexuelle Kontakte gestattet sind
+
+• Gebrauchtwagen (beim Verkauf von Yachten, Motorrädern und Autos, sowohl Neu- als auch Gebrauchtwagen, bitten wir Sie diesen Artikel zu beachten)
+
+• Anzahlungen/Kautionen und jegliche Art von Zahlung, die einer Rückerstattung zugrunde liegt (durch die AGBs des Händlers)
+###
+Wer ist mein Ansprechpartner bei Fragen?
+
+Es gibt eine umfangreiche Sammlung von Fragen und Hilfestellungen unter: http://supportde.sumup.com
+
+Sollten darüber hinaus noch Fragen bestehen, ist SumUp telefonisch unter 030 3080 9902 erreichbar.
+
+E-Mail-Anfragen richten Sie bitte an: Bestandkunden: support@sumup.de Interessenten: info@sumup.de
+###

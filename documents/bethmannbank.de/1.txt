@@ -12,7 +12,7 @@ Falls Sie erneut eine Fehlermeldung erhalten, wenden Sie sich bitte an Ihren Ber
 Ich habe meine Kundennummer/Benutzerkennung vergessen.
 
 Bitte wenden Sie sich an Ihren Berater.
-###
+    ###
 Ich habe meine Persönliche Identifikationsnummer (PIN) vergessen.
 
 Bitte beauftragen Sie Ihren Berater schriftlich, Ihre alte PIN zu sperren und Ihnen eine neue PIN zukommen zu lassen.

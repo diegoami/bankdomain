@@ -1,0 +1,260 @@
+###
+Wie kann ich eine telegrafische Überweisung vornehmen?
+
+Bei wichtigen Terminaufträgen raten wir Ihnen zu einer (kostenpflichtigen) telegrafischen Überweisung, bei der eine gleichtägige Gutschrift bei der Empfängerbank garantiert wird. Bitte geben Sie diese bis spätestens 10:20 Uhr telefonisch über unser Backup CallCenter auf und teilen Sie uns alle notwendigen Daten mit (Zahlungsempfänger, Name des Kreditinstitutes, Betrag, Währung, Bankleitzahl, Kontonummer). Die aktuellen Preise finden Sie in unserem Preis und Leistungsverzeichnis / Kapitel B.
+
+EU-Überweisungen und Auslandsüberweisungen können aus Sicherheitsgründen telefonisch nicht aufgegeben werden. Somit ist eine telegrafische Überweisung nicht möglich!
+###
+Wie kann ich einen Scheck/Verrechnungsscheck einreichen?
+
+Bitte schicken Sie die einzulösenden Schecks zusammen mit dem entsprechenden Formularen für Scheckeinreichungen (Inlands- oder Auslandsschecks) an unsere Postadresse: netbank, Postfach 102 161, 86011 Augsburg.
+
+Bitte beachten Sie, dass Orderscheckvordrucke (roter Streifen am rechten Rand)und Auslandsschecks immer auf der Rückseite von dem Empfänger, der auf dem Scheck genannt wird, unterschrieben werden müssen.
+
+Ist der Empfänger nicht der Kontoinhaber, müssen sowohl Empfänger als auch der Kontoinhaber auf der Rückseite unterschreiben (Indossamentenkette).
+###
+Wie kann ich einen Überweisungsauftrag zurückrufen oder stornieren?
+
+Überweisungen, die Sie im Online-Banking erteilen, müssen Sie mit einem Transaktionsfreigabeverfahren (mTAN, SecureApp) autorisieren. Ein Widerruf oder eine Stornierung der Überweisungsaufträge ist nur bis zur Annahme des Auftrages durch uns möglich. Bitte rufen Sie unter der Rufnummer 040 380 83 888 an oder stellen Sie uns hierzu einen TAN-gesicherten Auftrag für den Überweisungsrückruf über "Nachricht an die Bank" aus Ihrem Online-Banking.
+
+Sollte Ihre Überweisung bereits von uns angenommen und ausgeführt worden, dann können nach dem Zahlungsverkehrsrecht, welches auf Grundlage der Vorgaben des EU-Verbraucherministeriums im Jahr 2009 für alle Banken in Europa eingeführt wurde, die angenommenen oder ausgeführten Überweisungen nicht mehr storniert werden.
+
+Wir sind somit auf das Wohlwollen und die Mithilfe der Empfängerbank und des Empfängers angewiesen. Gerne versuchen wir für Sie (ohne Gewähr) auf ausdrücklichen Wunsch von Ihnen das Geld beim Empfänger zurückzuholen.
+
+Bitte stellen Sie uns hierzu einen Auftrag über "Nachricht an die Bank" aus Ihrem Online-Banking. Für diese Bemühungen erlauben wir uns ein Entgelt zu nehmen. Dieses finden Sie im Preis- und Leistungsverzeichnis der Augsburger Aktienbank AG (hier in ihrem Markenauftritt netbank) unter Kapitel B Absatz II "Überweisungsverkehr" Punkt e) "Sonstige Entgelte".
+###
+
+Wie kann ich eine Überweisung > EUR 50.000,00 ausführen?
+
+Falls Sie einen höheren Betrag online überweisen möchten, schreiben Sie uns bitte 2 Tage vor dem Überweisungstermin eine per TAN unterzeichneten Nachricht. Diese finden Sie im Online-Banking unter "Service"/ "Formulare & Aufträge"/ wählen Sie "Privatkunden" oder "Geschäftskunden"/ "Aufträge"/"Nachricht an die Bank". Wir erhöhen dann einmalig das Verfügungslimit (Kontodeckung bzw. eingeräumte Kreditlinie vorausgesetzt). Alternativ können Sie im Online-Banking unter "Service" /"Formulare & Aufträge"/"Formulare"/"Girokonto" das Formular Limitänderung für Überweisungen im Inlandszahlungsverkehr fverwenden. Bitte senden Sie uns das Formular vollständig ausgefüllt und unterschrieben zu.
+###
+Wie kann ich eine Auslandsüberweisung tätigen?
+
+Eine Überweisung in ein anderes Land, das ebenfalls den Euro als Währung hat, können Sie in Ihrem Online-Banking durchführen.
+
+Sie können täglich bis zu 12.500 Euro überweisen. Wünschen Sie ein anderes Überweisungslimit, dann teilen Sie uns das bitte mit dem Formular Limitänderung bei EURO-Überweisungen mit.
+
+Für EURO-Überweisungen ab 50.000 Euro bzw. für Überweisungen in Länder, die eine andere Währung als den Euro haben, verwenden Sie bitte das Formular Zahlungsauftrag im Auslandsverkehr.
+
+Die aktuellen Preise finden Sie in unserem Preis- und Leistungsverzeichnis.
+###
+Kann ich ausländische Währungen (Devisen-/ Sorten) bestellen?
+
+Ja, über unseren Partner die Reisebank, ist eine Bestellung möglich. Dabei bieten wir Ihnen die Bestellung über unsere Homapage unter Online-Banking an.
+###
+Wie lautet der SWIFT-Code von netbank?
+
+Der SWIFT-Code (in den USA auch als ABA Code bezeichnet) von netbank lautet: AUGBDE71NET. Dieser wird bei Auslandszahlungen benötigt.
+###
+
+Wie kann ich eine Lastschrift zurückgeben?
+
+Sie haben die Möglichkeit, im Online-Banking Lastschriftenrückgaben über die Kontoumsätze vorzunehmen.
+
+Die Rückgabe der Lastschrift erfolgt mit Bestätigung durch ein Autorisierungsverfahren (mTAN oder SecureApp). Der stornierte Betrag wird Ihnen als Gutschrift sofort in Ihren Kontoumsätzen angezeigt. Buchungen, die nicht in dieser Liste angezeigt werden, können auch nicht storniert werden.
+
+Lastschriften können 8 Wochen nach Buchung ohne Angabe von Gründen storniert werden. Dies können Sie im Online-Banking selbst vornehmen.
+
+Sollten Sie nach dieser Frist eine von Ihnen „nicht“ autorisierte Lastschriftbuchung auf Ihrem Konto feststellen, wenden Sie sich bitte per TAN unterzeichneten Nachricht aus dem Online-Banking an uns. Nicht autorisierte Lastschriften können max. bis 13 Monate nach Buchung reklamiert werden (BGH 676b Abs. 2).
+###
+Was ist eine Vorabankündigung (Pre-Notification)?
+
+Unter Vorabankündigung (Pre-Notification) ist jede Mitteilung des Zahlungsempfängers (z.B. Rechnung, Police, Vertrag oder Kontoeröffnungsbestätigung) zu verstehen, die den Zahler informiert, wann und in welcher Höhe der Einzug erfolgt. Der Zahler kann mit diesen Informationen für die entsprechende Kontodeckung sorgen.
+###
+Wie hoch ist das tägliche Verfügungslimit bei Überweisungen?
+
+Online bis EUR 50.000,00 pro Tag
+Per Sprachcomputer mit Telefon-PIN bis EUR 50.000,00 pro Tag
+Per Callcenter mit Telefonkennwort bis EUR 50.000,00 pro Tag
+
+Bitte beachten Sie, dass die Möglichkeit einer EU-Standardüberweisung in unserem Online-Banking auf 12.500 EUR begrenzt ist.
+
+Gerne passen wir das Limit nach Ihren Wünschen an. Nutzen Sie bitte dazu die entsprechenden Formulare (Limitänderung für Überweisung & Limitänderung für EU-Standardüberweisungen) in unserem Formular Center .
+###
+Was ist bei der Sperrung von Schecks zu beachten?
+
+Bitte senden Sie uns für die Schecksperre eine per TAN unterzeichnete Mitteilung im Banking oder ein Auftragsschreiben mit Unterschrift an unsere Postadresse: netbank, Postfach 102 161, 86011 Augsburg.
+
+Die Schecksperre ist ein halbes Jahr gültig. Nach Ablauf dieser Frist können Sie die Sperre für ein weiteres 1/2 Jahr erneuern.
+
+Die Preise entnehmen Sie bitte dem Preisverzeichnis auf unserer Homepage unter "Konditionen".
+
+Bitte beachten Sie: Jeder Diebstahl muss bei der Polizei angezeigt werden.
+
+Im Schadensfall erhalten Sie von uns eine Schadensmeldung zugeschickt, die Sie bitte ausgefüllt und unterschrieben mit Angabe des Aktenzeichens der polizeilichen Anzeige an netbank zurücksenden. Die Schadensmeldung benötigt die Versicherung zur Regulierung des Schadens.
+
+Hinweis: Beachten Sie bitte, dass die Scheckvordrucke nicht unbeaufsichtigt im Kraftfahrzeug aufbewahrt werden dürfen. Im Falle des Missbrauchs wäre dann eine Schadenübernahme ausgeschlossen.
+###
+Welche Fristen gelten für die Gutschrift von inländischen Schecks?
+
+Wir schreiben einen auf ein inländisches Kreditinstitut gezogenen Scheck "Eingang vorbehalten" auf Ihrem Girokonto gut.
+
+Bitte beachten Sie, dass Sie über den Scheck i.d.R. erst 9 Tage nach Gutschrift verfügen können.
+###
+Welche Fristen gelten für die Gutschrift von Auslandsschecks?
+
+Schecks, welche auf ein ausländisches Institut gezogen sind, schreiben wir regelmäßig nach Eingang des Gegenwertes in unserem Hause unter Beachtung der Vorlege- und Rückgabefristen Ihrem Konto gut. Bitte beachten Sie, dass dies durchaus mehrere Wochen dauern kann. Die Schecks müssen in der Regel an das bezogene Institut gesandt werden, woraufhin dieses den Gegenwert überweist.
+###
+Was ist SEPA?
+
+SEPA ist eine Abkürzung für Single Euro Payments Area. Ein neuer europäischer Standard, der das bargeldlose Zahlen über Ländergrenzen hinweg genauso einfach, sicher und effizient werden lässt wie innerhalb Deutschlands.
+###
+Meine Mastercard ist defekt. Wie komme ich in Ausnahmefällen an Bargeld?
+
+Bitte beachten Sie, dass es sich bei allen im Folgenden genannten Möglichkeiten um Ausnahmen handelt, die z.T. mit sehr hohen Gebühren verbunden sind bzw. auf der Kulanz des Fremdinstitutes beruhen. Eine Garantie können wir für die genannten Möglichkeiten nicht geben.
+
+    Barauszahlung bei Banken und Sparkassen per Mastercard in Verbindung mit dem Personalausweis bzw. Reisepass gegen Gebühr.
+
+    Telegrafische Überweisung zur Barauszahlung bei einem anderen Kreditinstitut. Bitte klären Sie unbedingt vorab die Modalitäten und die anfallenden Gebühren bei dem betreffenden Fremdinstitut.
+
+    Barauszahlung über das System Western Union z.B. in Verbindung mit der Reisebank. Die Auszahlung erfolgt gegen Vorlage des Personalausweises bzw. Reisepass. Bitte beachten Sie, dass hierbei verhältnismäßig hohe, nach Betrag gestaffelte Kosten anfallen.
+###
+Werden die Wertstellungen bei der Anzeige des Kontostandes berücksichtigt?
+
+Nein. Der angezeigte Kontostand berücksichtigt nicht die Wertstellung der Buchungen. Dies bedeutet, dass der als Kontostand angezeigte Betrag nicht zwingend dem tatsächlich zur Verfügung stehenden Betrag entsprechen muss. Somit können bei Verfügungen möglicherweise Zinsen für die Inanspruchnahme einer eingeräumten oder geduldeten Kontoüberziehung anfallen.
+###
+Zu welchen Buchungszeiten finden die Buchungen statt?
+
+Buchungen werden an ihren Geschäftstagen und zu ihren Geschäftszeiten bewirkt. Diese sind im Preis und Leistungsverzeichnis der Augsburger Aktienbank AG (hier in ihrem Markenauftritt netbank) Dokumentiert.
+
+Ferner ist zwischen netbank-internen und externen Buchungen zu unterscheiden.
+
+Interne Buchungen (von einem auf das andere netbank Girokonto) werden zeitnah laufend an den Geschäfstagen ausgeführt.
+
+Buchungen an externe Konten werden an den Geschäftstagen von netbank bewirkt. Die Regeln hierfür finden Sie unter Auszug aus dem 'Preis- und Leistungsverzeichnis' zu unseren Ausführungsfristen, Annahmefristen und Geschäftstage im Zahlungsverkehr
+###
+
+Was ist bei Lastschriften zu beachten?
+
+Mit dem SEPA-Lastschriftverfahren können Gelder von Konten im gesamten EU-Binnenmarkt eingezogen werden. Die Lastschriften haben einen festen Fälligkeitstermin. Als Identifizierung der Bankverbindungen dienen IBAN und BIC. Zusätzlich kommen eine Gläubiger-ID und eine Mandatsreferenznummer hinzu anhand der Zahlungsempfänger und der Zweck des Einzugs durch Sie identifiziert werden kann. Für den Umgang mit abgelehnten oder zurückgegebenen Lastschriften gelten im gesamten EU-Binnenmarkt einheitliche Regeln.
+###
+
+Wie funktioniert die SEPA Lastschrift?
+
+Sollte ein neues Mandat (ehemals Einzugsermächtigung) erforderlich sein, erhalten Sie das Formular "SEPA-Lastschriftmandat" vom Zahlungsempfänger (z.B. dem Energieversorger). Dieses bitte ausfüllen und unterschrieben an den Zahlungsempfänger zurücksenden.
+###
+
+Was ist bei einer Legitimation per Reisepass oder Personalausweis ohne Adresseintrag zu beachten?
+
+Als deutsches Kreditinstitut ergibt sich unsere Verpflichtung zur Legitimationsprüfung aus §154 AO Abs. 2, in welcher ausgeführt ist, dass wir uns Gewissheit über die Person und Anschrift eines Verfügungsberechtigten zu verschaffen haben.
+
+Dies geschieht aufgrund der uns auferlegten Nachweispflichten regelmäßig über amtlich anerkannte Dokumente, d.h. eine Legitimationsprüfung kann über einen Personalausweis oder einen Reisepass mit Meldebestätigung erfolgen. Bei europäischen Varianten des Personalausweises ohne Eintragung der Meldeadresse ist ebenfalls eine Meldebestätigung erforderlich.
+
+Seit dem 01.07.2005 sind alle Kreditinstitute im Rahmen der EU – Zinsverordnung gehalten, bei Kontoeröffnungen die jeweilige Steuer – Identifikationsnummer ( TIN ) des Kontoinhabers festzuhalten. Hat das jeweilige Land, in dem dieser ansässig ist, eine TIN erteilt, ist diese anhand eines beweiskräftigen Dokumentes ( z.B. lokaler Steuerbescheid, ID – Karte, Bescheinigungsmuster etc. ) nachzuweisen.
+###
+
+Welche Besonderheiten sind bei SEPA-Überweisungen zu beachten?
+
+    SEPA-Überweisungen können nach der Bestätigung durch Eingabe einer gültigen TAN nicht mehr verändert oder gar storniert werden. Bitte gehen Sie deshalb beim Ausfüllen des Formulars besonders sorgfältig vor.
+    Für Überweisungen innerhalb Deutschlands benötigen Sie ebenfalls die Bankverbindung in Form von IBAN und BIC. Sollten Ihnen die Daten nicht vorliegen können Sie auch die Funktion ""Überweisung"" nutzen, um wie gewohnt eine Überweisung zu tätigen.
+
+Falls das Online-Banking nicht funktioniert, können Sie uns Ihren Auftrag auch schriftlich per Post oder Faxauftrag erteilen. Dazu nutzen Sie bitte das Formular Zahlungsauftrag im Auslandsverkehr aus unserem Formular-Center.
+
+Bitte beachten Sie hierbei die Bedingungen der Entgeltregelung ""Entgeltteilung"" (SHA = shared) und fügen Sie der Überweisung bitte Ihre eigene IBAN hinzu, um ggf. Rücküberweisungen zu erleichtern.
+
+EU-Standardüberweisung/ SEPA-Überweisung ab 50.000,- Euro in andere EU Staaten
+
+Für Zahlungen in die EU bzw. den Europäischen Wirtschaftsraum für Beträge ab 50.000 Euro kann die SEPA-Überweisung aus dem Online-Banking nicht genutzt werden. Daher verwenden Sie bitte das Formular Zahlungsauftrag im Auslandsverkehr aus unserem Formularcenter.
+
+Bitte füllen Sie das Formular vollständig aus und senden es unterschrieben per Post oder Faxauftrag an uns zurück. Wir erledigen für Sie alle weiteren Formalitäten.
+
+Bitte beachten Sie folgende Besonderheiten:
+
+    SEPA-Überweisungen über 50.000,- Euro unterliegen der Bepreisung aus unserem Preis- und Leistungsverzeichnis
+    Bitte beachten Sie die Auswirkungen Ihrer Entscheidung bezüglich der Gebührenregelung 'Our' / 'Ben' / 'Share' (siehe Hinweis)
+    Für eine Auslandsüberweisung in die EU-Mitgliedsstaaten ab 1.000,- Euro ist die Angabe einer mobilen TAN erforderlich.
+
+Hier finden Sie die Länderliste: EU-Mitgliedstaaten
+
+Hinweis:
+
+'Our' Alle Entgelte zu lasten des Auftraggebers
+
+'Ben' Alle Entgelte zu lasten des Empfängers
+
+'Share' Jeder bezahlt die Entgelte des eigenen Instituts
+
+Bei einer SHARE- oder BEN-Überweisung können durch ein zwischengeschaltetes Kreditinstitut im Ausland und durch das Kreditinstitut des Begünstigten vom Überweisungsbetrag ggf. Entgelte abgezogen werden. Bei OUR-Überweisungen kann es zu Nachbelastungen von Gebühren der ausländischen Banken kommen, wenn es sich um keinen EU- oder EWR-Staat handelt.
+###
+Wie hoch ist das tägliche Verfügungslimit bei im Online-Banking vorgenommenen SEPA-Überweisung?
+
+Das tägliche Verfügungslimit bei im Online-Banking vorgenommenen SEPA-Überweisungen liegt aus Sicherheitsgründen bei 12.500 Euro pro Tag.
+
+Gerne passen wir dieses Limit Ihren Wünschen bis max. 50.000 Euro an. Nutzen Sie bitte das entsprechende Formular Limitänderung EU-Standardüberweisung aus unserem Formularcenter.
+###
+Was ist bei einer Überweisung in die Schweiz zu beachten?
+
+Die Schweiz gehört nicht zu den EU-Ländern. Seit 2008 haben Sie aber die Möglichkeit, Überweisungen in EUR und bis max. 50.000,- EUR per EURO-Überweisung kostenfrei zu tätigen. Dazu verwenden Sie einfach in Ihrem Online-Banking die """"EURO-Überweisung"""". Beachten Sie, dass Ihre Euro-Beträge in der Schweiz unter Umständen in die Landeswährung umgerechnet werden.
+
+Möchten Sie in Schweizer-Franken oder mehr als 50.000,- EUR überweisen, nutzen Sie das Formular Zahlungsauftrag im Auslandsverkehr (PDF). In diesen Fällen ist die Überweisung nur per SWIFT-Überweisung möglich. Beachten Sie dazu die dem Formular angehängte Anleitung.
+###
+Was ist bei einer Überweisung nach Tunesien zu beachten?
+
+Tunesien gehört nicht zu den EU-Ländern, dementsprechend können Überweisungen nicht mit einer EU-Standardüberweisung getätigt werden.
+
+Bitte verwenden Sie das Formular Zahlungsauftrag im Auslandsverkehr (PDF).Zahlungen nach Tunesien in Tunesischen Dinar (TND) an die Banque Centrale de Tunesie müssen die IBAN (International Bank Account Number) des Begünstigten enthalten. Überweisungen ohne Angabe der IBAN werden leider abgelehnt und zurückgegeben.
+###
+Was ist bei einer Überweisung nach Marokko zu beachten?
+
+Marokko gehört nicht zu den EU-Ländern, dementsprechend können Überweisungen nicht mit einer EU-Standardüberweisung getätigt werden.
+
+Bitte verwenden Sie das Formular Zahlungsauftrag im Auslandsverkehr (PDF).
+
+Seit Januar 2007 müssen Zahlungen nach Marokko die 24-stellige Kontonummer des Begünstigten enthalten.
+###
+Kann ich Auslandsüberweisungen über den Telefon-Service tätigen?
+
+Nein, aus Sicherheitsgründen kann eine Auslandsüberweisung nur entweder über das Online-Banking oder schriftlich unter der Verwendung des Formulars Zahlungsauftrag im Auslandsverkehr erfolgen. Es gilt dabei folgendes:
+
+    Für Auslandsüberweisungen in andere EU-Staaten bzw. Staaten des EWR bis zu einem Betrag von EUR 50.000 verwenden Sie bitte unser Banking-Portal. Aus Sicherheitsgründen ist hier ein tägliches Verfügungslimit von 12.500 EUR hinterlegt. Möchten Sie ein anderes Tageslimit für EURO-Überweisungen nutzen, so teilen Sie uns dies über das Formular Limit für Limitänderung für EU-Standardüberweisung mit.
+    Für Auslandsüberweisungen über einem Betrag von EUR 50.000 und Überweisungen in Länder außerhalb des Europäischen Wirtschaftsraums verwenden Sie bitte immer das Formular Zahlungsauftrag im Auslandsverkehr (PDF).
+###
+Gibt es eine Widerspruchsfrist?
+
+Ja, binnen einer Frist von 8 Wochen ab dem Zeitpunkt der Belastungsbuchung (Fälligkeitsdatum) kann auf dem Konto ohne Angaben von Gründen die Erstattung verlangt werden.
+
+Sie haben die Möglichkeit, im Online-Banking über den Menüpunkt "Lastschriftrückgabe", alle Buchungen anzeigen zu lassen, die Sie stornieren können. Die Rückgabe der Lastschrift erfolgt mit TAN-Bestätigung. Der stornierte Betrag wird Ihnen als Gutschrift sofort in Ihren Kontoumsätzen angezeigt. Buchungen, die nicht in dieser Liste angezeigt werden, können auch nicht storniert werden.
+
+Ein Lastschrifteinzug ohne Mandat, d.h. eine „ nicht autorisierte“ Lastschrift, kann vom Zahler innerhalb von 13 Monaten nach der Kontobelastung zurückgegeben werden.
+###
+Was ist ein SEPA Lastschriftmandat?
+
+Das SEPA-Lastschriftmandat ersetzt die bisherige Einzugsermächtigung.
+
+Mit dem Lastschriftmandat wird der Zahlungsempfänger ermächtigt, Einzüge von dem Konto des Zahlers auszuführen. Gleichzeitig wird die Bank des Zahlers autorisiert, dem Konto des Zahlers den Einzugsbetrag zu belasten. Jede Lastschriftbuchung wird mit einer eindeutigen Mandatsreferenznummer versehen sein.
+###
+Was ist die Mandatsreferenznummer?
+
+Die Mandatsreferenznummer ist ein vom Zahlungsempfänger individuell vergebenes Kennzeichen eines Mandats (z.B. Kundennummer) und verhilft in Verbindung mit der Gläubiger-Identifikationsnummer zu dessen eindeutiger Identifizierung der Lastschriftbuchung.
+###
+Was ist die Gläubiger-Identifikationsnummer (Creditor-Identifier oder Gläubiger-ID)?
+
+Die Gläubiger-Identifikationsnummer ist eine kontounabhängige Kennzeichnung des Zahlungsempfängers (Gläubiger) und ist im gesamten SEPA-Raum gültig. Sie finden die Gläubiger-Identifikationsnummer bei jeder "SEPA-Buchung" im Verwendungszweck auf Ihren Kontoauszügen, auf allen Korrespondenzen auf denen eine Buchung angekündigt wird und zusätzlich auf dem Mandat.
+###
+Muss ein neues SEPA-Lastschriftmandat für eine bereits existierende Einzugsermächtigung erteilt werden?
+
+Nein, für bestehende Lastschrifteinzüge zu Lasten Ihres Referenzkontos (Sparpläne, Kreditraten) wird kein neues SEPA-Lastschriftmandat benötigt.
+###
+Wie kann ich Lastschriften auf mein Geschäftskonto einziehen?
+
+Aktuell können wir Geschäftskunden noch keinen Lastschrifteinzug anbieten. Wir arbeiten kontinuierlich an der Verbesserung und Ergänzung unserer Produktpalette. Dazu nehmen wir gerne Ihre Meinung und Ihre Vorschläge an und freuen uns über Ihre Nachricht. Wenn Sie an Informationen über Produkte und Dienstleistungen interssiert sind bestellen Sie bitte unseren Newsletter
+###
+Wo finde ich die IBAN und BIC für mein Tagesgeldkonto/Anlage/Sparbrief
+
+Die IBAN und BIC wird Ihnen automatisch im Online-Banking für Ihre Geldanlage angezeigt.
+###
+Ist es möglich Sammelüberweisungen vorzunehmen?
+
+Zurzeit können wir keine Sammelüberweisungen verarbeiten. Wir arbeiten kontinuierlich an der Verbesserung und Ergänzung unserer Produktpalette. Dazu nehmen wir gerne Ihre Meinung und Ihre Vorschläge an und freuen uns über Ihre Nachricht. Wenn Sie an Informationen über Produkte und Dienstleistungen interessiert sind bestellen Sie bitte unseren
+Newsletter.
+###
+Wie formatiere ich eine SWIFT Überweisung?
+
+Bitte geben Sie die Formatierung wie folgt an:
+
+F59 (Begünstigter) : IBAN Endbegünstigter
+
+F57 (Bank des Begünstigten): AUGBDE71NET
+
+F56 (Vermittlungsinstitut): AUGBDE77XXX
+###

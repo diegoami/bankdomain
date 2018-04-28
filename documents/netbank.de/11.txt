@@ -1,0 +1,159 @@
+###
+Wie kann ich den Kundenservice erreichen?
+
+Unseren telefonischen Kundenservice erreichen Sie täglich rund um die Uhr unter:
+
+040 / 380 83 888
+
+Wenn Sie noch nicht netbank Kunde sind, dann wählen Sie:
+
+040 / 380 23 006
+
+Auch per E-Mail sind wir gern für Sie da. Bitte verwenden Sie dazu unser Kontaktformular.
+###
+
+Wie kann ich eine neue Telefon-PIN bestellen?
+
+Senden Sie uns einfach das ausgefüllte Formular Online-Banking entsperren/neuanfordern/ändern zu und bestellen Sie damit eine neue Telefon-PIN
+###
+Ich habe meine Online-PIN vergessen. Was kann ich tun?
+
+Senden Sie uns einfach das ausgefüllte Formular Online-Banking entsperren/neuanfordern/ändern zu und bestellen Sie damit eine neue Online-PIN.
+###
+Ich habe dreimal die falsche Online-PIN eingegeben. Wie kann ich meinen Onlinezugang wieder entsperren?
+
+Wenn Sie die Online-PIN dreimal falsch eingeben haben, wird Ihr Onlinezugang automatisch aus Sicherheitsgründen gesperrt.
+
+Bestellen Sie einfach mit dem Formular Online-Banking entsperren/neuanfordern/ändern eine neue Online-PIN.
+###
+Wie kann ich eine Sofortsperre veranlassen?
+
+Unter "Service" / "Pin-Sperre" können Sie im Online-Banking den Zugang selbst sperren, wenn z.B. ein Dritter Kenntnis von Ihrer Online-PIN und Kundennummer hat oder erhalten haben könnte.
+###
+Wie erreiche ich netbank bei Online-Zugangsstörungen?
+
+So erreichen Sie netbank bei Zugangsstörungen:
+
+    Backup Callcenter (Persönlicher Kontakt)
+
+Telefonnummer 040 / 380 83 888 Konto
+Wir sind täglich rund um die Uhr persönlich für Sie da.
+
+Telefonnummer 0821 / 5015-480 Depot (zu den jeweiligen Börsenzeiten)
+###
+Was gibt es Wissenswertes zur Telefon-PIN?
+
+Für den Fall, dass Sie netbank online nicht erreichen können, steht Ihnen unser Backup Callcenter für bestimmte Transaktionen zur Verfügung.
+
+Die Telefon-PIN wird Ihnen bei Kontoeröffnung per Post zugesandt. Pro Konto gibt es für jeden Verfügungsberechtigten eine Telefon-PIN.
+
+Folgende Transaktionen können Sie telefonisch durchführen:
+
+    Kontostandabfrage
+    Einrichtung von Daueraufträgen
+    Durchführung von Überweisungen (bis Euro 50.000,- pro Tag)
+    Telegrafische Überweisung
+    Order platzieren
+
+Hinweis: Die Telefon-PIN ist nicht identisch mit der Online-PIN.
+###
+Welche Autorisierungsverfahren kann ich nutzen?
+
+Aktuell bieten wir Ihnen zwei Verfahren an. Zum einen mittels SMS die mobileTAN auf Ihr Handy, zum anderen mittels App (SecureApp) auf dem Smartphone oder Tablet.
+###
+Kann ich das mobileTAN-Verfahren und die SecureApp parallel nutzen?
+
+Ja, das können Sie.
+###
+Mit welchen Endgeräten kann ich die SecureApp nutzen?
+
+Die SecureApp steht derzeit für mobile Endgeräte für Android und iOS zur Verfügung. Das Installieren auf einem Desktop PC oder auf anderen Systemen ist aktuell nicht möglich.
+###
+Fallen Kosten für die Nutzung von mobileTANs an?
+
+Nein, wir bieten Ihnen dieses Autorisierungsverfahren entgeltfrei an.
+###
+Wie viel Zeit habe ich bei dem mobileTAN-Verfahren, um die Transaktion zu bestätigen?
+
+Sie haben 90 Sekunden, um Ihre Transaktion freizugeben. Vergehen die 90 Sekunden ohne Aktivität auf dem mobilen Endgerät, wird die Transaktion abgebrochen.
+###
+Wie viel Zeit habe ich bei dem SecureApp-Verfahren, um eine Transaktion zu bestätigen?
+
+Sie haben fünf Minuten Zeit, um Ihre Transaktion freizugeben. Vergehen die fünf Minuten ohne Aktivität auf dem mobilen Endgerät, wird die Transaktion abgebrochen.
+###
+Wie melde ich mich vom SecureApp oder mTAN-Verfahren ab?
+
+Melden Sie sich dazu in Ihrem Banking an. Unter der Rubrik "Service" können Sie Ihr Autorisierungsverfahren verwalten und sich abmelden. Nach Bestätigung der Löschung wird das SecureApp Verfahren für Sie deaktiviert und alle von Ihnen aktivierten Geräte werden gelöscht.
+###
+Ist das elektronische Postfach sicher?
+
+Die Übertragung von Kundendaten erfolgt immer über eine 128 Bit SSL (Secure Socket Layer) Verschlüsselung. SSL ist ein Transportprotokoll, das von Netscape entwickelt, patentiert und zur allgemeinen Verwendung freigegeben wurde. Das grundlegende Ziel von SSL ist es, sowohl Identität als auch Vertraulichkeit zweier kommunizierender Anwendungen zu gewährleisten. Dabei setzt es auf ein bereits vorhandenes Transportprotokoll (z.B. TCP/IP) auf. Die Übertragung der Anwendung und der einzelnen Masken erfolgt über eine HTTPS-Verbindung(HyperTextTransferProtokollSecure). Hierbei wird von den einzelnen Browsern in der Regel eine Verschlüsselung von 128 Bit unterstützt. Damit unsere Bemühungen für einen möglichst hohen Sicherheitsstandard erfolgreich sind, bitten wir auch Sie einige Punkte zu beachten, z. B.:
+
+    Geben Sie Ihre Online-Pin niemals an Dritte weiter.
+    Speichern Sie die PIN_Nummer nicht auf Ihrem Rechner ab.
+    Überprüfen Sie Ihren Rechner regelmäßig auf Viren.
+    Bei Verbindungsabbruch starten Sie bitte den Browser neu.
+    Installieren Sie keine Software auf Ihrem Rechner, bei welcher der Hersteller nicht vertrauenswürdig erscheint.
+###
+Bekomme ich mittels des elektronischen Postfaches einen juristischen Kontoauszug?
+
+Ja. Gemäß gängiger Rechtsbeurteilung handelt es sich bei dem Kontoauszug über das elektronische Postfach um einen juristischen Kontoauszug, der im Einklang mit den relevanten Gesetzen und unseren Allgemeinen Geschäftsbedingungen steht. Die Anerkennung der im e-Postfach gespeicherten Dokumente durch Steuer- oder Finanzbehörden kann jedoch nicht durch uns gewährleistet werden. Wir garantieren die Unveränderbarkeit der Daten in dem ePostfach. Diese Garantie gilt nicht, soweit die Daten außerhalb des Postfaches gespeichert oder aufbewahrt werden. Zu beachten ist, dass aufgrund der individuellen Hard- oder Softwareeinstellung ein Ausdruck nicht immer mit der Darstellung am Bildschirm übereinstimmt. Soweit die Dokumente verändert oder in veränderter Form in Umlauf gebracht werden, übernimmt die Bank hierfür keine Haftung.
+###
+Warum müssen Cookies im Browser aktiviert sein ?
+
+Problembeschreibung:
+
+Um die Digitale Postbox benutzen zu können, müssen aus Sicherheitsgründen in Ihrem Browser die so genannten Cookies aktiviert sein.
+
+Hinweise zur Problembeseitigung:
+
+Internet Explorer 5.x:
+
+    Im Browsermenü unter "Extras / Internetoptionen / Sicherheit / Stufe anpassen" aktivieren Sie "Cookies annehmen die gespeichert sind" und "Cookies pro Sitzung annehmen".
+
+Internet Explorer 6.x:
+
+    Im Browsermenü unter "Extras / Internetoptionen / Datenschutz" aktivieren Sie entweder "Standard" oder "Erweitert" und tätigen die entsprechenden Einstellungen.
+
+Netscape Navigator:
+
+    Im Browsermenü "Bearbeiten / Einstellungen / Privatsphäre" und "Sicherheit / Cookies".
+
+Opera:
+
+    Im Browsermenü "Datei / Einstellungen / Privatsphäre / Cookies" aktivieren.
+###
+Warum bekomme ich nur weiße Seiten, anstatt der Dokumente angezeigt?
+
+Bitte prüfen Sie, ob Sie eine aktuelle Version des Adobe Acrobat Readers installiert haben.
+###
+Wo finde ich eine Anleitung für die SecureApp?
+
+Die Anleitungen für die SecureApp finden Sie hier.
+###
+Wo finde ich im Online-Banking meine Kontoauszüge und wie weit kann ich diese rückwirkend einsehen?
+
+Sie können die Kontoauszüge wie gewohnt im elektronischen Postfach des neuen Online-Bankings einsehen. Sie können rückwirkend auf 2 Jahre zurückgreifen. Weitere Kontoauszüge aus Vorjahren bitten wir Sie zu beauftragen.
+###
+Wie kann ich mTAN oder SecureApp beantragen?
+
+Die mTAN und SecureApp können Sie mit einem aktiven Autorisierungsverfahren im Online- Banking beantragen. Sofern Sie noch kein mTAN oder SecureApp Verfahren eingerichtet haben und Ihnen kein Freischaltcode vorliegt, können Sie uns telefonisch kontaktieren. Wir werden Ihnen den Freischaltcode per Post zusenden. Weitere Informationen zu den Autorisierungsverfahren finden Sie hier.
+###
+Wie gebe ich eine Transaktion in der netbank SecureApp frei?
+
+Loggen Sie sich dazu in Ihrem Banking ein und halten das mobile Endgerät mit installierter und freigeschalteter netbank SecureApp bereit.
+
+Immer dann, wenn Sie eine Überweisung oder einen anderen TAN-pflichtigen Auftrag im Banking bestätigen, haben Sie die Wahl zwischen den für Sie freigeschalteten TAN-Verfahren.
+
+Haben Sie alle Transaktionsdaten im Banking erfasst, wählen Sie im nächsten Schritt die SecureApp zur Freigabe aus.
+
+Sind für Sie mehrere Geräte für die SecureApp freigeschaltet, können Sie für die Transaktion eines der Geräte auswählen. Durch den Klick auf „Weiter“ wird die Transaktion angestoßen. Auf Ihrem mobilen Endgerät erhalten Sie eine Benachrichtigung, welche Sie zur Freigabe der Transaktion auffordert. Sie haben fünf Minuten Zeit für die Freigabe bzw. Stornierung der Transaktion. In der SecureApp melden Sie sich zuerst mit Ihrer Benutzerkennung und mit dem selbstvergebenen Passwort an. Sie erhalten einen Bildschirm zur Transaktionsfreigabe auf Ihrem mobilen Endgerät. Nach erfolgreicher Freigabe der Transaktion wird Ihnen die Transaktion im Banking bestätigt.
+###
+Warum hat sich der BIC ab 04.12.2017 geändert?
+
+Unser BIC wurde zum 4.12.2017 auf AUGBDE71NET umgestellt Der alte BIC GENODEF1S15 bleibt aber übgergangsweise noch eine Weile gültig. Für Überweisungen von und auf Ihr Konto benötigen Sie im SEPA Zahlungsraum nur die IBAN. Verwenden Sie ab 4.12.2017 bis auf Weiteres für Lastschrifteinzüge und Zahlungsverbindungen ausschließlich der neue BIC AUGBDE71NET. Dies ist insbesondere bei der Hinterlegung von Zahlungsverbindungen (z. B. bei ebay oder Amazon) oder für die Einreichung von Lastschriften (z. B. für die Bezahlung von Telefon, Gas, Wasser, Strom) und für Überweisungen an das netbank-Konto erforderlich.
+###
+Kann die SecureApp an einem Smartphone von unterschiedlichen Personen verwendet werden?
+
+Ja, eine installierte SecureApp auf einem Endgerät kann von mehreren Nutzern verwendet werden. Die Zuweisung zum Banking erfolgt über die Benutzerkennung.
+###

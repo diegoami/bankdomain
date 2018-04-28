@@ -1,0 +1,79 @@
+###
+Hinweise zu HBCI / FinTs
+
+Wir stellen eine HBCI-PIN/TAN-Schnittstelle (FinTs 3.0) zur Verfügung. HBCI mit Chipkarte unterstützen wir derzeit nicht. Generell können Sie jede Finanzsoftware nutzen, die das HBCI Verfahren über PIN/TAN unterstützt. Die Software muss das indizierte TAN Verfahren (mTAN) zulassen, damit der Zugriff möglich ist. Hierzu zählen neben StarMoney auch Quicken und WISO Mein Geld in den aktuellen Versionen. Nähere Informationen, ob die von Ihnen verwendete Software HBCI PIN/TAN mit dem indizierten TAN Verfahren unterstützt, kann Ihnen der Hersteller Ihrer Finanzsoftware mitteilen.
+
+Wichtige Hinweise zur Umstellung von HBCI-Version 2.2 auf FinTS 3.0.
+
+
+
+    Führen Sie vor der Umstellung ein Update Ihrer Software durch.
+    Der Inlandszahlungsverkehr wird nicht mehr unterstützt. Dadurch können Sie Überweisungen, Daueraufträge und Terminüberweisungen nur noch im SEPA-Format einreichen.
+    Übertragungen (Umbuchungen) sind weiterhin von Spar- auf Girokonten möglich. SEPA-Überträge werden derzeit nicht unterstützt.
+    Die neue Adresse für HBCI/FinTS 3.0 ist: https://banking.netbank.de/hbci
+
+###
+Ich erhalte beim Herunterladen von Formularen eine Fehlermeldung. Was kann ich tun?
+
+Zum Aufruf der PDF-Formulare benötigen Sie eine aktuelle Version des Adobe Acrobat Reader. Sie haben eventuell keine bzw. eine ältere Version auf Ihrem Rechner. Die aktuelle Version können Sie sich unter folgendem Link kostenlos aus dem Internet herunterladen:
+
+Adobe Acrobat Reader
+
+Erscheint die Meldung "Wie möchten Sie mit dieser Datei verfahren?", wenn Sie auf ein Formular klicken, dann wählen Sie bitte "Die Datei vom aktuellen Ort öffnen.
+###
+Kann ich netbank verschlüsselte E-Mails senden?
+
+netbank verwendet zum Empfangen von sicheren E-Mails das Programm PGP.
+
+Den öffentlichen Schlüssel von netbank finden Sie unter:
+
+- Abrufserver: http://pgp.mit.edu/
+
+Verwenden Sie die E-Mail-Adresse pgp@netbank.de als Suchbegriffund senden Sie Ihre verschlüsselte E-Mail an: pgp@netbank.de
+
+Beachten Sie bitte, dass wir über diesen Weg keine Aufträge entgegen nehmen. Aufträge können Sie über die Banking-Anwendung einstellen.
+
+Der Fingerprint zum Überprüfen der Echtheit unseres Zertifikats lautet:
+
+F717 82B2 A129 2DBE 85FA ADFA A465 6189 B973 BA7B
+###
+Ich erhalte die Meldung: Das Sicherheitszertifikat ist abgelaufen.
+
+Wir setzen Sicherheitszertifikate und E-Mail-Signaturen ein, um die Kommunikation mit dem Kunden vor dem Ausspionieren durch Unbefugte zu schützen.
+
+Informationen zu unseren Sicherheitszertifikaten erhalten Sie im Bereich Sicherheit.
+
+Sollten Sie die Meldung "Das Sicherheitszertifikat ist abgelaufen" erhalten, überprüfen Sie bitte, ob Ihr Systemdatum richtig eingestellt ist und löschen Sie den Browsercache. Eine andere Ursache für diese Fehlermeldung kann eine veraltete Browserversion sein. Bitte informieren Sie sich von Zeit zu Zeit, ob eine neue Version Ihres Browsers verfügbar ist.
+###
+Gibt es eine Möglichkeit der Offline-Kontoverwaltung?
+
+Für die Offline-Kontoverwaltung können Sie generell jede Finanzsoftware verwenden, die das HBCI Verfahren über PIN/iTAN unterstützt. Nähere Informationen, ob die von Ihnen verwendete Software HBCI PIN/TAN unterstützt, kann Ihnen der Hersteller Ihres Finanzprogrammes mitteilen.
+
+Weitere Informationen über HBCI finden Sie hier.
+###
+Hinweise zum Drucken der Formulare.
+
+Nachdem Sie ein Online-Formular ausgefüllt haben, gelangen Sie zu der Druckübersicht, in der Sie das Formular zum Druck aufbereitet vorfinden.
+
+Achtung! Zum ausdrucken der PDF-Formulare benötigen Sie eine aktuelle Version des Acrobat Readers. Sollten Sie eine Fehlermeldung erhalten, speichern Sie das Formular zunächst über die rechte Maustaste (Ziel/Datei speichern unter)
+auf Ihre Festplatte ab. Nachdem Sie alle Formulare gespeichert haben, aktualisieren Sie Ihren Acrobat Reader bitte. Den aktuellen, kostenlosen Acrobat Reader für Ihr Betriebssystem finden Sie hier.
+Nach der Aktualisierung können Sie die Formulare dann von Ihrer Festplatte aus öffnen und drucken.
+###
+Fehlermeldung: Sie haben zu lange keine Eingaben getätigt.
+
+Nach 10 Minuten ohne Eingabe beim Banking erscheint dieser Fehlerhinweis. Sollte der Fehlerhinweis früher auftreten, kann dies z.B. an einem Proxy Cluster oder Ihrem Netzwerk liegen. Dies tritt unter anderem bei Firmen-Proxies auf, die wechselnde IP-Adressen vergeben. Dadurch kann es sein, dass Sie auf unterschiedliche Server geleitet werden, welchen Ihre Sitzungsdaten nicht bekannt sind.
+###
+Was sollte bzgl. der Sicherheit beachtet werden?
+
+Ausführliche Informationen zum Thema Internet-Sicherheit finden Sie hier.
+###
+Kann ich das Banking-Portal auch mit einem portablen Gerät nutzen?
+
+Unser Banking-Portal kann auf vielen mobilen Geräten verwendet werden. Die verwendete Browsersoftware muss auf jeden Fall HTML mit SSL unterstützen.
+
+Eine Funktionsgarantie für Ihr mobiles Gerät können wir Ihnen aufgrund der Konfigurationsvielfalt leider nicht geben.
+###
+Ich habe eine E-Mail von netbank mit dem Anhang "smime.p7s" erhalten. Was bedeutet dieser Anhang?
+
+Bei dem Anhang "smime.p7s" handelt es sich um unsere digitalen E-Mail-Signatur zur Echtheitsüberprüfung unserer E-Mails. Die Mehrheit der E-Mail Programme sowie Web-Mail Dienste verarbeiten diesen Anhang automatisch und zeigen die Gültigkeit der E-Mail grafisch an. Einige Web-Mail-Dienste zeigen neben der Nachricht "Signatur gültig" zum Beispiel auch die Signatur als Anhang "smime.p7s". Diesen Anhang können Sie ignorieren.
+###
