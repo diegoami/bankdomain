@@ -1,4 +1,5 @@
- Welche Leistungen bietet mir die Premium-Karte?
+###
+Welche Leistungen bietet mir die Premium-Karte?
 
 Die Premium-Karte bietet Ihnen viele Vorteile, wenn Sie gerne unterwegs sind:
 
@@ -28,36 +29,36 @@ Darüber hinaus erhalten Sie zusätzlich viele kostenlose Versicherungsleistunge
     Mietwagenkaskoversicherung
     Geldautomatenschutzversicherung
     Einkaufschutzversicherung
-
+###
 
 Handelt es sich bei der Premium-Karte um eine Reisekreditkarte, mit der ich Punkte sammeln kann?
 
 Ja. Die Premium-Karte ist eine Reisekreditkarte mit einem Bonusprogramm. Sie sammeln Punkte und lösen diese für Reisezwecke ein.
 
-
+###
 Wie sammele ich Punkte mit der Premium-Karte?
 
 Für jeden Euro, den Sie mit Ihrer Premium-Karte bezahlen, erhalten Sie 1 Bonuspunkt. Für Einkaufsumsätze rund ums Reisen zählt jeder Euro sogar doppelt. Bei allen Zahlungen für Flug-Tickets, Hotelübernachtungen und Restaurantbesuche erhalten Sie für jeden Euro 2 Bonuspunkte.
 
-
-Wie lange sind meine Punkte gültig?
+###
+Wie lange sind meine Punkte in der Premium-Karte gültig?
 
 Ihre Bonuspunkte sind 5 Jahre gültig.
-
+###
 
 Wo sehe ich meinen aktuellen Punktestand?
 
 Ihren aktuellen Punktestand teilen wir Ihnen automatisch in jeder Kreditkartenabrechnung mit. Online-Banking Kunden sehen ihren Punktestand jederzeit im Internet.
 
-
+###
 Kann ich mit der Premium-Karte kostenlos Bargeld abheben?
 
 Ja, beliebig oft an allen Geldautomaten mit Visa-Logo im Ausland. In Deutschland sind die ersten vier Abhebungen im Monat an Geldautomaten anderer Banken mit Visa-Logo kostenlos.
 
 Die aktuellen Konditionen zur Premium-Karte entnehmen Sie bitte hier der Premium-Karten Seite.
 
-
-Wo melde ich einen Schadensfall?
+###
+Wo melde ich mit der Premium-Karte einen Schadensfall ?
 
 Bei Schadensfällen oder Fragen zu Ihren Versicherungsleistungen wenden Sie sich bitte an:
 
@@ -65,3 +66,4 @@ TARGO Versicherung AG
 Servicenummer: +49-211-900 20 445
 Fax: +49-211-900 20 446
 Email:kreditkarte@targoversicherung.de
+###

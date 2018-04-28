@@ -1,4 +1,4 @@
-
+###
 Welche Sicherheitsverfahren bietet die TARGOBANK an?
 
     mTAN: Wählbar bei allen Transaktionen im Online-Banking, zwingend bei Überweisungen zu Citibanken, nicht wählbar im TARGOBANK Mobile-Banking.
@@ -6,13 +6,13 @@ Welche Sicherheitsverfahren bietet die TARGOBANK an?
     iTAN: Wählbar bei allen Transaktionen im Online-Banking und TARGOBANK Mobile-Banking außer bei Überweisungen zu Citibanken.
     Session-TAN: erforderlich beim Zutritt in den Wertpapierbereich.
 
-
+###
 Wo und wann fragt die TARGOBANK TANs ab?
 
     Die TARGOBANK fragt TANs vor der Ausführung einer Transaktion innerhalb des Online-Bankings ab. Sie benötigen nur EINE TAN pro Transaktion.
     Wir fragen Ihre TAN grundsätzlich innerhalb des Online-Bankings ab. Die TARGOBANK erfragt oder überprüft Ihre TAN niemals in einem gesonderten, zweiten Fenster. Sofern Sie eine solche Aufforderung erhalten, kann es sich um einen Virus oder Trojaner auf Ihrem Computer handeln. Es gibt nur eine einzige Ausnahme: die TAN Abfrage zur Authentifizierung bei 3D-Secure.
 
-
+###
 Wie sicher ist Online-Banking?
 
 Wenn Sie unseren Empfehlungen "Was kann ich als Kunde für meine Sicherheit tun?" folgen, ist Ihre Teilnahme am Online-Banking sicher.
@@ -28,7 +28,7 @@ Das mTAN-Verfahren bietet Ihnen zusätzliche Sicherheit:
 Die TARGOBANK beauftragt regelmäßig Sicherheitsexperten, die TARGOBANK Angebote "anzugreifen". Anschließend passen wir die Sicherheitsmechanismen so an, dass sie den neuesten Angriffstechniken standhalten.
 
 TIPP: Melden Sie sich für den kostenlosen Konto-SMS-Service an. Sie erhalten per SMS oder E-Mail eine Nachricht über Ihre Kontobewegungen.
-
+###
 
 Was kann ich als Kunde für meine Sicherheit tun?
 
@@ -42,7 +42,7 @@ Was kann ich als Kunde für meine Sicherheit tun?
     Beachten Sie bitte auch unsere Sicherheitshinweise.
 
 TIPP: Melden Sie sich für den kostenlosen Konto-SMS-Service an. Sie erhalten per SMS oder E-Mail eine Nachricht über Ihre Kontobewegungen.
-
+###
 
 Was sind Trojaner?
 
@@ -50,7 +50,7 @@ Trojaner sind Computerprogramme, die als nützliche Anwendung getarnt sind. Im H
 
 Ein Trojaner spioniert die Daten im Rechner aus und sendet diese bei der nächsten Online-Session an die Hacker. Daher installieren und verwenden Sie nur Software, deren Quelle Sie kennen. Laden Sie zum Beispiel keine Programme von unbekannten Internetseiten herunter.
 
-
+###
 Was ist Phishing?
 
 Durch gefälschte E-Mails wollen Angreifer sensible Daten von Online-Banking Nutzern erfahren. Sie fordern Online-Banking Nutzer auf, ihre iTANs/Passwörter an sie zu übermitteln oder auf einer präparierten Seite einzugeben. Daher gilt:
@@ -59,17 +59,17 @@ Durch gefälschte E-Mails wollen Angreifer sensible Daten von Online-Banking Nut
     Antworten Sie niemals auf derartige E-Mails oder Fragen am Telefon.
     Haben Sie auf eine solche E-Mail bereits geantwortet? Oder haben Sie nach Anklicken eines Links persönliche oder vertrauliche Daten eingegeben (zum Beispiel Konto- oder Kartennummer, Passwörter und TAN)? Dann setzen Sie sich bitte schnellstmöglich mit uns unter 0211 - 900 20 222 in Verbindung.
 
-
+###
 Was ist Pharming?
 
 Beim Pharming handelt es sich um eine Manipulation der Namensauflösung des Internets. Trotz korrekter Eingabe der URL (zum Beispiel http://www.targobank.de) leitet der Angreifer den Benutzer auf eine präparierte Webseite um. Ziel ist es, geheime Daten des Benutzers abzufangen. Diese nutzt der Angreifer dann für seine eigenen Interessen. Da die Nameserver der Internetanbieter streng geschützt sind, versuchen Angreifer, das Betriebssystem der Benutzer zu manipulieren. Davor schützen Sie sich, indem Sie stets die neuesten Sicherheitsupdates für das Betriebssystem und den Virenscanner einspielen. Außerdem hilft der Einsatz einer Firewall, die Angriffe in dieser Form abblockt.
 
-
+###
 Wo erhalte ich weitere Sicherheits-Tipps?
 
 Sie finden diese zum Beispiel auf der Webseite des Bundesamtes für Sicherheit in der Informationstechnik.
 
-
+###
 Wie ist das Online-Banking der TARGOBANK gesichert?
 
 Die TARGOBANK hat gleich mehrere Barrieren aufgebaut:
@@ -78,7 +78,7 @@ Die TARGOBANK hat gleich mehrere Barrieren aufgebaut:
     Abfrage der iTAN oder mTAN bei den einzelnen Aufträgen
     SSL Kodierung mit 128 Bit Verschlüsselung
 
-
+###
 Was bedeutet SSL Kodierung?
 
 SSL ("Secure Socket Layer") richtet eine sichere, in beide Richtungen verschlüsselte Verbindung ein. Ihre Daten wie Kontonummer, Buchungen, PIN, Benutzername, Passwort und TAN sind so im Internet gegen das Mitlesen durch andere gesichert.
@@ -90,17 +90,17 @@ In der Statusleiste Ihres Browsers finden Sie das SSL-Symbol (geschlossenes Vorh
 
 Beim Aufrufen der Startseite des Online-Banking stellen wir eine Sicherheitssitzung zwischen Ihrem Computer und der TARGOBANK her. Erscheint im Adressfeld des Browsers 'https' befinden Sie sich auf der Website in einem sicheren Bereich.
 
-
+###
 Warum nutzt die TARGOBANK nicht das so genannte "HBCI" (Homebanking Interface)?
 
 Die SSL Kodierung ist ein Verschlüsselungsverfahren auf hohem Niveau. Die Sicherheit ist vergleichbar mit dem HBCI-Verfahren. Für Sie als Kunde bedeutet das HBCI-Verfahren einen deutlichen Mehraufwand: Sie müssten einen sogenannten "digitalen Schlüssel" auf einer Chipkarte oder Diskette immer griffbereit haben. Außerdem wäre die Installation eines Lesegerätes notwendig. Für unsere Kunden möchten wir das Online-Banking sicher und einfach halten.
 
-
+###
 Ist Offline-Banking möglich?
 
 Aus Gründen der Sicherheit bieten wir kein Offline-Banking an. Sie können allerdings die Kontoumsätze herunterladen. Die gespeicherten Dateien sind in Quicken oder Microsoft Money für die Verwaltung Ihrer Finanzen verwendbar.
 
-
+###
 Ich habe vergessen, mich vom Online-Banking abzumelden. Was passiert?
 
 Sind Sie 10 Minuten lang nicht im Online-Banking aktiv, melden wir Sie automatisch ab. Dies gilt auch, wenn Sie das Browserfenster des Online-Banking ohne Abmeldung schließen. Hierdurch verhindern wir, dass Unbefugte Einsicht in Ihre Kontodaten erhalten.

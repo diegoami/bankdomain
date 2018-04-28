@@ -1,4 +1,4 @@
-
+###
 Was ist die Steuerbescheinigung?
 
 Sie dient Ihnen als Ausfüllhilfe für Ihre Steuererklärung (Anlage KAP). Für das Finanzamt gilt sie als Nachweis der steuerpflichtigen Kapitalerträge und der bereits einbehaltenen Steuern.
@@ -8,7 +8,7 @@ Sie dient Ihnen als Ausfüllhilfe für Ihre Steuererklärung (Anlage KAP). Für 
 Mit Einführung der Abgeltungsteuer (AGS) benötigen die meisten Anleger keine Steuerbescheinigung mehr. Nach AGS besteuerte Einkünfte aus Kapitalvermögen brauchen Sie nicht mehr in der Steuererklärung angeben. Erträge, die nicht dem Steuerabzug unterlegen haben, müssen Sie in Ihrer Steuererklärung angeben. Dies sind zum Beispiel ausschüttungsgleiche Erträge ausländischer Investmentfonds, Zinsen und Veräußerungsgewinne aus ausländischen Depots, Zinsen aus "Privatdarlehen" und Steuererstattungszinsen.
 
 Sie erhalten Ihre Steuerbescheinigung dennoch gerne auf Anforderung.
-
+###
 
  Wofür benötige ich eine Steuerbescheinigung?
 
@@ -22,15 +22,15 @@ Sie erhalten Ihre Steuerbescheinigung dennoch gerne auf Anforderung.
 Bitte fragen Sie Ihren Steuerberater oder Steuerhilfe-Verein, ob Sie eine Steuerbescheinigung für die kommende Steuererklärung benötigen. Bei Bedarf bestellen Sie diese telefonisch unter 0211 - 900 20 3
 
 
-
-Wann erfolgt der Versand?
+###
+Wann erfolgt der Versand der Steuerbescheinigung ?
 
 Haben Sie eine Steuerbescheinigung bestellt, versendet die TARGOBANK diese in der Regel bis zum Ende des 1. Quartals des Folgejahres.
 
 Nutzen Sie bereits unser Online-Postfach? In diesem Jahr wird erstmalig die Steuerbescheinigung für 2016 ins Online-Postfach eingestellt. Ein zusätzlicher Versand per Post erfolgt dann nicht.
 33.
 
-
+###
 Wann benötige ich eine Verlustbescheinigung?
 
 Wenn Sie Konten bei mehreren Banken haben, können Sie nicht verrechnete Verluste mit positiven Kapitalerträgen bankübergreifend in Ihrer Steuererklärung verrechnen. Hierzu benötigen Sie die Verlustbescheinigung der Bank, bei der Ihre Verluste angefallen sind.
@@ -41,14 +41,14 @@ Die ausstellende Bank bescheinigt Verluste in der Steuerbescheinigung. Die Verlu
 
 Bestellen Sie keine Verlustbescheinigung, werden Ihre nicht genutzten Verluste automatisch in das Folgejahr übertragen. Sie werden mit zukünftigen positiven Kapitalerträgen verrechnet.
 
-
+###
 Was ist eine Erträgnisaufstellung?
 
 Die Erträgnisaufstellung ist eine Ergänzung zur Steuerbescheinigung. Sie hilft Ihnen beim Ausfüllen Ihrer Steuererklärung.
 
 Durch die Erträgnisaufstellung erhalten Sie detaillierte Information zu allen Kapitalerträgen. Sie sehen zum Beispiel die Nutzung Ihrer Verlustverrechnungstöpfe und Ihres Freistellungsauftrages.
 
-
+###
 Wann erfolgt der Versand der Erträgnisaufstellung (EA)?
 
 Haben Sie eine Erträgnisaufstellung bestellt, versendet die TARGOBANK die Aufstellung ab März/April. Bitte fordern Sie Ihre EA telefonisch unter 0211 - 900 20 333 an. Sie kostet 18,50 EUR pro Aufstellung.
@@ -56,3 +56,4 @@ Haben Sie eine Erträgnisaufstellung bestellt, versendet die TARGOBANK die Aufst
 Steuerliche Hinweise?
 
 Aus rechtlichen Gründen dürfen wir keine steuerlichen Beratungen durchführen. Bei Fragen zu steuerrechtlichen Themen wenden Sie sich an Ihren Steuerberater oder an einen Steuerhilfe-Verein.
+###

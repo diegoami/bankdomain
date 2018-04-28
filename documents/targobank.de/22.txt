@@ -1,27 +1,27 @@
-
+###
 Was sind Geldanlagen?
 
 Geldanlagen sind Guthaben bei Banken, für die Sie Zinsen erhalten. Es gibt unterschiedliche Formen von Geldanlagen: Spareinlagen mit variablen Zinsen oder Festzinsprodukte mit garantierten Zinsen für feste Laufzeiten.
-
+###
 
 Welche Vorteile bieten mir Geldanlagen?
 
 Geldanlagen sind transparent, kalkulierbar und sicher. Sie wissen meist genau, wie viel Zinsen Sie erhalten. Die Höhe der Zinsen ist abhängig vom Anlagezeitraum und der Höhe des angelegten Betrages. Bitte beachten Sie auch die weiteren Informationen zu unseren Geldanlagen.
 
-
+###
 Wie sicher sind meine Einlagen (z.B. Sparguthaben, Festgelder, Girokonto) bei der TARGOBANK?
 
 Als deutsche Bank unterliegt die TARGOBANK AG & Co. KGaA dem Verfahren für die Einlagensicherung in Deutschland. Die gesetzlich vorgeschriebene Grundabsicherung in Deutschland sichert Ihre Einlagen und der vertraglich vereinbarten Zinsen bis zu einem Maximalbetrag von 100.000,– Euro.
 
 Außerdem sind Ihre Einlagen bei der TARGOBANK durch den Einlagensicherungsfonds des Bundesverbandes deutscher Banken geschützt: bis zu etwa 279 Millionen EUR pro Kunde. (Stand: 10. August 2016.)
 
-
-Wann erhalte ich meine Zinsen?
+###
+Wann erhalte ich meine Zinsen zu ?
 
 Dies vereinbaren wir vertraglich mit Ihnen. Es gibt ganz unterschiedliche Möglichkeiten. Sie können Ihre Zinsen zum Beispiel vierteljährlich, jährlich oder am Ende der vereinbarten Laufzeit erhalten.
+###
 
-
-Komme ich jederzeit an mein Geld?
+Komme ich jederzeit an mein Geld in den Geldanlagen?
 
 Das hängt von der Anlageform ab, für die Sie sich entscheiden.
 
@@ -29,7 +29,8 @@ Das hängt von der Anlageform ab, für die Sie sich entscheiden.
     Bei Spareinlagen können Sie bis zu 2.000,– EUR pro Monat abheben. Bei Beträgen darüber hinaus liegt die Kündigungsfrist bei 3 Monaten. Wenn Sie vor Ablauf der Kündigungsfrist verfügen möchten, berechnen wir hierfür Vorschusszinsen.
     Bei Festgeldanlagen entscheiden Sie sich für eine feste Laufzeit. Daher können Sie während der Laufzeit nicht über Ihr Geld verfügen. Dafür erhalten Sie eine feste Verzinsung für die vereinbarte Laufzeit.
 
-
+###
 Wie finde ich die für mich richtige Geldanlage?
 
 Erste Informationen erhalten Sie auf unserer Webseite "Sparen & Geldanlage". Wir haben unser Angebot für Sie übersichtlich und gut vergleichbar dargestellt. Überlegen Sie sich Ihre Wünsche: Wie viel Geld möchten Sie lohnend anlegen und für wie lange? Möchten Sie ein bestimmtes Sparziel erreichen? Wenn ja, in welchem Zeitraum? Lassen Sie sich von den Ansprechpartnern in Ihrer TARGOBANK Filiale beraten. Vergleichen Sie das Angebot gerne mit anderen Instituten. Für Schnellentschlossene: Manche unserer Geldanlagen können Sie ganz bequem online beantragen.
+###

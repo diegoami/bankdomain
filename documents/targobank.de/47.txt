@@ -1,29 +1,29 @@
-
+###
 Was benötige ich, um die Banking-App zu nutzen?
 
 Für die Mobile-App benötigen Sie die TARGOBANK Mobile-App, ein Smartphone (z.B. ein iPhone, Android oder Windows Phone) und die Freischaltung zum TARGOBANK Online-Banking.
 Für die Tablet-App benötigen Sie die TARGOBANK Tablet-App, ein iPAD oder Android Tablet und die Freischaltung zum TARGOBANK Online-Banking.
 
-
+###
 Benötige ich für die Banking-App eine extra Registrierung oder Freischaltung?
 
 Nein. Wenn Sie für das Online-Banking freigeschaltet sind, können Sie auch den mobilen Service nutzen.
 
-
+###
 Wie melde ich mich in der Banking-App an?
 
 Sie melden sich einfach mit dem Benutzernamen und Passwort an, die Sie auch im Online-Banking nutzen.
 
-
+###
 Wie melde ich mich von der Banking-App ab?
 
 Betätigen Sie den Logout Button im Kopfbereich der Banking-App.
 
-
+###
 Für welche Mobiltelefone steht die Banking-App zur Verfügung?
 
 Die Banking-App ist für Android, Windows Phone und das iPhone verfügbar. Mit allen anderen Smartphones nutzen Sie bitte m.targobank.de.
-
+###
  Wo erhalte ich die Banking-App?
 
 Laden Sie sich die Banking-App kostenlos herunter über Ihr:
@@ -32,7 +32,7 @@ Laden Sie sich die Banking-App kostenlos herunter über Ihr:
     Smartphone mit Android Betriebssystem bei Google Play
     Mobiltelefon mit Windows Phone Betriebssystem im Windows Marketplace
 
-
+###
 Was kostet dieser Service?
 
 Dieser Service ist für unsere Kunden kostenlos. Für die Nutzung der Finanzdienstleistungen fallen die dafür vereinbarten Entgelte an. Im Übrigen fallen nur die Verbindungskosten für Daten bei Ihrem Mobilfunkanbieter an.
@@ -49,49 +49,50 @@ Die Banking-App bietet Ihnen die wichtigsten Funktionen für die täglichen Bank
 
 Eine detaillierte Auflistung aller Funktionen finden Sie in der Beschreibung im App Store, bei Google Play oder im Windows Marketplace.
 
-
+###
 Kann ich Wertpapier-Transaktionen über die Banking-App durchführen?
 
 Nein. Dies ist derzeit nicht möglich.
 
-
+###
 Kann ich mein Wertpapierdepot in der Banking-App einsehen?
 
 Ja. Sie können die Depotübersicht und Details zu einzelnen Wertpapierpositionen in Ihrem Bestand aufrufen.
 
-
+###
 Kann ich meine Überweisungsvorlagen aus dem Online-Banking mobil verwenden?
 
 Ja. Die Überweisungsvorlagen stehen Ihnen auch in der Banking-App zur Verfügung.
-
+###
 
 Sind meine Daten sicher, wenn ich mit dem Mobiltelefon ins Internet gehe?
 
 Ihre Daten sind mit denselben Verfahren zur Verschlüsselung gesichert, die auch an Ihrem PC zum Einsatz kommen.
-
+###
  Welchen Beitrag zur Sicherheit kann ich selbst leisten?
 
     Melden Sie sich möglichst nicht über ein fremdes Gerät in unserem Online-Banking an.
     Ändern Sie Ihr Passwort regelmäßig. Nutzen Sie Kombinationen aus Buchstaben in Groß- und Kleinschreibung und Zahlen. Verwenden Sie keine Kombinationen, die einen privaten Bezug haben wie Namen, Geburtsdatum, Telefonnummer, Postleitzahlen.
     Nutzen Sie beim Verlassen der Banking-App immer den Logout Button.
     Greifen Sie nicht in die Sicherheitseinstellungen Ihres Mobilgerätes ein.
-
+###
 
 Welche Sicherheitsverfahren gibt es in der Banking-App, um Überweisungen zu bestätigen?
 
 Alle Transaktionen bestätigen Sie durch die Eingabe einer iTAN.
 
-
+###
 Kann ich das mTAN Verfahren auch in der Banking-App nutzen?
 
 Nein. Aus Sicherheitsgründen ist die Nutzung von mTAN in der Banking-App nicht möglich.
-
+###
 
 Kann ich mit der Banking-App Auslandsüberweisungen oder Daueraufträge ausführen?
 
 Dies ist momentan nicht möglich. Bitte nutzen Sie hierfür wie gewohnt Ihr Online-Banking.
 
-
+###
 Was muss ich tun wenn mir die Banking-App anzeigt, dass meine iTAN Karte gesperrt ist?
 
 Bitte bestellen Sie Ihre iTANs über das Online-Banking oder telefonisch unter 0211 - 900 20 222, Mo.-Sa.: 8.00 - 22.00 Uhr.
+###

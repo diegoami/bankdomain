@@ -1,4 +1,4 @@
-
+###
 Was ist der Konto-SMS-Service?
 
 Mit dem Konto-SMS-Service haben Sie Ihre Finanzen immer im Blick. Sie erhalten innerhalb weniger Minuten Informationen per SMS oder E-Mail über Transaktionen auf Ihrem Girokonto oder Ihrer Kreditkarte. Der Mindesttransaktionsbetrag bei Girokonten liegt bei 100,– EUR. Auf Wunsch informieren wir Sie auch über Änderungen bei Ihrem:
@@ -8,7 +8,7 @@ Mit dem Konto-SMS-Service haben Sie Ihre Finanzen immer im Blick. Sie erhalten i
     Wertpapierdepot
 
 Melden Sie sich für diesen Service nach Ihrem Login im Online-Banking an.
-
+###
 
 Welche Voraussetzungen gibt es für den Konto-SMS-Service?
 
@@ -17,7 +17,7 @@ Der Konto-SMS-Service steht jedem Online-Banking Kunden mit Girokonto oder Kredi
 Melden Sie sich für diesen Service nach Ihrem Login im Online-Banking an.
 
 Wichtig: Für Verfügungsberechtigte bieten wir den Konto-SMS-Service nicht an. Dies gilt auch, wenn Sie ausschließlich eine TARGOBANK Zusatzkreditkarte besitzen.
-
+###
 
 Wie aktiviere ich den Konto-SMS-Service?
 
@@ -25,22 +25,22 @@ Wählen Sie im Online-Banking unter "Service" den Menüpunkt "Konto-SMS-Service"
 
 Wichtig: Informationen versenden wir nur, wenn Sie eine gültige Mobilfunknummer und E-Mail-Adresse angegeben haben und die erwünschten Nachrichten aktivieren. Sie erhalten innerhalb von 30 Minuten nach Anmeldung eine Willkommens-SMS zur Bestätigung. Wenn Sie keine Nachrichten erhalten, prüfen Sie bitte die E-Mail-Adresse und Handynummer in Ihrem Profil.
 
-
+###
 Kann ich als 2. Kontoinhaber den Konto-SMS-Service nutzen?
 
 Der Konto-SMS-Service steht allen Konto- und Hauptkreditkarteninhabern zur Verfügung. Es ist möglich, für das gemeinsame Konto zwei verschiedene Konto-SMS-Service Profile zu erstellen.
 
-
+###
 Kann ich als Verfügungsberechtigter den Konto-SMS-Service nutzen?
 
 Nein. Dieser Service steht nur Konto- und Hauptkreditkarteninhabern zur Verfügung.
 
-
+###
 Kann ich mich für den Konto-SMS-Service registrieren, wenn ich nur ein Sparbuch besitze?
 
 Nein. Für den Konto-SMS-Service benötigen Sie ein Girokonto oder eine Kreditkarte.
 
-
+###
 Ist es möglich, den Konto-SMS-Service so einzurichten, dass ich nur zu einer bestimmten Tageszeit Nachrichten empfange?
 
 Ja, dies ist möglich.
@@ -50,17 +50,18 @@ Ich habe mich für den Konto-SMS-Service angemeldet, bekomme aber keine Benachri
 
 Bitte überprüfen Sie, ob Ihre Angaben in der Konto-SMS-Service Anmeldung richtig sind. Prüfen Sie bitte auch, ob Sie den Konto-SMS-Service aktiviert und Ihre gewünschten Nachrichten ausgewählt haben. Es ist möglich, dass Nachrichten nicht zugestellt werden, da beispielsweise das Mobilfunkgerät abgeschaltet ist oder Netzstörungen vorliegen. Bitte beachten Sie, dass SMS maximal 48 Stunden vorgehalten werden.
 
-
+###
 Wie melde ich mich von dem Konto-SMS-Service ab?
 
 Bitte löschen Sie Ihr Profil im Online-Banking. Ab dem nächsten Werktag ist Ihre Abmeldung umgesetzt. Sie erhalten keine Konto-SMS-Service Nachrichten mehr per E-Mail oder SMS.
 
-
+###
 Was passiert, wenn ich meine Handynummer oder E-Mail Adresse ändere?
 
 Bitte ändern Sie Ihre Handynummer oder E-Mail Adresse in Ihrem Profil im Online-Banking. Die neuen Angaben berücksichtigen wir dann ab sofort.
 
-
+###
 Kann ich im Nachhinein die Auswahl der Benachrichtigungen ändern?
 
 Die Auswahl der Benachrichtigungen können Sie jederzeit über Online-Banking ändern.
+###

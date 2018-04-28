@@ -1,8 +1,8 @@
-
+###
 Wann ist das De-Mail-Gesetz in Kraft getreten?
 
 Das Gesetz ist am 3. Mai 2011 in Kraft getreten. Das Bundesamt für Sicherheit in der Informationstechnik hat den Wortlaut des De-Mail-Gesetzes auf seinen Internetseiten veröffentlicht.
-
+###
  Was sind die wesentlichen Regelungen des De-Mail-Gesetzes?
 
 Das De-Mail-Gesetz führt Mindestanforderungen an den sicheren elektronischen Austausch von Nachrichten ein. Es regelt wichtige Eigenschaften, wie die:
@@ -13,13 +13,13 @@ Das De-Mail-Gesetz führt Mindestanforderungen an den sicheren elektronischen Au
 
 Darüber hinaus gibt es ein festgelegtes Zulassungsverfahren für De-Mail-Anbieter. Dieses überprüft die Einhaltung der Mindestanforderungen anhand einheitlicher Regeln
 
-
+###
 Kann der Empfänger abstreiten, dass er eine De-Mail-Nachricht erhalten hat?
 
 Auch wenn der Nutzer den Empfang einer De-Mail bestreitet, ist der Erhalt nachweisbar.
 
 Verlangt der Absender einer De-Mail-Nachricht eine Eingangsbestätigung, bekommt er eine qualifiziert elektronisch signierte Eingangsbestätigung vom De-Mail-Anbieter des Empfängers. Sie enthält den Nachweis, dass die Nachricht im De-Mail-Postfach des Empfängers abgelegt wurde. Das ist ähnlich wie die Quittung des "Einwurfeinschreibens".
-
+###
 
 Unter welcher Bedingung wird die Identität einer De-Mail-Adresse aufgedeckt?
 
@@ -28,3 +28,4 @@ Unter welcher Bedingung wird die Identität einer De-Mail-Adresse aufgedeckt?
 Der Dritte muss glaubhaft versichern, dass er die Auskunft zur Verfolgung eines Rechtsanspruches benötigt. Dieser Anspruch muss auf einem Rechtsverhältnis zwischen den Parteien beruhen, das durch die Nutzung von De-Mail zustande gekommen ist. Der Anbieter ist verpflichtet, die Auskunftserteilung zu dokumentieren und den Inhaber des De-Mail-Kontos zu informieren.
 
 Beispiel: Wenn einem Onlineshop nur die De-Mail-Adresse eines Kunden bekannt ist, ist eine Auskunftserteilung erforderlich.
+###

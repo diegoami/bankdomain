@@ -1,4 +1,5 @@
- Allgemeines zur Abgeltungsteuer (AGS)
+###
+Was ist die Abgeltungsteuer (AGS) ?
 
 Die AGS ist eine Steuer, die auf private Kapitalerträge erhoben wird. Ziel der Abgeltungsteuer ist eine möglichst vollständige Erfassung und gleichmäßige Besteuerung aller privaten Kapitalerträge. Dabei gilt ein einheitlicher Steuersatz von 25 % Kapitalertragsteuer (KESt). Hinzu kommen 5,5 % Solidaritätszuschlag (SolZ) und ggf. Kirchensteuer (KiSt).
 
@@ -7,6 +8,7 @@ Ihre Vorteile:
     Die TARGOBANK führt die Steuern (KESt/SolZ/KiSt) automatisch an das Finanzamt ab.
     Sie sind nicht mehr verpflichtet, AGS besteuerte Kapitalerträge in der Steuererklärung anzugeben. Es gibt jedoch Ausnahmen.
 
+###
 
 Für welche Geldanlagen zahle ich Abgeltungsteuer?
 
@@ -33,10 +35,12 @@ Kirchensteuer 	150,– EUR
 
 13,20 EUR
 
+###
 
 Wie zahle ich Abgeltungsteuer?
 
 Die TARGOBANK führt die Abgeltungsteuer, den Solidaritätszuschlag und ggf. Kirchensteuer an das Finanzamt ab.
+###
 
  Wer zahlt Abgeltungsteuer?
 
@@ -50,10 +54,11 @@ In Ihrer Steuererklärung können Sie die Besteuerung der Kapitaleinkünfte mit 
 
 Ist Ihr persönlicher Steuersatz günstiger, erstattet das Finanzamt Ihnen die zu viel erhobene AGS.
 
-
-Informationen für Steuerausländer
+###
+Zahlen Steuerausländer die Abgeltungsteuer ?
 
 Wenn Sie in Deutschland weder einen Wohnsitz noch einen gewöhnlichen Aufenthalt angemeldet haben, zahlen Sie in der Regel keine Abgeltungsteuer. Es gelten die steuerlichen Vorschriften des Wohnsitzlandes oder des Doppelbesteuerungsabkommens. Inländische Dividenden unterliegen auch bei Steuerausländern der Abgeltungsteuer.
+###
 
  Was ist die Verlustverrechnung?
 
@@ -64,7 +69,7 @@ Bei der Ermittlung der Abgeltungsteuer verrechnet die TARGOBANK negative und pos
 
 Statt eines Übertrags der verbleibenden Verluste in das Folgejahr, können Sie bis zum 15.12. eines Steuerjahres eine Verlustbescheinigung anfordern.
 
-
+###
 
 Welche Verrechnungstöpfe gibt es?
 
@@ -75,7 +80,7 @@ Welche Verrechnungstöpfe gibt es?
     Verlustverrechnungstopf Quellensteuer (VVTQ).
     Anrechenbare ausländische Quellensteuer vermindert die Bemessungsgrundlage der Abgeltungsteuer.
 
-
+###
 Wie ermittelt sich die Abgeltungsteuer unter Berücksichtigung der Verlustverrechnungstöpfe?
 
 Die Abgeltungsteuer ermittelt sich für jeden Kapitalertrag in der gesetzlich festgelegten Reihenfolge:
@@ -83,11 +88,11 @@ Die Abgeltungsteuer ermittelt sich für jeden Kapitalertrag in der gesetzlich fe
 Ermittlung der Abgeltungssteuer
 
 
-
-Ist eine nachträgliche Verlustverrechnung möglich?
+###
+Ist eine nachträgliche Verlustverrechnung der Abgeltungsteuer möglich?
 
 Ja. Die TARGOBANK überprüft an jedem Bankgeschäftstag, ob neue Verluste zu einer Minderung der bisherigen Steuerabzüge führen. In diesem Fall erhalten Sie eine Steuergutschrift.
-
+###
  Wie funktioniert die ehegattenübergreifende Verlustverrechnung?
 
 Die TARGOBANK ist seit 2010 verpflichtet, eine ehegattenübergreifende Verlustverrechnung vorzunehmen. Diese erfolgt in der Regel im ersten Quartal des Folgejahres. Voraussetzung ist ein gemeinsamer Freistellungsauftrag bei der TARGOBANK.
@@ -104,7 +109,7 @@ Bei überschüssigen Erträgen aus den gemeinschaftlichen Anlagen/Depots berück
 Die ehegattenübergreifende Verlustverrechnung ist auch möglich, wenn Ehepaare ihren Sparer-Pauschbetrag bei anderen Instituten ausgenutzt haben. Hierzu stellen Sie einen gemeinschaftlichen Freistellungsauftrag über 0,00 EUR.
 
 Wünschen Ehepaare keine ehegattenübergreifende Verlustverrechnung, kann jeder Ehepartner einen eigenen Freistellungsauftrag stellen. Dabei werden nur die Kapitalerträge der Einzelkonten des jeweiligen Ehepartners berücksichtigt.
-
+###
  Wie funktioniert die ehegattenübergreifende Verlustverrechnung?
 
 Die TARGOBANK ist seit 2010 verpflichtet, eine ehegattenübergreifende Verlustverrechnung vorzunehmen. Diese erfolgt in der Regel im ersten Quartal des Folgejahres. Voraussetzung ist ein gemeinsamer Freistellungsauftrag bei der TARGOBANK.
@@ -121,7 +126,7 @@ Bei überschüssigen Erträgen aus den gemeinschaftlichen Anlagen/Depots berück
 Die ehegattenübergreifende Verlustverrechnung ist auch möglich, wenn Ehepaare ihren Sparer-Pauschbetrag bei anderen Instituten ausgenutzt haben. Hierzu stellen Sie einen gemeinschaftlichen Freistellungsauftrag über 0,00 EUR.
 
 Wünschen Ehepaare keine ehegattenübergreifende Verlustverrechnung, kann jeder Ehepartner einen eigenen Freistellungsauftrag stellen. Dabei werden nur die Kapitalerträge der Einzelkonten des jeweiligen Ehepartners berücksichtigt.
-
+###
  Was bedeutet FiFo und wie wirkt sich diese Regelung beim Verkauf aus?
 
 Verkäufe aus Ihrem TARGOBANK Depot erfolgen nach dem "First in – First out"- Prinzip (kurz: FiFo).
@@ -153,21 +158,21 @@ KESt (ohne Kirchensteuer)
 Solidaritätszuschlag 5,5 % 		875,– EUR
 48,13 EUR
 
-
+###
 Was sind die Vorteile eines Zweitdepots?
 
 Sie haben die Möglichkeit, Altbestände in ein Zweitdepot zu übertragen. Da Sie diese vor Einführung der Abgeltungsteuer (AGS) erworben haben, können Sie diese weiterhin steuerfrei veräußern (Bestandsschutz).
 
 Zusätzlich führen Sie ein Depot für alle Wertpapiere, die bei Verkauf der AGS unterliegen.
 
-
+###
 Was ist der Gläubigerwechsel bei einem Depotübertrag?
 
 Ein Gläubigerwechsel liegt vor, wenn der Empfänger der übertragenen Wertpapiere nicht gleichzeitig der abgebende Depotinhaber ist.
 
 Seit der Einführung der Abgeltungsteuer unterscheidet man zwischen Depotübertrag mit oder ohne Gläubigerwechsel.
-
- Was sind die steuerlichen Auswirkungen?
+###
+Was sind die steuerlichen Auswirkungen eines Gläubigerwechsels?
 
 1. Depotübertrag mit Gläubigerwechsel.
 
@@ -192,21 +197,22 @@ Die TARGOBANK führt beim Übertrag keine Abgeltungsteuer ab. Die ursprüngliche
 
 Übertragen Sie zwischen Ihren eigenen Depots, teilt die übertragende der übernehmenden Bank seit dem 01.01.2009 die ihr bekannten steuerlich relevanten Anschaffungsdaten (Kaufdatum und Kurs) mit.
 
-
+###
 Wie wirkt sich die Abgeltungsteuer auf die Auszahlung von Dividenden aus?
 
 Dividenden in- und ausländischer Aktien sind steuerpflichtige Kapitalerträge.
 
 Bei einer Dividendenzahlung führt die Bank daher automatisch Abgeltungsteuer, Solidaritätszuschlag und eventuell Kirchensteuer an das Finanzamt ab. Das Halbeinkünfteverfahren gilt seit Einführung der Abgeltungsteuer nicht mehr.
 
-
+###
 Gibt es Ausnahmen für Dividendenauszahlungen?
 
 Ja, die Dividendenzahlungen aus den steuerlichen Einlagekonten bilden eine Ausnahme. Diese sind für den Empfänger bei Zahlung steuerfrei und mindern die Anschaffungskosten der Aktie.
 
-
+###
 Was ist die Quellensteuer?
 
 Quellensteuer fällt bei ausländischen Kapitalerträgen im Ausland an. Die ausländische Quellensteuer wird abhängig vom Doppelbesteuerungsabkommen (DBA) teilweise auf die Abgeltungsteuer angerechnet.
 
 Dies geschieht automatisch über den Verlustverrechnungstopf Quellensteuer (VVTQ). Der nicht anrechenbare Teil der Quellensteuer kann über einen Antrag beim jeweiligen Quellenstaat zurückgefordert werden. Die TARGOBANK bietet diesen Service an.
+###

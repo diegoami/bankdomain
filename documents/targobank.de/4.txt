@@ -1,8 +1,8 @@
-
+###
 Welche Vorteile bietet mir das Plus-Konto?
 
 Das Plus-Konto führen Sie kostenlos ab einem monatlichen Gehaltseingang von 1.000,– EUR. Auch Überweisungen über unsere Selbstbedienungskanäle sind kostenlos. Ihre Kontobewegungen behalten Sie mit dem kostenlosen Finanzstatus in Ihrem Online-Postfach im Blick. Außerdem bieten wir Ihnen unseren kostenlosen Konto-SMS-Service an. Zusätzlich erhalten Sie Sicherheit durch unsere kostenlose Online-Sicherheits-Garantie. Dafür registrieren Sie sich bitte im Online-Banking.
-
+###
 
 Was ist beim Plus-Konto inklusive?
 
@@ -17,7 +17,7 @@ Was ist beim Plus-Konto inklusive?
     Kostenloser Kontowechsel-Service.
     Kostenlose blaue girocard.
 
-
+###
 Welche Produkte erhalte ich zusätzlich zum Plus-Konto?
 
 Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte – Bonität vorausgesetzt:
@@ -26,49 +26,50 @@ Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte – Bonität vorausges
     Ein breites Angebot an Geldanlageprodukten, wie zum Beispiel Sparkonto, Festgeld, Tagesgeld.
     Einen individuellen Privatkredit.
     Bausparen und Baufinanzierung.
-
+###
 
 Wann ist das Plus-Konto kostenlos?
 
 Das Plus-Konto ist ab einen monatlichen Gehaltseingang von mindestens 1.000,– EUR kostenlos. Für Monate, in denen kein oder ein geringerer Gehaltseingang erfolgt, berechnen wir eine monatliche Kontoführungsgebühr von 5,95 EUR.
 
-
-Bekomme ich eine kostenlose girocard?
+###
+Bekomme ich eine kostenlose girocard im Plus-Konto?
 
 Ja. Im Plus-Konto ist eine kostenlose girocard inklusive.
-
- Wo hebe ich mit meiner girocard kostenlos Bargeld ab?
+###
+ Wo hebe ich mit meiner girocard mit meinem Plus-Konto kostenlos Bargeld ab?
 
 Dies ist möglich in:
 
     Deutschland an rund 2.900 Geldautomaten des CashPool.
     Spanien an den Geldautomaten der TARGOBANK España.
     Frankreich an über 6.600 Geldautomaten der Crédit Mutuel und der CIC Bank.
-
+###
  Bekomme ich zum Plus-Konto auch eine Kreditkarte?
 
 Zum Plus-Konto gehört auf Wunsch eine Kreditkarte zu attraktiven Konditionen. Damit genießen Sie noch mehr finanzielle Flexibilität. Ihre Rechnungsbeträge zahlen Sie individuell zurück.
-
- Kann ich mit meiner Kreditkarte auch kostenlos Bargeld abheben?
+###
+ Kann ich mit meiner Kreditkarte auch kostenlos Bargeld vom Plus-Konto abheben?
 
 Mit den TARGOBANK Kreditkarten und Gratis-Cash heben Sie überall gebührenfrei Geld ab. Je nach Kreditkarte in ganz Deutschland oder weltweit. Mit einer Kreditkarte genießen Sie weltweit Akzeptanz und umfangreiche Zusatzleistungen.
 
-
+###
 Kann ich das Plus-Konto mit meinem Partner teilen?
 
 Ja, Sie können das Plus-Konto auch als Gemeinschaftskonto nutzen.
 
-
+###
 Wo eröffne ich ein Plus-Konto?
 
 Bitte eröffnen Sie Ihr Plus-Konto in einer unserer TARGOBANK Filialen.
 
-
+###
 Bekomme ich mit meinem Plus-Konto auch einen Dispositionsrahmen?
 
 Wir räumen Ihnen gerne einen individuellen Dispositionsrahmen ein. Dieser ist abhängig von Ihrer Bonität.
 
-
+###
 Kann ich mit meinem Plus-Konto auch Online-Banking nutzen?
 
 Ja, dieser Service ist kostenlos. Melden Sie sich einfach dafür an. Schon erledigen Sie Ihre Bank- und Wertpapiergeschäfte bequem über das Internet.
+###

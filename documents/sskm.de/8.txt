@@ -1,6 +1,8 @@
+###
 Wo finde ich die Brokerage-Funktionen Orderbuch und Orderhistorie?
 
 Im Online-Brokerage werden die Funktionen Orderbuch und Orderhistorie in der Funktion "Orderstatus" zusammengefasst. Dort lassen sich alle Orders nach Status filtern.
+###
 Welche Wertpapiere kann ich telefonisch und online kaufen oder verkaufen?
 
 Folgende Wertpapiere können Sie als Brokerage-Teilnehmer per Telefon oder im Online-Brokerage kaufen und verkaufen:
@@ -14,24 +16,28 @@ Folgende Wertpapiere können Sie als Brokerage-Teilnehmer per Telefon oder im On
 •    Optionsscheine und Zertifikate
 
 Außerdem können Sie Neuemissionen zeichnen.
+###
 Wo finde ich Details zum Funktionsumfang und den Möglichkeiten des Online-Brokerage?
 
 Detaillierte Informationen erhalten Sie in der Beschreibung des Online-Brokerage hier auf unserer Internetseite.
-Zum Online-Brokerage
+###
 Warum muss ich eine Selbstauskunft über meine Wertpapierkenntnisse erteilen?
 
 Wir sind verpflichtet bei der Erbringung von Wertpapierdienstleistungen, Beratungen und auch bei Aufträgen ohne Beratung bestimmte Angaben einzuholen. Das sind zum Beispiel die Kenntnisse und Erfahrungen des Kunden im Wertpapierbereich. Die Angaben zu Ihren Kenntnissen und Erfahrungen, zu Ihren Anlagezielen (Anlagedauer, Risikobereitschaft und Anlagezwecke) und finanziellen Verhältnissen (zum Beispiel Einkommen, Vermögen) sind wichtige Grundlagen für künftige Anlageberatungen und für beratungsfreie Geschäfte, auch im Online-Brokerage. Daher bitten wir Sie, wenn Sie Wertpapiergeschäfte mit uns tätigen und diese Angaben nicht erst vor kurzem erteilt haben, einen Termin mit Ihrem Berater zu vereinbaren.
-Termin vereinbaren
+###
 Wo kann ich aktuelle Kursinformationen von der Börse erhalten?
 
 Die Stadtsparkasse München stellt Ihnen online ein umfangreiches, leistungsstarkes und kostenloses System zur Börseninformation zur Verfügung. Hier können Sie jederzeit aktuelle Aktienkurse und Börsendaten abrufen. Außerdem können Sie viele praktische Funktionen nutzen, Wertpapiere in einem Musterdepot verwalten und haben wichtige Nachrichten immer im Blick.
-Zu den Börseninformationen
+###
 Was ist Tradegate?
 
 Tradegate Exchange ist eine Wertpapierbörse im Sinne des § 2 Abs. 2 des Börsengesetzes mit Sitz in Berlin. Träger dieser Börse ist die Tradegate Exchange GmbH mit Sitz in Berlin.  Der Abschluss der Handelsgeschäfte erfolgt ausschließlich im elektronischen Handel. Weitere Informationen zum Marktmodell finden Sie auf dem Internet-Auftritt der Tradegate Exchange.
+###
 Welche Wertpapierarten werden bei Tradegate gehandelt?
 
 Am Börsenplatz Tradegate werden Aktien, Renten, Fonds und ETF's gehandelt.
+###
 Wie sind die Handelszeiten von Tradegate?
 
 Das Besondere an Tradegate ist die Handelszeit von 8 bis 22 Uhr, die deutlich über die der anderen inländischen Börsen hinausgeht. Bis 19 Uhr des jeweiligen Tages ausgeführte Wertpapiergeschäfte werden in der Regel noch taggleich abgerechnet und sind am Folgetag im Depot ersichtlich. Als maximale Ordergültigkeit ist der letzte Handelstag des laufenden Jahres möglich.
+###

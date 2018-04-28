@@ -1,8 +1,10 @@
+###
 Wann wird im Online-Banking ein Dauerauftrag gelöscht, wenn ich ein Löschdatum (Monat, Jahr) eingegeben habe?
 
 Mit dem Löschdatum geben Sie den Termin vor, zu dem der Dauerauftrag nicht mehr ausgeführt wird.
 
 Beispiel: Soll der Dauerauftrag im November 2017 zum letzten Mal ausgeführt werden, müssen Sie als Löschdatum 12/2017 eingeben.
+###
 Woran erkenne ich im Online-Banking, dass ein Dauerauftrag gelöscht wurde?
 
 Gelöschte Daueraufträge bleiben bis zur nächsten Anmeldung sichtbar. Die Löschung eines Auftrags erkennen Sie daran, dass keine Änderungsfunktion angezeigt wird.
@@ -11,12 +13,14 @@ Welches Datum kann ich als frühesten Ausführungstag für einen Dauerauftrag/ei
 Das Datum des nächsten Tages.
 
 Hinweis: Wochenenden und Feiertage sind keine Buchungstage.
+###
 Kann ich im Online-Banking den 31. eines Monats als Ausführungsdatum für einen Dauerauftrag eintragen?
 
 Dafür nutzen Sie bitte die Option "Ultimo". Damit wird automatisch der letzte Bankarbeitstag eines Monats als Ausführungstag verwendet.
 Warum kann ich meine Terminüberweisung nicht bearbeiten/löschen?
 
 Eine Terminüberweisung können Sie nur bis zu einem Tag vor Ausführung bearbeiten oder löschen.
+###
 Ist es möglich, Sammelaufträge aufgesplittet angezeigt zu bekommen?
 
 Nein, es ist nicht möglich, Sammelaufträge in Einzelposten aufzusplitten. Eingereichte Sammeldateien werden als Sammler verbucht und angezeigt.
@@ -25,12 +29,16 @@ Ich erhalte die Systemrückmeldung "Auftrag wegen Doppeleinreichung abgelehnt. G
 Um irrtümliche Doppelausführungen zu vermeiden werden Aufträge, die mit einem bereits eingereichten Auftrag identisch sind, abgelehnt. Bei der Prüfung der Doppeleinreichung werden Empfänger, Betrag und die erste Verwendungszweckzeile eines Auftrages geprüft. Falls Sie einen als Doppeleinreichung abgelehnten Auftrag dennoch einreichen wollen, empfehlen wir, die erste Zeile des Verwendungszwecks zu ändern. Es genügt, eine Ziffer oder einen Buchstaben auszutauschen oder zu ergänzen. Die Änderung von Sonderzeichen wird bei der Prüfung nicht berücksichtigt.
 
 Hinweis: Die Prüfung der Doppeleinreichung gilt im Online-Banking sowie bei FinTS/HBCI (Bankingsoftware) innerhalb der letzten 24 Stunden.
+###
 Wie kann ich im Online-Banking eine Umbuchung (Übertrag) durchführen?
 
 Rufen Sie den Menüpunkt "Online-Banking" > "Banking" > "Übertrag" auf. Wählen Sie anschließend mit Klick auf das €- Symbol das Konto aus, von dem der Betrag abgebucht werden soll.
+###
 Wie kann ich im Online-Banking Empfängervorlagen bearbeiten?
 
 Rufen Sie nach dem Banking-Login den Menüpunkt "Online-Banking" > "Banking" > "Empfängerdaten" auf. Dort haben Sie bestimmte Änderungsmöglichkeiten, zum Beispiel das Papierkorb-Symbol in der rechten Spalte für die Löschung eines Empfängers. Im nächsten Schritt prüfen Sie, ob Sie die richtige Vorlage ausgewählt haben, und löschen die Vorlage mit Klick auf den Button "Löschen".
+###
 Wo finde ich die offenen und die gesendeten Sammelaufträge (Sammelüberweisung, Sammellastschrift, ...)?
 
 Um offene und gesendete Sammelaufträge einzusehen, klicken Sie bitte auf das Symbol "Vorlagen suchen". Hinweis: Bisher wurden diese Aufträge unmittelbar nach dem Aufruf der Funktion unter den Suchfeldern angezeigt.
+###

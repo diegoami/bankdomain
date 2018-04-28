@@ -1,13 +1,13 @@
-
+###
 Was ist das Festgeld?
 
 Bei unseren Festgeldangeboten überprüfen wir unser Zinsangebot jede Woche und passen es der Marktentwicklung an. Wenn Sie sich für ein heute gültiges Zinsangebot entscheiden, garantieren wir dieses für die Dauer Ihres gewählten Anlagezeitraumes. Dies gilt auch, wenn sich die Marktlage verändert.
 
-
+###
 Warum bietet mir das Festgeld höhere Zinsen?
 
 Der attraktive Zinssatz orientiert sich an Zinsen, die auf den Märkten unter den Banken gelten. Diese Konditionen geben wir an unsere Kunden weiter.
-
+###
  Ist der Zinssatz das Festgeldes dauerhaft festgelegt?
 
 Wir garantieren den Zinssatz für die gesamte von Ihnen gewählte Laufzeit. Er bleibt auch dann unverändert, wenn die Zinsen am Markt sich ändern. Das Festgeld ist für Sie besonders geeignet, wenn Sie:
@@ -16,30 +16,31 @@ Wir garantieren den Zinssatz für die gesamte von Ihnen gewählte Laufzeit. Er b
     kein Risiko eingehen möchten.
 
 
-
+###
 Wann erhalte ich meine Zinsen für das Festgeld ?
 
 Bei einer Laufzeit bis zu einem Jahr, zahlen wir Ihre Zinsen bei Ablauf der gewählten Laufzeit aus. Bei einer längeren Laufzeit erhalten Sie Ihre Zinsausschüttung regelmäßig nach 12 Monaten seit Anlage. Die letzte Ausschüttung erfolgt am Ende der Laufzeit.
 
 
-
+###
 Ist mein Geld mit dem Festgeld sicher?
 
 Als deutsche Bank unterliegt die TARGOBANK AG & Co. KGaA der Einlagensicherung in Deutschland. Die gesetzlich vorgeschriebene Grundabsicherung in Deutschland sichert Ihre Einlagen und Zinsen bis zu einem Maximalbetrag von 100.000,– Euro.
 
 Außerdem sind Ihre Einlagen bei der TARGOBANK durch den Einlagensicherungsfonds des Bundesverbandes deutscher Banken geschützt: bis zu etwa 279 Millionen EUR pro Kunde. (Stand: 10. August 2016.)
 
-
+###
 Gibt es einen Mindestanlagebetrag für das Festgeld?
 
 Ja, der Mindestanlagebetrag für das Festgeld liegt bei 2.500,– EUR.
 
-
+###
 Gibt es eine Höchstgrenze beim Anlagebetrag eines Festgeldes?
 
 Nein, Sie können in unbegrenzter Höhe von dem attraktiven Zinssatz profitieren.
 
-
+###
 Wie lang ist die Mindestlaufzeit für das Festgeld? ?
 
 Die TARGOBANK bietet Ihnen das Festgeld schon ab 7 Tagen an.
+###

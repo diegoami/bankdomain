@@ -1,4 +1,4 @@
-
+###
 Was ist das Common Reporting Standard (CRS)?
 
 Der "Common Reporting Standard" (CRS) ist ein internationales Abkommen, das den gegenseitigen Austausch von steuerlichen Informationen regelt. Für Deutschland ist der Standard im Finanzkonten-Informationsaustauschgesetz (FKAustG) geregelt.
@@ -12,3 +12,4 @@ Sofern ein Kunde im Ausland steuerlich ansässig ist, berichtet die TARGOBANK bs
 Steuerliche Hinweise
 
 Aus rechtlichen Gründen dürfen wir keine steuerlichen Beratungen durchführen. Bei Fragen zu steuerrechtlichen Themen wenden Sie sich an Ihren Steuerberater oder an einen Steuerhilfe-Verein.
+###

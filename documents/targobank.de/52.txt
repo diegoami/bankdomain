@@ -1,14 +1,14 @@
-
+###
 Wie nutze ich De-Mail?
 
 Am einfachsten nutzen Sie De-Mail über eine Web-Oberfläche. Die Nutzung ähnelt den heute bekannten Web-basierten E-Mail-Diensten. Die De-Mail-Anbieter bieten unter Umständen weitere Anwendungen wie beispielsweise Smartphone-Apps an.
 
-
+###
 Woher weiß ich, wen ich per De-Mail erreiche?
 
 Ob Privatperson, Unternehmen oder Behörde - viele Inhaber von De-Mail-Konten geben ihre De-Mail-Adresse auf Internetseiten und Visitenkarten bekannt. Außerdem gibt es einen Verzeichnisdienst für alle Inhaber von De-Mail-Konten. Auf Wunsch lassen sich die Nutzer hier mit den von ihnen ausgewählten Daten registrieren. So finden Sie durch gezielte Suche nach einem bestimmten Namen die De-Mail-Adresse. Die Veröffentlichung im De-Mail-Verzeichnisdienst ist für den Nutzer freiwillig.
 
-
+###
 Welche Dokumente kann ich mit De-Mail verschicken?
 
 Mit De-Mail verschicken Sie viele Dokumente, für die bisher nur der Postweg möglich war. Dies sind zum Beispiel:
@@ -23,7 +23,7 @@ Mit De-Mail verschicken Sie viele Dokumente, für die bisher nur der Postweg mö
 
 Ist eine schriftliche Erklärung erforderlich, können Sie eine De-Mail mit einer qualifizierten elektronischen Signatur ergänzen. Diese ist oftmals gleichzusetzen mit einer handschriftlichen Unterschrift.
 
-
+###
 Wie viel kostet der De-Mail-Versand?
 
 Jeder De-Mail-Anbieter legt die Preise selbst fest. Es gibt keine staatlichen Vorgaben.
@@ -31,3 +31,4 @@ Jeder De-Mail-Anbieter legt die Preise selbst fest. Es gibt keine staatlichen Vo
 In der Regel liegen die Preise für den Versand einer De-Mail deutlich unter den Portokosten für einen gleichwertigen Brief. Die De-Mail-Anbieter bieten teilweise monatliche Freikontingente an.
 
 Die TARGOBANK stellt Ihnen für die Nutzung von De-Mail keine weiteren Kosten in Rechnung.
+###

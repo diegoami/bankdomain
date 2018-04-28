@@ -1,4 +1,4 @@
-
+###
 Mit welchen Browsern kann ich das Online-Banking nutzen?
 
     Firefox 36+ (33 nur eingeschränkt)
@@ -6,17 +6,17 @@ Mit welchen Browsern kann ich das Online-Banking nutzen?
     Chrome 41+ (eingeschränkte Unterstützung für 37-40)
     Safari 7.0+
 
-
+###
 Was sind Cookies?
 
 Cookies sind kleine Textdateien. Der Anbieter speichert hierin Webseiten-relevante Daten ab. Sinn eines Cookies ist, dass eine Internetseite einen Besucher, der diese wiederholt besucht, automatisch wieder erkennt. Von Cookies der TARGOBANK geht keine Virengefahr oder eine Gefährdung des Datenschutzes aus. Ein Cookie ist nur von der Internetseite, die das Cookie platziert hat, lesbar. Die während Ihrer TARGOBANK Online-Sitzung gesetzten Cookies bleiben nur während der Nutzung bestehen. Anschließend löschen wir sie wieder. Es werden keine persönlichen Daten hinterlegt. Ausnahme sind die Cookies, die wir für die Personalisierung im Online-Banking nutzen. Diese bleiben auf Ihrem Computer, bis Sie das angelegte Benutzerprofil für Online-Banking löschen oder die Cookies manuell entfernen. Diese enthalten ebenfalls keine sensiblen Daten.
 
-
+###
 Ich benutze einen Apple Macintosh. Ab welcher OS-Version funktioniert das Online-Banking?
 
 Der Mac ist ab OS-Version 7.61 für Internet Banking einsetzbar. Wenn Sie noch eine ältere Version nutzen, ist in vielen Fällen ein Update möglich.
 
-
+###
 Der Aufbau der Seiten des Online-Bankings dauert sehr lange. Was sind mögliche Gründe hierfür?
 
 Hierfür gibt es unterschiedliche Gründe:
@@ -25,3 +25,4 @@ Hierfür gibt es unterschiedliche Gründe:
     Geringe Leistungsfähigkeit der zur Verfügung stehenden Endgeräte, zum Beispiel veraltete Geräte. Weitere Informationen finden Sie unter Technik.
 
 Bei Fragen wenden Sie sich bitte telefonisch an 0211 - 900 20 222, Mo.-Sa.: 8.00-22.00 Uhr.
+###

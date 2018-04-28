@@ -1,4 +1,4 @@
-
+###
 Was ist, wenn ich mit dem Smartphone Online-Banking betreibe und per mTAN überweise?
 
 Bitte achten Sie darauf, dass die Transaktion im Online-Banking und die mTAN-SMS nicht auf dem gleichen Gerät angezeigt werden. Dies ist beim Mobile-Banking nicht gewährleistet.
@@ -6,22 +6,22 @@ Bitte achten Sie darauf, dass die Transaktion im Online-Banking und die mTAN-SMS
 Daher bieten wir zu Ihrem Schutz das mTAN-Verfahren für Mobile- und App-Banking nicht an. Die Bestätigung der Transaktionen ist nur per iTAN möglich.
 
 Aus Sicherheitsgründen bieten wir derzeit im Mobile-Banking Überweisungen über 1.000,– EUR nicht an. Auch internationale Überweisungen sowie Überweisungen an Citibanken im Ausland sind nicht möglich.
-
+###
 
 Was ist eine Session-TAN?
 
 Das Session-TAN-Verfahren ermöglicht Ihnen, mit der Eingabe einer iTAN beliebig viele Wertpapier-Transaktionen innerhalb der gültigen Session von 10 Minuten vorzunehmen. So müssen Sie nach Eingabe der Session-TAN die Wertpapier-Transaktionen nicht mehr durch die Eingabe einer zusätzlichen iTAN bestätigen.
-
+###
 
 Was passiert, wenn während einer Wertpapierorder die Verbindung zusammenbricht? Wie stelle ich fest, ob meine Order erfolgreich war?
 
 Kontrollieren Sie zunächst Ihr Orderbuch. Bei Fragen kontaktieren Sie bitte unseren Brokerage Service unter 0211 - 900 20 333. Sagen Sie "Mitarbeiter", um mit einem Spezialisten zu sprechen.
-
+###
 
 Erhalte ich nach einem Geschäft über Online-Brokerage eine Wertpapierabrechnung?
 
 Ja. Diese versenden wir entweder ans Online-Postfach oder per Post an Ihre Wohnsitzadresse.
-
+###
 
 Werde ich sofort und automatisch über eine ausgeführte Order informiert?
 
@@ -31,3 +31,4 @@ Ja. Der Konto-SMS-Service der TARGOBANK informiert Sie jederzeit über Änderung
     Ordergültigkeit abgelaufen/Order gelöscht
     Zuteilung der Neuemission erfolgt/nicht erfolgt
 
+###

@@ -1,4 +1,4 @@
-
+###
 Vermittelt die TARGOBANK Immobilienfinanzierungen oder vergibt sie diese selbst?
 
 Damit Sie die bestmögliche Finanzierung für Ihren Immobilienwunsch erhalten, kooperiert die TARGOBANK mit PlanetHome. PlanetHome ist ein Spezialist in der Immobilienfinanzierung und arbeitet mit über 70 namhaften Partnern zusammen. Hierzu gehören angesehene Filial- und Direktbanken sowie Versicherungsunternehmen.
@@ -21,14 +21,14 @@ Der Beratungsprozess bei PlanetHome im Überblick:
     Kreditentscheidung durch den Finanzierungspartner und Abschluss des Darlehensvertrags.
     Weitere Betreuung, zum Beispiel Anschlussfinanzierung.
 
-
+###
 Was ist ein Immobiliendarlehen?
 
 Ein Immobiliendarlehen ist ein Darlehen zur Finanzierung einer Immobilie, eines Alt- oder Neubaus.
 
 Bei der Vergabe eines Immobiliendarlehens erfolgt eine Eintragung ins Grundbuch. In den meisten Fällen ist diese Finanzierungsvariante mittel- bis langfristig geplant. Durch die lange Laufzeit profitieren Sie von einem niedrigen Tilgungssatz und einer niedrigen Darlehensrate.
 
-
+###
 Welche Voraussetzungen gelten für den Abschluss eines Kreditvertrags?
 
 Ihr Darlehensgeber prüft und bewertet verschiedene Daten, um das Risiko der Kreditvergabe einzuschätzen. Dies sind beispielsweise:
@@ -42,7 +42,7 @@ Ihr Darlehensgeber prüft und bewertet verschiedene Daten, um das Risiko der Kre
 
 Wir empfehlen Ihnen, Ihre Einnahmen und Ausgaben zu analysieren. So finden Sie heraus, welchen monatlichen Betrag Sie langfristig tragen können. Bei den Ausgaben ist es wichtig, dass Sie nicht nur monatliche Ausgaben wie Miete oder Strom aufführen. Beachten Sie auch Ausgaben, die zum Beispiel nur jährlich anfallen. Das ist beispielsweise bei Versicherungsbeiträgen der Fall. Diese sollten Sie dann auf den Monat umrechnen.
 
-
+###
 Welche Sicherheiten verlangt Ihr Darlehensgeber?
 
     Grundschuld:
@@ -61,7 +61,7 @@ Welche Sicherheiten verlangt Ihr Darlehensgeber?
         Bausparverträge.
 
 
-
+###
 Wie erhalte ich das Darlehen ausgezahlt?
 
 Wenn Sie sich mit dem Darlehensgeber einig sind, schließen Sie einen Darlehensvertrag ab. Dieser regelt die Voraussetzungen für die Auszahlung. Außerdem sind dort die mit Ihnen vereinbarten Sicherheiten aufgeführt.
@@ -70,7 +70,7 @@ Der Darlehensgeber zahlt Ihnen das Darlehen aus, sobald alle vertraglichen Vorau
 
 Bei fertigen Gebäuden erhalten Sie das Darlehen in einer Summe ausgezahlt. Bei Neubauten erfolgt die Auszahlung nach dem Baufortschritt in mehreren Raten.
 
-
+###
 Welche Zinsgestaltungen bietet Ihr Darlehensgeber an?
 
 Sie haben die Wahl:
@@ -81,8 +81,8 @@ Sie haben die Wahl:
     Variabler Zins:
     Der Zinssatz ändert sich abhängig von der Zinsentwicklung am Geldmarkt. Dies hat zur Folge, dass Ihre monatliche Rate steigt oder sinkt, je nachdem, wie sich das Zinsniveau entwickelt. Ihr Vorteil: Der Vertrag ist jederzeit innerhalb einer 3-Monatsfrist kündbar.
 
-
-Welche Kosten fallen an?
+###
+Welche Kosten fallen bei einem Darlehen an?
 
 An den Darlehensgeber zu zahlende Kosten:
 
@@ -98,7 +98,7 @@ An Dritte zu zahlende Kosten:
     Grunderwerbssteuer.
     Prämie für die Gebäudeversicherung.
 
-
+###
 Welche Möglichkeiten zur Rückzahlung habe ich?
 
     Annuitätentilgung:
@@ -114,11 +114,11 @@ Welche Möglichkeiten zur Rückzahlung habe ich?
 
 Am Laufzeitende tilgen Sie das Darlehen in Höhe der Ablaufleistung (Tilgungsersatz). Dies ist die Zahlung aus der Versicherung oder dem Bausparvertrag. Diese Finanzierungsart kann steuerlich vorteilhaft sein. Allerdings ist es möglich, dass der am Laufzeitende ausgezahlte Betrag entgegen der Erwartung bei Vertragsabschluss nicht zur vollständigen Tilgung der Darlehenssumme ausreicht.
 
-
+###
 Was geschieht, wenn ich das Darlehen nicht abnehme?
 
 In diesem Fall entsteht dem Darlehensgeber ein Schaden, den er Ihnen in Rechnung stellt. Ausgenommen hiervon ist die zweiwöchige Widerrufsfrist. Während dieser Zeit können Sie das Darlehen widerrufen.
-
+###
 
 Kann ich ein Darlehen vorzeitig zurückzahlen?
 
@@ -129,12 +129,12 @@ Während der Zinsbindung können Sie das Darlehen grundsätzlich nicht kündigen
 
 In beiden Fällen fordert der Darlehensgeber von Ihnen eine Vorfälligkeitsgebühr. Die Höhe der Gebühr hängt von der Restlaufzeit Ihres Darlehens und dem Zinsniveau zum Zeitpunkt der Rückzahlung ab.
 
-
+###
 Was ist, wenn sich während der Laufzeit meine persönlichen Lebensumstände ändern?
 
 Bitte informieren Sie Ihren Darlehensgeber. Er versucht, gemeinsam mit Ihnen eine Lösung zu finden.
 
-
+###
 Welche Begriffe rund um die Baufinanzierung sind wichtig?
 
     Annuitätendarlehen:
@@ -183,3 +183,4 @@ Welche Begriffe rund um die Baufinanzierung sind wichtig?
     Zinsbindungsfrist (= Zinsfestschreibung):
     Zeitspanne, für die der Nominalzins im Darlehensvertrag zwischen Kreditinstitut und Kunde fest vereinbart ist. Nach Ablauf der Zinsfestschreibung können Sie das Kreditinstitut wechseln oder den Zinssatz neu verhandeln.
 
+###

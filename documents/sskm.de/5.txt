@@ -1,3 +1,4 @@
+###
 Wie lautet der öffentliche Bankschlüssel?
 
 Der Hashwert des öffentlichen Bankschlüssels lautet:
@@ -42,3 +43,4 @@ HVZ VEU-Übersicht von Zusatzinformationen
 PTK Protokolldatei
 STA SWIFT Tageskontoauszüge (MT940)
 VPB Public Key der Bank zur Verschlüsselung
+###

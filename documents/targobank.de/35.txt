@@ -1,17 +1,17 @@
-
+###
 WebRTC – Was ist das?
 
     Die Abkürzung WebRTC steht für "Web Real Time Communication". Das bedeutet Kommunikation in Echtzeit über den Browser.
     WebRTC ermöglicht die Kommunikation per Video ohne zusätzliche Software. Damit bietet sie die ideale Voraussetzung, um schnell und sicher per Video zu kommunizieren.
     WebRTC gilt dank der Verschlüsslung mittels DTLS-SRTC-Protokoll als extrem sicher.
     WebRTC ermöglicht den Partnern eine Kommunikation auf kurzem Weg (Peer-to-Peer-Übertragung), ohne einen dritten Server.
-
+###
  Mit welchen Browsern ist WebRTC möglich?
 
     Mozilla Firefox ab Version 25 (downloaden)
     Google Chrome ab Version Build 1180 (downloaden)
     Opera ab Version 20 (downloaden)
-
+###
  Was ist eine TAN und wofür wird diese benötigt?
 
     Nach der Identifizierung bekommen Sie automatisch eine Mail oder SMS mit einer Transaktionsnummer (TAN) von uns zugesendet.
@@ -25,3 +25,4 @@ WebRTC – Was ist das?
     Geben Sie die TAN nun in das vorgesehene Feld ein und klicken Sie auf den Button "Jetzt mit TAN bestätigen".
     Sollte es weiterhin nicht möglich sein, die TAN nicht erfolgreich einzugeben, prüfen Sie bitte, ob bei Ihnen Javascript im Browser aktiviert ist oder kontaktieren Sie uns unter service@webid-solutions.de.
 
+###

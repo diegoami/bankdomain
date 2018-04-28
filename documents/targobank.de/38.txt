@@ -1,19 +1,19 @@
-
+###
 Wann bestelle ich neue iTANs?
 
 Wir senden Ihnen automatisch neue iTANs, sobald Sie weniger als 30 aktive ungesperrte/unbenutzte iTANs haben. iTANs bestellen Sie über das Online-Banking oder telefonisch unter 0211 - 900 20 222. Sie können jedoch stets nur eine Karte in Nutzung und eine Karte als "Vorrat" haben.
 
-
+###
 Die bestellten iTANs sind nicht angekommen. Was mache ich?
 
 Die neuen iTANs erhalten Sie innerhalb von circa 5 Werktagen per Post. Haben Sie diese nach 7 Werktagen noch nicht bekommen, sperren Sie bitte die iTANs. Geben Sie dann eine neue Bestellung auf. Dies ist eine reine Vorsichtsmaßnahme. Damit stellen wir sicher, dass kein Unbefugter Ihr Konto nutzt. Die iTANs sind nur in Verbindung mit den übrigen Zugangsdaten nutzbar.
 
-
+###
 Welche Möglichkeiten stehen mir während der circa 5 Werktage bis zum Erhalt der neuen iTAN-Karte zur Verfügung?
 
 Bis zum Erhalt der neuen iTAN-Karte können Sie das mTAN-Verfahren nutzen. Voraussetzung: Sie sind zu diesem Zeitpunkt dafür registriert.
 
-
+###
 Wie sperre ich meine iTAN-Karte?
 
     Im Online-Banking unter "Persönliche Daten"/"TAN-Verfahren"/"iTAN verwalten".
@@ -22,18 +22,18 @@ Wie sperre ich meine iTAN-Karte?
 
 Aus Sicherheitsgründen sperren wir Ihre TANs nach 3-facher Fehleingabe automatisch. Eine Karte, die Sie noch nie genutzt haben, können Sie über die Servicenummer auch wieder entsperren lassen. Eine bereits genutzte Karte ist nach der Sperrung endgültig gelöscht.
 
-
+###
 Gebe ich im iTAN-Verfahren auch die Koordinaten der iTAN mit ein?
 
 Nein. Bitte geben Sie nur die 6-stellige iTAN ein. Sie finden diese in der iTAN-Karten Matrix bei den geforderten Koordinaten.
 
-
+###
 Habe ich die freie Wahl, ob ich für eine Transaktion iTAN oder mTAN verwende?
 
 Nach der Registrierung für das mTAN-Verfahren haben Sie in der Regel die Wahl zwischen iTAN und mTAN.
 
-
+###
 Ist die Verwendung der iTAN kostenlos?
 
 Ja, die Verwendung ist kostenlos.
-
+###

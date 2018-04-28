@@ -1,14 +1,14 @@
-
+###
 Welche Vorteile bietet mir das Komfort-Konto?
 
 Das Komfort-Konto ist kostenlos ab einem monatlichen Gehaltseingang von 2.000,– EUR oder einem kontinuierlichen Guthaben von 25.000,– EUR bei der TARGOBANK. Sie profitieren von einer Dispo-Freigrenze bis zu 100,– EUR sowie kostenlosen Überweisungen und Daueraufträgen. Diese führen Sie über unsere Selbstbedienungskanäle, unsere Berater vor Ort in der Filiale oder telefonisch durch. Ihre Kontobewegungen behalten Sie über den kostenlosen Finanzstatus in Ihrem Online-Postfach im Blick. Außerdem bieten wir Ihnen unseren kostenlosen Konto-SMS-Service an. Zusätzliche erhalten Sie Sicherheit durch unsere kostenlose Online-Sicherheits-Garantie. Dafür registrieren Sie sich bitte im Online-Banking.
-
+###
 
 Wann ist das Komfort-Konto kostenlos?
 
 Die aktuellen Konditionen zum Komfort-Konto entnehmen Sie bitte der Komfort-Konto Seite.
 
-
+###
 Was ist alles beim Komfort-Konto inklusive?
 
     Kostenlose Kontoführung ab einem monatlichen Gehaltseingang von mindestens 2.000,– EUR oder einem kontinuierlichen Guthaben von 25.000,– EUR bei der TARGOBANK.
@@ -24,7 +24,7 @@ Was ist alles beim Komfort-Konto inklusive?
     Kostenloser Kontowechsel-Service.
     Kostenlose girocard Gold.
 
-
+###
 Welche Produkte bekomme ich zusätzlich zum Komfort-Konto?
 
 Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte – Bonität vorausgesetzt:
@@ -34,21 +34,21 @@ Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte – Bonität vorausges
     Einen individuellen Privatkredit.
     Bausparen und Baufinanzierung.
 
-
-Was ist die Dispo-Freigrenze?
+###
+Was ist die Dispo-Freigrenze im Komfort-Konto?
 
 Die Dispo-Freigrenze ist ein komfortabler Puffer, wenn es auf dem Konto einmal eng wird. Ist die Überziehung nicht höher als 100,– EUR fallen beim Komfort-Konto keine Zinsen an.
 
-
+###
 Unter welchen Voraussetzungen kann ich das Komfort-Konto eröffnen?
 
 Es gibt keine besonderen Voraussetzungen, wie zum Beispiel Mindesteinlagen oder -Zahlungseingänge.
 
-
-Bekomme ich eine kostenlose girocard?
+###
+Bekomme ich eine kostenlose girocard im Komfort-Konto?
 
 Ja, im Komfort-Konto ist eine kostenlose girocard inklusive.
-
+###
  Wo hebe ich mit meiner girocard kostenlos Bargeld ab?
 
 Dies ist möglich in:
@@ -57,12 +57,12 @@ Dies ist möglich in:
     Spanien an den Geldautomaten der TARGOBANK España.
     Frankreich an über 6.600 Geldautomaten der Crédit Mutuel und der CIC Bank.
 
-
+###
 Bekomme ich zum Komfort-Konto auch eine Kreditkarte?
 
 Zum Komfort-Konto gehört auf Wunsch eine Kreditkarte zu attraktiven Konditionen. Damit genießen Sie noch mehr finanzielle Flexibilität. Ihre Rechnungsbeträge können Sie individuell zurückzahlen.
 
-
+###
 Kann ich mit meiner Kreditkarte auch kostenlos Bargeld abheben?
 
 Ja, mit der Visa Online-Classic-Karte können Sie an Geldautomaten der TARGOBANK kostenlos Bargeld abheben.
@@ -71,32 +71,33 @@ Mit der Visa Gold- und Premium-Karte sind zusätzlich in Deutschland die ersten 
 
 In einigen Ländern kann ein Auslandseinsatzentgelt anfallen (ausgenommen sind Euro-Transaktionen im Europäischen Wirtschaftsraum). Im Ausland ist es Automatenbetreibern teilweise erlaubt, eigene Gebühren für Bargeldtransaktionen zu erheben. Diese werden von Ihrem Konto eingezogen. Die Automatenbetreiber sind verpflichtet auf derartige eigene Gebühren hinzuweisen.
 
-
+###
 Kann ich das Komfort-Konto mit meinem Partner teilen?
 
 Ja, Sie können das Komfort-Konto auch als Gemeinschaftskonto nutzen.
 
-
+###
 Wo eröffne ich das Komfort-Konto?
 
 Ihr Komfort-Konto können Sie in einer unserer Filialen oder bequem online eröffnen.
-
+###
 
 Wie geht es weiter, nachdem ich das Komfort-Konto online beantragt habe?
 
 Drucken Sie bitte den vollständig ausgefüllten Antrag aus und unterschreiben Sie ihn. Anschließend legitimieren Sie sich per PostIdent in einer beliebigen Postfiliale. Bitte bringen Sie Ihren Ausweis und gegebenenfalls eine Meldebestätigung mit. Die Post sendet uns Ihre Unterlagen zu. Nach Erhalt und Prüfung der vollständigen Unterlagen eröffnen wir Ihr Komfort-Konto.
 
-
+###
 Wie schnell kann ich mein neues Komfort-Konto nutzen?
 
 Bitte senden Sie uns Ihre vollständigen Unterlagen per PostIdent zu. Postident ist eine Methode zur sicheren persönlichen Identifikation von Personen. Sobald wir Ihren Antrag erfolgreich geprüft haben, eröffnen wir Ihr neues Komfort-Konto. Sie erhalten von uns Ihre Kontounterlagen mit der Kontonummer. Ihr Komfort-Konto können Sie sofort nutzen.
 
-
+###
 Bekomme ich mit dem Komfort-Konto auch einen Dispositionsrahmen?
 
 Wir räumen Ihnen gerne einen individuellen Dispositionsrahmen ein. Dieser ist abhängig von Ihrer Bonität.
 
-
+###
 Kann ich beim Komfort-Konto auch Online-Banking machen?
 
 Ja, dieser Service ist für Sie kostenlos. Melden Sie sich einfach an. Schon erledigen Sie Ihre Bank- und Wertpapiergeschäfte bequem über das Internet.
+###

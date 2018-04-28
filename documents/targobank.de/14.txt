@@ -1,4 +1,4 @@
-
+###
 Was ist eine Prepaid-Karte?
 
 Die Prepaid-Karte der TARGOBANK ist eine Kreditkarte auf Guthabenbasis. Diese ist bis zum aufgeladenen Betrag weltweit nutzbar: im Handel und für Einkäufe im Internet. Sie können die TARGOBANK Prepaid-Karte bei allen Visa-Akzeptanzstellen mit elektronischer Autorisierung einsetzen. Die Karte ist nicht hochgeprägt und daher an Terminals ohne Magnetstreifen- oder Chipleser nicht einsetzbar. Derartige Terminals sind jedoch am Markt eher selten.
@@ -6,7 +6,7 @@ Die Prepaid-Karte der TARGOBANK ist eine Kreditkarte auf Guthabenbasis. Diese is
 Einkäufe sind nur im Rahmen des Guthabens möglich. Ist das Guthaben auf der Karte aufgebraucht, laden Sie die Karte jederzeit wieder auf.
 
 HINWEIS: Für Ihre Kinder ab 14 Jahren können Sie die TARGOBANK Prepaid-Karte für Minderjährige beantragen.
-
+###
 
 Wie lade ich meine Karte mit Guthaben auf?
 
@@ -35,7 +35,7 @@ Sie haben 4 Möglichkeiten, Ihre Karte aufzuladen:
     per Bareinzahlung in einer unserer TARGOBANK Filialen
 
     Sie können das Guthaben nicht automatisch durch eine Lastschrift auffüllen.
-
+###
 
 Wer kann die TARGOBANK Prepaid-Karte beantragen?
 
@@ -43,33 +43,34 @@ Die Prepaid-Karte können Kunden ab 14 Jahren in einer unserer TARGOBANK Filiale
 
 Voraussetzung sind ein Girokonto des gesetzlichen Vertreters und eine Einzugsermächtigung von diesem Konto. Diese benötigen wir, um beispielsweise die Jahresgebühr abzurechnen, wenn das Guthaben aufgebraucht ist.
 
-
+###
 Kann ich gleichzeitig eine Prepaid-Karte und eine Kreditkarte bei der TARGOBANK führen?
 
 Ja, Sie können zusätzlich zu Ihrer TARGOBANK Prepaid-Karte jede andere TARGOBANK Kreditkarte beantragen. Dies gilt jedoch nur für Erwachsene. Bitte beachten Sie hierzu auch unsere Kreditkartenübersicht.
-
+###
 
 Kann ich den Kontostand meiner Prepaid-Karte abfragen?
 
 Ja. Sie haben verschiedene Möglichkeiten, Ihren Kontostand abzufragen: über das TARGOBANK Online-Banking, telefonisch oder an unseren Geldautomaten. Zu Ihrem Schutz stellen wir Ihnen Fragen zur Legitimation. Erst dann teilen wir Ihnen Ihren Kontostand mit. Sobald Sie einen Umsatz getätigt haben, erhalten Sie eine Übersicht Ihrer Umsätze.
-
+###
 
 
 Kann ich Gratis-Cash auch mit der Prepaid-Karte nutzen?
 
 Gratis-Cash bieten wir für die Prepaid-Karte nicht an. Sie können jedoch an jedem TARGOBANK Geldautomaten gebührenfrei Bargeld abheben.
-
+###
 
 Kann ich eine Zusatzkarte beantragen?
 
 Nein. Für die Prepaid-Karte bieten wir keine Zusatzkarte an.
-
+###
 
 Erhalte ich für mein Guthaben auf der Prepaid-Karte Zinsen?
 
 Nein, Sie erhalten keine Zinsen für Ihr Guthaben.
-
+###
 
 Kann ich mit der Prepaid-Karte 3D-Secure nutzen?
 
 Ja. Alle wichtigen Informationen finden Sie unter "So funktioniert 3D Secure".
+###

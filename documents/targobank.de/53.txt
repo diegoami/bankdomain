@@ -1,5 +1,5 @@
-
-Rahmenbedingungen von De-Mail bei der TARGOBANK.
+###
+Welche sind die Rahmenbedingungen von De-Mail bei der TARGOBANK?
 
 Für einen schnellen und zufriedenstellenden Service, unterliegt die Nutzung von De-Mail bei Ihrer TARGOBANK bestimmten Rahmenbedingungen. Machen Sie sich deshalb bitte mit den Hinweisen zu De-Mail in diesem Absatz und in unseren Allgemeinen Geschäftsbedingungen vertraut.
 
@@ -38,6 +38,4 @@ Nutzen Sie für neue Vorgänge einen neuen Betreff.
 Damit wir Ihr Anliegen besser zuordnen können, nutzen Sie bitte einen eindeutigen Betreff. Wenn Sie uns einen neuen Anlass senden, aktualisieren Sie bitte den Betreff.
 
 
-Nutzen Sie für neue Vorgänge einen neuen Betreff.
-
-Damit wir Ihr Anliegen besser zuordnen können, nutzen Sie bitte einen eindeutigen Betreff. Wenn Sie uns einen neuen Anlass senden, aktualisieren Sie bitte den Betreff.
+###

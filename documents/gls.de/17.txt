@@ -29,7 +29,7 @@ Was ist EBICS?
 
 Der Electronic Banking Internet Communication Standard (kurz: EBICS) bezeichnet einen in Deutschland multibankfähigen Standard für die Übertragung von Zahlungsverkehrsdaten über das Internet. Es wird hauptsächlich von Firmenkunden und großen Organisationen genutzt.
 
-
+###
 "Bitte wenden Sie sich an Ihren Berater." Was nun?
 
 Bitte nutzen Sie in diesem Fall die Möglichkeit, das Problem direkt an unseren technischen Support zu senden. Klicken Sie dazu direkt nachdem der Fehler aufgetreten ist auf den Knopf "Kontakt" in der linken oberen Bildschirmecke. Schildern Sie im nächsten Formular Ihr Problem und wählen Sie den Knopf "absenden". Sollte diese Möglichkeit auch gesperrt sein, wenden Sie sich bitte an unsere Onlinebanking Hotline +49 234  5797 444.

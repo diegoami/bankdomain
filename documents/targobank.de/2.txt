@@ -1,9 +1,9 @@
-
+###
 Wann ist das Online-Konto kostenlos?
 
 Die aktuellen Konditionen zum Online-Konto entnehmen Sie bitte hier der Online-Konto Seite.
 
-
+###
 Welche Vorteile bietet mir das Online-Konto?
 
 Bei unserem Online-Konto zahlen Sie ab einem monatlichen Gehaltseingang von 600,- € oder bei einem kontinuierlichen Guthaben von mindestens 10.000,- € bei der TARGOBANK keine Gebühren für die Kontoführung. Außerdem profitieren Sie von vielen weiteren kostenlosen Leistungen, wie beispielsweise:
@@ -11,7 +11,7 @@ Bei unserem Online-Konto zahlen Sie ab einem monatlichen Gehaltseingang von 600,
     Unbegrenzte Anzahl kostenloser Überweisungen und Daueraufträge per Online-Banking.
     Alle Kontobewegungen kostenlos im Blick: mit dem Finanzstatus und Konto-SMS-Service. Finanzstatus nur im Online-Postfach kostenlos.
     Kostenlose Online-Sicherheits-Garantie. Dafür registrieren Sie sich bitte im Online-Banking.
-
+###
 
 Was ist beim Online-Konto inklusive?
 
@@ -26,12 +26,12 @@ Was ist beim Online-Konto inklusive?
     Kostenloser Kontowechsel-Service.
     Kostenlose blaue girocard.
 
-
+###
 Was ist die Dispo-Freigrenze?
 
 Die Dispo-Freigrenze ist ein komfortabler, kostenloser Puffer, wenn es auf Ihrem Konto mal eng wird. Ist die Überziehung nicht höher als 50,– EUR fallen beim Online-Konto keine Zinsen an.
 
-
+###
 Welche Produkte erhalte ich zusätzlich zum Online-Konto?
 
 Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte an – Bonität vorausgesetzt:
@@ -41,11 +41,11 @@ Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte an – Bonität voraus
     Ein breites Angebot an Geldanlageprodukten, wie zum Beispiel Sparkonto, Festgeld, Tagesgeld.
     Bausparen und Baufinanzierung.
 
-
-Erhalte ich eine kostenlose girocard?
+###
+Erhalte ich eine kostenlose girocard im Online-Konto?
 
 Ja. Im Online-Konto ist eine kostenlose girocard inklusive.
-
+###
  Wo hebe ich mit meiner girocard kostenlos Bargeld ab?
 
 Dies ist möglich in:
@@ -54,12 +54,12 @@ Dies ist möglich in:
     Spanien an den Geldautomaten der TARGOBANK España.
     Frankreich an über 6.600 Geldautomaten der Crédit Mutuel und der CIC Bank.
 
-
+###
 
 Erhalte ich zum Online-Konto auch eine Kreditkarte?
 
 Ja, auf Wunsch bieten wir Ihnen zusätzlich eine Kreditkarte zu attraktiven Konditionen an – zum Beispiel die kostenlose Visa Online-Classic-Karte. Damit genießen Sie noch mehr finanzielle Flexibilität. Ihre Rechnungsbeträge zahlen Sie individuell zurück.
-
+###
 
 Kann ich mit meiner Kreditkarte auch kostenlos Bargeld abheben?
 
@@ -69,27 +69,28 @@ Mit der Visa Gold- und Premium-Karte sind zusätzlich in Deutschland die ersten 
 
 In einigen Ländern kann ein Auslandseinsatzentgelt anfallen (ausgenommen sind Euro-Transaktionen im Europäischen Wirtschaftsraum). Im Ausland ist es Automatenbetreibern teilweise erlaubt, eigene Gebühren für Bargeldtransaktionen zu erheben. Diese werden von Ihrem Konto eingezogen. Die Automatenbetreiber sind verpflichtet auf derartige eigene Gebühren hinzuweisen.
 
-
+###
 Kann ich das Online-Konto mit meinem Partner teilen?
 
 Ja, Sie können das Online-Konto auch als Gemeinschaftskonto nutzen.
 
-
+###
 Wie eröffne ich ein Online-Konto?
 
 Ihr Online-Konto beantragen Sie über das Internet, jederzeit und ganz bequem von zu Hause aus oder von unterwegs.
-
+###
 
 Wie geht es weiter, nachdem ich mein Online-Konto beantragt habe?
 
 Bitte senden Sie uns Ihre vollständigen Unterlagen per PostIdent zu. PostIdent ist eine Methode zur sicheren persönlichen Identifikation von Personen. Sobald wir Ihren Antrag erfolgreich geprüft haben, eröffnen wir Ihr neues Online-Konto. Sie erhalten von uns Ihre Kontounterlagen mit der Kontonummer. Ihr Online-Konto können Sie sofort nutzen.
 
-
+###
 Bekomme ich mit meinem Online-Konto auch einen Dispositionsrahmen?
 
 Wir räumen Ihnen gerne einen individuellen Dispositionsrahmen ein. Dieser ist abhängig von Ihrer Bonität.
 
-
+###
 Kann ich bei meinem Online-Konto für die Kontonutzung auch den Service von Mitarbeitern aus Filiale oder Callcenter nutzen?
 
 Ja, das ist möglich. Die Preise dazu finden Sie im Preis- und Leistungsverzeichnis.
+###

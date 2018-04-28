@@ -1,8 +1,10 @@
-
+###
 Bankenvergleich: Welche Bank ist die beste?
 
 Wer mit seiner Bank unzufrieden ist und sich eine neue suchen möchte, hat auf dem deutschen Markt eine Vielzahl an Möglichkeiten. Um die individuell beste Bank für sich zu finden, müssen Suchende jedoch zunächst einige Kriterien festlegen. Neben der Frage, ob Direktbank oder doch lieber Filialbank, ist das wichtigste Kriterium vor allem die Auswahl an Produkten. Eine kleine Übersicht soll helfen, die verschiedenen Produkte zu beleuchten und die Unterschiede zwischen Direkt- und Filialbanken darzulegen.
-Die beste Bank für Ihr Girokonto finden
+
+###
+Wie finde ich die beste Bank für mein Girokonto ?
 
 Das wichtigste Produkt der Banken ist und bleibt das Girokonto. In der Nachkriegszeit etabliert, werden heute viele Varianten des Girokontos angeboten, welche sich in ihren Ausprägungen zum Teil deutlich unterscheiden. Eine Filialbank setzt normalerweise auf Service und erhebt immer noch häufig Kontoführungsgebühren. Eine Direktbank verzichtet normalerweise auf diese und lässt die Kunden den Großteil aller Vorgänge selbst via Online-Banking durchführen. Voraussetzung für ein kostenloses Konto ist aber häufig ein bestimmter Mindestgeldeingang (Gehaltskonto).
 
@@ -30,7 +32,8 @@ Wem die Konditionen zum Girokonto einer Bank zusagen, der sollte auch das Kredit
 Wichtig sind auch hier die Zinsen. Manche Anbieter gewähren auch hier einen Guthabenzins, ausschlaggebend sind bei einer Kreditkarte aber die Sollzinsen. Sie fallen auf die gewährten Kredite an. Der Zinssatz orientiert sich an den Dispozinsen der Banken. Werden die Beträge in Raten zurückgezahlt, so können die Zinsen steigen.
 
 Mit einigen Kreditkarten können Kunden außerdem innerhalb der EU oder sogar weltweit kostenlos Bargeld an Geldautomaten abheben beziehungsweise direkt bezahlen. Je nach dem, wie oft Sie verreisen, kann dieser Punkt ebenfalls wichtig sein.
-Die beste Bank für Ihre Geldanlage
+###
+Wie finde ich die beste Bank für meine Geldanlage?
 
 Bis vor kurzem war das Sparbuch die beliebteste Form der Geldanlage. Heutzutage wird es jedoch nach und nach vom Tagesgeldkonto abgelöst. Tagesgeld bringt im Gegensatz zum Sparbuch deutlich höhere Zinsen und eine einfachere Handhabung. Wer sein Geld anlegen, aber doch flexibel bleiben möchte, trifft mit dem Tagesgeldkonto die richtige Wahl. Es gibt keine Mindestlaufzeiten, Kündigungsfristen und in der Regel auch keine Gebühren. Das angelegte Geld steht jederzeit zur Verfügung.
 
@@ -56,7 +59,8 @@ Die Zinsen vieler Banken sind bonitätsabhängig. In diesem Fall erfahren Kunden
     Ratenkredit-Vergleich
 
 Zu dem Sollzins können noch weitere Kosten, beispielsweise für Sondertilgung oder Restschuldversicherung, dazukommen. Letztere wird weder beim Soll- noch beim Effektivzins mit einberechnet. Bei einem Bankenvergleich für Kredite ist also vor allem die Höhe der monatlichen Rate und der Gesamtkosten wichtig.
-Immobilienkredite im Bankenvergleich
+###
+Wie finde ich die besten Immobilienkredite?
 
 Kredite für den Bau oder den Kauf einer Immobilie werden anders als Ratenkredite behandelt. Hier ist neben dem Zinssatz und der Gesamtlaufzeit auch die Zinsfestschreibungsdauer wichtig. Ist die Kreditsumme zu hoch, um sie im Zeitraum der Zinsfestschreibung komplett zu tilgen, wird für den Rest später im Rahmen einer Anschlussfinanzierung ein neuer Zinssatz vereinbart.
 
@@ -71,17 +75,5 @@ Es lohnt sich gerade in Zeiten günstiger Zinssätze oft, sich für eine möglic
 Ein weiterer Leitsatz lautet: Die Gesamtlaufzeit sollte möglichst bis zum Rentenalter beendet sein. Ab diesem Zeitpunkt steht meistens ein geringeres Einkommen zur Verfügung. Die Tilgung kann eine zu hohe Belastung darstellen.
 
 Beim Bankenvergleich lohnt es sich also, sich zunächst genau zu überlegen, was von der Bank erwartet wird und welche Produkte genutzt werden sollen. Je nach dem, ob Girokonto, Tagesgeldkonto oder Kredit in Anspruch genommen werden sollen, müssen die eigenen Rahmenbedingungen und Wünsche festgelegt und dann mit den Angeboten der Banken verglichen werden. Ein Bankenvergleich mit den kostenlosen Rechnern von Verivox.de geht schnell und kostet wenig Mühe – zeigt aber Einsparpotenziale und Kostenfallen.
-Informationen und Tipps
 
-    Alles Wissenswerte zur Kontoeröffnung
-    Tipps für den Kontowechsel
-    Dispokredit und Dispo-Zinsen
-    Geldautomaten-Gebühren
-    Fehlerhafte Überweisung zurückholen
-    Gefahren beim Online-Banking vorbeugen
-    Weitere Ratgeber rund um Finanzen
-
-Wechseln über Verivox
-Die Nummer 1 im Energiebereich stellt sich vor: Verivox ist das größte unabhängige Verbraucherportal für Energie in Deutsch­land. Daneben bietet Verivox Tarif­vergleiche für Tele­komm­unikation, Versicherungen und Finanzen an.
-
-Mehr erfahren
+###

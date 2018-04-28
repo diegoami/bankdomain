@@ -1,14 +1,14 @@
-
+###
 Was sind Kartensparbücher?
 
 Kartensparbücher sind die moderne Form des Sparbuchs. Sie erhalten neben dem Loseblatt-Sparbuch auch eine Sparcard. Damit haben Sie jederzeit Zugriff auf Ihr Erspartes an allen Geldautomaten der TARGOBANK oder ihren Partner-Banken in ganz Europa.
 
-
+###
 Wie unterscheiden sich die TARGOBANK Kartensparbücher?
 
 Die Rendite-Sparkarte Online bietet Ihnen gute Zinskonditionen. Beim Doppelzins-Sparen erhalten einen Zinsbonus, wenn Sie innerhalb eines Jahres einen bestimmten Sparbetrag erreicht haben. Es eignet sich daher hervorragend für eine längere Anlagedauer.
 
-
+###
 
 Sind die Zinssätze dauerhaft festgelegt?
 
@@ -16,41 +16,41 @@ Nein. Bei Kartensparbüchern ist der Zinssatz variabel. Zinsanpassungen während
 
 Auf Wunsch greifen Sie mit einem Kartensparbuch flexibel auf Ihr Geld zu und legen sich nicht auf einen Anlagezeitraum fest. Bitte berücksichtigen Sie die dreimonatige Kündigungsfrist. Sie profitieren von attraktiven Zinssätzen.
 
-
+###
 Wann erhalte ich meine Zinsen?
 
 Sie erhalten Ihre Zinsen immer zum Ende eines Kalenderjahres.
 
-
+###
 Wann verdoppeln sich meine Guthabenzinsen beim Doppelzins-Sparen?
 
 Ihre Zinsen verdoppeln sich, wenn Ihr Sparguthaben im Laufe eines Kalenderjahres um 600,– EUR gestiegen ist. Bei Kontoeröffnungen vor dem 20.01.2009 muss der Einlagenzuwachs 1.500,– EUR betragen. Darum lohnt sich regelmäßiges Sparen.
 
-
-Kann ich flexibel auf mein Geld zugreifen?
+###
+Kann ich flexibel auf mein Geld in den Geldeinlagen zugreifen?
 
 Ja. Bis zu 2.000,– EUR pro Monat sind frei verfügbar. Wenn Sie einen größeren Betrag benötigen, kündigen Sie das Sparbuch bitte mit einer Kündigungsfrist von 3 Monaten. So können Sie jede beliebige Summe von Ihrem Konto abheben. Bei Verfügungen von ungekündigten Beträgen fallen Vorschusszinsen an.
 
-
+###
 Hat die Sparcard zusätzliche Funktionen?
 
 Ja. Mit Ihrer Sparcard können Sie Geld am Automaten abheben oder auf Ihr Sparkonto einzahlen. Außerdem können Sie an den Service-Automaten unserer Filialen in Deutschland Ihren Kontostand abfragen und einen Kontoauszug ausdrucken.
+###
 
-
-Gibt es einen Mindestanlagebetrag?
+Gibt es einen Mindestanlagebetrag in einem Sparcard-Konto?
 
 Ja. Dieser beträgt 0,50 EUR.
-
+###
  Gibt es eine Höchstgrenze beim Anlagebetrag?
 
 Nein. Sie können unbegrenzt sparen und von unseren Zinsen profitieren
-
+###
 
 Fallen bei dem Kartensparbuch zusätzliche Kosten an?
 
 Nein. Kartensparbücher bei der TARGOBANK sind kostenfrei. Auch die Sparcard ist kostenlos.
 
-
+###
 Wie eröffne ich ein Kartensparbuch?
 
 Die TARGOBANK bietet Ihnen mehrere Wege zur Eröffnung an:
@@ -61,17 +61,18 @@ Die TARGOBANK bietet Ihnen mehrere Wege zur Eröffnung an:
     Telefonisch unter 0211 – 90 02 01 11.
     Persönlich in einer unserer rund 340 TARGOBANK Filialen in Deutschland.
 
-
-Welche Unterlagen brauche ich bei der Eröffnung?
+###
+Welche Unterlagen brauche ich bei der Eröffnung eines Sparbuches?
 
 Wenn Sie Ihr Sparbuch in der Filiale eröffnen, benötigen Sie nur ihren Personalausweis. Bei der Eröffnung über einen der anderen Wege senden wir Ihnen die erforderlichen Unterlagen zu. Nach Unterschrift des Vertrags identifizieren Sie sich bitte in einer der Filialen der TARGOBANK oder per PostIdent bei der Deutschen Post. Bringen Sie dafür Ihren gültigen Personalausweis mit. Haben Sie nur einen Reisepass zur Hand, zeigen Sie bitte zusätzlich eine aktuelle Meldebescheinigung vor.
 
-
+###
 Kann ich mein Kartensparbuch kündigen?
 
 Ja. Die Spareinlagen auf den TARGOBANK Kartensparbüchern haben eine 3-monatige Kündigungsfrist. Auch während dieser Zeit können Sie Ihr Erspartes jederzeit abheben. Dabei fallen Vorschusszinsen an.
 
-
+###
 Kann ich das Kartensparbuch wechseln?
 
 Ja, dazu kündigen Sie bitte Ihr Kartensparbuch und beantragen das gewünschte neue Sparbuch.
+###

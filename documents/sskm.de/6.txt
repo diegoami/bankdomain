@@ -1,3 +1,4 @@
+###
 Wo kann ich im Online-Banking den elektronischen Kontoauszug aktivieren?
 
 Den elektronische Kontoauszug für Privat- und Geschäftsgirokonten können Sie über das Menü "Online-Banking" > "Postfach" > "Einstellungen" aktivieren. Unter "Konto- / Vertrags-Freischaltung verwalten" sind die Konten aufgelistet, für die Sie den elektronischen Kontoauszug mit Klick auf das Stift-Symbol aktivieren können.
@@ -6,6 +7,7 @@ Bitte beachten Sie, dass Sie nur die Konten freischalten können, bei denen Sie 
 
 Hinweis: Die elektronischen Kontoauszüge stehen Ihnen im Elektronischen Postfach für unbegrenzte Zeit zur Verfügung (Langzeitablage).
 Kurzanleitung: In 4 Schritten zum elektronischen Kontoauszug
+###
 Welche Voraussetzungen müssen erfüllt sein, damit ich meine Kreditkartenumsätze/-abrechnungen online einsehen kann?
 
 Um Ihre Kreditkartendaten im Online-Banking einsehen zu können, muss Ihre Kreditkarte für Ihren Online-Banking-Zugang freigeschaltet sein. Registrieren Sie sich dazu einmalig im Online-Banking über den Menüpunkt "Service" > "Karten" > "Kreditkarte online freischalten" oder in einer unserer Filialen.
@@ -18,12 +20,15 @@ Wir bieten Ihnen die Möglichkeit, die Umsätze Ihres Girokontos aus dem Online-
     Nun können Sie unter "Export" ein Format auswählen.
 
 Exportierte Umsätze im CSV-Format können Sie in Excel einlesen. Das MT940-Format (Inlandzahlungsformat) oder das CAMT-Format (SEPA) verwenden Sie, um die Umsätze in Ihr Buchhaltungsprogramm zu übertragen.
+###
 Wo finde ich das Elektronische Postfach? Was bedeutet das Briefsymbol in der rechten Spalte auf der Startseite?
 
 Zum Elektronischen Postfach gelangen Sie über das Menü "Online-Banking" > "Postfach". Neue Nachrichten werden Ihnen zudem auf der Startseite in der rechten Spalte mit einem Briefsymbol angezeigt. So verpassen Sie keine wichtige Nachricht.
+###
 Wo wird mir im Online-Banking mein Kreditrahmen angezeigt?
 
 Sie finden Ihren Kreditrahmen für Girokonten im Finanzstatus unter "weitere Funktionen". Rufen Sie dazu das Symbol mit den drei Punkten auf.
 Welche Vorteile habe ich, wenn ich einem Konto einen Kontonamen gebe?
 
 Ein Kontoname erscheint in der Kontenübersicht und in der Auswahlliste der Konten bei der Erfassung eines Auftrags, zum Beispiel einer Überweisung. Wenn Sie mehrere Konten bei der Stadtsparkasse München haben, erleichtert diese Funktion den Überblick. Sie finden die Funktion unter "Online-Banking" > "Service" > "Persönliche Einstellungen" > "Kontonamen“.
+###

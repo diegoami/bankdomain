@@ -1,11 +1,11 @@
-
+###
 Was ist das Nachrichten-Postfach? Welche Funktionen bietet es?
 
 Über das Nachrichten-Postfach im Online-Banking tauschen Sie verschlüsselte Nachrichten mit uns aus. Ihre Nachrichten sind vor dem Zugriff Dritter geschützt.
 
 Das Nachrichten-Postfach dient zur Kommunikation mit der TARGOBANK. Daher können Sie keine E-Mails an andere E-Mail-Adressen verschicken oder von außen empfangen.
 
-
+###
 Was ist der Konto-SMS-Service?
 
 Mit dem Konto-SMS-Service erhalten Sie ein Nachricht über Ihre Kontobewegung per SMS bzw. E-Mail. Sie benötigen ein Girokonto oder eine Hauptkreditkarte, um sich für den kostenlosen Konto-SMS-Service anzumelden. Innerhalb weniger Minuten erhalten Sie alle Informationen zu:
@@ -19,27 +19,27 @@ Diese Benachrichtigung ist betragsabhängig:
     Transkationen auf dem Girokonto ab 100,– EUR
     Transkationen auf der Kreditkarte ab 5,– EUR
 
-
+###
 Wie melde ich mich für den Konto-SMS-Service an?
 
     Im Online-Banking unter "Service"/"Konto-SMS-Service"
     Telefonisch unter 0211 - 900 20 222, Mo.-Sa.: 8.00-22.00 Uhr.
     Persönlich in Ihrer nächsten TARGOBANK Filiale
 
-
+###
 Wo ändere ich meine E-Mail-Adresse für die Services der TARGOBANK?
 
     Im Online-Banking unter "Persönliche Daten"/"Kontaktdaten"
     Die gespeicherte E-Mail-Adresse verwenden wir für Benachrichtigungen zum Online-Finanzstatus und für den Konto-SMS-Service.
 
-
+###
 Wie ändere ich meine Adresse?
 
 Online über "Persönliche Daten"/"Adresse ändern".
 
 Bei Änderung von Auslandsadressen wenden Sie sich bitte an Ihre Filiale oder informieren Sie uns per Post.
 
-
+###
 Wie gebe ich eine Auslandsadresse ein?
 
 Bei Änderung von Auslandsadressen wenden Sie sich bitte an Ihre Filiale oder informieren Sie uns per Post:
@@ -48,13 +48,14 @@ TARGOBANK AG & Co. KGaA
 Postfach 10 12 52
 47012 Duisburg
 
-
+###
 
 Ist es möglich, eine Postfachadresse anzugeben?
 
 Ihre Adressänderung speichern wir als Hauptadresse. Daher sind nur Wohnadressen, keine Postfachadressen möglich.
 
-
+###
 Ab wann gilt meine Adressänderung für meine Kreditkarte?
 
 Ihre neuen Daten speichern wir sofort. Die Änderungen sind ab dem nächsten Arbeitstag gültig.
+###

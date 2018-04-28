@@ -1,8 +1,10 @@
+###
 Warum wird das eBanking erneuert und was sind Ihre Vorteile?
 
 
 
 Der Markt ändert sich ständig aufgrund der sich wandelnden Technologien und Bedürfnisse der Kunden. Freuen Sie sich über ein einfaches, übersichtliches und modernes Valiant eBanking mit neuen Funktionen. Mit dem neuen Finanzassistenten haben Sie jederzeit den Überblick über Ihre Einnahmen und Ausgaben. Neu sehen Sie zudem Ihre Kreditkartentransaktionen direkt im eBanking und haben ausserdem alle wichtigen Funktionen direkt auf der Startseite bereit. Der Zahlungsassistent erkennt anhand der eingegebenen Kontonummer automatisch die Zahlungsart oder einen bereits bekannten Zahlungsempfänger. Die Wahl des Einzahlungsscheins ist nicht mehr notwendig.
+###
 Was muss ich beim Login und bei der Transaktionssignatur beachten?
 
 
@@ -12,6 +14,7 @@ Was muss ich beim Login und bei der Transaktionssignatur beachten?
 Beim Login werden die Vertragsnummer und der Zeitpunkt der letzten Anmeldung angezeigt. Falls bei der Anmeldung unbekannte Daten, wie zum Beispiel eine falsche Kontonummer, Referenznummer oder ein falscher Betrag angezeigt wird, handelt es sich um ein falsches Mosaik. Geben Sie den Code keinesfalls ein und kontaktieren Sie umgehend die eBanking Hotline unter 031 952 22 50.
 
 Bei der Signatur werden Kontodaten und der zu überweisende Betrag in roter Schrift (nur Smartphone und Tablet) angezeigt. Falls zum Beispiel ein falscher Betrag oder eine falsche Währung angezeigt wird, die nicht mit Ihrer Zahlung übereinstimmt, handelt es sich um ein falsches Mosaik. Geben Sie den Code keinesfalls ein und kontaktieren Sie umgehend die eBanking Hotline unter 031 952 22 50.
+###
 Welche Wertschriften können nicht im eBanking gehandelt werden?
 
 
@@ -24,22 +27,25 @@ Zudem sind Wertschriften unter folgenden Kriterien nicht handelbar:
     Der Börsenplatz wird im Valiant eBanking nicht angeboten.
     Das Produkt ist nicht konform mit Ihrem gewählten Angebot bei Valiant (Beispiel: Anlageklasse Fonds).
     Das Produkt ist im eBanking noch nicht eröffnet. Kontaktieren Sie in diesem Fall Ihren Kundenberater/Ihre Kundenberaterin.
-
+###
 Wie aktuell sind meine Kontobewegungen?
 
 
 
 Ihr Konto wird in Echtzeit geführt, das heisst, der verfügbare Saldo ist immer aktuell. Sobald eine Gutschrift auf Ihr Konto eingeht, ist sie sofort in den Kontobewegungen ersichtlich.
+###
 Wie erfasse ich eine Zahlung?
 
 
 
 Erfassen Sie eine Zahlung direkt auf der Startseite des eBankings unter «Zahlung erfassen». Wird dem Zahlungsempfänger erstmals Geld überwiesen, geben Sie dazu die Kontonummer des Empfängers in das Feld ein und wählen Sie anschliessend zwischen Inland- oder Auslandzahlung aus. Ergänzen Sie nun die fehlenden Angaben.
+###
 Wozu dient der Finanzassistent?
 
 
 
 Wie viel Geld geben Sie wofür aus? Ihr Finanzassistent unterstützt Sie als Privatperson bei dieser Frage mit übersichtlichen Darstellungen Ihrer Einnahmen und Ausgaben. Damit Sie ein möglichst vollständiges Bild vorfinden, lassen sich Ihre persönlichen Kreditkartentransaktionen ebenfalls in den Finanzassistenten integrieren. Ausserdem können Sie einfach Budgets planen oder Sparziele festlegen. Die wichtigsten Funktionen sind auch auf unserer Mobile Banking App verfügbar.
+###
 Ist das Login mit CrontoSign Swiss sicher?
 
 
@@ -47,11 +53,13 @@ Ist das Login mit CrontoSign Swiss sicher?
 Wir legen grossen Wert darauf, dass das Loginverfahren höchste Sicherheitsansprüche erfüllt. Durch die einmalige Aktivierung mit einem persönlichen Aktivierungscode kann das angezeigte Mosaik nur durch ein autorisiertes Gerät (Smartphone, Tablet oder Lesegerät) entschlüsselt werden.
 
 Die CrontoSign Swiss App benötigt keine Internetverbindung und tauscht keine Daten aus. Es wird lediglich das angezeigte Mosaik gelesen und der Code angezeigt. Das Mosaik kann nur mit einem vorgängig registrierten Gerät decodiert werden.
+###
 Kann ich den Finanzassistenten deaktivieren?
 
 
 
 Ja, den Finanzassistenten können Sie jederzeit in der Navigation unter «Einstellungen/Mobile Banking» > «Finanzassistent» deaktivieren. Anschliessend werden keine Transaktionsdaten mehr ausgewertet. Die Kreditkartendaten sind ebenfalls nicht mehr verfügbar.
+###
 Wann wird mein Börsenauftrag ausgeführt?
 
 
@@ -59,31 +67,37 @@ Wann wird mein Börsenauftrag ausgeführt?
 Die Aufträge werden während den Betriebszeiten, Montag bis Freitag, von 07:00 bis 22:15 Uhr an den elektronischen Börsen in der Schweiz platziert, sofern der Titel im Börsensystem eröffnet ist. Beachten Sie jedoch die Handelszeiten der gewünschten Börsenplätze.
 
 Weiter können Verzögerungen entstehen, wenn eine manuelle Nachbehandlung des Auftrags notwendig ist oder bei Systemausfällen. Für weitere Anfragen über Auftragsausführungen kontaktieren Sie Ihren Kundenberater/Ihre Kundenberaterin.
+###
 Warum werden die Kontobewegungen in «Einzeltransaktionen» und «Ansicht der Buchungen (Kontoauszug)» aufgeteilt?
 
 
 
 Auf der Startseite finden Sie eine Auflistung Ihrer letzten Buchungen. Wollen Sie den gesamten Kontoauszug eines Kontos ansehen? Wählen Sie dazu in der Hauptnavigation das gewünschte Konto aus und wechseln Sie in die Lasche «Kontobewegungen». Standardmässig befinden Sie sich nun in der Ansicht Einzeltransaktionen. Hier werden Ihnen alle Buchungen einzeln aufgelistet. Klicken Sie auf die gewünschte Buchung, um mehr Details zu erfahren. Damit Sie Ihren Kontoauszug einsehen können, wechseln Sie in die Einstellung «Ansicht der Buchungen (Kontoauszug)». Nun haben Sie die gewohnte Bewegungsübersicht Ihres Kontos vor sich. Bei dieser Ansicht handelt es sich um einen Zusammenzug der Einzeltransaktionen.
+###
 Wie erhalte ich Zugriff auf das neue eBanking?
 
 
 
 Die Umstellung auf das neue eBanking erfolgt in Etappen. Sie werden schriftlich über den für Sie relevanten Umstellungstermin informiert und erhalten zu diesem Zeitpunkt automatisch Zugriff auf das neue eBanking. Das Loginverfahren mit CrontoSign Swiss bleibt wie bis anhin bestehen.
+###
 Wo finde ich meine Zahlungsvorlagen?
 
 
 
 Klicken Sie dazu in der Hauptnavigation auf «Übersicht» > «Zahlungen» und dann auf «Suchen». Geben Sie Ihre Suchkriterien ein und öffnen Sie die Zahlung. Da hierbei bereits verwendete Angaben, wie beispielsweise die schon einmal verwendete Referenznummer, automatisch abgefüllt werden, ist die Überprüfung der Daten für Sie besonders wichtig. Werden inkorrekte oder unvollständige Zahlungsangaben übermittelt, kann dies zu kostenpflichtigen Zahlungsnachforschungen führen. Führen Sie nach sorgfältiger Überprüfung der Angaben die Zahlung aus.
+###
 Kann das alte eBanking nicht mehr verwendet werden?
 
 
 
 Während einer begrenzten Zeit können Sie im neuen eBanking unten links auf das klassische eBanking wechseln.
+###
 Was brauche ich, damit ich den Finanzassistenten nutzen kann?
 
 
 
 Voraussetzung für die Nutzung des Finanzassistenten ist ein aktiver eBanking-Zugang von Valiant.
+###
 Welche Auftragsarten stehen im eBanking zur Verfügung?
 
 
@@ -93,41 +107,45 @@ Zurzeit können Sie Ihre Wertschriftenaufträge bestens oder limitiert aufgeben.
 Abhängig von der Titelart und des Betrages bestehen unterschiedliche Kursabstufungen und Abschlusseinheiten. Für alle weiteren Auftragsarten und Fragen zur Auftragserfassung gibt Ihnen Ihr Kundenberater/Ihre Kundenberaterin gerne Auskunft.
 
 Ausnahme: Anlagefonds können nicht limitiert werden (nur Bestens-Auftrag) und das Gültigkeitsdatum muss «bis auf Widerruf» sein. Diese Gültigkeit wird bei Anlagefonds automatisch vorgeladen und kann nicht mutiert werden.
+###
 Wie lösche ich den Browserverlauf?
 
 
 
 Eine Anleitung zum Leeren des Browserverlaufs finden Sie hier.
+###
 Wo finde ich meine Zahlungslisten?
 
 
 
 Sie finden Ihre Zahlungs- und Salärlisten in der Hauptnavigation unter «Übersicht» > «Zahlungen» > «Dateitransfer».
+###
 Wo sehe ich die Rückzugsbedingungen von meinem Konto?
 
 
 
 Gehen Sie dazu in der Navigation auf das gewünschte Konto und klicken Sie auf die Lasche «Zusammenfassung». Unter «Konto-Info» können Sie die Rückzugslimiten und Kontokonditionen abrufen.
+###
 Muss ich meine Transaktionen manuell kategorisieren?
 
 
 
 Nein. Ihr Finanzassistent kategorisiert den grössten Teil Ihrer Transaktionen automatisch. Einzig Transaktionen, welche keinen Rückschluss auf eine Kategorie zulassen (z.B. Kontoübertrag zugunsten einer anderen Privatperson), brauchen einen manuellen Eingriff von Ihrer Seite.
+###
 Was kann ich tun, wenn mein eBankingZugang gesperrt ist?
 
 
 
 Sofern Ihr Smartphone, Tablet oder Lesegerät autorisiert ist, entsperren Sie Ihren Zugang ganz einfach mit dem Button «Entsperren». Benötigen Sie ein neues Passwort, klicken Sie stattdessen auf «Passwortbrief bestellen». Haben Sie ein neues Gerät? Kontaktieren Sie in diesem Fall unsere eBanking Hotline unter 031 952 22 50.
+###
 Wie kann ich meine Maestrokarte sperren und entsperren?
 
 
 
 In der Hauptnavigation unter «Übersicht» > «Karten» können Sie Ihre Karten einsehen. Maestrokarten können im Verlustfall direkt gesperrt werden. Markieren Sie die gewünschte Karte und wählen Sie den Button «Sperren» sowie den Sperrgrund. Wiedergefundene und im eBanking gesperrte Karten können Sie jederzeit sofort wieder entsperren. Dazu die betroffene Karte anwählen und mit dem Button «Entsperren» freischalten.
+###
 Wie schütze ich mich vor Hackerangriffen?
 
-
-
-Schützen Sie Ihren Computer
 Mit einer aktuellen Antivirussoftware, einer Firewall sowie regelmässigen Softwareupdates können Sie einen wichtigen Grundstein für ein sicheres eBanking legen.
 
 Pflegen Sie einen wachsamen Umgang während der eBanking-Sitzung
@@ -135,6 +153,7 @@ Wenden Sie sich bei Unregelmässigkeiten und ungewohnten Vorgängen in Ihrem eBa
 
 Befolgen Sie gewisse Verhaltensregeln
 Neben technischen Massnahmen, die wesentlich zum Schutz Ihres Geräts beitragen, sind gewisse Verhaltensregeln zwingend erforderlich. Misstrauen Sie eMails von Absendern, die Sie nicht kennen. Seien Sie vorsichtig beim Öffnen von eMail-Anhängen oder beim Anklicken von Links. Misstrauen Sie einem eMail lieber einmal zu viel als einmal zu wenig. Weitere Informationen und Anleitungen finden Sie bei unserem Partner «eBanking, aber sicher» unter www.ebas.ch.
+###
 Wurde mein Wertschriftenauftrag schon ausgeführt?
 
 
@@ -142,6 +161,7 @@ Wurde mein Wertschriftenauftrag schon ausgeführt?
 Den Status Ihrer Wertschriftenaufträge können Sie in der Hauptnavigation unter «Übersicht» > «Börse» in Echtzeit für die elektronischen Börsenplätze der Schweiz abfragen. Bei den restlichen Börsenplätzen wird nicht immer der effektive Stand angezeigt. Dies trifft insbesondere für Zeichnungen von Anlagefonds sowie Aufträge an ausländischen Börsen zu.
 
 Die Ausführung von Aufträgen kann verzögert erfolgen, wenn beispielsweise eine manuelle Nachbehandlung des Auftrages notwendig ist.
+###
 Wurden meine Zahlungen schon ausgeführt? Warum wurde meine Zahlung nicht ausgeführt?
 
 
@@ -166,142 +186,169 @@ Das Belastungskonto verfügt nicht über genügend Guthaben.
     Ist das Konto innerhalb von 5 Arbeitstagen gedeckt, wird die Zahlung zum nächstmöglichen Zeitpunkt automatisch ausgeführt.
     Bleibt eine Gutschrift aus, wird die Zahlung nach 5 Arbeitstagen automatisch annulliert.
     Für die Löschung anstehender Zahlungen wenden Sie sich bitte an Ihre/-n Kundenberater/-in.
-
+###
 Kann ich meine Maestrokarte für Reisen auf anderen Kontinenten benützen?
 
 
 
 Zum Schutz gegen Betrüger, die Geldautomaten und Zahlterminals manipulieren, wurden für den Einsatz Ihrer Maestrokarte folgende Sicherheitsvorkehrungen getroffen: Die Maestrokarte ist standardmässig in der Schweiz und in europäischen Ländern (ausgenommen Russland und GUS) freigeschaltet. Möchten Sie Ihre Karte auf Reisen in anderen Ländern benützen, können Sie die gewünschte Region für die Zeitspanne Ihres Aufenthalts selber freischalten. Wählen Sie dazu in der Hauptnavigation unter «Übersicht» > «Karten» die gewünschte Maestrokarte aus und klicken Sie bei der geografischen Zulassung auf «anzeigen». Mit der Funktion «ändern» können Sie bestimmte Regionen (zeitlich befristet/unbefristet) zulassen oder sperren. Für Bargeldbezüge und Einkäufe ausserhalb Europas gilt in den freigeschalteten Regionen eine Tageslimite von maximal CHF 1000.00. Diese kann nicht geändert werden.
+###
 Wann sind meine Börsentransaktionen im Wertschriftendepot ersichtlich?
 
 
 
 Die Depotpositionen sind nach erfolgter Auftragsausführung und Abrechnung ersichtlich.
+###
 Was mache ich, wenn eine Transaktion mehrere Kategorien beinhaltet?
 
 
 
 Sie haben die Möglichkeit, Kategorisierungen einzelner Transaktionen zu splitten und die Teilbeträge manuell verschiedenen Kategorien zuzuteilen. Dazu klicken Sie auf die gewünschte Transaktion und betätigen die Schaltfläche „Aufteilen“. Anschliessend können Sie die gewünschte Aufteilung vornehmen.
+###
 Weshalb ist mein eBanking-Vertrag gesperrt?
 
 
 
 Das Passwort, die Vertragsnummer oder der Code der CrontoSign Swiss App wurde nicht korrekt eingegeben. Kontaktieren Sie für die Entsperrung unsere eBanking Hotline unter 031 952 22 50.
+###
 Wie funktioniert die Zahlungssignierung?
 
 
 
 Mit der Mobile Banking App erfasste Zahlungen an neue Empfänger müssen aus Sicherheitsgründen im eBanking mit CrontoSign Swiss einmalig bestätigt werden. Gehen Sie dazu in der Hauptnavigation auf «Übersicht» > «Zahlungen» und signieren Sie bei «Zahlungen signieren» die gewünschten Zahlungen.
+###
 Wie kann ich die Sicherheit im Internet verbessern?
 
 
 
 Klicken Sie hier, um zu unseren Sicherheitsempfehlungen zu gelangen.
+
 Die Empfängerangaben bei ESR-Zahlungen werden nicht automatisch angezeigt.
 
 
 
 Die Empfängerangaben sind einmalig manuell einzugeben. Bei weiteren Zahlungen zugunsten derselben Kontonummer werden die Angaben automatisch angezeigt und eine Eingabe ist nicht mehr notwendig.
+###
 Kann ich das eBanking von jedem Computer aus benützen?
 
 
 
 Ja, Sie benötigen eine Internetverbindung und Ihr autorisiertes Gerät, um das Cronto-Mosaik zu scannen (auch aus dem Ausland möglich).
+###
 Kann ich einzelne Transaktionen aus der Analyse ausschliessen?
 
 
 
 Ja. Sie können jederzeit einzelne Transaktionen für die Analyse ausschalten. Klicken Sie hierzu auf die Transaktion und betätigen Sie anschliessend unten Links die Checkbox „In Analyse einschliessen“. Sobald sich in der Checkbox kein Häkchen befindet, wird die Transaktion für die Analyse nicht berücksichtigt.
+###
 Was muss ich bei Börsengeschäften weiter beachten?
 
 
 
 Effektengeschäfte sind mit unterschiedlichen Risiken verbunden. Weitere Informationen finden Sie unter Besondere Risiken im Effektenhandel. Das Risiko für falsch erfasste Börsenaufträge sowie das Kursrisiko von erteilten Aufträgen liegt bei Ihnen.
+###
 Ich möchte einen Titel kaufen, finde diesen aber nicht im E-Banking. Was soll ich tun?
 
 
 
 Kontaktieren Sie in diesem Fall unsere eBanking Hotline unter 031 952 22 50.
+###
 Wie funktioniert das Login mit CrontoSign Swiss?
 
 
 
 CrontoSign Swiss ist ein modernes Loginverfahren, das Ihnen einen sicheren und einfachen Zugriff auf Ihr eBanking ermöglicht. Nach der Eingabe Ihrer Vertragsnummer und Ihres persönlichen Passworts im eBanking scannen Sie mit der kostenlosen CrontoSign Swiss App oder einem kostenpflichtigen Lesegerät einfach das angezeigte Mosaik. Anschliessend erscheint auf dem Gerätedisplay Ihr persönlicher Code. Kontrollieren Sie sorgfältig die Angaben auf der CrontoSign Swiss App und geben Sie anschliessend den persönlichen Code im eBanking ein – schon sind Sie angemeldet. Das ist nicht nur einfach, sondern besonders sicher. Für dieses Verfahren benötigt Ihr Smartphone keine Internet- oder Telefonverbindung.
+###
 Wie kann ich meine Kreditkartentransaktionen im eBanking anzeigen lassen?
 
 
 
 Sie finden in Ihrem Finanzassistenten eine Checkbox, welche Sie zur Integration Ihrer Kreditkartentransaktionen auffordert. Stimmen Sie den rechtlichen Bestimmungen zu und die Transaktionsdaten werden ab dem Folgetag in Ihrem eBanking angezeigt.
+###
 Wie kann ich meine per Dateitransfer übermittelten Zahlungen überprüfen?
 
 
 
 Per eBanking übermittelte Zahlungen des Zahlungsfiles sind nicht nur in Ihrer Zahlungssoftware, sondern auch in Ihrem eBanking ersichtlich. Kontrollieren Sie nach der Übermittlung die Zahlungen unter «Übersicht» > «Zahlungen» > «pendente Zahlungen». Nach der Ausführung sind die Zahlungen automatisch im Kontoauszug aufgeführt.
+###
 Kann ich meine Zahlungen aus einer Zahlungssoftware übermitteln?
 
 
 
 Ja, Sie können die Zahlungen mit einer geeigneten Software (offline) erfassen und das fertige Zahlungsfile via Dateitransfer an uns übermitteln. Mehr Informationen dazu finden Sie auch hier.
+###
 Werden meine Kreditkartentransaktionen in Echtzeit mit meinem eBanking synchronisiert?
 
 
 
 Die Transaktionsdaten werden einmal pro Tag (Dienstag bis Samstag) zwischen Viseca und Ihrem eBanking ausgetauscht.
+###
 Wie aktuell sind die angezeigten Kurse?
 
 
 
 Sie sehen immer den letzten verfügbaren Kurs, in der Regel ist dies der Vortagesschlusskurs. Aktuelle Kurse zu gewünschten Titeln finden Sie hier.
+###
 Wie melden sich Kunden ohne Smartphone oder Tablet im eBanking an?
 
 
 
 Kundinnen und Kunden ohne Smartphone oder Tablet können bei uns zum Preis von CHF 50.00 (für Geschäftskunden ist das erste Gerät kostenlos) ein Lesegerät bestellen.
+###
 Kann ich Aufträge ändern oder annullieren?
 
 
 
 Erteilte Börsenaufträge können nicht mehr geändert werden. Sofern der Auftrag noch nicht ausgeführt ist, können sie diesen jedoch annullieren und wenn gewünscht neu erfassen.
+###
 Können sämtliche Valiant-Kreditkarten für den Finanzassistenten aktiviert werden?
 
 
 
 Zur Zeit können Kreditkarten, welche über ein gemeinsames Konto (Konto, welches auf mehrere Personen lautet, z.B. lautend auf ein Ehepaar) geführt werden, nicht aktiviert werden. Alle anderen auf Privatpersonen lautende Kreditkarten, sind im eBanking aktvierbar.
+###
 Wie funktioniert das Login, wenn mehrere Personen auf ein eBanking zugreifen möchten (Partner, Firmen)?
 
 
 
 Es können bis zu acht Geräte (Smartphones, Tablets und Lesegeräte) für einen eBanking-Vertrag autorisiert werden. Ebenfalls können auf einem Gerät (Smartphone, Tablet oder Lesegerät) bis zu acht eBanking-Verträge aktiviert sein. Jede Aktivierung eines weiteren Geräts erfolgt mit einem bereits registrierten Gerät.
+###
 Wie verwende ich einen Belegleser?
 
 
 
 Klicken Sie auf der Startseite des eBankings auf das Feld „Zahlungen erfassen“ und lesen Sie die Codierzeile rechts unten auf dem Einzahlungsschein ein. Ergänzen und kontrollieren Sie die erfasste Zahlung, bevor Sie auf „Ausführen“ klicken.
+###
 Was kann ich tun, wenn mein Smartphone verloren ging oder gestohlen wurde?
 
 
 
 Finder oder Diebe können mit der CrontoSign Swiss App alleine nicht ins eBanking einsteigen. Der Zugriff ins eBanking sowie in die Mobile Banking App erfolgt erst nach der Anmeldung mit Ihrer Vertragsnummer und Ihrem persönlichen Passwort. Wie üblich bei Verlust oder Diebstahl: SIM-Karte bei Ihrem Telefonanbieter sofort sperren lassen. Wenn Sie nur ein Gerät aktiviert haben, können Sie das alte Gerät im Loginprozess unter «Alle aktivierten Geräte löschen» löschen. Dabei wird ein neuer Aktivierungsbrief ausgelöst, mit dem Sie Ihr neues Gerät autorisieren können. Haben Sie mehrere Geräte aktiviert, nehmen Sie für die Löschung mit der eBanking Hotline (031 952 22 50) Kontakt auf.
+###
 Wie kann ein zusätzliches Gerät (Smartphone, Tablet oder Lesegerät) aktiviert werden?
 
 
 
 Bitte kontaktieren Sie in diesem Fall unsere eBanking Hotline unter 031 952 22 50.
+###
 Wie kann ein aktiviertes Gerät gelöscht werden?
 
 
 
 Haben Sie Ihr aktiviertes Gerät ausgewechselt, zurückgesetzt oder in Reparatur, können Sie im Loginprozess mit dem Button «Alle aktivierten Geräte löschen» die bestehende Verknüpfung löschen. Dabei wird ein neuer Aktivierungsbrief ausgelöst, mit dem Sie Ihr neues Gerät autorisieren können. Haben Sie mehrere Geräte aktiviert, nehmen Sie für die Löschung mit der eBanking Hotline (031 952 22 50) Kontakt auf.
+###
 Welche Betriebssysteme sind nötig für die Nutzung der CrontoSign Swiss App?
 
 
 
 Mindestens iOS 7.1, Android 4.1 oder Windows Phone 8.
+###
 Welche Betriebssysteme sind nötig für die Nutzung der Mobile Banking App?
 
 
 
 Mindestens iOS 7.1 oder Android 4.1.
+###
 Was kann ich tun, wenn ich mein Passwort für die Mobile Banking App vergessen habe?
 
 
@@ -309,30 +356,40 @@ Was kann ich tun, wenn ich mein Passwort für die Mobile Banking App vergessen h
 In der Navigation unter «Einstellungen/Mobile Banking» > «Mobile Banking» können Sie jederzeit selbstständig ein neues Mobile-Banking-Passwort definieren.
 
 Ist Ihr eBanking-Zugang gesperrt, muss er vorgängig durch unsere eBanking Hotline (031 952 22 50) entsperrt werden.
+###
 Was ist CrontoPush?
 
 CrontoPush ist ein modernes und schnelles Loginverfahren, bei welchem Ihnen beim Login direkt Benachrichtigungen  auf Ihr Mobilgerät zugestellt werden. So entfällt das Abscannen des Mosaiks am Bildschirm.
+###
 Was sind Push-Nachrichten?
 
 Push-Nachrichten sind Mitteilungen die Sie direkt vom Server an Ihre CrontoSign Swiss App erhalten. Das öffnen dieser geschieht über die Informationszeile.
+###
 Wie aktiviere ich CrontoPush?
 
 Sie können sich direkt bei der Anmeldung für CrontoPush reigistrieren. Geben Sie hierzu Vertragsnummer und Passwort ein, scannen Sie anschliessend das am Bildschirm dargestellte Mosaik und Sie erhalten automatisch die Aufforderung zur Aktivierung von Cronto Push.
+###
 Können mehrere Geräte für CrontoPush verwendet werden?
 
 Ja, Sie können mehrere Geräte für CrontoPush verwenden.
+###
 Wie lösche ich CrontoPush?
 
 Kontaktieren Sie zur Deaktivierung von Push-Nachrichten die eBanking Hotline.
+###
 Wird meine Telefonnummer für CrontoPush benötigt?
 
 Nein, die Telefonnummer wird nicht benötigt.
+###
 Wird eine Internetverbindung für CrontoPush benötigt?
 
 Ja, damit Sie CrontoPush verwenden können, ist eine Internetverbindung notwendig.
+###
 Ist CrontoPush sicher?
 
 Ja. Sie erhalten eine Push-Nachricht, welche Ihnen Anzeigt, dass eine Aktion (in diesem Fall die Anmeldung) auf dem Server bereitsteht. Erst wenn Sie Ihr Smartphone entsperren und die Nachricht abrufen, sendet der Server die Daten an Ihre CrontoSign Swiss App, welche durch die Aktivierung mittels Mosaik-Scan stark gesichert an Ihr persönliches Smartphone gebunden ist.
+###
 Wird die Meldung via SMS versendet?
 
 Nein, die Meldung wird via Push-Nachricht über die CrontoSign Swiss Applikation zugestellt.
+###

@@ -1,10 +1,10 @@
-
+###
 Was ist das Online-Postfach?
 
 Mit dem Online-Postfach der TARGOBANK greifen Sie jederzeit und von überall auf Ihre Bankkorrespondenz zu. Ganz nebenbei tun Sie auch noch etwas für die Umwelt.
 
 Ungelesene Nachrichten der letzten 60 Tage finden Sie auf der Übersichtsseite des Online-Postfachs. Ist ein Dokument älter oder bereits gelesen, speichern wir es automatisch im passenden Ordner: "Konto und Karten" oder "Sparen und Geldanlagen"). Sie finden diese Ordner in der linken Navigation des Online-Postfachs.
-
+###
 
 Wie melde ich mich für das Online-Postfach an?
 
@@ -12,24 +12,25 @@ Wie melde ich mich für das Online-Postfach an?
     Telefonisch unter 0211 - 900 20 222, Mo.-Sa.: 8.00-22.00 Uhr
     Persönlich in Ihrer nächsten TARGOBANK Filiale
 
-
-Bekomme ich eine Nachricht, wenn neue Dokumente vorliegen?
+###
+Bekomme ich eine Nachricht, wenn neue Dokumente im Online-Postfach vorliegen?
 
 Ja, Sie erhalten automatisch 1x täglich eine E-Mail-Benachrichtigung, sofern neue Dokumente für Sie eingegangen sind.
-
+###
 
 Wie ändere ich die E-Mail Adresse für die Benachrichtigung?
 
 Sie ändern die E-Mail-Adresse jederzeit online unter "Service"/"Persönliche Daten" .
 
-
+###
 Ist es möglich, die E-Mail-Benachrichtigung zu deaktivieren?
 
 Die E-Mail-Benachrichtigung ist wesentlicher Bestandteil des Online-Postfachs. Daher ist eine Deaktivierung nicht möglich.
 
-
+###
 Was mache ich, wenn sich Dokumente nicht öffnen?
 
 Um Dokumente einzusehen, benötigen Sie den Adobe Acrobat Reader. Bitte prüfen Sie, ob Sie auf Ihrem Rechner die neueste Version installiert haben. Außerdem empfehlen Ihnen, die TARGOBANK Seite als vertrauenswürdig einzurichten.
 
 Sie haben noch weitere Fragen? Wenden Sie sich an unsere Mitarbeiter im Online-Banking unter 0211 - 900 20 222.
+###

@@ -1,36 +1,38 @@
+###
 Wozu benötige ich ein Girokonto?
 
 Ein Girokonto wird für die Abwicklung des Zahlungsverkehrs benötigt. Als Arbeitnehmer oder Arbeitslosengeldempfänger bekommen Sie Ihren monatlichen Lohn/Gehalt auf Ihr Girokonto überwiesen. Außerdem können Sie Überweisungen tätigen und Rechnungen begleichen. Ein Girokonto ist ein unerlässliches Mittel zur Reglung der eigenen Finanzen.
-
+###
 Wo und Wie kann ich auf mein Girokonto zugreifen?
 
 Das Abheben von Bargeld ist sehr einfach. Sie können direkt in der Bank, am Schalter Ihr Geld abheben. Alternativ können Sie 24 Stunden täglich Bargeld an einem Geldautomaten abheben. Zum Abheben von Geld an einem Geldautomaten benötigen Sie eine Geldkarte. Die Geldkarte wird seitens der Bank kostenlos zur Verfügung gestellt. Zusätzlich können Sie über ein Online-Banking Konto Ihren Kontostand abfragen oder Überweisungen tätigen. Das Online-Banking Konto lässt sich auch sehr häufig mit einem Tagesgeld-Konto oder einem Wertpapier-Depot verknüpfen.
 Sollten Sie sich für einen Depot-Vergleich oder Tagesgeld- Vergleich interessieren können Sie gerne auf unsere entsprechenden Seiten vorbeischauen.
-
+###
 Kann ich mein Girokonto überziehen?
 
 Ein Dispositionskredit, kurz Dispo wird nur an Kunden mit einem geregelten Einkommen vergeben. Je höher Ihre Kreditwürdigkeit, umso höher ist der von der Bank eingeräumte Dispositionskredit. Ein Dispositionskredit ist sehr flexibel und leicht zu beantragen. Allerdings ist der Dispositionskredit sehr teuer. Im Vergleich zu anderen Finanzierungsmöglichkeiten besitzt der Dispo einen sehr hohen Zinssatz. Dieser Orientiert sich am aktuellen Marktzins. Per Gesetz ist Wucher verboten. Das bedeutet, dass die Bank maximal das doppelte den üblichen Marktzinssatzes nehmen darf.
-
+###
 Eignet sich ein Girokonto zum Sparen?
 
 Ein Girokonto eröffnet man nicht zum Sparen, weil der Zinssatz einfach zu gering ist. Um sein Geld sicher anzulegen kann man beispielsweise sein Girokonto mit einem Tagesgeld-Konto oder einem Termingeldkonto verknüpfen. Das Girokonto sollte nur zum Erledigen des regelmäßig anfallenden Zahlungsverkehrs genutzt werden.
-
+###
 Was benötige ich zur Eröffnung eines Girokontos?
 
 Wenn Sie ein Girokonto direkt in einer Bank-Filiale abschließen benötigen Sie einen Personalausweis. Beim Online-Abschluss läuft die Identifikation über ein sogenanntes Post-Ident-Verfahren. Hier drucken Sie einfach Ihren Antrag aus und gehen damit zur nächsten Post-Filiale. Der Post-Mitarbeiter identifiziert Sie dann mit Hilfe Ihres Ausweises und schickt den Antrag kostenfrei an die Bank. Das Post-Ident- Verfahren ist sehr leicht und schnell erledigt.
-
+###
 Onlinebanking- Wie funktioniert das?
 
 Online- Banking ist mittlerweile sehr sicher geworden. Der Kunde erhält einen PIN und eine Liste mit Transaktionsnummern. Das kann von Bank zu Bank unterschiedlich sein, aber der Pin in Verbindung mit den transaktionsnummern ist eine der besten Varianten. Der Kunde logt sich mit seiner Kontonummer und seinen PIN auf der Internetseite seiner Bank ein und kann dann Überweisungen in Auftrag geben. Jede getätigte Kontobewegung muss mit einer von der Bank vorgegebenen Transaktionsnummer bestätigt werden. Jede Transaktionsnummer wird nur einmal benutzt. Die Sicherheitsstandards sind sehr hoch und variieren von Bank zu Bank. Neben den Transaktionslisten ist auch eine Anmeldung mit Chipkarte möglich.
-
+###
 Kann ich mein Girokonto kündigen?
 
 Selbstverständlich. Sie müssen lediglich ein formloses Schreiben an Ihre Bank schicken. Folgende Daten sollten angegeben werden: Name, Alternative Bankverbindung (Wo der Restbetrag überwiesen werden soll) und Ihre Unterschrift. Es dürfen keine Kosten für das Kündigung eines Girokontos berechnet werden.
-
+###
 Ist mein Geld auf einem Girokonto sicher?
 
 Sollte die Bank pleitegehen und Sie sich um Ihr Geld sorgen machen, dann können wir Sie beruhigen. Der Einlagensicherungsfond des Bundesverbandes deutscher Banken sichert das Guthaben von Girokonto-Kunden ab. Abgesichert werden 30% des maßgeblich haftenden Eigenkapitals der jeweiligen Bank. Wenn zum Beispiel die Targobank ein Haftungskapital von 200.000.000 Euro besitzt, dann ist Ihr Geld in Höhe von 60.000.000 Euro abgesichert.
-
+###
 Girokonto ohne Schufa?
 
 Das ist möglich und gerade bei Online-Girokonten nichts Besonderes. Das Girokonto wird häufig ohne Einholung bei der Schufa eröffnet. Das ist gerade für Leute ein Vorteil, welche bei Ihrer Hausbank den Kredit nicht bezahlen konnten oder eine geringe Bonität aufweisen.
+###

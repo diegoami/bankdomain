@@ -1,7 +1,4 @@
-
-Gold-Karte ab dem 15.10.2012
-
-Die aktuellen Konditionen zur Goldkarte entnehmen Sie bitte der Gold-Karten Seite.
+###
 
 
 
@@ -9,12 +6,12 @@ Wie bekomme ich mit der Gold-Karte Geld zurück?
 
 Die aktuellen Konditionen zur Goldkarte entnehmen Sie bitte der Gold-Karten Seite.
 
-
+###
 Welchen Versicherungsschutz bietet mir die Gold-Karte? (abgeschlossen ab dem 15.10.2015)
 
 Für alle, die gerne einkaufen und dabei sparen, bietet Ihnen die Gold-Karte einen besonderen Schutz. Sie erhalten Ihre neu erworbenen Waren bei Verlust, Diebstahl oder Beschädigung ersetzt. Weitere Konditionen zum Versicherungsschutz der Goldkarte entnehmen Sie bitte der Gold-Karten Seite.
 
-
+###
 Wo melde ich einen Schadensfall?
 
 Bei Schadensfällen oder Fragen zu Ihren Versicherungsleistungen wenden Sie sich bitte an:
@@ -34,3 +31,4 @@ Eine vor dem 15.10.2012 abgeschlossene Gold-Karte beinhaltet folgende Versicheru
     Verkehrsmittel- Unfallversicherung für Reisen ins oder im Ausland
 
 Details hierzu erhalten Sie in den Versicherungsleistungen.
+###

@@ -1,4 +1,4 @@
-
+###
 Welche Vorteile bietet mir das Starter-Konto?
 
 Mit dem Starter-Konto profitieren Sie von kostenloser Kontoführung und vielen Vorteilen für Ihre Studienzeit:
@@ -14,7 +14,7 @@ Mit dem Starter-Konto profitieren Sie von kostenloser Kontoführung und vielen V
 
     Darüber hinaus gelten unsere Entgelte laut Preis- und Leistungsverzeichnis.
 
-
+###
 Unter welchen Voraussetzungen kann ich das Starter-Konto für Studenten eröffnen?
 
 Voraussetzungen:
@@ -23,11 +23,11 @@ Voraussetzungen:
     Sie haben das 14. Lebensjahr vollendet.
     Sie sind unter 30 Jahre.
 
-
-Bekomme ich als Student eine girocard?
+###
+Bekomme ich als Student eine girocard mit dem Starter-Konto?
 
 Ja, eine girocard ist kostenlos inklusive.
-
+###
  Wo hebe ich mit meiner girocard kostenlos Bargeld ab?
 
 Dies ist möglich in:
@@ -37,23 +37,23 @@ Dies ist möglich in:
     Frankreich an über 6.600 Geldautomaten der Crédit Mutuel und der CIC Bank.
 
 
-
+###
 Bekomme ich zum Starter-Konto für Studenten eine Kreditkarte?
 
 Ja. Zum Girokonto für Studenten gehört auf Wunsch eine Classic-Karte zu besonderen Konditionen.
 
-
+###
 Wo eröffne ich das Starter-Konto für Studenten?
 
 Sie eröffnen Ihr Konto in einer unserer Filialen oder bequem online.
 
-
-Wie geht es weiter, nachdem ich mein Konto online beantragt habe?
+###
+Wie geht es weiter, nachdem ich mein Starter-Konto online beantragt habe?
 
 Drucken Sie bitte den vollständig ausgefüllten Antrag aus und unterschreiben Sie ihn. Anschließend legitimieren Sie sich per PostIdent in einer beliebigen Postfiliale. Bitte bringen Sie Ihren Ausweis und gegebenenfalls eine Meldebestätigung mit. Lassen Sie bitte auch Ihren Studenten-Status per Immatrikulationsbescheinigung legitimieren. Ausländische Studenten weisen bitte zusätzlich ihren Aufenthaltsstatus nach. Die Post sendet uns Ihre Unterlagen zu. Nach Erhalt und Prüfung der vollständigen Unterlagen eröffnen wir Ihr Girokonto für Studenten.
 
-
-Was benötige ich, wenn ich nicht EU- oder Schweizer Bürger bin?
+###
+Was benötige ich für ein Starter-Konto, wenn ich nicht EU- oder Schweizer Bürger bin?
 
 In diesem Fall fügen Sie bitte folgende Dokumente bei:
 
@@ -61,22 +61,23 @@ In diesem Fall fügen Sie bitte folgende Dokumente bei:
     Kopie der Meldebescheinigung.
     Aufenthaltsurkunde.
 
-
+###
 Ich bin als Student eingeschrieben und 31 Jahre alt. Kann ich dieses Girokonto eröffnen?
 
 Nein, dies ist nur bis zum vollendeten 30. Lebensjahr möglich.
 
-
+###
 Bekomme ich einen Dispositionsrahmen?
 
 Ja, bei entsprechender Bonität und regelmäßigem Zahlungseingang von mindestens 250,– EUR.
 
-
+###
 Wie habe ich im Ausland Zugriff auf mein Konto?
 
 Mit dem modernen Banking der TARGOBANK greifen Sie von überall per Online-Banking auf Ihr Konto zu. Mit Ihrer girocard heben Sie kostenlos Bargeld an Geldautomaten der TARGOBANK ab. Oder Sie nutzen einen von 1,1 Mio. Geldautomaten weltweit.
 
-
+###
 Wird Guthaben auf meinem Konto verzinst?
 
 Nein. Für das Starter-Konto bieten wir keine Guthabenverzinsung an.
+###

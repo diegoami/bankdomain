@@ -1,5 +1,5 @@
-
-Die wichtigsten Informationen im Überblick:
+###
+Welche sind die wichtigsten Informationen zum Thema Kontaktloses Bezahlen mit TARGOBANK ?:
 
 1. Kontaktloses Bezahlen mit TARGOBANK Kreditkarten ist schneller als bisherige Karten- und Bargeldzahlungen. Sie geben die Karte nicht mehr aus der Hand, sondern halten sie nur kurz vor das Kartenlesegerät am Kassenterminal.
 
@@ -13,7 +13,7 @@ Visa payWave
 
 5. Die Nutzung des kontaktlosen Bezahlens mit der TARGOBANK Kreditkarte verursacht für Sie keine zusätzlichen Kosten. Die kontaktlose Kreditkarte funktioniert ohne vorheriges Aufladen.
 
-
+###
 Was ist kontaktloses Bezahlen mit der TARGOBANK Kreditkarte?
 
 Kontaktloses Bezahlen, auch Near Field Communication (NFC) genannt, spart Zeit, ist schnell und sicher. Sie stecken Ihre kontaktlose TARGOBANK Kreditkarte nicht in das Terminal an der Ladenkasse. Stattdessen halten Sie die kontaktlose TARGOBANK Kreditkarte nur kurz vor das Kartenlesegerät. Danach erhalten Sie ein optisches und akustisches Signal. Diese bestätigen, dass die Zahlung genehmigt und abgeschlossen ist.
@@ -21,7 +21,7 @@ Kontaktloses Bezahlen, auch Near Field Communication (NFC) genannt, spart Zeit, 
 Ihr Vorteil: Sie können die kontaktlose TARGOBANK Kreditkarte auch bei kleinen Beträgen einsetzen. Das lästige Suchen nach Kleingeld entfällt. Bei kontaktlosen Transaktionen über 25,– Euro ist die Eingabe der PIN erforderlich.
 
 Diese Zahlungsmethode ist einfach, schnell und ebenso sicher wie eine klassische Transaktion.
-
+###
 
 Wie funktioniert kontaktloses Bezahlen mit der TARGOBANK Kreditkarte?
 
@@ -29,7 +29,7 @@ Kontaktloses Bezahlen mit TARGOBANK Kreditkarten erfolgt über einen Sicherheits
 
 Bei der Bezahlung erfasst das Kassenpersonal alle Waren wie gewohnt. Am Bildschirm des Terminals erscheinen der zu bezahlende Betrag und eine Aufforderung, die Kreditkarte an das Lesegerät zu halten. Nach dem Einlesen der Kreditkarte entfernen Sie die Karte vom Lesegerät. Ein Licht- und Tonsignal bestätigen den kontaktlosen Bezahlvorgang. In weniger als einer Sekunde ist die Zahlung geprüft, genehmigt und abgeschlossen.
 
-
+###
 Wie erkenne ich, dass ich mit meiner TARGOBANK Kreditkarte kontaktlos bezahlen kann?
 
 Dies ist möglich, wenn sich auf der Vorder- oder Rückseite der Kreditkarte das Kontaktlos-Zeichen befindet.
@@ -38,12 +38,12 @@ Visa payWave
 
 Sie können Ihre TARGOBANK Kreditkarte mit diesem Zeichen auch weiterhin auf die gewohnte Weise nutzen.
 
-
+###
 Wo bekomme ich eine kontaktlose TARGOBANK Kreditkarte?
 
 Wenn Sie bereits eine TARGOBANK Kreditkarte besitzen, erhalten Sie Ihre neue kontaktlose TARGOBANK Kreditkarte automatisch kurz vor Ablauf Ihrer bisherigen Karte. Die gewohnten Funktionen Ihrer Karte bleiben erhalten. Die neue Funktion ist für Sie kostenfrei. Wenn Sie kürzlich eine neue Kreditkarte bei der TARGOBANK beantragt haben, ist sie in der Regel mit der Kontaktlosfunktion ausgestattet. Wenn Sie bereits vor Ablauf Ihrer Kreditkarte eine TARGOBANK Kreditkarte mit Kontaktlosfunktion bestellen möchten, setzen Sie sich gerne mit uns in Verbindung. Sie erreichen uns unter 0211 - 900 20 444.
 
-
+###
 Wo kann ich in Deutschland mit der TARGOBANK Kreditkarte kontaktlos bezahlen?
 
 Sie können mit Ihrer TARGOBANK Kreditkarte kontaktlos bezahlen, wenn sich auf der Vorder- oder Rückseite der Kreditkarte das Kontaktlos-Zeichen befindet.
@@ -52,7 +52,7 @@ Visa payWave
 
 Die kontaktlosen Akzeptanzstellen sind gerade im Aufbau. Immer mehr Händler bieten zukünftig die Möglichkeit an kontaktlos zu bezahlen. Bei ARAL, Douglas, Thalia, Kaufhof, Karstadt und weiteren Partnern ist dies heute bereits möglich.
 
-
+###
 Wie unterscheidet sich kontaktloses Bezahlen mit der TARGOBANK Kreditkarte vom herkömmlichen Bezahlen?
 
 Sie stecken Ihre TARGOBANK Kreditkarte nicht in das Kartenlesegerät. Stattdessen halten Sie diese nur kurz davor. Sie können Ihre Karte auch weiterhin auf die gewohnte Weise nutzen.
@@ -61,70 +61,70 @@ Der einzige Unterschied zwischen einer kontaktlosen und einer normalen TARGOBANK
 
 Wichtig: Der Konto-SMS-Service versendet bei Einkäufen bis 25,– EUR, die kontaktlos und ohne PIN erfolgen, keine Benachrichtigungen. Sie sehen diese Transaktionen aber wie gewohnt im Online-Banking und in der Kreditkartenabrechnung.
 
-
+###
 Welche Vorteile habe ich von dem kontaktlosen Bezahlen mit der TARGOBANK Kreditkarte?
 
 Kontaktloses Bezahlen mit den TARGOBANK Kreditkarten ist deutlich schneller als herkömmliche Kartenzahlungen oder Bezahlen mit Bargeld. Die lästige Suche nach Kleingeld und Scheinen entfällt. Es ist sehr sicher, weil nur der Sicherheitschip auf der TARGOBANK Kreditkarte zum Einsatz kommt.
 
-
+###
 Für welche Beträge ist kontaktloses Bezahlen mit der TARGOBANK Kreditkarte geeignet?
 
 Kontaktloses Bezahlen ist für alle Beträge geeignet. Es ist egal, ob Sie für 3,–, 10,– oder 1.000,– EUR einkaufen. Für Einkäufe unter 25,– EUR bezahlen Sie in der Regel ohne Unterschrift oder PIN. Bei Einkäufen ab 25,– EUR ist die Unterschrift oder Eingabe der PIN notwendig.
 
-
+###
 Ein Händler akzeptiert keine kontaktlose Kreditkarten-Zahlung. Kann ich trotzdem mit meiner TARGOBANK Kreditkarte bezahlen?
 
 Ja. Überall wo Sie ein Visa- bzw. MasterCard-Logo sehen, können Sie mit der TARGOBANK Kreditkarte zahlen. Für Zahlungen, bei denen Sie die TARGOBANK Kreditkarte in das Terminal stecken, ist immer Ihre Unterschrift oder Eingabe der PIN notwendig.
-
+###
 
 Muss ich meine kontaktlose TARGOBANK Kreditkarte aufladen, um zu bezahlen?
 
 Nein. Ihre kontaktlose TARGOBANK Kreditkarte ist sofort einsetzbar. Jeden Einkauf weisen wir einzeln auf der Kreditkartenabrechnung aus. So haben Sie die volle Kontrolle über Ihre Ausgaben.
 
-
+###
 Kann ich mit meiner kontaktlosen TARGOBANK Kreditkarte Bargeld am Geldautomaten abheben?
 
 Ja. Bargeld heben Sie wie gewohnt ab. Einfach die Karte in den Geldautomaten stecken und Ihre PIN eingeben.
 
-
+###
 Kann ich mit meiner kontaktlosen TARGOBANK Kreditkarte im Internet bezahlen?
 
 Ja, genau wie bisher. Sicherheit hat bei der TARGOBANK höchste Priorität. Deshalb bieten wir für Ihre Online-Einkäufe mit der Kreditkarte die zusätzliche Sicherheitsfunktion 3D-Secure an. So sind Ihre Transaktionen im Internet zusätzlich geschützt.
 
-
+###
 Was kostet mich das kontaktlose Bezahlen mit der TARGOBANK Kreditkarte?
 
 Die Kosten für das herkömmliche und kontaktlose Bezahlen mit der TARGOBANK Kreditkarte sind identisch.
 
-
+###
 Wie oft kann ich mit meiner TARGOBANK Kreditkarte kontaktlos bezahlen?
 
 Die TARGOBANK Kreditkarte mit der Kontaktlosfunktion können Sie so oft Sie möchten kontaktlos einsetzen (bis zum Kartenlimit). Zu Ihrer Sicherheit erhalten Sie von Zeit zu Zeit die Aufforderung, eine "klassische" Transaktion mit Unterschrift oder PIN-Eingabe durchzuführen. Diese Transaktion schaltet die Kontaktlosfunktion Ihrer Kreditkarte wieder frei. Dies dient Ihrer Sicherheit: Wir prüfen regelmäßig, ob Sie der rechtmäßige Karteninhaber sind.
 
-
+###
 Warum muss ich die Karte manchmal an einen separaten Leser halten und manchmal direkt an das Terminal?
 
 Es gibt unterschiedliche Produkte und technische Lösungen. Der Leser befindet sich entweder direkt am Terminal oder separat davon. Bei beiden Varianten ist die Bezahlung sicher.
 
-
+###
 Bekomme ich an der Kasse einen Beleg über meine kontaktlose Zahlung mit Visa?
 
 Bei Einkäufen ab 25,– EUR bekommen Sie immer einen Beleg. Bei Einkäufen bis 25,– EUR erhalten Sie diesen auf Anfrage an der Kasse.
 
-
+###
 Sehe ich meine kontaktlosen Zahlungen auf der Kreditkartenabrechnung?
 
 Alle Einkäufe mit Ihrer TARGOBANK Kreditkarte sind einzeln auf der Kartenabrechnung ausgewiesen. Dies gilt auch für alle Beträge, die Sie kontaktlos bezahlt haben – über oder unter 25,– EUR.
 
-
+###
 Kann ich im Ausland mit der TARGOBANK Kreditkarte kontaktlos bezahlen?
 
 Ja. Sie können überall kontaktlos mit der TARGOBANK Kreditkarte bezahlen, wo Sie das Kontaktlos-Symbol und das VISA- bzw. MasterCard-Logo sehen. Insgesamt gibt es in Europa bereits 400.000 Terminals, die kontaktlose Zahlungen verarbeiten. Außerhalb der EU gelten teilweise abweichende Kleinstbetragsgrenzen.
-
+###
 Limit für kontaktlose Transaktionen im Ausland mit der TARGOBANK Kreditkarte:
 
 Hier finden Sie eine Übersicht der unterschiedlichen Limits für kontaktlose Transaktionen im Ausland.
-
+###
  Ist kontaktloses Bezahlen mit der TARGOBANK Kreditkarte sicher?
 
 Kontaktloses Zahlen mit der TARGOBANK Kreditkarte bietet Ihnen die volle Sicherheit der internationalen EMV-Chip-Technologie. Diese Technologie entspricht immer dem neuesten Sicherheitsstandard. Die Kommunikation zwischen TARGOBANK Kreditkarte und Kartenleser erfolgt nur, wenn Sie die TARGOBANK Kreditkarte sehr nah an den Kartenleser halten. Versehentliche Zahlungen im Vorbeigehen sind ausgeschlossen.
@@ -139,42 +139,43 @@ So sicher ist kontaktloses Bezahlen:
     Sollten Dritte diese Daten auslesen, können sie keine gültigen Transaktionen auslösen. Das System erkennt gefälschte Kartenkopien und weist diese ab.
     Für Online-Einkäufe bietet Ihre Kreditkarte die zusätzliche Sicherheitsfunktion 3D-Secure. Damit sind Ihre Transaktionen im Internet zusätzlich geschützt.
 
-
+###
 Muss ich bei Verlust oder Diebstahl meiner kontaktlosen TARGOBANK Kreditkarte für Schäden aufkommen?
 
 In diesem Fall melden Sie uns bitte sofort den Verlust/Diebstahl Ihrer Karte. Wir sperren Ihre Karte, um den missbräuchlichen Einsatz zu verhindern. Sie erhalten dann eine neue kontaktlose Karte. Wenn Sie der TARGOBANK den Verlust Ihrer Karte sofort mitgeteilt haben, haften Sie in der Regel nicht. Die genauen Bestimmungen finden Sie in den Allgemeinen Geschäftsbedingungen.
 
-
+###
 Könnte ein Betrüger mit meiner gestohlenen TARGOBANK Kreditkarte beliebig viele Transaktionen unter 25,– EUR tätigen? Weder Unterschrift noch PIN sind in diesem Fall notwendig.
 
 Wurde Ihre Karte gestohlen, informieren Sie bitte sofort die TARGOBANK. Wir stellen dann sicher, dass keine weiteren Transaktionen mehr möglich sind. Dies gilt auch für Transaktionen bis 25,– EUR.
 
-
+###
 In meinem Geldbeutel befinden sich mehrere kontaktlose Zahlungskarten. Was passiert, wenn ich damit zu nah an ein Kartenlesegerät komme? Werden dann Beträge von allen kontaktlosen Karten abgebucht?
 
 Nein. Nur wenn eine kontaktlose Karte einwandfrei identifizierbar ist, löst dies eine Zahlung aus. Nimmt ein Lesegerät gleichzeitig mehrere Karten wahr, weist das System die Zahlung zurück.
 
-
+###
 Kann ich weiterhin meine TARGOBANK Kreditkarte nutzen, auch wenn ich nicht die neue kontaktlose Technologie verwenden möchte?
 
 Ja. Sie können auch weiterhin wie gewohnt mit Ihrer TARGOBANK Kreditkarte zahlen.
-
+###
 
 Kann ich die Kontaktlosfunktion der Karte vorübergehend deaktivieren?
 
 Nein. Wünschen Sie eine Kreditkarte ohne Kontaktlosfunktion, kontaktieren Sie uns bitte unter 0211 - 900 20 444 an. Wir sind rund um die Uhr für Sie da.
 
-
+###
 Hat die TARGOBANK ein Betrugsfrühwarnsystem?
 
 Ja. Die TARGOBANK ergreift verschiedene Maßnahmen, um einen Betrugsversuch früh zu erkennen. So haben Sie mit unserem Konto-SMS-Service alle Kontobewegungen sofort im Blick. Unbekannte Umsätze fallen schnell auf. Zusätzlich zeigt unser Frühwarnsystem rund um die Uhr verdächtige Buchungen an und registriert diese sofort.
 
 HINWEIS: Für Online-Einkäufe bietet Ihre Karte die zusätzliche Sicherheitsfunktion 3D-Secure. Damit sind Ihre Transaktionen im Internet zusätzlich geschützt.
 
-
+###
 Datenschutz?
 
 Der Schutz Ihrer Privatsphäre ist uns wichtig. Unsere Datenschutzhinweise finden Sie im Internet unter www.targobank.de.
 
 Sollten Ihre Daten nicht richtig sein oder sollten Sie allgemeine Fragen zu Ihren Daten haben, wenden Sie sich bitte an unsere Mitarbeiter oder unmittelbar an unseren Datenschutzbeauftragten, Postfach 21 04 53, 47026 Duisburg.
 
+###

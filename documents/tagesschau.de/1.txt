@@ -1,17 +1,16 @@
-
+###
 Was sind Dispo- und Überziehungszinsen?
-Euro-Geldscheine
-galerie
 
 Der Vorteil von Dispokrediten ist, dass sie schnell verfügbar ist. Der Nachteil: die hohen Zinsen.
 
 Dispo- und Überziehungszinsen werden fällig, wenn ein Bankkunde kein Geld mehr auf dem Girokonto hat, es aber weiter belastet wird und ins Minus rutscht. Zunächst gibt die Bank für die Kontoüberziehung einen Dispositionskredit - kurz: Dispokredit oder Dispo. Dieser ermöglicht eine begrenzte Überziehung. Limit sind oft zwei oder drei Monatsgehälter. Für Überziehungen in diesem Rahmen gilt der Dispozins.
 
 Wird das Konto über diesen Rahmen hinaus überzogen, fallen Überziehungszinsen an. Diese sind oft mehrere Prozentpunkte höher.
+
 Wo erfahren Bankkunden, wie hoch ihre Dispozinsen sind?
 
 Banken informieren darüber mit Aushängen in ihren Filialen oder auf ihren Internetseiten. Auch die Berater erteilen Auskunft. Eine weitere Informationsquelle ist der Kontoauszug, wenn fällige Zinsen abgerechnet werden, etwa zum Ende eines Quartals. Dann müssen die Konditionen auf den Kontoauszügen abgedruckt werden. Um die Dispozinsen verschiedener Institute zu vergleichen, gibt es spezielle Internetseiten wie fmh.de oder biallo.de
-
+###
 
 
 Was sind die Vor- und Nachteile von Dispokrediten?
@@ -20,6 +19,8 @@ Vorteil ist, dass Dispokredite nicht erst beantragt werden müssen und sofort ve
 Wie können Bankkunden hohe Dispozinsen umgehen?
 
 Verbraucher können mit ihrem Institut vereinbaren, dass ein Konto nicht überzogen werden darf. Finanzexperten raten aber oft dazu, zumindest einen Dispo-Rahmen von 500 Euro zu belassen. So ist es möglich, dass regelmäßig fällige Beträge wie etwa Telefonrechnungen auch etwa während einer Urlaubsreise abgebucht werden können. Dadurch lassen sich unter Umständen teure Mahngebühren sparen, welche die Kosten für Dispozinsen übersteigen können. Bankkunden können daneben mit ihren Instituten auch über die Höhe der Dispozinsen verhandeln.
+###
 Gibt es Alternativen zum Dispokredit?
 
 Bei größeren Ausgaben raten Verbraucherschützer davon ab, das Girokonto dauerhaft zu überziehen. Sie empfehlen einen Raten- oder Abrufkredit mit niedrigeren Zinsen. Ratenkredite sind Darlehen über eine bestimmte Summe und einen bestimmten Zinssatz, die in einem festen Zeitraum zurückgezahlt werden. Abrufkredite funktionieren ähnlich wie Dispokredite mit einem Kreditrahmen, jedoch muss meist monatlich ein bestimmter Betrag zurückgezahlt werden.
+###

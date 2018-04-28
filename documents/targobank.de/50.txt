@@ -1,8 +1,9 @@
+###
  Was ist De-Mail?
 
 De-Mail ist ein sicherer elektronischer Nachrichtendienst mit zahlreichen zusätzlichen Sicherheitsmerkmalen. Damit senden und empfangen Sie Nachrichten und Dokumente vertraulich und nachweisbar.
 
-
+###
 Welches Ziel verfolgt De-Mail?
 
 De-Mail verfolgt das Ziel, die Sicherheit beim elektronischen Austausch von Nachrichten und Dokumenten deutlich zu erhöhen.
@@ -24,7 +25,7 @@ Vorteile De-Mail:
 
 De-Mail hilft Ihnen, Ihre persönlichen Daten wirksam zu schützen.
 
-
+###
 Welche Vorteile bietet De-Mail?
 
 Mit De-Mail erledigen Sie viele Vorgänge, für die bisher nur der Postweg möglich war.
@@ -35,7 +36,7 @@ Mit De-Mail erledigen Sie viele Vorgänge, für die bisher nur der Postweg mögl
     Sie erledigen Geschäftliches und Behördengänge schnell und bequem unabhängig von Öffnungszeiten und Aufenthaltsort. Voraussetzung ist ein entsprechendes Angebot.
     Unternehmen und Behörden bearbeiten in Zukunft viele Vorgänge vollständig elektronisch. Dazu zählen rechtlich wichtigen Arbeitsschritte, die eine nachweislich fristgerechte Zustellung erfordern. Mit De-Mail ist dies möglich. Sie sparen Zeit und Kosten für Papier und Porto.
     Für alle De-Mail-Anbieter gelten die gleichen hohen Anforderungen an IT-Sicherheit und Datenschutz. Jeder De-Mail-Anbieter hat ein einheitliches und geprüftes Sicherheitsniveau.
-
+###
 
 Was ist ein De-Mail-Anbieter?
 
@@ -43,14 +44,14 @@ De-Mail-Anbieter sind in der Regel privatwirtschaftliche Unternehmen. Sie haben 
 
 Für eine Zulassung müssen die De-Mail-Anbieter nachweisen, dass sie die gesetzlich vorgeschriebenen, hohen Anforderungen unter anderem an Sicherheit und Datenschutz erfüllen.
 
-
+###
 Wer kann De-Mail nutzen?
 
     Natürliche Personen (Bürgerinnen und Bürger)
     Juristische Personen (zum Beispiel Unternehmen oder Vereine)
     Personengesellschaften
     Öffentliche Einrichtungen (zum Beispiel Behörden)
-
+###
 
 Was unterscheidet De-Mail von E-Mail?
 
@@ -61,14 +62,14 @@ Inwiefern bietet De-Mail Rechtssicherheit?
 
 Die Identität der Kommunikationspartner und die Zustellung sind mit De-Mail nachweisbar. Damit bietet De-Mail eine technische Grundlage für den nachweisbaren Abschluss von Rechtsgeschäften, die keinen weitergehenden Formvorschriften unterliegen.
 
-
-Was ist die Erstregistrierung?
+###
+Was ist die Erstregistrierung in das De-Mail-Konto ?
 
 Diese Registrierung ist für die Eröffnung eines De-Mail-Kontos gesetzlich vorgeschrieben. Ihr De-Mail-Anbieter überprüft Ihre Identität nach den Vorgaben des De-Mail-Gesetzes. Nach Abschluss dieser Erstregistrierung können Sie Ihr De-Mail-Konto nutzen.
 
 Sie haben die Sicherheit, dass Sie nur mit Personen oder Organisationen kommunizieren, die sich gesetzeskonform ausgewiesen haben. Eine Verschleierung der Identität ist ausgeschlossen.
 
-
+###
 Welche Funktionen hat De-Mail?
 
 Eine Standard-De-Mail ist auf ihrem Weg von Anbieter zu Anbieter verschlüsselt. Durch die Verschlüsselung können Dritte weder mitlesen noch unbemerkt verändern. Absender und Empfänger sind eindeutig identifiziert. Bereits eine Standard-De-Mail hat ein hohes Maß an Verbindlichkeit und ist für zahlreiche Anwendungsfälle einsetzbar.
@@ -88,7 +89,7 @@ Zusätzlich können Sie bei sehr vertraulichen Inhalten eine weitere Sicherheits
 Die verschiedenen Versandarten und Bestätigungen kombinieren Sie von Fall zu Fall je nach Zweck und Inhalt Ihrer De-Mail.
 
 Außerdem können Sie Nachrichten mit eigenen Komponenten qualifiziert elektronisch signieren und/oder End-to-End verschlüsseln. Die De-Mail-Anbieter müssen einen Verzeichnisdienst anbieten. In diesem hinterlegen Sie die für die Verschlüsselung erforderlichen öffentlichen Schlüssel oder Verschlüsselungszertifikate. So ist es erheblich einfacher, die End-to-End-Verschlüsselung zu nutzen.
-
+###
 
 Wie gut sind meine Daten durch De-Mail geschützt?
 
@@ -102,7 +103,7 @@ Die Nutzung von De-Mail ist freiwillig.
 
 Die Zulassung der De-Mail-Anbieter dient der Kontrolle der De-Mail-Systeme und dem Schutz der Daten vor Zugriffen durch Unbefugte.
 
-
+###
 Was ist der Verzeichnisdienst?
 
 Der Verzeichnisdienst von De-Mail ist eine Art Telefonbuch. Hier stellen Sie auf eigenen Wunsch anderen De-Mail-Nutzern Informationen über sich zur Verfügung, Dies sind zum Beispiel: Ihre De-Mail-Adresse und Vor- und Nachname. Nur Personen mit De-Mail-Konto können den Verzeichnisdienst lesen, wenn Sie eine konkrete Suchanfrage gestellt haben.
@@ -111,7 +112,7 @@ Neben Adressdaten können Sie auch öffentliche Schlüssel/Verschlüsselungszert
 
 Voraussetzung für die Aufnahme in den Verzeichnisdienst ist das Einverständnis des De-Mail-Nutzers. Diese Einverständniserklärung ist keine zwingende Voraussetzung für die Eröffnung eines De-Mail-Kontos.
 
-
+###
 Wo und wie melde ich mich für De-Mail an?
 
 Eine Registrierung ist nur bei zugelassenen De-Mail-Anbietern möglich. So haben Sie die Sicherheit, dass Ihre persönliche De-Mail-Adresse den hohen Sicherheitsanforderungen genügt.
@@ -127,9 +128,10 @@ Eine Liste der zugelassenen Anbieter veröffentlicht zum Beispiel das Bundesamt 
 
 2. Eine vom Anbieter offiziell benannte Legitimationsstelle überprüft Ihre Online-Anmeldung und schaltet Sie frei. Die Prüfung Ihrer Identität erfolgt auf Basis des Personalweises. Danach sind Sie für alle zukünftigen De-Mail-Gesprächspartner eindeutig identifiziert.
 
-
+###
 Was bedeutet "akkreditierter De-Mail-Anbieter"?
 
 Niemand darf De-Mail-Dienste ohne vorherige Akkreditierung anbieten. Zuständig für die Zulassung der De-Mail-Anbieter ist das Bundesamt für Sicherheit in der Informationstechnik.
 
 Die De-Mail-Anbieter müssen nachweisen, dass sie die gesetzlich vorgeschriebenen, hohen Anforderungen an Sicherheit und Datenschutz erfüllen. Nur so erhalten diese die Zulassung.
+###

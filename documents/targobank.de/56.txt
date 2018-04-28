@@ -1,5 +1,5 @@
-
-Was ändert sich ab dem 01.01.2015?
+###
+Was ändert sich ab dem 01.01.2015 bezüglich Kirchensteuer?
 
 Ab dem 01.01.2015 wird die Kirchensteuer automatisch auf Ihre Kapitalerträge einbehalten und an das Finanzamt abgeführt. Die Banken sind gesetzlich verpflichtet, einmal jährlich beim Bundeszentralamt für Steuern (BZSt) die Religionszugehörigkeit für alle Kunden abzufragen. Diese Abfrage erfolgt erstmals in der Zeit vom 01.09.-31.10.2014 und künftig einmal jährlich. Auf Wunsch des Kunden oder bei Neukunden führen die Banken ab 2015 Anlassabfragen durch.
 
@@ -8,7 +8,7 @@ Das BZSt übermittelt das Kirchensteuerabzugsmerkmal und informiert die Bank, we
 Sofern Sie die Kirchensteuer von Ihrem Finanzamt erheben lassen möchten, widersprechen Sie bitte der Datenübermittlung beim BZSt. Diese "Erklärung zum Sperrvermerk" geben Sie mit Hilfe eines amtlichen Formulars ab. Das Formular finden Sie auf der Internetseite des Bundesfinanzministeriums unter Bürger/Kirchensteuer.
 
 Wenn die Erklärung für 2015 wirksam werden soll, muss sie dem BZSt spätestens am 30. Juni 2014 vorliegen. Die gesetzliche Frist für Neuanträge oder Änderungsanträge gilt für die Folgejahre entsprechend. Das Formular senden Sie bitte an das BZSt. Die Anschrift des BZSt finden Sie auf dem Formular.
-
+###
  Was sind die Folgen meiner Erklärung zum Sperrvermerk?
 
     Das BZSt gibt bis zu Ihrem Widerruf kein Kirchensteuermerkmal an die anfragenden Kreditinstitute weiter.
@@ -16,7 +16,7 @@ Wenn die Erklärung für 2015 wirksam werden soll, muss sie dem BZSt spätestens
     Das BZSt meldet Ihre Sperre Ihrem zuständigen Finanzamt und informiert es über unsere und Anfragen weiterer Banken.
     Ihr Finanzamt fordert Sie auf, die Einkünfte aus Kapitalvermögen zu erklären.
 
-
+###
 Wie korrigiere ich meinen Kirchensteuerstatus?
 
 Die Banken sind an die vom BZSt übermittelten Daten gesetzlich gebunden. Falls Ihre Kirchensteuerdaten nicht richtig geschlüsselt sind, informieren Sie bitte Ihre Religionsgemeinschaft oder die zuständigen Stellen in Ihrer Gemeinde oder Ihrem Bundesland. Diese berichtigen Ihren Kirchensteuerstatus. Sie können die TARGOBANK nach Berichtigung der Daten beauftragen, eine Anlassabfrage beim BZSt durchzuführen. Wir aktualisieren dann Ihren Kirchensteuerstatus.
@@ -38,10 +38,11 @@ Bitte beachten Sie die weiteren Informationen des BZSt.
 
 Haben Sie Fragen zum Kirchensteuerabzug? Wir helfen Ihnen gerne telefonisch unter 0211 – 900 20 007 weiter.
 
-
+###
 Wird Kirchensteuer auch bei Gemeinschaftskonten einbehalten?
 
 Kirchensteuer wird bei Gemeinschaftskonten einbehalten, wenn es sich bei den Kontoinhabern um Eheleute oder um eingetragene Lebenspartner handelt und wenn für die Partner das Kirchensteuerabzugsmerkmal vom Bundeszentralamt für Steuern übermittelt worden ist.
 
 Bei Gemeinschaftskonten, bei denen die Kontoinhaber nicht verheiratet oder eingetragene Lebenspartner sind, darf die Bank keine Kirchensteuer einbehalten, auch wenn das Kirchensteuerabzugsmerkmal vom Bundeszentralamt für Steuern vorliegt. Die Kirchensteuer ist dann im Rahmen der Einkommensteuerveranlagung zu erheben.
 
+###

@@ -1,98 +1,98 @@
-
+###
 Was ist Rendite Plus?
 
 Rendite Plus ist eine attraktive Form der Geldanlage. Sie haben die Chance auf maximale Zinserträge. Die Hälfte Ihrer Anlage legen wir zu einem Top-Zinssatz in Form eines Festgeldes für Sie an. Die andere Hälfte legen wir für Sie in ein Wertpapier Ihrer Wahl an. Das sind beispielsweise innovative Fondsprodukte oder unabhängig geprüfte Zertifikate.
 
-
+###
 Welche Vorteile bietet mir Rendite Plus?
 
 Rendite Plus kombiniert die Sicherheit eines Festgeldes mit den Renditechancen des Kapital- und Aktienmarktes. Sie erhalten attraktive Festgeldzinsen - und das garantiert bis zum Ende der Laufzeit. Außerdem bietet Ihnen eine Anlage in Investmentfonds oder Zertifikaten sehr gute Renditechancen.
-
-
-Muss ich mein Geld auf zwei Konten überweisen?
+###
+Muss ich mit dem Rendite Plus mein Geld auf zwei Konten überweisen?
 
 Nein. Wir machen es Ihnen ganz einfach: Sie überweisen Ihre Anlage in einem Betrag auf Ihr Girokonto oder ein Verrechnungskonto der TARGOBANK. Alles andere erledigen wir für Sie.
 
-
-Gibt es einen Mindestanlagebetrag?
+###
+Gibt es einen Mindestanlagebetrag in das Rendite-Plus?
 
 Ja. Dieser beträgt bei Rendite Plus 5.000,– EUR.
 
-
-Gibt es eine Höchstgrenze beim Anlagebetrag?
+###
+Gibt es eine Höchstgrenze beim Anlagebetrag in Rendite Plus ?
 
 Nein. Sie können in unbegrenzter Höhe Geld in Rendite Plus anlegen.
 
-
+###
 Welches ist das beste Wertpapier für Rendite Plus?
 
 Das hängt von Ihren persönlichen Zielen und von Ihrer Risikobereitschaft ab. Wir beraten Sie objektiv und unabhängig, so dass Sie die für Sie geeignete Anlageform auswählen können. Dafür steht Ihnen ein sorgfältig geprüftes Angebot an Zertifikaten zur Verfügung und rund 6.000 Investmentfonds von mehr als 100 renommierten Kapitalanlagegesellschaften.
 
-
-Kann ich das Wertpapier später wechseln?
+###
+Kann ich das Wertpapier für Rendite Plus später wechseln?
 
 Ja. Sie können Ihr Wertpapier wechseln. Der attraktive Zins ist Ihnen während der Laufzeit des Festgeldes sicher.
-
-
-Ist der hohe Zinssatz beim Festgeldanteil garantiert?
+###
+Ist der hohe Zinssatz für Rendite Plus  beim Festgeldanteil garantiert?
 
 Ja. Dies ist der große Vorteil bei Rendite Plus. Der hohe Zinssatz ist über die gesamte Laufzeit garantiert.
-
+###
 
 Wo sehe ich, wie sich mein Rendite Plus entwickelt?
 
 Sie erhalten von uns auf Wunsch monatlich einen Finanzstatus mit einer Übersicht über alle Ihre Geldanlagen.
 
-
+###
 Hat die Kursentwicklung meines Wertpapiers Auswirkungen auf meinen Festgeldanteil?
 
 Nein. Ihr Festgeldzins ist für die gesamte Laufzeit garantiert, egal wie sich Ihr Wertpapieranteil entwickelt.
-
-
+###
 Wann erhalte ich meine Zinsen für den Festgeldanteil?
 
 Sie erhalten Ihre Zinsen für den Festgeldanteil am Ende der vereinbarten Laufzeit.
 
+###
 
 Wie ist die Laufzeit bei Rendite Plus?
 
 Sie haben die Wahl zwischen Festgeldlaufzeiten von 3, 6 und 12 Monaten.
 
-
-Kann ich die Laufzeit zwischendurch ändern?
+###
+Kann ich die Laufzeit des Rendite Plus zwischendurch ändern?
 
 Das ist leider nicht möglich. Wir garantieren Ihnen die Zinsen auf den Festgeldanteil nur, wenn Sie Ihr Geld für den vereinbarten Zeitraum bei der TARGOBANK anlegen.
 
-
-Kann ich flexibel auf mein Geld zugreifen?
+###
+Kann ich flexibel auf mein Geld im Rendite Plus zugreifen?
 
 Das ist leider nicht möglich. Den attraktiven Zinssatz auf Ihren Festgeldanteil erhalten Sie nur, wenn Sie sich dem Betrag festlegen. Dafür garantieren wir Ihnen den vereinbarten Zinssatz für den gesamten Anlagebetrag.
 
-
+###
 Fallen bei Rendite Plus zusätzliche Kosten an?
 
 Das Rendite-Plus Festgeld ist kosten- und gebührenfrei. Für den Investmentanteil berechnen wir Ausgabeaufschläge in unterschiedlicher Höhe. Voraussetzung für Rendite Plus ist, das Sie ein Investmentprodukt auswählen, bei dem der Ausgabeaufschlag mindestens 2,5 % beträgt.
 
-
-Kann ich mein Depot für weitere Transaktionen nutzen?
+###
+Kann ich mein Rendite Plus Depot für weitere Transaktionen nutzen?
 
 Ja. Sie können Ihr Depot für alle Ihre Wertpapiergeschäfte nutzen.
 
 
+###
 Wie eröffne ich Rendite Plus?
 
 Bei Anlagen mit Wertpapieranteil empfehlen wir eine persönliche Beratung. Eröffnen Sie Rendite Plus in einer unserer rund 340 TARGOBANK Filialen.
 
 
-Welche Unterlagen brauche ich bei der Eröffnung?
+###
+Welche Unterlagen brauche ich bei der Eröffnung des Rendite Plus?
 
 Bitte bringen Sie bei Eröffnung in Ihrer TARGOBANK Filiale Ihren Personalausweis mit.
 
-
+###
 Was sind Investmentfonds?
 
 In einem Investmentfonds bündelt eine Kapitalverwaltungsgesellschaft die Gelder vieler Anleger. Diese legt sie nach dem Prinzip der Risikostreuung in verschiedenen Vermögenswerten an. Dazu zählen beispielsweise Wertpapiere, Geldmarktinstrumente, Bankguthaben, derivative Instrumente und Immobilien.
-
+###
 
 Was sind Zertifikate?
 
@@ -100,7 +100,8 @@ Zertifikate sind Inhaberschuldverschreibungen. Sie bieten Ihnen attraktive Ertra
 
 Mit Zertifikaten haben Sie vielfältige Möglichkeiten: Setzen Sie auf die Marktentwicklung (fallende, stagnierende, steigende Märkte) oder investieren Sie marktunabhängig. Zertifikate bieten Ihnen die Chance entsprechend Ihrer Risikoneigung Gewinne zu erzielen. Der Risikogehalt von Zertifikaten wird durch sämtliche Risiken der zu Grunde liegenden Basiswerte mitbestimmt. Die Ausstattung von Zertifikaten variiert. Grundsätzlich unterliegen alle Zertifikate Kursänderungs-, Bonitäts-, Ertrags- und Liquiditätsrisiken. Mit Teilschutz- und Kapitalschutzprodukten haben auch konservative Anleger die Möglichkeit, in verschiedene Anlageformen mit attraktiven Konditionen zu investieren.
 
-
+###
 Was genau ist ein Rating?
 
 Unabhängige Rating-Agenturen wie Standard & Poor's vergeben Qualitätsbewertungen an Emittenten von Anleihen oder Zertifikaten. "AAA" ist zum Beispiel die höchste Bewertungsstufe. Das Rating bezieht sich insbesondere auf die Kreditwürdigkeit eines Unternehmens.
+###

@@ -1,29 +1,29 @@
-
+###
 Welche Voraussetzungen gelten für die easyTAN Nutzung?
 
 Um die easyTAN App nutzen zu können, benötigen Sie ein Smartphone mit Internetverbindung. easyTAN ist für Android (Version 4.0.3 oder höher),iOS (Version 8 oder höher) und Windows (Version 8 oder höher) verfügbar. Geräte mit Jailbreak oder Root dürfen nicht verwendet werden.
 
-
+###
 Kann ich easyTAN auf meinem Tablett nutzen?
 
 Wenn Sie ein Tablett für easyTAN nutzen möchten, laden Sie bitte die Smartphone-App Variante der Mobile-Banking App herunter und aktivieren Sie easyTAN dort. Innerhalb der Tablet-App ist der Punkt nicht verfügbar.
 
-
+###
 Wie kann ich mich für easyTAN anmelden?
 
 Um sich für easyTAN zu registrieren, laden Sie bitte die Mobile App der TARGOBANK aus dem AppStore (bspw. Google Play Store) herunter und aktivieren Sie dort easyTAN. Dafür benötigen Sie eine iTAN oder eine mTAN. Wenn Sie ein Tablett für easyTAN nutzen möchten, laden Sie bitte die Smartphone-App Variante der Mobile-Banking App herunter und aktivieren Sie easyTAN dort. Innerhalb der Tablet-App ist der Punkt nicht verfügbar.
 
-
+###
 Wie funktioniert easyTAN?
 
 easyTAN ist ein einfaches, schnelles und sicheres Verfahren zur Freigabe von Transaktionen beim Online-Banking. Für easyTAN benötigen Sie die Mobile App der TARGOBANK aus dem AppStore (bspw. Google Play Store). Innerhalb der App kann easyTAN aktiviert werden. Bei easyTAN entfällt die TAN-Eingabe. Mit einem einmalig von Ihnen selbst angelegten Freigabecode können Sie Transaktionen, die Sie im Online-Banking veranlassen, mit dem Smartphone bestätigen. Die TAN wird unsichtbar im Hintergrund übermittelt und direkt ins Online-Banking übertragen. Die easyTAN enthält nochmals die Transaktionsdaten. Sollte Ihnen bei der Überprüfung ein Fehler auffallen, können Sie die Transaktion einfach ablehnen und erneut aufsetzen.
 
-
+###
 Warum kann ich easyTAN nicht für das Mobile-Banking nutzen?
 
 Diese Funktion wird folgen. Im ersten Schritt ist die easyTAN lediglich für das Online-Banking nutzbar.
 
-
+###
 Wie sicher sind die TAN -Verfahren?
 
 iTAN
@@ -40,17 +40,17 @@ easyTAN
 
 easyTAN bietet eine Kombination verschiedener Sicherheitsmechanismen und ist daher (zukünftig) auch beim mobilen Banking auf dem Smartphone nutzbar. Auch bei der easyTAN können vor Freigabe der Transaktion erneut die Transaktionsdetails überprüft werden.
 
-
+###
 Kann ich frei wählen, welches TAN System er für eine Transaktion verwendet?
 
 Grundsätzlich können Sie aus den TAN Verfahren, für die Sie registriert sind, auswählen. Beim mobilen Banking ist die mTAN jedoch nicht nutzbar.
 
-
+###
 Ist die Verwendung von iTAN/mTAN und easyTAN kostenlos?
 
 Die TAN Services der TARGOBANK werden bis auf weiteres kostenlos angeboten.
 
-
+###
 Wie lange ist eine iTAN/mTAN bzw. easyTAN gültig?
 
 Eine iTAN ist solange gültig, wie ihr Index angezeigt wird. Eine einmal angefragte iTAN verfällt nach einmaliger Anzeige.
@@ -59,32 +59,33 @@ Eine mTAN ist 15 Minuten gültig.
 
 Eine easyTAN ist solange gültig, bis Sie die Transaktion abbrechen.
 
-
+###
 Warum darf ich beim Banking mit dem Smartphone mTAN nicht nutzen?
 
 Bei der Nutzung der TAN beim Mobile Banking ist darauf zu achten, dass Transaktionsanzeige und TAN Anzeige physisch oder logisch voneinander getrennt sind. Dies kann bei Nutzung einer SMS nicht gewährleistet werden. Daher wird das mTAN-Verfahren für das mobile Banking nicht angeboten. Die Bestätigung der Transaktionen ist dort mit iTAN und (zu einem späteren Zeitpunkt) mit easyTAN möglich, da diese Methoden eine physische bzw. logische Trennung von TAN und Banking App bieten. Zu diesem Punkt hat auch das Bundesamt für Sicherheit in der Informationstechnik (BSI) klar Stellung bezogen.
 
-
+###
 Ich erhalte keine Freigabe-Aufforderung auf dem Smartphone, warum?
 
 Prüfen Sie, ob in Ihren Einstellungen auf dem Smartphone eine Freigabe der Push Nachrichten für TARGOBANK aktiviert ist. Im Gegensatz zu einer stabilen WLAN Verbindung kann es bei der Nutzung mobiler Daten je nach Netzverfügbarkeit außerdem zu Verzögerungen im Datentransfer kommen. Sie erhalten auch nach Updates der App Freigabe-Aufforderungen. Nur falls Sie die App deinstalliert haben, ist eine Neu-Registrierung erforderlich.
-
+###
 
 Bei Erhalt der Freigabe-Aufforderung auf dem Smartphone öffnet sich auch die App, warum?
 
 Im Gegensatz zu einer stabilen WLAN Verbindung kann es bei der Nutzung mobiler Daten je nach Netzverfügbarkeit zu Verzögerungen im Datentransfer kommen. Dadurch können sich verschiedene Aktionen überlagern.
 
-
+###
 Was passiert, wenn ich meinen Freigabecode vergessen habe/ändern möchte?
 
 Um den Freigabecode zu ändern oder neu anzulegen, deinstallieren Sie bitte zunächst die Banking-App von Ihrem Smartphone. Im Anschluss laden Sie erneut die Mobile App der TARGOBANK aus dem AppStore (bspw. Google Play Store) herunter und aktivieren Sie dort easyTAN. Dafür benötigen Sie eine iTAN oder eine mTAN.
 
-
+###
 Was passiert bei Änderung meiner Handynummer oder Gerätewechsel?
 
 Die easyTAN Registrierung ist mit Ihrer Geräte-ID verbunden. Lediglich der Wechsel auf ein neues Gerät (und somit zu einer neuen Geräte-ID) macht eine Neu-Registrierung für easyTAN erforderlich. Bei Wechsel Ihrer Handynummer bleibt easyTAN gültig.
 
-
+###
 Was passiert, wenn mein Gerät gestohlen/verloren wurde?
 
 Sie können Ihre für easyTAN registrierten Geräte jederzeit im Online-Banking unter "easyTAN verwalten" löschen.
+###

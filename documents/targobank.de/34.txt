@@ -1,4 +1,4 @@
-
+###
 Was finde ich unter Marktinformationen?
 
 Im Bereich Marktinformationen finden Sie umfangreiche Börsendaten (Kurse, Geld- und Briefkurse, Charts u.v.m.) zu den wichtigsten Wertpapierarten wie:
@@ -12,17 +12,17 @@ Im Bereich Marktinformationen finden Sie umfangreiche Börsendaten (Kurse, Geld-
 
 Außerdem stehen Ihnen Analysteninformationen, Nachrichten und nützliche Investment-Tools zur Verfügung.
 
-
+###
 Sind die Marktinformationen nur für Internet Banking und Brokerage Kunden nutzbar?
 
 Die Internet-Seiten der TARGOBANK stehen allen Internetnutzern zur Verfügung. TARGOBANK Kunden haben über das Online-Banking zusätzlich Zugriff auf alle Börsen- und Zusatzdaten, Tools und personalisierte Services.
-
+###
 
 Wie häufig werden die Kurse und Indizes in den Marktinformationen aktualisiert?
 
 Als TARGOBANK Kunde stehen Ihnen im Bereich des Online-Banking zahlreiche Push-Realtime-Kurse zur Verfügung.
 In öffentlichen Bereich der Marktinformationen bieten wir außerdem sogenannte Echtzeit-Kurse für ausgewählte Wertpapiere und Handelspartner an. Alle übrigen Kurse werden in der Regel 15 Minuten zeitverzögert angezeigt.
-
+###
 
 Bietet die TARGOBANK ein Musterdepot oder ein virtuelles Depot an?
 
@@ -34,3 +34,4 @@ Sie bietet Ihnen zudem auch professionelle Funktionalitäten eines Musterdepots 
     oder Überwachungsmarken per E-Mail erhalten
 
 Wenn Sie kein Kunde der TARGOBANK sind, können Sie sich für eine Watchlist-Demo registrieren. Diese umfasst bis auf wenige Ausnahmen alle Funktionen der Watchlist für TARGOBANK Kunden.
+###

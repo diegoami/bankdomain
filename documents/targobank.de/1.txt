@@ -1,8 +1,8 @@
-
+###
 Was ist der Kontowechsel-Service der TARGOBANK?
 
 Mit dem kostenlosen Kontowechsel-Service übernehmen wir für Sie den kompletten Umzug Ihres Girokontos zu uns. Wir informieren alle Zahlungspartner, die Sie uns nennen, über Ihre neue Kontoverbindung. Lehnen Sie sich bequem zurück, wir erledigen alles für Sie. Zahlungspartner sind zum Beispiel Unternehmen, die per Lastschrift regelmäßig Zahlungen von Ihnen erhalten oder Ihnen Geld überweisen.
-
+###
  Wie nutze ich den Kontowechsel-Service der TARGOBANK?
 
 Nutzen Sie ganz einfach das komplette Serviceangebot des kostenlosen Kontowechsel-Service
@@ -11,3 +11,5 @@ Nutzen Sie ganz einfach das komplette Serviceangebot des kostenlosen Kontowechse
     Um den Rest kümmern wir uns. Wir informieren alle Partner über Ihre neue Kontoverbindung und kümmern uns um eine reibungslose Übernahme Ihrer bestehenden Lastschriftmandate und Daueraufträge sowie um den Eingang der für Sie als Kontoinhaber bestimmten Überweisungen.
     Sie haben lieber selber alles im Griff? Dann nutzen Sie ganz einfach die vorbereiteten Formulare.
     Unser Tipp: Über unser Online Tool haben Sie den aktuellen Bearbeitungsstand immer im Blick und können jederzeit selbst aktiv werden
+
+###

@@ -1,8 +1,8 @@
-
+###
 Welche Vorteile bietet mir das Premium-Konto?
 
 Mit dem Premium-Konto nutzen Sie ein kostenloses Girokonto ab 50.000 EUR kontinuierlichem Guthaben bei der TARGOBANK.
-
+###
 
 Was ist beim Premium-Konto inklusive?
 
@@ -21,22 +21,22 @@ Was ist beim Premium-Konto inklusive?
     Kostenloser Kontowechsel-Service.
     Kostenlose Online-Sicherheits-Garantie. Dafür registrieren Sie sich bitte im Online-Banking.
 
-
+###
 Wann ist das Premium-Konto kostenlos?
 
 Das Premium Konto ist bei einem kontinuierlichen Guthaben von mindestens 50.000,– EUR bei der TARGOBANK kostenlos. Das Guthaben kann auf Ihrem Giro- oder Kreditkartenkonto, in Ihrem Wertpapierdepot oder als Tages- oder Festgeld angelegt sein.
+###
 
-
-Sind zusätzliche Geldeingänge notwendig?
+Sind zusätzliche Geldeingänge in das Premium-Konto notwendig?
 
 Nein.
 
-
-Was passiert, wenn ich die 50.000,– EUR unterschreite?
+###
+Was passiert, wenn ich die 50.000,– EUR im Premium-Konto unterschreite?
 
 Unterschreitet Ihr Guthaben bei der TARGOBANK in einem Monat 50.000,– EUR, berechnen wir im Folgemonat eine Kontoführungsgebühr von 12,45 EUR.
 
-
+###
 Welche zusätzlichen Angebote bietet mir das Premium-Konto?
 
 Neben der kostenlosen Kontoführung erhalten Sie kostenlos eine girocard Premium. Auf Wunsch bieten wir Ihnen eine Premium Kreditkarte zu attraktiven Konditionen.
@@ -46,12 +46,12 @@ Außerdem profitieren Sie von einem kostenlosen Depot bei Nutzung des Online-Pos
     1)
     Entgelt für die Ausführung der Order. Orderprovision auf Basis des Ordervolumens. Bei prozentnotierten Wertpapieren errechnet sich das Ordervolumen ausgehend vom Kurswert beziehungsweise vom Nennwert bei Kursen unter pari.
 
-
+###
  Was ist die Dispo-Freigrenze?
 
 Die Dispo-Freigrenze ist ein komfortabler, kostenloser Puffer, wenn es auf Ihrem Konto mal eng wird. Ist die Überziehung nicht höher als 200,– EUR fallen beim Premium-Konto keine Zinsen an.
 
-
+###
 Welche Produkte erhalte ich zusätzlich zum Premium-Konto?
 
 Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte an – Bonität vorausgesetzt:
@@ -66,26 +66,27 @@ Auf Wunsch bieten wir Ihnen zusätzlich folgende Produkte an – Bonität voraus
 
 Die aktuellen Konditionen zum Premium-Konto entnehmen Sie bitte der Premium-Konto Seite.
 
-
+###
 Kann ich das Premium-Konto mit meinem Partner teilen?
 
 Ja, Sie können das Premium-Konto auch als Gemeinschaftskonto nutzen.
 
-
+###
 Wo eröffne ich ein Premium-Konto?
 
 Bitte eröffnen Sie Ihr Premium-Konto in einer unserer TARGOBANK Filialen.
 
-
+###
 Muss ich mein Girokonto bei meiner Hausbank auflösen?
 
 Nein, der Gehaltseingang ist keine Voraussetzung für die Eröffnung des Premium-Kontos. Sie können Ihr Premium-Konto auch als Zweitkonto nutzen.
-
+###
 
 Kann ich mit meinem Premium-Konto auch Online-Banking nutzen?
 
 Ja, nutzen Sie gerne kostenlos das Online-Banking der TARGOBANK. Melden Sie sich einfach dafür an. Schon erledigen Sie Ihre Bank- und Wertpapiergeschäfte bequem über das Internet.
 
+###
  Wo hebe ich mit meiner girocard Premium kostenlos Bargeld ab?
 
 Dies ist möglich in:
@@ -94,12 +95,12 @@ Dies ist möglich in:
     Spanien an den Geldautomaten der TARGOBANK España.
     Frankreich an über 6.600 Geldautomaten der Crédit Mutuel und der CIC Bank.
 
-
+###
 Bekomme ich zum Premium-Konto eine Kreditkarte?
 
 Zum Premium-Konto erhalten Sie auf Wunsch eine Kreditkarte zu attraktiven Konditionen, zum Beispiel die Visa Premium-Karte. Damit genießen Sie noch mehr finanzielle Flexibilität. Ihre Rechnungsbeträge zahlen Sie individuell zurück.
 
-
+###
 Kann ich mit meiner Kreditkarte auch kostenlos Bargeld abheben?
 
 Ja, mit der Visa Online-Classic-Karte können Sie an Geldautomaten der TARGOBANK kostenlos Bargeld abheben.
@@ -107,3 +108,4 @@ Ja, mit der Visa Online-Classic-Karte können Sie an Geldautomaten der TARGOBANK
 Mit der Visa Gold- und Premium-Karte sind zusätzlich in Deutschland die ersten vier Abhebungen im Monat an Geldautomaten anderer Banken mit Visa-Logo kostenlos. Im Ausland können Sie mit der Visa Gold- und Premium-Karte sogar beliebig oft gebührenfrei Bargeld ab.
 
 In einigen Ländern kann ein Auslandseinsatzentgelt anfallen (ausgenommen sind Euro-Transaktionen im Europäischen Wirtschaftsraum). Im Ausland ist es Automatenbetreibern teilweise erlaubt, eigene Gebühren für Bargeldtransaktionen zu erheben. Diese werden von Ihrem Konto eingezogen. Die Automatenbetreiber sind verpflichtet auf derartige eigene Gebühren hinzuweisen.
+###
