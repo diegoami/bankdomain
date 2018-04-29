@@ -1,6 +1,5 @@
 ###
-Mit welchen Daten muss ich mich im Online-Banking anmelden, um das pushTAN-
-Verfahren zu nutzen?
+Mit welchen Daten muss ich mich im Online-Banking anmelden, um das pushTAN-Verfahren zu nutzen?
 Sie erhalten für pushTAN einen neuen Anmeldenamen bzw. eine neue Legitimations-ID und
 eine neue Online-Banking-PIN. Den Anmeldenamen bzw. die Legitimations-ID finden Sie auf
 dem Registrierungsbrief. Die neue PIN wird Ihnen mit separater Post zugeschickt. Erst wenn
@@ -9,14 +8,12 @@ Sie bereits das chipTAN-Verfahren nutzen, denken Sie bitte daran, dass Sie zur N
 des pushTAN-Verfahrens immer den richtigen Anmeldenamen und die richtige PIN
 verwenden.
 ###
-Was muss ich tun, wenn ich ein neues Smartphone oder Tablet kaufe und dieses für
-pushTAN nutzen möchte?
+Was muss ich tun, wenn ich ein neues Smartphone oder Tablet kaufe und dieses für pushTAN nutzen möchte?
 Da pushTAN aus Sicherheitsgründen an die Hardware des Smartphones bzw. Tablets
 gekoppelt ist, müssen Sie bei einem neuen Gerät den Registrierungsprozess erneut
 durchlaufen.
 ###
-Kann ich auch mehrere Geräte (z. B. ein iPhone und ein iPad) gleichzeitig für pushTAN
-anmelden?
+Kann ich auch mehrere Geräte (z. B. ein iPhone und ein iPad) gleichzeitig für pushTAN anmelden?
 Im Online-Banking können Sie bei Bedarf unter Service -> PIN/TAN-Verwaltung -> pushTAN
 verwalten, ein zusätzliches Endgerät („TAN Medium“) definieren, auf dem Sie die pushTAN
 empfangen wollen. Sie erhalten dann auch für dieses Gerät einen neuen Registrierungsbrief
@@ -25,14 +22,12 @@ Registrierungsprozess erneut durchlaufen werden.
 Der bestehende Anmeldename oder Ihre Legitimations-ID und die zugehörige Online-
 Banking-PIN können in diesem Fall weiter genutzt werden.
 ###
-Was muss ich tun, wenn mein Smartphone oder Tablet nicht mehr verwendet werden
-kann (defekt, gestohlen oder verloren)?
+Was muss ich tun, wenn mein Smartphone oder Tablet nicht mehr verwendet werden kann (defekt, gestohlen oder verloren)?
 In diesem Fall muss ein neuer Registrierungsbrief erstellt werden, den einfach online
 anfordern können. Sie erhalten dann einen neuen Registrierungsbrief zugeschickt und
 müssen den Freischaltungsprozess auf dem Ersatzgerät erneut durchlaufen.
 ###
-Warum wird der Empfang einer pushTAN nicht auf meinem Smartphone oder Tablet
-angezeigt?
+Warum wird der Empfang einer pushTAN nicht auf meinem Smartphone oder Tablet angezeigt?
 Wenn Sie für die S-pushTAN-App den Empfang von Push-Mitteilungen deaktiviert haben,
 erhalten Sie keine Benachrichtigung, dass eine neue pushTAN übermittelt wurde. Rufen Sie
 in diesem Fall die S-pushTAN-App von Hand auf.
@@ -97,8 +92,7 @@ Ihrem bestehenden Online-Banking-Zugang bereits das chipTAN Verfahren nutzen, de
 Sie bitte daran, dass Sie zur Nutzung des pushTAN-Verfahrens immer den richtigen
 Anmeldenamen und die richtige PIN verwenden.
 ###
-Warum werde ich beim ersten Start der S-pushTAN-App gefragt, ob mir diese Push-
-Mitteilungen senden darf?
+Warum werde ich beim ersten Start der S-pushTAN-App gefragt, ob mir diese Push-Mitteilungen senden darf?
 Diese Anfrage sollten Sie erlauben, da sonst erheblicher Nutzungskomfort der S-pushTAN-
 App verloren geht. Wenn Sie den Erhalt von Push-Mitteilungen verbieten, werden Sie nicht
 über die Verfügbarkeit neuer pushTANs informiert, sondern müssen diese Abfrage in der S-
@@ -121,21 +115,18 @@ Anmeldenamen bzw. die Legitimations-ID und die neue Online-Banking-PIN, die Sie 
 Nutzung der pushTAN bei Beantragung eines neuen Online-Banking-Zugangs erhalten
 haben.
 ###
-Was muss ich tun, wenn ich ein neues Smartphone oder Tablet kaufe und dieses für
-pushTAN nutzen möchte?
+Was muss ich tun, wenn ich ein neues Smartphone oder Tablet kaufe und dieses für pushTAN nutzen möchte?
 Da das pushTAN-Verfahren aus Sicherheitsgründen an die Hardware des Smartphones bzw.
 Tablets gekoppelt ist, müssen Sie bei einem neuen Gerät den Registrierungsprozess erneut
 durchlaufen. Dazu muss ein neuer Registrierungsbrief erstellt werden, den Sie einfach online
 anfordern können.
 ###
-Ich nutze ein Privat- und ein Firmenkonto. Kann ich beide mit einem Smartphone oder
-Tablet verwalten?
+Ich nutze ein Privat- und ein Firmenkonto. Kann ich beide mit einem Smartphone oder Tablet verwalten?
 Ja, in einer S-pushTAN-App können Sie mehrere pushTAN-Verbindungen für
 unterschiedliche Online-Banking-Zugänge und Konten auf einem Smartphone oder Tablet
 einrichten.
 ###
-Kann ich auch mehrere Geräte (z. B. ein iPhone und ein iPad) gleichzeitig für pushTAN
-anmelden?
+Kann ich auch mehrere Geräte (z. B. ein iPhone und ein iPad) gleichzeitig für pushTAN anmelden?
 Im Online-Banking können Sie bei Bedarf unter Service -> PIN/TAN-Verwaltung -> pushTAN
 verwalten, ein zusätzliches Gerät („TAN Medium“) definieren, auf dem Sie die pushTAN
 empfangen wollen. Sie erhalten dann auch für dieses Gerät einen neuen Registrierungsbrief
@@ -147,8 +138,7 @@ Verfahren umgestellten Online-Banking-Zugang. Das Gerät auf das die TAN übertr
 werden soll ist dann in Ihrer Mobile-Banking-App in den Einstellungen am Konto zu
 hinterlegen bzw. wird Ihnen im Online-Banking zur Auswahl gestellt.
 ###
-Was muss ich tun, wenn mein Smartphone oder Tablet nicht mehr verwendet werden
-kann (defekt, gestohlen oder verloren)?
+Was muss ich tun, wenn mein Smartphone oder Tablet nicht mehr verwendet werden kann (defekt, gestohlen oder verloren)?
 In diesem Fall muss ein neuer Registrierungsbrief erstellt werden, den Sie einfach online
 anfordern können. Sie erhalten dann einen neuen Registrierungsbrief zugeschickt und
 müssen den Freischaltungsprozess erneut durchlaufen.
@@ -160,8 +150,7 @@ Verfahren auch nutzen, wenn Sie ein Gerät ohne Mobilfunkvertrag nutzen, zum Bei
 iPad, einen iPod touch oder ein Smartphone ohne SIM-Karte, das per WLAN mit dem
 Internet verbunden ist.
 ###
-Was muss ich tun, wenn ich einen neuen Mobilfunkvertrag mit neuer Handynummer
-habe?
+Was muss ich tun, wenn ich einen neuen Mobilfunkvertrag mit neuer Handynummer habe?
 Da pushTAN unabhängig von der Handynummer arbeitet, gibt es auch keine Abhängigkeit
 zu einem bestimmten Mobilfunkbetreiber, sofern Sie Ihr bisheriges Smartphone
 weiterverwenden. Sollten Sie auch Ihr Smartphone gewechselt haben, muss ein neuer
@@ -195,8 +184,7 @@ das Eingabefeld übernommen worden und der Auftrag freigegeben. Nutzen Sie das O
 Banking Ihrer Sparkasse oder einer Finanz-Software wie zum Beispiel StarMoney, dann
 geben Sie dort die TAN von Hand ein.
 ###
-Warum wird der Empfang einer pushTAN nicht auf meinem Smartphone oder Tablet
-angezeigt?
+Warum wird der Empfang einer pushTAN nicht auf meinem Smartphone oder Tablet angezeigt?
 Wenn Sie für die S-pushTAN-App den Empfang von Push-Mitteilungen deaktiviert haben,
 erhalten Sie keine Benachrichtigung, dass eine neue pushTAN übermittelt wurde. Rufen Sie
 in diesem Fall die S-pushTAN-App von Hand auf.
@@ -223,8 +211,7 @@ Verbindung zum Internet aufzubauen. Versuchen Sie, durch einen Ortswechsel ein s
 Funksignal zu erhalten und probieren Sie den TAN-Abruf erneut (drücken Sie hierfür auf das
 Aktualisieren-Symbol in der S-pushTAN-App).
 ###
-Warum muss beim Wechsel von der S-pushTAN-App zurück zur App "Sparkasse"
-oder "Sparkasse+" das Passwort erneut eingegeben werden?
+Warum muss beim Wechsel von der S-pushTAN-App zurück zur App "Sparkasse" oder "Sparkasse+" das Passwort erneut eingegeben werden?
 Sie können innerhalb einer gewissen Zeitspanne ohne erneute Eingabe des Passworts in die
 App "Sparkasse" oder "Sparkasse+" zurückwechseln. Diese Zeitspanne kann in den
 Einstellungen der App „Sparkasse“ oder „Sparkasse+“ angepasst werden. Aus
@@ -251,8 +238,7 @@ Bei Android-Geräten wird die S-pushTAN-App durch Deinstallation zurückgesetzt.
 Deinstallation erfolgreich beendet wurde, können Sie die S-pushTAN-App aus dem Google
 Play Store neu installieren und einrichten.
 ###
-Was kann ich tun, wenn ich mich zum Beispiel durch zu häufige Fehleingabe des
-Passworts der S-pushTAN-App gesperrt habe?
+Was kann ich tun, wenn ich mich zum Beispiel durch zu häufige Fehleingabe des Passworts der S-pushTAN-App gesperrt habe?
 Es muss ein neuer Registrierungsbrief erstellt werden, den Sie einfach online anfordern
 können.
 ###
@@ -267,8 +253,7 @@ Kann ich das pushTAN-Verfahren auch bei anderen Banken nutzen?(Multibankfähigke
 Nein, momentan ist die Nutzung des pushTAN-Verfahrens mit der S-pushTAN-App nur in
 Verbindung mit der Einrichtung eines Online-Banking-Zugangs bei Sparkassen möglich.
 ###
-Wie richte ich das pushTAN-Verfahren in der App „Sparkasse“ bzw. „Sparkasse+“
-ein?
+Wie richte ich das pushTAN-Verfahren in der App „Sparkasse“ bzw. „Sparkasse+“ ein?
 Wenn Sie die App „Sparkasse“ bzw. „Sparkasse+“ bereits mit einem anderen
 Sicherheitsverfahren (zum Beispiel chipTAN) nutzen, dann müssen Sie die App „Sparkasse“
 oder „Sparkasse+“ mit Ihrem bestehenden Online-Banking-Zugang auf das pushTAN-
@@ -302,8 +287,7 @@ Button.
 Daraufhin wird allen bereits eingerichteten Konten das neue Sicherheitsmedium pushTAN
 hinzugefügt und automatisch als bevorzugtes Sicherheitsmedium hinterlegt.
 ###
-Wie kann ich in der App „Sparkasse“ bzw. „Sparkasse+“ das Sicherheitsmedium für
-einzelne Konten von pushTAN auf chipTAN umstellen?
+Wie kann ich in der App „Sparkasse“ bzw. „Sparkasse+“ das Sicherheitsmedium für einzelne Konten von pushTAN auf chipTAN umstellen?
 Möchten Sie für einzelne Konten das Sicherheitsmedium von pushTAN auf chipTAN
 umstellen, benötigen Sie eine Anmeldung bzw. Legitimations-ID zum Online-Banking mit
 einem alternativen TAN-Verfahren. Voraussetzung ist, das Sie diesen Online-Banking-
@@ -328,8 +312,7 @@ Ja, das pushTAN-Verfahren wird z. B. von den folgenden Produkten unterstützt:
 - StarMoney Business 5.0 ab SP 4
 - SFirm ab Version 2.5 Patchlevel 3
 ###
-Kann das pushTAN-Verfahren auch mit anderen Apps oder Software-Produkten
-verwendet werden?
+Kann das pushTAN-Verfahren auch mit anderen Apps oder Software-Produkten verwendet werden?
 Ja, das pushTAN-Verfahren kann auch mit anderen Software-Produkten genutzt werden,
 wenn diese eine entsprechende Unterstützung anbieten. Für nähere Informationen wenden
 Sie sich bitte an den jeweiligen Hersteller.
@@ -362,14 +345,12 @@ Ihr Gerät auf eventuell vorliegende Sicherheitsrisiken geprüft. Im Falle eines
 Sicherheitsrisikos können Sie die App auf Ihrem Gerät nicht verwenden. Ein Missbrauch
 Ihrer Daten wird somit verhindert.
 ###
-Welche Vorkehrungen sieht das pushTAN-Verfahren vor, damit die App nicht mitsamt
-dem Schlüssel auf ein anderes Smartphone kopiert werden kann?
+Welche Vorkehrungen sieht das pushTAN-Verfahren vor, damit die App nicht mitsamt dem Schlüssel auf ein anderes Smartphone kopiert werden kann?
 Die S-pushTAN-App ist so konfiguriert, dass das Betriebssystem des Smartphones oder
 Tablets die Nutzung der S-pushTAN-App-Installation auf anderen Geräten ohne
 Neueinrichtung unmöglich macht.
 ###
-Kann ich erkennen, ob eine pushTAN ohne mein Mitwirken übertragen und genutzt
-wurde?
+Kann ich erkennen, ob eine pushTAN ohne mein Mitwirken übertragen und genutzt wurde?
 Ja, wenn Sie bei der Installation der S-pushTAN-App dem Erhalt von Push-Mitteilungen
 zugestimmt haben, erhalten Sie bei jedem erfolgreichen pushTAN-Abruf eine sogenannte
 Push-Mitteilung. Erhalten Sie eine solche Nachricht, ohne dass Sie selbst eine pushTAN
@@ -383,9 +364,7 @@ ausgeschlossen. Kontrollieren Sie über das Display immer sorgfältig die Angabe
 Beispiel zur Empfänger-Kontonummer/-IBAN sowie zum Betrag. Dann sind Sie auf der
 sicheren Seite.
 ###
-Welche Vorkehrungen sieht die pushTAN vor, damit Nutzer nicht per Social-
-Engineering-Angriff zur Freigabe von vermeintlich korrekten Transaktionen verleitet
-werden?
+Welche Vorkehrungen sieht die pushTAN vor, damit Nutzer nicht per Social-Engineering-Angriff zur Freigabe von vermeintlich korrekten Transaktionen verleitet werden?
 Die S-pushTAN-App zeigt Ihnen verschiedene Daten aus Ihrer Transaktion auf einer Seite
 an und lässt Sie diese durch Drücken von „AUFTRAG FREIGEBEN“ explizit bestätigen. Dies
 hat den Vorteil, dass die Daten nicht so einfach überlesen werden können.
