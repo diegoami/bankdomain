@@ -1,0 +1,78 @@
+
+###
+Kann ich mein paydirekt Konto mit mehreren Girokonten verbinden?
+
+Aktuell ist für jedes Girokonto, für das paydirekt freigeschaltet wird, ein separates paydirekt Konto mit eigenem Benutzernamen erforderlich. Dies gilt sowohl für Girokonten innerhalb einer Bank als auch für Girokonten bei unterschiedlichen Banken. Daher können Sie Ihr paydirekt Konto derzeit nicht mit mehreren Girokonten verbinden.
+###
+Wo kann ich meine Anmeldedaten einsehen/verändern?
+
+Ihren Benutzernamen und/oder Ihr Passwort können Sie nur in Ihrem Netbanking ändern.
+
+Im paydirekt Kundenportal werden dem Kunden nur der Benutzername und das ausgesternte Passwort angezeigt.
+
+###
+ Für welchen Zeitraum kann ich meine paydirekt Transaktionen einsehen?
+
+Sie sehen im paydirekt Kundenbereich oder in der App jederzeit Ihre Transaktionen ein. Ein Zeitrahmen ist dabei nicht gegeben.
+###
+ Wie kann ich eine neue E-Mail-Adresse in paydirekt hinterlegen?
+
+Ihre E-Mail-Adresse ändern Sie jederzeit im paydirekt Kundenbereich unter Ihren persönlichen Einstellungen oder im Netbanking.
+Um Ihre E-Mail-Adresse zu bestätigen, schickt Ihnen paydirekt eine Bestätigungs-E-Mail an Ihre neu hinterlegte E-Mail-Adresse. Verifizieren Sie diese durch klicken auf den Button ''Jetzt bestätigen''.
+
+Wurde Ihnen keine E-Mail zugestellt, prüfen Sie bitte folgende Optionen:
+
+    Ist die Nachricht in Ihrem Spam-Ordner gelandet?
+    Haben Sie Ihre E-Mail-Adresse im ersten Registrierungsprozess korrekt angegeben? Falls nicht, korrigieren Sie diese in Ihrem paydirekt Kundenbereich unter Ihren persönlichen Einstellungen. Nach der Korrektur erhalten Sie automatisch eine neue E-Mail zur Bestätigung zugesandt.
+
+Gegebenenfalls fordern Sie in Ihrem paydirekt Kundenbereich eine neue E-Mail an. Diese Option finden Sie unter "E-Mail-Adresse" in Ihren persönlichen Einstellungen.
+
+###
+ Informiert mich paydirekt über durchgeführte Transaktionen?
+
+Sie sehen im Netbanking Ihres Girokontos in der Umsatzabfrage oder auf Ihrem Kontoauszug jede paydirekt Transaktion.
+Nutzen Sie die App, erhalten Sie standardmäßig Benachrichtigungen, die Sie über Vorgänge auf Ihrem paydirekt Konto informieren.
+Außerdem steht Ihnen im paydirekt Kundenbereich unter Ihren persönlichen Einstellungen die Option, künftig per E-Mail informiert zu werden, zur Verfügung.
+###
+ Wieso erhalte ich keine Transaktionsbenachrichtigungen?
+
+Wenn Sie keine Transaktionsbenachrichtigungen erhalten, prüfen Sie bitte, ob Ihre hinterlegte E-Mail-Adresse noch aktuell ist. Diese sehen Sie in Ihrem paydirekt Kundenbereich unter Ihren persönlichen Einstellungen.
+
+
+Möglicherweise sind Ihre Transaktionsbenachrichtigungen versehentlich in Ihrem Spam-Ordner gelandet.
+
+Überprüfen Sie bitte auch, falls Sie die paydirekt App auf Ihrem internetfähigen Smartphone installiert haben, ob in Ihren Smartphone-Einstellungen der Empfang von Mitteilungen aktiviert ist.
+
+###
+ Kann ich als Benutzername auch meine E-Mail-Adresse verwenden?
+
+Ja, die Verwendung Ihrer E-Mail-Adresse als Benutzername ist möglich.
+###
+ Wie kann ich mein paydirekt Konto abmelden?
+
+Eine Abmeldung Ihres paydirekt Kontos veranlassen Sie im Service-Center Ihres Netbankings der Sparda-Bank. Wenden Sie sich bei Fragen zur Abmeldung bitte direkt an diese.
+
+Hinweise:
+
+    Eine Abmeldung von paydirekt ist nur dann möglich, wenn keine Teilbuchungen oder Vorbestellungen offen sind und keine offenen Transaktionen vorliegen.
+    Eine weitere Nutzung von paydirekt oder ein Zugriff auf Ihr paydirekt Konto ist nach Ihrer Abmeldung nicht mehr möglich.
+    Eine neue erste Registrierung ist jederzeit wieder möglich
+
+###
+ Was bedeutet "Immer Freigabeverfahren (z.B. TAN) verwenden"?
+
+Wird bei der Registrierung das Merkmal ''Immer Freigabeverfahren (z.B. TAN) verwenden'' ausgewählt, wird bei jeder Transaktion ein zusätzliches Sicherheitskriterium (TAN) abgefragt.
+###
+ Warum kann ich meinen paydirekt-Zugang nicht löschen?
+
+Eine Löschung Ihres Zugangs ist nur möglich, wenn alle Transaktionen oder Klärungen abgeschlossen sind. Eventuell sind noch Vorgänge offen.
+###
+ Wie kann ich mein Referenzkonto ändern?
+
+Ihr Referenzkonto ändern Sie im Netbanking.
+Rufen Sie dort das Service-Center auf. Unter dem Menüpunkt "paydirekt" ändern Sie das Referenzkonto.
+###
+ Darf im Feld "Straße" auch meine Hausnummer stehen?
+
+In Einzelfällen der Registrierung kann bei Besonderheiten in der Adresse die Hausnummer im Feld Straße vorbelegt sein.  Eine Änderung der Daten ist für eine Transaktion nicht zwingend erforderlich. Bei Nutzung von paydirekt-Express (übergibt die Lieferadresse) stellt es aber eine Erleichterung für den Händler dar, wenn die Adresse schon entsprechend, d.h. z.B. bei der Registrierung, korrigiert wird.
+###

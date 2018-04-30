@@ -1,0 +1,47 @@
+###
+Was ist PSD2?
+
+PSD2 sind die neue Richtlinien für den Zahlungsverkehr in der EU, die im Jahr 2015 eingeführt wurden.
+
+###
+Wer ist von PSD2 betroffen und wann wird es umgesetzt?
+
+Die neuen gesetzlichen Bestimmungen für die Erbringung von Zahlungsdiensten in Europa (PSD2) treten zum 13. Januar 2018 in Kraft. Sie gelten für alle Banken und Zahlungsanbieter innerhalb des Europäischen Wirtschaftsraums (EWR). Ihr Ziel ist es, den Zahlungsverkehr für Kunden sicherer zu machen, den Verbraucherschutz zu stärken und Innovation und Wettbewerb zu fördern.
+###
+
+Wie verbessert PSD2 meine Sicherheit?
+
+Die Novelle zielt darauf ab, das Betrugsrisiko bei elektronischen Zahlungen zu minimieren und den Schutz sensibler, finanzieller Kundendaten durch eine weitaus komplexere Kundenauthentifizierung zu erhöhen.
+
+Alle Marktteilnehmer, inklusive der neuen Anbieter von Zahlungsdiensten, werden verbesserte Sicherheitsstandards einsetzen. PSD2 spezifiziert einige Anforderungen, die nicht vor Januar 2018 umgesetzt werden können, wie die technischen Regulierungsstandards (RTS) für eine starke und Kundenauthentifizierung und eine sichere Kommunikation.
+###
+
+Wie verbessert PSD2 den Verbraucherschutz?
+
+Der Verbraucherschutz wird durch PSD2 deutlich verbessert. Unter PSD2 werden Gebühren für Kunden reduziert. Die Haftungsgrenze für Verbraucher sinkt von 150€ auf 50€, bei widerrechtlicher Verwendung des Zahlungsmittels aufgrund von Verlust, Diebstahl oder Missbrauch. Bei Vorsatz oder grober Fahrlässigkeit ist die Haftung auch künftig nicht beschränkt.
+
+Aktuell bieten Banken bei nicht autorisierten Zahlungen eine Frist von 13 Monaten an, um Rechtsansprüche auf Rückerstattung geltend zu machen. Im Zuge von PSD2 werden durch Drittanbieter veranlasste Zahlungen ebenfalls berücksichtigt.
+###
+
+Welche Fristen müssen Banken bei Beschwerden über Zuwiderhandlungen gegen PSD2 einhalten?
+
+Banken sind verpflichtet, innerhalb von 15 Werktagen auf Beschwerden über Verstößen gegen die Richtlinien von PSD2 zu reagieren. Liegen Gründe vor, die außerhalb der Kontrolle der Bank liegen um fristgerecht innerhalb der 15 Werktage zu antworten, kann der Zeitrahmen auf bis zu 35 Werktage verlängert werden.
+
+Kunden können zudem Beschwerde beim maltesischen Office of Arbiter of Financial Services einlegen und um alternative Streitschlichtung bitten.
+###
+
+Wie wirkt sich PSD2 auf zusätzliche Gebühren aus?
+
+PSD2 verbietet die Erhebung zusätzlicher Gebühren bei allen elektronischen Zahlungsmitteln. Dies bedeutet, Händler können von Nutzern elektronischer Zahlungsmitteln, wie z.B. einer Kreditkarte, keine Zuschläge verlangen.
+
+Bei Zahlungsvorgängen, bei denen beide, sowohl der Auftraggeber als auch das Konto des Begünstigten, innerhalb eines Mitgliedlandes des EWR ansässig sind, wird eine Entgeltteilung (Shared) angewendet, wonach Einzahler und Zahlungsempfänger jeweils die von ihrem Bankinstitut erhobenen Entgelte tragen.Die Europäische Bankenaufsicht (EBA) hat das Mandat erhalten, etliche Maßnahmen aus PSD2 zu realisieren. Diese Vorkehrungen umfassen die Entwicklung technischer Regulierungsstandards (RTS) und Leitlinien.
+###
+
+Was ist eine Transaktion mit Drittanbietern (TPP) und wann erfolgt ihre Umsetzung?
+
+Durch PSD2 werden neue Anbieter von Zahlungsdiensten, sogenannte Transaktionen mit Drittanbietern (TTP), zugelassen. Diese können, sofern der Kunde zustimmt, direkten Zugriff auf das Bankkonto des Kunden erhalten. Aktuell ist das Verfahren nicht umgesetzt. Sobald es eingeführt wird, informieren wir alle Kunden über die notwendigen Anforderungen um es nutzen zu können.
+
+Die Europäische Bankenaufsicht (EBA) hat das Mandat erhalten, etliche Maßnahmen aus PSD2 zu realisieren. Diese Vorkehrungen umfassen die Entwicklung technischer Regulierungsstandards (RTS) und Leitlinien.
+
+Einige Vorgaben aus PSD2 können nicht bis Januar 2018 umgesetzt werden, wie die Anwendung von RTS für starke Kundenauthentifizierung und gemeinsame und sicherer Kommunikation. Durch PSD2 werden neue Anbieter von Zahlungsdiensten, sogenannte Transaktionen mit Drittanbietern (TTP), zugelassen. Diese können, sofern der Kunde zustimmt, direkten Zugriff auf das Bankkonto des Kunden erhalten. Aktuell ist das Verfahren nicht umgesetzt. Sobald es eingeführt wird, informieren wir alle Kunden über die notwendigen Anforderungen um es nutzen zu können.
+###

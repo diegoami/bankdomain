@@ -1,0 +1,58 @@
+###
+Welche Möglichkeiten bietet das Online-Banking?
+
+Online-Filiale:
+Sie können Ihre Renault Bank direkt Konten bequem in unserem Online-Banking-Bereich verwalten. Klicken Sie dazu einfach auf den Login-Button oben rechts. Dort können Sie die gesamte Kontoführung, wie Auszahlungen, Änderung Ihrer persönlichen Daten etc. direkt online vornehmen. Zu Ihrer Sicherheit werden Sie bei jeder Transaktion zur Bestätigung per TAN aufgefordert.
+
+Mobile-Banking:
+Mit Mobile-Banking können Sie jederzeit und von jedem Ort mit Ihrem Mobilgerät auf Ihr Online-Banking zugreifen. Rufen Sie dazu die Webseite der Renault Bank direkt über den Browser Ihres Mobilgeräts auf. Vollumfängliches Mobile-Banking setzt die Verwendung von RBd SecureSIGN voraus. Weitere Informationen zum Mobile-Banking finden Sie hier.
+
+FIN TS / HBCI:
+Zusätzlich zu unserem Online-Banking-Bereich können Sie Ihre Konten auch kostenfrei mit einer Finanzsoftware einsehen. Die Renault Bank direkt nutzt HBCI mit PIN/TAN in der Version FinTS 3.0.
+Zum Login in Ihrer Finanzsoftware benötigen Sie die gleichen Daten, wie in Ihrer Online-Filiale.
+
+Benutzerkennung:
+Geben Sie hier Ihren Alias / User-Namen ein, den Sie auch für das Login in der Online-Filiale verwenden.
+
+Kunden-ID:
+Hier bitte nichts eingeben. Sie werden durch Ihren eindeutigen User-Namen identifiziert.
+
+PIN:
+Geben Sie hier Ihre PIN ein, die Sie auch für das Login in der Online-Filiale verwenden. Wir empfehlen Ihnen Ihre PIN nicht zu speichern, sondern zu Ihrer eigenen Sicherheit jedesmal einzugeben.
+
+Referenzkonto:
+Sie können jederzeit einsehen, welches Referenzkonto zu Ihrem Konto bei der Renault Bank direkt hinterlegt ist. Klicken Sie hierfür auf den Menüpunkt "SEPA-Überweisung". Dort ist das hinterlegte Referenzkonto in der Überweisung vorbelegt.
+
+BITTE BEACHTEN SIE:
+Aktuell sind lediglich Ansichtsfunktionen per HBCI möglich. Bitte nutzen Sie für Überweisungen oder Einstellungen an Ihren Konten oder in Ihren persönlichen Daten Ihre Online-Filiale.
+
+###
+Wie läuft das TAN-Verfahren?
+
+Um das Online-Banking so sicher wie möglich zu gestalten, nutzen wir bei der Renault Bank direkt TAN-Verfahren für Transaktionen. Wenn Sie eine Transaktion starten, wie zum Beispiel eine Überweisung oder eine Änderung Ihrer PIN, müssen Sie diese Aktion anschließend durch die Eingabe einer TAN bestätigen. Bei der Renault Bank direkt haben Sie die Wahl zwischen dem mobile TAN-Verfahren und der App RBd SecureSIGN.
+
+Ausführliche Informationen zu den Verfahren erhalten Sie auf der separaten Seite zu beiden TAN-Verfahren.
+
+###
+Was sind die technische Voraussetzungen für das Online-Banking?
+
+Um das Online-Banking der Renault Bank direkt zu nutzen, benötigen Sie einen beliebigen PC oder Laptop mit Internetzugang sowie einen aktuellen Browser. Sie können jeden Browser für Ihr Internet-Banking nutzen (z.B. Internet Explorer, Firefox oder Google Chrome). Wir unterstützen für unseren Online-Banking-Bereich jedoch zu Ihrer Sicherheit lediglich die aktuellsten Versionen.  Ein Update auf die aktuellste Version Ihres Browsers können Sie jederzeit auf der Herstellerseite durchführen.
+
+Mit RBd SecureSIGN können Sie TAN-pflichtige Transaktionen im Online-Banking auf Ihrem Smartphone oder Tablet nutzen.
+###
+
+
+Wann kommt zu einer Sperrung des eigenen Online-Zugangs?
+
+Der Zugang zu Ihrem Online-Banking wird gesperrt, wenn Sie dreimal hintereinander eine falsche PIN oder TAN eingegeben haben. Wenn Sie sich deshalb, oder weil Sie Ihre Zugangsdaten vergessen haben, nicht einloggen können, verwenden Sie bitte zur Entsperrung Ihres Zugangs das Online-Formular hier.
+
+Sobald wir Ihren Auftrag geprüft haben, erhalten Sie Ihre neue PIN aus Sicherheitsgründen per Post. Ihren neuen Alias erhalten Sie per E-Mail.
+
+Sollten Sie Ihren Zugang bewusst sperren wollen, zum Beispiel weil Sie fürchten, eine dritte Person könnte an Ihre Zugangsdaten gelangt sein, so wenden Sie sich bitte an unser Kunden Service Center unter der 02131- 40 10 40.
+###
+Ich habe meine Zugangsdaten vergessen
+
+Wenn Sie Ihre Zugangsdaten vergessen haben, nutzen Sie bitte unser Online-Formular: "Entsperrung des Online-Zugangs".
+
+Sobald wir Ihren Auftrag geprüft haben, erhalten Sie Ihre neue PIN aus Sicherheitsgründen per Post. Ihren neuen Alias erhalten Sie per E-Mail.
+###

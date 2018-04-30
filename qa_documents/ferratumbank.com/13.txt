@@ -1,0 +1,33 @@
+###
+Was ist eine TIN?
+
+Eine TIN (Tax Information ID) ist Deine individuelle Steuer-Identifikationsnummer, eine einmalige elfstellige Zahl. Sie begleitet Dich ein Leben lang und wird mit der Geburt vergeben.
+###
+Wo finde ich meine Steuer-Identifikationsnummer (TIN)?
+
+Du findest Deine Steuer-Identifikationsnummer z.B. auf Deiner Lohnsteuerkarte und auf Deinem Steuerbescheid.
+###
+Warum muss ich meine Steuer-Identifikationsnummer angeben?
+
+Die weltweiten Regierungen arbeiten an einem automatischen Standard zum Informationsaustausch (AEoI) zwischen den Steuerbehörden bestimmter Länder. Diese Anforderung ist als Common Reporting Standard (CRS) bekannt und als weltweites Mittel im Kampf gegen Steuerhinterziehung anerkannt. Bis heute haben sich mehr als 100 Länder, Malta eingeschlossen, dazu verpflichtet, den CRS Standard anzuwenden. Als maltesische Bank erteilt die FerratumBank nach diesen Standards die gewünschten Auskünfte an Steuerbehörden.
+
+Um den CRS Standard zu erfüllen, verlangen die beteiligten, rechtlichen Zuständigkeiten verschiedene Kundenauskünfte von ihren Finanzdienstleistern und teilen diese Daten auf jährlicher Basis mit anderen teilnehmenden Zuständigkeiten. Diese Informationen werden im Rahmen von CRS benötigt, um den jeweiligen Steuerstatus von Bankkunden in anderen Ländern ermitteln zu können.
+
+Die TIN Nummer erteilt uns als Bank Auskunft darüber, ob ein Kunde eventuell, in einem an der Einhaltung des CRS-Standard beteiligten Landes, steuerpflichtig ist.
+###
+Welche meiner Informationen werden mit den Steuerbehörden geteilt?
+
+CRS verlangt, dass die FerratumBank die Kunden identifiziert, die in einem anderen Land steuerpflichtig sind aber ihr Konto außerhalb des steuerpflichtigen Wohnsitzes führen, um diese Kunden bei Bedarf an die rechtlichen Zuständigkeiten melden zu können.
+
+Um dies durchführen zu können, sind wir verpflichtet, gewisse Informationen der betreffenden Personen und ihrer entsprechenden Konten zu erfragen und bei den entsprechenden lokalen Steuerbehörden zu melden. Darum kannst Du die Eingabe Deiner PIN bei der Beantragung zwar überspringen, aber es ist eine zwingend erforderliche Information, die wir zur Führung Deines Kontos benötigen und die darum innerhalb einer bestimmten Frist eingereicht werden muss.
+###
+Werden Steuern von meinen Zinserträgen beim Sparkonto und Festgeld abgeführt oder einbehalten?
+
+Momentan werden keine Steuern von den Erträgen Deines Sparkontos und Deines Festgeldkontos einbehalten oder abgeführt.
+###
+Muss ich in meiner Steuererklärung Angaben zu meinen Zinserträgen machen?
+
+Abhängig von Deinem Wohnort kann es erforderlich sein, dass Du Deine lokale Steuerbehörde über Zinserträge auf Deinem Konto / Deinen Konten der FerratumBank informieren musst.
+
+Hier ein wichtiger Hinweis: Die FerratumBank ist nicht dazu befugt und befähigt, ihre Kunden in Steuerfragen zu beraten. Wende Dich bitte an einen Steuerberater, um Dich bezüglich Deiner Steuerverpflichtungen aufklären und beraten zu lassen.
+###

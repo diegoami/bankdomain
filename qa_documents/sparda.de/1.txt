@@ -1,0 +1,83 @@
+###
+Nimmt meine Bank an paydirekt teil?
+
+Alle Sparda-Banken nehmen an paydirekt teil. Zur Registrierung bei Ihrer Sparda-Bank kommen Sie hier.
+###
+Kann ich paydirekt auch ohne Wohnsitz in Deutschland verwenden?
+
+Eine Registrierung bei paydirekt ist ohne Wohnsitz in Deutschland möglich, wenn Sie über ein Girokonto mit Netbanking Zugang bei Ihrer Sparda-Bank verfügen.
+###
+ Wie registriere ich mich für paydirekt?
+
+Sie benötigen, um sich für paydirekt zu registrieren, ein Girokonto bei Ihrer Sparda-Bank mit Netbanking Zugang sowie eine E-Mail-Adresse.
+Nachdem Sie Ihre Bank über unsere Bankensuche gefunden haben, klicken Sie bitte auf das entsprechende Logo. Sie werden nun zur Website weitergeleitet. Loggen Sie sich in Ihrem SpardaNet-Banking ein, um die Registrierung zu starten.
+Nach Abschluss des Registrierungsprozesses erhalten Sie zur Aktivierung eine E-Mail an die von Ihnen angegebene E-Mail-Adresse. Bestätigen Sie diese über den Button ''Jetzt bestätigen''. Danach sind Sie für den Service freigeschaltet.
+
+Wurde Ihnen keine E-Mail zugestellt, prüfen Sie bitte folgende Optionen:
+
+    Ist die Nachricht in Ihrem Spam-Ordner gelandet?
+    Haben Sie Ihre E-Mail-Adresse im Registrierungsprozess korrekt angegeben? Falls nicht, korrigieren Sie diese in Ihrem paydirekt Kundenbereich unter Ihren persönlichen Einstellungen. Nach der Korrektur erhalten Sie automatisch eine neue E-Mail zur Bestätigung zugesandt.
+
+Gegebenenfalls fordern Sie in Ihrem paydirekt Kundenbereich eine neue E-Mail an. Diese Option finden Sie unter ''E-Mail-Adresse'' in Ihren persönlichen Einstellungen.
+
+###
+Wie kann ich ein weiteres paydirekt Konto in meiner paydirekt App anlegen?
+
+Navigieren Sie hierzu innerhalb Ihrer paydirekt App in den Bereich ''Konten''.
+Um ein weiteres paydirekt Konto mit Ihrer paydirekt App zu verbinden, klicken Sie bitte auf ''Bearbeiten'' und dann auf ''Konto hinzufügen''.
+Sie müssen sich nun einmalig mit Ihrem zusätzlichen paydirekt Konto in die paydirekt App einloggen.
+###
+Wie registriere ich mich als Minderjähriger (14 bis 18 Jahre) für paydirekt?
+
+Im Netbanking Ihres Girokontos ist unter dem Bereich ''Service-Center'' der Menüpunkt ''paydirekt'' hinterlegt. Drucken Sie dort bitte das Formular ''Zustimmung gesetzlicher Vertreter'' aus und senden es ausgefüllt, von Ihren gesetzlichen Vertretern unterschrieben, an Ihre Sparda-Bank.
+Nach der Freischaltung durch einen Bankmitarbeiter ist eine Registrierung möglich.
+###
+Wieso kann ich den ausgewählten Benutzernamen nicht verwenden?
+
+Jeder Benutzername kann nur ein Mal vergeben werden.
+Ist der von Ihnen ausgewählte Benutzername durch einen anderen paydirekt-Nutzer belegt, suchen Sie sich bitte einen anderen Namen aus.
+###
+ Wieso habe ich keine Bestätigungs-E-Mail mit Registrierungslink erhalten?
+
+Wurde Ihnen keine Bestätigungs-E-Mail zugestellt, prüfen Sie bitte folgende Optionen:
+
+    Ist die Nachricht in Ihrem Spam-Ordner gelandet?
+    Haben Sie Ihre E-Mail-Adresse im Registrierungsprozess korrekt angegeben? Falls nicht, korrigieren Sie diese in Ihrem paydirekt Kundenbereich unter Ihren persönlichen Einstellungen. Nach der Korrektur erhalten Sie automatisch eine neue E-Mail zur Bestätigung zugesandt.
+
+Gegebenenfalls fordern Sie in Ihrem paydirekt Kundenbereich eine neue E-Mail an. Diese Option finden Sie unter E-Mail-Adresse in Ihren persönlichen Einstellungen.
+
+###
+ Wie registriere ich einen Bevollmächtigten für paydirekt?
+
+Ihr/e Bevollmächtigte/r meldet sich mit den eigenen Zugangsdaten im Netbanking  an und startet dort den Registrierungsprozess.
+Jeder Netbanking-User mit Girokonto-Bevollmächtigung kann für dieses Konto ein paydirekt-Konto anlegen.
+###
+ Warum ist nach Abbruch der Registrierung der Benutzername vergeben?
+
+Ein Benutzername wird für 15 Minuten reserviert.
+Warten Sie bitte diese Zeit ab und starten dann erneut mit der Eingabe.
+###
+ Welche Konten kann ich als Referenzkonto übernehmen?
+
+Als Abrechnungskonto muss zwingend ein Girokonto hinterlegt werden.
+###
+ Wieso kann ich das von mir ausgesuchte Passwort nicht verwenden?
+
+Ihr Passwort muss folgenden Kriterien entsprechen:
+
+    Mindestens 8 Zeichen
+    Maximal 20 Zeichen
+    Abdeckung von 4 Zeichenrubriken (Großbuchstaben, Kleinbuchstaben, Ziffern, Sonderzeichen)
+    Buchstaben, Ziffern und folgende Sonderzeichen sind erlaubt:
+    @ # $ % A& - _ ? !
+
+###
+Kann ein gelöschter Account reaktiviert werden?
+
+Haben Sie Ihren Zugang gelöscht, kann dieser nicht reaktiviert werden.
+Bitte führen Sie den Registrierungsprozess in Ihrem SpardaNet-Banking erneut durch.
+###
+ Ab wann kann ich nach der Registrierung mit paydirekt bezahlen?
+
+Nach vollständiger Registrierung (d.h. nach Aktivierung über den Link in der Bestätigungsmail) können Sie sofort mit paydirekt bezahlen.
+###

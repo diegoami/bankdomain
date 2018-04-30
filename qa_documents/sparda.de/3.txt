@@ -1,0 +1,82 @@
+
+###
+ Kann ich eine über paydirekt abgewickelte (Teil-)Bestellung stornieren?
+
+Nein. Bitte setzen Sie sich mit Ihrem Händler in Verbindung, um eine Bestellung zu stornieren.
+###
+ Wieso habe ich trotz Retoure noch keine Rückzahlung erhalten?
+
+Wenn Sie eine Bestellung zurückgesandt haben, wird der Händler Ihre Rückzahlung im Regelfall innerhalb weniger Tage veranlassen.
+Bei Rückfragen wenden Sie sich bitte direkt an Ihren Händler.
+###
+ Wieso bekomme ich trotz Bezahlung keine Ware?
+
+Sollten Sie eine Ihrer Bestellungen einmal nicht erhalten und bereits erfolglos mit Ihrem Händler bzgl. Ihres Anliegens in Kontakt getreten sein, haben Sie die Möglichkeit, Ihr Problem über Ihr paydirekt Konto zu melden.
+
+Navigieren Sie hierzu in die Detailansicht der betreffenden Transaktion und wählen Sie unter den Auswahlmöglichkeiten das Problem ''Keine Ware erhalten'' aus. Sofern Ihre Bestellung in mehreren Teilbuchungen abgewickelt wurde, haben Sie auch die Möglichkeit, Ihr Problem nur für einen Teilbetrag Ihrer Bestellung zu melden.
+
+paydirekt wird Ihr Anliegen bearbeiten und zur Klärung des Falls mit Ihrem Händler Kontakt aufnehmen.
+
+###
+ Was muss ich tun, wenn ein Betrag falsch oder mehrfach abgebucht wurde?
+
+Bemerken Sie eine fehlerhafte Buchung, melden Sie diese bitte über Ihr paydirekt Konto.
+Navigieren Sie hierzu in die Detailansicht der betreffenden Transaktion und wählen Sie unter den Auswahlmöglichkeiten das Problem ''Der Betrag ist nicht richtig oder wurde mehrfach abgebucht'' aus.
+###
+ Wann erhält der Händler meine Zahlung?
+
+Der Händler erhält bei einer erfolgreichen Transaktion direkt eine Zahlungsbestätigung von paydirekt und kann Ihre Bestellung umgehend bearbeiten.
+###
+ Wer hat Zugriff auf meine Daten und wo werden diese gespeichert?
+
+Ihre Kontodaten bleiben ausschließlich bei Ihrer Bank, sie werden nicht an den Händler weitergegeben. Der Zahlungsverkehr verläuft ausschließlich in Deutschland und nimmt keine außereuropäischen Umwege.
+Bei paydirekt werden Ihre Kontodaten sowie Ihre Lieferadresse geführt. Weiterhin hat paydirekt kein Interesse an Ihren Warenkorb-Informationen und wird diese weder analysieren noch verkaufen.
+Nicht zahlungszugehörige Daten können unter Umständen in Ihrem Benutzerprofil beim Händler gespeichert werden.
+###
+ Wie funktioniert paydirekt beim Einkaufen?
+
+Haben Sie paydirekt als Zahlmethode ausgewählt, loggen Sie sich mit Ihrem Benutzernamen und Passwort ein.
+Bitte prüfen Sie die Kaufsumme sowie die Lieferadresse und bestätigen dann den Kauf. Der Betrag wird Ihrem Girokonto umgehend belastet, sodass die Ware schnellstmöglich vom Händler für den Versand vorbereitet werden kann.
+###
+ Kann ich mehrere Lieferadressen hinterlegen?
+
+Ja, über Ihren paydirekt Zugang oder die App ist die Hinterlegung mehrerer Lieferadressen möglich.
+###
+ An welche Versandadresse wird meine Bestellung verschickt?
+
+Sobald Sie im Bezahlvorgang eine abweichende Lieferadresse angeben, wird diese als Versandadresse verwendet.
+###
+ Wo kann ich meine Lieferadresse ändern?
+
+Eine Änderung der Lieferadresse führen Sie über www.paydirekt.de oder in der paydirekt App durch.
+###
+ Gibt es eine Höchstgrenze bei der Bezahlung mit paydirekt?
+
+Sie haben seitens paydirekt die Möglichkeit, Zahlungen bis zu einer Höchstgrenze von 50.000,- Euro abzuwickeln. Bitte beachten Sie, dass neben den von der Bank für paydirekt hinterlegten Limits auch der persönliche Verfügungsrahmen Ihres Kontos abgefragt wird.
+###
+ Kann ich mit Fremdwährungen bezahlen?
+
+Nein, aktuell wickeln Sie Bestellungen ausschließlich in der Währung "Euro" ab.
+###
+ Wann wird das Geld von meinem Konto abgebucht?
+
+Ihr Händler entscheidet, wann das Geld Ihrem Girokonto belastet wird.
+###
+ Kann ich meine Ware auch an Packstationen liefern lassen?
+
+Bei der Speicherung der Adresse und der Stammdaten vermerken Sie ''An Packstation versenden''. Statt des Adresszusatzes, der Straße und der Hausnummer werden im weiteren Verlauf die Postnummer bzw. die Nummer der Packstation abgefragt.
+###
+ Können zwei paydirekt-Konten auf ein Referenzkonto verweisen?
+
+Ja, bei den Sparda-Banken ist dies möglich. Dies muss bei anderen Banken jedoch nicht so umgesetzt sein.
+###
+ An wen wende ich mich, wenn die Ware mangelbehaftet ist?
+
+Sie haben ein Buch erhalten statt der bestellten Schuhe? Der Reißverschluss des zugesandten Kleides ist defekt?
+Bitte loggen Sie sich in den Kundenbereich unter paydirekt.de ein und wählen Sie innerhalb der entsprechenden Bestellung die Funktion "Problem melden" --> "falsche oder mangelhafte Ware erhalten".
+Wir setzen uns umgehend mit dem Händler zur Klärung Ihres Anliegens in Verbindung.
+###
+ Wie wird meine TAN von paydirekt verarbeitet?
+
+Die Durchführung einer Transaktion unter Verwendung einer TAN erfolgt in Ihrem Netbanking der Sparda-Bank. Paydirekt verarbeitet diese TAN nicht. Dies wird durch eine entsprechende Weiterleitung gewährleistet. Sie können das am Link in Ihrem Browser erkennen.
+###

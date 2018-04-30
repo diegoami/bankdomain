@@ -1,0 +1,103 @@
+###
+Wie stelle ich einen Kontoeröffnungsantrag
+
+ Die Kontoeröffnung erfolgt einfach online. Klicken Sie dazu auf Konto eröffnen und geben Sie dort Ihre Daten und in dem dafür vorgesehenen Feld eine selbstgewählte Erst-PIN ein. Sie erhalten eine E-Mail mit einem Link zu Ihren Kontoeröffnungsunterlagen. Laden Sie den Antrag herunter und überprüfen anschließend alle Angaben noch einmal. Der Antrag ist für Ihre Unterlagen und muss NICHT an uns übermittelt werden. Entscheiden Sie nun, ob Sie sich per VIDEOIDENT- oder POSTIDENT-Verfahren identifizieren möchten. Nähere Informationen zu den beiden Identifikationsverfahren erhalten Sie hier.
+
+                     Wenige Tage später erhalten Sie von uns eine E-Mail mit einer kurzen Anleitung zum Erstlogin und einen von uns festgelegten User-Namen / Alias, mit denen Sie sich hier anmelden können. Die PIN zum erstmaligen Login haben Sie selbst in der Kontoeröffnungsstrecke vergeben. Außerdem bekommen Sie eine Bestätigung per SMS, dass das mobile TAN-Verfahren für Sie freigeschaltet wurde. Bitte überprüfen Sie auch Ihren Spam-Ordner, falls Sie die SMS bereits erhalten haben und in Ihrem Posteingang noch keine E-Mail von uns finden. Nun können Sie Ihr Konto und das Online-Banking der Renault Bank direkt nutzen.
+
+                     Sollten Sie innerhalb von einer Woche keine Nachricht von uns erhalten oder nur einen Teil der Zugangsdaten (SMS oder E-Mail), so nutzen Sie unser kostenloses Online-Formular "Probleme mit Erstlogin".
+
+                     Wenn Sie bereits Kunde sind, können Sie ein zusätzliches Renault Bank direkt-Konto direkt in Ihrem Online-Bereich eröffnen. Der Vorteil für Sie: Sie müssen nicht noch einmal alle Daten absenden und auch kein Identifikationsverfahren durchführen. Loggen Sie sich dazu hier ein und klicken Sie auf den Menüpunkt "Produktangebote". Wählen Sie dort das gewünschte Produkt aus und bestätigen Sie die Eröffnung des neuen Kontos per mobile TAN.
+
+###
+Wie läuft das Identifikationsverfahren?
+
+Die Renault Bank direkt hat keine eigenen Filialen. Um Sie zu Ihrer und unserer Sicherheit identifizieren zu können, nutzen wir zwei Arten der Legitimation: Das VIDEOIDENT- und das POSTIDENT-Verfahren.
+Ausführliche Informationen zu beiden Verfahren erhalten Sie auf der separaten Seite zu beiden Identifikationsverfahren.
+###
+Wie läuft das TAN-Verfahren?
+
+Sobald Sie sich legitimiert haben und wir Ihren kompletten Kontoeröffnungsantrag erhalten haben, bekommen Sie eine E-Mail mit einer kurzen Anleitung zum Erstlogin, sowie einen von uns festgelegten User-Namen / Alias und eine Bestätigung über die Freischaltung des mobile TAN-Verfahrens per SMS zugesendet.
+Wenn Sie sich nun mit diesen Zugangsdaten einloggen, werden Sie aufgefordert Ihre Erst-PIN zu ändern und diese Änderung mit Ihrer ersten mobilen TAN zu bestätigen. Weitere Informationen zur Erst-PIN finden Sie hier.
+Nun können Sie das mobile TAN-Verfahren im Rahmen Ihres Online-Bankings uneingeschränkt nutzen. Sind Sie einmal für das mobile TAN-Verfahren freigeschaltet, können Sie jederzeit auf RBd SecureSIGN wechseln. Weitere Informationen zu den TAN-Verfahren finden Sie hier.
+
+Sollten Sie innerhalb von einer Woche keine Nachricht von uns erhalten oder nur einen Teil der Zugangsdaten (SMS oder E-Mail), so nutzen Sie unser kostenloses Online-Formular "Probleme mit Erstlogin".
+
+###
+Wie führe ich mein Erstmaliges Login aus?
+
+Sobald Sie sich legitimiert haben, bekommen Sie eine E-Mail mit einer kurzen Anleitung zum Erstlogin, sowie einen von uns festgelegten User-Namen / Alias und eine Bestätigung über die Freischaltung des mobile TAN-Verfahrens per SMS zugesendet. Als PIN geben Sie bitte die von Ihnen bei der Kontoeröffnung selbst vergebene Erst-PIN ein.
+
+Bitte beachten Sie, dass Ihr Erstlogin aus Sicherheitsgründen nicht von einem mobilen Endgerät (Smartphone, Tablet etc.) möglich ist.
+
+Wenn Sie sich nun mit diesen Zugangsdaten am PC einloggen, werden Sie aufgefordert Ihre Erst-PIN und Ihren Nutzernamen/Alias zu ändern. Die PIN-Änderung sowie die Änderung des User-Names sind dabei per mobile TAN zu bestätigen. Weitere Informationen zu PIN und Nutzername finden Sie hier.
+
+Mit erfolgreicher Änderung Ihrer Erst-PIN können Sie das Online-Banking der Renault Bank direkt uneingeschränkt nutzen - Nach Umstellung auf das TAN-Verfahren SecureSIGN auch mobil.
+
+Sollten Sie innerhalb von einer Woche keine Nachricht von uns erhalten oder nur einen Teil der Zugangsdaten (SMS oder E-Mail), so nutzen Sie unser kostenloses Online-Formular"Probleme mit Erstlogin".
+###
+Kann ich ein Gemeinschaftskonto eröffnen?
+
+Sie können bei der Renault Bank direkt zwei Arten von Konten eröffnen. Ein Einzelkonto für Sie alleine oder ein Gemeinschaftskonto für zwei Personen.
+Ein Gemeinschaftskonto können Sie mit jeder beliebigen Person eröffnen. Sie müssen dazu nicht verheiratet sein oder mit dieser Person in einer Lebensgemeinschaft leben.
+
+Bei der Nutzung eines Gemeinschaftskontos erhält jeder Inhaber sein eigenes Login und kann per Online-Banking alleine über das Guthaben verfügen.
+
+Bitte beachten Sie: Bei Eröffnung eines Gemeinschaftskontos können beide Inhaber unabhängig von einander das VIDEOIDENT- oder POSTIDENT-Verfahren durchführen, um sich zu identifizieren. Hierbei kann jeder Inhaber für sich entscheiden, welches Verfahren er bevorzugt.
+
+Ein Freistellungsauftrag für ein Gemeinschaftskonto ist nur möglich, wenn beide Kontoinhaber gemeinsam veranlagt werden.
+###
+Wo finde ich Informationen zum Widerruf der Kontoeröffnung?
+
+
+Die Informationen zum Widerruf der Kontoeröffnung finden Sie im Dokument: "Vorvertragliche Informationen zum Fernabsatz" auf dieser Seite.
+
+###
+
+Benötige ich ein Referenzkonto, um ein Konto bei der Renault Bank zu nutzen ?
+
+Um ein Konto bei der Renault Bank direkt zu nutzen, benötigen Sie ein deutsches Referenzkonto.
+
+Tagesgeld:
+Alle Auszahlungen von Ihrem Tagesgeldkonto erfolgen immer automatisch auf Ihr Referenzkonto. In der Regel wird dazu Ihr Girokonto bei Ihrer Hausbank genutzt. Dies ist eine zusätzliche Sicherheit für Sie, da damit Fehlüberweisungen ausgeschlossen sind.
+Einzahlungen auf Ihr Tagesgeldkonto können Sie selbstverständlich von jedem Konto vornehmen.
+
+Festgeld:
+Wenn Sie ein Festgeldkonto bei der Renault Bank direkt eröffnen, wird für Sie automatisch ein kostenloses Tagesgeldkonto angelegt. Als Referenzkonto des Tagesgeldes wird das gleiche Konto genutzt, das Sie bei der Kontoeröffnung für die Lastschrift des Anlagebetrags angeben. Dieses können Sie jederzeit mit dem Formular ÄNDERUNG REFERENZKONTO ändern lassen, welches Sie im Formularcenter auf unserer Homepage finden.
+Alle Auszahlungen, wie zum Beispiel die Zinsen am Ende des Jahres oder der Anlagebetrag  bei  Fälligkeit, erfolgen immer auf Ihr Renault Bank direkt Tagesgeldkonto. So wird Ihr Geld auch nach Fälligkeit zu attraktiven Zinssätzen weiter verzinst und Sie können sich in Ruhe nach neuen Anlagemöglichkeiten umsehen.
+###
+Was sidn Alias und (Erst-)PIN ?
+
+ERST-PIN
+Die Erst-PIN benötigen Sie zum erstmaligen Login in Ihren Online-Banking-Bereich. Diese Erst-PIN vergeben Sie selbst in der Kontoeröffnungsstrecke unter dem Abschnitt "Vergabe Erst-PIN".
+
+Bitte beachten Sie Folgendes:
+
+    Die Erst-PIN gilt nur für den ersten Login. Danach werden Sie aufgefordert, eine neue, dauerhaft gültige PIN zu vergeben.
+    Die Erst-PIN muss zwischen 8 und 20 Stellen lang sein.
+    Merken Sie sich die Erst-PIN gut, da diese nicht erneut mitgeteilt wird.
+
+ Erlaubte Zeichen sind:
+
+    Große und kleine Buchstaben sowie Ziffern
+    Sonderzeichen ä, ö, ü, Ä, Ö. Ü, ß, - ! % & / = ? * + , . - ; : @
+
+PIN
+Nach Ihrem erstmaligen Login mit Ihrer Erst-PIN, werden Sie aufgefordert, eine neue, dauerhaft gültige PIN zu vergeben. Diese muss die gleichen Anforderungen wie die Erst-PIN erfüllen (siehe oben: Länge und erlaubte Zeichen). Im Gegensatz zu Ihrer Erst-PIN können Sie eine spätere Änderung Ihrer PIN in Ihrem Online-Banking-Bereich durchführen. Weiter Informationen finden Sie hier.
+
+Bitte beachten Sie:
+Sollten Sie bereits Kunde der Renault Bank direkt sein, müssen Sie keine neue Erst-PIN vergeben. Ihre aktuellen Zugangsdaten bleiben gültig. Eröffnen Sie als bestehender Kunde ein Gemeinschafskonto mit einem Nicht-Kunden, muss dieser dennoch eine Erst-PIN vergeben (siehe oben).
+
+ALIAS
+Direkt nach der PIN-Vergabe legen Sie einen selbstgewählen Usernamen / Alias fest. Diesen benötigen Sie zusammen mit Ihrer PIN, wenn Sie sich das nächste Mal in Ihr Online-Banking einloggen möchten. Auch diese Änderung müssen Sie mit einer TAN bestätigen.
+Erlaubte Zeichen zur Vergabe des Alias sind:
+
+    Großbuchstaben (A-Z)
+    Kleinbuchstaben (a-z)
+    Ziffern (0-9)
+    Zulässige Sonderzeichen - ! % & / = ? * + , . ; : _ @
+    Leerzeichen außer am Anfang und Ende des Alias
+
+Zur späteren Änderung Ihres Usernamen / Alias klicken Sie bitte im Menü "Service & Verwaltung" auf "User-Name verwalten".
+
+###

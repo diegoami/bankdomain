@@ -1,0 +1,15 @@
+###
+Mein Konto wurde gesperrt. Was kann ich tun?
+
+Wenn Dein Konto nach sechs oder mehr fehlgeschlagenen Eingaben Deiner Login-Daten gesperrt wurde, kontaktiere bitte unseren Kundenservice.
+###
+Wie viele Versuche habe ich, um mich in die Banking App einzuloggen?
+
+Du hast 3 Versuche hintereinander, um Dich in der Banking-App einzuloggen. Wenn Du ein falsches Passwort oder einen falschen Benutzernamen eingegeben hast, dann wird Dein Zugang vorübergehend für die nächsten 60 Minuten gesperrt. Danach hast Du wieder drei neue Versuche, um Dich einzuloggen. Schlagen diese Login-Versuche ebenfalls fehl, wird Dein Zugang aus Sicherheitsgründen dauerhaft gesperrt. Wende Dich dann bitte an unseren Kundenservice, um Dein Passwort zurücksetzen zu lassen.
+###
+Kann ich meine persönlichen Daten ändern?
+
+Ja. Du kannst Deine Adresse, Telefonnummer und E-Mail-Adresse im Menü unter “Einstellungen“ in der Ferratum Banking-App ändern.
+
+Wenn Du weitere Daten ändern möchtest, wende Dich bitte an unseren Kundenservice.
+###

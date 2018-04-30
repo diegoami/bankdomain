@@ -1,0 +1,27 @@
+###
+Wie ändere ich mein Passwort / meine PIN?
+
+Du kannst alle Änderungen direkt in Deiner Ferratum Banking App durchführen!
+
+· PIN zum Einloggen in die App ändern: Wähle im Menü den Punkt „Einstellungen“ aus und tippe unter „Geräteeinstellungen“ auf „PIN ändern“.
+
+· Passwort zum Aktivieren der App auf Deinem mobilen Gerät ändern: Wähle im Menü den Punkt „Einstellungen“ aus und tippe unter „Benutzerkonto Einstellungen“ auf „Passwort ändern“. Du hast Dein Passwort vergessen? Rufe den Kundenservice unter 0800 724235222 an. Dieser sendet Dir einen vorläufigen Code für die Freischaltung, den Du anschließend ändern musst.
+
+· PIN für die Ferratum MasterCard ändern: Wähle im Menü den Punkt „Karte“ aus und tippe auf das erste Symbol (mit dem Schloss) um Deine Karten PIN zu ändern.
+###
+Ich habe die PIN für meine Ferratum Karte vergessen
+
+Kein Problem. Über die Banking App kannst Du ganz einfach eine neue PIN für Deine Karte festlegen!
+
+Bitte beachte! Nach Änderung Deiner Karten PIN musst Du die neue PIN zunächst an einem Geldautomaten aktivieren! Deine neue PIN wird erstmalig aktiviert, sobald Du am Geldautomaten Deinen Kontostand prüfst oder Geld mit der Karte abhebst. Danach ist die PIN überall für Deine Karte einsetzbar.
+###
+Wie kann ich mich Einloggen, wenn ich die PIN dafür vergessen habe?
+
+Du hast Probleme beim Einloggen? Folge einfach diesen 3 Schritten:
+
+1. Wähle (oben links) im App Menü „Einstellungen“ aus und tippe auf „Gerät trennen“.
+
+2. Jetzt kannst Du Dich erneut einloggen und dabei Dein Passwort zur Aktivierung der App verwenden.
+
+3. Wähle eine neue PIN zum Einloggen aus.
+###

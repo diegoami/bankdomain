@@ -1,0 +1,107 @@
+###
+Ist Mobiles Banking mit der Ferratum App sicher?
+
+Mobiles Banking bei der FerratumBank ist stets sicher. Die FerratumBank gewährleistet die Sicherheit Deiner persönlichen, finanziellen Daten nach allgemein anerkannten Sicherheitsstandards. Deine Informationen sind so bei der Kommunikation zwischen Deinem mobilen Endgerät und den Rechnern der FerratumBank stets geschützt. Außerdem beobachten und bewerten wir ständig die Sicherheit der mobilen App.
+
+Wir nutzen ein Defense-in-Depth-Konzept, eine Sicherheitsmethode aus der Industrie, um alle persönlichen Daten zu schützen und die Sicherheit unserer Netzwerke (Firewalls, Überwachungssysteme und Netzwerk-Segregation), Betriebssysteme und Datenbanken zu gewährleisten.
+###
+Wie schützt Ferratum die Kommunikation und Datenübermittlung der mobilen Dienste?
+
+Die Kommunikation zwischen Deinem Computer oder Mobiltelefon und unserer mobilen Anwendung wird durch eine sichere Extended-Validation-SSL-Verbindung (EV-SSL) verschlüsselt. Die Vergabe eines EV-SSL-Zertifikats ist an sehr strenge Vergaberichtlinien gebunden, die von einem freiwilligen Zusammenschluss von Zertifizierungsstellen und Browser-Herstellern festgelegt werden.
+
+Außerdem werden all unsere Dienste durch ein internes Sicherheitsteam überwacht und regelmäßig von einem seriösen Sicherheitsanbieter kontrolliert.
+###
+Wie sicher ist die Server Infrastruktur für Mobiles Banking?
+
+Unsere Server-Infrastruktur wird durch einen ISO27001-zertifizierten dritten Co-Location-Anbieter gehostet und der Zugang zu dieser Infrastruktur (z. B. Anwendungsserver, Datenbankenserver, Netzwerktechnik) wird streng kontrolliert. Unsere Serverinfrastruktur wird durch eine Firewall in Industriequalität und ein Angriffserkennungssystem (IDS) gesichert, um alle potentiellen Angriffe auf unsere Serversysteme rechtzeitig zu erkennen und abzuwehren. Wir erstellen regelmäßig Sicherheitskopien, die sicher und geschützt aufbewahrt werden. Alle Systeme, die Zugang zu Deinen Daten gewähren, sind ebenfalls adäquat durch Endpunkt-Sicherheitskontrollen (z. B. Anti-Virus/Malware, Firewall, etc.) geschützt.
+###
+Wie wird mein Benutzerkonto geschützt?
+
+Um die Banking-App sicher zu nutzen, vergibst Du eine 6-stellige PIN für jedes mobile Endgerät, auf dem Du die App verwendest. Die PIN ist aus Sicherheitsgründen nur genau auf diesem einen Gerät anwendbar. Die PIN wird weder auf unseren Servern noch auf Deinen mobilen Endgeräten gespeichert – nur Du kennst die PIN.
+
+Um höchste Sicherheit für Dein Konto bei der FerratumBank zu gewährleisten, werden Deine Sitzungen nach zu langer Inaktivität automatisch beendet. Das schützt Dein Konto zusätzlich vor unberechtigten Zugriffsversuchen. Wurde Deine Sitzung durch Timeout beendet, loggst Du Dich einfach erneut ein.
+
+Generell empfehlen wir Dir, Deine PINs und Passwörter stets geheim zu halten und mit niemandem zu teilen! Sorge auch dafür, dass Du Deine Zugangsdaten unbeobachtet eingibst, so dass sie nicht an Dritte gelangen können.
+###
+Wie sicher sind meine Konten und Transaktionen?
+
+Unsere Banking-App verfügt über eine Ende-zu-Ende Verschlüsselung, um die Sicherheit Deiner Transaktionen zu gewährleisten. Die Banking-App ist mit einer 6-stelligen PIN geschützt, die nur Du kennst, und mit der Du Dich in der Banking-App einloggst. Wenn Du Transaktionen tätigst, wirst Du außerdem aufgefordert, diese PIN nochmals einzugeben um die Buchung zu bestätigen, bevor sie an die FerratumBank übermittelt wird.
+###
+Wie kann ich meine Daten beim Banking mit der Ferratum App schützen?
+
+Die Sicherheit Deiner Daten beim Banking mit der Ferratum App liegt uns sehr am Herzen. Darum empfehlen wir Dir:
+
+    Stelle einen Passwortschutz auf Deinem Smartphone ein. Dies schützt Dich zusätzlich, sollte Dein mobiles Endgerät einmal verloren gehen oder gestohlen werden.
+    Melde Dich immer über das Menü „Logout“ ab, wenn Du Deine Sitzung in der App beenden möchtest.
+    Teile niemandem Deine PIN für die Banking-App mit und schreibe Deine PIN nirgendwo auf.
+    Geben Deine PIN für die Banking-App immer verdeckt ein und stelle sicher, dass Du dabei nicht von Dritten beobachtet wirst.
+    Ändere Deine PIN sofort, wenn Du den Verdacht hast, dass eine andere Person Kenntnis über Deine PIN erlangt haben könnte. Deine PIN änderst Du so:
+
+o Rufe die Banking-App auf und wähle unter „Einstellungen“ das Menü "PIN ändern" aus, oder
+
+o Rufe alternativ unseren Kundenservice an und bitten ihn um die Änderung Deiner PIN.
+
+· Melde Dich niemals mit Deinen Zugangsdaten für die Banking-App auf einem fremden Smartphone an.
+###
+Werde ich vom Kundendienst nach meinen Zugangsdaten, meiner PIN oder meinem Sicherheitscode gefragt?
+
+Nein, unser Kundenservice wird Dich niemals nach Deinen Zugangsdaten fragen. Bitte teile diese Informationen niemals, auch nicht, wenn Du danach gefragt wirst.
+###
+Kann ich Ferratum Zahlungsanweisungen via Email senden?
+
+Nein, aus Sicherheitsgründen können wir keine Zahlungsanweisungen via E-Mail akzeptieren. Bitte nutze für Zahlungsanweisungen unsere sichere Banking-App.
+###
+Werden meine Kontoinformationen auf dem Gerät gespeichert?
+
+Nein, die Ferratum Bank speichert keine Kontodetails oder Kundendaten in der Banking-App oder auf den von Ihnen verwendeten Geräten. Beim Einloggen wird eine verschlüsselte Verbindung zu unseren Servern aufgebaut und Deine Informationen werden dann in die Banking-App heruntergeladen. Sobald Du Dich ausloggst, werden sämtliche Daten in der Banking-App und von Deinem Gerät gelöscht. Daher ist es sehr wichtig, dass Du Dich nach Beendigung Deiner Sitzung abmeldest. Nein, die Ferratum Bank speichert keine Kontodetails oder Kundendaten in der Banking-App oder auf den von Ihnen verwendeten Geräten. Wenn Sie sich einloggen, wird eine verschlüsselte Verbindung zu unseren Servern aufgebaut und Ihre Informationen werden dann in die Banking-App heruntergeladen. Sobald Sie sich ausloggen, werden sämtliche Daten in der Banking-App und von Ihrem Gerät gelöscht. Daher ist es sehr wichtig, dass Sie sich abmelden, wenn Sie Ihre Sitzung beenden.
+###
+Woher weiß ich, dass ich die echte Ferratum App herunterlade?
+
+Bitte lade die App nur über den offiziellen App Store oder über Google Play herunter und stelle sicher, dass Ferratum als Herausgeber der App genannt wird.
+
+Die offizielle FerratumBank App gibt es hier: https://app.adjust.com/z3ceaq?mt=8 im App Store und hier: https://play.google.com/store/apps/details?id=com.ferratumbank.mobilebank bei Google Play.
+
+Falls Du meinst, eine App entdeckt zu haben, die vortäuscht von Ferratum zu sein, wende Dich bitte direkt an uns.
+###
+Was ist ein Extended-Validation-SSL/TLS-Zertifikat?
+
+Das SSL/TLS-Zertifikat dient zur Absicherung von Webanwendungen und bietet Dir als Anwender Schutz vor Phishing-Angriffen durch Dritte. Die Vergabe eines SSL/TLS-Zertifikats ist an sehr strenge Vergaberichtlinien gebunden, die von einem freiwilligen Zusammenschluss von Zertifizierungsstellen und Browser-Herstellern festgelegt werden. Extended-Validation- SSL/TLS-Zertifikate ermöglichen einen verschlüsselten Datenaustausch zwischen Deinem Computer und unseren Servern. Das erkennst Du an einem grünen Schloss-Symbol in der Adressleiste Deines Browsers, welches vor „Ferratum Bank plc. (MT)“ erscheint. Wenn Du dieses Schloss angezeigt bekommst, kannst Du sicher sein, dass Du Dich auf unserer Homepage befindest.
+###
+Was bedeutet diese Verschlüsselung und wie schützt sie meine Daten?
+
+Extended-Validation-SSL/TLS-Zertifikate ermöglichen einen verschlüsselten Datenaustausch zwischen Deinem Computer und unseren Servern. Die auszutauschenden Informationen werden nach einem speziellen Verfahren verschlüsselt, versendet und mit dem passenden Schlüssel entschlüsselt, sobald sie beim richtigen Empfänger eintreffen. Werden Informationen von Unbefugten abgefangen, sind diese aufgrund der Verschlüsselung nicht lesbar. Diese Art der Verschlüsselung verhindert, dass Hacker Deine wertvollen Daten auf dem Weg abgreifen können. Ziemlich cool, fast wie bei James Bond!
+###
+Was ist Pishing?
+
+Phishing ist eine Methode, um an Deine persönlichen, sensiblen Daten zu gelangen (zum Beispiel Kontonummer, PINs, Passwörter oder sonstige Zugangsdaten) und so in Deinem Namen handeln und Dir damit schaden zu können. Typischerweise werden Dir dafür Kopien von E-Mails oder Kurznachrichten zugesendet oder Kopien von Webseiten angezeigt, die Dir den Eindruck vermitteln, sie seien tatsächlich von einem bekannten Unternehmen. Du wirst von der FerratumBank niemals Nachrichten oder E-Mails erhalten, in der wir nach Deinen Konto-, Zugangsdaten oder anderen sensiblen Informationen fragen!
+###
+Wie kann ich mich gegen Pishing schützen?
+
+Du hast eine E-Mail der Ferratum Bank bekommen, die Dir verdächtig oder seltsam erscheint? Sei vorsichtig und klicke nicht auf die darin enthaltenen Links. Solltest Du Zweifel an der Echtheit einer E-Mail haben, rufe bitte den Kundenservice an. So kannst Du klären, ob die E-Mail wirklich von uns versendet wurde.
+###
+Was ist die gesetzliche Einlagensicherung?
+
+Die FerratumBank ist ein Mitglied des Programms zur gesetzlichen Einlagensicherung, das 2003 eingeführt wurde. Die Einlagen bei der Ferratum Bank p.l.c. sind durch die Einlagensicherung, die von der EU harmonisiert wurde, bis zu einem Betrag von 100.000 EUR geschützt.
+
+Anleger werden somit durch das Einlagensicherungssystem bis zur Höhe des gesetzlich festgesetzten Höchstbetrages (derzeit ist ein Höchstbetrag von 100.000 Euro festgesetzt) entschädigt.
+
+Für weitere Informationen über das Programm zur gesetzlichen Einlagensicherung, einschließlich der versicherten Beträge, kontaktiere uns oder wende Dich an:
+
+Compensation Schemes Management Committee
+
+c/o Malta Financial Services Authority, Notabile Road, Attard BKR 3000, Malta.
+
+Tel: (+)356 2144 1155; E-Mail: info@compensationschemes.org.mt
+
+Die Ferratum Bank p.l.c. ist eine maltesische Bank und unterliegt dem maltesischen Recht. Sie ist als Finanzdienstleister durch die MFSA (Malta Financial Services Authority) EU-reguliert, die Regulierungsbehörde für Finanzdienstleistungsaktivitäten in Malta ist. Basierend auf den Grundsätzen der gegenseitigen Anerkennung und einem sog. "einheitlichen Pass" kann die Ferratum Bank als Finanzdienstleister mit Sitz in einem der EU-Mitgliedstaaten und einer dort registrierten Banklizenz ihre Dienstleistungen ohne Genehmigung in allen anderen Mitgliedsstaaten anbieten.
+###
+Wie kann ich mein Bankkonto vor Missbrauch und Betrug schützen?
+
+Die Privatsphäre sowie die Sicherheit unserer Kunden wird bei Ferratum großgeschrieben. Wir arbeiten intensiv daran unsere Kunden und ihre persönlichen sowie sensiblen Daten vor Betrügereien und Missbrauch zu schützen.
+
+Bitte lese den folgenden Link aufmerksam durch, um Dich mit einigen verbreiteten Betrugsmethoden bekannt zu machen. Die Kenntnis über typische Herangehensweisen und Maschen von Betrügern schützt Dich davor, selbst ein Opfer von Missbrauch oder Betrug zu werden:
+
+https://mymoneybox.mfsa.com.mt/info/typical-scams
+
+Solltest Du den Verdacht haben oder der Meinung sein, in einen Fall von Missbrauch oder Betrug involviert zu sein, möchten wir Dich bitten, umgehend Kontakt mit unserem Kundenservice aufzunehmen!
+###

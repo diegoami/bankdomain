@@ -1,0 +1,15 @@
+###
+Wie zahle ich Geld auf mein Konto / meine Konten ein?
+
+Das Einzahlen von Geld auf Deinem Ferratum Girokonto ist denkbar einfach: Zahle Dein Geld per Überweisung, von einem Bankkonto bei einer anderen Bank, auf Dein neues Ferratum Konto ein. Das Überweisungskonto kann Dein eigenes Bankkonto sein oder das Bankkonto einer anderen Person sein.
+
+Du benötigst für die Überweisung lediglich Deine Ferratum IBAN-Nummer, die Du im Bereich „Konten und Karten“ findest. Eventuell musst Du bei Deiner Überweisung auch den BIC-Code von Ferratum angeben. Er lautet: FEMAMTMTXXX.
+
+Du erwartest eine Geldüberweisung von einem Bankkonto einer anderen Bank? Beachten hierbei bitte, dass das Geld erst ein oder zwei Tage nach der getätigten Überweisung auf Deinem Ferratum Konto eingeht. Dies ist abhängig vom Abrechnungstag der anderen Bank.
+
+Sobald das Geld auf Deinem Ferratum Konto eingegangen ist, kannst Du es auf jedes Deiner Ferratum Konten transferieren. Wählen Sie dazu „Überweisung“ im Menü der App aus und tippe die Option "Überweisung an eigenes Konto" an.
+###
+Akzeptiert die FerratumBank Scheckeinreichungen?
+
+Wir lieben mobiles Banking! Darum verwenden wir ausschließlich elektronische Zahlungsformen. Sollten wir zukünftig weitere Zahlungsmittel für die Einzahlung akzeptieren, werden wir Dich natürlich zeitnah darüber informieren.
+###

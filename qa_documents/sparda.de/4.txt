@@ -1,0 +1,122 @@
+###
+
+ Welche Freigabeverfahren (z.B. TAN) werden von paydirekt unterstützt?
+
+Beim Bezahlvorgang mit paydirekt können Sie sich jedes mal neu für ein Freigabeverfahren (z.B. TAN) Ihrer Sparda-Bank entscheiden.
+###
+ Wo erzwinge ich eine TAN-Abfrage für alle Transaktionen?
+
+Um jede Transaktion durch die Eingabe einer TAN zu bestätigen, wählen Sie in Ihren persönlichen Einstellungen des paydirekt Kundenbereichs ''Immer Freigabeverfahren (z.B. TAN) verwenden'' aus.
+###
+  Wieso kann ich mich nicht bei paydirekt einloggen?
+
+Möglicherweise haben Sie Ihren Benutzernamen und/oder Ihr Passwort wiederholt falsch eingegeben. Ihr paydirekt Konto wurde aus Sicherheitsgründen zeitweise gesperrt. Versuchen Sie es in diesem Fall in circa 15 Minuten erneut.
+
+Möchten Sie Ihren Benutzernamen oder Ihr Passwort einsehen oder zurücksetzen, loggen Sie sich bitte in Ihrem Onlinebanking ein (Bereich ''Service-Center'').
+Sofern obengenannte Gründe nicht in Frage kommen, wenden Sie sich an Ihre Bank oder über die E-Mail-Adresse service@paydirekt.de direkt an paydirekt. Das Service-Team steht Ihnen von Montag bis Freitag von 8:00 Uhr bis 18:00 Uhr, außer an bundesweiten Feiertagen, zur Verfügung.
+
+###
+  Warum muss ich meine Zahlung mit einer TAN bestätigen?
+
+Zu Ihrer eigenen Sicherheit werden Sie aufgefordert, Ihre Bestellung durch eine TAN zu bestätigen. So kann beispielsweise bei einer Abweichung der Lieferadresse eine zusätzliche Absicherung durch eine TAN erfolgen.
+###
+  Wieso kann ich keine Zahlungen mit paydirekt durchführen?
+
+Es kommen verschiedene Gründe in Frage, weshalb Sie keine paydirekt Zahlung ausführen können:
+
+    Sie haben Ihre E-Mail-Adresse noch nicht bestätigt. Bitte bestätigen Sie diese oder fordern eine neue Bestätiguns-E-Mail unter Ihren persönlichen Einstellungen im paydirekt Kundenbereich an.
+    Ihr Girokonto ist möglicherweise nicht gedeckt.
+    Sie haben eine falsche TAN zur Bestätigung Ihrer Zahlung eingeben. Geben Sie Ihre TAN bitte erneut ein oder fordern Sie eine neue TAN an, um Ihre paydirekt Zahlung zu bestätigen.
+    Ihr Girokonto oder das Netbanking wurde aus Sicherheitsgründen gesperrt. Setzen Sie sich in diesem Fall bitte mit Ihrer Bank in Verbindung.
+    Die Bonitätsprüfung der paydirekt erlaubt diese Zahlung nicht.
+    Die Zahlung überschreitet ein Systemlimit.
+
+###
+  Was muss ich bei Verlust meines für paydirekt genutzten Gerätes tun?
+
+Bei Diebstahl oder Verlust eines Ihrer für paydirekt genutzten Endgeräte sind Sie verpflichtet, den Verlust des Geräts bei paydirekt oder bei Ihrer Bank zu melden.
+###
+  Was mache ich bei einem unberechtigten Zugriff auf mein paydirekt Konto?
+
+Bemerken Sie eine Transaktion, die nicht von Ihnen getätigt wurde, melden Sie diese umgehend über die Detailansicht der jeweiligen Buchung an paydirekt.
+Wählen Sie hierzu ''Problem melden'' und anschließend ''Bestellung wurde von mir nicht getätigt''.
+
+Bitte beachten Sie, dass paydirekt in diesem Fall die Zahlfunktion Ihres paydirekt Kontos aus Sicherheitsgründen deaktiviert.
+
+Haben Sie den Verdacht, dass sich jemand unberechtigt Zugang zu Ihrem paydirekt- Konto verschafft hat, weil beispielsweise eine Datenänderung durchgeführt wurde, dann kontaktieren Sie bitte unmittelbar das paydirekt Serviceteam unter der Rufnummer 069-247 382 222 oder per E-Mail: service@paydirekt.de oder Ihre Bank, um möglichem Missbrauch Ihres paydirekt Kontos entgegenzuwirken. Das paydirekt Service-Team steht Ihnen von Montag bis Freitag von 8:00 Uhr bis 18:00 Uhr, außer an bundesweiten Feiertagen, zur Verfügung.
+###
+  Wie gehe ich mit verdächtigen oder unerwarteten E-Mails von paydirekt um?
+
+paydirekt kontaktiert Sie niemals unaufgefordert per E-Mail um persönliche Informationen zu erfragen.
+Erscheint Ihnen eine E-Mail verdächtig, überprüfen Sie anhand einiger Hinweise ob die E-Mail von paydirekt stammt:
+
+paydirekt E-Mails...
+
+    ...enthalten in der Anrede immer Ihren Vor- und Nachnamen
+    ...fragen Sie nicht nach Passwörtern oder bitten Sie um Bestätigung oder Neueingabe von Daten. (Einzige Ausnahme: Ihre E-Mail-Adresse müssen Sie bei Ihrer 1. Registrierung oder bei Änderung über den Button "jetzt bestätigen" verifizieren.)
+    ...fordern Sie nicht zur Installation einer Software auf.
+    ...haben @paydirekt.de als Absenderadresse.
+
+
+
+Wichtig: Bitte klicken Sie in verdächtigen E-Mails keine Links an und öffnen Sie keine Anhänge. Sollten Sie doch einmal einen Link geklickt oder einen Anhang geöffnet haben, kontaktieren Sie bitte umgehend das paydirekt Serviceteam unter der Rufnummer 069-247 382 222 oder per E-Mail: service@paydirekt.de, um möglichem Missbrauch Ihres paydirekt Kontos entgegenzuwirken/vorzubeugen.
+
+###
+  Wieso wurde mein paydirekt Konto gesperrt?
+
+Für die Sperrung Ihres paydirekt Kontos kommen mehrere Gründe in Frage:
+
+    Mehrmalige Falscheingabe Ihres paydirekt Benutzernamens oder paydirekt Passwortes. In diesem Fall müssen Sie im SpardaNet-Banking ein neues Passwort vergeben, was dann automatisch Ihr Konto wieder entsperrt.
+    Sie haben eine verdächtige Transaktion gemeldet. Ihr paydirekt Konto wurde aus Sicherheitsgründen bis zur Aufklärung des Vorfalls deaktiviert.
+
+Sofern obengenannte Gründe nicht in Frage kommen, kann eine Sperre Ihres paydirekt Kontos auch von Ihrer Bank in Auftrag gegeben worden sein. Wenden Sie sich in diesem Fall bitte an Ihre Sparda-Bank.
+
+###
+  Wird HBCI unterstützt?
+
+HBCI wird nicht unterstützt.
+###
+  Kann ich paydirekt trotz gesperrtem Netbanking-Zugang nutzen?
+
+Liegt eine Sperre Ihres Netbankings vor, ist eine Bezahlung mit paydirekt nicht möglich.
+Sobald Ihr Netbanking freigeschaltet ist, steht auch die Zahlung über paydirekt wieder zur Verfügung.
+###
+  Welche E-Mails erhalte ich von paydirekt?
+
+Sie erhalten E-Mails zu den folgenden Themen:
+
+    Aktivierung Ihrer E-Mail-Adresse
+    Transaktion erfolgreich abgeschlossen (wenn Sie die Benachrichtigung per E-Mail gewählt haben)
+    Bei abgerufenen Teilbuchungen
+
+###
+  Kann der Händler mein Alter abfragen?
+
+Nein, Ihr Händler kann nur ein Mindestalter mit dem tatsächlichen Alter im Rahmen einer Zahlung vergleichen lassen. Eine separate Altersabfrage außerhalb einer Zahlung ist nicht möglich.
+###
+  Wo finde ich meine Kundenservice-PIN?
+
+Sie melden im Kundenbereich unter paydirekt.de ein Problem. Sofort im Anschluss generiert das System eine Kundenservice-PIN, die Ihnen auf Ihrem Bildschirm angezeigt wird und 60 Minuten gültig ist. Diese benötigen Sie, wenn Sie mit dem paydirekt Service-Team in Kontakt treten.
+###
+  Muss ich mein Freigabegerät (z.B. für push-TAN) angeben?
+
+Die SMS-TAN Steuerung wird allein über das Netbanking der Sparda-Banken administriert. Die Sparda-Banken nutzen - anders als vielleicht manch andere Bank - die Authentifzierungsverfahren der paydirekt GmbH nicht, sondern binden eigene Sicherheitsverfahren in die paydirekt Sicherheitsprüfungen ein. Daher kann das Gerät für das PushFreigabeverfahren (z.B. TAN) der paydirekt GmbH nicht registriert werden.
+###
+  Warum muss ich die Änderung meiner Daten mit einer TAN absichern?
+
+Sofern ein Fremder in die Lage versetzt wurde, diese Daten in Ihrer paydirekt Verwaltung zu ändern, wurde Ihr Passwort schon kompromittiert bzw. geknackt.
+Die Eingabe der TAN bietet in diesem Fall einen zusätzlichen Schutz, der einen Missbrauch mit Ihrem Konto durch Dritte erschwert.
+Zwar kann die Angabe einer falschen Lieferadresse beim Händler nicht unterdrückt werden, die E-Mail-Benachrichtigung bleibt aber weiterhin intakt, sodass Sie per E-Mail und / oder App sofort unterrichtet werden, wenn eine missbräuchliche Zahlungsanweisung an eine fremde Lieferadresse erfolgt ist. Veranlassen Sie dann bitte sofort eine Sperre über das paydirekt Service-Team unter der Rufnummer 069-247 382 222 oder per E-Mail: service@paydirekt.de oder Ihre Bank, um möglichem Missbrauch Ihres paydirekt Kontos entgegenzuwirken. Das paydirekt Service-Team steht Ihnen von Montag bis Freitag von 8:00 Uhr bis 18:00 Uhr, außer an bundesweiten Feiertagen, zur Verfügung..
+###
+  Welche PIN muss ich bei Kontakt mit dem Support angeben?
+
+Es handelt sich nicht um die PIN für das Telefonbanking der Sparda-Banken, sondern um eine separate PIN. Diese kann nur durch Sie über eine Problemmeldung im Paydirekt-Portal generiert werden und ist somit einem Vorgang zugeordnet. Sie dient zur Sicherstellung, dass tatsächlich der Kunde und kein Dritter am anderen Ende der Telefonleitung ist.
+###
+  Werden die Daten der App auf dem Smartphone verschlüsselt?
+
+Ja.
+###
+  Wann muss ich mich in der App neu anmelden?
+
+Nach 365 Tagen ab Erstregistrierung fordert Sie die App aus Sicherheitsgründen auf, sich neu einzuloggen. Außerdem meldet Sie die App automatisch ab, wenn 30 Tage kein Zugriff erfolgt ist. Bitte melden Sie sich mit Ihrem Benutzernamen und Ihrem Passwort erneut an.
+###

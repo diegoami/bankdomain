@@ -1,0 +1,81 @@
+###
+Was sind Booster?
+
+Der Booster ist ein praktisches Spar-Tool in Deiner Banking App. Der sparBooster hilft Dir, Deine Sparziele schneller zu erreichen oder sogar zu übertreffen! Er ist der Beschleuniger für Deine Sparvorhaben. Denn er nutzt Deine Ausgaben und Einkäufe, um Geld auf Dein Sparvorhaben einzuzahlen. So sparst Du, ohne es wirklich zu bemerken!
+
+Du benötigst ein Sparkonto oder ein sparSmart um den Booster einsetzen zu können. Definiere zunächst mit wenigen Handgriffen die Booster-Bedingungen: Welche Geldsumme möchtest Du insgesamt sparen? Ab welchem Betrag sollen Deine Umsätze per Boost aufgerundet werden und in welcher Höhe?
+
+Nach Fertigstellung Deiner Vorgaben spart der Booster automatisch bei jeder Zahlung für Dich mit. So erreichst Du Deine Sparziele ganz einfach!
+###
+Welche Booster Formen gibt es?
+
+Momentan bieten wir Dir zwei sparBooster-Typen an:
+
+· Aufrunden
+
+· Einkauf & Boosten
+###
+Wie funktioniert Aufrunden durch Boosten?
+
+Das Booster-Tool zum Aufrunden kommt bei Deinen Kartenverfügungen mit Deiner Debit MasterCard zum Einsatz.
+
+Bei Nutzung Deiner Ferratum Karte prüft unser System, ob diese Transaktion Deine festgelegten Bedingungen zum Boosten erfüllt. Falls ja, wird Dein sparBooster aktiv.
+
+Ein Beispiel aus dem wahren Leben: Du zahlst mit Deiner Karte 10.30€ für Deinen Einkauf im Supermarkt. Dein Booster ist so eingestellt, dass er bei allen Kartenumsätzen zwischen 1€ - 50€ aktiv wird und auf den nächsten glatten Eurobetrag aufrundet. Die Buchung von Deiner Karte wird automatisch von 10.30€ auf 11€ aufgerundet.
+
+Die 10.30€ erhält der Supermarkt für Deinen Einkauf. Der restliche Betrag, bzw. die Differenz von in diesem Fall 0,70€, wird vom Booster auf Dein Sparkonto eingezahlt.
+###
+Wie funktioniert Einkaufen & Boosten?
+
+Das Booster-Tool zum Einkaufen & Boosten ist sowohl für Deine Ausgaben mit Deiner Debit MasterCard als auch für alle weiteren Zahlungen, die Du über die App durchführst, einsetzbar.
+
+Bei der Durchführung Deiner Buchung prüft unser System, ob diese Transaktion Deine festgelegten Bedingungen zum Boosten erfüllt. Falls ja, wird Dein sparBooster aktiv.
+
+Für die Booster-Funktion zum Einkaufen & Boosten hast Du im Vorfeld zwei Optionen zur Auswahl. Möchtest Du:
+
+1) Einen festen Betrag, abhängig von der Höhe Deiner Ausgaben, sparen?
+
+Du zahlst beispielsweise mit Deiner Karte 10.30€ für Einkäufe im Supermarkt. Dein Booster ist so eingestellt, dass er bei allen Buchungen zwischen 1€ - 50€ aktiv wird und in dieser Preisspanne 1€ je Transaktion auf Dein Sparkonto überweist. Der Booster zieht 11.30€ von Deinem Girokonto ab. Davon sind 10.30€ für den Supermarkt und 1€ transferiert er von Deinem Girokonto auf Dein Sparkonto.
+
+2) Einen Prozentwert Deiner Ausgaben sparen?
+
+Alternativ kannst Du auch einen prozentualen Anteil Deiner Ausgaben zum Sparen verwenden. Bleiben wir beim obigen Beispiel. Dein Booster ist so eingestellt, dass er bei allen Buchungen zwischen 1€ - 50€ aktiv wird und in dieser Preisspanne 10% je Transaktion auf Dein Sparkonto überweist. In diesem Fall zieht der Booster 11.33€ von Deinem Girokonto ab. Der Supermarkt erhält 10.30€ für Deinen Einkauf und 1.03€ werden von Deinem Girokonto auf Dein Sparkonto transferiert.
+###
+Welche Produkte verwenden den Booster?
+
+Der Booster wird für Dein Sparkonto bereitgestellt.
+###
+Wer kann einen Booster verwenden?
+
+Der Booster ist für alle Kunden der FerratumBank erhältlich.
+###
+Wie aktiviere ich den Booster?
+
+Der Booster lässt sich unkompliziert über die App aktivieren. Zum Beispiel über das Booster-Widget und über Dein Sparkonto oder sparSmart.
+###
+Wohin sendet der Booster mein Geld und wie kann ich auf das gesparte Geld zugreifen?
+
+Der Booster rundet Deine Zahlung automatisch um den gewünschten Betrag auf. Er bucht diesen gesamten Betrag von Deinem Girokonto ab, zahlt Deine Ausgabe und überweist die verbleibende Differenz auf Dein Sparkonto. Das Geld ist dort immer für Dich verfügbar und Du kannst es mit wenigen Fingerbewegungen auf Dein Girokonto zurück überweisen.
+###
+Was kostet der Booster?
+
+Die Aktivierung des Boosters kostet Dich nur einen geringen monatlichen Beitrag. Genaueres erfährst Du aus unserem Preis- & Leistungsverzeichnis. Du kannst den Booster und die damit verbundenen Kosten jederzeit abschalten.
+###
+Warum sollte ich den Booster aktivieren?
+
+Booster sind dafür da, Dich beim Geldsparen zu unterstützen. Bei jeder Deiner Zahlungen rundet er automatisch auf. Den Differenzbetrag zwischen Zahlung und Rundung sendet er Deinem Sparkonto. Stell es Dir so vor, als Du würdest Du mit jedem Einkauf Geld in Dein Sparschwein werfen.
+###
+Welche Zahlungsformen sind mit dem Booster verbunden?
+
+· Die Booster Funktion zum Aufrunden ist nur für Deine Kartenumsätze mit der Ferratum Karte, inklusive Geldabhebungen am Automaten, verfügbar
+
+· Die Booster Funktion zum Einkaufen & Boosten ist für alle Abbuchungen von Deinem Konto, inklusive der Kartenbuchungen, erhältlich.
+
+Hast Du sowohl die Funktion zum Aufrunden als auch die Funktion zum Einkaufen & Boosten aktiviert, werden bei Kartenzahlungen beide sparBooster tätig. Deine Zahlung wird durch den Aufrundungs-Booster aufgerundet und die Funktion zum Einkaufen & Boosten handelt ebenfalls nach den von Dir definierten Einstellungen. Du sparst in diesem Fall zweimal!
+
+Zum Beispiel rundet der Aufrundungs-Booster Deine Kartenzahlung um 0,50€ auf und die Funktion zum Einkaufen & Boosten hat 1,00 € für Deine Kartenzahlung berechnet. Dadurch werden insgesamt 1,50€ auf Dein Sparkonto überwiesen.
+###
+Wo sehe ich alle Booster Aktivitäten?
+
+Jede Booster Funktion hat ihre eigene Aktivitäten Übersicht. Dort bekommst Du alle notwendigen Informationen zu Deinen Boosts und Buchungen.
+###

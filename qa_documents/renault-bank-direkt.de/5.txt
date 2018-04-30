@@ -1,0 +1,110 @@
+###
+Wie ändere ich meine Daten?
+
+Änderung der Login-Daten:
+Ihre Login-Daten, also User-Name und PIN, können Sie bequem online ändern. Loggen Sie sich dazu in Ihren Online-Banking-Bereich ein und gehen Sie auf den Menüpunkt "Service & Verwaltung". Dort finden Sie unter dem Punkt "ONLINE-BANKING-ZUGANG" die Links zu "User-Name (Alias / Benutzernamen) verwalten" und zu "PIN ändern". Weitere Informationen zu User-Name und PIN finden Sie hier. Bitte beachten Sie, dass Sie sich ab sofort nur noch mit Ihren neuen Login-Daten anmelden können.
+
+Änderung der Mobilfunknummer:
+Bitte laden Sie sich hier das Formular "Änderungsauftrag zum RBd SecureSIGN / mobile TAN-Verfahren" herunter. Füllen Sie dieses aus und senden Sie es an:
+
+Renault Bank direkt
+Postfach 269
+45952 Gladbeck
+
+Alternativ können Sie auch die Upload-Funktion in unserem Dokumenten-Upload nutzen.
+
+Sobald wir Ihren Auftrag bearbeitet haben, erhalten Sie eine Bestätigung per SMS.
+
+Bei der Verwendung von RBd SecureSIGN als TAN-Verfahren müssen Sie bei einem Wechsel Ihrer Mobilfunknummer keine weiteren Schritte unternehmen, da eine virtuelle Handynummer verwendet wird, die auf Ihr Endgerät bezogen ist.
+
+Änderung des Tagesgeld-Referenzkontos:
+Zu Ihrer Sicherheit ist die Änderung Ihres Tagesgeld-Referenzkontos nur möglich, wenn Sie uns dies schriftlich mitteilen. Nutzen Sie hierfür das Formular „Änderung Referenzkonto“, welches Sie hier finden. Bitte senden Sie uns das unterschriebene Formular an die oben genannte Adresse oder laden Sie es alternativ über die Upload-Funktion in unserem Dokumenten-Upload hoch.
+Für den Fall, dass das neue Referenzkonto ein Gemeinschaftskonto ist, muss das Formular von beiden Kontoinhabern ausgefüllt und unterschrieben werden.
+Dadurch kann Missbrauch von unbefugten Dritten vorgebeugt werden.
+
+Änderung der Adresse / Kontaktdaten:
+Auch Ihre Adresse und Kontaktdaten können Sie in Ihrem Online-Bereich unter dem Menüpunkt "Service & Verwaltung" ändern. Gehen Sie dazu in den Untermenüpunkt "Persönliche Daten ändern" und ändern Sie die Daten wie gewünscht ab. Bitte beachten Sie, dass Sie aus Sicherheitsgründen hier nur Ihre Kontaktdaten ändern und nicht die Mobilfunknummer für das mobile TAN-Verfahren.
+
+Änderung des Namens:
+Bei einer Namensänderung müssen Sie sich aus Sicherheitsgründen erneut via VIDEOIDENT- oder POSTIDENT-Verfahren legitimieren. Bitte senden Sie uns das Formular "Namensänderung mit Ident-Verfahren" zu, um uns die Änderung Ihres Namens mitzuteilen, oder laden Sie es alternativ über die Upload-Funktion in unserem Dokumenten-Upload hoch.
+
+Hat Ihnen diese Antwort weiter geholfen?
+Wenn nicht, rufen Sie unser Kunden Service Center an:
+02131-40 10 40
+###
+Welche sind die Banklaufzeiten bei Tagegeld- und Festgeldkonto ?
+
+Ausgehende Überweisungen:
+Bei der Ausführung einer Überweisung von Ihrem Tagesgeldkonto leiten wir diese grundsätzlich umgehend an unsere Clearing-Stelle weiter. Wenn Sie die Überweisung bis ca. 17:30 Uhr in Ihrem Online-Banking-Bereich eingegeben haben, wird diese taggleich weitergeleitet.
+Das heißt jedoch nicht, dass die Gutschrift auf Ihrem Referenzkonto dann noch am gleichen Tag erfolgt. Bitte beachten Sie, dass für das Eintreffen der Überweisung auf Ihrem Konto der Annahmezeitpunkt Ihrer Bank relevant ist. Dieser Zeitpunkt liegt oftmals bereits am späten Vormittag. Bitte erfragen Sie deshalb den Annahmezeitpunkt direkt bei Ihrer Hausbank.
+
+Eingehende Überweisungen:
+Eingehende Überweisungen schreiben wir Ihnen gut, sobald diese über unsere Clearing-Stelle bei uns eingehen. Unsere Clearing-Stelle nimmt eingehende Überweisungen bis ca. 16:00 Uhr an und leitet diese an uns weiter. Überweisungen, die nach 16:00 Uhr eingehen, werden am nächsten Tag verarbeitet.
+Bitte beachten Sie, dass Ihre Bank eigene Annahmezeitpunkte für Überweisungen hat. Damit die Überweisung bei unserer Clearing Stelle taggleich eingehen kann, muss die Überweisung bei Ihrer Hausbank vor diesem Annahmezeitpunkt eingegangen und an uns weitergeleitet worden sein. Bitte erfragen Sie deshalb diesen Annahmezeitpunkt direkt bei Ihrer Hausbank.
+
+###
+Wie laufen Ein- und Auszahlungen in das Tagegeld- und Festgeldkonto?
+
+Tagesgeld:
+Sie können das Guthaben auf Ihrem Tagesgeldkonto jederzeit aufstocken, indem Sie eine Überweisung auf Ihr Tagesgeldkonto vornehmen oder zum Beispiel monatlich per Dauerauftrag von Ihrem Girokonto sparen. Sie können von einem beliebigen Konto, das Überweisungen zulässt, Geld auf Ihr Tagesgeldkonto überweisen. Bitte nutzen Sie dazu die folgenden Daten:
+
+IBAN: Ihre IBAN finden Sie in Ihrem Online-Banking-Bereich bei den Kontoinformationen. Klicken Sie dazu in der Finanzübersicht auf das Info-Symbol in der rechten Spalte.
+
+BIC: RCIDDE3NPAY
+
+Institut: RCI Banque direkt
+Die Renault Bank direkt ist ein Geschäftsbereich der RCI Banque S.A. Niederlassung Deutschland.
+
+Auszahlungaufträge an uns sind täglich möglich. Überweisungen auf Ihr Referenzkonto können Sie täglich in Ihrem geschützten Online-Bereich vornehmen. Der maximale Überweisungsbetrag entspricht dem Guthaben auf Ihrem Tagesgeldkonto. Wählen Sie die Terminüberweisung, können Sie Ihre Überweisung frühestens zum nächsten Bankarbeitstag und maximal 24 Monate im Voraus ausführen lassen. Bitte beachten Sie die in diesem Zusammenhang üblichen Banklaufzeiten und Besonderheiten bei Überweisungsaufträgen an uns an Sonn- und Feiertagen. Näheres hierzu finden Sie in den Ihrem Produkt zu Grunde liegenden Allgemeinen Geschäftsbedingungen.
+
+BITTE BEACHTEN SIE:
+Das Tagesgeldkonto der Renault Bank direkt ist kein Zahlungsverkehrskonto. Somit können Sie von diesem Konto keine Lastschriften abbuchen lassen oder dieses als Referenzkonto bei anderen Banken bzw. (Online)-Zahlungsanbietern (so z.B. PayPal u.a.) hinterlegen. (Rück-) Überweisungen sind ausschließlich auf das Referenzkonto möglich.
+
+Festgeld:
+Eine Einzahlung auf Ihr Festgeldkonto ist nicht möglich. Der Betrag, der fest angelegt werden soll, wird einmalig von Ihrem Referenzkonto per Lastschrift eingezogen oder von Ihrem Renault Bank direkt Tagesgeld umgebucht, danach ist eine Aufstockung nicht möglich. Natürlich können Sie für gewünschte Zusatzanlagen jederzeit online weitere Festgeldkonten eröffnen. Beim Lastschrifteinzug können Sie einen Termin angeben, zu dem der Einzug des Anlagebetrags von Ihrem Konto erfolgen soll. Das Einzugsdatum kann bis zu maximal zehn Werktage vordatiert werden.
+###
+Wann kann man ein Tagegeld- und Festgeldkonto kündigen?
+
+Tagesgeld:
+Ihr Tagesgeldkonto hat keine Vertragslaufzeit, ist jederzeit kostenfrei und Ihr Guthaben stets in voller Höhe verfügbar. Haben Sie kein Guthaben auf Ihrem Tagesgeldkonto, bleibt dieses trotzdem für Sie aktiv. Es steht Ihnen jederzeit für neue Ein- und Auszahlungen bereit und bietet Ihnen dabei unsere attraktive Guthabenverzinsung - ganz ohne Kontoführungsgebühren.
+
+Sollten Sie Ihr Tagesgeldkonto dennoch kündigen wollen, nutzen Sie bitte das Online-Formular im Formularcenter.
+
+Festgeld:
+Während der vereinbarten Laufzeit ist Ihr Festgeldkonto nicht kündbar. Es verlängert sich nicht automatisch, sondern wird am Ende der gewählten Laufzeit aufgelöst und der Anlagebetrag Ihrem Tagesgeldkonto gutgeschrieben. Eine Kündigung Ihres Festgeldkontos zum Ende der Laufzeit ist also nicht erforderlich. Über den auf Ihr Tagesgeld transferierten Betrag können Sie jederzeit verfügen. Zusätzlich wird der Betrag zu unseren attraktiven Tagesgeld-Zinsen für Sie verzinst.
+
+Selbstverständlich besteht kurz vor Ende der Laufzeit auch die Möglichkeit, Ihr Festgeld zu attraktiven Konditionen zu verlängern. Sie erhalten dazu etwa einen Monat vor Fälligkeit Ihres Festgeldes eine Nachricht in Ihren Online-Banking-Postkorb. Ab diesem Zeitpunkt finden Sie in Ihrem Online-Banking-Bereich alle zur Verlängerung verfügbaren Festgelder. Gehen Sie dazu auf den Menüpunkt „Produktangebote“ sowie „Festgeld verlängern“ und prolongieren Sie hier Ihre in Kürze fälligen Festgelder mit zusätzlichem Zinsbonus für treue Kunden. Ganz einfach und schnell per Mausklick.
+###
+
+
+Wie erhalte ich mein Kontoauszüge?
+
+Sie erhalten bei der Renault Bank direkt Ihre Kontoauszüge als pdf-Dokument in Ihren Postkorb im Online-Banking-Bereich. Sie können diese Auszüge ausdrucken oder auf Ihrem PC abspeichern.
+Ihre Kontoauszüge erhalten Sie jeweils am Monatsende, sofern Buchungen auf Ihrem Konto im entsprechenden Monat durchgeführt wurden.
+Im ersten Quartal jeden Jahres erhalten Sie außerdem die Jahressteuerbescheinigung. Weitere Informationen dazu finden Sie hier.
+###
+Kann ich Kundenvollmachten einrichten?
+
+Sie können als Einzel-/ oder Gemeinschaftskunde bei der Renault Bank direkt für zwei Bevollmächtigte Kundenvollmachten einrichten. Im Gegensatz zu einer Vollmacht für ein einzelnes Konto bezieht sich diese Kundenvollmacht auf alle Konten des Vollmachtgebers. Die Vollmacht berechtigt die Bevollmächtigten insbesondere:
+
+    Über jeweilige Guthaben (durch Überweisung) zu verfügen.
+    Abrechnungen, Kontoauszüge und Mitteilungen entgegenzunehmen und anzuerkennen.
+    Das Renault Bank direkt Online-Banking mit eigenen Zugangsdaten zu nutzen.
+
+Die Vollmacht berechtigt nicht zur:
+
+    Änderung der Referenzkontonummer
+    Auflösung von Konten
+    Erteilung von Untervollmachten
+
+Vollmachten können Sie über Ihren Online-Banking-Bereich anlegen. Welche Schritte dies erfordert, können Sie hier einsehen.
+
+Jede einzelne Vollmacht kann von Ihnen als Kontoinhaber jederzeit widerrufen werden. Das entsprechende Formular "Widerruf Kundenvollmacht" finden Sie hier.
+Die Vollmacht gilt über den Tod hinaus.
+###
+Wie verläuft der Nachlass?
+
+Jeder Nachlass verläuft anders und um Ihnen einen Überblick zu verschaffen, stellen wir Ihnen das Dokument "Fragen und Antworten zum Thema Nachlass" zum Download bereit.
+
+Es enthält die wichtigsten Fragen und Antworten, z. B. "Wie wird ein Todesfall gemeldet?" oder "Wie erhalte ich Auskunft über die bestehenden Konten?".
+###
