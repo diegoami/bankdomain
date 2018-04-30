@@ -1,0 +1,65 @@
+###
+Ich kann mich nicht mehr einloggen, weil ich mein Kennwort vergessen habe. Was kann ich tun?
+
+Gehen Sie bitte auf die East West Direkt Website, klicken Sie auf Login und auf der Login-Seite auf den Link „Kennwort vergessen?“
+
+Geben Sie bitte zunächst Ihren Benutzernamen und den angezeigten Sicherheitscode ein. Falls Sie den Code nicht lesen können, klicken Sie bitte rechts auf die Taste und Sie erhalten einen neuen Sicherheitscode. Wiederholen Sie diesen Vorgang einfach so lange, bis ein für Sie gut lesbarer Code angezeigt wird, und geben Sie diesen dann ein.
+
+Beantworten Sie als Nächstes bitte Ihre persönliche Sicherheitsfrage. Wir senden Ihnen dann umgehend ein neues zeitlich begrenztes Kennwort zu. Sollten Sie das Kennwort aus der empfangenen E-Mail kopieren, achten Sie bitte darauf, keine Leerzeichen mitzukopieren.
+###
+Der Zugriff zu meinem Onlinekonto wurde gesperrt. Was soll ich jetzt machen?
+
+Aus Sicherheitsgründen wird Ihr Zugang automatisch gesperrt, falls Ihr Kennwort fünfmal in Folge falsch eingegeben wurde. Wenden Sie sich in diesem Fall bitte direkt telefonisch an unser Service-Center.
+###
+Welche Kriterien muss mein Kennwort erfüllen?
+
+Das Kennwort für Ihr East West Direkt muss folgende Anforderungen erfüllen:
+
+    zwischen 8 und 16 Zeichen
+    mindestens eine Zahl
+
+Bitte beachten Sie, dass das neue Kennwort nicht identisch mit den letzten drei Kennwörtern sein darf und auch Groß- und Kleinschreibung berücksichtigt werden.
+###
+Wozu dient die persönliche Sicherheitsfrage?
+
+Sollten Sie einmal Ihr Kennwort für das Login vergessen haben, kann Ihr Kennwort zurückgesetzt werden. Aus Sicherheitsgründen wird Ihnen dafür Ihre persönliche Frage gestellt, die nur Sie beantworten können. Per E-Mail erhalten Sie dann ein Kennwort, das Sie nach dem Login direkt ändern müssen.
+###
+Ist das Onlinebanking bei der East West Direkt sicher?
+
+Die East West Direkt legt großen Wert auf Sicherheit. Das Onlinesparen ist selbstverständlich sicher.
+
+Bei der Kontoeröffnung geben Sie zum Beispiel ein Referenzkonto bei einer Bank an, das auf Ihren Namen eingetragen ist. Als Sicherheitsmaßnahme können Sie von Ihrem East West Direkt Tagesgeldkonto aus nur Überweisungen auf Ihr Referenzkonto durchführen.
+
+Weiterhin haben Sie ausschließlich mittels Benutzername und Kennwort Zugang zu Ihrem Konto. Transaktionen bestätigen Sie durch eine Transaktionsnummer (mTAN), welche wir Ihnen speziell für jede einzelne Transaktion auf Ihr Handy senden.
+###
+Was kann ich selbst tun, damit mein Onlinebanking möglichst sicher ist?
+
+Damit Ihr Onlinebanking möglichst sicher ist, beachten Sie bitte folgende Punkte:
+
+    Überprüfen Sie die Endgeräte, auf denen Sie sich einloggen, regelmäßig auf Computerviren mit einem aktuellen Virenscanner plus Firewall. Öffnen Sie keine Anhänge oder installieren Sie keine Software von unbekannten Absendern oder Quellen.
+    Wählen Sie ein sicheres Kennwort und schreiben Sie es keinesfalls auf oder teilen es Dritten mit. Mitarbeiter der East West Direkt fragen Sie niemals nach Ihrem Kennwort. Achten Sie während des Logins darauf, dass Ihnen dabei niemand zuschaut.
+    Überprüfen Sie die Verschlüsselung und das Zertifikat der Website. Loggen Sie sich direkt nach jeder Sitzung aus. Als zusätzliche Sicherheitsmaßnahme loggt das System Sie automatisch aus, wenn Sie länger als zehn Minuten inaktiv sind.
+    Öffnen Sie bitte niemals den Anhang einer E-Mail, wenn Sie den Inhalt nicht einschätzen können oder Zweifel an ihm haben – auch wenn Sie den Absender der E-Mail kennen. Bitte beachten Sie: Die East West Direkt verschickt unaufgefordert keine E-Mails mit Anhang an Kunden.
+    Kontrollieren Sie bitte direkt nach dem Login in Ihr Konto, ob die Internetadresse mit „https“ anfängt. Das „s“ in https steht für „secure“. Es zeigt an, dass Sie sich im gesicherten Bereich der East West Direkt befinden.
+###
+Was mache ich, wenn ich vermute, dass jemand unbefugt auf mein Konto zugegriffen hat?
+
+Wenden Sie sich in diesem Fall bitte direkt telefonisch an unser Service-Center – ein Mitarbeiter der East West Direkt wird Ihr Konto dann prüfen und gegebenenfalls sperren.
+###
+Was mache ich, wenn ich mein Handy verloren habe oder es mir gestohlen wurde?
+
+Haben Sie Ihr Telefon verloren oder wurde es gestohlen, kontaktieren Sie bitte unseren Kundenservice telefonisch oder per E-Mail, damit wir die Telefonnummer für das mTAN-Verfahren sperren können.
+###
+Was ist ein mobiles TAN?
+
+Die East West Direkt nutzt aus Sicherheitsgründen für Überweisungen und andere sensible Vorgänge das mobileTAN-Verfahren (auch mTAN genannt). Per SMS erhalten Sie eine sechsstellige Zahlenkombination, die sogenannte mTAN, mit der Sie Ihre Transaktionen bestätigen können.
+
+Das mobileTAN-Verfahren ist ein etabliertes und sehr fortschrittliches Sicherheitsverfahren. Jede mobileTAN kann nur einmal verwendet werden und verliert nach zwei Minuten ihre Gültigkeit. Für jede Online-Transaktion wird Ihnen eine neue mobileTAN auf Ihr Mobiltelefon zugestellt. Ein Missbrauch Ihres Kontozugangs ist in Verbindung mit Ihrem Referenzkonto nahezu ausgeschlossen, denn dies erfordert nicht nur Ihre persönlichen Zugangsdaten und Ihr Kennwort, sondern auch noch den gleichzeitigen Zugang zu Ihrem Mobiltelefon und Ihrem Referenzkonto.
+
+Das Angebot der East West Direkt können ausschließlich Personen nutzen, die zum Zeitpunkt der Kontoeröffnung über eine gültige deutsche (bei Wohnsitz in Deutschland) oder eine luxemburgische Handynummer (bei Wohnsitz in Luxemburg) verfügen.
+###
+Ich kann ein PDF-Dokument nicht herunterladen bzw. öffnen. Woran kann das liegen?
+
+Dies kann mit der Version Ihres Browsers zu tun haben. Wir unterstützen die gängigen Browser Internet Explorer, Firefox, Safari und Google Chrome.
+
+Bitte aktualisieren Sie den von Ihnen verwendeten Internetbrowser auf die neueste Version, um Probleme mit einer veralteten Browserversion zu vermeiden. Sollten Probleme beim Download einer East West Direkt Datei auftreten, überprüfen Sie bitte auch die Sicherheitseinstellungen Ihres Browsers. Die Sicherheitseinstellung können Sie kurzzeitig für den Downloadprozess herabsetzen, sollte Ihr Browser das Herunterladen aufgrund der Sicherheitseinstellungen blockieren.

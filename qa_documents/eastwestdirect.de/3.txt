@@ -1,0 +1,67 @@
+###
+Wie eröffne ich ein Konto?
+
+
+Sie wohnen in Deutschland:
+Die Kontoeröffnung erfolgt ausschließlich online. Ihr Tagesgeldkonto ist schnell und unkompliziert eingerichtet: Klicken Sie auf der Internetseite auf den Button „Konto eröffnen“ und geben Sie Ihre Daten ein.
+Die nächsten Schritte bis zur erfolgreichen Kontoeröffnung:
+
+    Sie erhalten von uns innerhalb weniger Minuten eine Auftragsbestätigung per E-Mail mit Ihren Login-Daten und der IBAN-Nummer Ihres neuen Tagesgeldkontos.
+    Kunden aus Deutschland identifizieren sich bei der East West Direkt mit dem Postident-Verfahren der Deutschen Post. Dazu loggen Sie sich bitte in Ihren persönlichen Kundenbereich mit Ihren Login-Daten (https://www.eastwestdirekt.lu/thclu/policyenforcer/pages/loginB2C.jsf) ein. Bitte klicken Sie auf den Postident-Link und Sie werden für das Identifizierungs-verfahren zur Website der Deutschen Post weitergeleitet. Bitte folgen Sie den entsprechenden Anweisungen. Dort erfahren Sie auch, wie Sie das Postident-Verfahren über Video abschließen können.
+    Sie tӓtigen eine erste Überweisung von Ihrem angegebenen Referenzkonto (z. B. Ihrem Girokonto bei Ihrer Hausbank) auf Ihr East West Direkt Tagesgeldkonto.
+
+
+
+Sie wohnen in Luxembourg:
+Die Kontoeröffnung erfolgt ausschließlich online. Ihr Tagesgeldkonto ist schnell und unkompliziert eingerichtet: Klicken Sie auf der Internetseite auf den Button „Konto eröffnen“ und geben Sie Ihre Daten ein.
+Die nächsten Schritte bis zur erfolgreichen Kontoeröffnung:
+
+    Sie erhalten von uns innerhalb weniger Minuten eine Auftragsbestätigung per E-Mail mit Ihren Login-Daten und der IBAN-Nummer Ihres neuen Tagesgeldkontos.
+    Sie schicken uns eine Kopie Ihres Reisepasses oder eine doppelseitige Kopie Ihres Personalausweises per E-Mail.
+    Sie tӓtigen eine erste Überweisung von Ihrem angegebenen Referenzkonto (z. B. Ihrem Girokonto bei Ihrer Hausbank) auf Ihr East West Direkt Tagesgeldkonto.
+###
+Wie funktioniert das Identifizierungs-Verfahren?
+
+Sie wohnen in Deutschland:
+
+Kunden aus Deutschland identifizieren sich bei der East West Direkt mit dem Postident-Verfahren der Deutschen Post. Dazu loggen Sie sich bitte in Ihren persönlichen Kundenbereich mit Ihren Login-Daten (https://www.eastwestdirekt.lu/thclu/policyenforcer/pages/loginB2C.jsf) ein. Bitte klicken Sie auf den Postident-Link und Sie werden für das Identifizierungsverfahren zur Website der Deutschen Post weitergeleitet. Bitte folgen Sie den entsprechenden Anweisungen. Dort erfahren Sie auch, wie Sie das Postident-Verfahren über Video abschließen können.
+
+Sie wohnen in Luxemburg:
+
+Kunden aus Luxemburg identifizieren sich bei der East West Direkt mit der Kopie ihres Reisepasses oder Personalausweises. Dazu schicken Sie uns einfach eine Kopie Ihres Reisepasses oder Personalausweises (doppelseitig) per E-Mail.
+###
+
+Ist es notwendig, ein gemeinschaftliches Referenzkonto zu haben, um ein Gemeinschaftskonto zu eröffnen?
+
+Ja, um ein Gemeinschaftskonto bei der East West Direkt zu eröffnen, benötigen Sie unbedingt auch ein gemeinschaftliches Referenzkonto, welches Sie auf den Namen beider Gemeinschaftskontoinhaber führen.
+Kann ich auch für einen Minderjährigen ein Konto eröffnen?
+
+Leider ist es zurzeit nicht möglich, ein Tages- oder Festgeldkonto für minderjährige Kontoinhaber einzurichten. Das Angebot der East West Direkt richtet sich aktuell ausschließlich an volljährige natürliche Personen.
+###
+
+Wozu wird meine Mobilnummer benötigt?
+
+Die East West Direkt nutzt aus Sicherheitsgründen für Überweisungen und andere sensible Vorgänge das mobile TAN-Verfahren. Per SMS erhalten Sie eine sechsstellige Zahlenkombination, die sogenannte mTAN, mit der Sie Ihre Transaktionen bestätigen können.
+Wie lautet der BIC der East West Direkt?
+
+Der BIC für East West Direkt lautet EWUBLUL2.
+###
+
+Ich habe keine Bestätigungsmail erhalten. Was mache ich nun?
+
+Bitte schauen Sie in Ihrem Spampostfach nach. Es kann in Ausnahmefällen vorkommen, dass E-Mails der East West Direkt im Spamordner landen.
+
+Sollte sich die Bestätigungsmail auch nicht in Ihrem Spamordner befinden, haben Sie vielleicht versehentlich eine falsche E-Mail-Adresse angegeben. Kontaktieren Sie in diesem Fall bitte unser Service-Center telefonisch oder per E-Mail.
+###
+
+Welche technischen Voraussetzungen müssen erfüllt sein?
+
+Ihr PC, Tablet oder Smartphone muss über eine stabile Internetverbindung und einen aktuellen Internetbrowser verfügen. Wir empfehlen die Nutzung einer aktuellen Version der folgenden Browser:
+
+    Internet Explorer (ab Version 9+)
+    Mozilla Firefox (ab Version 32+)
+    Chrome (ab Version 37+)
+    Safari (Version 7 für MAC OS X / Version 5.1.7 unter Windows 7)
+
+Um alle Funktionen korrekt nutzen zu können, sollten Sie in Ihrem Browser Java Script aktivieren. Wir empfehlen Cookies zuzulassen, damit wir unsere Angebote Ihren Interessen besser anpassen können.
+###
