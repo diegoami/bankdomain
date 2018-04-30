@@ -1,0 +1,147 @@
+###
+
+Was sind PIN und TAN?
+
+Die PIN (persönliche Identifikationsnummer) ist eine Geheimnummer, mit der Sie sich im Online-Banking anmelden und somit Zugriff auf Ihr Konto haben. TAN bedeutet Transaktionsnummer. Für jeden TAN-pflichtigen Vorgang wie z.B. Überweisungen oder legitimierte Mitteilungen muss eine TAN zur Bestätigung eingegeben werden.
+###
+
+ Welche TAN-Verfahren bietet NIBC Direct an?
+
+NIBC Direct bietet Ihnen drei verschiedene TAN-Verfahren an, mit denen Sie Ihre TAN-pflichtigen Vorgänge wie z.B. Überweisungen oder den Versand legitimierter Mitteilungen im Online-Banking tätigen können. Zur Auswahl stehen:
+
+
+- SecureGo-Verfahren, bei dem die TAN über die SecureGo-App erzeugt wird
+
+- mobileTAN-Verfahren (mTAN), bei dem eine Transaktionsnummer je TAN-pflichtigem Vorgang per SMS kostenlos auf Ihr mobiles Endgerät (Mobiltelefon) versendet wird
+
+- smartTAN plus-Verfahren, bei dem eine Transaktionsnummer mit Hilfe einer kostenpflichtigen Bankkundenkarte (NIBCard) und einem kostenpflichtigen TAN-Lesegerät (multibankenfähiges Lesegerät in der Version 1.4 oder höher) erzeugt wird.
+###
+
+ Wie sicher sind die TAN-Verfahren SecureGo, mobileTAN und smartTAN plus?
+
+Die TAN-Verfahren SecureGo, mobileTAN und smartTAN plus gelten als die derzeit sichersten Verfahren zur Durchführung von Online-Banking.
+
+SecureGo-Verfahren
+
+Mit der TAN-App SecureGo empfangen Sie TAN (Transaktionsnummern) auf Ihrem Smartphone oder Tablet. Die TAN-Benachrichtigungen werden in der SecureGo-App angezeigt. Dazu benötigen Sie lediglich ein Smartphone oder Tablet, auf dem die TAN-App SecureGo installiert ist sowie eine Registrierung in der App und im Online-Banking bei NIBC Direct erfolgt ist.
+
+
+
+mobileTAN-Verfahren
+Beim mobileTAN-Verfahren (mTAN) ist die Gültigkeitsdauer der TAN auf maximal 15 Minuten und ausschließlich auf einen TAN-pflichtigen Vorgang begrenzt, und enthält alle wesentlichen Daten einer Transaktion, z.B. den zu überweisenden Betrag und die Empfänger-Kontonummer. Auf diese Weise soll eine Umleitung auf ein anderes Konto durch einen sog. Man-in-the-middle-Angriff auf die Homebanking-Internetseiten verhindert werden. Auch werden Phishing-Angriffe auf TANs, also das unerlaubte Abgreifen von TANs durch Dritte, im mTAN-Verfahren erschwert.
+
+
+
+smartTAN plus-Verfahren
+
+Beim smartTAN plus-Verfahren wird mit Hilfe einer Bankkundenkarte (NIBCard) und einem TAN-Lesegerät eine TAN pro TAN-pflichtigem Vorgang erzeugt. Nachdem z.B. eine Überweisung im Online-Banking erfasst wurde, wird ein (Start-)Code am PC-Bildschirm angezeigt. Nun muss die persönliche Bankkundenkarte (NIBCard) in das TAN-Lesegerät eingesteckt und dieser (Start-)Code über das Ziffernfeld des TAN-Lesegeräts eingetippt werden. Danach werden die Empfänger-Kontonummer sowie der Betrag der Überweisung am TAN-Lesegerät eingetippt.Aus den am TAN-Lesegerät eingegebenen Daten errechnet das TAN-Lesegerät eine auftragsbezogene TAN, die im Online-Banking erneut manuell eingegeben werden muss. Das smartTAN plus-Verfahren schützt auf diese Weise ebenso vor Phishing- bzw. Man-in-the-middle-Angriffen, nachdem die Empfänger-Kontonummer und der Betrag genauso wie am TAN-Lesegerät erneut eingegeben werden muss. Bei Nutzung des optischen Verfahrens, erscheint am PC-Bildschirm ein Barcode, der über das TAN-Lesegerät erkannt und verarbeitet wird. Das Gerät errechnet für diesen einen Vorgang eine TAN, die ebenfalls alle wesentlichen Daten der Transaktion zur Kontrolle enthält.
+###
+
+ Wie hoch sind die Kosten beim SecureGo, mobileTAN- und beim smartTAN plus-Verfahren?
+
+SecureGo-Verfahren
+
+Das SecureGo-TAN-Verfahren (Nutzung und Empfang einer TAN per SecureGo-App) für die NIBC Direct Anlagekonten (Tagesgeld, Festgeld, Kombigeld, Jugend-Festgeld und Brokerage) ist für Sie als Kunden kostenfrei.
+
+mobileTAN-Verfahren
+
+Das mobileTAN-Verfahren (Nutzung und Empfang einer TAN per SMS) für die NIBC Direct Anlagekonten (Tagesgeld, Festgeld, Kombigeld, Jugend-Festgeld und Brokerage) ist für Sie als Kunden kostenfrei.
+
+smartTAN plus-Verfahren
+
+Für die Nutzung des smartTAN plus-Verfahrens wird eine Bankkundenkarte (NIBCard) sowie ein TAN-Lesegerät benötigt. Für die NIBCard fallen für Sie als Kunden EUR 11 inkl. Porto und Versand an. Sollten Sie bereits über ein multibankenfähiges TAN-Lesegerät in der Version 1.4 oder höher verfügen, können Sie dieses TAN-Lesegerät auch in Verbindung mit Ihrer NIBCard verwenden. Für die NIBCard fallen für Sie als Kunden bei der Erstbestellung (und Folgekarte jeweils nach Ablauf der Kartengültigkeit) EUR 11 inkl. Porto und Versand an.
+###
+
+Kann ich die NIBCard auch für den Zahlungsverkehr (EC, Maestro, Giropay) oder zur Abhebung von Bargeld an Geldautomaten nutzen?
+
+Nein, die NIBCard kann ausschließlich in Kombination mit einem TAN-Lesegerät zur Erzeugung von TANs für die Durchführung von TAN-pflichtigen Vorgängen im Online-Banking genutzt werden.
+###
+
+ Was muss ich tun, wenn die Daten der TAN in der SecureGo-App, der SMS oder im TAN-Lesegerät nicht mit der beabsichtigten Überweisung übereinstimmen?
+
+In diesem Fall geben Sie die TAN bitte nicht ein, sondern lassen sie verfallen. Falls Sie vermuten, dass ein Unbefugter Zugriff auf Ihr Onlinekonto hat, informieren Sie bitte NIBC Direct und ändern Sie die PIN nur von einem sicheren PC.
+###
+Kann ich mit SecureGo, mobileTAN und smartTAN plus gleichzeitig arbeiten (z. B. wenn ich mal von zu Hause und mal von unterwegs arbeiten will)?
+
+Bitte beachten Sie, dass Sie das SecureGo-TAN-Verfahren und mobileTAN nicht gleichzeitig verwenden können. Wenn Sie sich beispielsweise für das SecureGo-Verfahren entscheiden, wird das bestehende mobileTAN-Verfahren abgeschaltet.
+
+Beide dieser TAN-Verfahren sind jedoch mit dem smartTAN plus-Verfahren kombinierbar.
+
+Voraussetzung ist, dass Sie für die relevanten Verfahren freigeschaltet sind.
+###
+
+
+Wie kann ich meine für die mobileTAN-Nutzung hinterlegte Mobilfunknummer ändern?
+
+Gehen Sie im Online-Banking/Login-Bereich unter "Service" auf "TAN Verwaltung" und senden Sie uns eine legitimierte Mitteilung mit der Bitte um eine Änderung Ihrer Mobilfunknummer. Teilen Sie uns bitte auch gleich Ihre neu zu hinterlegende Mobilfunknummer mit. Sie erhalten mit der Post einen neuen Freischaltcode von uns, mit dem Sie im Online-Banking-Bereich die Freischaltung Ihrer neuen Mobilfunknummer vornehmen können.
+###
+
+Ich habe bereits ein TAN-Lesegerät von einer anderen Bank. Kann ich es nutzen?
+
+Ja, Sie benötigen jedoch ein multibankenfähiges TAN-Lesegerät der jüngsten Generation in der Version 1.4 oder höher. Sie erkennen das am Aufdruck "1.4 oder höher" auf der Rückseite des TAN-Lesegeräts.
+###
+
+Wir führen ein Gemeinschaftskonto. Muss jeder von uns sich für ein TAN-Verfahren entscheiden und wäre es auch möglich, dass mein Partner ein anderes TAN-Verfahren nutzt als ich?
+
+Jedes Mitglied einer sog. Personengemeinschaft muss sich für ein TAN-Verfahren entscheiden. Sie müssen allerdings nicht das gleiche TAN-Verfahren wie Ihr Partner nutzen und haben somit die freie Wahl zwischen dem SecureGo-Verfahren, mobileTAN-Verfahren und dem smartTAN plus-Verfahren.
+###
+
+Ich habe mich für das smartTAN plus-Verfahren entschieden und eine NIBCard bestellt. Wann erhalte ich die NIBCard?
+
+Sie erhalten Ihre NIBCard separat per Post zugeschickt, nachdem Ihre Konto- bzw. Depoteröffnungsunterlagen vollständig bearbeitet wurden.
+
+###
+
+Was ist bei einem Verlust oder Defekt der NIBCard zu beachten?
+
+Wir sperren Ihre NIBCard, sobald uns ein schriftlicher Auftrag, gerne auch per Fax, vorliegt. Die gesperrte NIBCard steht dann als TAN-Medium nicht mehr zur Verfügung. Ebenso bestellen wir für Sie eine Ersatz-NIBCard, sodass Sie mit der neuen Karte weiterhin am smartTAN plus-Verfahren teilnehmen können. Bitte beachten Sie, dass die Kosten für eine Ersatz-NIBCard zulasten des Kunden gehen, sofern das Verschulden des Verlusts oder der Zerstörung der NIBCard auf Seiten des Kunden liegt.
+###
+
+Welche Gültigkeitsdauer hat die NIBCard?
+
+Die NIBCard ist ab Ausstellungsdatum mindestens 4 Jahre bis zum Jahresende gültig. Die genaue Gültigkeitsdauer ist auf der Karte vermerkt.
+###
+
+Ich habe mich bereits für das mobileTAN-Verfahren im Online-Banking angemeldet und finde meinen Freischaltcode nicht mehr. Wie kann ich mich für das mobileTAN-Verfahren freischalten lassen?
+
+Lassen Sie uns in diesem Fall eine schriftliche Mitteilung zukommen und wir senden Ihnen den Freischaltcode in Kürze zu.
+
+###
+
+Gibt es geographische Einschränkungen für die Nutzung der SecureGo-App?
+
+Nein, SecureGo kann weltweit genutzt werden. Es ist lediglich eine Internetverbindung erforderlich.
+###
+
+Kann ich die SecureGo-App nur über das Mobilfunknetz nutzen?
+
+Für die Nutzung der SecureGo-App ist lediglich eine Internetverbindung erforderlich. Ob diese über das Mobilfunknetz oder über WLAN zustande kommt, ist dabei unerheblich.
+
+###
+
+Mit welchen Betriebssystemen kann ich die TAN-App SecureGo nutzen?
+
+Sie können die SecureGo-App mit den Betriebssystemen iOS ab Version 7 oder Android ab Version 4.0 nutzen.
+###
+ Warum steht die TAN nicht in der Push-Nachricht?
+
+Die TAN steht nicht in der Push-Nachricht, da diese unverschlüsselt über die Server der Anbieter Apple oder Google übertragen wird. Zudem wird die Push-Nachricht je nach Einstellung Ihres Gerätes direkt in der Vorschau angezeigt. Die TAN wird aus diesen Gründen ausschließlich in der speziell gesicherten SecureGo-App angezeigt. Dabei erfolgt die Übertragung der TAN verschlüsselt.
+###
+ Kann ich die SecureGo-App auch mit einem Mobilfunkvertrag mit einem ausländischen Provider nutzen?
+
+Ja, das ist möglich. Zum Abruf der TAN ist nur eine bestehende Internetverbindung notwendig. Diese kann über das Mobilfunknetz oder über WLAN zustande kommen.
+
+###
+ Was kann ich tun, wenn ich das Anmeldekennwort für die SecureGo-App vergessen habe?
+
+Wenn Sie das Anmeldekennwort für die SecureGo-App vergessen haben, müssen Sie diese App zuerst löschen, dann neu installieren und anschließend registrieren.
+###
+
+Meine Banking App meldet sich automatisch ab, sobald ich in die SecureGo-App wechsel. Was kann ich machen?
+
+Hierzu müssen Sie in den Einstellung der Banking App die Sperrzeit einstellen. Setzen Sie diese auf die maximale Zeit von 3 Minuten.
+###
+ Wieso steht mTAN nicht mehr zur Verfügung?
+
+Aus Sicherheitsgründen können das mTAN- und das SecureGo-Verfahren nicht gleichzeitig verwendet werden. Sobald Sie das SecureGo-Verfahren freigeschaltet haben, wird das mTAN-Verfahren automatisch abgeschaltet.
+###

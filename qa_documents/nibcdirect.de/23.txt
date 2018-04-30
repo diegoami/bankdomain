@@ -1,0 +1,54 @@
+###
+
+Was ist HBCI?
+
+HBCI steht für Home Banking Computer Interface. Es ermöglicht Ihnen, mit Hilfe eines Online-Banking-Software-Programms gleichzeitig auf Ihre Konten bei verschiedenen Banken zuzugreifen.
+###
+ Kann ich mit einer Online-Banking-Software und HBCI auf mein NIBC Direct Konto zugreifen?
+
+Sie können mit einigen Online-Banking-Software-Programmen und HBCI auf Ihr Mehr.Zins.Konto oder Jugend.Zins.Konto zugreifen. Weiterhin können Sie Umsätze und Salden der Mehr.Geld.Konten sowie Mehr.Kapital.Konten und Jugend.Kapital.Konten abrufen.
+
+Folgende Online-Banking-Software-Programme, die von NIBC Direct getestet wurden, unterstützen derzeit den Zugriff auf Ihr NIBC Direct Konto:
+
+- Windata
+
+- WISO
+
+- Mein Geld
+
+- S-Firm
+
+- VR Networld
+
+- StarMoney (ab Version 7.0)
+
+- Quicken
+
+- Moneyplex
+
+- ALF-BanCo 3.0 und höher
+
+- Hibiscus
+
+- Subsembly Banking 3.0 und höher
+
+- iOutBank
+
+- Saldomat
+
+- T-Online-Homebanking-Software
+
+- HomeBanking 2010 (Akademische
+Arbeitsgemeinschaft Verlag)
+
+- Gnucash
+
+- S-Banking
+
+- Bank X
+###
+
+Was kostet das HBCI-Banking bei NIBC Direct?
+
+Die HBCI-Nutzung ist kostenfrei.
+###

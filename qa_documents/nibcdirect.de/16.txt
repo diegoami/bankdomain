@@ -1,0 +1,17 @@
+###
+
+Was ist ein Aktiensplit?
+
+Im Fall eines Aktiensplits (Teilung der Aktien) werden die Aktien einer AG in kleinere Einheiten aufgeteilt (z.B. 2 neue Aktien für 1 alte). Dadurch steigt die Zahl der Aktien und reduziert sich im Gegenzug der Nennwert bzw. der Eigenkapitalanteil pro Aktie. In der Folge sinkt der Kurs pro Aktie. Der Depotwert bleibt durch den Split selbst unverändert. Eine höhere Anzahl an Aktien kann die Handelbarkeit und somit die Nachfrage fördern.
+###
+ Was passiert mit meinen Wertpapieren bei einem Aktiensplit?
+
+Im Falle eines Aktiensplits werden die Aktien eines Werts in einem bestimmten Verhältnis gesplittet, also geteilt: Die Anzahl der Aktien nimmt in diesem Verhältnis zu und der Wert des Papiers im selben Verhältnis ab. Diese Änderungen werden automatisch in Ihrem Depot vorgenommen; es besteht also Ihrerseits kein Handlungsbedarf.
+
+Ein einfaches Beispiel: Der Aktienkurs vor dem Split notiert bei € 100 pro Aktie, die Anzahl der Aktien im Beispieldepot beträgt 10 Stück, das Splitverhältnis wird auf 1 : 4 festgelegt. Hieraus ergibt sich ein neuer Aktienkurs von 100/4 (Anwendung des Splitverhältnisses) = € 25 pro Aktie und eine Anzahl von 10 x 4 = 40 Stück. Der Gesamtwert Ihrer Position bleibt somit unverändert.
+###
+
+Was kostet eine Order in Bezugsrechten?
+
+Eine Order in Bezugsrechten kostet Sie lediglich die Standardordergebühren, ggf. zuzüglich fremder Spesen. Zusätzliche Gebühren fallen bei NIBC Direct nicht an.
+###

@@ -1,0 +1,114 @@
+###
+ Benötige ich ein P-Konto? Und wenn nicht, kann ich trotzdem eins einrichten?
+
+Zur ersten Frage: Ein P-Konto benötigt nur, wer mit einer Kontopfändung rechnen muss oder bei dem schon eine Kontopfändung besteht. Rechnen muss man mit einer Kontopfändung, wenn ein Gläubiger über einen Titel gegen den Schuldner verfügt (ein “Titel” ist eine vollstreckbare Urkunde, am häufigsten ist der Vollstreckungsbescheid. Weitere Beispiele sind Urteile, notarielle Anerkenntnisse, behördliche Verwaltungsakte, z.B. des Finanzamtes). Wenn der Schuldner seine Schulden nicht zurückzahlt/ zurückzahlen kann oder jedenfalls nicht in der Weise, wie der Gläubiger es verlangen darf, dann besteht die Gefahr, dass der Gläubiger eine Kontopfändung veranlasst. Hat man kein P-Konto, ist das Konto dann “dicht”; darauf sollte man es nicht ankommen lassen. Andererseits macht es keinen Sinn und ist unter Umständen auch nachteilig, wenn man ein P-Konto einrichten lässt, ohne dass es nötig ist. Wer schwankt, sollte unbedingt eine Schuldnerberatung zu dieser Frage konsultieren.
+
+Die zweite Frage, ob man – auch wenn es vielleicht gar nicht erforderlich ist – ein P-Konto einrichten kann, ist leicht zu beantworten mit “Ja”. Ob jemand die Schutzfunktion des P-Kontos in Anspruch nimmt oder nicht, überlässt das Gesetz vollständig dem Belieben des Kontoinhabers (“der Kunde”). Auch ein Multimillionär ohne einen Euro Schulden könnte das also. Die Frage ist aber, wie schon gesagt, ob es Sinn macht.
+
+
+
+
+###
+Gibt es einen Anspruch auf ein P-Konto?
+
+   Wenn man von einem P-Konto spricht, denkt man vielleicht an ein bestimmtes Kontomodell. Das ist aber “das P-Konto” nicht. Hiermit ist vielmehr nur eine Schutzfunktion gemeint, die man zum bereits bestehenden Konto aktivieren kann. Wenn jemand seiner Bank gegenüber zum Ausdruck bringt, dass er diesen Schutz aktivieren will, dann ist die Bank verpflichtet, dies zu veranlassen. Insoweit also besteht “ein Recht auf ein P-Konto”.
+
+   Was damit aber nicht gemeint ist, ist ein Anspruch auf ein Konto. Das Recht auf die P-Konto-Funktion setzt immer voraus, dass es bereits ein Konto gibt.
+###
+Wie hoch ist der Schutzbetrag eines Pfändungskontos?
+
+Das bestimmt § 850c Abs. 1 ZPO iVm. § 850c Abs. 1 Ziff. 2a ZPO (bei Pfändung wegen Unterhaltsschulden beachte aber auch § 850d ZPO). Danach gilt als Freibetrag für das P-Konto immer der (aktuelle) gesetzlich festgelegte Grundfreibetrag. Dieser beträgt (Stand Juli 2017 bis Juli 2019, ohne Unterhaltspflichten) 1.133,80 Euro.
+
+Dieser Grundfreibetrag steht jeder einzelnen Person zu. Er erhöht sich (siehe dazu sogleich unter 4.), wenn Unterhaltspflichten gegenüber Personen bestehen und/ oder bestimmte geschützte Gelder auf dem Konto eingehen (insb. Kindergeld). Aber Achtung: Der Schutz des P-Kontos ist statisch. Er gewährt auf dem P-Konto zunächst einmal lediglich die jeweiligen Grundfreibeträge und nicht den sich aus der Höhe des jeweiligen Nettoeinkommens ergebenden Freibetrag, wie er aus der Tabelle ablesbar ist (lies dazu bitte auch unten: Anmerkung zu Ziffer 10.)
+
+###
+Wie kann ich den erhöhten Schutzbetrag sichern?
+
+Wer keine Unterhaltspflichten hat, wem also “nur” der Grundfreibetrag (s.o. unter 3.) zusteht, benötigt keinen weiteren Nachweis. Dann genügt es, wenn der/ die Betroffene zu seiner/ ihrer Bank geht und die Bank auffordert, das bestehende P-Konto mit dem P-Konto-Schutz zu versehen. Die Bank ist dazu verpflichtet, dieses P-Konto einzurichten, wenn der Schuldner bei dieser Bank ein Konto führt.
+
+Für diejenigen, die einen erhöhten Pfändungsfreibetrag geltend machen können, gilt: Sie benötigen eine Bescheinigung von einer anerkannten Stelle (gem. § 850k ZPO), um den Grundfreibetrag entsprechend zu erhöhen (siehe dazu auch unter 5.). Zwar können natürlich auch diese Personen ohne diese Bescheinigung jederzeit ein P-Konto einrichten, würden dann aber nur den niedrigsten Grundfreibetrag absichern. Die Bescheinigung muss bei der Bank abgegeben werden, bei der man sein P-Konto führt.
+###
+Wo bekomme ich die Bescheinigung gem. § 850k ZPO?
+
+Ein großes Problem. Vor allem, wenn es schnell gehen muss. Wenn Sie das hier allerdings lesen, sind Sie ja schon mal auf unserer Seite. Und wir stellen – unabhängig vom Wohnort – für jedermann kostenfrei diese Bescheinigung aus und senden sie postalisch zu. Ausstellungsbefugt sind anerkannte (!) Schuldnerberatungsstellen (Wohlfahrtsverbände mit Zulassung oder Rechtsanwaltskanzleien). Die im Gesetz genannten weiteren Befugten (Arbeitgeber, Familienkasse usw.) sind damit regelmäßig überfordert. Inzwischen gibt es auch Webseiten, die die Erstellung der Bescheinigungen kommerziell anbieten und 30 Euro oder mehr dafür verlangen. Das ist bloße Abzocke.
+###
+Wenn ich ein P-Konto habe, kann mein Konto dann nicht mehr gepfändet werden?
+
+Doch, das Konto kann nach wie vor gepfändet werden. Allerdings greift die Pfändung dann nur noch durch (wird für den Schuldner spürbar), wenn der monatliche Eingang den Freibetrag übersteigt. Das P-Konto errichtet um das Konto ein “Gitter” in einer bestimmten Höhe. Die Kontopfändung stellt nun nur noch die Eintrittskarte für den Gläubiger dar, an dieses Gitter heran zu treten und warten zu dürfen, dass etwas über “den Zaun” fällt. Ohne Pfändung käme er gar nicht an das Gitter heran. Erfolgt also eine Pfändung eines P-Kontos, ist das Konto(guthaben) zwar gepfändet, die unpfändbaren Beträge auf dem Konto aber nicht. Oder einfacher: Das P-Konto verhindert nicht die Pfändung des Kontos, sondern schützt in Höhe des jeweiligen Freibetrags vor deren Wirkung.
+###
+Kann man auch Einkünfte aus Selbständigkeit durch ein P-Konto schützen lassen?
+
+Dass jeder die Möglichkeit hat, ein Konto als P-Konto schützen zu lassen, hat einen enormen Vorteil: Der Schutz des P-Kontos stellt allein auf die Summe der monatlichen Zahlungseingänge ab, egal woher die Zahlungen kommen oder wie sie sich zusammensetzen. Wichtig ist nur WIEVIEL, nicht WOHER. Mit allen Vor- und Nachteilen.
+
+Vor der Einführung des P-Kontos war ein Schutz grundsätzlich nur durch gerichtliche Freigaben möglich, und die waren für Selbständige schon immer besonders schwer durchzusetzen.
+
+Damit kann folglich jedermann, auch der Selbständige, einen Grundfreibetrag schützen lassen, unabhängig davon, welchen Hintergrund die Einzahlung auf dem Konto hat. Allerdings immer nur in der Höhe des monatlichen Schutzbetrages.
+###
+Am Anfang und am Ende des Monats gehen je 1000 € ein. Die erste Einzahlung wird sofort abgehoben: Wird der Freibetrag am Ende des Monats dann noch überschritten?
+
+Ja, denn alle Eingänge eines Monats werden zusammengerechnet. Es kommt überhaupt nicht darauf an, was abgehoben wurde, sondern nur, was im Laufe des Monats zugeflossen ist. Wenn diese Eingangsbeträge in der Summe den Freibetrag nicht übersteigen, dann fällt für den pfändenden Gläubiger nichts über den Zaun. Sonst schon. Es ist also nicht erforderlich, dass der Freibetrag durch das Guthaben auf dem Konto überschritten wird, allein die Gesamtsumme des monatlichen Zuflusses ist entscheidend.
+###
+Ein P-Konto, aber keine Pfändung – was passiert?
+
+Dass jemand ein P-Konto führt, ohne eine Pfändung auf dem Konto zu haben, ist praktisch gar nicht einmal selten. Denn es empfiehlt sich die Einrichtung des P-Kontos oft schon dann, wenn man mit einer Pfändung rechnen muss.
+
+Aber: Solange kein Gläubiger gepfändet hat (“am Gitter steht”), kann auf dem Konto eingehen was will. Der Schutz des P-Kontos wirkt erst, wenn er benötigt wird, also wenn die Pfändung eines Gläubigers eingeht. Der Grund ist ganz einfach: Erst die Pfändung kann zu Beschränkungen für das Konto führen. Ohne Pfändung steht immer alles Geld auf dem Konto zur freien Verfügung. Daran ändert sich durch die Aktivierung der P-Konto-Funktion nichts.
+
+Eigentlich handelt sich um eine Binsenweisheit, dass das Konto nicht gepfändet ist, wenn es nicht gepfändet ist, dennoch ergibt sich dies auch aus dem Gesetzestext selbst (Hervorhebung durch uns):
+###
+P-Konto mit Kontopfändung: Darf der Gläubiger jetzt noch das Gehalt pfänden?
+
+Ja, er darf. Denn das P-Konto ist (nur) eine Schutzfunktion für das im Zahlungs- und Geschäftsverkehr geradezu unverzichtbare Bankkonto. Der Gläubiger ist nicht gehindert, andere Pfändungsarten zu wählen oder mehrere Pfändungsarten nebeneinander zeitgleich zu betreiben (zum Beispiel Konto- und Lohnpfändung). Unzulässig ist lediglich die echte Doppelpfändung, also die Pfändung ein und desselben Pfändungsgegenstands aufgrund derselben Forderung.
+
+Bei der Lohnpfändung wird der Anspruch des Schuldners gegen den Arbeitgeber gepfändet. Eine Schutzfunktion wie bei der Kontopfändung gibt es hier nicht (also kein “P-Gehalt”) und das aus gutem Grund: Sie ist hier gar nicht nötig. Denn bei der Gehalts- bzw. Lohnpfändung wird von durch den Arbeitgeber nur der pfändbare Anteil des Einkommens an den pfändenden Gläubiger überwiesen. Dabei wird (anders, als beim P-Konto) von vornherein der Pfändungsfreibetrag gemäß Tabelle (§ 850c ZPO) und auch sonst bestehende Freistellungen beachtet. Das war bei der Lohnpfändung schon immer so. Inzwischen zeigt die Praxis, dass Gläubiger wieder öfter zur Lohnpfändung greifen, weil der Vorteil der Kontopfändung, wie er vor Einführung des P-Kontos bestand (es wurde bis dahin sehr gern als Druckinstrument verwendet, da sich Freigaben für den Betroffenen oft als recht kompliziert darstellten), nunmehr weitgehend verloren gegangen ist.
+###
+Ich habe zwei Konten, von denen eins ein P-Konto ist. Das Arbeitseinkommen von etwa 1.000 Euro wird auf das P-Konto überwiesen. Daneben habe ich aber noch einen Nebenverdienst von 600 Euro, den ich mir auf das andere Konto überweisen lasse. Ist das zulässig?
+
+Ja, grundsätzlich ist das möglich. Der Gläubiger kann aber Ihr zweites Konto pfänden, das ja kein P-Konto ist. Dann wären die Eingänge auf dem ungeschützten Konto kaum mehr zu retten. Der Schutz durch das P-Konto stellt nur auf die Höhe des Eingangs auf diesem Konto ab. Wenn z.B. der Arbeitgeber nur einen geschützten Betrag auf das Konto überweist und den Rest z.B. bar an den Arbeitnehmer auszahlt, besteht zwar möglicherweise pfändbares Einkommen, der auf dem Konto eingehende Anteil wäre aber vollständig geschützt. Hier müsste – um an den pfändbaren Anteil zu kommen – der Gläubiger den Lohn pfänden. Generell gilt: Soweit es dem Schuldner möglich ist, die Höhe des Eingangs auf seinem Konto zu regulieren, darf er dies auch. Man muss aber ehrlicherweise auch erwähnen, dass sich dabei die Frage der Vollstreckungsvereitelung (strafbar gem. § 288 StGB) stellen kann, zumindest dann, wenn die Überweisungen auf Fremdkonten vorgenommen werden. Praktisch ist das aber sehr selten ein Problem.
+###
+Darf ich mehrere P-Konten führen?
+
+Schlicht und ergreifend: Nein.
+###
+Was wird mit geschütztem Guthaben, das nicht verbraucht wird? – Übernahmebetrag, first-in-first-out
+
+“Übrig gebliebenes” Guthaben des einen Monats bleibt im Folgemonat zusätzlich zum Schutzbetrag vollständig frei, wenn es im Eingangsmonat geschützt war. Man spricht hier von Übernahmebeträgen, zum Teil auch von Ansparbeträgen (in Abgrenzung zu sog. Moratoriumsbeträgen, s.u. sub 16). Wer also aus dem vergangenen Monat von seinem geschützten (unpfändbaren) Guthaben beispielsweise 500 Euro in den neuen Monat hinüber nimmt und im neuen Monat einen Zugang von 1.300 Euro hat, dessen Freibetrag bestimmt sich (im Folgemonat) nicht aus 1.800 Euro, sondern (nur) aus 1.300 Euro; die 500 Euro stehen vollständig zusätzlich zur Verfügung.
+###
+Kann ein P-Konto noch eingerichtet werden, wenn die Pfändung bereits auf dem Konto ist?
+
+Ja, natürlich. Sie können jederzeit und unabhängig von bestehenden Pfändungen ein P-Konto einrichten. Besteht bereits eine Kontopfändung und wird innerhalb von vier Wochen nach der Pfändung ein P-Konto eingerichtet, wirkt der Schutz des P-Kontos für den betreffenden Zeitraum auch rückwirkend.
+###
+Wie lange dauert es, bis die Bank den P-Konto-Schutz vornimmt?
+
+Im Gesetz ist diese Frage nur für den Fall beantwortet worden, bei dem bereits eine Pfändung auf dem Konto vorliegt. Das macht auch Sinn, denn wenn noch keine Pfändung da ist, kommt es auf besondere Eile ja (noch) nicht an. Wenn ein P-Konto bei der Bank eingerichtet werden soll und eine Pfändung bereits vorliegt, hat die Bank das P-Konto (spätestens) nach vier Tagen einzurichten.
+###
+Alles, was den Schutzbetrag übersteigt, wird sofort abgeführt? – Moratoriumsbetrag/ Übergabebetrag
+
+Wir haben uns bereits (s.o. sub 13.) mit dem Fall beschäftigt, bei dem es um die Übernahme von Beträgen in den Folgemonat ging. Da handelte es sich um Beträge, die im Eingangsmonat geschützt waren, aber nicht verbraucht wurden.
+
+Das muss man unterscheiden von den Eingängen, die im Eingangsmonat den Freibetrag überstiegen haben, denn alles, was im Eingangsmonat den Freibetrag übersteigt, wird von der Bank automatisch einbehalten.
+
+Wer denkt, dass das Geld damit auf kurzem Wege zum Gläubiger abgeführt wird, irrt. Denn es ist gesetzlich geregelt (§ 835 Abs. 4 Satz 1 ZPO), dass die Bank vor Ablauf von 4 Wochen nach Eingang der Summe nichts an den Gläubiger auszahlen darf (deshalb spricht man hier von Moratoriumsbeträgen). Aber das ist noch nicht alles, denn § 850k Abs. 1 Satz 2 ZPO dehnt zusätzlich den Pfändungsschutz für diese Beträge aus, indem das so übertragene Guthaben zum unpfändbaren Guthaben des Folgemonats erklärt wird.
+
+Man kann es so zusammenfassen: Alles, was im Eingangsmonat den Freibetrag auf dem P-Konto übersteigt, wird von der Bank zunächst zurückgehalten, dann aber wieder als Einkommen des Folgemonats behandelt und freigegeben. Aus diesem Grund zahlt die Bank diesen Betrag Anfang des Folgemonats aus (natürlich maximal in der Höhe des bestehenden Freibetrages, vgl. Verweis § 850k Abs. 1 Satz 2 auf Satz 1). Die Behandlung als Einkommen des Folgemonats ist dabei konsequent; die Überträge werden mit den originär eingehenden Eingängen des Folgemonats zusammengerechnet. Entsteht dadurch wieder ein übersteigender Betrag, wird dieser wieder einbehalten und als Einkommen des darauf folgenden Monats behandelt.
+
+Das geht technisch so lange, bis der in den Folgemonat übertragene Betrag selbst schon den Freibetrag auf dem P-Konto übersteigt, denn diese übersteigenden Beträge sind dann nicht mehr geschützt. Wenn das monatliche Einkommen immer den Freibetrag übersteigt, wird dieser Betrag sich früher oder später (je nachdem, wie hoch der übersteigende Teil ist) ansammeln. Ist das eingehende Einkommen aber so niedrig, dass es den Freibetrag nicht erreicht, werden die Mehrbeträge jeden Monat benutzt, um die Differenz zwischen Freibetrag und tatsächlichem Eingang im jeweiligen Monat aufzufüllen. Aufgrund der Fiktion des späteren Eingangs entsteht hier das Problem des dritten Monats nicht (anders bei Übernahmebeträgen, s.o. sub 13).
+
+Das ist sozusagen der schwiergste Teil: Übergabe- bzw. Moratoriumsbeträgen von Übernahmebeträgen (s.o. sub 13) zu unterscheiden und entsprechend zu handhaben. Dabei kommt es sehr häufig zu einem Zusammentreffen beider Formen. Schwierig ist die Handhabung indes nicht, wenn das Prinzip verstanden worden ist.
+###
+Kostet ein P-Konto extra Gebühren?
+
+Es war ein erklärtes Anliegen des Gesetzgebers, mit der Einrichtung des P-Kontos keine Erschwernisse für den Kontoinhaber zu verbinden. Der Rechtsausschuss fasste die Position und diesbezüglichen Erwartungen des Gesetzgebers im April 2009 wie folgt zusammen:
+
+    Nach der Rechtsprechung des Bundesgerichtshofs sind Klauseln in allgemeinen Geschäftsbedingungen von Kreditinstituten, in denen für die Bearbeitung und Überwachung von Pfändungsmaßnahmen gegen Kunden von diesen ein besonderes Entgelt gefordert wird, unwirksam (BGHZ 141, 380). Ein Sonderentgelt für die Umstellung nach § 850k Abs. 7 Satz 2 ZPO-E ist mit dieser Rechtsprechung nicht vereinbar. Auch für die Führung des Pfändungsschutzkontos darf die Preisgestaltung der Banken jedenfalls das für ein allgemeines Gehaltskonto Übliche nicht übersteigen. Der Ausschuss geht davon aus, dass die Kreditwirtschaft ihren Beitrag dazu leisten wird, den Zugang ihrer Kunden zu Pfändungsschutzkonten nicht zu erschweren, zumal sie von den erheblichen Verbesserungen bei der Abwicklung von Pfändungen profitiert.
+
+    Es gilt als unstrittig, dass P-Konten keine erhöhten Kosten rechtfertigen. Das heißt: Das Konto mit P-Konto-Schutz darf nicht teurer sein als ohne. Es wird aber auch nicht billiger.
+###
+Was bedeutet das P-Konto für “meine” SCHUFA?
+
+Das P-Konto ist in der SCHUFA ersichtlich. Dies soll zum einen unmöglich machen, dass ein Schuldner mehrere P-Konten einrichtet, denn er ist nur berechtigt, ein Konto als Pfändungsschutzkonto zu führen. Es bedeutet aber auch, dass diejenigen Schuldner, die vor 2012 auf die Einrichtung eines P-Kontos nur deshalb verzichtet haben, um die Eintragung desselben in der sonst (möglicherweise) “blütenreinen SCHUFA” (das kommt gar nicht so selten vor) zu vermeiden, seither den bitteren Happen doch schlucken mussten. Vorher war es möglich, den unpfändbaren Betrag durch einen Antrag bei Gericht zu schützen. Dieser Antrag und die daraufhin erfolgte gerichtliche Freigabe waren natürlich nicht in der SCHUFA ersichtlich.
+
+Diese Speicherung bei den Auskunfteien (SCHUFA) soll aber allein die Aufgabe erfüllen, eine mehrfache Einrichtung von P-Konten zu verhindern. Der Gesetzgeber hat daher gleichzeitig geregelt, dass diese Eintragung ausschließlich dazu verwendet werden darf, Anfragen von Banken zu beantworten, ob bereits ein P-Konto geführt wird und verbietet jede andere Nutzung oder Verarbeitung.
+
+
+###

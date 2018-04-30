@@ -1,0 +1,57 @@
+###
+
+Wie hoch ist die Einlagensicherung?
+
+Die NIBC Bank N.V. unterliegt den niederländischen Regelungen zur Einlagensicherung.
+
+Jeder Sparer hat Anspruch auf Entschädigung bis zu einer maximalen Höhe von insgesamt € 100.000. Dieses Maximum gilt für alle Konten jedes individuellen Sparers bei einer Bank insgesamt, nicht jedoch für jedes einzelne Konto.
+
+Das bedeutet: Wer mehr als ein Konto bei einer Bank oder einer ihrer Filialen hat, hat nur Anspruch auf eine Entschädigung von insgesamt maximal € 100.000 bei dieser Bank. Einzige Besonderheit: Im Falle von gemeinsamen, sogenannten Oderkonten hat jeder der gemeinsamen Kontoinhaber für sich Anspruch auf den Maximalbetrag von insgesamt € 100.000 bei dieser Bank.
+###
+
+
+Wie funktioniert das niederländische Einlagensicherungssystem?
+
+Die NIBC Bank N.V. und ihre Niederlassungen in der Europäischen Union unterliegen dem niederländischen Einlagensicherungssystem, welches durch De Nederlandsche Bank N.V. (DNB) beaufsichtigt und umgesetzt wird. Die DNB ist das niederländische Aufsichtsorgan, vergleichbar mit der Deutschen Bundesbank und der Bundesanstalt für Finanzdienstleistungsaufsicht, und übt die Tätigkeiten beider Institute aus. Das Einlagensicherungssystem ist in den Niederlanden seit 1978 gesetzlich verankert, um die Interessen der Einleger zu schützen. Das Einlagensicherungssystem wird vom niederländischen Gesetzeswerk des sogenannten Wft geregelt (Wet op het financieel toezicht) und ist seit dem 1. Januar 2007 als Depositengarantiesystem (niederländisch: Depositogarantiestelsel) bekannt.
+
+###
+
+Wer sichert die Zahlungsfähigkeit dieses Systems?
+
+Für das von der DNB verwaltete Einlagensicherungssystem kommen die Banken im Grundsatz gemeinschaftlich auf. Seit dem 1. Juli 2013 sind die Banken verpflichtet, einen vierteljährlichen Beitrag in einen Fonds des Einlagensicherungssystems zu zahlen. Im dem Fall, dass das System greift, wird der Fonds ausgezahlt. Ist der Fonds nicht ausreichend, werden die restlichen Kosten - analog zur früheren Vorgehensweise - auf die Banken verteilt.
+###
+
+Welche Entschädigung wird gewährt?
+
+Die NIBC Bank N.V. unterliegt den niederländischen Regelungen zur Einlagensicherung. Diese sehen pro Sparer eine maximale Entschädigung von insgesamt € 100.000 pro Bank vor. Im Falle von gemeinsamen, sogenannten Oderkonten hat jeder der gemeinsamen Kontoinhaber für sich Anspruch auf den Maximalbetrag.
+###
+
+Wann wird die Entschädigung gezahlt?
+
+Die Ausgleichszahlung erfolgt in der Regel innerhalb von 20 Werktagen nach Inkrafttreten der Einlagensicherung. Dafür muss ein Anspruch auf die Entschädigung bei der DNB geltend gemacht werden. Dies kann entweder online oder postalisch erfolgen. In Ausnahmefällen kann die DNB die Frist einmal um maximal 10 Werktage verlängern. Bei Stellung des Anspruchs per E-Mail muss mit längeren Bearbeitungszeiten gerechnet werden. Kunden haben bis zu 3 Monate Zeit, den Anspruch auf die Ausgleichszahlung bei der DNB geltend zu machen.
+###
+
+Können die Aktivitäten der NIBC Bank N.V. am Finanzmarkt Auswirkungen auf die Einlagensicherung haben?
+
+Nein. Im Rahmen des niederländischen Einlagensicherungssystems ist die Sicherheit der Einlagen unabhängig von den Aktivitäten der NIBC Bank N.V. am Finanzmarkt garantiert.
+###
+
+Gibt es bei der De Nederlandsche Bank (DNB) einen deutschsprachigen Ansprechpartner zum Thema Einlagensicherung?
+
+Die auf den Seiten der DNB verwendeten Sprachen sind Niederländisch und Englisch. Sollten Sie eine spezielle Frage zur Einlagensicherung haben, die nicht durch die Fragen und Antworten und andere Informationen auf unserer Website www.nibcdirect.de abgedeckt ist, können Sie diese gerne schriftlich an unser ServiceCenter richten. Wir beantworten diese dann. Uns ist es wichtig, Sie in Fragen der Einlagensicherung präzise und passgenau zu informieren.
+###
+ Wie ist die EU-Richtlinie zur Einlagensicherung in nationale niederländische Gesetzgebung umgesetzt worden?
+
+Die EU Richtlinie (2014/49/EU), welche die Einlagensicherung regelt, ist in der nationalen niederländischen Gesetzgebung in drei Stufen umgesetzt worden:
+
+###
+
+Innerhalb welcher Fristen erfolgt eine Ausgleichszahlung im Einlagensicherungsfall?
+
+Im Einlagensicherungsfall erfolgt eine Ausgleichszahlung in der Regel innerhalb von 20 Werktagen nach Inkrafttreten der Einlagensicherung. Ab 2019 werden die Erstattungsfristen sukzessive verkürzt: 15 Arbeitstage ab dem 1. Januar 2019 bzw. 10 Arbeitstage ab dem 1. Januar 2021 bzw. 7 Arbeitstage ab dem 1. Januar 2024. Dies ist auch auf dem Informationsbogen für Einleger ausgeführt, den wir einmal jährlich in das Online-Banking Postfach unserer Kunden einstellen.
+###
+
+Wie geht eine Ausgleichszahlung im Einlagensicherungsfall konkret von statten?
+
+Eine Ausgleichszahlung erfolgt in der Regel innerhalb von 20 Werktagen nach Inkrafttreten des Einlagensicherungsfalles (in den Folgejahren entsprechend der dann geltenden gesetzlichen Regelung). Dafür muss ein Anspruch auf die Entschädigung bei der De Nederlandsche Bank (DNB) geltend gemacht werden. Die DNB veröffentlicht im Einlagensicherungsfall auf geeignete Weise alle Informationen, die Sie für eine Beantragung Ihres Anspruches benötigen. Für NIBC Direct  ist grundsätzlich zu sagen, dass die Auszahlung der Entschädigung durch ein deutsches Einlagensicherungssystem erfolgt, hier die EdB (Entschädigungseinrichtung deutscher Banken), die im Namen des Einlagensicherungssystems der Niederlande, also der DNB handelt. Der Einleger in Deutschland muss sich also nicht selbst an die Sicherungseinrichtung in den Niederlanden wenden, sondern kann das Entschädigungsverfahren in Deutschland abwickeln (vgl. § 57 EinSiG).
+###

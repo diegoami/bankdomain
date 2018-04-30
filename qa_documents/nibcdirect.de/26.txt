@@ -1,0 +1,93 @@
+###
+
+Was ist eine Mobile-Banking-App / Mobile Brokerage?
+
+Eine Mobile-Banking-App / Brokerage-App
+(Applikation) ermöglicht auch unterwegs den Zugriff auf ein Bankkonto bzw. ein Depot. Je nach Funktionsumfang der App besteht dabei die Möglichkeit, sich den Kontostand, Umsätze oder Depotbestände anzeigen zu lassen und Überweisungen und Orders durchzuführen.
+###
+
+Was bietet die NIBC Direct Mobile-Banking-App (Einfach.Mehr.App) / Mobile Brokerage-App?
+
+Mit der Einfach.Mehr.App haben NIBC Direct Kunden ihre Konten stets im Überblick und können sogar Überweisungen mittels SecureGo oder smartTAN plus-Verfahren durchführen. Dank Multibankenfähigkeit gilt dies auch für Konten anderer Banken, die den HBCI-/FinTS-Standard unterstützen.
+
+Alle Funktionen der Einfach.Mehr.App im Überblick:
+
+    Sicherer Zugang zum Online-Banking und Online-Brokerage
+    Kontostand- und Umsatzabfrage für Tagesgeld, Festgeld, Jugendfestgeld und Kombigeld
+    Depotübersicht und Einsicht ins Orderbuch
+    Überweisungen mittels SecureGo oder smartTAN plus-Verfahren vom Tagesgeldkonto (Mehr.Zins.Konto) oder vom flexiblen Teil des Kombigeldkontos (Kombi.Zins.Konto) aufs Referenzkonto
+    Erfassung von Orders mittels SecureGo oder smartTAN plus-Verfahren
+    Informationen über aktuelle Kurse und Börsennachrichten einsehen
+    Multibankenfähigkeit (Verwaltung der Konten bei anderen Banken, die den HBCI-/FinTS-Standard unterstützen)
+    Direkter Kontakt zum Kundenservice per legitimierter Mitteilung oder Telefon
+    Über die Funktion "Meine Bank" können Sie sich über Neuigkeiten und aktuelle Angebote von NIBC Direct informieren
+
+###
+
+Was kostet die Einfach.Mehr.App?
+
+Die Einfach.Mehr.App ist kostenlos und kann im Apple Store oder im Google Play Store kostenlos heruntergeladen werden.
+
+###
+
+Welche Voraussetzungen muss ich erfüllen, um die Einfach.Mehr.App nutzen zu können?
+
+Die Einfach.Mehr.App wird derzeit für das iPhone, den iPod touch, das iPad und für Android-Endgeräte (ab Version 2.1) angeboten. Bitte beachten Sie, dass die App nicht für die Nutzung mit Android-basierten Tablet-Computern optimiert ist. Das bedeutet, dass die Darstellung auf einem solchen Endgerät leicht verpixelt sein kann. Die Funktionen der App sind davon aber nicht betroffen und sie sind somit einwandfrei. Darüber hinaus benötigen Sie mindestens ein Tagesgeldkonto (Mehr.Zins.Konto) bei NIBC Direct, um die App nutzen zu können.
+###
+
+Werden weitere Betriebssysteme wie Windows Phone, BlackBerry u.a. durch die Einfach.Mehr.App unterstützt?
+
+Die Einfach.Mehr.App unterstützt derzeit ausschließlich das Betriebssystem iOS von Apple und das Google-Betriebssystem Android (ab Version 2.1). Eine Unterstützung weiterer Betriebssysteme ist in Planung. Ein genauer Termin kann leider nicht genannt werden.
+###
+ Wie kann ich mit Hilfe der Einfach.Mehr.App Überweisungen durchführen bzw. Orders aufgeben?
+
+Mit der für Smartphones angebotenen Version der Einfach.Mehr.App können Überweisungen mittels SecureGo oder smartTAN plus-Verfahren durchgeführt werden. Das mobileTAN-Verfahren ist zur Durchführung von TAN-pflichtigen Vorgängen mit der Einfach.Mehr.App aus Sicherheitsgründen nicht zugelassen. Dies ist damit begründet, dass ein Smartphone mit Mobilfunkempfang das Sicherheitsmerkmal des mobileTAN-Verfahrens umgehen würde, und zwar mit der Bereitstellung der mobileTAN über einen zweiten Kanal, das Mobiltelefon.
+
+Als Kunde, der ausschließlich das mobileTAN-Verfahren nutzt, können Sie zwar Ihre Konten einsehen, aber keine Transaktionen tätigen. Das SecureGo-Verfahren und das smartTAN plus-Verfahren können Sie jederzeit im Online-Banking beantragen. Alternativ können Sie das mobileTAN-Verfahren mit der iPad-Version der Einfach.Mehr.App nutzen.
+###
+
+Wie sicher ist die Nutzung der Einfach.Mehr.App?
+
+Die Einfach.Mehr.App entspricht denselben hohen Sicherheitsanforderungen wie denen fürs Online-Banking bei NIBC Direct. Darüber hinaus ist die Durchführung von Transaktionen (Überweisungen / Orders) mit der für Smartphones angebotenen Einfach.Mehr.App mittels SecureGo oder smartTAN plus-Verfahren möglich. Das mobileTAN-Verfahren ist aus Sicherheitsgründen nur bei der iPad-Version der Einfach.Mehr.App zugelassen.
+###
+
+Wo kann ich die Einfach.Mehr.App kostenlos herunterladen?
+
+Apple Store
+
+iPhone-App
+
+iPad-App
+
+Google Play Store
+
+Android-App
+###
+ Kann ich auch mein Wertpapierdepot mit der Einfach.Mehr.App verwalten?
+
+Ja, über das Mobile Brokerage können Sie auch Ihr Wertpapierdepot über die Einfach.Mehr.App verwalten. Sie können Orders aufgeben, Ihre Depotübersicht und Ihr Orderbuch einsehen und sich über aktuelle Kurse und Börsennachrichten informieren.
+###
+
+Was kann ich tun, wenn ich die Mobile Brokerage Funktion in der Einfach.Mehr.App nicht sehen?
+
+Das Mobile Brokerage steht allen Kunden, die ein Wertpapierdepot bei der NIBC Direct haben, zur Verfügung. Wenn Sie die Funktion des Mobile Brokerage in der Einfach.Mehr.App dennoch nicht sehen können, schauen Sie bitte auf Ihrem mobilen Endgerät nach, ob es zwischenzeitlich ein Update für die App gab und führen dieses durch. Das Mobile Brokerage ist eine Ergänzung der bestehenden App und wird durch ein Update zusätzlich zur Verfügung gestellt.
+###
+
+Kann ich auch Konten anderer Banken mit der Einfach.Mehr.App verwalten?
+
+Ja, Sie können Konten anderer Banken verwalten, die den HBCI-/FinTS-Standard unterstützen.
+###
+ Wo finde ich weitere Informationen und Bilder zur Einfach.Mehr.App?
+
+Weitere Informationen zur Einfach.Mehr.App finden Sie auf unserer Internetseite unter:
+
+https://www.nibcdirect.de/services/apps
+
+oder im
+
+Apple Store
+
+bzw. im
+
+Google Play Store
+###

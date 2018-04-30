@@ -1,0 +1,36 @@
+###
+
+Was bedeutet MiFID II für NIBC Direct Kunden?
+
+Bereits unter MiFID I waren Banken und so auch NIBC Direct gefordert, eine Einstufung ihrer Kunden in verschiedene Anlegertypen vorzunehmen. MiFID II dehnt die Anforderungen des Anlegerschutzes auf sämtliche Kundenkategorien aus. NIBC Direct erbringt Wertpapierdienstleistungen und -nebendienstleistungen ausschließlich für Privatkunden, die im eigenen wirtschaftlichen Interesse handeln.
+
+Außerdem besteht die Anforderung, sämtliche an Kunden herausgegebene Informationen klar und verständlich zu gestalten.
+###
+
+Kann ich als Depotkunde die aktualisierte Auflage der “Basisinformationen über Wertpapiere und andere Kapitalanlagen” bei NIBC Direct bekommen?
+
+Ja, bitte loggen Sie sich in Ihr Online-Banking ein. Unter Angebote > Depot > Abruf der aktuellen Broschüre „Basisinformationen über Wertpapiere und weitere Kapitalanlagen“ können Sie unter Angabe Ihres Namens und Ihrer Depotnummer die aktuelle Auflage der “Basisinformationen über Wertpapiere und andere Kapitalanlagen” abrufen.
+###
+
+Was ändert sich bei der Depoteröffnung?
+
+Aufgrund geänderter Vorschriften gibt es kein Protokoll nach Wertpapierhandelsgesetz mehr, sondern eine sogenannte Geeignetheitserklärung. Die Geeignetheitserklärung begründet nunmehr die Angemessenheit eines Finanzinstruments für den jeweiligen Kunden. Im beratungsfreien Geschäft von NIBC Direct bedeutet dies, dass die Kenntnissen und Erfahrungen eines Antragsstellers in Bezug auf Geschäfte mit bestimmten Arten von Finanzinstrumenten oder Wertpapierdienstleistungen abgefragt werden. Außerdem erfolgt die Einstufung als Privatkunde.
+
+###
+
+Wieso werde ich als Privatkunde eingestuft?
+
+NIBC Direct erbringt Wertpapierdienstleistungen und Wertpapiernebendienstleistungen ausschließlich für Privatkunden, die im eigenen wirtschaftlichen Interesse handeln
+###
+
+Ist eine Heraufstufung zum professionellen Kunden möglich?
+
+Nein, NIBC Direct erbringt Wertpapierdienstleistungen und Wertpapiernebendienstleistungen ausschließlich für Privatkunden, die in eigenem wirtschaftlichen Interesse handeln. Die Möglichkeit einer Heraufstufung vom Privatkunden zum professionellen Kunden besteht bei der Bank nicht.
+###
+
+Was sind PRIIPs?
+
+PRIIPs sind Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger und Versicherungsanlageprodukte. Diese stellen wir Ihnen ab dem 1.1.2018 vor dem Erwerb eines entsprechenden PRIIP-Produkts im Rahmen der gesetzlichen Vorgaben im Online-/Mobile Brokerage unter anderem im Erwerbsorder-Prozess nach Eingabe der entsprechenden WKN über den Textlink "Basisinformationsblatt (BIB)" kostenlos zur Verfügung.
+
+Dieses können Sie von dort aus kostenlos aufrufen und auf einem Datenträger speichern. Ab dem 3. Januar 2018 stellen wir Ihnen zudem die „Kosteninformation gemäß § 63 Absatz 7 Wertpapierhandelsgesetz“ vor jeder Ordererteilung (Erwerb und Veräußerung) zur Verfügung
+###

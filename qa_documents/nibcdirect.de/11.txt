@@ -1,0 +1,55 @@
+###
+
+Was ist FATCA?
+
+FATCA steht für Foreign Account Tax Compliance Act und ist eine Verordnung, durch die die USA die Steuerehrlichkeit bei internationalen Sachverhalten fördern und eine Steuerumgehung über Auslandskonten durch US-Personen verhindern möchten. Da Deutschland wie zahlreiche andere Länder ein FATCA-Abkommen mit den USA geschlossen hat, müssen deutsche Kredit- und Finanzdienstleistungsunternehmen den USA steuerlich relevante Informationen zu US-Kunden zur Verfügung stellen. Hierzu muss NIBC Direct seine Kundenbeziehungen mit Blick auf sogenannte US-Indizien prüfen und dokumentieren.
+
+Was sind Beispiele für US-Indizien?
+
+    US-Staatsbürgerschaft
+    US-amerikanische Telefonnummer
+    Geburtsort in den USA
+    US-amerikanische Wohnanschrift
+    Postfach in den USA
+    Dauerauftrag zur Überweisung auf ein in den USA geführtes Konto
+    Handlungs- oder Vermögensvollmacht/Zeichnungsberechtigung zugunsten einer Person mit US-Adresse
+    "in care of" oder postlagernd als einzige Adresse, auch außerhalb der USA
+
+Im Rahmen des FATCA-Abkommens haben wir die Pflicht, die Daten von identifizierten Kunden über das Bundeszentralamt für Steuern an die US-Steuerbehörde Internal Revenue Service (IRS) zu melden. Die erste Meldung soll 2015 über den Meldezeitraum 2014 erfolgen.
+###
+
+Warum muss ich Angaben zu FATCA im Kundenstammvertrag machen?
+
+Im Rahmen des FATCA-Abkommens ist ein Finanzdienstleistungsunternehmen dazu verpflichtet, Daten von Kunden mit US-Indizien zu melden. Eine Angabe der relevanten Daten ist daher seitens unserer Kunden im Kundenstammvertrag notwendig.
+
+###
+
+Was muss ich als Kunde tun?
+
+Geben Sie Ihre persönlichen Daten im Kundenstammvertrag an und füllen Sie die darin befindliche Selbstauskunft gemäß Foreign Account Tax Compliance Act (FATCA) aus. Die Weiterleitung dieser Daten nimmt die Bank für Sie vor.
+
+Wenn Sie zum jetzigen Zeitpunkt bereits US-steuerpflichtig sind und dies mitsamt Ihrer US-Steuernummer in der Selbstauskunft angegeben haben, müssen Sie nichts weiter unternehmen.
+
+Wenn Sie zum jetzigen Zeitpunkt nicht US-steuerpflichtig sind, wir jedoch zu einem späteren Zeitpunkt ein US-Indiz bei Ihnen feststellen, werden Sie von uns zu dem betreffenden Zeitpunkt einen Brief mit der Bitte erhalten, das Formular W9 auszufüllen und unterschrieben an uns zurückzusenden.
+
+Sollten die Annahmen hinsichtlich der US-Indizien nicht zutreffen, beachten Sie bitte den folgenden Punkt: Was kann ich tun, um meine US-Steuerpflicht zu widerlegen?
+
+
+Weitere Informationen zur US-Steuerpflicht finden Sie unter:
+
+    Informationen des U.S. Department of the Treasury zu FATCA
+    Informationen des Internal Revenue Service (IRS) zu FATCA
+
+
+###
+
+Was kann ich tun, um meine US-Steuerpflicht zu widerlegen?
+
+Bitte reichen Sie uns hierzu die folgenden Unterlagen ein:
+
+    Nachweis dafür, dass eine US-Staatsbürgerschaft derzeit nicht besteht (Negativerklärung) (Kopie)
+    Pass (Kopie): Der Personalausweis oder Reisepass gilt als geeignetes Legitimations- und Identifikationspapier. Wenn Sie Staatsangehöriger eines Drittstaats sind, können Sie den nationalen Reisepass bzw. Personalausweis des Drittstaats vorlegen. Die Unterlagen müssen den gesetzlichen Anforderungen an Ausweispapiere entsprechen.
+    Selbstauskunft zur steuerlichen Ansässigkeit durch vollständiges Ausfüllen des W-8 BEN-Formulars (unterschriebenes Original)
+    Bescheinigung über den Verlust der US-Staatsangehörigkeit bzw. Erklärung dazu, dass Sie trotz Geburt in den USA die US-Staatsbürgerschaft nicht erhalten haben (Kopie)
+
+###

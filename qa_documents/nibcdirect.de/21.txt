@@ -1,0 +1,11 @@
+###
+
+Ist das Online-Banking bei NIBC Direct sicher? Mit welchen Standards arbeiten Sie?
+
+NIBC Direct setzt eine 128-Bit-SSL-Verschlüsselung ein, die höchste Sicherheit bietet. SSL bedeutet, dass zwischen dem Internetserver und dem eigenen Computer vor der Übertragung der Daten ein Verschlüsselungsalgorithmus sowie ein Sitzungsschlüssel ausgetauscht werden. Anschließend werden die Daten selbst übertragen. Diese werden nach dem zuvor ermittelten Verfahren verschlüsselt und sind daher vor fremdem Zugriff geschützt. Ein "https://" vor der Webadresse und das geschlossene Vorhängeschloss am unteren Bildschirmrand des Browsers zeigen Ihnen an, dass es sich um eine gesicherte Übertragung der Daten handelt.
+###
+
+Was muss ich beachten, wenn ich an einem öffentlichen Computer Online-Banking betreibe?
+
+Achten Sie bitte bei der Erledigung Ihrer Bankgeschäfte auf einem öffentlichen Rechner darauf, dass dessen Virenschutz aktuell ist und die verwendete Software aus einer vertrauenswürdigen Quelle stammt. Vergewissern Sie sich, dass Ihnen bei der Eingabe der Geheimnummern niemand zusieht. Melden Sie sich unbedingt über den Button "Beenden" von der Online-Banking-Anwendung ab, um die Verbindung zum Banking-Server zu trennen.
+###

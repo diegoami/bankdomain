@@ -1,0 +1,93 @@
+###
+
+Wann und wie kann ich über mein Geld verfügen?
+
+Über das Online-Banking können Sie bei Tagesgeldkonten jederzeit über Ihr Geld verfügen. Überweisen Sie einfach den gewünschten Betrag auf Ihr Standardreferenzkonto. Bitte beachten Sie aber, dass zu Ihrer Sicherheit Auszahlungen von Ihrem Tagesgeldkonto durch Überweisung auf das von Ihnen angegebene Referenzkonto im Online-Banking nur bis zu einem Höchstbetrag von € 100.000 pro Tag möglich sind. Bei Festgeldanlagen müssen Sie bis zum Ende der Festschreibung warten. Wenn das Festgeld fällig ist, wird der Anlagebetrag - je nach Produktausgestaltung (automatische Wiederanlage/Prolongation oder nicht) - auf Ihr Tagesgeldkonto umgebucht und Sie können darüber verfügen. Bitte beachten Sie, dass Sie bei automatischer Wiederanlage spätestens 3 Werktage vor Fälligkeit ankündigen müssen, dass Sie zukünftig nicht mehr automatisch wieder anlegen, sondern über den Anlagebetrag nebst kapitalisierten Zinsen verfügen möchten.
+###
+
+Was kann ich mit meinem Tagesgeldkonto machen (Gehaltseingänge, Zahlungsverkehr etc.)?
+
+Das Tagesgeldkonto ist kein Zahlungsverkehrskonto, für das Sie bspw. eine EC-Karte erhalten oder von dem Sie Rechnungen begleichen können. Es dient ausschließlich zur Anlage des von Ihnen definierten Betrags. Lastschriften zugunsten oder zulasten Dritter sind nicht möglich. Tagesgeld- und Festgeldkonten bei NIBC Direct sind ausschließlich der privaten Nutzung vorbehalten.
+###
+
+Kann ich mehrere Tagesgeldkonten unterhalten?
+
+Wenn Sie bereits ein bestehendes Konto der NIBC Direct haben, können Sie einfach im Login-Bereich ein weiteres Produkt Ihrer Wahl aussuchen und abschließen.
+
+###
+
+Kann ich Vollmachten für mein Konto vergeben?
+
+Sie können nur für den Todesfall Vollmachten für Ihr Konto vergeben.
+
+###
+
+Was kostet das Banking bei NIBC Direct?
+
+Die Führung von Tages- und Termingeldkonten sowie die Depotführung ist kostenfrei.
+###
+
+Wann werden die Zinsen gutgeschrieben?
+
+Bei Tagesgeld werden die Zinsen am Jahresende bzw. bei Kontolöschung gutgeschrieben. Bei Festgeld mit Laufzeiten von unter 1 Jahr werden die Zinsen bei Fälligkeit gutgeschrieben. Bei Laufzeiten von 1 Jahr und mehr erfolgt die Zinsgutschrift zum Jahresultimo.
+###
+
+Wie funktioniert das Online-Banking bei NIBC Direct?
+
+Das Online-Banking können Sie nur nutzen, wenn Sie bereits Kunde von NIBC Direct sind. Bitte klicken Sie auf der Website
+www.nibcdirect.de auf den roten Button Kunden-Login rechts oben auf der Website. Aus Sicherheitsgründen öffnet sich ein neues Fenster. Hier werden Sie aufgefordert, Ihren NIBCode sowie Ihre PIN einzugeben, um sich im Online-Banking-Bereich einzuloggen. Bei der ersten Anmeldung muss die Ihnen zugesendete PIN aus Sicherheitsgründen geändert werden. Dazu benötigen Sie eine TAN, die Sie entweder über das mobileTAN- oder über das smartTAN plus-Verfahren erzeugen. Ab diesem Moment können Sie alle Funktionalitäten des Online-Banking nutzen.
+###
+
+Was brauche ich alles fürs Online-Banking bei NIBC Direct?
+
+Für das Online-Banking bei NIBC Direct benötigen Sie den NIBCode (Benutzername), eine PIN sowie TANs. Bei den TANs können Sie entweder das mobileTAN- oder das smartTAN plus-Verfahren nutzen. Diese Zugangsdaten werden Ihnen unmittelbar nach erfolgter Kontoeröffnung und Mitteilung der Kontonummer aus Sicherheitsgründen mit separater Post übersendet.
+###
+
+Was ist der NIBCode?
+
+Der NIBCode ist Ihre Benutzerkennung. Nach Kontoeröffnung haben wir Ihnen diesen per Brief mitgeteilt. Im Online-Banking-Bereich melden Sie sich mit Ihrem NIBCode und Ihrer PIN an. Nach der Kontoeröffnung durch die Bank erhalten Sie den NIBCode per Post.
+###
+
+Was muss ich tun, wenn ich meinen NIBCode vergessen oder verlegt habe?
+
+Wenn Sie Ihren NIBCode vergessen oder verlegt haben, melden Sie sich einfach telefonisch in unserem Servicecenter. Die Kollegen dort veranlassen dann, dass ein neuer NIBCode erstellt und Ihnen per Post zugesandt wird.
+###
+
+Was muss ich tun, wenn meine PIN gesperrt ist oder ich meine PIN vergessen habe?
+
+Sie können sich telefonisch bei unserem Servicecenter melden und dort eine neue PIN anfordern.
+###
+
+Wie kann ich meine persönlichen Daten verwalten?
+
+Über das Online-Banking-Portal können Sie für den von uns mitgeteilten NIBCode einen Alias-Namen vergeben oder die PIN ändern. Eine Änderung der persönlichen Daten ist entweder schriftlich oder im Online-Banking über "Service" in den persönlichen Daten oder per legitimierter Mitteilung ("Mitteilung an die Bank") möglich. Bei Änderungen über diesen Weg ist die Bestätigung durch Eingabe einer TAN erforderlich.
+###
+
+Was bedeutet "Mitteilung an die Bank"?
+
+Im Online-Banking können Sie im Bereich "Postfach" eine Mitteilung an die Bank schicken. Zudem können Sie für Rückfragen angeben, dass Sie eine Antwort in Ihr elektronisches Postfach wünschen. Die bidirektionale Kommunikation ermöglicht einen Nachrichtenaustausch zwischen Bank und Kunde über das Online-Banking. Hierdurch können Sie die schriftliche Korrespondenz, welche Sie bislang z.B. per E-Mail mit uns führten, über den sicheren Kanal des elektronischen Postfachs führen. Auf diesem Wege können wir Ihnen über den gesicherten Weg des Online-Bankings auf Ihre Anfrage antworten und Sie erhalten die Antwort als Dokument in Ihr elektronisches Postfach.
+
+Zudem können Sie uns über diesen Weg Dateianhänge im PDF-Format bis zu 4MB pro Nachricht zukommen lassen.
+###
+ Was ist die IBAN?
+
+IBAN steht für International Bank Account Number. Es handelt sich um eine international standardisierte Kontonummer, bestehend aus dem ISO-Ländercode (2-stellig), einer Prüfziffer (2-stellig), dem nationalen Bankcode (in Deutschland die Bankleitzahl) und der Kontonummer. Die Länge der IBAN ist je nach Land unterschiedlich (maximal 34 alphanumerische Zeichen), aber innerhalb eines Landes einheitlich.
+###
+
+Was ist der BIC?
+
+BIC steht für Bank ldentifier Code, auch SWIFT-Code genannt: eine weltweit eindeutige Bezeichnung für ein Kreditinstitut.
+
+###
+
+Wie lautet der BIC von NIBC Direct?
+
+Der BIC der NIBC Bank N.V. lautet NZFMDEF1XXX.
+
+###
+
+Wie lautet die Bankleitzahl von NIBC Direct?
+
+Die Bankleitzahl von NIBC Direct lautet 512 107 00.
+
+###

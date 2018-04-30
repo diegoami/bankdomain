@@ -1,0 +1,369 @@
+###
+
+Kann ich bei Eingabe meiner Order die anfallenden Gebühren sehen?
+
+Nein, die Gebühren können Sie bei Ordereingabe nicht sehen. Bei der Ordereingabe sehen Sie nur einen vorläufigen Ordergegenwert. Dieser setzt sich aus dem letzten (Referenz-)Kurs, multipliziert mit der Stückzahl der Anteile, zusammen. Eventuelle Kursänderungen und eventuell anfallende Entgelte können aus technischen Gründen nicht berücksichtigt werden. Die Ordergebühr ist abhängig vom Ausführungskurs Ihrer Order. Da dieser zur Aufgabezeit der Order noch nicht vorhanden ist, ist keine Anzeige der Gebührenhöhe möglich.
+###
+ Wie hoch sind die börslichen Transaktionsgebühren? Wie sind die aktuellen Konditionen?
+
+Grundsätzlich beziehen sich die Transaktions-/Handelsgebühren auf den Gegenwert einer börslichen Order. Bei NIBC Direct besteht eine Mindestordergebühr von € 9,90 sowie eine maximale Ordergebühr von € 44,90. Diese Gebühr erhöht sich ab dem Schwellenwert von € 17.500 Ordervolumen nicht weiter. Sie bleibt, unabhängig von der Höhe des Ordergegenwerts, ab € 17.500 unverändert. Die untere Tabelle zeigt die NIBC Direct Ordergebühren (ohne fremde Spesen) am Beispiel von Aktien und aktienähnlichen Produkten, die auf den Kurswert notieren.
+
+Ordergegenwert
+
+
+Ordergebühr
+
+
+
+
+  € 1.000
+
+
+  € 9,90
+
+
+Minimale Ordergebühr
+
+  € 2.000
+
+
+  € 9,90
+
+
+
+
+  € 5.000
+
+
+  € 17,40
+
+
+
+
+  € 8.000
+
+
+  € 24,90
+
+
+
+
+  € 10.000
+
+
+  € 29,90
+
+
+
+
+  € 15.000
+
+
+  € 42,40
+
+
+
+
+  € 16.000
+
+
+  € 44,90
+
+
+
+
+  € 20.000
+
+
+  € 44,90
+
+
+Maximale Ordergebühr
+###
+
+ Wie hoch sind die bankfremden Gebühren - die fremden Spesen - der Börsenplätze?
+
+Die Höhe und die Preisänderung der fremden Spesen können von NIBC Direct nicht beeinflusst werden. Informationen zu der Höhe von fremden Spesen erhalten Sie in der Regel auf den jeweiligen Webseiten der jeweiligen Handelsplätze.
+
+Berlin:
+Hier finden Sie Preislisten unter dem Hauptmenüpunkt "Gebühren".
+
+Düsseldorf:
+Unter dem Hauptmenüpunkt "Die Börse" finden Sie den Menüpunkt "Informationen". Dort finden Sie sämtliche relevanten Details rund um den Handel.
+
+Frankfurt am Main:
+Frankfurt: Gehen Sie unter dem Menüpunkt „Wissen“ auf „Börsenwissen“, dann „Handeln an der Frankfurter Börse“ und hier auf „Handelskosten“.
+
+Hamburg - Hannover:
+Unter dem Hauptmenüpunkt "Über uns" finden Sie den Untermenüpunkt "Regelwerke". Dort finden Sie derzeit die Gebührenordnung der Börse.
+
+München:
+Wenn Sie den Begriff "Organisation" anklicken, können Sie über "Regelwerke" die Gebührenordnung einsehen.
+
+Scoach:
+Unter dem Hauptmenüpunkt "Über uns" finden Sie den Untermenüpunkt "Zulassung & Regelwerke". Hier befindet sich derzeit ein Preisverzeichnis.
+
+Stuttgart:
+Wählen Sie in der Kopfzeile der Website den Link "Regelwerke" unter "Unternehmen" aus. Hier finden Sie derzeit das Dokument "Gebührenordnung".
+
+Tradegate:
+Derzeit finden Sie in der Fußzeile den Link "Regelwerk/Bekanntmachungen". Hier finden Sie Ausführungen zur Gebührenordnung.
+
+XETRA®:
+In der Kopfzeile finden Sie derzeit der Link "Regelwerke der FWB". Hier ist die Gebührenordnung einsehbar.
+
+Alle Angaben zu den Börsenplätzen sind ohne Gewähr. Umstrukturierungen der jeweiligen Internetseiten sowie Änderungen der Gebührenordnungen der Börsen liegen nicht im Verantwortungsbereich von NIBC Direct.
+
+Falls Sie weitergehende Fragen zu der Gebühren-/Handelsordnung der jeweiligen Börsenplätze haben, wenden Sie sich bitte direkt an diese.
+###
+
+Wird mir im Online-Brokerage-Bereich das genaue Ordervolumen angezeigt?
+
+Bei der Ordereingabe wird der vorläufige Ordergegenwert auf der Basis des letzten Referenzkurses des Wertpapiers berechnet. Dieser enthält keine Entgelte. Der tatsächliche Ausführungskurs wird erst mit der Orderausführung ermittelt und kann daher von dem zugrunde gelegten Referenzkurs abweichen.
+
+###
+ Wie wurde meine Order ausgeführt?
+
+Die Orderausführung können Sie im Online-Banking-Bereich prüfen. Bitte melden Sie sich über www.nibcdirect.de unter Login mit Ihren Zugangsdaten an. Unter dem Reiter Online-Brokerage finden Sie die Orderfunktionalitäten Ihres NIBC Direct Depots. Hier können Sie Informationen zu Ihrem Orderstatus abfragen und den Ausführungskurs Ihrer Order einsehen.
+###
+
+Welche Ordergültigkeiten kann ich erfassen?
+
+Unlimitierte Orders (Orders ohne vom Anleger festgelegte Kurslimite) ohne Gültigkeitsangabe sind grundsätzlich sofort und über den Jahresultimo hinaus gültig. Sie haben die Möglichkeit, beim Kauf und Verkauf von Wertpapieren selbst eine Gültigkeit zu bestimmen. Wählen Sie dazu einfach aus dem Auswahlfeld "Gültig bis". Bitte beachten Sie die maximal mögliche Ordergültigkeit: 90 Tage für XETRA® und Scoach oder bis Jahresende für alle anderen nationalen Börsen.
+
+###
+ Für welche Börsenplätze kann ich eine Order erfassen?
+
+Über NIBC Direct können Sie bei folgenden Börsenplätzen Ordereingaben platzieren:
+
+Börse
+
+
+Handelszeiten
+
+Berlin
+
+
+08:00-20:00 Uhr
+
+Düsseldorf
+
+
+08:00-20:00 Uhr
+
+Frankfurt am Main
+
+
+09:00-20:00 Uhr
+
+Hamburg - Hannover
+
+
+08:00-20:00 Uhr
+
+München
+
+
+09:00-20:00 Uhr
+
+Scoach
+
+
+09:00-20:00 Uhr
+
+Stuttgart
+
+
+09:00-20:00 Uhr
+
+Tradegate
+
+
+08:00-22:00 Uhr
+
+XETRA®
+
+
+09:00-17:35 Uhr
+###
+
+Was kann ich alles über mein NIBC Direct Depot kaufen?
+
+Mit dem kostenlosen Depot haben Sie die Möglichkeit, Wertpapiere (Aktien, Fonds, ETFs, Anleihen, Zertifikate, Optionsscheine) über alle deutschen Präsenzbörsen und XETRA® zu handeln, zu kaufen oder zu verkaufen. Zusätzlich können Sie ca. 12.000 Fonds handeln, viele davon zu einem reduzierten Ausgabeaufschlag.
+
+###
+
+Was ist eine Teilausführung?
+
+Wenn eine erteilte Order wegen der Marktlage nicht vollständig ausgeführt werden konnte, kann es bis zum Ende der Gültigkeitsdauer der Order zu mehreren Teilausführungen kommen. Beim Handelssystem XETRA® werden Kauf- und Verkaufsaufträge von Wertpapieren standardmäßig dann in Einzeltransaktionen aufgeteilt, wenn eine Order nicht auf ein ausreichend großes Aktienangebot trifft.
+###
+
+Kann es bei meiner Order zu einer Teilausführung kommen?
+
+Ja, infolge entsprechender Marktverhältnisse kann es zu Teilausführungen kommen. Wenn mehrere Teilausführungen an einem Tag erfolgen, werden sie zusammengefasst und mit einem Mischkurs abgerechnet (inklusive Auflistung der einzelnen Kurse mit Stückzahl). Somit zahlen Sie nicht mehrfach Ordergebühren am selben Handelstag.
+###
+ Welche Orderzusätze kann ich bei NIBC Direct erfassen?
+
+Folgende Handelszusätze können Sie bei NIBC Direct erfassen:
+
+Stop-Loss-Order
+
+Eine Stop-Loss-Order ist ein bedingter Verkaufsauftrag. Durch das Setzen einer Stop-Loss-Order können bereits erzielte Gewinne gesichert oder Verluste eingeschränkt werden. Dabei setzt der Anleger ein Stop-Loss-Limit. Sobald eine Kursfeststellung (mit Umsatz) dieses gesetzte Limit erreicht oder unterschritten hat, werden die Wertpapiere zum nächstmöglichen Zeitpunkt bestens verkauft. Es gibt keine Garantie für den zu erzielenden Verkaufskurs. Dieser kann unter, aber auch über dem gesetzten Stop-Loss-Limit liegen.
+
+Auction only (XETRA®, elektronischer Handel)
+
+Sie können eine Order mit dem Zusatz "Auction only" erfassen. Diese Order wird innerhalb des fortlaufenden Börsenhandels nicht beachtet und bezieht sich nur auf elektronische Börsenplätze (XETRA®). Erst bei einer Auktion wird diese Order bei der Kursfeststellung berücksichtigt. Eine Auktion findet außerhalb des gewöhnlichen fortlaufenden Handels statt, mindestens 3-mal am Tag: zur Handelseröffnung, zur Kasse (13:00-13:30 Uhr) und zum Abschluss des Handelstages.
+
+Fill or Kill (FoK)
+
+Bezeichnung einer Variante eines Kauf- oder Verkaufsauftrags im elektronischen Handelssystem XETRA®. Solche Aufträge müssen sofort entweder vollständig ausgeführt werden oder gar nicht; eine Teilausführung existiert nicht. Dies bedeutet, dass die Order gelöscht wird, wenn eine vollständige und sofortige Ausführung nicht möglich ist.
+
+Hinweis: Die Erteilung eines Auftrags mit dem Zusatz "Fill or Kill" außerhalb der Handelszeit führt automatisch zu einer Orderablehnung. Während der Handelszeit kann eine Order ebenfalls abgelehnt werden, was zu einer automatischen Streichung des Auftrags führt. Gründe hierfür sind u.a. laufende Auktionen auf XETRA® mit dem jeweiligen Wertpapier. Aus diesem Grund ist die Erteilung des Zusatzes "Fill or Kill" nur in der Zeit von 09:05 bis 17:25 Uhr möglich.
+
+Immediate or Cancel (IoC)
+
+Eine Order im elektronischen Handelssystem XETRA® mit dem Zusatz "Immediate or Cancel" wird sofort (Immediate) und möglichst vollständig ausgeführt. Der Teil der Order, der nicht ausgeführt werden konnte, wird sofort gestrichen (Cancel). Bitte beachten Sie, dass auch bei diesem Orderzusatz Teilausführungen (mehrere Transaktionen zum Erhalt des Ordervolumens durch zum Zeitpunkt der Order nicht vorhandenes Wertpapierangebot) möglich sind.
+
+Hinweis: Die Erteilung eines Auftrags mit dem Zusatz "Immediate or Cancel" außerhalb der Handelszeit führt automatisch zu einer Orderablehnung. Während der Handelszeit kann eine Order ebenfalls abgelehnt werden, was auch zu einer automatischen Streichung des Auftrags führt. Gründe hierfür sind u.a. laufende Auktionen auf XETRA® in dem jeweiligen Wertpapier. Aus diesem Grund ist die Erteilung des Zusatzes "Immediate or Cancel" nur in der Zeit von 09:05 bis 17:25 Uhr möglich.
+###
+
+Kann ich Day-Trading betreiben?
+
+Das Tätigen von Leerverkäufen oder von Wertpapierleihe ist nicht Teil des Leistungsangebots von NIBC Direct. Daher kann dieses Handelsintervall über das NIBC Direct Brokerage nicht in Anspruch genommen werden.
+###
+
+Kann man Fondssparpläne einrichten?
+
+Derzeit bietet NIBC Direct die Einrichtung von Fondssparplänen nicht an.
+###
+
+Wann erhalte ich eine Orderbestätigung?
+
+Nach erfolgreicher Orderausführung wird Ihnen eine elektronische Orderbestätigung in Ihre Postbox (elektronischer Briefkasten) innerhalb des Online-Banking-Bereichs zugestellt.
+
+###
+
+Wann wird meine Fondsorder ausgeführt?
+
+In der Regel haben Fonds einen täglichen Orderannahmeschluss. In individuellen Fällen - je nach Beschaffenheit des Fonds - variiert der Ausführungszeitpunkt und somit der Orderannahmeschluss. Derzeit bietet NIBC Direct ca. 12.000 außerbörsliche Fonds an.
+###
+
+Wie sind die Konditionen beim Fondskauf ausgestaltet?
+
+Bei den meisten Fonds bieten wir Ihnen einen Kundenrabatt von bis zu 40% auf den regulären Ausgabeaufschlag an. Bei Erteilung der Fondsorder über die Kapitalanlagegesellschaft (KAG) fallen zudem keine zusätzlichen Ordergebühren an. Bei NIBC Direct können Sie derzeit Anteile von ca. 12.000 außerbörslichen Fonds kaufen.Bei den meisten Fonds bieten wir Ihnen einen Kundenrabatt von bis zu 40% auf den regulären Ausgabeaufschlag an. Bei Erteilung der Fondsorder über die Kapitalanlagegesellschaft (KAG) fallen zudem keine zusätzlichen Ordergebühren an. Bei NIBC Direct können Sie derzeit Anteile von ca. 12.000 außerbörslichen Fonds kaufen.
+###
+
+
+Wie viele Fonds werden über NIBC Direct angeboten?
+
+NIBC Direct bietet aktuell ca. 12.000 zumeist außerbörsliche Fonds zum Handel an, viele davon zu einem reduzierten Ausgabeaufschlag.
+
+###
+
+Welche Wertpapiere sind bei NIBC Direct handelbar?
+
+Folgende Wertpapiere können Sie bei NIBC Direct handeln: Aktien, Anleihen, Wandel- und Optionsanleihen, Indexzertifikate, Genussscheine, Optionsscheine, Investmentfondsanteile und ETFs.
+###
+
+
+Kann ich bei NIBC Direct Neuemissionen (IPOs) zeichnen?
+
+Die Zeichnung von Neuemissionen (Aktien, Renten) ist bei NIBC Direct möglich. Bei erfolgter Zuteilung werden die Wertpapiere an Ihr Depot übertragen.
+###
+
+Wie erfahre ich, ob ich bei einer Neuemission (IPO) eine Zuteilung erhalten habe?
+
+Die Zuteilung neuer Wertpapiere im Rahmen einer Neuemission erfolgt oft am späten Nachmittag des Vortages der ersten Börsennotiz. Ob Sie eine Zuteilung erhalten haben, können Sie in Ihrem Depot erfahren. Rufen Sie dort unter "Brokerage" das "Orderbuch" auf. Im Falle einer Zuteilung wird Ihre Order als ausgeführt ausgewiesen. Sollte noch keine Zuteilung erfolgt sein, so bleibt der Orderstatus weiterhin als offen vermerkt. Falls Sie bei der Zuteilung nicht berücksichtigt worden sind, wird Ihre Order aus dem Orderbuch gelöscht. Das zur Deckung der Zeichnung reservierte Anlagekapital wird entweder im Umfang der Zuteilung von Ihrem Tagesgeldkonto (Mehr.Zins.Konto) als Verrechnungskonto abgebucht oder aber wieder freigestellt.
+###
+
+Was ist die US-Quellensteuer?
+
+Die USA erheben derzeit auf bestimmte Einnahmen aus Kapitalvermögen aus US-amerikanischen Wertpapieren eine Steuer von 30%, wenn diese Einnahmen an einen aus US-amerikanischer Perspektive ausländischen Empfänger gezahlt werden. Da diese Steuer gleich am Entstehungsort - also an der Quelle - abgezogen und an die zuständige Finanzbehörde der USA, den Internal Revenue Service (IRS), abgeführt wird, wird sie Quellensteuer genannt.
+
+###
+ Welche Wertpapieranlagen unterliegen der US-Quellensteuer?
+
+Der US-Quellensteuerpflicht unterliegen im Depotgeschäft grundsätzlich alle Erträge aus US-Wertpapieren, d.h. Dividenden aus US-Aktien und Zinsen aus US Registered Bonds (Anleihen, Namenspapiere). "US-Wertpapiere" sind Wertpapiere, die ein in den USA ansässiges Unternehmen emittiert hat. Hierzu zählen auch deutsche und ausländische Zertifikate über US-Aktien.
+
+Pauschal werden von Erwerbern solcher US-Wertpapiere 30% der Einkünfte aus diesen Papieren vom Finanzamt einbehalten. Für eine steuerspezifische Behandlung konsultieren Sie am besten Ihren Steuerberater.
+###
+
+Wie kann ich bei Kapitalmaßnahmen meine Weisungen abgeben?
+
+Ihre Weisungen bei Kapitalmaßnahmen geben Sie am besten elektronisch per Serviceauftrag innerhalb Ihres Online-Banking-Zugangs ab, da diese zeitkritisch sind.
+###
+
+Sind telefonische Orders möglich?
+
+Nein, NIBC Direct bietet eine reine Online-Handelsplattform an und gibt so Kostenvorteile an die Kunden weiter. Ordererfassungen und -änderungen erfolgen ausschließlich online durch die Depotinhaber selbst.
+
+###
+
+Kann ich eine Order per E-Mail oder per Fax aufgeben?
+
+Nein, NIBC Direct bietet eine reine Online-Handelsplattform an und gibt so Kostenvorteile an die Kunden weiter. Ordererfassungen und  änderungen sind ausschließlich online durch die Depotinhaber nach Anmeldung mit den Zugangsdaten möglich.
+###
+
+Bin ich mit meiner Orderaufgabe an Börsenzeiten gebunden?
+
+Sie können Ihre Order im Internet rund um die Uhr an 7 Tagen die Woche aufgeben. Die Ausführung der Order richtet sich jedoch nach den Öffnungszeiten der jeweiligen Börse.
+
+###
+
+Bekomme ich eine Ausführungsbestätigung per E-Mail?
+
+NIBC Direct übermittelt keine vertraulichen Informationen per E-Mail. Ihre Abrechnungen erhalten Sie von uns automatisch in Ihrer Postbox (elektronischer Briefkasten) innerhalb der sicheren Online-Banking-Umgebung zugestellt.
+###
+
+Was ist das Orderbuch?
+
+Das Orderbuch enthält alle aktuell vorhandenen Orders. Es zeigt bei Aufruf immer sämtliche noch offenen Orders an.
+###
+
+Was geschieht mit einer Order, die ich nach Handelsschluss als tagesgültig eingebe?
+
+Eine tagesgültige Order, die nach dem Ende der Handelszeiten einer Parkettbörse aufgegeben wurde, wird von der Börse abgewiesen. Eine tagesgültige Order für den Börsenplatz XETRA® wird nach Handelsschluss NICHT an einen anderen Börsenplatz übermittelt.
+###
+
+Was ist eine Stop-Loss-Order?
+
+Eine Stop-Loss-Order ist ein bedingter Verkaufsauftrag. Durch das Setzen einer Stop-Loss-Order können bereits erzielte Gewinne gesichert oder Verluste eingeschränkt werden. Dabei setzt der Anleger ein Stop-Loss-Limit. Sobald eine Kursfeststellung (mit Umsatz) dieses gesetzte Limit erreicht oder unterschritten hat, werden die Wertpapiere zum nächstmöglichen Zeitpunkt bestens verkauft. Es gibt keine Garantie für den zu erzielenden Verkaufskurs. Dieser kann unter, aber auch über dem gesetzten Stop-Loss-Limit liegen.
+###
+
+Was ist eine Stop-Buy-Order?
+
+Eine Stop-Buy-Order ist ein bedingter Kaufauftrag. Sie ist für den Anleger interessant, der erst bei steigendem Kurs die entsprechenden Wertpapiere kaufen möchte. Dabei setzt der Anleger ein Stop-Buy-Limit. Sobald eine Kursfeststellung (mit Umsatz) dieses gesetzte Stop-Buy-Limit erreicht oder überschreitet, werden die Wertpapiere zum nächstmöglichen Zeitpunkt billigst gekauft. Dabei gibt es keine Garantie für den zu erzielenden Kaufkurs. Dieser kann über, aber auch unter dem gesetzten Stop-Buy-Limit liegen.
+###
+
+Wie sehe ich, ob meine Order zum Handel an eine Börse weitergeleitet wurde?
+
+In Ihrem Depot können Sie im "Orderbuch" den Status Ihrer Order einsehen.
+###
+
+Kann ich eine bereits aufgegebene Order löschen?
+
+Ja, falls die Order bisher nicht ausgeführt wurde. Ob eine Order noch gelöscht werden kann, erkennen Sie im Orderbuch an dem Status "Offen". Wird dieser Status bei der gewünschten Order nicht mehr angezeigt, so kann diese nicht mehr gestrichen werden, da sie bereits ausgeführt wurde bzw. die Börse keine Löschungen mehr annimmt. Grundsätzlich benötigen Sie für die Orderstreichung zur Bestätigung eine TAN.
+
+###
+
+Ist bei Fonds eine Orderstreichung möglich?
+
+Ja, Fondsorders können gestrichen werden, wenn sie den Status "Offen" aufweisen. Das gilt auch für alle anderen Wertpapiergattungen.
+###
+
+Warum ist die Gültigkeit bei Fondsorders auf "Bis Ausführungstag" voreingestellt, wenn die Order taggleich ausgeführt wird?
+
+Bei außerbörslichen Fonds ist die Gültigkeit vorab immer auf "Bis Ausführungstag" eingestellt. Die unterschiedlichen Ausführungszeiten der verschiedenen Fondsgesellschaften werden somit gewürdigt. Es gibt Fonds, deren Kurs nur einmal wöchentlich festgestellt wird. Ohne den Zusatz "Bis Ausführungstag" würde die Order hier nicht zur Ausführung kommen. Daher ist er für Fonds im System voreingestellt.
+###
+
+Was ist ein Mistrade?
+
+Bei einem "Mistrade" kommt ein Geschäft an der Börse zu einem nicht marktgerechten Preis zustande. Solche Geschäfte werden i.d.R. automatisch rückabgewickelt. Beide Handelsparteien werden dann so gestellt, als ob das Geschäft nicht stattgefunden hätte.
+###
+
+Wieso erhalte ich anstatt Realtime-Kursen nur Neartime-Kurse?
+
+NIBC Direct gewährt Ihnen im Online-Brokerage grundsätzlich kostenlose Realtime-Kurse. In einem bestimmten Fall kann es sein, dass Sie anstatt der Realtime-Kurse Neartime-Kurse geliefert bekommen:
+
+Die Handelsplätze, die die Kursversorgung übernehmen und die Daten bereitstellen, setzen für die private Nutzung der Kurse ein monatliches Maximalkontingent von 1.000 Suchabfragen an. Wird dieses Kontingent innerhalb eines Monats überschritten, dann erfolgen die zusätzlichen Suchabfragen - also die, die in diesem Zeitraum über die 1.000. Abfrage hinausgehen - als Neartime-Kurse. Sobald eine neue 4-Wochen-Periode beginnt, erhalten Sie wieder Realtime-Kurse, bis Sie das Maximalkontingent von 1.000 Abfragen pro Monat erneut ausgeschöpft haben.
+###

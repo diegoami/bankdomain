@@ -1,0 +1,20 @@
+###
+
+Was ist Phishing?
+
+Phishing ist der kriminelle Versuch, mittels gefälschter Webseiten an Ihre Zugangsdaten für das Online-Banking zu gelangen. Meist erhalten Sie dabei eine E-Mail, in der Sie angeblich von Ihrer Bank dazu aufgefordert werden, Ihre Bankdaten, Passwörter und TANs einzugeben. Mit diesen Daten könnten Fremde Überweisungen von Ihrem Konto tätigen.
+NIBC wird Sie jedoch niemals per E-Mail oder telefonisch dazu auffordern, Ihre Passwörter wie z.B. Ihre PIN oder TAN anzugeben.
+###
+
+Wie hoch bin ich bei Schäden durch Phishing versichert?
+
+Als Kunde sind Sie zu einem sorgsamen Umgang mit NIBCode, PIN und TANs verpflichtet. Eine besondere Versicherung für Schäden gibt es nicht. Allerdings haben wir bei der Auswahl der Systeme auf größtmögliche Sicherheitsvorkehrungen geachtet. So können bspw. Überweisungen vom Tagesgeldkonto nur auf das von Ihnen angegebene Referenzkonto vorgenommen werden und hier muss der Kontoinhaber identisch mit dem Kontoinhaber der NIBC sein.
+
+###
+
+
+Was passiert, wenn ich im Online-Banking-Bereich eingeloggt bin und der Server abstürzt? Kann dann jeder auf meine Daten zugreifen?
+
+Bitte beachten Sie hierzu die Sicherheitshinweise auf dieser Seite: https://www.onlinebanking-nibcdirect.de
+
+###

@@ -1,0 +1,78 @@
+###
+
+Wie läuft die Kontoeröffnung genau ab?
+
+Als Interessent füllen Sie die Kontoeröffnungsformulare auf der Website mit allen erforderlichen Daten aus. Es sind hier bereits Pflichtfelder und Kannfelder definiert. Danach senden Sie die Daten an NIBC Direct und drucken den Kontoeröffnungsantrag mitsamt den Bedingungswerken (z.B. Information nach dem Fernabsatzgesetz) aus, unterschreiben den Antrag und legitimieren sich ganz einfach und bequem per Video-Chat (weitere Informationen erhalten Sie unter www.nibcdirect.de/services/video-ident/) oder Post-Ident Verfahren bei der Deutschen Post (www.nibcdirect.de/postident). Im Falle des Post-Ident Verfahrens schickt der Postmitarbeiter Ihre Unterlagen an NIBC Direct, woraufhin Ihr Konto eröffnet wird.  Im Anschluss erhalten Sie innerhalb weniger Tage den NIBC Direct Willkommensbrief mit Ihrer neuen Kontonummer. Den gewünschten Anlagebetrag können Sie dann von Ihrem Girokonto auf Ihr NIBC Direct Tagesgeldkonto überweisen.
+
+Benutzerkennung (NIBCode), PIN und TAN (bei mobileTAN und SecureGo ist es der Freischaltcode und bei smartTAN plus die NIBCard) werden in jeweils getrennter Post verschickt. Nach Erhalt der PIN und der TAN können Sie mit diesen und dem NIBCode alle Funktionen des Online-Banking-Portals unter www.nibcdirect.de nutzen.
+
+Bei Fragen zur Identifikation wenden Sie sich bitte an unseren Kundenservice unter der Nummer: +49 69 244 37 200
+###
+
+Kann man das Konto bei NIBC Direct gleich online eröffnen?
+
+NIBC Direct muss bei Neukunden aufgrund gesetzlicher Anforderungen zunächst auf ihre Legitimation per PostIdent-Verfahren warten. Außerdem müssen der Bank die unterschriebenen Kontoeröffnungsunterlagen (d.h. Kundenstammvertrag inklusive Antrag auf Eröffnung eines Tagesgeldkontos und ggf. Antrag auf Eröffnung eines Festgeld- oder Kombigeldkontos oder Depots) vorliegen. Dann kann die Bank das Konto eröffnen und dem Kontoinhaber alle Informationen für den Zugang zum Online-Banking zusenden. Wer schon Kunde ist, kann über das Online-Banking-Portal selbständig weitere Festgeld- oder Kombigeldkonten sowie Depots eröffnen.
+###
+
+Wie funktioniert das PostIdent-Verfahren?
+
+NIBC nutzt das PostIdent Verfahren des Vertragspartners Deutsche Post AG. Dieses bietet zwei Legitimationsverfahren an:
+
+Video-Chat: Die Legitimation ist kostenfrei und per PC, Tablet oder Smartphone von überall möglich. Benötigt werden lediglich ein gültiges Ausweisdokument, ein PC mit aktuellem Browser, Webcam und Mikrofon sowie das Mobiltelefon für den Erhalt des Ident-Codes. Die Videolegitimation funktioniert alternativ zum PC auch mit einem Smartphone oder Tablet. Das Verfahren unterstützt sowohl Android- als auch iOS-Betriebssysteme.
+
+PostIdent-Coupon: Für unsere Kunden erstellen wir einen sogenannten PostIdent-Coupon. In einer Filiale der Deutschen Post AG legen Sie als Kunde Ihren Personalausweis oder Reisepass vor. Der Coupon kann in allen Postfilialen und -agenturen angenommen und verarbeitet werden, in denen ein Elektronischer Postschalter (EPOS) vorhanden ist. Der Postmitarbeiter überträgt die Daten des Ausweispapiers in den Coupon, welchen Sie als Kunde anschließend prüfen und unterschreiben. Diese Unterschrift wird durch Stempel und Unterschrift des Postmitarbeiters bestätigt und an NIBC Direct gesendet.
+
+Das PostIdent-Verfahren ist in der Regel für den Kunden kostenfrei.
+###
+
+
+Benötige ich ein Referenzkonto, um bei NIBC Direct ein Konto zu eröffnen?
+
+Ja, als Kunde benötigen Sie ein Zahlungsverkehrs- oder Girokonto als Referenzkonto, auf das Sie bspw. die erwirtschafteten Zinsen oder einen fälligen Festgeldbetrag überweisen können. Dieses Referenzkonto muss bei einer Bank in Deutschland unterhalten werden.
+###
+ Wer darf ein Konto bei NIBC Direct eröffnen?
+
+Jeder, der volljährig ist und einen festen Wohnsitz in Deutschland hat und hier steuerpflichtig ist, kann ein Konto eröffnen. Tagesgeld-, Festgeld- und Kombigeldkonten sowie Depots bei NIBC Direct sind ausschließlich der privaten Nutzung vorbehalten.
+Wenn Sie ausländischer Staatsbürger sind, benötigen wir für die Bearbeitung des eingereichten Antrags auf Kontoeröffnung außerdem eine Meldebescheinigung im Original (nicht älter als zwei Monate), aus der ein Wohnsitz in Deutschland hervorgeht.
+###
+
+Kann ich ein Gemeinschaftskonto eröffnen?
+
+Ja, bei NIBC Direct kann man Gemeinschaftskonten eröffnen. Allerdings sind maximal 2 Kontoinhaber möglich.
+###
+ Kann ich mehrere Konten bei Ihnen führen? Wenn ja: Gibt es eine Höchstanzahl für Tagesgeld-, Festgeld- und Kombigeldkonten bzw. Depots?
+
+Es gibt keine maximale Anzahl von Konten pro Kunde. Sie können gerne mehrere Konten bei uns führen.
+###
+ Wie hoch ist das Überweisungslimit des Tagesgeldkontos?
+
+Zu Ihrer Sicherheit haben wir Auszahlungen von Ihrem Tagesgeldkonto durch Überweisung auf das von Ihnen angegebene Referenzkonto im Online-Banking auf einen Höchstbetrag von € 100.000 pro Tag festgelegt.
+Selbstverständlich haben Sie jederzeit die Möglichkeit, dieses Limit per legitimierter Mitteilung im Online-Banking anzupassen. Die Anpassung wird innerhalb eines Bankarbeitstages umgesetzt.
+###
+
+Nach welcher Zinsmethode werden die Zinsen berechnet?
+
+Die Zinsen auf unseren Anlagekonten werden nach der deutschen Zinsmethode 30/360 berechnet. Somit erhält ein Zinsmonat stets 30 und ein Zinsjahr stets 360 Tage.
+###
+
+Muss ich ein Tagesgeldkonto eröffnen, wenn ich ein Festgeldkonto abschließen will?
+
+Ja, Sie müssen ein Tagesgeldkonto eröffnen, um ein Festgeldkonto bei uns führen zu können. In diesem Fall übersenden Sie uns mit den Unterlagen auf Eröffnung eines Tagesgeldkontovertrags den ausgefüllten und unterzeichneten "Antrag auf Eröffnung des Festgeldkontos".
+###
+
+
+Bucht NIBC Direct den Anlagebetrag für mein Festgeld von meinem Referenzkonto ab?
+
+Nein, Abbuchungen und Lastschriften sind aus Sicherheitsgründen leider nicht möglich. Bitte überweisen Sie den für die Festgeld- oder die Kombigeldanlage gewünschten Betrag auf Ihr Tagesgeldkonto (Mehr.Zins.Konto). Wenn uns bereits ein Festgeld- oder Kombigeldauftrag vorliegt, legen wir das Fest- bzw. Kombigeld für Sie an. Schneller und einfacher geht es, wenn Sie dies per Online-Banking selbst erledigen.
+###
+
+
+Wie und bis wann kann ich die Kontoeröffnung widerrufen?
+
+Innerhalb einer Frist von 2 Wochen kann der Verbraucher seine Willenserklärung widerrufen und ist dann nicht mehr an den Vertrag gebunden. Die früher als Fernabsatzgesetz bekannten Regelungen der §§ 312b ff. BGB finden Anwendung auf Fernabsatzverträge, also auf Kauf- oder Dienstverträge, die per Telefon, per Internet oder über andere Fernkommunikationsmittel abgeschlossen werden bzw. wurden. Bei Fernabsatzverträgen wird dem Verbraucher ein grundsätzliches Widerrufsrecht eingeräumt.
+###
+
+
+
+
+

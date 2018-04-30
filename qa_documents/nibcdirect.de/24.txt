@@ -1,0 +1,142 @@
+###
+
+Was ist HBCI?
+
+HBCI steht für Home Banking Computer Interface. Das bedeutet, Sie können mit Hilfe eines Online-Banking Software Programms gleichzeitig auf Ihre Konten bei verschiedenen Banken zugreifen.
+###
+
+Kann ich mit einer Online-Banking Software und HBCI auf mein NIBC Direct Konto zugreifen?
+
+Sie können mit einigen Online-Banking Software Programmen und HBCI auf Ihr Mehr.Zins.Konto oder Jugend.Zins.Konto zugreifen. Weiterhin können Sie Umsätze und Salden der Mehr.Geld.Konten sowie Mehr.Kapital.Konten und Jugend.Kapital.Konten abrufen.
+
+Folgende Online-Banking Software Programme, die von NIBC Direct getestet wurden, unterstützen derzeit den Zugriff auf Ihr NIBC Direct Konto:
+
+- Windata
+
+- WISO
+
+- Mein Geld
+
+- S-Firm
+
+- VR Networld
+
+- StarMoney (ab Version 7.0)
+
+- Quicken
+
+- Moneyplex
+
+- ALF-BanCo 3.0 und höher
+
+- Hibiscus
+
+- Subsembly Banking 3.0 und höher
+
+- iOutBank
+
+- Saldomat
+
+- T-Online Homebanking Software
+
+- HomeBanking 2010 (akademische arbeitsgemeinschaft verlag)
+
+- Gnucash
+
+- S-Banking
+
+- Bank X
+###
+
+Welche HBCI-Verfahren bietet NIBC Direct an?
+
+NIBC Direct bietet das HBCI-Verfahren mittels PIN und mobileTAN an.
+###
+ Wie kann ich das HBCI-Verfahren nutzen?
+
+Mit Ihrem NIBCode sowie PIN und mobileTANs, die Sie nach der Kontoeröffnung erhalten haben, können Sie das HBCI-Verfahren nutzen.
+
+NIBC Direct hat das Verfahren Fin TS V3.0 im Einsatz.
+###
+
+Wie lauten die Zugangsdaten für HBCI?
+
+Bitte geben Sie die Bankleitzahl 512 107 00 in die Suchmaske der HBCI-Software ein. Danach sollten die folgenden Angaben erscheinen:
+
+HBCI URL: HBCI01.fiducia.de
+
+Pin Tan URL: https://hbci11.fiducia.de/cgi-bin/hbciservlet
+
+Port TCP/IP: 443
+
+Bitte übernehmen Sie - wenn möglich - die Einstellungen Ihres Programms und ändern Sie nur bei Fehlern diese Vorgaben.
+
+Benutzerkennung: Ihr NIBCode (die Eingabe Ihres selbstgewählten Alias ist nicht möglich)
+
+Ggf. Kundennummer: Ihr NIBCode (die Eingabe Ihres selbstgewählten Alias ist nicht möglich)
+
+PIN: Ihre Online-Banking-PIN
+###
+
+Was kostet das HBCI Banking bei NIBC Direct?
+
+Die HBCI Nutzung ist kostenfrei.
+###
+
+Gibt es auch HBCI mit Chipkarte oder Schlüsseldatei?
+
+HBCI wird aktuell nur als PIN/mobileTAN-Version angeboten.
+###
+
+Warum muss ich mich als Bestandskunde für das HBCI-Banking gesondert anmelden?
+
+Wir müssen Ihr Konto für das HBCI-Banking freischalten.
+###
+
+Was passiert, wenn ich mich nicht für das HBCI-Banking anmelde?
+
+Ohne die Anmeldung für das HBCI-Banking können Sie nur die Salden und Umsätze Ihrer Konten bei NIBC Direct abrufen. Es sind dann keinerlei Buchungen möglich.
+###
+
+Wie sicher ist HBCI-Banking mit PIN/mobileTAN?
+
+Online-Banking mittels HBCI und PIN/mobileTAN gilt als besonders sicher, da die Homebanking-Software auf dem Endgerät des Anwenders installiert ist und eine direkte Verbindung zum Rechenzentrum der Bank besteht. Das mobileTAN-Verfahren erzeugt für jeden TAN-pflichtigen Vorgang genau 1 TAN, die maximal 15 Minuten lang gültig ist.
+###
+
+Kann ich auch legitimierte Mitteilungen schreiben, Festgelder anlegen oder meinen Freistellungsauftrag ändern?
+
+Nein, das ist nicht möglich. In der HBCI-Umgebung sind nur die Umsatz- und Saldenabfrage und Überweisungen auf das Referenzkonto bei Ihrer Hausbank möglich.
+###
+ Warum kann ich mich mit der Initialisierungs-PIN nicht anmelden?
+
+Die PIN ist bei der Erstanmeldung zu ändern; diese Funktion ist nur direkt unter
+
+https://www.onlinebanking-nibcdirect.de/banking-private/entry
+
+möglich.
+
+###
+
+Muss ich mich gesondert anmelden, um HBCI-Banking zu nutzen?
+
+Ja. Wenn Sie bereits Kunde sind, müssen Sie eine legitimierte Mitteilung an NIBC Direct schicken und um die Freischaltung des HBCI-Banking bitten. Für Neukunden wird diese Möglichkeit automatisch mit eingerichtet.
+###
+
+Kann ich HBCI bei NIBC Direct mit PIN/mobileTAN benutzen und bei meiner Hausbank mit Chipkarte?
+
+Ja, für jeden Bankkontakt oder Eintrag in Ihrer Software wird das entsprechende Sicherheitsmedium hinterlegt.
+###
+ Was muss ich tun, wenn sich mein Referenzkonto bei meiner Hausbank ändert?
+
+Sie können uns die neuen Kontodaten unter
+
+https://www.onlinebanking-nibcdirect.de/banking-private/entry
+
+als legitimierte Mitteilung hinterlassen. Wir werden die Änderungen unverzüglich eintragen. Sobald Sie eine schriftliche Bestätigung über die Änderung der Referenzkontoverbindung erhalten haben, ist diese Bankverbindung auch mit HBCI nutzbar.
+###
+
+Ich kann mein neues Festgeld nicht in der Kontenübersicht der Online-Banking-Software sehen.
+
+Es kann sein, dass Sie den Bankeintrag oder Bankkontakt erneut synchronisieren müssen. Danach sollte das zusätzliche Konto sichtbar sein.
+###
+

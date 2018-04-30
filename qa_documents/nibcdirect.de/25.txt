@@ -1,0 +1,61 @@
+###
+
+3999: Auf dem Sicherheitsmedium fehlt noch die Kundensystem-ID.
+
+Bitte prüfen Sie, ob die richtige PIN mit genau 5 Stellen eingegeben wurde.
+
+###
+ 9000: Der Status des Auftrags ist indifferent. Es wurde keine Antwort empfangen.
+
+In diesem Fall ist nicht klar, ob der HBCI-Auftrag verarbeitet wurde, da vom Bankrechner keine Rückmeldung kam bzw. das Zahlungsverkehrsprogramm sie nicht abgewartet hat.
+
+Rufen Sie die Kontoauszüge ab, um zu prüfen, ob der Auftrag ausgeführt wurde.
+###
+
+9010: Bis-Datum ist größer als das heutige Datum.
+
+Das Programm versucht, Umsätze abzurufen, deren Datum in der Zukunft liegt. Falls Sie mit Home cash oder Profi cash arbeiten, gehen Sie in die Datenübertragung und klicken dort den Job für die Umsatzabfrage doppelt an. Hier aktivieren Sie die Option "bis Tagesdatum".
+###
+
+9140: Syntaxfehler.
+
+In den meisten Fällen entspricht ein hinterlegter Wert nicht dem erwarteten Format. Prüfen Sie beim Konto bzw. bei den HBCI-Einstellungen, ob die richtige Kontonummer sowie die korrekte PIN mit genau 5 Stellen erfasst wurde.
+###
+ 9340: Benutzer hat keine Kontoberechtigung. Auftrag abgelehnt.
+
+Prüfen Sie bitte zuerst die im Programm hinterlegten Angaben:
+
+BLZ (Nach Fusionen z.B. ist die alte Bankleitzahl nur noch eine begrenzte Zeit lang gültig. Arbeiten Sie daher bitte immer mit den aktuellen Daten.)
+
+Kontonummer
+
+Benutzerkennung
+
+Sollten alle Angaben korrekt sein, setzen Sie sich bitte mit Ihrer Bank in Verbindung, um den Zugang zu überprüfen.
+
+###
+
+9370: Keine Berechtigung für diesen Geschäftsvorfall. Auftrag abgelehnt.
+
+In diesem Fall ist der gewünschte Geschäftsvorfall (z.B. Lastschrift) von der Bank nicht freigeschaltet worden.
+###
+ 9380: Benutzer hat keine Auftragsberechtigung.
+
+Falls diese Meldung bei der Erstinitialisierung erscheint, sind vermutlich die Zugangsdaten nicht korrekt oder nicht vollständig hinterlegt worden. Prüfen Sie bitte insbesondere, ob folgende Angaben mit der 19-stelligen Benutzerkennung laut INI-Brief erfasst wurden:
+
+Benutzerkennung
+
+Kundennummer/-ID
+###
+ 9999: Es ist ein Fehler beim Öffnen des Transportwegs aufgetreten.
+
+In diesem Fall konnte das Zahlungsverkehrsprogramm keine Verbindung zum Bankrechner herstellen. Folgende Punkte sollten in diesem Fall überprüft werden:
+
+Funktioniert die Interneteinwahl?
+
+Blockiert eine Firewall den Port 3000 (HBCI-Chipkarte/Schlüsseldatei) bzw. den Port 443 (HBCI-PIN/mobileTAN)?
+
+Blockiert eine persönliche Firewall alle Aktivitäten der Software?
+
+Ist die Internetadresse des Bankrechners korrekt? (Versuchsweise statt DNS-Name die IP-Adresse hinterlegen)
+###
