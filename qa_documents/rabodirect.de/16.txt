@@ -1,0 +1,60 @@
+###
+ Was passiert, wenn ich keiner steuererhebenden Religionsgemeinschaft angehöre?
+
+Sind Sie nicht kirchensteuerpflichtig oder haben beim Bundeszentralamt für Steuern (BZSt) einen Sperrvermerk erteilt, meldet uns das BZSt bei der automatisierten Abfrage Ihrer Religionszugehörigkeit einen sogenannten Nullwert, der keine Rückschlüsse auf Ihre Konfession zulässt. Dementsprechend wird durch uns auch keine Kirchensteuer einbehalten und an das Finanzamt abgeführt.
+###
+ Wird Kirchensteuer abgeführt, wenn ich einen Freistellungsauftrag erteilt habe?
+
+Ihre Zinserträge sind im Rahmen Ihres erteilten Freistellungsauftrags steuerfrei. Es fällt keine Kirchensteuer an. Erst wenn auf Ihre Zinserträge Kapitalertragsteuer zu erheben ist, wird auch automatisch die abzuführende Kirchensteuer einbehalten und abgeführt, sofern uns Ihre Religionszugehörigkeit im automatisierten Abfrageverfahren bereits gemeldet wurde.
+
+###
+ Welche Voraussetzungen müssen erfüllt sein, damit RaboDirect die Kirchensteuer automatisch für mich abführen kann?
+
+Um die Kirchensteuer auf anfallende Kapitalertragsteuer ab 2015 einzubehalten und direkt abführen zu können, müssen wir Ihre Religionszugehörigkeit zum Stichtag 31.08.2014 beim BZSt abgefragt haben. Der Kirchensteuerabzug beginnt also mit Wirkung zum Folgejahr zur sogenannten Regelabfrage.
+
+Damit uns Ihr sogenanntes Kirchensteuerabzugsmerkmal vom BZSt mitgeteilt werden kann, halten Sie bitte Ihre persönlichen Daten bei uns aktuell.
+
+###
+ Was gilt für meinen bereits erteilten Antrag auf Einbehalt der Kirchensteuer?
+
+Haben Sie einen Antrag auf Einbehalt der Kirchensteuer bei uns gestellt, gilt dieser nur noch für 2014.
+
+Mit Einführung des automatischen Kirchensteuerabzugs ab 2015 erfolgt der Einbehalt und die Abführung der Kirchensteuer auf Basis des uns vom Bundeszentralamt für Steuern (BZSt) gemeldeten Kirchensteuerabzugsmerkmals.
+
+###
+ Welche Konten sind vom automatischen Kirchensteuerabzug betroffen?
+
+Der automatisierte Kirchensteuerabzug gilt grundsätzlich für alle bei uns geführten Konten.
+
+Bei Gemeinschaftskonten können wir die Kirchensteuer jedoch nur abführen, wenn die Kontoinhaber miteinander verheiratet sind bzw. in einer eingetragenen Lebenspartnerschaft leben und uns dies entsprechend angegeben haben.
+
+Ausnahmen vom Kirchensteuerabzug für einzelne Kontoverbindungen sind nicht möglich.
+###
+ Was gibt es bei Gemeinschaftskonten zu beachten?
+
+Voraussetzung für die Erhebung von Kirchensteuer bei Gemeinschaftskonten ist, dass die Kontoinhaber Ehepartner bzw. eingetragene Lebenspartner sind und uns dies entsprechend angegeben haben.
+
+Jeder Kontoinhaber entrichtet seine Kirchensteuer auf die Hälfte der berechneten Kapitalertragsteuer. Ist nur ein Kontoinhaber kirchensteuerpflichtig oder liegt uns die Religionszugehörigkeit nur für einen Kontoinhaber vor, wird nur dessen Kirchensteueranteil abgeführt.
+
+###
+ Was passiert, wenn sich meine Religionszugehörigkeit ändert?
+
+Der automatisierte Kirchensteuereinbehalt für ein Kalenderjahr wird aufgrund Ihres Kirchensteuerabzugsmerkmals vorgenommen, das uns vom Bundeszentralamt für Steuern (BZSt) zum Stichtag 31. August des Vorjahres gemeldet wird.
+
+Der Kirchensteuerabzug beginnt also mit Anfang des der Regelabfrage beim BZSt folgenden Kalenderjahres und wird dann entsprechend für dieses ganze Kalenderjahr vorgenommen.
+
+Hat sich Ihre Religionszugehörigkeit nach dem Stichtag geändert, erhalten wir Ihr neues Kirchensteuerabzugsmerkmal erst mit der nächsten Regelabfrage und berücksichtigen dieses im der Abfrage folgenden Kalenderjahr.
+
+###
+ Kann ich dem automatischen Abruf meiner Religionszugehörigkeit widersprechen?
+
+Ja. Sind Sie mit der automatisierten Abfrage Ihrer Kirchensteuermerkmale nicht einverstanden, können Sie beim Bundeszentralamt für Steuern (BZSt) Widerspruch gegen den Datenabruf einlegen.
+
+Das Formular für den Widerspruch (Erklärung zum Sperrvermerk) gibt’s direkt beim BZSt zum Download:
+
+Hier geht's zum Formular
+
+Ihre Kirchensteuermerkmale werden uns dann nicht mitgeteilt. An den kirchensteuerlichen Verpflichtungen ändert der Sperrvermerk jedoch nichts; es unterbleibt lediglich der Abzug direkt an der Quelle. Den kirchensteuerlichen Pflichten müssen Sie dann selbst gegenüber dem Finanzamt im Rahmen Ihrer Einkommensteuererklärung nachkommen.
+
+Weiterführende Informationen finden Sie im Webportal des BZSt.
+###

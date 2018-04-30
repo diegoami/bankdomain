@@ -1,0 +1,97 @@
+###
+Welche sind die ersten Schritte nach Erhalt der Kreditkarte, um sicher mit ihr umzugehen?
+
+Bitte unterschreibe die Kreditkarte sofort nach Erhalt auf der Rückseite und merke Dir die PIN. Du solltest diese nicht zusätzlich notieren. Solltest Du Schwierigkeiten haben Dir Zahlen zu merken, bewahre den PIN-Brief an einem sicheren Ort (z. B. in einem Safe) auf.
+###
+
+
+Wie kann ich eine Kreditkarte einsetzen?
+
+Eine Kreditkarte ist weltweit bei allen Akzeptanzstellen einsetzbar, die das jeweilige Kreditkarten-Logo zeigen. Innerhalb des Verfügungsrahmens der Kreditkarte lassen sich Einkäufe in Geschäften, im Internet und in Tele-Shops bezahlen. Ebenso kannst Du mit Deiner Kreditkarte Bargeld am Geldautomaten abheben.
+###
+
+Was versteht man unter Verfügungsrahmen?
+
+Jede Kreditkarte hat einen finanziellen Rahmen, bis zu dem Du monatlich verfügen kannst. Der Verfügungsrahmen wird Dir auf Deiner Kreditkartenabrechnung und in unserem Online-Banking Portal angezeigt.
+###
+
+Fallen beim Einsatz einer Kreditkarte Kosten an?
+
+Bezahlst Du im Inland oder in Euro-Ländern mit Deiner Kreditkarte, fallen keine Kosten an. Für Umsätze, die Du außerhalb des Euroraums tätigst, können gegebenenfalls Entgelte berechnet werden. Bei Bargeldabhebungen am Geldautomaten im Ausland werden Entgelte berechnet. Weitere Details kannst Du dem Konditionstableau Deines Kontos entnehmen.
+###
+
+Wie sicher ist das Bezahlen mit der Kreditkarte?
+
+Kreditkarten sind nach den neuesten Sicherheitsstandards mit einem EMV-Chip ausgestattet, auf dem die Daten hochgradig verschlüsselt sind. Sicherheit beim Bezahlen im Internet bietet „3D Secure“. Beachte hierzu bitte den Eintrag „Was ist MasterCard Secure Code bzw. 3D Secure?“ weiter unten.
+###
+
+
+Wie ist der Notfall-Service zu erreichen?
+
+Den Notfall-Service erreichst Du unter der Rufnummer +49 116 116. Wenn Du Deine Karte verloren hast, lasse diese bitte umgehend sperren. Halte hierzu bitte die Nummer Deiner Kreditkarte bereit. Auf Wunsch bestellen wir Dir sofort eine Ersatzkarte.
+###
+
+Wann erfolgt die Abrechnung auf dem Girokonto?
+
+Die Kartenumsätze werden gesammelt und im Rahmen einer monatlichen Abrechnung am 2. Werktag des Folgemonats berechnet. Der Einzug von dem bei uns hinterlegten Girokonto erfolgt am 5. Werktag des Folgemonats.
+###
+
+Lassen sich die Umsätze und Abrechnungen auch online abrufen?
+
+Deine Kreditkartenumsätze kannst Du jederzeit in unserem Online-Banking Portal einsehen.
+###
+
+Wer kann eine Kreditkarte beantragen?
+
+Dieses Angebot richtet sich an volljährige, natürliche Personen mit Wohnsitz und unbeschränkter Steuerpflicht in Deutschland (Steuerinländer), entsprechende Bonität vorausgesetzt. Es können nur Karten beantragt werden, die im eigenen wirtschaftlichen Interesse geführt werden. Um eine Kreditkarte beantragen zu können, benötigst Du ein Girokonto bei uns, sowie einen Zugang zum Online-Banking.
+###
+
+
+Erhalte ich eine PIN für meine Karte?
+
+Zu Deiner Kreditkarte erhälst Du auch immer eine persönliche Geheimzahl (PIN). Die PIN wird Dir ein paar Tage nach Erhalt Deiner Kreditkarte mit separater Post zugestellt. Die PIN benötigst Du für den Bargeldbezug am Geldautomaten, für Transaktionen mit PayPass sowie vereinzelt bei Nutzung im Handel. Bei Austausch oder Erneuerung Deiner Kreditkarte bleibt die PIN identisch, sofern sich die Kartennummer nicht ändert.
+###
+
+Was muss ich tun, wenn ich meine PIN vergessen habe?
+
+Solltest Du Deine PIN vergessen haben und es besteht keine Gefahr, dass Deine PIN verloren gegangen ist oder gestohlen wurde, kannst Du eine erneute Zusendung beauftragen. Den entsprechenden Antrag findest Du in unserem Download-Center.
+###
+
+Wie melde ich die Änderung meiner Adresse oder meines Namens?
+
+Zur Änderung Deiner persönlichen Daten benötigst Du den entsprechenden Antrag, den Du in unserem Download-Center findest. Bitte lege dem Änderungsantrag einen entsprechenden Nachweis wie eine Meldebestätigung oder Heiratsurkunde und eine Kopie Deines Ausweises (Vorder- und Rückseite) bei.
+###
+
+Was ist MasterCard Secure Code bzw. 3D Secure?
+
+3D Secure wird von den Kartenorganisationen unter dem Namen „Verfied by VISA“ bzw. "MasterCard Secure Code“ vermarktet. 3D Secure ist ein sicheres Authentifizierungsverfahren, um das Bezahlen im Internet (eCommerce) sicher zu gestalten und Kartenmissbrauch zu vermeiden. Hast Du dich für 3D Secure angemeldet, wird Dir während des Bezahlvorganges im Internet mit Deiner Kreditkarte ein selbst vergebener Begrüßungstext angezeigt. Anschließend gibst Du Deinen persönlichen Sicherheitscode ein. Nur wenn Sicherheitscode und Kartendaten zusammen passen, wird der Bezahlvorgang ausgelöst.
+
+###
+
+Was ist PayPass?
+
+Deine Kreditkarte besitzt einen kontaktlosen (üblicherweise nicht sichtbaren) Chip. Hiermit kannst Du zusätzlich zur regulären Bezahlmethode auch das MasterCard PayPass Verfahren für eine kontaktlose Bezahlung nutzen. Es kann vorkommen, dass Du bei PayPass-Transaktionen zusätzlich Deine PIN eingeben musst. In der Regel kannst Du Beträge unter 25€ ohne PIN bezahlen. Dies ist jedoch abhängig vom jeweiligen Händler. Für weitere Informationen besuche bitte die folgende Webseite: www.mastercard.com/de/privatkunden/innovationen_paypass.html
+###
+
+Was ist die CVC Kartenprüfnummer?
+
+CVC steht für Card Validation Code und ist bei uns auch als Kartenprüfnummer (KPN) bekannt. Diese Prüfnummer ist ein bedeutendes Sicherheitsmerkmal bei Kreditkarten. Die Abfrage gewährleistet, dass sich die Karte auch physisch beim Auftraggeber befindet. Die Nummer ist drei oder vierstellig und auf die Kartenrückseite der Kreditkarte gedruckt.
+###
+
+
+Warum wird eine Schufa-Auskunft benötigt?
+
+Bevor einem Kreditkartenantrag zugestimmt werden kann, wird die Auskunft über die Bonität des Antragstellers bei der Schufa eingeholt. Hast Du bereits negative Einträge, wird Dein Antrag auf die Kreditkarte je nach Bemessen der Bank abgelehnt.
+###
+
+Wie lange ist meine Kreditkarte gültig?
+
+Wie bei einer normalen Girokarte ist auch bei einer Kreditkarte das Verfalldatum mit Monat und Jahr auf die Karte aufgeprägt. Die Karte ist bis zum Ende des angegebenen Monats gültig.
+###
+Wie nehme ich an MasterCard SecureCode teil?
+
+1. Registriere Dich mit Deiner MasterCard und wähle ein persönliches Passwort und eine individuelle Begrüßung, die nur Du kennst aus.
+2. Kaufe bei teilnehmenden Internethändlern ein und zahle mit Deiner registrierten MasterCard.
+3. Während des Einkaufs erscheint Deine persönliche Begrüßung. Es folgt die Aufforderung, Deinen persönlichen Sicherheitscode einzugeben.
+4. Dein Sicherheitscode wird mit den hinterlegten Daten verglichen. Bei Übereinstimmung wird die Zahlung ausgelöst.
+###

@@ -1,0 +1,25 @@
+###
+ Was ist die Abgeltungsteuer?
+
+Die Abgeltungsteuer stellt eine besondere Form der Besteuerung von Kapitalerträgen dar und gilt für alle Kapitalerträge, die von einer Privatperson mit Wohnsitz in Deutschland erzielt werden. Unter die Abgeltungsteuer fallen insbesondere Zinsen, Dividenden und realisierte Kursgewinne.
+
+Bei Kapitalerträgen, die über ein inländisches Kreditinstitut erzielt werden (sog. auszahlende Stelle), zieht das Kreditinstitut die anfallende Steuer gleich bei der Gutschrift der Erträge ab.
+###
+ Wie hoch ist der Abgeltungsteuersatz?
+
+Der Steuersatz der Abgeltungsteuer beträgt 25%. Hierauf wird noch der Solidaritätszuschlag von derzeit 5,5% (zusammen 26,375%) und auf Antrag Kirchensteuer erhoben. Da die Kirchensteuer eine steuerlich abzugsfähige Sonderausgabe darstellt, reduziert sie bei Beantragung des Kirchensteuerabzugs die einzubehaltene Abgeltungsteuer. Die Gesamtbelastung mit Abgeltungsteuer und Kirchensteuer ist abhängig vom Kirchensteuersatz und beträgt entweder ca.
+
+    27,82 % (bei 8% Kichensteuer) oder
+    27,99 % (bei 9% Kirchensteuer)
+
+###
+ Kann oder muss ich trotz Abgeltungsteuer meine Kapitalerträge bei der Steuererklärung angeben?
+
+Nein. Kapitalerträge des Privatvermögens, die durch ein inländisches Kreditinstitut ausgezahlt und dem Steuerabzug unterzogen wurden, müssen nicht mehr in der Steuererklärung angegeben werden, falls auch sämtliche auf die Erträge entfallende Kirchensteuer bereits von der Bank einbehalten wurde. Die einbehaltene Kapitalertragsteuer entfaltet insoweit abgeltende Wirkung.
+
+Eine freiwillige Veranlagung der Kapitalerträge kann in Einzelfällen allerdings auch vorteilhaft sein. Näheres besprechen Sie bitte mit Ihrem steuerlichen Berater.
+###
+ Kann ich von der Abgeltungsteuer Abstand nehmen? (Antrag auf Nicht-Abzug)
+
+Eine eigenständige Abstandnahme von der Abgeltungsteuer ist nicht möglich. Sofern ihr individueller Spitzensteuersatz niedriger als der Abgeltungsteuersatz von 25% sein sollte, kann dies im Rahmen einer (freiwilligen) Veranlagung berücksichtigt werden.
+###

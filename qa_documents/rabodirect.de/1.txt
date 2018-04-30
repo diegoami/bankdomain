@@ -1,0 +1,61 @@
+###
+ Was ist Phishing?
+
+„Phishing" bezeichnet Handlungen von Hackern, die darauf ausgerichtet sind, in den Besitz Ihrer persönlichen Daten zu gelangen – wie Ihre Kreditkartennummer oder Ihre Zugangsdaten zu einem Online-Konto. Unbefugte schicken Ihnen zum Beispiel eine E-Mail, die aussieht wie die Nachricht einer Bank oder eines Unternehmens, bei der oder dem Sie bereits Kunde sind. Die Absenderadresse ist so gefälscht, dass sie sich von der echten Adresse des genannten Unternehmens oder Finanzdienstleisters oft kaum unterscheidet.
+
+Eines ist sicher: Wir werden Sie niemals auffordern, uns direkt per E-Mail kontorelevante Daten zu senden. Sollten Sie eine solche Anfrage erhalten: Finger weg! Sie stammt garantiert nicht von RaboDirect.
+
+Schauen Sie sich also bitte immer den Absender (und insbesondere dessen E-Mail-Adresse) genau an. Sobald Sie auch nur den geringsten Verdacht haben, dass es sich dabei um eine unseriöse E-Mail handeln könnte, öffnen Sie diese E-Mail nicht bzw. klicken Sie niemals Links oder Anhänge an, die in dieser E-Mail enthalten sind.
+
+Falls Sie eine solche E-Mail erhalten haben, benachrichtigen Sie bitte RaboDirect unter der kostenfreien Servicenummer 0800 7226 100.
+
+Das von RaboDirect verwendete Digipass-System vermindert die Gefahr des Phishing. Phishing-Angriffe können insbesondere dann erfolgreich sein, wenn eine Bank ausschließlich mit Passwörtern und PINs arbeitet, die nie geändert werden. Sobald in diesem Fall ein Unbefugter Zugang zu Ihrem Benutzernamen und Ihrem Passwort hat, kann er auf Ihr Online-Bankkonto zugreifen.
+
+Mit dem Digipass können Sie dies dank der Zwei-Faktor-Authentisierung verhindern. Durch die Kombination von Digipass mit fünfstelliger PIN und ständig neu generierten 8-stelligen Codes für den Zugang zu Ihrem Konto, haben Betrüger erheblich weniger Angriffsflächen: Sie müssten Ihre Benutzernummer und Ihre Digipass-PIN kennen und Ihren Digipass zur Hand haben, um einen Phishing-Angriff erfolgreich durchführen zu können. Zudem wird der Digipass auch benötigt, um Transaktionen zu autorisieren, sodass Sie über eine zweite Sicherheitsebene verfügen.
+###
+ Woran erkennen Sie unseriöse E-Mails?
+
+Das Aufkommen an betrügerischen „Spam“-E-Mails wächst. Angesichts dessen sind wir von RaboDirect besonders wachsam, wenn es heißt, solche E-Mails zu identifizieren. Aber auch Sie selbst sollten vorsichtig sein. Viele unseriöse E-Mails sind nämlich erst auf den zweiten Blick erkennbar. Sie sollten auf Folgendes achten:
+
+    Oft enthalten unseriöse E-Mails Schreibfehler. Achten Sie darauf! Rechtschreibfehler sind ein Alarmsignal – nicht nur dann, wenn sie sich häufen.
+    Vorwand der Kontaktaufnahme ist zum Beispiel ein vermeintliches Problem mit Ihren persönlichen Daten. Man fragt nach Ihrem Benutzernamen oder bittet Sie, einen Code oder ein Passwort zu bestätigen. Bitte hinterfragen die Bedeutung entsprechender E-Mails!
+    Vertrauen Sie nie blind dem vermeintlich seriös klingenden Namen oder der Adresse eines Absenders. Sobald Sie unsicher sind, antworten Sie keinesfalls sofort. Recherchieren Sie stattdessen zunächst sicherheitshalber im Internet oder telefonisch, um festzustellen, mit wem Sie es zu tun haben.
+    Viele unseriöse E-Mails versprechen ein attraktives Geschenk oder einen Gewinn. Dazu werden Sie gebeten, zunächst Ihre persönlichen Daten einzugeben. Vorsicht! Überlegen Sie bei solchen E-Mails zuerst, ob Sie überhaupt z. B. an einem Gewinnspiel teilgenommen haben. Und falls Sie Zweifel haben: Bitte ignorieren Sie sicherheitshalber die betreffende E-Mail.
+    Vorsicht bei E-Mails, die Links enthalten, die Sie auf Ihnen unbekannte Websites weiterleiten. Diese sind oft genau darauf ausgelegt, Sie zur Preisgabe persönlicher Daten zu verleiten, um sie dann für betrügerische Zwecke zu missbrauchen.
+    Seien Sie generell vorsichtig mit dem Öffnen von Anhängen – ganz gleich, ob es sich um Word-Dokumente, PDF-Dateien oder Anhänge in anderen Dateiformaten handelt. Sobald Sie in einer E-Mail auf einen Anhang klicken, öffnen Sie unter Umständen Hackern Tür und Tor.
+
+###
+ Was ist ein Pop-up-Betrug?
+
+Pop-ups sind kleine Fenster oder Mitteilungen auf Webseiten, die plötzlich vor oder hinter dem aktiven Fenster auftauchen. Im Allgemeinen sind dies ganz normale Anzeigen, die grundsätzlich keine Gefahr für die Sicherheit Ihrer Daten darstellen. Allerdings wächst die Zahl der Fälle, bei denen durch Pop-ups der Versuch unternommen wird, an Ihre persönlichen Daten zu gelangen.
+
+Gerade bei kostenlosen Downloads wird oft, vom Nutzer unbemerkt, gleichzeitig mit dem Download sogenannte Adware oder Spyware auf dem Rechner installiert. Mit Hilfe dieser Schadsoftware oder „Malware“ werden Ihre Aktivitäten im Internet beobachtet, um damit gezielt Pop-ups zu generieren.
+
+Viele dieser Programme aktivieren harmlose Anzeigen. Einige können aber auch „Trojanische Pferde“ sein, die alles, was Sie auf Ihrer Tastatur eingeben oder in Ihrem Rechner bereits gespeichert haben, aufnehmen und anschließend unbemerkt und von Ihnen ungewünscht an Dritte übermitteln. Klicken Sie also nicht auf jedes Pop-up.
+
+###
+ Wie kann man eine gefälschte Website erkennen?
+
+Das ist leider oft sehr schwierig. Unser Tipp: Sie können im Zweifelsfall versuchen, eine Ihnen unbekannte Internetadresse manuell in die Adresszeile eines neuen Fensters in Ihrem Browser einzugeben. Wenn Sie anschließend eine Fehlermeldung erhalten bzw. nicht zu der echten, legitimen Website geführt werden, hat wohl in der Tat der Versuch stattgefunden, Sie auf eine gefälschte Website zu leiten.
+###
+ Wie kann man eine gefälschte Website erkennen?
+
+Das ist leider oft sehr schwierig. Unser Tipp: Sie können im Zweifelsfall versuchen, eine Ihnen unbekannte Internetadresse manuell in die Adresszeile eines neuen Fensters in Ihrem Browser einzugeben. Wenn Sie anschließend eine Fehlermeldung erhalten bzw. nicht zu der echten, legitimen Website geführt werden, hat wohl in der Tat der Versuch stattgefunden, Sie auf eine gefälschte Website zu leiten.
+
+###
+ Was sind Viren, Würmer oder Trojaner?
+
+Computerviren und -würmer sind zu Recht gefürchtet. Im digitalen Zeitalter können sich versierte Hacker durch sie im Prinzip jederzeit Zugriff auf fremde Computer verschaffen.
+
+Das Trojanische Pferd ist dabei ein Sinnbild für alles, was zunächst harmlos erscheint und erst später sein wahres Gesicht zeigt. Mit „Trojaner“ bezeichnet man daher ein Computerprogramm, das als nützliche Anwendung getarnt ist, im Hintergrund aber eine ganz andere Funktion erfüllt – ohne dass der Nutzer etwas davon bemerkt.
+
+Hat sich Ihr Computer erst einmal einen Virus, einen Wurm oder einen Trojaner „eingefangen“, so kann dies Einfluss auf alle Ihre Programme und Anwendungen haben – vor allem aber auf Ihre persönlichen Daten, auf die die unerwünschten Eindringlinge zugreifen können. Um sich dagegen zu schützen, sollten Sie folgende Vorkehrungen treffen:
+
+    Öffnen Sie keine Anhänge von E-Mails unbekannter Absender.
+    Installieren Sie ausschließlich Software aus vertrauenswürdigen Quellen.
+    Klicken Sie nicht auf Links in E-Mails unbekannter Absender.
+    Installieren Sie eine Antivirensoftware und stellen Sie sicher, dass diese regelmäßig Ihren Computer überprüft.
+    Verwenden Sie eine Firewall, um den Datenverkehr zu überwachen, der über Ihren Computer läuft, während dieser mit dem Internet verbunden ist.
+    Halten Sie Ihr Betriebssystem durch regelmäßige Sicherheits-Updates auf dem neusten Stand.
+
+###

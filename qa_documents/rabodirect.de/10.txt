@@ -1,0 +1,53 @@
+###
+ Wie kann ich meinen Digipass aktivieren?
+
+Um Ihren Digipass zu aktivieren, benötigen Sie eine 5-stellige Aktivierungs-PIN, die Sie beim ersten Einschalten des Digipass eingeben müssen.
+So fordern Sie Ihre Aktivierungs-PIN an:
+
+    Haben Sie Ihren RaboDirect Digipass erhalten, entnehmen Sie dem zugehörigen Anschreiben Ihre persönliche Benutzernummer für das Online-Banking.
+    Gehen Sie auf www.rabodirect.de und klicken Sie oben rechts auf „Meine Konten“. Es öffnet sich ein neues Fenster „Anmelden“ mit der verschlüsselten Verbindung.
+    Klicken Sie rechts im Rahmen „Aktivierung Digipass“ auf den Link „Jetzt Digipass aktivieren“.
+    Fordern Sie im ersten Schritt auf der Seite „Digipass aktivieren“ Ihre Aktivierungs-PIN per E-Mail oder SMS an.
+    Folgen Sie der Anleitung im zweiten Schritt, um Ihren Digipass mit der per E-Mail oder SMS empfangenen Aktivierungs-PIN in Betrieb zu nehmen und eine eigene PIN zu vergeben.
+    Aktivieren Sie Ihren Digipass im dritten Schritt der Webseite mit einem generierten Zufallscode aus dem Digipass.
+
+###
+ Kostet mich der SMS-Versand etwas?
+
+Nein, RaboDirect versendet die Aktivierungs-PIN per SMS kostenlos.
+###
+ Wie sicher ist die Aktivierung meines Digipass mit der über SMS oder E-Mail erhaltenen Aktivierungs-PIN?
+
+Die Aktivierungs-PIN zur erstmaligen Freischaltung Ihres Digipass senden wir Ihnen wahlweise per E-Mail oder – vorausgesetzt, Sie haben bei uns Ihre Mobilnummer hinterlegt – auch gern per SMS.
+
+Dazu verwenden wir selbstverständlich nur die Kontaktdaten, die Sie bei der Kontoanmeldung angegeben haben. Die Sicherheit dieses Verfahrens wird dadurch gewährleistet, dass Sie Digipass und Aktivierungs-PIN in getrennten Sendungen und auf unterschiedlichen Kommunikationskanälen erhalten.
+
+Ihren sicheren Kontozugang erhalten Sie somit nur aus Kombination des postalisch versandten Digipass mit der per SMS oder E-Mail mitgeteilten Aktivierungs-PIN.
+###
+ Wie lange dauert es, bis die Aktivierungs-PIN nach Anforderung per SMS oder E-Mail versandt wird?
+
+Nachdem Sie die Aktivierungs-PIN zu Ihrem Digipass über www.rabodirect.de/aktivierung angefordert haben, wird diese automatisch innerhalb weniger Sekunden auf dem von Ihnen gewünschten Weg per SMS oder E-Mail verschickt.
+
+###
+ Bei Kontobeantragung habe ich keine/eine falsche Mobilfunknummer eingetragen, wie kann ich meinen Digipass aktivieren?
+
+Die Aktivierungs-PIN zu Ihrem Digipass können Sie bei der Aktivierung auf unserer Website www.rabodirect.de/aktivierung auch an Ihre bei uns hinterlegte E-Mail-Adresse senden lassen.
+
+Wenn Sie sich nach der Aktivierung in Ihren persönlichen Kontobereich einwählen, können Sie unter "Meine Daten" jederzeit Ihre Kontaktdaten aktualisieren.
+
+Bei Problemen mit der Digipass-Aktivierung rufen Sie bitte unsere kostenlose Servicenummer an:
+ 0800 7226 100 (montags bis freitags zwischen 09.00 und 18.00 Uhr).
+###
+ Was kann ich tun, wenn ich die Aktivierungs-PIN per SMS oder E-Mail angefordert, aber nicht erhalten habe?
+
+Haben Sie die Aktivierungs-PIN zu Ihrem Digipass auf unserer Website www.rabodirect.de/aktivierung angefordert, wird Ihnen diese wahlweise an Ihre bei uns hinterlegte E-Mail-Adresse oder – falls von Ihnen angegeben – an Ihre Mobilnummer als SMS gesandt. Der Versand erfolgt nach Ihrer PIN-Anforderung automatisch innerhalb weniger Sekunden.
+
+Falls Sie Ihre Aktivierungs-PIN nicht erhalten haben, prüfen Sie bitte:
+
+    z. B. auf Ihrem Kontoeröffnungsantrag, ob Ihre uns genannten Kontaktdaten korrekt sind.
+    ob die E-Mail mit Ihrer Aktivierungs-PIN in Ihrem Spam-Ordner gelandet ist.
+    ob Sie die richtige, zu Ihrem Digipass gehörende 8-stellige Benutzernummer eingegeben haben.
+    ob Sie das Geburtsdatum im korrekten Format [TT.MM.JJJJ] eingegeben haben.
+
+Bei Problemen mit der Digipass-Aktivierung rufen Sie bitte unsere kostenlose Servicenummer an: 0800 7226 100 (montags bis freitags zwischen 09.00 und 18.00 Uhr).
+###

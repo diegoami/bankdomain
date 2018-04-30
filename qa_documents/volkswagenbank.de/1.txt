@@ -1,0 +1,72 @@
+###
+Was ist die EU-DSGVO?
+
+Am 25. Mai 2018 tritt die neue EU-Regelung zum Datenschutz in Kraft, die sogenannte "EU-Datenschutz-Grundverordnung", kurz EU-DSGVO. Die EU-DSGVO regelt den Umgang mit personenbezogenen Daten neu, indem Sie umfangreiche Rechte für natürliche Personen (sog. Betroffene) und Pflichten für Unternehmen (sog. Verantwortliche) formuliert.
+
+###
+Änderung dieser Datenschutzerklärung
+
+Die schnelle Entwicklung des Internets macht es erforderlich, dass wir von Zeit zu Zeit Anpassungen in unserer Datenschutzerklärung vornehmen. Bitte beachten Sie diesbezüglich die jeweils aktuelle Version unserer Datenschutzerklärung.
+
+ ###
+Ansprechpartner bei Fragen oder Auskunftsersuchen
+
+Bei Fragen, Kommentaren, Beschwerden sowie Auskunftsersuchen im Zusammenhang mit unserer Erklärung zum Datenschutz und der Verarbeitung Ihrer persönlichen Daten können Sie sich an unseren Konzernbeauftragten für den Datenschutz wenden, der Ihnen unter folgender Adresse zur Verfügung steht:
+
+
+
+Volkswagen Financial Services
+Datenschutzbeauftragter
+Gifhorner Straße 57
+38112 Braunschweig
+
+ ###
+Werden meine Verbindungsdaten gespeichert?
+
+Volkswagen Financial Services speichert beim Besuch der Webseiten auch Ihre Verbindungsdaten (wie z. B. Ihre IP-Adresse etc.). Diese verarbeiten oder nutzen wir über das Ende der Verbindung hinaus nur, soweit sie zum Aufbau weiterer Verbindungen, ggfs. zu Abrechnungszwecken, zur Ermittlung von Störungen von Telekommunikationsanlagen und Ermittlung von Missbrauch unserer Telekommunikationsdienste erforderlich sind.
+
+###
+Wie sieht es mit der technischen Sicherheit bei der Übermittlung meiner Daten aus?
+
+Personenbezogene, von Volkswagen Financial Services Seiten gesammelte Daten werden in sicheren Betriebsumgebungen gespeichert und sind der Öffentlichkeit nicht zugänglich. In bestimmten Fällen, wie z.B. bei der E-Mail-Anfrage über unseren Kontakt-Assistenten, werden die personenbezogenen Daten vor Durchführung der Transaktion mittels einer sicheren Technik verschlüsselt. Unsere Server verwenden die Secure Socket Layer (SSL)-Technologie zum Schutz der Übertragung persönlicher Daten. Das bedeutet, dass die Kommunikation zwischen Ihnen und den entsprechenden Servern der Volkswagen Financial Services unter Einsatz eines anerkannten Verschlüsselungsverfahrens erfolgt, das in der jeweils aktuellen Version als sicher gilt (zurzeit SSL-Version 3, 128 Bit). Wenn Ihr Browser SSL unterstützt, wird die Übermittlung von personenbezogenen Daten durch diese Funktion geschützt. In diesem Fall zeigen Ihnen die meisten Browser durch ein kurzes Dialogfeld oder durch ein Icon an, ob das Sicherheitsprotokoll unterstützt wird. Weitere Informationen können Sie unter der Hilfefunktion Ihres Browsers finden. Nahezu alle modernen Browser unterstützen SSL. Falls Sie aufgrund der eingeschränkten Funktionalität Ihres Browsers keine Möglichkeit haben, SSL zu nutzen, empfehlen wir Ihnen den Einsatz der jeweils neuesten Version des Mozilla Firefox oder des Microsoft Internet Explorers. Diese können Sie kostenfrei herunterladen.
+
+###
+Verwendet Volkswagen Financial Services Cookies?
+
+Ja, wir verwenden auf einigen unserer Webseiten Cookies, z.B. im Rahmen unseres Online-Bankings. Im Allgemeinen setzen wir Cookies zur Analyse des Interesses an unseren Webseiten ein.
+
+###
+Gilt diese Datenschutzerklärung auch für Webseiten anderer Anbieter?
+
+Diese Erklärungen zum Datenschutz gelten nicht für die Webseiten anderer Anbieter, die durch Links auf den Volkswagen Financial Services Webseiten aufgesucht werden können. Bitte beachten Sie deshalb die jeweiligen Regelungen anderer Anbieter zum Datenschutz.
+
+###
+Was sind Cookies?
+
+Ein Cookie ist ein kleiner Datensatz, der auf Ihrer Festplatte abgelegt werden kann. Dieser Datensatz wird von dem Web-Server, mit dem Sie über Ihren Web-Browser (z. B. Internet Explorer, Mozilla Firefox) eine Verbindung aufgebaut haben, erzeugt und dann an Sie gesendet. Durch das Cookie können Sie beim Besuch der Webseite wiedererkannt werden, ohne dass Daten, die Sie bereits zuvor eingegeben haben, nochmals eingegeben werden müssen. So wird bei personalisierten Diensten sichergestellt, dass Sie sich nicht auf jeder einzelnen Seite des Angebotes immer wieder durch Eingabe Ihre Benutzerkennung identifizieren müssen. Die meisten Browser sind zurzeit standardmäßig so eingestellt, dass sie Cookies automatisch akzeptieren. Sie haben jedoch die Möglichkeit, Ihren Browser auf die Ablehnung von Cookies oder deren vorherige Anzeige einzustellen. Darüber hinaus können Sie Cookies auch jederzeit auf Ihrem System (z. B. im Windows Explorer) löschen. Bitte benutzen Sie hierfür die Hilfefunktion in Ihrem Betriebssystem.
+
+###
+Habe ich ein Recht auf Datenänderung bzw. -löschung?
+
+Sie haben jederzeit das Recht, Ihre Einwilligung zur Datenverwendung teilweise oder vollständig zu widerrufen. In diesem Fall werden wir Ihre entsprechenden Daten löschen. Ausnahmsweise können einer Löschung jedoch Gesetze, insbesondere im Hinblick auf Daten für Abrechnungs- und buchhalterische Zwecke, entgegenstehen.
+
+###
+Werden meine Daten an Dritte weitergegeben?
+
+Ihre Daten werden nicht an Dritte übermittelt. Eine Weitergabe an die Gesellschaften des Volkswagen Konzerns oder andere in der Einwilligungserklärung genannte Dritte erfolgt nur mit Ihrer ausdrücklichen Zustimmung und soweit sich diese Empfänger zur Einhaltung der geltenden datenschutzrechtlichen Bestimmungen gegenüber Volkswagen Financial Services verpflichtet haben.
+
+###
+Habe ich ein Auskunftsrecht?
+
+Natürlich haben Sie jederzeit einen Anspruch darauf zu erfahren, welche personenbezogenen Daten wir über Sie speichern. Dazu wenden Sie sich bitte an den Datenschutzbeauftragten der Volkswagen Financial Services.
+
+###
+Wie werden meine Daten verwendet?
+
+Alle im Rahmen der Webseiten der Volkswagen Financial Services erhobenen personenbezogenen Daten werden entsprechend den jeweils geltenden Bestimmungen zum Schutz personenbezogener Daten nur zum Zweck der Vertragsabwicklung und Bearbeitung Ihrer Anfragen genutzt. Eine Verarbeitung und Nutzung Ihrer Daten für Zwecke der Beratung, der Werbung und der Marktforschung erfolgt nur, wenn Sie diesen Zwecken ausdrücklich zugestimmt haben.
+
+###
+Was sind personenbezogene Daten?
+
+Unter personenbezogenen Daten sind Informationen zu verstehen, die Ihrer Person zugeordnet werden können. Darunter fällt z. B. Ihr Name, Ihre Anschrift, Ihre Telefonnummer und Ihre E-Mail-Adresse. Informationen, die nicht direkt mit Ihrer tatsächlichen Identität in Verbindung gebracht werden (wie zum Beispiel die von Ihnen favorisierten Webseiten) fallen nicht darunter.
+###

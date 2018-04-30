@@ -1,0 +1,42 @@
+###
+
+ Was ist ein Digipass / Wie funktioniert ein Digipass?
+
+RaboDirect bietet mit dem Digipass eines der sichersten Online-Banking Systeme. Der Digipass ist ein handliches Eingabegerät mit numerischer Tastatur und einer persönlichen Geheimzahl (PIN). Für jedes neue RaboTagesgeld-Konto wird ein Digipass zur Verfügung gestellt - für den sicheren Zugriff des Kunden auf seine Konten, für Transaktionen und zur Änderung persönlicher Daten.
+
+###
+ Was bietet der RaboDirect Digipass?
+
+Der RaboDirect Digipass ist ein handlicher TAN-Generator mit numerischer Tastatur, der mit einer persönlichen Geheimzahl (PIN) geschützt ist. Er zeigt Ihnen die für die Kontoanmeldung und die Autorisierung von Aufträgen benötigten Zufallscodes an.
+
+Dabei arbeitet der Digipass vollkommen autark und wird weder mit Ihrem Endgerät noch einem Netzwerk verbunden. Das macht den Digipass zu einer besonders sicheren Authentifizierungs-Methode beim Online-Banking.
+
+Übrigens: Das sehen nicht nur wir so. Auch den TÜV konnte unser smarter Digipass direkt überzeugen.
+###
+ Wie kann ich die PIN von meinem Digipass ändern?
+
+    Schalten Sie Ihren Digipass mit dem orangefarbenen Knopf ein.
+    Auf dem Display erscheint "PIN". Geben Sie Ihre bisherige, selbstgewählte PIN ein. Auf dem Display erscheint "APPLI".
+    Halten Sie nun die orangefarbene Taste länger als zwei Sekunden gedrückt. Auf dem Display erscheint "NEW PIN".
+    Geben Sie nun den neuen, selbstgewählten, fünfstelligen PIN-Code ein. Auf dem Display erscheint "PIN CONF". Zur Bestätigung geben Sie nochmals Ihren neuen fünfstelligen PIN-Code ein.
+    Auf dem Display erscheint "APPLI". Ihr Digipass funktioniert nun mit Ihrem neuen PIN-Code.
+
+
+###
+ Was passiert, wenn ich die falsche PIN in den Digipass eingebe?
+
+Aus Sicherheitsgründen wird sich Ihr Digipass nach mehrmaliger Falscheingabe der PIN automatisch sperren.
+
+Nach jeder falschen PIN-Eingabe erhalten Sie die Anzeige "FAIL" und die Anzahl der Fehlversuche. Nach "FAIL 5" sperrt sich der Digipass und zeigt "LOCK".
+
+Für die Entsperrung benötigen Sie einen Entsperrungs-Code (PUK). Den PUK zu Ihrem Digipass können Sie über unsere Website www.rabodirect.de > „Meine Konten“ im rechten Rahmen unter „Digipass gesperrt?“ anfordern, oder Sie rufen unsere kostenlose Servicenummer an: 0800 7226 100 (montags bis freitags zwischen 09.00 und 18.00 Uhr).
+
+###
+ Was mache ich, wenn ich meinen Digipass verloren habe?
+
+Drucken Sie bitte das Formular „Probleme mit dem Digipass" auf der RaboDirect Website aus. Füllen Sie die Details aus und senden Sie das ausgefüllte Formular an die unten angegebene Adresse:
+
+RaboDirect Deutschland
+Postfach 90 01 48
+60441 Frankfurt
+###

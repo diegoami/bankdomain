@@ -1,11 +1,11 @@
 ###
 Was ist die Schufa?
 
-Die Schutzgemeinschaft für allgemeine Kredit­sicherung (Schufa) ist eine Gemeinschaftsein­richtung von Wirtschaftsunternehmen, die ihren Kunden Geld- oder Warenkredite einräumen. Ziel der Schufa ist es, ihre Vertragspartner mittels so genannter Schufa-Auskünfte vor Kreditausfällen zu schützen.
+Die Schutzgemeinschaft für allgemeine Kredisicherung (Schufa) ist eine Gemeinschaftseinrichtung von Wirtschaftsunternehmen, die ihren Kunden Geld- oder Warenkredite einräumen. Ziel der Schufa ist es, ihre Vertragspartner mittels so genannter Schufa-Auskünfte vor Kreditausfällen zu schützen.
 ###
 Wer sind die Vertragspartner der Schufa?
 
-Derzeit hat die Schufa ca. 4.500 Vertrags­partner. Diese setzen sich vor allem aus Banken, Sparkassen, Kreditkarten-und Leasinggesell­schaften zusammen. Aber auch der Einzel-und Versandhandel, Telekommunikationsunternehmen (z. B. Telekom), Versicherungsgesellschaften, Gas-/ Wasser- und Stromversorgungsbetriebe, Unternehmen der Wohnungswirtschaft, Unter­nehmen aus dem E-Commerce-Bereich (Internet-Firmen) und Inkasso-Unternehmen arbeiten immer häufiger mit der Schufa zusammen.
+Derzeit hat die Schufa ca. 4.500 Vertragspartner. Diese setzen sich vor allem aus Banken, Sparkassen, Kreditkarten-und Leasinggesellschaften zusammen. Aber auch der Einzel-und Versandhandel, Telekommunikationsunternehmen (z. B. Telekom), Versicherungsgesellschaften, Gas-/ Wasser- und Stromversorgungsbetriebe, Unternehmen der Wohnungswirtschaft, Unternehmen aus dem E-Commerce-Bereich (Internet-Firmen) und Inkasso-Unternehmen arbeiten immer häufiger mit der Schufa zusammen.
 ###
 Welche Daten werden von der Schufa erfasst?
 
@@ -13,16 +13,16 @@ Zum einen werden Ihre personenbezogenen Daten wie Name, Vorname, Geburtsdatum un
 
     Kredit-oder Leasingvertrag mit Betrag und Laufzeit
     Eröffnung eines Girokontos und Ausgabe einer Kreditkarte
-    Einrichtung (= Anmeldung) bei einem Telekom­munikationsunternehmen
+    Einrichtung (= Anmeldung) bei einem Telekommunikationsunternehmen
     Bürgschaften
 
-Es werden also nicht nur die Abschlüsse vorge­nannter Verträge gespeichert, sondern auch registriert, ob Sie sich nicht vertragsgemäß  ver­halten haben, wenn Ihnen beispielsweise ein Kreditvertrag gekündigt wurde, weil Sie die ver­einbarten monatlichen Ratenzahlungen nicht ein­gehalten haben.
+Es werden also nicht nur die Abschlüsse vorgenannter Verträge gespeichert, sondern auch registriert, ob Sie sich nicht vertragsgemäß  verhalten haben, wenn Ihnen beispielsweise ein Kreditvertrag gekündigt wurde, weil Sie die vereinbarten monatlichen Ratenzahlungen nicht eingehalten haben.
 
-Darüber hinaus speichert die Schufa Daten aus öffentlichen Verzeichnissen (z. B. Amts­gericht) und amtliche Bekanntmachungen. Im Einzelnen sind dies:
+Darüber hinaus speichert die Schufa Daten aus öffentlichen Verzeichnissen (z. B. Amtsgericht) und amtliche Bekanntmachungen. Im Einzelnen sind dies:
 
     Abgabe der Vermögensauskunft
     Haftbefehl zur Erzwingung der Abgabe der Vermögensauskunft
-    Eröffnung eines Regel- oder Verbraucherinsol­venzverfahrens und dessen evtl. Abweisung oder Einstellung mangels Masse
+    Eröffnung eines Regel- oder Verbraucherinsolvenzverfahrens und dessen evtl. Abweisung oder Einstellung mangels Masse
 ###
 Wer bekommt welche Schufa-Auskunft über mich?
 
@@ -30,13 +30,13 @@ Grundsätzlich gibt die Schufa nur an ihre Vertragspartner Auskünfte weiter. We
 
 Ist der Vertragspartner jedoch berechtigt, eine Auskunft über Sie einzuziehen, so wird wie folgt verfahren:
 
-Banken, Sparkassen, Kreditkarten- und Leasing­gesellschaften erhalten sowohl positive als auch negative Informationen über Sie. Kontonummern und Namen der Institute, die der Schufa eine Information gemeldet haben, werden grund­sätzlich an keinen Vertragspartner weitergeleitet.
+Banken, Sparkassen, Kreditkarten- und Leasinggesellschaften erhalten sowohl positive als auch negative Informationen über Sie. Kontonummern und Namen der Institute, die der Schufa eine Information gemeldet haben, werden grundsätzlich an keinen Vertragspartner weitergeleitet.
 
-Alle anderen Vertragspartner erhalten lediglich eine Auskunft über Sie, wenn eine Negativ­meldung gespeichert wurde.
+Alle anderen Vertragspartner erhalten lediglich eine Auskunft über Sie, wenn eine Negativmeldung gespeichert wurde.
 ###
 Wie erfahre ich, was bei der Schufa über mich gespeichert wurde?
 
-Jede Person hat das Recht, alle über sie ge­speicherten Daten bei der Schufa als Eigen­auskunft zu erhalten.
+Jede Person hat das Recht, alle über sie gespeicherten Daten bei der Schufa als Eigenauskunft zu erhalten.
 
 So können Sie die kostenlose Datenübersicht nach § 34 Bundesdatenschutzgesetz bekommen. Darin finden Sie alle Informationen, die bei der SCHUFA über Sie gespeichert werden. Sie erfahren, woher diese stammen und an wen sie weitergeleitet wurden.
 

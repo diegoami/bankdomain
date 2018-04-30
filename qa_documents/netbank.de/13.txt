@@ -26,7 +26,7 @@ Bitte stellen Sie uns hierzu einen Auftrag über "Nachricht an die Bank" aus Ihr
 
 Wie kann ich eine Überweisung > EUR 50.000,00 ausführen?
 
-Falls Sie einen höheren Betrag online überweisen möchten, schreiben Sie uns bitte 2 Tage vor dem Überweisungstermin eine per TAN unterzeichneten Nachricht. Diese finden Sie im Online-Banking unter "Service"/ "Formulare & Aufträge"/ wählen Sie "Privatkunden" oder "Geschäftskunden"/ "Aufträge"/"Nachricht an die Bank". Wir erhöhen dann einmalig das Verfügungslimit (Kontodeckung bzw. eingeräumte Kreditlinie vorausgesetzt). Alternativ können Sie im Online-Banking unter "Service" /"Formulare & Aufträge"/"Formulare"/"Girokonto" das Formular Limitänderung für Überweisungen im Inlandszahlungsverkehr fverwenden. Bitte senden Sie uns das Formular vollständig ausgefüllt und unterschrieben zu.
+Falls Sie einen höheren Betrag online überweisen möchten, schreiben Sie uns bitte 2 Tage vor dem Überweisungstermin eine per TAN unterzeichneten Nachricht. Diese finden Sie im Online-Banking unter "Service"/ "Formulare & Aufträge"/ wählen Sie "Privatkunden" oder "Geschäftskunden"/ "Aufträge"/"Nachricht an die Bank". Wir erhöhen dann einmalig das Verfügungslimit (Kontodeckung bzw. eingeräumte Kreditlinie vorausgesetzt). Alternativ können Sie im Online-Banking unter "Service" /"Formulare & Aufträge"/"Formulare"/"Girokonto" das Formular Limitänderung für Überweisungen im Inlandszahlungsverkehr verwenden. Bitte senden Sie uns das Formular vollständig ausgefüllt und unterschrieben zu.
 ###
 Wie kann ich eine Auslandsüberweisung tätigen?
 
@@ -40,7 +40,7 @@ Die aktuellen Preise finden Sie in unserem Preis- und Leistungsverzeichnis.
 ###
 Kann ich ausländische Währungen (Devisen-/ Sorten) bestellen?
 
-Ja, über unseren Partner die Reisebank, ist eine Bestellung möglich. Dabei bieten wir Ihnen die Bestellung über unsere Homapage unter Online-Banking an.
+Ja, über unseren Partner die Reisebank, ist eine Bestellung möglich. Dabei bieten wir Ihnen die Bestellung über unsere Homepage unter Online-Banking an.
 ###
 Wie lautet der SWIFT-Code von netbank?
 

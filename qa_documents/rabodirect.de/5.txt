@@ -1,0 +1,54 @@
+###
+
+Wie schnell werden Überweisungen von meinem RaboTagesgeld-Konto ausgeführt?
+
+Ihre elektronischen Überweisungsaufträge werden bis 20.00 Uhr an den Geschäftstagen der Bank angenommen. Wenn Sie Ihren Auftrag später oder nicht an einem Geschäftstag der Bank erteilen, gilt dieser als am nächsten Geschäftstag zugegangen.
+
+Bei der Ausführung stellen wir sicher, dass Ihr Überweisungsbetrag spätestens einen Geschäftstag nach Zugang beim Zahlungsdienstleister des Zahlungsempfängers eingeht.
+
+In der Praxis geht es oft noch schneller: Geht Ihr Überweisungsauftrag bis 12:00 Uhr an einem Geschäftstag der Bank ein, kann die Buchung üblicherweise noch am selben Geschäftstag erfolgen.
+###
+ Wie kann ich Geld auf mein RaboDirect-Konto einzahlen?
+
+Sie können Ihr Geld via Inlands-Überweisung transferieren oder einen Zahlungsauftrag vom Referenzkonto in beliebiger Höhe erstellen. Selbstverständlich sind auch Auslands-Überweisungen (SEPA) möglich.
+###
+ Welche Auszahlungsmöglichkeiten habe ich bei RaboSpar-Konten?
+
+Auszahlungen können entweder direkt und ohne Umweg auf das Referenzkonto oder auf Ihr RaboTagesgeld-Konto erfolgen.
+
+Die Abbuchung können Sie dabei flexibel im Voraus planen oder, falls gewünscht, jederzeit bis einen Geschäftstag vor Ausführung auch wieder stornieren: So ist Ihr Geld dann verfügbar, wenn Sie es benötigen und Sie profitieren bis zum Wunschtermin von den höheren Zinsen. Sie müssen bei Ihrer Planung lediglich die Abbuchungsfrist von 30 (RaboSpar30) bzw. 90 (RaboSpar90) Tagen berücksichtigen.
+
+###
+ Was passiert, wenn ich das Sparguthaben auf meinem RaboSpar30- oder RaboSpar90-Konto nach 30 bzw. 90 Tagen NICHT abgebucht habe?
+
+Gar nichts!
+
+Ihre Anlage wird zu attraktiven Zinsen weitergeführt. Sie selbst bestimmen, ob und wann Sie über Ihr Sparguthaben verfügen möchten – komplett oder teilweise. Veranlassen Sie dazu einfach online eine Überweisung auf Ihr angegebenes Referenzkonto oder Ihr RaboTagesgeld-Konto – und nur 30 bzw. 90 Tage später ist der gewünschte Betrag dort gutgeschrieben.
+
+Der Vorteil: Sie können flexibel reagieren und stets über das Geld verfügen, das Sie wirklich brauchen.
+
+###
+ Muss ich mein komplettes Sparguthaben abbuchen, wenn ich auf mein RaboSpar30- oder RaboSpar90-Konto zurückgreifen möchte?
+
+Nein!
+
+Sie können die Höhe des Betrags selbst bestimmen. So bleiben Sie rundum flexibel und können über Ihr Geld verfügen, wie Sie’s gerade brauchen. Oder die Anlage unverändert zu attraktiven Zinsen weiterführen.
+
+###
+ Wie lautet der BIC von RaboDirect?
+
+Der BIC von RaboDirect lautet RABODEFFDIR
+###
+ Wie lautet die IBAN meines RaboDirect Kontos?
+
+Ihre IBAN finden Sie von nun an standardmäßig, wenn Sie online auf Ihr Konto zugreifen sowie auf Ihren Kontoauszügen.
+
+###
+ Wie kann ich kontrollieren, ob meine Transaktionen erfolgreich getätigt wurden?
+
+Um Ihre Transaktionen kontrollieren zu können, gehen Sie bitte in Ihrem RaboDirect Konto zu „RaboTagesgeld-Konto" und klicken hier auf „Kontobewegungen". Überweisungen, die nicht durchgeführt wurden, entnehmen Sie bitte den „ausstehenden Zahlungsaufträgen".
+###
+ Können Überweisungen aus dem Ausland auf oder von meinem RaboDirect-Konto transferiert werden?
+
+Zahlungen vom RaboDirect-Konto sind in jeder Höhe innerhalb Deutschlands auf das Referenzkonto bis zu 500.000 Euro pro Transaktion und Tag möglich. Überweisungen aus dem Ausland (international) sind im SEPA-Datenformat möglich.
+###

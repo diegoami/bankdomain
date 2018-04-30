@@ -1,0 +1,213 @@
+###
+Wie wähle ich ein sicheres Kennwort bei der Volkswagen Bank?
+
+Das Kennwort für Ihren Online-Banking-Zugang muss mindestens 8-stellig sein, einen Großbuchstaben, einen Kleinbuchstaben und zwei Ziffern beinhalten.
+Was Sie bei der Kennwortwahl beachten sollten:
+
+    Wählen Sie als Ziffer keine Geburtstage
+    Benutzen Sie keine vollständigen Wörter
+    Wahlen Sie ein Kennwort, das Sie noch in keinem anderen System benutzen
+    Verwenden Sie eindeutige Ziffern und Buchstaben und keine, die man verwechseln kann (z. B. 0 wie Null und O wie Otto)
+
+
+
+Eine gute Methode, ein sicheres Kennwort zu bilden, ist ein Kennwortsatz.
+Sie denken sich einen Satz mit mindestens sechs Wörtern und einer 2-stelligen Zahl aus. Zum Beispiel: "Gestern habe ich 20 Fische auf hoher See geangelt."
+Aus diesem Satz nehmen Sie die Anfangsbuchstaben und die Ziffern, um Ihr Kennwort zu bilden. Es entsteht das Kennwort "Ghi20FahSg".
+
+
+
+Mit dem Kennwortsatz können Sie sich ein auf den ersten Blick unsinniges Kennwort merken. (Anmerkung: Bitte benutzen Sie das hier beschriebene Beispiel nicht!)
+
+###
+Wie stelle ich eine sichere Verbindung zur Volkswagen Bank fest?
+
+Beachten Sie folgende Punkte zur Überprüfung einer sicheren Verbindung:
+
+    Prüfen Sie, ob im Adressfenster des Browsers immer eine gültige Adresse der Volkswagen Bank angegeben ist. Internetseiten der Volkswagen Bank enthalten in der URL immer die Domain volkswagenbank.de. Folgende Adressen sind möglich:
+
+    https://www.volkswagenbank.de
+    SHA1-Fingerprint: ‎15 69 05 71 ea 0f f1 fa 80 89 e1 4b f4 5e 84 a9 34 6f d1 e3
+
+    https://boersedirect.volkswagenbank.de
+    SHA1-Fingerprint: 17 31 53 ee 8f b5 62 49 8b 3b 65 de 0e 5e fc 7e f6 01 17 60
+
+    https://www.audibank.de
+    SHA1-Fingerprint: ‎fc a0 76 34 f5 75 fc fc 89 a7 a4 ca ed 10 75 a4 c1 93 c8 f6
+    Im Betrugsfall kann versucht werden, Ihnen eine Adresse der Volkswagen Bank vorzuspiegeln, zum Beispiel: www.volkswagenbank.de/bank.da.ru. Da die korrekte Anzeige einer URL im Browser leicht zu manipulieren ist, sollten Sie auf jeden Fall auch die Seitenzertifikate (hier den SHA1- Fingerprint) und die Verschlüsselung kontrollieren.
+    Ob die Verbindung verschlüsselt ist, erkennen Sie am Schloss-Symbol in der Fuß- oder Adressleiste des Browsers.
+    Sollte kein Schloss-Symbol angezeigt werden, klicken Sie mit der rechten Maustaste auf einen freien Bereich im angezeigten Browser-Fenster. Wählen Sie den Eintrag "Eigenschaften" bzw. "Seiteninformationen" aus dem sich öffnenden Kontextmenü. Im angezeigten Fenster können Sie dann die sichere Verbindung feststellen und die Fingerprints der Zertifikate vergleichen.
+
+    Den oben angegebenen SHA1-Fingerprint können Sie mit dem verwendeten Zertifikat der Seite vergleichen, indem Sie:
+        beim Firefox mit der rechten Maustaste in den Bildschirm klicken und im dann erscheinenden Fenster "Seiteninformationen anzeigen" klicken. Dann den Reiter "Sicherheit" auswählen und auf "Zertifikat anzeigen" klicken und den Fingerabdruck vergleichen.
+        beim Internet Explorer mit der linken Maustaste auf das Schloss-Symbol klicken und dann im erscheinenden Fenster "Zertifikat anzeigen" wählen. Dann auf dem Reiter "Details" das Feld "Fingerabdruck" vergleichen.
+
+###
+Wie sicher ist das Online-Banking bei der Volkswagen Bank?
+
+Unser Bankrechner wird durch mehrere Sicherheitsstufen vom weltweit zugänglichen Internet abgeschottet und vor Missbrauch geschützt. Ein direkter, meist illegaler Zugriff auf den Rechner aus dem Internet (Hackerangriff) wird durch unsere Architektur wirksam verhindert. Nur Daten, die Sie im Rahmen des Online-Banking über unsere Internetanwendung eingeben, gelangen in das System. Unsere Banking-Anwendung unterliegt einer regelmäßigen Überprüfung durch externe Sicherheitsexperten, wodurch sichergestellt wird, dass notwendige Anpassungen umgehend umgesetzt werden.
+
+###
+Beeinträchtigt ein Add-On die Nutzung des Online-Banking?
+
+Sofern es zu Einschränkungen im Online-Banking kommt und Sie Browser-Add-Ons verwenden, sollten Sie diese vorübergehend deaktivieren.
+
+
+Im Online-Banking kann ein Add-On dafür verantwortlich sein, dass eine Anmeldung nicht möglich ist, oder die Sitzung unplanmäßig beendet wird, wenn eine Erweiterung aktiviert ist, die das Ausführen von JavaScript oder die Annahme von Cookies blockiert.
+
+###
+Wieso ist die Annahme von Cookies bei der Volkswagen Bank wichtig?
+
+Die Volkswagen Bank setzt im Online-Banking Cookies aus Sicherheitsgründen ein. Zum einen dienen sie zur eindeutigen Identifizierung des Online-Nutzers und zum anderen verwenden wir Cookies dafür, dass Ihre Online-Banking-Sitzung automatisch beendet wird, wenn Sie den Browser schließen.
+
+
+Die Cookies werden nach Ende der Anwendersitzung automatisch von Ihrem Rechner gelöscht.
+###
+
+Welche Aktivitäten unternimmt die Volkswagen Bank für ein sicheres Online-Banking?
+
+Neben unseren technischen Maßnahmen für Ihre Sicherheit sind wir in folgenden Institutionen vertreten:
+
+    Fördermitglied der Arbeitsgruppe Identitätsschutz im Internet www.a-i3.org
+    Mitglied im Arbeitskreis Phishing des Bundesverbandes deutscher Banken
+
+###
+Welche Sicherheitsvorkehrungen sind beim Online-Banking zu beachten?
+
+Bitte beenden Sie das Online-Banking immer ordnungsgemäß. Dies geschieht über den Menüpunkt "Logout" in der Navigationsleiste.
+
+
+
+Halten Sie Ihr Kennwort stets geheim und teilen Sie es keinem Dritten mit. Speichern Sie Ihre Zugangsdaten nicht auf Ihrem Rechner. Deaktivieren Sie zusätzlich die automatische Passwortspeicherung Ihres Browsers. Weiterhin empfehlen wir Ihnen, das Passwort in regelmäßigen Abständen zu ändern.
+
+
+
+Bei der Durchführung des Online-Bankings am Arbeitsplatz achten Sie bitte auch hier darauf, keine persönlichen Daten auf dem Rechner abzuspeichern. Führen Sie das Online-Banking nur durch, wenn Sie sich nicht beobachtet fühlen.
+
+
+
+Bitte beachten Sie, dass Sie für das Online-Banking immer nur ein Browser-Fenster bzw. einen Tab geöffnet haben. Die Verbindung zum Online-Banking wird aus Sicherheitsgründen nach längerer Inaktivität automatisch getrennt.
+
+###
+Wie funktioniert die Übertragung über das Internet?
+
+Wir setzen zum Schutz Ihrer Daten moderne Sicherheitstechniken ein. Mithilfe einer SHA-256 mit RSA-Verschlüsselung sind die Daten in jedem Fall auf dem Weg von Ihrem Computer zu uns geschützt. Sie erkennen am Browser-Symbol "geschlossenes Vorhängeschloss" in der Statuszeile Ihres Browsers die Verschlüsselung der Seite.
+
+
+
+Wichtiger Hinweis: Ihr Browser muss so eingestellt sein, dass er mindestens mit einer Verschlüsselung von 256 Bit arbeitet. Anderenfalls wird die Online-Banking-Seite nicht angezeigt.
+
+###
+Wie verhalte ich mich im Betrugsfall?
+
+Im Betrugsfall ist schnelles Handeln besonders wichtig. Bitte melden Sie uns einen Betrugsfall umgehend, damit wir Ihren Online-Banking-Zugriff sperren und schützende Maßnahmen einleiten können.
+
+
+
+Nutzen Sie dafür unser Betrugsverdacht-Formular unter Kontakt oder kontaktieren Sie uns unter der Rufnummer 0531 212-1612.
+
+###
+Was sind Trojanische Pferde?
+
+Trojanische Pferde (Kurzform: Trojaner) sind Programme, die außer scheinbar nützlichen Funktionen auch nicht dokumentierte, schädliche Funktionen enthalten. Diese laufen ohne Wissen des Anwenders und können zum Beispiel Tastatureingaben protokollieren und versenden. Im Gegensatz zu Computerviren verbreiten sich Trojaner nicht selbstständig.
+
+###
+Ist das Online-Banking sicher, wenn ein Trojanisches Pferd auf meinem Rechner ist?
+
+Sogenannte "Trojanische Pferde" greifen in Betriebssystemabläufe ein und sind somit unter Umständen in der Lage, Tastatureingaben abzufragen und an unbefugte Dritte weiterzugeben. Um sich davor zu schützen, beachten Sie bitte folgende Hinweise:
+
+    Laden Sie sich keine Dateien aus dem Internet, von denen Sie nicht ganz sicher sind, dass sie keine Viren enthalten. Laden und installieren Sie auf keinen Fall an E-Mails angehängte Dateien unbekannter Herkunft.
+    Installieren Sie eine Antiviren-Software und aktualisieren Sie diese regelmäßig.
+    Seien Sie kritisch bei Aufforderungen am Bildschirm und lesen Sie diese genau durch.
+
+
+
+Wenn Ihr Rechner von einem Trojanischen Pferd oder einem Virus befallen ist, sollten Sie zur eigenen Sicherheit keine Online-Transaktionen durchführen, bis Ihre Anwendungsprogramme wieder gesäubert sind. Zur Säuberung Ihres PCs achten Sie bitte auf die Hinweise in Ihrer Bedienungsanleitung für Ihre Antiviren-Software.
+
+
+
+Wir empfehlen Ihnen folgende Maßnahmen, um einen Befall Ihres Rechners mit Viren und Trojanischen Pferden weitgehend auszuschließen:
+
+    Installieren Sie einen Virenscanner, der einen solchen Befall in den meisten Fällen melden und entsprechend verhindern kann.
+    Installieren Sie niemals Software, die Ihnen von unbekannten Absendern zum Ausprobieren zugeschickt wird.
+    Löschen Sie E-Mails ungelesen, deren Absender Sie nicht kennen. Bereits das Aufrufen der Nachricht kann zum Virenbefall führen.
+    Laden Sie nur Software von seriösen Softwareherstellern auf Ihren Rechner herunter.
+###
+
+Wie schütze ich meinen PC?
+
+Um Ihren Computer vor Angriffen zu schützen, benötigen Sie mindestens einen Virenscanner und eine Firewall. Während der Virenscanner Viren und Trojanische Pferde auf Ihrem PC findet und entfernt, kontrolliert die Firewall die bestehenden Verbindungen mit dem Internet und blockt Angriffe ab. Sie sollten Ihren Virenscanner regelmäßig aktualisieren und mindestens einmal täglich einen Suchlauf durchführen lassen, da immer neue Viren und Trojaner auftauchen, die sonst nicht entdeckt werden können.
+
+
+
+Sie finden Sicherheitssoftware zum Beispiel bei http://www.bsi-fuer-buerger.de (unter Downloads/Programme).
+###
+
+Woher bekomme ich Programme zum Schutz meines Computers?
+
+Ihren privaten Rechner sollten Sie auf jeden Fall durch einen Virenscanner und eine Firewall schützen. Während Sie im Internet tätig sind, kontrolliert der Virenscanner, ob sich gegebenenfalls ein Virus oder ein Trojaner auf Ihrem Rechner einschleicht.
+
+
+
+Die Firewall kontrolliert den Datenverkehr zwischen Ihrem PC und dem Internet. Fremde Zugriffe werden abgeblockt. Kostenlose Programme gibt es im Internet zum Download.
+
+
+
+Ganz wichtig ist auch, dass Sie die empfohlenen Updates für Ihr Betriebssystem und Ihren Browser durchführen. Diese Funktion können Sie automatisch von Ihrem Computer bzw. Betriebssystem durchführen lassen.
+
+Sie finden Sicherheitssoftware zum Beispiel bei http://www.bsi-fuer-buerger.de (unter Downloads/Programme).
+
+###
+Was mache ich mit gefälschten E-Mails?
+
+Oft werden E-Mails mit gefälschten Absendern verschickt. Diese können vorgeben, von namhaften Firmen zu stammen. Sie werden meist aufgefordert, einen Link anzuklicken oder den mitgeschickten Anhang zu öffnen.
+
+
+
+Löschen Sie diese E-Mails sofort und öffnen Sie auf gar keinen Fall den Anhang oder klicken auf den enthaltenen Link! Ein Mausklick auf den Link oder den Anhang kann die Installation von Trojanischen Pferden starten.
+
+
+
+Bitte beachten Sie: Die Volkswagen Bank wird Sie niemals per E-Mail nach Ihren vertraulichen Daten fragen.
+
+###
+Was ist Phishing?
+
+Das Kunstwort Phishing (Kombination aus Password und Fishing) bezeichnet Versuche Dritter, Bankkunden zur Herausgabe ihrer persönlichen Zugangsdaten zu bewegen. Dies geschieht meist durch gefälschte E-Mails. Der Kunde wird angewiesen, auf einer (ebenfalls gefälschten) Internetseite seine Zugangsdaten einzugeben. Zum Beispiel Ihre IBAN, PIN und TAN.
+
+
+Weitere Informationen zum Thema Phishing, E-Mail und Spyware vom Bundesverband Deutscher Banken finden Sie hier. Zusätzliche Hinweise zum Thema erhalten Sie auch bei der Arbeitsgruppe Identitätsschutz Internet unter http://www.a-i3.org an der Universität Bochum.
+
+
+Haben Sie den Verdacht, dass ein Betrugsversuch stattgefunden hat, sollten Sie schnellstmöglich Ihre Zugangsdaten ändern bzw. Ihr Konto sperren lassen. Nehmen Sie umgehend Kontakt mit uns auf.
+
+
+
+Betrugsverdacht Hotline: 0531 212-1612
+Das Betrugsverdachtsformular finden Sie hier.
+###
+
+Was sind Geldwäschemails?
+
+Betrüger versuchen immer häufiger, Bankkunden zum Zweck der Geldwäsche anzuwerben. Dies geschieht meist in Form von E-Mails, die Stellenangebote beinhalten. Der neue Mitarbeiter soll Geldeingänge bar abheben und per Geldtransfer ins Ausland schicken. Stellen Sie Ihr Konto auf keinen Fall für Zahlungen Dritter zur Verfügung, es könnte der Straftatbestand der Geldwäsche erfüllt sein! Wenden Sie sich im Verdachtsfall sofort an die Polizei.
+
+###
+Was ist ein Finanzagent?
+
+Auf Internetseiten, per E-Mail (siehe "Was sind Geldwäschemails?") und sogar mit Stellenanzeigen in Tageszeitungen sprechen unseriöse Anbieter gezielt Inhaber von Bankkonten in Deutschland an, um sie für eine Tätigkeit als "Finanzagent" zu gewinnen. Die angebotene Tätigkeit als "Finanzagent" besteht darin, über das eigene Konto Zahlungen Dritter entgegenzunehmen und diese nach Abzug einer versprochenen Provision möglichst schnell per Bargeldversand (z. B. WesternUnion, ReiseBank, ...) an eine im Ausland befindliche Person zu überweisen. Die auf das Konto des Finanzagenten eingehenden Gelder stammen dabei meist von Dritten, die Opfer betrügerischer Handlungen geworden sind (Phishing-Opfer - siehe "Was ist Phishing?").
+
+
+
+Juristische Konsequenzen
+
+Mit dieser Tätigkeit begibt sich der "Finanzagent" in den Bereich der gewerblich betriebenen Geldwäsche. Er kann also, neben der zivilrechtlichen Inanspruchnahme, auch strafrechtlich belangt werden. Wer sich auf solche Angebote einlässt, begibt sich in den Kreis des organisierten Verbrechens.
+
+
+
+Sollten Sie unbeabsichtigt in eine solche Situation gelangen, wenden Sie sich sofort an die Polizei.
+
+
+Informationen zum Thema Finanzagent finden Sie auch in der Broschüre "Tätigkeit als Finanzagent" vom Bundesverband Deutscher Banken.
+Broschüre "Tätigkeit als Finanzagent"  (593,6 KB)
+
+###

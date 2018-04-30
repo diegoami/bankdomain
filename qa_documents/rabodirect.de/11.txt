@@ -1,0 +1,18 @@
+###
+ Ich erhalte eine Fehlermeldung bei Verwendung meines Digipass. Ist mein Digipass defekt?
+
+Nein, in aller Regel nicht! Wenn die Sicherheitscodes, die ihr Digipass generiert, nicht akzeptiert werden, kann dies verschiedene Gründe haben.
+
+Bitte rufen Sie zur Klärung unsere kostenlose Servicenummer an: 0800 7226 100 (montags bis freitags zwischen 09.00 und 18.00 Uhr).
+###
+ Was kann ich tun, wenn ich die PIN von meinem Digipass vergessen habe?
+
+    Drücken Sie den orangefarbenen Knopf auf dem Digipass, um diesen einzuschalten.
+    Das Display zeigt nun „PIN“ an. Geben Sie eine beliebige 5-stellige Zahl ein.
+    Nun sollte „PIN FAIL“ erscheinen. Drücken Sie wieder auf den orangefarbenen Knopf. Das Display zeigt erneut „PIN“ an.
+    Wiederholen Sie diese Schritte, bis das Display „LOCK PIN“ anzeigt.
+
+Aus Sicherheitsgründen wird sich Ihr Digipass nach fünf Falscheingaben automatisch sperren.
+
+Für die Entsperrung benötigen Sie einen Entsperrungs-Code (PUK). Den PUK zu Ihrem Digipass können Sie über unsere Website www.rabodirect.de > „Meine Konten“ im rechten Rahmen unter „Digipass gesperrt?“ anfordern, oder Sie rufen unsere kostenlose Servicenummer an: 0800 7226 100 (montags bis freitags zwischen 09.00 und 18.00 Uhr).
+###
