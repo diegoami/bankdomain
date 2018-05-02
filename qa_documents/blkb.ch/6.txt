@@ -1,0 +1,22 @@
+###
+
+Mein E-Banking-Zugang ist gesperrt. Wie kann ich ihn wieder entsperren?
+
+Wenden Sie sich in diesem Fall bitte an den E-Banking-Support (+41 61 925 95 99).
+###
+Ich gebe mein Passwort richtig ein. Trotzdem erhalte ich eine Fehlermeldung. Was mache ich falsch?
+
+Achten Sie auf Gross- und Kleinschreibung. Vielleicht haben Sie versehentlich auf die Umschalttaste gedrückt (Feststelltaste für Grossbuchstaben). Beachten Sie zudem unsere Passwortrichtlinien:
+
+    Passwort muss beim ersten Login geändert werden.
+    Das Passwort muss min. 8 und max. 32 Zeichen lang sein.
+    Passwort muss 2 Buchstaben und Ziffern beinhalten. Klein-, Grossbuchstaben und Sonderzeichen (z.B. !, $, #, %) sind möglich.
+    Passwort kann nur durch BLKB zurückgesetzt werden (bitte E-Banking-Support unter +41 61 925 95 99 anrufen).
+    Neues Passwort muss via Postbrief zugeschickt werden.
+###
+Wie logge ich mich aus dem E-Banking aus?
+
+Klicken Sie in der rechten oberen Ecke neben Ihrem Namen auf «Abmelden».
+
+
+###

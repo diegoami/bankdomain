@@ -1,0 +1,98 @@
+
+###
+Kann ich Börsenaufträge via Mitteilung an die Bank übermitteln?
+
+Leider können wir Börsenaufträge nicht entgegennehmen, die uns als neue Nachricht zugestellt werden, da wir in diesem Fall eine Realtime-Ausführung nicht garantieren können.
+###
+Werden Börsenaufträge sofort an die entsprechende Börse weitergeleitet? Wie lange ist der Handel bei der BLKB geöffnet?
+
+Die über Internet Banking erteilten Börsenaufträge werden bis zu einem Gegenwert von CHF 100'000.- grundsätzlich während den Handelszeiten der jeweiligen Börsen automatisch an die Börsen bzw. Broker weitergeleitet.
+
+Börsenaufträge für Börsen ohne elektronische Anbindung (sämtliche asiatische Märkte) werden an Bankwerktagen von 08.00 bis 17.30 Uhr bearbeitet.
+###
+Warum erhalte ich für einen Auftrag mehrere Abrechnungen?
+
+Bei limitierten Börsenaufträgen in Kombination mit Limiten besteht die Möglichkeit, dass der Auftrag in mehreren Teilausführungen abgewickelt wird. Die Bank berechnet dafür eine Kommission, die Courtage. Diese wird, inkl. dem Minimum, pro Abrechnung und Handelstag neu belastet.
+###
+Kann ich Leerverkäufe über das E-Banking tätigen?
+
+Nein, Leerverkäufe sind nicht erlaubt. Sie dürfen nur Titel verkaufen, die auch im Wertschriftendepot eingebucht sind. Es liegt im Verantwortungsbereich des Kunden, den Status der getätigten Verkaufsaufträge im E-Banking unter «Auftragsübersicht» zu überprüfen.
+###
+Der von mir gesuchte Valor ist im E-Banking nicht verfügbar. Kann ich diesen Valor eröffnen lassen?
+
+Zum E-Banking zugelassene Valoren, die nicht im E-Banking aufgeschalten sind aber an einer offiziellen Börse gehandelt werden, können durch die Bank eröffnet werden. Bitte teilen Sie uns im E-Banking über «Beratung & Kontakt», «Neue Nachricht erstellen» mit, welchen Valor Sie im E-Banking handeln möchten. Wir werden anschliessend den Valor prüfen und Ihnen mitteilen, ab wann der gewünschte Valor im E-Banking aufgeschalten sein wird.
+###
+Welche Valoren kann ich handeln?
+
+Zugelassen sind Aktien, ETFs Fonds, Obligationen und Warrants im In- und Ausland der wichtigsten Börsen. Eurex-Derivate sind nicht handelbar. Die aktuellen Kurse* finden Sie unter «Börsen und Märkte». Mit E-Banking profitieren Sie von reduzierten Courtagesätzen. Wenn Sie einen Titel nicht finden, wenden Sie sich bitte an Ihre Beraterin oder an Ihren Berater.
+
+*Kurse: Depotkunden mit einem E-Bankingvertrag erhalten Real-Time-Kurse an der SIX Swiss Exchange (auf Anfrage). An den übrigen Aktienbörsen können die Kurse verzögert angezeigt werden.
+###
+Was sind Conditional-Orders?
+
+Conditional-Orders sind hauptsächlich für erfahrene Anleger geeignet. Diese Auftragsvarianten sind nicht mit Absicherungsgeschäften zu verwechseln.
+
+Wir empfehlen Ihnen für diese Aufträge Ihren Kundenberater vorgängig zu kontaktieren.
+
+Die Auftragsmöglichkeiten bestehen aus:
+
+Kauf Limitierter Order
+Das Limit ist der maximale Betrag pro Aktie, den Sie bereit sind zu bezahlen. Somit zahlen Sie nie mehr, als den von Ihnen als Limit definierten Preis. Es kann vorkommen, dass Sie Ausführungen zu einem tieferen Preis erhalten. Wird das Limit in der entsprechenden Gültigkeit nicht erreicht, verfällt Ihr Auftrag an dem von Ihnen angegebenem Verfalltag.
+
+Ziel/Zweck: Es ist die am häufigsten eingesetzte Auftragsart. Sie wissen, was Sie bezahlen und erleben keine unangenehmen Überraschungen.
+
+Kauf Market (Bestens) Order
+Sie kaufen zum besten (günstigsten) am Markt angebotenen Preis. Da die Börse dynamisch ist und zum Teil auch sehr volatil, ist der Preis der Ausführung  nicht mit absoluter Bestimmtheit voraussehbar. Market-Aufträge werden immer prioritär vor den „Limitierten“ gehandelt.
+
+Ziel/Zweck: Sie möchten die Aktie unbedingt kaufen ohne feste Preisvorstellung, respektive akzeptieren die gerade geltende Marktsituation.
+
+Merke: Wenn Sie einen Market-Auftrag vor Börseneröffnung aufgeben, bezahlen Sie immer den Eröffnungskurs. Überprüfen Sie unbedingt vorgängig das Orderbuch.
+
+Kauf Stop Market Order
+Der „Stop“-Kauf-Auftrag ist ein Auftrag, der mit der Bedingung verknüpft ist, dass er sofort ausgeführt wird, wenn der Titel auf einen bestimmten Kurs (Triggerpreis) gestiegen ist oder diesen überschritten hat.
+
+Ziel/Zweck: Professionelle Trader warten manchmal ab, bis der Kurs z.B. einen Widerstand überwunden hat und möchten von diesem neu entstandenen möglichen Aufwärtspotential profitieren.
+
+Kauf Stop Limit Order
+Beim Stop Limit Kaufauftrag, kann zusätzlich noch ein Maximalpreis (Limit) definiert werden. Bei Erreichung oder Überschreitung des Triggerpreises wird daraus ein limitierter Kauf-Auftrag
+
+Ziel/Zweck: Damit kann verhindert werden, dass bei einem starken Anstieg ein zu hoher Preis bezahlt wird.
+
+Verkauf Limitierter Order
+Das Limit ist der minimale Betrag pro Aktie, den Sie als Gutschrift erhalten wollen. Somit bekommen Sie nie weniger als den von Ihnen als Limit definierten Preis. Es kann vorkommen, dass Sie Ausführungen zu einem höheren Preis erhalten. Wird das Limit in der entsprechenden Gültigkeit nicht erreicht, verfällt Ihr Auftrag an dem von Ihnen angegebenen Verfalltag.
+
+Ziel/Zweck: Es ist die am häufigsten eingesetzte Auftragsart. Sie wissen, was Sie erhalten und erleben keine unangenehmen Überraschungen.
+
+Verkauf Market (Bestens) Order
+Sie verkaufen zum besten (günstigsten) am Markt angebotenen Preis. Da die Börse dynamisch ist und zum Teil auch sehr volatil, ist der Preis der Ausführung nicht mit absoluter Bestimmtheit voraussehbar. Market-Aufträge werden immer prioritär vor den „Limitierten“ gehandelt.
+
+Ziel/Zweck: Sie möchten die Aktie unbedingt verkaufen ohne feste Preisvorstellung, respektive akzeptieren die gerade geltende Marktsituation.
+
+Merke: Wenn Sie einen Market-Auftrag vor Börseneröffnung aufgeben, erhalte Sie immer den Eröffnungskurs. Überprüfen Sie unbedingt vorgängig das Orderbuch.
+
+Verkauf Order Stop Market
+Der „Stop“-Verkaufs-Auftrag, ist ein Auftrag der mit der Bedingung verknüpft ist, dass er erst dann im Order Book platziert wird, wenn nach unten ein gewisser Kurs (Trigger) erreicht oder unterschritten wird.
+
+Ziel/Zweck: Professionelle Trader begrenzen Ihre Verluste. Sobald der Kurs fällt und der letzte bezahlte Preis den Trigger berührt oder unterschreitet, wird der Auftrag aktiv d.h. er wird zu einem Market Auftrag. Sie können so allenfalls einen noch grösseren Kursverlust verhindern.
+
+Verkauf Stop Limit Oder
+Beim Stop Limit Verkaufsauftrag , kann zusätzlich noch ein Mindestpreis (Limit) definiert werden. Bei Erreichung oder Unterschreitung des Triggerpreises wird daraus ein limitierter Verkaufs-Auftrag
+
+Ziel/Zweck: Professionelle Trader begrenzen Ihre Verluste. Sobald der Kurs fällt und der letzte bezahlte Preis den Trigger berührt oder unterschreitet, wird der Auftrag aktiv d.h. er wird zu einem Limitierten Verkaufs-Auftrag. Sie können so allenfalls einen noch grösseren Kursverlust verhindern.
+###
+Zu welchen Zeiten kann ich handeln?
+
+Sie haben rund um die Uhr Zugriff auf Ihren aktuellen Depotbestand. Die Bewertung basiert auf dem Schlusskurs des Vortags. Aufträge für SIX Swiss Exchange und die US-amerikanischen Börsenplätze werden während der Handelszeiten in Echtzeit übermittelt. Alle übrigen Aufträge werden während der Öffnungszeiten in das Börsensystem übertragen.
+###
+Wann erfahre ich, ob und zu welchem Preis mein Börsenauftrag ausgeführt wurde?
+
+Aufträge via SIX Swiss Exchange und US-Börsen Aufträge können Sie sofort unter «Auftragsübersicht» abfragen. Einen Tag nach der Ausführung erhalten Sie eine schriftliche Börsenabrechnung. Sie können sich auch telefonisch bei Ihrer Beraterin oder Ihrem Berater erkundigen, ob Ihr Auftrag bereits ausgeführt wurde. Erfassen Sie einen Auftrag auf keinen Fall ein zweites Mal, nur weil Sie noch keine Abrechnung erhalten haben.
+###
+Kann ich aufgegebene Börsenaufträge noch ändern?
+
+Abgesendete, limitierte Börsenaufträge, die noch nicht ausgeführt wurden, können je nach Börsenplatz unter «Auftragsübersicht» gelöscht oder neu erfasst werden. Ist das nicht der Fall, kontaktieren Sie bitte Ihre Beraterin oder Ihren Berater. Am Wochenende und an Feiertagen können keine Aufträge bearbeitet werden.
+###
+Was kostet ein Börsenauftrag via E-Banking?
+
+Aktuelle Courtagen & Gebühren
+###

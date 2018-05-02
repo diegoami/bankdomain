@@ -1,0 +1,57 @@
+
+###
+Für eine Überweisung aus dem Ausland benötige ich Clearing-Nummer und SWIFT/BIC der BLKB. Wie lauten diese Angaben?
+
+Bankenclearing-Nummer: 769
+SWIFT/BIC: BLKBCH22
+###
+Wie kann ich Zahlungen freigeben?
+
+Im Menü «Zahlungen» unter «Zahlungen freigeben» die entsprechende Zahlung auswählen. Dann im Aktionsmenü ganz rechts bei der entsprechenden Zahlung «Freigeben» auswählen und dann die Freigabe bestätigen.
+###
+Wo finde ich meine gerade erfassten Zahlungen?
+
+    Wenn die Zahlungen pendent zur Ausführung sind: unter «Pendente Zahlungen».
+    Wenn die Zahlungen von Ihnen noch freigegeben werden müssen: unter «Zahlungen freigeben» oder «Pendente Zahlungen».
+    Wenn die Zahlungen durch eine Drittperson noch freizugeben ist (z.B. bei Kollektiv-Zeichnungsrechten): unter «Zahlungsliste» und «Pendente Zahlungen»
+###
+Warum muss ich bei einem Dauerauftrag mit einem Begünstigten im Ausland einen Zahlungszweck erfassen?
+
+Bei Daueraufträgen ins Ausland muss sich auch die BLKB an ausländische Bestimmungen halten. Dabei ist zwingend ein aussagekräftiger Zahlungsgrund anzugeben. Fehlt dieser, kann die Vergütung nicht ausgeführt werden. Diese Angaben dienen u.a. als Indizien für einen anderen steuerlichen Lebensmittelpunkt.
+###
+Wo finde ich meine ESR-Daten zum Herunterladen?
+
+Um die ESR-Daten elektronisch abzuholen, klicken Sie im Menü «Datentransfer» auf «Daten abholen». Üblich ist die Verwendung der Option «Alle Daten seit dem letzten Download», um die seit dem letzten Abholen eingegangenen Daten zu erhalten.
+
+Kontaktieren Sie bei Unklarheiten zur Verbuchung der Daten den Hersteller Ihrer Buchhaltungssoftware.
+###
+Was muss ich bei Auslandzahlungen beachten?
+
+Um eine Auslandzahlung im E-Banking erfassen zu können, wählen Sie bitte unter  «Zahlungen» -> «Zahlungen erfassen» -> «Bankzahlung Ausland» aus (oder für SEPA: «SEPA Zahlung». Falls Sie eine Auslandzahlung SEPA-Konform erfassen, werden Ihnen keine Spesen belastet. Weitere Informationen: Zahlungsauftrag SEPA.
+###
+Wie überweise ich Geld auf ein Fremdwährungskonto bei der BLKB?
+
+Nutzen Sie die Funktion «Kontoübertrag» (für Konten, die am gleichen Vertrag angehängt sind) oder «Bankzahlung Inland».
+###
+Wann werden Zahlungen verarbeitet?
+
+Zahlungen mit Ausführungsdatum "Heute" werden laufend bis 13:00 gleichentags verarbeitet. Zahlungen, die nach 13.00 Uhr erfasst werden, können erst am nächsten Bankwerktag ausgeführt werden.
+###
+Bis zu welchem Zeitpunkt kann ich erfasste Zahlungen ändern oder löschen?
+
+Alle Zahlungen mit dem Status "pendent" können im Menü "Zahlungen", "Pendente Zahlungen" geändert oder gelöscht werden.
+###
+Kann ich meine Zahlungen auch offline erfassen?
+
+Sie können die Zahlungsaufträge mit einer speziellen Software offline erfassen und uns das DTA-File via Filetransfer übermitteln.
+###
+Wie weit zurück kann ich Ad-hoc-Auszüge erstellen?
+
+Es können keine Auszüge älter als 01.10.2010 erstellt werden.
+###
+Wie aktiviere ich meinen PayPen im E-Banking?
+
+Klicken Sie unter „Zahlung erfassen“ ins oberste Feld (Nach IBAN, Kontonummer oder Empfänger suchen). Jetzt kann der PayPen wie gewohnt verwendet werden.
+
+
+###

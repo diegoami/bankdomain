@@ -1,0 +1,37 @@
+
+###
+Wie sehen die E-Dokumente aus?
+
+Die Belege sehen gleich aus, ob per Post oder elektronischen versandt.
+###
+Welche Dokumente werden elektronisch ausgeliefert?
+
+Sie erhalten alle Bankauszüge elektronisch in Ihr Postfach geliefert. Ausser das Steuerverzeichnis erhalten Sie weiterhin phyisch zugestellt.
+###
+Wie funktioniert die Zustellung?
+
+Sie finden die E-Dokumente im Menü «Meine Dokumente». Dieser Menüpunkt wird mit einer Zahl versehen, sobald neue Bankbelege verfügbar sind. Mit einem Klick auf das ausgewählte Dokument wird Ihnen der Bankbeleg angezeigt. Sie können ihn ausdrucken, auf Ihrem PC speichern oder löschen.
+###
+Was ist die Voraussetzung, um elektronische Bankbelege anzusehen?
+
+Elektronische Bankbelege sind als PDF-Dateien verfügbar. Um sie anzusehen, benötigen Sie den Adobe Reader, der auf den meisten Computer bereits vorhanden ist. Falls nicht, können Sie ihn kostenlos herunterladen und installieren: http://get.adobe.com/de/reader/otherversions/
+###
+Wann und wie lange sind die elektronischen Bankbelege im E-Banking abrufbar?
+
+E-Dokumente bleiben 400 Tage in Ihrem Postfach im E-Banking (Dokumente für die Steuern sogar 1'440 Tage). Nach Ablauf dieser Frist sind sie elektronisch nicht mehr verfügbar. Speichern Sie Ihre Belege auf Ihrem Computer ab, um sie länger aufzubewahren.
+###
+Wie muss ich vorgehen, damit ich die Bankbelege elektronisch erhalte?
+
+Die elektronische Belegzustellung können Sie direkt im E-Banking unter "Einstellungen" beantragen.
+###
+Welche Vorteile bietet diese Dienstleistung?
+
+    Bezahlen Sie keine Portospesen mehr
+    Schnellere Verfügbarkeit als bei Postzustellung
+    Dank weniger Papierbelege leisten Sie einen aktiven Beitrag zum Umweltschutz
+    Sparen Sie Zeit, indem Sie die Belege elektronisch auf Ihrem Computer archivieren
+###
+Ich finde meine Kreditkartenauszüge nicht mehr im Postfach. Wo sind sie?
+
+Die Viseca Kontoauszüge/Abrechnungen sind nicht mehr im Postfach, aber Sie finden den Link auf die Viseca-Abrechnungen im Navigationspunkt "Karten".
+###

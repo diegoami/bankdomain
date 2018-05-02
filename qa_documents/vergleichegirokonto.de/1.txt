@@ -22,7 +22,7 @@ Wenn Sie ein Girokonto direkt in einer Bank-Filiale abschließen benötigen Sie 
 ###
 Onlinebanking- Wie funktioniert das?
 
-Online- Banking ist mittlerweile sehr sicher geworden. Der Kunde erhält einen PIN und eine Liste mit Transaktionsnummern. Das kann von Bank zu Bank unterschiedlich sein, aber der Pin in Verbindung mit den transaktionsnummern ist eine der besten Varianten. Der Kunde logt sich mit seiner Kontonummer und seinen PIN auf der Internetseite seiner Bank ein und kann dann Überweisungen in Auftrag geben. Jede getätigte Kontobewegung muss mit einer von der Bank vorgegebenen Transaktionsnummer bestätigt werden. Jede Transaktionsnummer wird nur einmal benutzt. Die Sicherheitsstandards sind sehr hoch und variieren von Bank zu Bank. Neben den Transaktionslisten ist auch eine Anmeldung mit Chipkarte möglich.
+Online-Banking ist mittlerweile sehr sicher geworden. Der Kunde erhält einen PIN und eine Liste mit Transaktionsnummern. Das kann von Bank zu Bank unterschiedlich sein, aber der Pin in Verbindung mit den transaktionsnummern ist eine der besten Varianten. Der Kunde logt sich mit seiner Kontonummer und seinen PIN auf der Internetseite seiner Bank ein und kann dann Überweisungen in Auftrag geben. Jede getätigte Kontobewegung muss mit einer von der Bank vorgegebenen Transaktionsnummer bestätigt werden. Jede Transaktionsnummer wird nur einmal benutzt. Die Sicherheitsstandards sind sehr hoch und variieren von Bank zu Bank. Neben den Transaktionslisten ist auch eine Anmeldung mit Chipkarte möglich.
 ###
 Kann ich mein Girokonto kündigen?
 

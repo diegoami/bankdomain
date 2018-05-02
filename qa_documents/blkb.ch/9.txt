@@ -1,0 +1,81 @@
+###
+
+Ich möchte die Dienstleistung E-Dokumente aktivieren. Wie muss ich vorgehen?
+
+Wählen Sie dazu in Ihrem E-Banking den Menüpunkt «Einstellungen», «Elektronische Belegzustellung» und die gewünschte Kundenbeziehung aus. Nach Übermittlung des Auftrags an die Bank erfolgt die Umstellung der Belegzustellung in wenigen Tagen.
+###
+Wo finde ich meine E-Dokumente im E-Banking Vertrag?
+
+Die elektronischen Belege finden Sie im E-Banking unter dem Menüpunkt «Meine Dokumente» im Postfach. Sie können die Dokumente sowohl einzeln als auch gemeinsam herunterladen und abspeichern.
+###
+Warum hat die BLKB ein neues E-Banking?
+
+Mitte 2016 haben wir mit der Einführung des Portals "Meine BLKB" einen wichtigen Schritt in die digitale Zukunft gemacht. Das neue E-Banking ist ein nächster Schritt in dieser Entwicklung. Unser bisheriges E-Banking war bereits 7 Jahre alt.
+###
+Was ändert sich für mich als Kunde/Kundin?
+
+Funktional ändert sich grundsätzlich nichts. Es stehen weiterhin alle bekannten Funktionen zur Verfügung. Die Hauptänderung ist die mit dem Portal "Meine BLKB" vereinheitlichte Darstellung und Navigation. Das Design ist zudem der neusten Technologie angepasst, damit es sich jedem beliebigen Endgerät anpasst und Ihnen damit die Arbeit erleichtert. In vielen Übersichtsseiten besteht neu die Möglichkeit, direkt Aktionen auszulösen: So kann z.B. aus der Kontoübersicht eine Zahlung ausgelöst werden.
+###
+Wie sieht das neue E-Banking aus?
+
+Das E-Banking entspricht dem Design des Portals auf "Meine BLKB". Die Seiten passen sich dank der neuen Technologie automatisch Ihrem verwendeten Endgerät an. Unabhängig ob Sie per PC, Tablet oder Smartphone darauf zugreifen. Lernen Sie das neue E-Banking bereits heute kennen und nutzen Sie die Demoversion.
+###
+Welche Vorteile bietet mir das neue E-Banking?
+
+    Neben der gewohnten Menüführung auf der linken Seite werden die wichtigsten Funktionen in Form von Kacheln angezeigt.
+    Wechsel zwischen verschiedenen Kundenbeziehungen innerhalb Ihres E-Banking-Vertrags.
+    Die aus- und eingehenden Zahlungen auf Ihren Konten werden neu mehrmals pro Tag verbucht.
+    Der Benachrichtigungsdienst per E-Mail und SMS ist umfangreicher.
+    Der Zahlungsassistent kennt neu die Zahlungsempfänger der letzten Ausführungen, was Zahlungsvorlagen hinfällig macht.
+    Mit dem Pay Scanner der BLKB-Mobile-App scannen Sie auch in Zukunft einfach und schnell Ihre Einzahlungsscheine.
+    Sämtliche Daueraufträge finden Sie ab sofort im E-Banking und können neu erfasst, angepasst oder gelöscht werden.
+###
+Wo finde ich die Demoversion des neuen E-Banking?
+
+Eine Demoversion zum neuen E-Banking finden Sie direkt mit folgendem Link.
+###
+Benötige ich ein neues Login?
+
+Nein, das Login bleibt gleich wie bisher.
+###
+Wo finde ich Informationen zu den Neuerungen?
+
+Wir haben für Sie Einführungsvideos erstellt und Sie können sich durch die Demoversion klicken. Alle Infos finden Sie unter www.blkb.ch/neues-e-banking
+###
+Steht nach der Einführung ein Support zur Verfügung?
+
+Bei Unklarheiten wenden Sie sich bitte an unseren E-Banking-Support unter +41 61 925 95 99.
+###
+Kann ich schriftlich eingereichte Daueraufträge im E-Banking verwalten?
+
+Die schriftlich eingereichten Daueraufträge können neu im E-Banking bearbeitet oder auch gelöscht werden.
+###
+Für das E-Banking der BLKB benötige ich einen aktualisierten Internet-Browser. Wie kann ich diesen aktualisieren?
+
+Aktualisieren Sie Ihr Betriebssystem sowie Ihre Programme und Apps auf Ihrem Rechner, Tablet und Smartphone regelmässig mit den offiziellen Updates und Service-Patches der Hersteller. Insbesondere bei Virenschutzprogrammen, Firewalls, Browsern inkl. Plug-Ins sowie bei Programmen zum Betrachten von Dokumenten sind Updates sehr wichtig.
+
+Die minimalen Browseranforderungen sind wie folgt:
+
+    Apple Safari: Version 9
+    Firefox: Version 38
+    Google Chrome: Version 45
+    Microsoft Edge: Version 11
+    Microsoft Internet-Explorer: 11
+    Opera: Version 31
+
+Hier geht's zum Browsercheck
+###
+Sehe ich alle meine Daueraufträge im E-Banking?
+
+Mit der Einführung des neuen E-Bankings können Sie ab sofort alle Daueraufträge (auch die schriftlich eingereichten) neu erfassen, bearbeiten oder löschen.
+
+
+Verschachtelte Portlets -
+
+Optionen
+
+    Look-and-Feel
+    Konfiguration
+    Export/Import
+    Zu einer Webseite hinzufügen
+###

@@ -64,7 +64,7 @@ Sie können zu einem gewünschten Ausführungstermin den Gesamtbetrag, einen Tei
 Bei einem Dauerauftrag wird exakt der Betrag überwiesen, den Sie vorab eingegeben haben, mehr nicht.
 
 ###
-Kann man nach Einrichtung eines Daueraufrages im Online-Banking der Postbank das Auftragslimit für die Daueraufträge wieder auf 0,00 Euro setzen, ohne das der gerade eingegebene Dauerauftrag ungültig wird?
+Kann man nach Einrichtung eines Dauerauftrages im Online-Banking der Postbank das Auftragslimit für die Daueraufträge wieder auf 0,00 Euro setzen, ohne das der gerade eingegebene Dauerauftrag ungültig wird?
 
 
 

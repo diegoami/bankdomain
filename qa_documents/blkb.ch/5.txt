@@ -1,0 +1,51 @@
+
+###
+Was kostet E-Rechnung?
+
+E-Rechnungen sind kostenlos.
+###
+Welche Rechnungssteller bieten E-Rechnung an?
+
+Im Menupunkt "E-Rechnungen", "Alle Rechnungssteller" finden Sie eine Liste aller möglichen Unternehmen, bei denen Sie Ihre Rechnungen per E-Rechnung bezahlen können.
+###
+Welche Voraussetzungen müssen erfüllt sein, damit ich meine Rechnungen elektronisch erhalte?
+
+Sie benötigen einen E-Banking-Vertrag. Zusätzlich müssen Sie sich bei den gewünschten Rechnungsstellern anmelden.
+###
+Wer kann E-Rechnung nutzen?
+
+E-Rechnung können alle Privatpersonen mit einem E-Banking-Vertrag nutzen. Firmen haben die Möglichkeit, E-Rechnungen elektronisch direkt in ihr ERP-System zu übertragen.
+###
+Welche Vorteile hat E-Rechnung?
+
+Mit E-Rechnung bezahlen Sie Ihre Rechnungen einfach und bequem per Mausklick. Nach dem Einloggen ins E-Banking sehen Sie auf einen Blick, ob Sie neue Rechnungen erhalten haben. Sie lesen die Rechnung, prüfen sie und lösen sie per Mausklick aus. Sie müssen sich nicht mehr mit Einzahlungsscheinen herumschlagen und verpassen keinen Zahlungstermin mehr. E-Rechnung ist so sicher wie E-Banking. Die Übermittlung erfolgt verschlüsselt und Ihr Konto wird nicht automatisch belastet – Sie allein bestimmen, ob und wann eine Rechnung bezahlt wird. E-Rechnungen können Sie mit jedem Computer mit Internetanschluss nutzen So bleiben Ihre Rechnungen auch bei längeren Auslandaufenthalten nicht liegen.
+
+Weitere Informationen finden Sie unter www.e-rechnung.ch
+###
+Wie lange kann ich meine E-Rechnungen einsehen?
+
+E-Rechnungen können Sie bis zu 90 Tage nach der Freigabe oder Ablehnung im E-Banking einsehen, abspeichern oder ausdrucken.
+###
+Wie steht es mit dem Datenschutz bei E-Rechnung?
+
+Alle angeschlossenen Finanzinstitute sowie die SIX Payment Services AG haben sich dazu verpflichtet, die gespeicherten Daten geheim zu halten und ausschliesslich für Dienstleistungen rund um E-Rechnung zu verwenden.
++###
+Was ist der Unterschied zwischen E-Rechnung und LSV?
+
+E-Rechnungen erhalten Sie direkt ins E-Banking. Sie bestimmen selbst, ob und wann Sie eine Rechnung bezahlen. Dadurch haben Sie mehr Kontrolle und mehr Einfluss auf den Zahlungsprozess. Beim Lastschriftverfahren bestimmt der Rechnungssteller, wann er Ihnen welchen Betrag belastet. Sie erhalten für jede Belastung eine Abrechnung. Wenn Sie mit der Belastung nicht einverstanden sind, müssen Sie rechtzeitig Widerspruch einlegen. Häufig erhalten Sie von Ihrem Rechnungssteller auch beim LSV eine Abrechnung. So haben Sie am Ende zwei Dokumente: eines von der Bank und eines vom Rechnungssteller. Einige Rechnungssteller bieten ihren Kunden eine Kombination von E-Rechnung und LSV an. Das bedeutet, dass Sie Ihre Rechnung zum LSV-Einzug elektronisch im E-Banking erhalten. Diese Rechnungen sind speziell markiert und können nicht mehr zur Zahlung freigegeben werden. Somit ist eine doppelte Zahlung ausgeschlossen. Löschen Sie Ihre LSV-Ermächtigungen beim Rechnungssteller und bei uns, bevor Sie sich beim Rechnungssteller für E-Rechnung anmelden.
+###
+Wie wird die Datensicherheit bei E-Rechnung garantiert?
+
+    Die SIX Payment Services AG, die Finanzinstitute und die Rechnungssteller verpflichten sich, die Systeme und die gespeicherten Daten zu schützen.
+    Die Sicherheitsmassnahmen entsprechen dem aktuellen Stand der Technik.
+    Durch die Nutzung von E-Rechnungen im E-Banking werden durch die SIX Payment Services AG die branchenüblichen, umfassenden Sicherheitsvorkehrungen und Datenschutzrichtlinien angewendet.
+###
+Werden meine Daten zu Werbezwecken verwendet?
+
+Die SIX Payment Services AG und die angeschlossenen Finanzinstitute tauschen keine Daten zu Werbezwecken aus und geben Daten auch nicht an Dritte weiter.
+###
+Wie kann ich die Shared-Mailbox aktivieren?
+
+Diese Funktion steht nicht mehr zur Verfügung.
+###
+

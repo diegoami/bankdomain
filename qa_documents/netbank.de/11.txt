@@ -137,7 +137,7 @@ Sie können die Kontoauszüge wie gewohnt im elektronischen Postfach des neuen O
 ###
 Wie kann ich mTAN oder SecureApp beantragen?
 
-Die mTAN und SecureApp können Sie mit einem aktiven Autorisierungsverfahren im Online- Banking beantragen. Sofern Sie noch kein mTAN oder SecureApp Verfahren eingerichtet haben und Ihnen kein Freischaltcode vorliegt, können Sie uns telefonisch kontaktieren. Wir werden Ihnen den Freischaltcode per Post zusenden. Weitere Informationen zu den Autorisierungsverfahren finden Sie hier.
+Die mTAN und SecureApp können Sie mit einem aktiven Autorisierungsverfahren im Online-Banking beantragen. Sofern Sie noch kein mTAN oder SecureApp Verfahren eingerichtet haben und Ihnen kein Freischaltcode vorliegt, können Sie uns telefonisch kontaktieren. Wir werden Ihnen den Freischaltcode per Post zusenden. Weitere Informationen zu den Autorisierungsverfahren finden Sie hier.
 ###
 Wie gebe ich eine Transaktion in der netbank SecureApp frei?
 

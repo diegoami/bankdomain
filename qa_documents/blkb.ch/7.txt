@@ -1,0 +1,64 @@
+###
+
+Ist das neue E-Banking sicher?
+
+Wir können Ihnen bestätigen, dass die Sicherheit des neuen E-Bankings den gleich hohen Standards entspricht wie bei der bisherigen Lösung. Unsere Sicherheitsstandards werden zudem regelmässig
+###durch externe Firmen überprüft und aktualisiert.
+
+Ich verfüge über eine schlechte Abdeckung bei Verwendung des Mobiltelefonss. Wie kann ich dennoch mit dem E-Banking arbeiten?
+
+In diesem Fall haben Sie die Möglichkeit, den SMS-Code über Ihren SMS-tauglichen Festnetzanschluss zu empfangen. Stellen Sie sicher, dass Ihr Festnetzanschluss tatsächlich SMS-tauglich ist.
+###
+Ich kann auf meinem Mobiltelefon die SMS-Nachrichten der BLKB nicht mehr empfangen. Was kann ich tun?
+
+Löschen Sie alle SMS-Nachrichten der BLKB, schalten Sie Ihr Mobiltelefon aus und schalten Sie es nach einem kurzen Moment wieder ein. Anschliessend sollte die Übermittlung des SMS-Codes auf Ihr Mobiltelefon problemlos funktionieren. Sollte diese Massnahme nicht zum gewünschten Erfolg führen, könnte es sein, dass Ihre SIM-Karte nicht mehr korrekt funktioniert oder Sie einen schlechten Empfang haben. In diesem Falle bitten wir Sie, mit Ihrem Telefonanbieter Kontakt aufzunehmen.
+###
+Wie lautet die Absender-Nummer beim Erhalt der E-Banking SMS-Codes?
+
+Die Absender-Nummer, welche Sie beim Erhalt der SMS-Codes für das Login oder die Zahlungsbestätigung erhalten, lautet +41 79 925 05 05.
+###
+Muss ich jede Zahlung im E-Banking mittels SMS-Code bestätigen?
+
+Nein, ein komplexes Regelwerk im E-Banking-System entscheidet, wann eine Zahlungsbestätigung erforderlich ist. Die Zahlungsbestätigung stellt ein wichtiges Sicherheitsmerkmal dar, vorausgesetzt, Sie prüfen die im SMS enthaltenen Daten genau und bestätigen erst dann die Zahlung. Die Standardeinstellung der Bank können Sie ändern und damit die Sicherheit weiter erhöhen (Einstellungen -> Konto/Depot/Zahlungen -> Zahlungssignierung). In der Folge müssen aber mehr Zahlungen mit einem SMS-Code bestätigt werden.
+###
+Kann ich die Zahlungsbestätigung mittels SMS-Code ausschalten?
+
+Die Zahlungsbestätigungsanfrage (Transaktionsbestätigung) ist aus Sicherheitsgründen notwendig und kann daher nicht deaktiviert werden.
+
+Wie kann ich eine neue Telefonnummer in meinem E-Banking Vertrag hinterlegen?
+
+Wenden sie sich bitte an den E-Banking-Support: +41 61 925 95 99
+###
+Wie merke ich, dass mein PC mit einem Virus infiziert sein könnte?
+
+Achten Sie auf Unregelmässigkeiten beim Log-in. Zum Beispiel auf ungewohnte Zwischenseiten (weisse Seiten, Balken, unüblicher Text, ungewohnte Schrift usw.). Ein weiteres Indiz für Viren: Ihr Computer trennt die Verbindung zum E-Banking, ohne dass Sie das wollen. Weitere Informationen zu Viren und Schadsoftware und wie Sie sich dagegen schützen können, finden Sie unter www.ebankingabersicher.ch.
+###
+Was mache ich, wenn mein PC infiziert ist oder wenn ich den Verdacht habe, dass er infiziert ist?
+
+Melden Sie sich sofort beim E-Banking-Support: +41 61 925 95 99.
+###
+Wenn ich einer Person die Vollmacht für mein Konto streiche, ist dann automatisch auch der Zugriff zum E-Banking gelöscht?
+
+Ja. Wenn Sie einer Person die Vollmacht für Ihr Konto entziehen, kann sie auch E-Banking nicht mehr nutzen.
+###
+Muss ich nach einer Sperrung einen neuen E-Banking-Vertrag abschliessen?
+
+Nein, Sie können den Vertrag entsperren lassen (+41 61 925 95 99) und die gleichen Identifikationsmerkmale wie bisher nutzen.
+###
+Was muss ich machen, wenn ich mein Passwort vergessen oder die Zusatzcode-Karte verloren habe?
+
+Schreiben Sie uns oder rufen Sie unsere E-Banking-Hotline an (+41 61 925 95 99).
+###
+Wie kann es passieren, dass sich ein Trojaner auf meinem Computer installiert?
+
+    Sie haben eine infizierte Website besucht.
+    Sie haben eine infizierte Datei heruntergeladen.
+    Sie haben eine Mail mit einem infizierten Link geöffnet.
+    Sie haben Ihren Computer nur ungenügend geschützt und so das Eindringen von aussen ermöglicht.
+
+Weitere Informationen zu Viren und Schadsoftware und wie Sie sich dagegen schützen können, finden Sie unter www.ebankingabersicher.ch.
+###
+Ich habe ein Smartphone mit Jailbreak oder Root. Kann ich damit die BLKB-Mobile-Banking-App nutzen?
+
+Smartphones und Tablets enthalten standardmässig wirksame Schutzmechanismen. Diese funktionieren jedoch nur optimal, wenn die Geräte nicht durch den Benutzer modifiziert (bei IOS Geräten „Jailbreak“, bei Android Geräten „Root“ genannt) worden sind. Aus diesem Grund ist die Nutzung der BLKB-Mobile-Banking-App nur mit nicht-modifizierten Geräten empfohlen.
+###
