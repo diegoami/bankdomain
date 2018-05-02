@@ -1,0 +1,91 @@
+###
+Was kann ich tun, wenn ich mein Passwort vergessen habe?
+
+Wähle im Login-Bereich „Passwort vergessen?“. Um das Passwort zurückzusetzen, musst Du die bei der Anmeldung gewählte Sicherheitsfrage beantworten. Du bekommst dann ein neues Passwort per SMS, mit dem Du Dich einmalig einloggen kannst. Anschließend kannst Du ein neues Passwort eingeben.
+###
+Wie kann ich mein Passwort ändern?
+
+Öffne hierzu den Menüpunkt „Mein Profil“ (links oben), wähle zuerst „Einstellungen“ und dann „Passwort ändern“ aus, um Dein Passwort zu ändern.
+###
+
+Was kann ich tun, wenn ich meine PIN vergessen habe?
+
+Bitte wende Dich an das Serviceteam, die Mitarbeiter werden Dir gerne dabei behilflich sein, Deine PIN zurückzusetzen.
+###
+
+Wie kann ich meine PIN ändern?
+
+Öffne hierzu den Menüpunkt „Mein Profil“, wähle zuerst „Einstellungen“ und dann „PIN ändern“ aus, um Deine PIN zu ändern.
+###
+
+Warum muss ich hin und wieder eine neue PIN festlegen?
+
+Da aus Sicherheitsgründen die PIN nicht in der App gespeichert wird, wirst Du hin und wieder gebeten, eine neue PIN festzulegen.
+###
+
+Wo kann ich meine vergangenen Transaktionen einsehen?
+
+Deine Transaktionshistorie kannst Du über einen Button rechts oben in der boon. App öffnen. Über das Kalender-Icon kannst Du dabei nach bestimmten Zeiträumen filtern.
+###
+
+Wie kann ich boon. aufladen?
+
+Du kannst boon. per MasterCard oder Visa Kreditkarte und Überweisung aufladen.
+Bitte beachte, dass eine Aufladung mit einer Prepaidkarte nicht möglich ist. Vorteil der Kreditkarte: Das Geld ist unmittelbar verfügbar, bei Überweisung dauert es bis zu zwei Tage bis das Geld bei boon. verfügbar ist. Zur Aufladung per Kreditkarte musst Du die Kreditkarte in Deinem boon. Account registrieren; das geht entweder manuell oder über einen Scan der Karte. Falls Du Deine Kreditkarte noch nicht bei 3D Secure registriert hast, empfehlen wir, dies vorab über die Website Deiner Bank durchzuführen. Aus Sicherheitsgründen ist das Aufladen von boon. nur mit Kreditkarten möglich, die 3D Secure unterstützen.
+###
+
+Kann ich Geld an andere boon. Nutzer senden und von ihnen empfangen?
+
+Ja, wenn du boon. PLUS verwendest, kannst du Geld an andere boon. PLUS Nutzer senden und von ihnen empfangen. Um dieses Feature zu nutzen, gehst du über das „+“ auf dem Homescreen auf „Geld senden“ und wählst anschließend die E-Mail-Adresse oder Handynummer des Empfängers aus.
+
+Die Limits für den Versand und Empfang von Geld findest du auf unserer Seite mit dem Verzeichnis der Gebühren und Limits.
+###
+
+Kann ich Überweisungen von Dritten empfangen?
+
+Als boon. BASIC Kunde kannst Du nur Überweisungen empfangen, die von einem Konto, welches auf Deinen Namen läuft, getätigt wurden. Als boon. PLUS Kunde kannst Du auch Überweisungen von Fremdkonten empfangen.
+###
+
+Was ist 3D Secure?
+
+3D Secure ist ein Sicherheitsstandard, der bei Kreditkartentransaktionen eingesetzt wird. Dieses Authentifizierungsverfahren stellt sicher, dass der rechtmäßige Karteninhaber sowie der rechtmäßige Händler an einer Transaktion teilnehmen. So lassen sich Betrugsrisiken wirksam minimieren. Ist ein Kreditkarteninhaber über eine der Registrierungsmethoden am 3D Secure-Verfahren angemeldet, wird ihm während des Aufladevorgangs eine Eingabeseite seiner Bank angezeigt, auf der er sein Passwort eingibt. Nur mit dem korrekten Passwort, welches ausschließlich dem Karteninhaber und seiner Bank bekannt ist, wird die Zahlung durchgeführt.
+###
+
+Kann ich boon. nur auf Guthabenbasis nutzen?
+
+Ja, aber sobald Du eine Kreditkarte hinterlegt hast, kannst Du auch eine automatische Aufladung einrichten. Hierbei wird boon. auf einen vorab festgelegten Betrag aufgeladen, sobald eine frei wählbare Guthabengrenze unterschritten wird.
+###
+Was kann ich tun, wenn das Bezahlen mit boon. nicht funktioniert?
+
+Bitte öffne die boon. App und prüfe den aktuellen Stand Deines Guthabens sowie Deine Internetverbindung, bzw. die Anzahl der noch verfügbaren Codes. Prüfe zudem, ob NFC aktiviert ist. Bei zahlreichen Smartphones wird das NFC Signal deaktiviert, sobald der Bildschirm gesperrt oder in den Flugmodus gewechselt wird. Bei manchen Modellen ist die NFC Antenne vorne angebracht, diese müssen dann entsprechend mit der Vorderseite auf das Terminal gehalten werden. Sollten bei der Zahlung dennoch Probleme auftreten, wende Dich bitte an unser Serviceteam.
+###
+Wieviel Guthaben kann ich maximal aufladen?
+
+Eine Übersicht über Gebühren, maximales Guthaben und Aufladelimits findest Du hier.
+###
+Was passiert mit meinem Account, wenn ich mein Smartphone wechsle?
+
+Mit boon. ist der Smartphonewechsel kein Problem, da die Identifikation über die Rufnummer erfolgt. Sobald Du boon. auf dem neuen Smartphone (NFC-fähig, Android 4.4 oder höher) installiert hast, kannst Du Dich mit Deinen existierenden Zugangsdaten einloggen.
+###
+Was passiert, wenn sich meine Rufnummer ändert?
+
+In diesem Fall kannst Du Deinen Benutzernamen (bei boon. die Rufnummer) bequem über das Serviceteam ändern.
+
+###
+Was sind reservierte Beträge?
+
+Reservierte Beträge sind Beträge, die zwar vom Händler “gesichert”, aber noch nicht abgebucht sind. In den meisten Fällen wirst Du solche Beträge nicht sehen, teilweise kann es aber eine Zeit lang dauern, bis eine Transaktion komplett abgeschlossen ist.
+###
+Wie lange dauert es, bis ich Aktionsguthaben in meiner App sehen kann?
+
+In manchen Fällen kann es einige Minuten dauern, bis Aktionsguthaben (z.B. Cashback) in der App angezeigt wird.
+###
+Wie kann ich meinen boon. Account kündigen?
+
+Du kannst Deinen boon. Account jederzeit schriftlich per Email oder Post kündigen. Nutze dazu einfach die Kontaktmöglichkeiten unseres Serviceteams. Damit Dein Konto geschlossen werden kann, teile bitte die folgenden Informationen mit:
+
+    Die Antwort auf Deine Sicherheitsfrage
+    Deine Mobiltelefonnummer
+
+Ein einmal gekündigtes Konto kann nicht wieder aktiviert werden.
+###

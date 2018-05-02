@@ -1,0 +1,33 @@
+###
+Gibt es ein Mindestalter für die Nutzung von boon.?
+
+Ja, das Mindestalter beträgt 18 Jahre.
+###
+Welche Angaben sind bei der Registrierung erforderlich?
+
+Für die Registrierung musst Du neben Deiner Telefonnummer nur ein selbst gewähltes Passwort, eine PIN und eine Sicherheitsfrage eingeben.
+###
+Warum sind für die Aufladung von Guthaben weitere Informationen nötig?
+
+Sowohl aus Sicherheits- als auch aus rechtlichen Gründen, kannst Du Deinen boon. Account nur dann aufladen, wenn Du valide persönliche Informationen hinterlegt hast.
+###
+Welche Dokumente sind für ein Upgrade auf boon. PLUS erforderlich?
+
+Identitätsnachweis:
+
+    gültiger Reisepass (empfohlen)
+    gültiger Personalausweis
+    gültiger Führerschein (muss ein Ablaufdatum haben)
+
+Adressnachweis:
+
+    Gültiger Personalausweis (empfohlen, soweit dieser nicht schon als Identitätsnachweis verwendet wurde – d. h., ein Reisepass oder Führerschein wurden zum Identitätsnachweis verwendet)
+    Gültiger Kontoauszug, Kredit- oder Debitkartenabrechnung (nicht älter als 3 Monate, von einem beaufsichtigten Finanzunternehmen ausgestellt, darf nicht aus dem Internet heruntergeladen werden –> Papierrechnung erforderlich)
+    Gültiger Steuerbescheid (nicht älter als 12 Monate)
+    Versorgerrechnung z. B. Gas-, Strom- oder Festnetztelefonrechnung (nicht älter als 3 Monate, keine Mobilfunkrechnungen, darf nicht aus dem Internet heruntergeladen werden –> Papierrechnung erforderlich)
+    2 Versorgerrechnungen von unterschiedlichen Versorgern (z. B. nicht 2-mal Strom), wie Gas, Strom oder Festnetz (nicht älter als 3 Monate, keine Mobilfunkrechnung, dürfen aus dem Internet heruntergeladen werden)
+    Gerichtliche Anordnung , z. B. Testamentsvollstreckung, Schreiben des Insolvenzverwalters (nicht älter als 3 Monate)
+    Nachweis über behördliche Leistung, z. B. Wohngeld, Steuergutschrift, Pensionszahlung (nicht älter als 3 Monate)
+    Aufenthaltstitel (nicht älter als 12 Monate, für die Schweiz ist auch eine Aufenthaltsbewilligung möglich)
+    Meldebescheinigung (nicht älter als 3 Monate)
+###

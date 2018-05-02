@@ -1,0 +1,11 @@
+###
+
+Was bedeutet NFC?
+
+NFC bedeutet „Near Field Communication“ und ist ein internationaler Standard um Daten zwischen zwei Endgeräten ohne direkte Kabelverbindung auszutauschen.
+###
+
+Was bedeutet HCE?
+
+Die Softwaretechnologie HCE bedeutet „Host Card Emulation“ und ist heute Standard in den meisten Android-Geräten ab Version 4.4 und höher. Der HCE Standard bietet eine sichere Verschlüsselung aller gesendeten Daten.
+###

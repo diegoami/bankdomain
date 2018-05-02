@@ -1,0 +1,31 @@
+###
+Wie sicher ist das Bezahlen mit boon.?
+
+Beim Bezahlen mit boon. werden die gleichen hohen Sicherheitsmerkmale angewendet wie bei Zahlungen mit Chip-Karten. Jede Bezahlung wird verschlüsselt übertragen.
+###
+Muss ich bei jedem Bezahlvorgang im Geschäft meine PIN eingeben?
+
+Ja, wie bei der Bezahlung mit der EC-Karte dient auch hier die Eingabe der PIN der eigenen Sicherheit. Sollte Deine Smartphone in fremde Hände gelangen, bietet die PIN-Eingabe einen zusätzlichen Schutz für Dein Guthaben. Daher musst Du Deine PIN bei jedem Bezahlvorgang eingeben.
+###
+Sind die Geldbeträge auf meinem Smartphone gespeichert?
+
+Wenn Du Dich anmeldest, wird im Hintergrund ein Prepaid Konto angelegt. Daher liegen die Geldbeträge nicht auf dem Gerät, wie es beispielsweise beim Chip einer Geldkarte der Fall ist.
+###
+Was passiert, wenn mein Smartphone gestohlen wird, oder ich es verliere?
+
+Passwort und PIN bieten hier einen ersten Schutz, Du solltest Deinen boon. Account im Falle des Verlusts/Diebstahls dennoch schnellstmöglich über die Notfallhotline des Serviceteams sperren lassen:
+00800 94 73 22 70
+###
+Wie kann ich meine boon. Card dauerhauft sperren lassen?
+
+Du kannst Deine boon. Card jederzeit temporär in der App deaktiveren. Um Deine boon. Card dauerhauft sperren zu lassen oder neue Kartendaten zu erhalten, kontaktiere bitte unser Serviceteam.
+
+###
+Kann ich mich auf mehreren Smartphones gleichzeitig bei boon. anmelden?
+
+Nein, ein gleichzeitiger Login auf mehreren Smartphones ist nicht möglich. Es kann immer nur ein aktives Device geben. Dies minimiert das Risiko, dass Dein boon. Account gehackt wird, sollten Rufnummer und Passwort einmal in falsche Hände gelangen.
+###
+Welche Daten werden gespeichert?
+
+Hier kannst Du unsere Datenschutzerklärung lesen
+###

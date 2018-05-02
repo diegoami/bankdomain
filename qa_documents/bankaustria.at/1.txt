@@ -1,0 +1,84 @@
+###
+Was ist kontaktloses Zahlen?
+
+Beim Bezahlen halten Sie Ihre BankCard einfach vor ein Lese
+gerät an der Kassa. Ihre Daten werden verschlüsselt per Funk
+übertragen. Das war’s.
+Welche Vorteile hat kontaktloses Zahlen?
+Kontaktloses Zahlen vereinfacht und beschleunigt den Zahlungsvorgang, weil Sie keine PIN mehr eingeben müssen – es geht
+also sicher, schneller und einfacher.
+###
+Was bedeutet NFC?
+NFC steht für „Near Field Communication“ und bedeutet auf Deutsch „Nahfeldkommunikation“. Dabei werden Daten
+kontaktlos
+über Strecken von maximal wenigen Zentimetern übertragen.
+###
+Ist das kontaktlose Zahlen sicher?
+Ja. Das kontaktlose Zahlen ist eine geprüfte Technologie, die schon seit Jahren weltweit in vielen Ländern genutzt wird. Sie
+wurde in unabhängigen internationalen Sicherheitslabors auf Risiken geprüft und entspricht den vorgegebenen strengen
+Standards. Damit ist kontaktloses Zahlen ebenso sicher wie Transaktionen mit Chip und PIN.
+Die Sicherheitsmerkmale im Überblick:
+•
+Die Daten werden verschlüsselt übertragen.
+•
+Sie können höchstens fünfmal hintereinander kontaktlos zahlen, danach müssen Sie wieder Ihre PIN eingeben.
+Dadurch wird
+der „Zähler“ zurückgesetzt, und Sie können wieder fünfmal kontaktlos bezahlen.
+•
+Die Zahlungsbeträge sind mit maximal 25 Euro begrenzt.
+•
+Die Bank Austria haftet bei Missbrauch Ihrer BankCard, wenn Sie nicht grob fahrlässig damit umgegangen sind.
+###
+Wo kann ich kontaktlos zahlen?
+Weltweit an allen Kassen mit dem Kontaktlos-Symbol oder dem PayPass-Logo – in Österreich unter
+anderem in allen Filialen von Hofer, Zielpunkt, Spar, BILLA, MPreis usw. In Zukunft werden immer mehr
+Unternehmen das kontaktlose Bezahlen unterstützen.
+###
+Wie funktioniert kontaktloses Zahlen?
+1.
+An der Kassa erscheint auf der Anzeige des Lesegerätes der Zahlungsbetrag.
+2.
+Sie werden aufgefordert, Ihre Karte an die sogenannte „Landing-Zone“ zu halten. Diese erkennen Sie an dem
+ Kontaktlos-Zeichen.
+3. Wenn ein grünes Licht leuchtet und ein Signal ertönt, war das Bezahlen erfolgreich, und Ihr Beleg wird gedruckt.
+Wichtig:
+Ihre Karte darf höchstens vier Zentimeter von der Landing-Zone entfernt und nicht in der Geldbörse sein.
+###
+Woran erkenne ich, dass das kontaktlose Zahlen erfolgreich war?
+•
+Sie sehen ein grünes Licht leuchten.
+•
+Sie hören ein akustisches Signal.
+•
+Ihr Kassa-Beleg wird gedruckt.
+###
+Mit welchen Karten der Bank Austria kann ich kontaktlos bezahlen?
+Alle BankCards und MegaCards, die ein Bankomatkassen-Limit besitzen, sind mit der Kontaktlos-Funktion ausgestattet. Die
+Karte wird dadurch nicht teurer.
+###
+Wie kann ich so rasch wie möglich kontaktlos bezahlen?
+Bestellen Sie Ihre neue Karte in Ihrer Bank Austria Filiale. Ihre PIN bleibt gleich. Mit der neuen Karte muss die erste Zahlung
+mittels PIN-Eingabe erfolgen, ab dann ist die kontaktlose Zahlung möglich. Somit ist sichergestellt, dass nur Sie als berechtigter
+Karteninhaber die Kontaktlos-Funktion freischalten können.
+###
+Woran erkenne ich, ob ich mit meiner Karte kontaktlos
+bezahlen kann?
+Am Kontaktlos-Logo auf der Kartenvorderseite.
+###
+Kann ich auch mit einer Kreditkarte kontaktlos bezahlen?
+Ja, alle VISA und MasterCard Kreditkarten werden mit der
+Kontaktlos-Bezahlfunktion ausgegeben, und auch hier gilt das Limit
+von 25 Euro.
+###
+Kann ich auch eine Bankkarte ohne Kontaktlos-Funktion erhalten?
+Ja, wenn Sie es wünschen, bestellen wir für Sie eine neue
+BankCard ohne Kontaktlos-Funktion. Wenden Sie sich bitte an Ihre
+Betreuerin bzw. Ihren Betreuer, die 24h ServiceLine unter 05 05
+05-25 oder geben Sie Ihren Wunsch im OnlineBanking bekannt.
+###
+Funktioniert kontaktloses Bezahlen auch mit Quick?
+Ja, an gekennzeichneten Kassen kann auch mit Quick kontaktlos bezahlt werden – voraus
+gesetzt, der Quick-Chip wurde
+im Vorhinein geladen. Der Betrag wird automatisch vom Quick-Guthaben abgezogen. Reicht der geladene Quick-Betrag
+nicht aus, wird der Bezahlbetrag direkt vom Konto abgebucht.
+###

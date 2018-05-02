@@ -1,0 +1,63 @@
+###
+Was ist boon.?
+
+boon. ist eine Bezahl-App für Smartphones. Die App kommuniziert per Near-Field-Communication (NFC) mit den Kassenterminals im Handel. Um mit boon. zu bezahlen, hältst Du Dein Smartphone einfach mit ca. 1 cm Abstand über das Display des Bezahl-Terminals oder nutzt die boon. Card fürs Online Shopping.
+
+###
+
+Was sind die Vorteile von boon.?
+
+    Einfach, smart und sicher bezahlen per Smartphone
+    Die Ausgaben immer im Überblick
+    Verkäufer bekommt Bankverbindung und Kreditkartendaten nicht zu sehen
+    Nach dem App-Download kann boon. sofort genutzt werden
+    Einfache Aufladung über die Kreditkarte
+    boon. kann mit allen Mobilfunkanbietern genutzt werden.
+
+###
+
+ Wie kann ich die boon. Card aktivieren?
+
+Drücke in deiner boon. App den „+“ Button und wähle „boon. Card“ aus. Aus Sicherheitsgründen musst Du, um in diesen Bereich zu gelangen, immer Dein Passwort eingeben. Nachdem Du die akutalisierten AGBs akzeptiert hast, wird Deine boon. Card generiert. Bitte schließe die App in dieser Zeit nicht und stelle sicher, dass du mit dem Internet verbunden bist. Um online bezahlen zu können, muss deine boon. Card aktiviert sein.
+###
+Was kostet boon.?
+
+Eine Übersicht über Gebühren, maximales Guthaben und Aufladelimits findest Du hier. Diese gelten sowohl für Zahlungen im Handel, als auch online mit der boon. Card.
+###
+Für welche Smartphones ist boon. verfügbar?
+
+Die boon. App ist im Google Play Store verfügbar für alle NFC-fähigen Smartphones, die mit Android 4.4 oder höher laufen.
+###
+Wie kann ich mit boon. bezahlen?
+
+Du kannst mit boon. an jedem NFC-fähigen Bezahlterminal bezahlen, das Mastercard akzeptiert. Du kannst Deine boon. Card auch beim Online-Shopping verwenden.
+
+boon. Card stellt eine Kartennummer und CVC bereit, die du beim Online-Checkout-Vorgang verwenden kannst.
+###
+Woran erkenne ich ein NFC-fähiges Terminal?
+
+Ein NFC-fähiges Kassenterminal erkennst Du daran, dass ein NFC Symbol NFC Symbol auf dem Terminal abgebildet ist. Je nach Kassenterminal kann das Symbol oben, seitlich oder auch nur klein auf dem Display abgebildet sein. Ein weiteres Erkennungsmerkmal sind die PayPass-Logos am Eingang einiger Geschäfte.
+###
+Wie kann ich mit boon. an einem NFC-fähigen Terminal bezahlen?
+
+Du hast zwei Möglichkeiten an einem NFC-fähigen Terminal mit boon. zu bezahlen:
+
+    Öffne die App, tippe auf den weißen „Tap & Pay“ Bereich und gib anschließend deine PIN ein bzw. entsperre die App mit deinem Fingerabdruck (möglich ab Android 6.0). Halte dann dein Smartphone mit ca. 1 cm Abstand an das Display des Bezahl-Terminals, bis der Bezahlvorgang abgeschlossen ist.
+    Alternativ kannst du die App öffnen und dein Smartphone direkt an das Terminal halten. Du wirst dann aufgefordert, deine PIN einzugeben bzw. das Handy mit deinem Fingerabdruck zu entsperren. Anschließend hältst du dein Smartphone erneut an das Terminal. Erfahrungsgemäß gibt es einige Terminals, die diese Variante nicht unterstützen. Bitte nutze in einem solchen Fall die erste Variante.
+###
+Kann ich boon. auch im Ausland nutzen?
+
+Ja, Du kannst boon. an allen NFC-fähigen Kassenterminals im In- und Ausland nutzen, die MasterCard akzeptieren.
+Bitte beachte, dass boon. BASIC aufgrund gesetzlicher Auflagen in Deutschland und Spanien dort nur für inländische Transaktionen verwendet werden kann.
+###
+Kann ich mit boon. Bargeld am Automaten abheben?
+
+Eine Bargeldauszahlung am Automaten ist aktuell nicht möglich.
+Kann ich mit boon. bezahlen, wenn ich gerade offline bin und keine Internetverbindung habe?
+
+Ja, Du kannst auch dann mit boon. bezahlen, wenn der mobile Daten- oder WLAN-Empfang deaktiviert ist. Für jeden Bezahlvorgang wird ein vorab generierter Code verwendet, der aus Sicherheitsgründen nur einmal benutzt werden kann. Du kannst immer fünf Bezahlvorgänge im Offline-Modus durchführen, danach benötigst Du wieder eine Internetverbindung, um neue Codes zu generieren.
+###
+Werde ich benachrichtigt, wenn ich keine Codes mehr habe?
+
+Sobald nur noch ein Bezahlvorgang möglich ist, erhältst Du eine Benachrichtigung von Deiner boon. App.
+###
