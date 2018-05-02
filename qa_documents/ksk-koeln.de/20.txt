@@ -1,0 +1,14 @@
+###
+
+Was müssen Rechnungssteller beim Erstellen von Zahlscheinen beachten?
+
+Die Grundlage zum Versand von Zahlscheinen bildet die Sondervereinbarung für die Herstellung und Ausgabe von Zahlscheinen.
+
+Die Vorgaben für die SEPA-Zahlscheine finden Sie in den 'Richtlinien für einheitliche Zahlungsverkehrsvordrucke'. Diese stehen auf den Seiten der Deutschen Kreditwirtschaft zum Download zur Verfügung: www.die-deutsche-kreditwirtschaft.de/dk/zahlungsverkehr/konventioneller-zahlungsverkehr/vordrucke.html .
+###
+Was ändert sich mit SEPA bezogen auf zahlungsbilanzstatistische Meldepflichten?
+Die Deutsche Bundesbank hat bereits mit Wirkung vom 31. Dezember 2007 in der 82. Verordnung zur Änderung der Außenwirtschaftsverordnung (AWV) alle SEPA-Zahlungen von zahlungsbilanzstatistischen Meldungen im Rahmen des Zahlungsverkehrs ausgenommen und sich die erforderlichen Informationen von den meldepflichtigen Unternehmen direkt einreichen lassen.
+SEPA-Zahlungen sind ausschließlich mit elektronischen Meldungen entsprechend Anlage Z 4 direkt vom Meldepflichtigen oder von einem von ihm beauftragten Dienstleister in offener Stellvertretung bei der Deutschen Bundesbank einzureichen. Als Standardverfahren für die elektronischen Meldungen bietet die Deutsche Bundesbank hierfür das Allgemeine Meldeportal Statistik (AMS) an. Es werden aber auch selbstprogrammierte Verfahren akzeptiert, wenn sie den Formvorschriften der Deutschen Bundesbank entsprechen.
+Weitergehende Informationen zum außenwirtschaftlichen Meldewesen erhalten Sie auf der Website der Deutschen Bundesbank.
+
+###

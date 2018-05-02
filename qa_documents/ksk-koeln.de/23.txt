@@ -1,0 +1,14 @@
+###
+
+Welche Kommunikationsadresse muss ich in meiner Software angeben?
+
+Die Adresse für das PIN/TAN-Verfahren lautet: https://banking-rl6.s-fints-pt-rl.de/fints30 und die Adresse für das HBCI-Verfahren mit Chipkarte lautet: banking-rl6.s-fints-pt-rl.de
+###
+Wie lautet nach einer Erst- bzw. Neuinstallation von SFirm der Benutzername und das Kennwort für den Ersteinstieg?
+
+Bitte die exakte Schreibweise beachten!
+
+Benutzername: sfirm
+
+Kennwort:        sfirm
+###

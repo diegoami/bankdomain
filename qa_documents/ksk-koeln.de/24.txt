@@ -1,0 +1,87 @@
+###
+
+Wie kann ich feststellen, ob meine Überweisung korrekt angenommen wurde?
+
+Im Regelfall wird Ihr Auftrag direkt verbucht, so dass Sie ihn direkt unter den aktuellen Umsätzen aufrufen können (mit Ausnahme terminierter Aufträge).
+
+In jedem Fall erhalten Sie nach dem Absenden eine Bestätigungsmeldung über den Erhalt der Überweisung.
+
+Sollten Sie einen Auftrag vermissen, wenden Sie sich bitte an Ihren Berater.
+###
+Wer ist mein Ansprechpartner für Fragen, Produkte und Dienstleistungen im Electronic Banking?
+
+Sie wünschen eine Beratung:
+Telefon: 0221/227-4100
+Telefax:  0221/227-4300
+E-Mail: eb-vertrieb(at)ksk-koeln.de
+
+Erreichbarkeit der Ansprechpartner:
+Montag bis Donnerstag                     08:30 - 16:30 Uhr
+Freitag                                                  08:30 - 16:00 Uhr
+
+
+Sie benötigen Hilfe zu unserer Software:
+Telefon: 0221/227-4200
+E-Mail: hotline(at)ksk-koeln.de
+
+Die Hotline ist rund um die Uhr an sieben Tagen in der Woche erreichbar.
+
+
+Sie benötigen Hilfe zu Ihrem Kartenterminal oder dem Tagesabschluss:
+Bitte wenden Sie sich in diesem Fall an den Support Ihres Terminalherstellers.
+In der Regel steht eine Kontaktadresse auf dem Terminal.
+###
+
+Kann ich das S-Tagesgeld online auch für das EBICS-Verfahren (ELKO) freischalten?
+
+Ja, eine Freischaltung ist möglich. Bitte wenden Sie sich dazu an Ihren Berater.
+###
+Kann ich über das Online-Banking SEPA-Lastschriften einziehen?
+
+Ein Lastschrifteinzug von SEPA-Basis- und SEPA-Firmenlastschriften ist sowohl über unser Online-Banking als auch über eine Homebanking-Software möglich. Voraussetzung hierfür ist, dass Sie mit uns eine entsprechende Lastschrift-Inkassovereinbarung getroffen haben.
+
+Weitere Informationen zu SEPA-Themen finden Sie hier: https://www.ksk-koeln.de/sepa
+###
+Was passiert mit meinen Überweisungen, die das Tageslimit überschreiten?
+
+Diese Aufträge werden nicht verbucht. Sie erhalten sofort eine entsprechende Information hierüber.
+###
+Kann ich die Höhe meiner täglichen Online-Überweisungen verändern?
+
+Sie können jederzeit das Überweisungslimit anpassen lassen. Falls Sie nur einmalig eine höhere Zahlung vornehmen möchten, können Sie sogar ein einmaliges Tageslimit vereinbaren. Am nächsten Tag gilt wieder das ursprüngliche Limit.
+
+Eine Änderung können Sie über Ihren Berater, unsere telefonische Kundenberatung (0221-2277000) oder unsere Online-Experten (0221-2274200) vornehmen lassen.
+###
+
+Bis wieviel Uhr werden gesendete Aufträge verarbeitet?
+
+Ihre Online-Aufträge werden rund um die Uhr angenommen.
+
+Innerhalb eines Bankarbeitstages werden Ihre elektronisch übermittelten Zahlungsaufträge sofort automatisch weiterverarbeitet.
+
+Beim Onlinebanking werden Ihre Zahlungsaufträge, die bis 20:00 Uhr bei uns eingegangen sind, noch am gleichen Bankarbeitstag verarbeitet und anschließend direkt in Ihren Kontoumsätzen dokumentiert.
+
+Bei der elektronischen Kontoführung über EBICS werden Ihre Zahlungsaufträge, die Sie bis 19:00 Uhr mit Ihrer elektronischen Unterschrift bestätigt haben, noch am selben Bankarbeitstag verarbeitet.
+
+Für die Verarbeitung von SEPA-Lastschriften beachten Sie bitte die Einreichungsfristen.
+###
+Wie kann ich erkennen, ob meine Überweisung auch wirklich ausgeführt wurde?
+
+Im Regelfall wird Ihr Auftrag direkt verbucht, so dass Sie ihn direkt unter den aktuellen Umsätzen aufrufen können (mit Ausnahme terminierter Aufträge).
+
+In jedem Fall erhalten Sie nach dem Absenden eine Bestätigungsmeldung über den Erhalt der Überweisung.
+
+Folgende Unterscheidung ist jedoch hierbei zu beachten.
+
+    Überweisung wurde ausgeführt:
+    Durch die Direktverbuchung erscheint der Belastungsbetrag der Überweisung sofort in Ihrer Umsatzliste.
+    Überweisung wurde nicht ausgeführt (z.B. bei nicht ausreichender Deckung auf dem Konto):
+    Dieser Betrag erscheint dann in der "Liste der vorgemerkten Umsätze".
+    Bitte setzen Sie sich bei Fragen hierzu mit Ihrem Berater in Verbindung.
+###
+Meine Buchung wurde mit der Meldung angenommen, dass ein entsprechender Auftrag schon vorliegt. Was kann ich tun?
+
+Der Hinweis erscheint, sobald Sie in den letzten Tagen eine identische Buchung durchgeführt haben. Dies dient dem Schutz vor einer irrtümlichen Doppelbuchung.
+Wünschen Sie dennoch eine Ausführung, so verändern Sie bitte bei einer Einzelbuchung den Verwendungszweck innerhalb der ersten 27 Stellen des Verwendungszwecks.
+Bei Sammelbuchungen verändern Sie die Anzahl der Posten. Ggf. splitten Sie den Auftrag.
+###

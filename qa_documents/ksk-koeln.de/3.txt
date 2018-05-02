@@ -1,0 +1,380 @@
+###
+Was versteht man unter einem Annuitätendarlehen?
+
+Bei Annuitätendarlehen wird eine jährlich gleichbleibende Summe für die Zins- und Tilgungsleistungen vereinbart.
+
+Beispiel:
+Darlehen über EUR 100.000,00 mit 2 % Tilgung und 3 % Zinsen, ergibt 5 % pro Jahr Leistung vom ursprünglichen Darlehensbetrag = EUR 5.000 : 12 = EUR 416,67 mtl. Leistung. Da die zu zahlenden Zinsen mit fortschreitender Tilgung des Darlehens abnehmen, erhöht sich der Tilgungsanteil um den ersparten Zinsanteil.
+###
+Was versteht man unter Tilgung?
+
+Die Tilgung gibt an, wie viel der Kunde von dem Darlehen in einem Jahr zurückzahlt. Für die laufende Darlehensrückzahlung wird aktuell in der Regel ein Tilgungssatz von 2 % p.a. zuzüglich ersparter Zinsen vereinbart.
+
+Damit ist für die gesamte Dauer der Sollzinsfestschreibung eine gleichbleibende Jahresleistung (Annuität) zu zahlen. Die durch das Abnehmen der Darlehensschuld ersparten Zinsen werden zur Erhöhung des Tilgungsanteils in jeder einzelnen Leistungsrate verwandt.
+
+Eine abweichende Tilgung ist auf Anfrage möglich.
+###
+Was ist eine Sondertilgung?
+
+Die Sondertilgung bietet die Möglichkeit auch während einer laufenden Sollzinsfestschreibung außerplanmäßig Beträge zur Darlehensrückführung zu leisten. Der Umfang und die weiteren Voraussetzungen dieser Sondertilgungen sind im Darlehensvertrag geregelt.
+###
+Was passiert bei Ablauf der Zinsbindungsfrist?
+
+Zum Ablauf der Zinsbindungsfrist des Darlehens können die neuen Konditionen (Bedingungen) mit dem Kreditinstitut neu verhandelt werden. Dies kann auch schon zeitlich vor dem eigentlichen Ablauf erfolgen, z.B. 3 Jahre vor Ablauf der Zinsfestschreibung (sogenanntes "Forwarddarlehen"). In der Regel erhält der Darlehensnehmer rechtzeitig zum Anpassungstermin automatisch ein Angebot zur Anschlussfinanzierung.
+###
+Wann kommt es zu einer Konditionenanpassung?
+
+Nach Ablauf der Sollzinsfestschreibung werden die Konditionen des Darlehens zwischen dem Kreditinstitut und Darlehensnehmer neu vereinbart. Üblicherweise werden dem Darlehensnehmer dazu rechtzeitig vor Ablauf der Festschreibungszeit Verlängerungskonditionen angeboten (z. B. einen aktuellen Sollzinssatz, veränderte Zahlungsmodalitäten u. ä.). Kommt eine Vereinbarung zustande, besteht der Darlehensvertrag im übrigen fort. Ansonsten wird der Vertrag mit veränderlichem Zins fortgeführt.
+###
+Was ist eine Grundschuld?
+
+Die Grundschuld ist ein Grundpfandrecht, mit dem ein Grundstück zur Sicherung eines Darlehens durch Eintragung im Grundbuch belastet wird. Die Grundschuld hat in der Praxis in den letzten Jahren die Hypothek aufgrund ihrer rechtlichen Ausgestaltung und besseren Handhabung (z. B. bei Konditionenanpassung, Umschuldung, Abtretung) bei der Baufinanzierung verdrängt.
+###
+Gibt es einen Unterschied zwischen Grundschuld und Hypothek?
+
+Die Hypothek ist ein Pfandrecht an einem Grundstück wegen einer bestimmten Forderung, d.h. die Hypothek ist an die Forderung gebunden. Ein langfristiges Baudarlehen (Hypothekendarlehen) wurde früher durch die Eintragung einer Hypothek im Grundbuch zu Gunsten des Darlehensgebers abgesichert. Heute wird sie weitgehend durch die einfacher zu handhabende Grundschuld ersetzt, da diese keine Forderung voraussetzt. Auf die Grundschuld finden alle Vorschriften über die Hypothek Anwendung. Im allgemeinen Sprachgebrauch wird unter Hypothek auch ein langfristiges, im Grundbuch abgesichertes Darlehen verstanden.
+###
+Wofür benötigt man eine Bürgschaft?
+
+Durch eine Bürgschaft verpflichtet sich der Bürge gegenüber dem Gläubiger eines Dritten (im allgemeinen gegenüber dem Kreditinstitut des Darlehensnehmers), für die Schulden des Dritten mit seinem privaten Vermögen einzustehen. In der Regel verlangt das Kreditinstitut eine selbstschuldnerische Bürgschaft, bei der auf den Bürgen zurückgegriffen werden kann, ohne dass die Zahlungsunfähigkeit des Hauptschuldners feststehen muss.
+
+Bei der Baufinanzierung werden folgende Bürgschaften akzeptiert:
+
+    als Zusatzsicherheit: Bürgschaften durch Kreditinstitute und Privatpersonen
+    im öffentlich geförderten Wohnungsbau: Bürgschaften durch die Wohnungsbauförderungsanstalten, die Bundesländer, u. a.
+    bei Nachrangfinanzierungen: durch Kreditinstitute (häufig nur öffentlich-rechtliche Kreditinstitute).
+
+###
+
+Was sind nachrangige Darlehen?
+
+Alle Darlehen, die üblicherweise über 60 % des Beleihungswertes ausgegeben werden. Die Konditionen liegen über denen für erstrangige Darlehen.
+###
+
+Was versteht man unter einer Umschuldung?
+
+Unter Umschuldung versteht man die Ablösung eines bestehenden Kredites durch ein neues Darlehen, in der Regel um kurzfristige Kredite (z. B. Zwischenfinanzierungen) in langfristige Darlehen oder ein variables Darlehen in ein Festzinsdarlehen umzuwandeln.
+###
+Was versteht man unter dem Kaufpreis?
+
+Der Kaufpreis ist der im Notarvertrag vereinbarte Preis für ein zu erwerbendes Objekt. Beim Erwerb eines Hauses verstehen wir darunter den Kaufpreis inkl. Grundstück. Nebenkosten wie Notar- und Grundbuchgebühren, Grunderwerbssteuer sowie Maklerprovision werden hier nicht berücksichtigt.
+###
+
+Was versteht man unter einem erstrangigen Darlehen?
+
+Alle Darlehen, die üblicherweise bis zu 60 % des Beleihungswertes ausgegeben werden. Aufgrund der besseren Absicherung sind die Konditionen günstiger als für die nachrangigen Darlehen.
+###
+Was versteht man unter Objektkosten?
+
+Unter Objektkosten versteht man den Kaufpreis für das Grundstück, Gebäude, die Nebengebäude einschließlich Garagen und Außenanlagen.
+###
+Was versteht man unter Grundstückskosten?
+
+Kaufpreis eines Grundstücks ohne Nebenkosten wie Notar- und Grundbuchgebühren, Grunderwerbssteuer sowie Maklerprovision.
+###
+Woran orientiert sich der Grundstückswert?
+
+Der Wert eines Grundstücks orientiert sich an dem Preisniveau in der Grundstücksgegend.
+###
+Was versteht man unter Gesamtkosten?
+
+Als Gesamtkosten bezeichnet man alle Kosten, die unmittelbar objektbezogen sind = Objektkosten (Kaufpreis des Grundstückes, Erschließungskosten, Kosten für Aushub, Gebäudekosten incl. Nebengebäude wie Garagen, Außenanlagen, Aus- und Umbaukosten bei Immobilienkauf, etc.), die Maklercourtage -sofern diese anfällt - und die sonstigen Erwerbskosten in Höhe von ca. 8,00 % für Notar, Grundbucheintragungen und Grunderwerbsteuer.
+###
+Was sind Baunebenkosten?
+
+Die Summe der Kosten, die bei der Errichtung von Bauten zusätzlich neben den Baukosten aufgewandt werden muss, bezeichnet man als Baunebenkosten. Dazu gehören z. B. Architektenhonorar, Kosten der Statiker und Prüfingenieure, Gebühren für Baugenehmigungsverfahren und amtliche Prüfungen (z.B. Bauabnahmen). Die Kosten können zusätzlich zu den reinen Baukosten zwischen 10 % und 20 % der Gesamtkosten ausmachen.
+
+Nicht dazu zählen eventuelle Finanzierungskosten, wie z. B. Damnum (Disagio), Bearbeitungs-, Schätzgebühren, Bauzeitzinsen und Bereitstellungszinsen.
+###
+Was versteht man unter dem Bodenwert?
+
+Der Bodenwert ist der Wert des Grundstücks ohne aufstehende Gebäude. Er ist abhängig von Größe, (Aus-)Nutzung, Beschaffenheit, Lage und Bebauungsfähigkeit eines Grundstücks. Wertbeeinflussende Faktoren können z. B. Grunddienstbarkeiten, benachbarte Industrieanlagen, Baubeschränkungen wie auch Verkehrsanbindungen sein. Der Bodenwert kann durch Preisvergleich ermittelt werden. Die Filialen der Gutachterausschüsse bei den Katasterämtern erteilen hierzu Auskünfte über die jährlich ermittelten Bodenrichtwerte, wie sie für das jeweilige Gebiet typisch sind.
+###
+
+Welche Kosten fallen unter die Erwerbsnebenkosten?
+
+Erwerbsnebenkosten sind u.a. Kosten für Maklercourtage, Grundbucheintragungen, Notarkosten, Grunderwerbsteuer. Insgesamt gilt als Faustregel ca. 8,00 % des Kaufpreises zzgl. Maklercourtage.
+###
+Was versteht man unter Erschließungskosten?
+
+Erschließungskosten sind Kosten, die für den Anschluss des Grundstücks an das öffentliche Versorgungsnetz entstehen. Dazu zählen u.a. die Kosten für den Anschluss an die Wasserversorgung, Kanalisation und die Energieversorgung (Strom, Gas). Der Grundstückseigentümer wird nach der kommunalen Gebührenordnung an den Kosten beteiligt. In der Regel trägt er ca. 90 % der von der Gemeinde aufgewendeten Kosten. Die Erschließungskosten können u.a. auch anteilig Kosten für den Straßenbau und die Schaffung öffentlicher Kinderspielplätze enthalten. Sind die Erschließungskosten bereits in den Grundstückskosten enthalten, entfällt dieser separate Kostenpunkt.
+###
+
+Was versteht man unter Erschließung eines Grundstückes?
+
+Unter der Erschließung eines Grundstücks versteht man den Anschluss des Grundstücks an das öffentliche Versorgungsnetz. Dazu zählen die Anschlüsse an die Wasserversorgung, Kanalisation und Energieversorgung (Strom, Gas). Für die Durchführung der Maßnahmen sind die Gemeinden und Versorgungsträger zuständig. Es werden folgende Erschließungsarten unterschieden:
+
+Vollerschlossen: Es bestehen sämtliche Anschlüsse zur Versorgung mit Strom, Wasser, Gas usw.
+
+Teilerschlossen: Es besteht bereits ein Teil der Versorgungsanschlüsse.
+
+Nicht erschlossen: Es gibt noch keinen Zugang zu Strom, Wasser, Gas usw.
+###
+Was wird im Darlehensvertrag vereinbart?
+
+Der Darlehensvertrag ist ein Vertrag, der zwischen Kreditinstitut und Darlehensnehmer, z. B. zur Finanzierung einer Immobilie, geschlossen wird. Vereinbart werden hier die Höhe der Darlehenssumme, Art und Höhe der Rückzahlungen, Gültigkeitsdauer der Konditionen, Art der Ab-/Besicherung, Zins- und Tilgungssatz etc.
+###
+Was versteht man unter den Bewirtschaftungskosten?
+Die Bewirtschaftungskosten sind die Kosten, die für die laufende Unterhaltung einer Immobilie aufgebracht werden müssen.
+Hierzu zählen: Grundsteuer, Wasser inkl. Abwasser, Heizung, Warmwasser, Aufzug, Straßenreinigung, Müllbeseitigung, Gebäudereinigung, Gartenpflege, Allgemein Strom, Schornsteinreinigung, Versicherungen, Hauswart, Antenne/Kabel und Sonstiges für das Gebäude.
+###
+Was versteht man unter dem Verkehrswert?
+
+Der Verkehrswert einer Immobilie ist der Marktwert, der über den aktuell erzielbaren Sach- oder Vergleichswert oder den Ertragswert (bei Mietobjekten) unter Würdigung der allgemeinen Situation auf dem Immobilienmarkt und der örtlichen Gegebenheiten stichtagsbezogen ermittelt und bestimmt wird.
+###
+Was versteht man unter dem Beleihungswert?
+
+Der Beleihungswert ist die vom jeweiligen Finanzierungsinstitut - aufgrund gesetzlicher Regelungen - festzulegende Größe zur Beleihung einer Immobilie. Diese Größe ist entscheidend für die Beleihung. Die Finanzierungsinstitute beleihen i.d.R. 60 % des Beleihungswertes zu sog. erstrangigen Darlehen mit erstrangigen Konditionen (= erstrangige Sicherheiten).
+###
+Was versteht man unter dem Ertragswert?
+
+Der Ertragswert bildet bei vermieteten Immobilien und sonstigen Renditeobjekten die Grundlage für die Ermittlung des Beleihungswertes. Er stellt den wirtschaftlichen Wert der Immobilie dar und berechnet sich aus den auf Dauer nachhaltig erzielbaren Mieteinnahmen nach Abzug der Bewirtschaftungskosten.
+###
+Was versteht man unter Eigenkapital?
+
+Unter Eigenkapital versteht man sämtliche Mittel, wie Bargeld, Bank- und Sparguthaben, Bausparguthaben, Erlös aus dem Verkauf von Wertpapieren, bezahltes Grundstück, die sofort in die Finanzierung eingebracht und nachgewiesen werden können.
+###
+Was ist unter Eigenleistung zu verstehen?
+
+Unter Eigenleistungen wird Ihre persönliche Arbeitsleistung verstanden, die Sie im Zusammenhang mit dem Bau, der Renovierung bzw. Modernisierung der Immobilie erbringen. Bei der Einschätzung der von Ihnen geplanten Eigenleistungen orientieren Sie sich bitte an den Kosten, die bei der Fremdvergabe der Arbeiten anfallen würden.
+Die Anrechenbarkeit von Eigenleistungen im Rahmen der Finanzierung ist abhängig von der Qualifikation des Antragstellers bzw. derjenigen, die für ihn die Eigenleistungen erbringen wollen.
+###
+Wozu dient ein Einkommensnachweis?
+
+Damit das Kreditinstitut im Rahmen seiner Sorgfaltspflicht und Prüfungsaufgaben ein beantragtes Darlehen bewilligen kann, benötigt es vom Darlehensnehmer verlässliche Einkommensnachweise. Diese werden sowohl für die Bonitätsprüfung als auch für die Ermittlung der Belastungsgrenze herangezogen. Als verlässliche Nachweise gelten: Verdienstbescheinigungen des Arbeitgebers, Gehaltsabrechnungen, Einkommensteuerbescheide und -erklärungen, Bilanzen mit Gewinn- und Verlustrechnung sowie testierte betriebswirtschaftliche Auswertungen.
+###
+
+Was versteht man unter Lebenshaltungskosten?
+
+Lebenshaltungskosten sind die Kosten, die von einem Haushalt aufgebracht werden, um das Leben zu bestreiten (wie z.B. Versicherungen, Verpflegung, Unterkunft, Bekleidung, Bildung und Ausbildung, Unterhaltung, Sport und Reisen, die Haltung von Tieren, lfd. KFZ-Kosten).
+###
+Was versteht man unter "Außenanlagen"?
+
+Zu den Außenanlagen gehören Garten- und Hofanlagen, Wege, Einfriedungen, Stützmauern, Entwässerungs- und Versorgungsanlagen vom Hausanschluss bis zur Grundstücksgrenze bzw. zur öffentlichen Fläche. Die durchschnittlichen Kosten für Außenanlagen liegen bei 5 % der Baukosten.
+###
+Wie berechnet sich die Wohnfläche?
+
+Anrechenbare Grundflächen:
+
+    zu 100 % werden die Grundflächen von Räumen mit einer Höhe von mindestens 2 m angerechnet.
+    zu 50 % werden die Grundflächen bei einer Höhe von 1-2 m angerechnet.
+    zu max. 50 % werden Balkone, Loggien und Dachgärten angerechnet,
+    wenn sie ausschließlich zu Ihrem Wohnraum gehören.
+    Nicht anrechenbar: Keller, unausgebaute Dachböden, Waschküchen, Trocken- und Heizungsräume.
+
+###
+
+Wozu dient der Darlehensantrag?
+
+Der Darlehensantrag - auch Kreditantrag, Darlehensanfrage oder Finanzierungsantrag genannt - beinhaltet alle für die Kreditentscheidung wichtigen Daten des Darlehensnehmers sowie die Objektdaten und den Finanzierungsplan. Er dient dem Kreditinstitut zur Bewertung und Beurteilung der beantragten Finanzierung.
+###
+
+
+Was versteht man unter dem Begriff "Umbauter Raum"?
+
+Der umbaute Raum wird durch Länge x Breite x Höhe der einzelnen Räume in Ihrem Finanzierungsobjekt errechnet.
+###
+
+Was zählt zu den Renovierungskosten?
+
+Zu den Renovierungskosten zählen alle werterhaltenden Maßnahmen und die sogenannten Schönheitsreparaturen wie beispielsweise das Tapezieren, Anstreichen der Wände und der Decken, das Pflegen der Fußböden, das Streichen der Türen, der Fenster und der Heizkörper.
+###
+
+Was ist eine Löschungsbewilligung?
+
+Mit der Löschungsbewilligung erklärt das Kreditinstitut nach Rückzahlung des Darlehens, dass es die Löschung des Grundpfandrechtes (Hypothek oder Grundschuld) im Grundbuch bewilligt. Der Eigentümer kann dann die Löschung im Grundbuch über einen Notar beantragen.
+###
+Was muss man beim Bauantrag beachten?
+
+Ein Bauantrag ist schriftlich mit allen für seine Bearbeitung sowie für die Beurteilung des Bauvorhabens erforderlichen Unterlagen (Bauvorlagen) in ausreichender Zahl bei der Bauaufsichtsbehörde einzureichen. Der offizielle Bauantragsvordruck muss vom Bauherrn und vom vorlageberechtigten Entwurfsverfasser (Architekt, Ingenieur, ggf. Bauunternehmer) unterschrieben sein. Der Entwurfsverfasser muss außerdem eine Haftpflichtversicherung nachweisen.
+
+
+###
+Wofür benötigt man eine Bauherrenhaftpflicht?
+
+Die Bauherrenhaftpflicht deckt Schäden, die Dritte auf dem Baugrundstück und durch die Baumaßnahme erleiden könnten und für die der Bauherr haftbar gemacht werden kann (Unfälle von Handwerkern sind i. d. R. über deren Versicherungen abgedeckt).
+###
+Was beinhaltet die Bauordnung?
+
+Die jeweiligen Bauordnungen der Länder regeln alle Bau- und Umbaumaßnahmen. Es ist ein nach der Bauordnung des jeweiligen Bundeslandes vorgeschriebenes förmliches Verfahren für die Genehmigung einer Baumaßnahme, ohne die mit der Durchführung des Baus nicht begonnen werden darf. Die örtlich und sachlich zuständigen Behörden sind für die Überwachung, die Erlaubnis und die Einstellung der Maßnahmen verantwortlich und prüfen die materiellrechtlichen Voraussetzungen für die Errichtung, die Änderung und den Abbruch baulicher Anlagen. Die Bauordnungen enthalten darüber hinaus u.a. Bestimmungen über die Bauabnahme, die Aufgaben der Bauaufsicht, die bautechnische Sicherheit, die Schall- und Wärmeisolierung und den Feuerschutz.
+###
+Welche Informationen enthält ein Bebauungsplan?
+
+Er enthält die rechtsverbindliche Festsetzung der zulässigen baulichen Nutzung und unterliegt dem Öffentlichkeitsprinzip, d. h., man hat ein Recht darauf, den Bebauungsplan einzusehen. Geregelt werden alle wesentlichen Angaben über die künftige Gestaltung des Gebietes, in dem der Bebauungsplan gilt. Zu ersehen sind neben Straßen, Grünanlagen und bebaubaren Flächen auch
+
+    überbaubare und nicht überbaubare Grundstücksflächen
+    Baugrenzen
+    Anzahl der Geschosse
+    Mindestgröße, -breite und -tiefe der Baugrundstücke
+    Flächen für Nebenanlagen (Spiel-, Freizeit- und Erholungsflächen, Stellplätze, Garagen)
+    überwiegend für die Bebauung mit Familienheimen vorgesehene Flächen
+    Flächen, die von der Bebauung freizuhalten sind
+    Verkehrsflächen.
+
+###
+
+Was ist eine Baulast?
+
+Baulasten sind im Baulastenverzeichnis eingetragene öffentlich-rechtliche Beschränkungen der Bebaubarkeit bzw. Nutzbarkeit eines Grundstücks. Die Einsichtnahme in dieses Verzeichnis empfiehlt sich vor einem Grundstückserwerb. Das Baulastenverzeichnis wird bei den Bauordnungsämtern geführt.
+###
+
+Was ist ein Grundbuch?
+
+Das Grundbuch ist ein beim Amtsgericht geführtes Register, in dem insbesondere die Eigentumsverhältnisse an Grundstücken und die mit dem Grundstück verbundenen Rechte und Belastungen (z. B. Grunddienstbarkeiten, Hypotheken und Grundschulden) eingetragen sind.
+###
+Warum ist eine notarielle Beurkundung erforderlich?
+
+Bei Abschluss wichtiger Geschäfte, insbesondere bei Verträgen über den Kauf oder die Belastung von Grundstücken mit Grundpfandrechten verlangt der Gesetzgeber eine notarielle Beurkundung.
+###
+
+Welche Darlehensunterlagen benötigt das Kreditinstitut?
+
+Für die Bewilligung eines Darlehens müssen dem Kreditinstitut zusammen mit dem Darlehensantrag Bonitäts- und Objektunterlagen eingereicht werden, damit es eine fundierte Entscheidung treffen kann.
+
+Üblich sind mindestens:
+
+    Gehalts-/Lohnabrechnungen der letzten 3 Monate (ggf. letzter Rentenbescheid)
+    Nachweis des Vorjahreseinkommens (z. B. Dezemberabrechnung mit Jahressummen)
+    letzter (Einkommens-)Steuerbescheid, möglichst aus dem Vorjahr
+    Baupläne, Bauzeichnung, Grundrissdarstellung (vom Architekten/Bauträger)
+    Berechnung des umbauten Raums (vom Architekten/Bauträger)
+    Wohn-/Nutzflächenberechnung (vom Architekten/Bauträger)
+    aktueller Grundbuchauszug
+    Baubeschreibung (vom Architekten/Bauträger)
+    bei fertigen Gebäuden: falls vorhanden (Wert-)Gutachten, Besichtigungsbericht, Schätzung
+    bei Erbbaurechten: Kopie des Erbbaurechtsvertrages (ggf. Entwurf vom Notar)
+    bei vermieteten Objekten: Mietaufstellung und Kopie(n) der V+V-Anlage(n)
+    aus der letzten Steuererklärung
+    Zusätzlich bei Selbständigen (Freiberufler, Gewerbetreibende)
+    - Einkommensteuerbescheide der letzten 2 Jahre
+      (mindestens drittbestätigte Einkommensteuererklärungen)
+    - unterschriebene Bilanzen der letzten 2 Jahre mit G + V
+    - aktuelle betriebswirtschaftliche Auswertungen mit Vergleichswerten des Vorjahres
+
+Vor der ersten Auszahlung werden weitere Unterlagen notwendig. Diese sind im Darlehensvertrag in der Regel detailliert aufgeführt.
+###
+Wie hoch sind die Notarkosten?
+
+Beim Erwerb eines Grundstücks sind neben den Erschließungskosten, der Grunderwerbssteuer und eventuellen Maklerkosten auch Notar- und Gerichtskosten (bis ca. 2 % vom Kaufpreis) einzukalkulieren.
+###
+Wann fällt die Grunderwerbsteuer an?
+
+Die Grunderwerbsteuer fällt beim Erwerb eines Grundstücks an und wird vom Kaufpreis des Grundstücks sowie dem eventuell darauf errichteten Gebäude berechnet. Sie beträgt in NRW 6,5 %. Bei dem Erwerb des Objektes wird die zu zahlende Steuer also auf Grundlage des Gesamtkaufpreises ermittelt.
+###
+Wann fällt eine Maklerprovision / Maklercourtage an?
+
+Wird eine Immobilie durch einen Makler vermittelt, ist i.d.R. eine Provision dafür zu zahlen.
+
+Bei der Vermietung von Wohnungen gilt seit dem 01.06.2015 das sogenannte Bestellerprinzip. Demnach zahlt derjenige den Makler, der ihn beauftragt hat – meist der Vermieter.
+
+Beim Immobilienverkauf können derzeit noch Verkäufer und Immobilienmakler frei verhandeln, ob der Verkäufer oder der Käufer den Makler bezahlt.
+
+Die Höhe der Provision ist frei vereinbar. Üblich sind je nach Region Provisionssätze in Höhe von 3-6 % des Immobilienkaufpreises zzgl. der gesetzlichen Mehrwertsteuer.
+###
+Was versteht man unter Wohnungseigentum?
+
+Das Wohnungseigentum ist das Allein- oder Sondereigentum an einer Wohnung in Verbindung mit dem Miteigentumsanteil am Gemeinschaftseigentum, zu dem es gehört.
+###
+Was versteht man unter Gemeinschaftseigentum?
+
+Bezeichnung für das Miteigentum nach dem Wohnungseigentumsgesetz, das allen Wohnungseigentümern gemeinschaftlich gehört und dessen Nutzung durch die Gemeinschaft geregelt ist (z. B. Grund und Boden, Treppenhaus, Waschküche, Strom- und Wasserleitungen).
+###
+Was ist eine Wohnungseigentümergemeinschaft?
+
+Eine Wohnungseigentümergemeinschaft (WEG) bezeichnet die Gesamtheit aller Wohnungseigentümer oder Eigentümer von Gewerbeeinheiten, die sich in einer Immobilienanlage befinden. Die Eigentümer können natürliche oder juristische Personen sein, die alleiniges Eigentum an Teilen der Immobilienanlage erworben haben.
+
+Rechte und Pflichten der einzelnen Mitglieder der WEG sind im Wohnungseigentumsgesetz geregelt (WEG-Gesetz). Seit dem Beschluss des Bundesgerichtshofs vom 02.06.2005 – V ZB 32/05 ist die Rechtsfähigkeit der Wohnungseigentümergemeinschaft anerkannt. Rechtsfähigkeit ist die Fähigkeit, Träger von Rechten und Pflichten zu sein.
+
+Aus der Regelung des § 27 Abs. 3 Ziff. 5 WEG-Gesetz ergibt sich, dass alle Bankkonten lautend auf den Namen der WEG zu führen sind.
+
+Was können wir für Sie tun?
+
+Als Wohnungseigentümergemeinschaft werden Ihre Gelder in unserem Hause gemäß des Beschlusses des Bundesgerichtshofs auf Konten angelegt, die die Wohnungseigentümergemeinschaft und nicht den Verwalter als Kontoinhaber führt.
+
+Dies bietet Ihnen folgende Vorteile:
+
+    Ihre Gelder sind vor möglichen Zugriffen privater Gläubiger des Verwalters geschützt.
+    Ihre Gelder sind auch im Falle einer Insolvenz des Verwalters sicher.
+    Der Verwalter erhält die Verfügungsberechtigung über das Konto, ist aber kein Kontoinhaber.
+    Ein möglicher Verwalterwechsel kann durch Änderung der Verfügungsberechtigung und ohne Kontoumschreibung einfach vorgenommen werden.
+    Auf Wunsch kann die WEG zusätzlich zum Verwalter eine Vertrauensperson benennen, die ebenfalls Auskunft über Kontostände erhält und Duplikate der Kontoauszüge anfordern kann.
+
+Was können Sie selber tun?
+
+    Wählen Sie Ihren Verwalter sorgfältig aus. Erkundigungen bei anderen Eigentümergemeinschaften und das Einholen einer Wirtschaftsauskunft sowie weiterer Referenzen können dabei helfen.
+    Bringen Sie bei Ihrer Verwaltung in Erfahrung, ob die Konten der Gemeinschaft noch als Treuhandkonten oder schon als WEG-Konten geführt werden.
+    Sie führen noch alte Treuhandverträge? Dann sprechen Sie Ihren Verwalter aktiv auf eine mögliche Umschreibung an!
+    Bei Vertrauensverlust ist es zudem ratsam die Kontobewegungen zu überprüfen. Auf Antrag können Duplikate der Kontoauszüge angefordert werden.
+    Gewährleisten Sie eine laufende Überprüfung durch den Beirat.
+
+
+Weitere Hinweise zu notwendigen Legitimationsunterlagen und geeigneten Kontoarten für Ihre WEG sowie zu wesentlichen Inhalten der Verwaltervollmacht finden Sie hier:
+
+###
+Was ist eine Teilungserklärung?
+
+Wohnungseigentum kann durch eine Teilungserklärung begründet werden. Hierin wird das Sondereigentum (Wohnungseigentum bzw. Teileigentum) gegen das Gemeinschaftseigentum abgegrenzt und die Größe der Miteigentumsanteile am Grundstück festgelegt. Die Teilungserklärung bedarf der notariellen Beurkundung, eine Änderung der Teilungserklärung der Zustimmung aller Eigentümer.
+###
+
+Was bezeichnet die Wohnungsnummer?
+
+Die Wohnungsnummer bezeichnet die konkrete Wohnung gemäß Teilungserklärung innerhalb einer Gemeinschaftsimmobilie.
+###
+Was ist ein Erbbaurecht?
+
+Erbbaurecht ist das veräußerliche und vererbliche Recht auf fremden Grund und Boden ein Bauwerk zu haben und zu nutzen. Die Dauer des Erbbaurechtes kann frei vereinbart werden - in der Praxis wird häufig eine Zeit von 99 Jahren vereinbart. Bei einem Erbbaurecht werden Sie nicht Eigentümer des Grundstücks, sondern nutzen das Grundstück für eine bestimmte Zeit gegen Zahlung eines Entgelts (sog. Erbbauzins). Meistens ist der Erwerb eines Erbbaurechtes günstiger als ein Grundstückskauf.
+###
+Was ist eine Bausparkasse?
+
+Bausparkassen sind Kreditinstitute, die Spareinlagen von Bausparern entgegennehmen. Aus dem so angesparten Kapital wird den Bausparern ein Bauspardarlehen für wohnwirtschaftliche Maßnahmen zur Verfügung gestellt. Das Bauspargeschäft darf nur von Bausparkassen durchgeführt werden. Die gesetzliche Grundlage ist das Bausparkassengesetz.
+###
+Wann erfolgt die Darlehensauszahlung?
+
+Die Auszahlung erfolgt bei Immobilienkauf üblicherweise mit der notariell vereinbarten Zahlung des Kaufpreises. Bei Neubauten oder Renovierungen wird dem Bautenstand entsprechend in mehreren Teilbeträgen ausgezahlt, auch Zahlung nach Baufortschritt genannt. Bei Fremdbankablösungen oder eigenen Umschuldungen erfolgt die Auszahlung direkt zugunsten der abzulösenden Finanzierung.
+###
+Was sind die Besonderheiten bei einem Bauspardarlehen?
+
+Ist bei einem Bausparvertrag die Mindestansparung, die Mindestlaufzeit und die erforderliche Bewertungsziffer erreicht, ist der Bausparvertrag zuteilungsreif. Erst dann hat der Bausparer einen Anspruch auf das Bauspardarlehen.
+Die Darlehenshöhe errechnet sich aus dem Unterschied zwischen angespartem Bausparguthaben und der Bausparsumme. Die Zinssätze für die Ansparphase und die Darlehensphase werden bei Abschluss des Bausparvertrages fest mit dem Bausparer vereinbart.
+###
+Was versteht man unter Bausparguthaben?
+
+Der auf einen Bausparvertrag angesparte Betrag wird als Bausparguthaben bezeichnet. Hierzu zählen neben den Sparraten des Bausparers die Guthabenzinsen, mögliche Wohnungsbauprämien, ggf. vermögenswirksame Leistungen und ggf. Zulagen aus der Riester-Förderung.
+###
+Was versteht man unter Bausparsumme?
+
+Die Bausparsumme ist der Betrag, über den der Bausparvertrag abgeschlossen wird. Sie setzt sich zusammen aus dem angestrebten Sparziel und dem Darlehensanspruch. Sie wird festgelegt durch die Höhe der monatlichen Sparbeiträge und der Laufzeit, d.h. dem Zeitpunkt, an dem die Bausparsumme zur Auszahlung kommen soll.
+###
+Gibt es bei der KfW Förderprogramme?
+
+Die Kreditanstalt für Wiederaufbau (KfW) bietet verschiedene Förderprogramme an. Eine Übersicht finden Sie bei der http://www.kfw-foerderbank.de/ KfW-Förderbank
+###
+Wozu dient die Legitimationsprüfung?
+
+Bei Darlehensaufnahme lässt sich das Kreditinstitut die Identität des Darlehensnehmers anhand eines amtlichen Lichtbildausweises nachweisen. Dies ist bedingt durch die Vorschriften der Abgabenordnung (AO) und des Geldwäschegesetzes (GWG).
+###
+Was ist die Schufa?
+
+Die Schutzgemeinschaft für allgemeine Kreditsicherung (Schufa) ist eine Gemeinschaftseinrichtung der Kreditwirtschaft, die Informationen über Kreditkunden sammelt. Damit will sie einerseits Mitgliedsinstitute vor Verlusten im Kreditgeschäft und andererseits Kreditnehmer vor übermäßiger Verschuldung bewahren. Kreditinstitute verlangen vor Abschluss von Darlehensverträgen die Unterzeichnung einer sogenannten "Schufa-Klausel", d. h. die Einverständniserklärung des Darlehensnehmers, dass das Kreditinstitut  Informationen über ihn bei der Schufa einholt. Diese Daten unterliegen den strengen Vorschriften des Datenschutzes. Gegen eine Gebühr kann eine Selbstauskunft bei der Schufa beantragt und die dort gespeicherten Daten eingesehen werden.
+###
+
+Was versteht man unter Instandhaltungsrücklage?
+Die Käufer einer Eigentumswohnung haben laut Gesetzgeber eine gemeinsame Instandhaltungsrücklage zu bilden. Aus diesem Geldtopf, der von allen Eigentümern der Wohnungseigentümergemeinschaft anteilig befüllt wird, werden der Erhalt der Anlage und Reparaturen am Gemeinschaftseigentum bezahlt.
+###
+
+Was ist ein Effektivzins?
+
+Hierbei handelt es sich um eine Maßzahl für den Preis eines Kredites. Der Effektivzins wird auch häufig effektiver Jahreszins genannt. In ihm sind die wesentlichen Preisbestandteile eines Kredites enthalten (Sollzins, Auszahlungskurs, Sollzinsbindungsfrist). Er wird als Prozentsatz vom tatsächlichen Auszahlungsbetrag ausgewiesen. Die Errechnung erfolgt einheitlich nach gesetzlichen Vorgaben, so dass die Kreditkosten anhand des Effektivzinssatzes verglichen werden können.
+###
+Was versteht man unter Bereitstellungszinsen?
+
+Der Bereitstellungszins ist das Entgelt für nicht abgerufene Darlehensmittel. Er beträgt zurzeit 3 % p.a.
+###
+Was versteht man unter der bereitstellungszinsfreien Zeit?
+
+Als bereitstellungszinsfreie Zeit bezeichnet man den Zeitraum vom Abschluss des Darlehensvertrages bis zum vertraglich vereinbarten Beginn der Bereitstellungszinsen.
+###
+Was versteht man unter Baukosten?
+
+Baukosten sind Kosten, die für die Errichtung des Gebäudes entstehen (ohne die Aufwendungen für das Grundstück und dessen Erschließung). Diese Angaben erhalten Sie von Ihrem Architekten oder Bauträger.
+###

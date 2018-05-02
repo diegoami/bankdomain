@@ -1,0 +1,46 @@
+###
+
+Die über eine Verknüpfung aufgerufene Seite wird nicht angezeigt beziehungsweise nicht richtig dargestellt.
+
+Vermutlich rufen Sie die Internetseite über ein zuvor gespeichertes Lesezeichen oder einen Favoriten auf. Da unser Internetangebot ständig aktualisiert wird, ist es möglich, dass die auf Ihrem Browser befindlichen Lesezeichen oder Favoriten nicht mehr auf dem aktuellen Stand sind.
+
+Bitte versuchen Sie daher, die Internetseiten direkt anzuwählen: https://www.ksk-koeln.de/
+###
+Warum ist das Deaktivieren von "ActiveX" in meinem Browser empfehlenswert?
+
+"ActiveX" ist eine Technologie, die beim Laden einer Webseite Programme auf Ihren Rechner lädt und diese dann ausführt. Diese Programme haben im Gegensatz zu Java-Programmen einen uneingeschränkten Zugriff auf Ihren PC. Damit können weitere Programme auf Ihren Rechner kopiert und auch Dateien auf Ihrer Festplatte modifiziert werden. Ein bösartiges Programm kann damit Schutzmaßnahmen Ihrer Browser-Software unterlaufen. Wir verwenden für die Anwendung S-direkt im Internet die Programmiersprache Java, da diese Technologie im Gegensatz zu "ActiveX" über ein Sicherheitskonzept verfügt.
+
+Wie Sie "ActiveX" deaktivieren können, entnehmen Sie bitte der Anleitung Ihres Browsers.
+###
+Was bedeutet "https" in der Adresszeile meines Browsers und was ist der Unterschied zu "http"?
+
+http (HyperText Transfer Protocol | Hypertext-Übertragungsprotokoll) ist ein Standard für die Übertragung von Daten im Internet. Die Daten werden unverschlüsselt übertragen.
+
+https (HyperText Transfer Protocol Secure | sicheres Hypertext-Übertragungsprotokoll) ist ein Kommunikationsprotokoll im World Wide Web, das Daten abhörsicher überträgt. Bei dieser Art der Datenübertragung wird eine verschlüsselte Verbindung zwischen Ihrem Computer und dem Server der Internetseite hergestellt.
+###
+Was ist Phishing und wie funktioniert es?
+
+Das Wort "Phishing" ist eine Kombination der englischen Begriffe "Password" und "Fishing". Hierbei handelt es sich um betrügerische Versuche, via E-Mail und gefälschter Internetseiten die Zugangsdaten von Online-Banking-Nutzern zu erspähen.
+
+Beispiele:
+
+    Man erhält eine E-Mail, in der man aufgefordert wird, persönliche Daten in einem fremden System einzugeben.
+    Man erhält eine E-Mail, in der man aufgefordert wird, eine bestimmte Telefonnummer anzurufen und dort persönliche Daten zu nennen.
+    Phisher geben sich als Mitarbeiter der Sparkasse aus und versuchen, nachdem Sie über andere Wege an Anmeldename und PIN gekommen sind, den Teilnehmer dazu zu bringen eine TAN für einen Auftrag zu nennen.
+    Man gelangt auf eine Internetseite, welche im Design der Homepage der Kreissparkasse Köln nachempfunden ist. In der Regel wird auf solchen Seiten die KSK Köln jedoch nicht genannt, sondern allgemein das "Sparkassen-S" und das Wort "Sparkasse" verwendet.
+    Häufig erfolgt auch eine Kombination der oben genannten Verfahrensweisen.
+    Siehe auch "Was versteht man unter Social-Engineering?"
+
+Wie Sie sich vor Phishing schützen, erfahren Sie auf https://www.ksk-koeln.de/online-banking/sicherheit/empfehlungen/sicherheit-hilfe-videos-zum-onlinebanking.aspx
+###
+
+Wie schütze ich meine Passwörter?
+
+Benutzen Sie für verschiedene Anwendungen (z.B. Homebanking, ebay etc.) auch unterschiedliche Passwörter.
+
+Wählen Sie Passwörter, die schwer zu erraten sind - also keine sinnvollen Wörter, sondern besser sinnfreie Ziffern- und Buchstabenkombinationen. Ein Tipp: Denken Sie sich einen für Sie leicht zu merkenden Satz aus und wählen Sie als Passwort die Anfangsbuchstaben der einzelnen Wörter. Durch Einfügen von Ziffern oder Sonderzeichen kann das Passwort noch weiter verfremdet werden. (z.B.: Ihr Satz Lautet: "Ich wohne am Neumarkt 18 in Köln". Dann wäre Ihr Passwort beispielsweise: "IwaN18iK")
+
+Ändern Sie Ihr Passwort regelmäßig.
+
+Falls Sie Ihre Passwörter auf Ihrem Rechner gespeichert haben, benutzen Sie eine Verschlüsselungssoftware. Ansonsten können Ihre Sicherungsmedien mittels Trojanern, Viren oder Würmern aus dem Internet von Hackern ausspioniert werden.
+###

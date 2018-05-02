@@ -1,0 +1,32 @@
+###
+Was ist OPT?
+
+Die Abkürzung OPT steht für Online Personalisierung Terminal. Dahinter verbirgt sich ein Verfahren für die Verwaltung von Sicherheits-Schlüsseln, also sicherheitsrelevante Aspekte.
+###
+
+Wozu brauche ich einen Sicherheits-Schlüssel in meinem ec-Terminal?
+
+Sicherheits-Schlüssel werden zum ver- und entschlüsseln von Transaktionen und Geheimzahl benötigt. Die kryptografische Verschlüsselung ist ein wesentlicher Bestandteil des gesamten girocard/electronic cash-Systems.
+###
+Warum benötigt ein ec-Terminal OPT?
+
+Früher wurden die Schlüssel vom Terminalhersteller (in einer Sicherheitsumgebung) und vom Netzbetreiber eingebracht. Die deutsche Bundesbank hat 1996 der Kreditwirtschaft den Auftrag erteilt, dieses Verfahren zu ändern. Wesentliche Aspekte: Die verwendeten Schlüssel sollen an zentraler Stelle verwaltet und in regelmäßigen Zyklen ausgetauscht werden. Diese Anforderungen wurden mit Einführung des OPT-Verfahrens umgesetzt. Die zentrale Schlüsselverwaltung in den Personalisierungsstellen (PS) erhöht die Sicherheit des gesamten Systems, da im Bedarfsfall in allen Terminals die Schlüssel kurzfristig getauscht werden können.
+###
+Wer ist für OPT zuständig?
+
+Die Deutsche Kreditwrtschaft (DK) hat die Anforderungen der deutschen Bundesbank spezifiziert. Die Netzbetreiber und Terminalhersteller haben diese Anforderungen umgesetzt und ihre Systeme und Geräte angepasst. Die Anpassungen der Terminals sind sehr aufwändig, zahlreiche Abnahmen und Prüfungen waren zu erfüllen. Einige im Markt befindliche Terminals konnten diese Anforderungen nicht erfüllen und mussten ausgetauscht werden.
+###
+Welchen Vorteil bringt OPT?
+
+Neben dem zusätzlichen Sicherheitsplus entfällt das manuelle Nachladen der Schlüssel für girocard/electronic cash-chips. Dieser Vorgang musste zuvor alle zwei Jahre durchgeführt werden.
+###
+
+Wofür steht EMV?
+
+Die Abkürzung EMV steht für Europay, MasterCard (jetzt vereinigt zu MasterCard) und Visa und bezeichnet einen weltweiten Standard für den Datenverkehr zwischen dem ec-Terminal, dem Chip auf der vorgelegten Debit- oder Kreditkarte und den Autorisierungszentren.
+###
+Warum wurde EMV eingeführt?
+
+Motiv für die Einführung des EMV-Verfahrens und den damit verbundenen Übergang vom Magnetstreifen zum Chip war vor allem der steigende Kartenmissbrauch, speziell durch kopierte Karten im europäischen Ausland. Mit EMV können kartenbasierte Zahlungen künftig in einem vorgegebenen Rahmen auch offline in Ihrem ec-Terminal ablaufen und trotzdem ist Ihnen die Zahlung gesichert. Der Chip auf der Karte ermöglicht darüber hinaus weitere Funktionen, wie z.B. die Sammlung von Bonuspunkten, die Einlagerung eines elektronischen Fahrscheins, Zugangberechtigungen usw. auf ein und demselben Stück Plastik.
+###
+

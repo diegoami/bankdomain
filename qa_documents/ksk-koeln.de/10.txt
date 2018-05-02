@@ -1,0 +1,39 @@
+###
+Wer ist der Ansprechpartner für Kunden bei Problemen mit dem ec-Händlerterminal?
+
+Hotline wird grundsätzlich über den jeweiligen Netzbetreiber des ec-Terminals geleistet.
+
+Hotline für ec-Terminals von Partnern der Kreissparkasse Köln:
+
+Ingenico Payment Services
+Telefon: 0800 5511225 (kostenfrei aus dem dt. Fest- und Mobilfunknetz)
+Internet: www.easycash.de
+
+ecs electronic cash syländer GmbH
+Telefon: 0800 5235296 (kostenfrei aus dem dt. Fest- und Mobilfunknetz)
+Internet: www.sylaender.de
+###
+Werden bei ELV nicht auch alle Zahlungen gegen eine Sperrdatei geprüft?
+
+Diese Dienstleitung (OLV) bieten einige Netzbetreiber kostenpflichtig ihren Kunden an. Die Abfrage der Sperrdatei durch den Netzbetreiber fängt jedoch nur das Betrugsrisiko durch verlorene und gestohlene Karten auf. Das Risiko von Rücklastschriften wegen nicht ausreichender Bonität oder nicht ausreichendem Kontostand des Kunden können Sie jedoch mit ELV oder OLV nicht vermeiden.
+###
+Kann bei girocard/electronic cash die PIN nicht an der Kasse ausgespäht werden?
+
+Der inzwischen aufgrund von Vorschriften der Deutschen Kreditwirtschaft optimierte Sichtschutz am ec-Terminal und eine optimale Platzierung des ec-Terminals an Ihrer Kasse sorgen dafür, dass ein Ausspähen der PIN verhindert wird. Sprechen Sie einfach mit uns, wenn Sie noch über ein älteres Gerät verfügen und dieses gegen ein neues ec-Terminal mit optimiertem Sichtschutz austauschen möchten. Wir beraten Sie auch gerne bei der optimalen Platzierung Ihres ec-Terminals an Ihrer Ladenkasse.
+###
+Ist ELV für mich als Einzelhändler nicht kostengünstiger als girocard/electronic cash?
+
+Nein, denn auch bei ELV ist Zahlungssicherheit nicht zum Nulltarif zu haben. Wenn Sie für alle Rücklastschriften die Kosten für das Inkasso, die Prüfung einer eventuellen Sperrdatei, die Absicherung von Zahlungsausfällen durch Netzbetreiber sowie die Kosten für die Archivierung und Bearbeitung von Rücklastschriften addieren, werden Sie feststellen: Die Zahlungsgarantie über girocard/electronic cash ist letztendlich für Sie weitaus günstiger.
+###
+
+Ist girocard/electronic cash mit PIN an der Ladenkasse nicht viel zu langsam?
+
+Nein. Testmessungen, die vom Handel und der Kreditwirtschaft durchgeführt wurden, belegen: Vor allem in Verbindung mit einem der von uns aktuell angebotenen ec-Terminals ist girocard/electronic cash inzwischen schneller als jedes andere Bezahlverfahren - sogar schneller als eine Bezahlung mit Bargeld. Sprechen Sie einfach mit uns, wenn Sie noch über ein älteres ec-Terminal verfügen und dieses austauschen möchten.
+
+###
+Bietet girocard/electronic cash wirklich mehr Sicherheit bei Kartenzahlungen als ELV?
+
+Eindeutig ja, denn die große Schwachstelle bei ELV ist die fehlende PIN-Autorisierung. Unterschriften lassen sich relativ leicht fälschen, Sie können bei ELV als Zahlungsempfänger also nie sicher sein, ob Ihnen an der Kasse wirklich der Karteninhaber gegenübersteht.
+Zudem sagt die Unterschrift nichts darüber aus, ob das Konto des Kunden gedeckt ist. Dagegen bezahlt der Kunde bei girocard/electronic cash unter Eingabe seiner persönlichen Geheimzahl (PIN-Nummer). Erst nach einer positiven Prüfung wird die Zahlung innerhalb von Sekunden freigegeben.
+Bei girocard/electronic cash sind alle Kartenzahlungen garantiert, so dass Sie als Händler für jeden Fall Ihr Geld erhalten.
+###

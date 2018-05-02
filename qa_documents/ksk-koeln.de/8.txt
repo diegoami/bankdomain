@@ -1,0 +1,43 @@
+###
+
+Die Fernwartung wird über die Software Teamviewer ermöglicht. Stellt der Teamviewer ein Sicherheitsrisiko dar?
+
+Nein, denn die Daten werden mit einer 256-Bit-AES-Verschlüsselung über gesicherte Internet-Server übertragen. Ein spezielles Datenformat, in dem die Daten übermittelt werden, stellt sicher, dass bestehende Verbindungen nicht missbraucht werden können. Nur bei fahrlässigem Fehlverhalten eines Nutzers könnte ein Sicherheitsrisiko entstehen, wenn er seinem Gesprächspartner Fernsteuerungsrechte einräumt und dann tatenlos zusieht, wie dieser seinen PC manipuliert.
+###
+
+Wie kann man eingeräumte Fernsteuerungsrechte wieder entziehen?
+
+Eingeräumte Fernsteuerungsrechte können sofort durch Beenden des Support-Clients entzogen werden.
+
+
+###
+
+Kann ein Hacker die Datenübertragung zwischen Berater und Kunde abhören?
+
+Nein, denn zur Übertragung des Bildschirminhaltes wird ein eigenes, speziell entwickeltes Datenformat verwendet. Dieses ist nicht öffentlich bekannt. Die Daten werden insbesondere nicht als Screenshots übermittelt, sondern nach einem speziellen Algorithmus verschlüsselt übertragen. Sollte ein Hacker es schaffen, das Datenformat herauszufinden, kann er mit den Daten nichts anfangen, da ihm der Schlüssel zur Decodierung fehlt.
+###
+Kann ein User die bestehende Teamviewer-Verbindung nutzen, um auf Daten der KSK Köln zuzugreifen?
+
+Die Nutzung der Teamviewer-Verbindung setzt voraus, dass sich die beiden Beteiligten gegenseitig Zugriffsrechte einräumen. Die PCs, die die Kreissparkasse Köln für die Fernwartung verwendet, sind nicht Bestandteil des KSK-Hausnetzwerkes, so dass eine Datenentwendung auf diesem Wege ausgeschlossen ist.
+###
+Kann ein User über eine bestehende Teamviewer-Verbindung ein Späh-Programm hinter die Firewall des Beraters schmuggeln, das später Daten vom Netz des Beraters über das Internet nach außen verschickt?
+
+Nein. Falls Dateien kopiert werden, öffnet sich beim Berater immer ein zusätzliches Dialogfenster in der Mitte des Bildschirms, welches anzeigt welche Dateien transferiert werden.
+###
+Ist es möglich, bei einer Teamviewer-Verbindung Fremdprogramme zu installieren oder unbemerkt Daten vom PC zu entfernen?
+
+Nein. Es werden keinerlei Fremdprogramme installiert und es ist nicht möglich, unbemerkt und unberechtigt Daten vom PC zu entfernen.
+###
+Kann der Fachberater ohne Zustimmung des Kunden auf dessen PC sehen?
+
+Nein, ohne ausdrückliche Zustimmung (zweistufiges Freigabekonzept) des Kunden erhält der Fachberater keine Sicht auf den Kunden-PC.
+###
+
+Müssen bestimmte Voraussetzungen erfüllt sein, um die Fernwartung nutzen zu können?
+
+Ja. Voraussetzung ist eine gültige Lizenz- und Servievereinbarung bzw. Nutzungs- und Wartungsvereinbarung zu den Produkten SFirm, Sparkassen-Firmenkundenportal oder SPG-Verein, die Sie mit der Kreissparkasse Köln abgeschlossen haben.
+###
+Werden die Fernwartungssitzungen aufgezeichnet?
+
+Ja, die gesamte Fernwartungssitzung wird von der Kreissparkasse Köln zu Kontroll- und Revisionszwecken aufgezeichnet. So kann später jederzeit nachvollzogen werden, welche Tätigkeiten der Fachberater am Kunden-PC vorgenommen hat.
+###

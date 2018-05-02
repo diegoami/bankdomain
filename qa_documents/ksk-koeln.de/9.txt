@@ -1,0 +1,20 @@
+###
+Benötige ich zur Anzeige meines DekaBank-Depots im Onlinebanking eine gesonderte Freischaltung von der Deka?
+
+Nein, eine Freischaltung durch die DEKA ist nicht erforderlich. Sprechen Sie bitte Ihren Berater an, damit er die Freischaltung der Depotansicht für Ihr DEKA-Depot im Online-Banking einrichtet.
+
+Möchten Sie zu Ihrem DEKA-Depot Order erfassen können, so treffen Sie bitte eine gesonderte Vereinbarung mit der DEKA.
+###
+Kann ich bei der Anzeige von Freistellungsaufträgen im Online-Banking auch Änderungen durchführen?
+
+Ja, im Online-Banking sind Änderungen möglich. Über den Button "Ändern" gelangen Sie auf die entsprechende Internetseite. Hier können Sie Ihren Auftrag mit PIN und TAN ändern oder ein PDF-Formular ausdrucken.
+###
+Wie kann ich meine LBS-Bausparverträge online verwalten?
+
+Damit Sie Ihre LBS-Bausparverträge online verwalten können, ist eine Freischaltung durch die LBS-Zentrale in Münster erforderlich.
+Unter www.lbs.de können Sie einen Onlinezugang zur Vertragsauskunft beantragen. Anschließend wird Ihnen die erforderliche Online-ID und eine PIN zugesendet.
+
+Ihre Vertragsdaten können Sie dann unter  www.lbs.de bzw. mit einer Onlinebanking-Software (z.B. StarMoney) aufrufen.
+
+Eine Nutzung über Ihren Onlinebanking-Zugang der Kreissparkasse ist derzeit nicht möglich.
+###

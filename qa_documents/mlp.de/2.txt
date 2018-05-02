@@ -1,0 +1,50 @@
+###
+
+Welchen Betrag kann ich maximal mit meiner Maestro-Girocard verfügen?
+
+Die MLP Maestro-Girocard verfügt über ein Wochenlimit (Kalenderwoche) von 3.500,00 EUR. Dieses gilt für PIN-bestätigte Zahlungen sowie Abhebungen am Geldautomaten.
+
+Bitte beachten Sie hierbei, dass Verfügungen in dieser Höhe nicht unbedingt durch den Geldautomaten- bzw. Terminalbetreiber freigeschaltet wurden.
+Wie entsperre ich meine Maestro-Girocard, wenn ich die PIN drei Mal falsch eingegeben habe?
+
+Die MLP Maestro-Girocard wird bei dreifacher Fehleingabe der PIN gesperrt, jedoch am Automaten nicht eingezogen, sondern lediglich abgewiesen. Bei Kenntnis der korrekten PIN lassen Sie die PIN-Sperre mittels "Freien Auftrag" aus dem MLP Financepilot Report oder formlos schriftlich mit Unterschrift bei der MLP Banking AG aufheben. Nach erfolgter Freischaltung Ihrer MLP Maestro-Girocard müssen Sie diese an einem Geldautomaten einer Volks- bzw. Raiffeisenbank zur endgültigen Freischaltung einsetzen. Ihre Karte müssen Sie nicht bei der MLP Banking AG vorlegen.
+
+Ausnahme: .
+
+Sollten Sie sich im Ausland aufhalten, ist eine Rücksetzung des PIN ohne Vorlage der Karte bei der MLP Banking AG leider nicht möglich.
+
+In oben genannten Fall senden Sie Ihre Karte bitte mit einem entsprechenden Auftrag an folgende Anschrift:
+
+MLP Banking AG
+Kontoführung
+Postfach 1379
+69154 Wiesloch
+
+Ihre MLP Maestro-Girocard senden wir Ihnen umgehend nach der Freischaltung per Einschreiben zurück.
+###
+Was muss ich bei Verlust meiner Maestro-Girocard tun?
+
+Bitte veranlassen Sie bei Verlust Ihrer Maestro-Girocard sofort die Sperrung der Karte unter einer der unten aufgeführten Telefonnummern.
+
+Den Verlust Ihrer Karte müssen Sie aus Sicherheits- und Haftungsgründen auch der zuständigen Polizeibehörde melden. Bei der Sperrung Ihrer Maestro-Girocard geben Sie bitte die Bankleitzahl der MLP Banking AG (672 300 00) an.
+
+Karte sperren unter: (018 05) 02 10 21 (12 ct/Min. aus dem Festnetz der DTAG, max. 42 ct/Min. aus Mobilfunknetzen) oder (069) 740 987.
+###
+Wie bestelle ich eine neue Maestro-Girocard?
+
+Die Bestellung veranlassen Sie per "Freien Auftrag" über den MLP Financepilot Report oder mittels formlos schriftlichen Auftrag.
+###
+Wie lade bzw. entlade ich meinen Geldkartenchip?
+
+Das Laden des Geldkartenchips Ihrer Maestro-Girocard ist kostenfrei an allen Ladeterminals möglich. Den Geldkartenchip laden Sie an speziell dafür eingerichteten Automaten (sie tragen das Geldkartensymbol) mit einem Betrag von bis zu 200,00 EUR auf.
+
+Ersatzkarten und Karten für Neukunden werden standardmäßig ohne Geldkartenfunktion ausgeliefert. Karten mit Gültigkeit 2015 oder später werden im Rahmen des jährlichen Regelaustausches ebenfalls standardmäßig ohne Geldkartenfunktion ausgegeben. Spätestens ab dem 01.01.2018 befinden sich somit keine gültigen MLP Maestro-Girocards mehr im Markt, die die Geldkartenfunktion unterstützen. Karten mit Gültigkeit 2017 können noch bis zum 30.06.2018 zum Bezahlen mit der Geldkarte genutzt werden, wenn sich noch ein Restguthaben auf dem Chip befindet. Das Aufladen dieser Karten wird ab dem 01.01.2018 nicht mehr möglich sein.
+
+Zum Entladen senden Sie Ihre Karte bitte mit einem entsprechenden Auftrag an folgende Anschrift:
+
+MLP Banking AG
+Postfach 1379
+69154 Wiesloch
+
+Die Gutschrift des entladenen Betrags erfolgt direkt auf Ihrem MLP-Girokonto.
+###

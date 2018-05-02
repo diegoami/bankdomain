@@ -1,0 +1,59 @@
+###
+Wie ist mein Geld bzw. sind meine Einlagen bei der MLP Banking AG abgesichert?
+
+Kundeneinlagen sind bei der MLP Banking AG durch ein zweistufiges Einlagensicherungssystem gesichert.
+
+    Die gesetzlich vorgeschriebene Einlagensicherung erfolgt durch die Entschädigungseinrichtung deutscher Banken GmbH (EdB).
+
+    Diese Sicherungseinrichtung deckt Einlagen bis zu einer Höhe von max. 100.000 EUR pro Person pro Kreditinstitut, unabhängig von der Anzahl der Konten (auch Gemeinschaftskonten). Weitere Informationen finden Sie unter www.bdb.de
+    Darüber hinaus ist die MLP Banking AG Mitglied im Einlagensicherungsfonds des Bundesverbandes deutscher Banken e.V.
+
+    Über die gesetzliche Sicherung in Höhe von 100.000 EUR pro Person hinaus schützt der Einlagensicherungsfonds Einlagen von Privatpersonen, Wirtschaftsunternehmen und öffentlichen Stellen. Geschützt werden z.B. Sicht-, Termin und Spareinlagen (also Guthaben auf Giro-, Spar-, Tagesgeld, Festgeldkonten und Liquiditäts-, Abwicklungskonten) sowie auf den Namen lautende Sparbriefe.
+
+    Die Grenze dieser Einlagensicherung bemisst sich an der Eigenkapitalausstattung der jeweiligen Mitgliedsbank und wird daher jährlich angepasst.
+
+    Die Sicherungsgrenze beträgt derzeit 20 % des maßgeblich haftenden Eigenkapitals und wird über einen Zeitraum von 10 Jahren weiter abgesenkt (ab 01.01.2020: 15 % und ab dem 01.01.2025: 8,75 %).
+
+    Die aktuell vom Einlagensicherungsfonds festgelegte Sicherungsgrenze für die MLP Banking AG beträgt 14.799.000,00 Euro je Kunde.
+
+    Weitere Informationen sowie die aktuelle Sicherungsgrenze finden Sie unter www.bankenverband.de/einlagensicherung
+
+Für Wertpapierdepots ist dieser Schutz nicht notwendig, denn die dort befindlichen Wertpapiere bleiben im Eigentum des Kunden und werden von der Bank lediglich verwahrt. Sie können jederzeit die Herausgabe Ihrer Wertpapiere verlangen. Das gilt auch, falls Ihre Depotbank insolvent sein sollte.
+###
+Wie nehme ich Auszahlungen von meinem MLP Tagesgeldkonto oder MLP Sparkonto vor?
+
+Auszahlungen von Ihrem MLP Tagesgeldkonto oder Ihrem MLP Sparkonto veranlassen Sie jederzeit auf Konten, die auf Ihren Namen lauten.
+
+MLP Tagesgeldkonto
+
+Für das MLP Tagesgeldkonto bietet Ihnen der MLP Financepilot Report eine eigene Funktion. Klicken Sie dazu in Ihrer Vermögensübersicht im MLP Financepilot Report rechts neben der Anzeige Ihres MLP Tagesgeldkontos auf das Symbol "Auszahlung". In der folgenden Maske beauftragen Sie die Auszahlung, auf ein von Ihnen zu definierendes und auf Ihren Namen lautendes Referenzkonto. Die Auswahlmaske zeigt Inhabern einer MLP Kreditkarte oder eines Geldanlageprodukts auch diese Auszahlungsmöglichkeiten an.
+
+Alternativ verwenden Sie bitte das nachfolgende Serviceformular.
+
+Formular Auszahlung MLP Tagesgeldkonto
+
+MLP Sparkonto
+
+Eine Auszahlung von Ihrem MLP Sparkonto veranlassen Sie jederzeit formlos schriftlich oder per "Freien Auftrag" über Ihren Financepilot Report.
+###
+Wie rufe ich meine Kontoauszüge, Kreditkartenabrechnungen und MLP Reportings ab?
+
+Kontoauszüge
+
+Die Kontoauszüge sämtlicher MLP Konten stellen wir standardmäßig als PDF kostenfrei im Postfach des MLP Financepilot Banking zur Verfügung. Die Bereitstellungsdauer im MLP Financepilot beträgt jeweils 36 Monate. Wünschen Sie die Auszüge per Post, verwenden Sie bitte nachfolgendes Formular. Bitte beachten Sie, dass wir die verauslagten Portokosten für die Postzustellung erheben.
+
+Formular Vereinbarung Postversand
+
+Die MLP-Kreditkartenabrechnungen stellen wir standardmäßig als PDF kostenfrei im Postfach im MLP Financepilot Banking bereit.
+
+Die Bereitstellungsdauer im MLP Financepilot beträgt jeweils 12 Monate. Wünschen Sie dennoch einen Auszug in Papierform, beantragen Sie diesen bitte mit unserem Serviceformular. Bitte beachten Sie, dass wir die verauslagten Portokosten für die Postzustellung erheben.
+
+Ausnahme: Für alle vor dem 1. September 2009 eröffneten MLP Kreditkarten senden wir die Abrechnungen standardmäßig kostenfrei per Post.
+
+Bei der kostenfreien MLP MasterCard für Studenten werden generell keine Abrechnungen erstellt, da die Kartenumsätze direkt dem MLP CampusGirokonto für Studenten belastet und dort auf den Kontoauszügen ausgewiesen werden.
+
+MLP Reporting
+
+Das MLP Reporting stellen wir quartalsweise standardmäßig als PDF kostenfrei im Financepilot Report zur Verfügung.
+
+###

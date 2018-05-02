@@ -1,0 +1,10 @@
+###
+Was ist die SCHUFA?
+
+Die SCHUFA ist die Schutzgemeinschaft für Allgemeine Kreditsicherung. Sie speichert Daten über die Kreditbeantragung, -aufnahme und -abwicklung und unterliegt dabei den Vorschriften über den Datenschutz. Gegen Entgelt kann der Kreditnehmer seine bei der SCHUFA gespeicherten persönlichen Daten abfragen. Voraussetzung für die Krediteinräumung ist Ihr Einverständnis mit der Übermittlung von Daten an die SCHUFA.
+###
+Wie funktioniert die SCHUFA?
+
+Die SCHUFA speichert Daten jedes Kreditnehmers über die Kreditbeantragung, -aufnahme und -abwicklung. Banken benötigen diese Informationen um die Kreditwürdigkeit zu beurteilen.
+###
+

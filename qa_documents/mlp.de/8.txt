@@ -1,0 +1,96 @@
+###
+Wie nehme ich Zuzahlungen in meine Geldanlagekonzepte bei der MLP Banking AG vor?
+
+Der MLP Financepilot Report ermöglicht schnell und komfortabel Zuzahlungen in Ihr
+
+    MLP flaggschiff/premium/absolute return portfolio
+    Vermögensdepot und
+    MLP Modulares Vermögensmanagement
+
+Durch Anklicken des Einzahlungssymbols in der Vermögensübersicht gelangen Sie in die Kontoauswahl. Dort wählen Sie das Konto aus, von dem Sie die Zahlung per Lastschrift tätigen möchten. Danach wählen Sie die Höhe der Einzahlung. Zu Ihrer Sicherheit wird eine TAN abgefragt, mit der Sie die Transaktion bestätigen müssen. Sofern Sie keinen Einzugstermin festlegen, erfolgt die Belastung des Einzahlungsbetrages spätestens am nächsten Arbeitstag.
+
+Durch Anklicken des Einzahlungssymbols in der Vermögensübersicht bei Ihrem MLP Individuellen Vermögensmanagement bekommen Sie komfortabel sämtliche Überweisungsdaten für eine Zuzahlung per Überweisung angezeigt.
+
+Je nach Geldanlageprodukt gelten folgende Mindestbeträge für Zuzahlungen:
+
+Vermögensdepot:
+500,00 EUR / Eine Zuzahlung in einen Liquiditätsfonds ist bereits ab 50,00 EUR möglich.
+
+MLP premium portfolio:
+500,00 EUR
+
+MLP absolute return portfolio:
+500,00 EUR
+
+MLP flaggschiff portfolio:
+500,00 EUR
+
+MLP Modulares Vermögensmanagement:
+500,00 EUR
+
+MLP Individuelles Vermögensmanagement:
+5000,00 EUR
+
+Ihre Zuzahlung überweisen Sie bitte auf folgende Bankverbindung:
+Empfänger: Ihr Vor- und Nachname
+IBAN: Erhalten Sie mit Ihrer Eröffnungsbestätigung per Post
+BLZ: 672 300 00 (MLP Banking AG)
+Verwendungszweck: Vertragsnummer sowie der Vermerk "Kauf" Ausnahmen:
+
+Bei Zuzahlungen in Ihr Vermögensdepot ist die Angabe der zu kaufenden Wertpapierkennnummer (WKN) im Verwendungszweck zusätzlich erforderlich. Beispiel: "123456 Kauf"
+
+Die Liquiditätskontonummer und Vertragsnummer erhalten Sie in Ihrem Begrüßungsanschreiben. Sie finden diese ebenso im MLP Financepilot.
+###
+Wie nehme ich Auszahlungen aus meinen Anlagen bei der MLP Banking AG vor?
+
+Der MLP Financepilot Report ermöglicht schnell und komfortabel Auszahlungen aus Ihrem
+
+    MLP flaggschiff/premium/absolute return portfolio
+    Vermögensdepot und MLP Modulares Vermögensmanagement
+
+Bitte klicken Sie in der "Vermögensübersicht" hinter dem jeweiligen Geldanlagekonzept auf das Auszahlungssymbol. Danach wählen Sie das von Ihnen zu definierende Konto aus, auf welches die Auszahlung erfolgen soll. Nach Abschluss Ihrer Eingaben wird eine TAN abgefragt, mit der Sie die Transaktion bestätigen.
+
+Alternativ können Sie Ihre Auszahlung auch über einen "Freien Auftrag" aus dem MLP Financepilot Report beauftragen oder einen formlosen unterzeichneten Auftrag an unten stehende Anschrift bzw. Faxnummer 06222 3169 8631 senden.
+
+MLP Banking AG
+Postfach 1379
+69154 Wiesloch
+
+Je nach Geldanlageprodukt gelten folgende Mindestbeträge für Auszahlungen:
+
+Vermögensdepot:
+50,00 EUR
+
+MLP premium portfolio:
+500,00 EUR
+
+MLP absolute return portfolio:
+500,00 EUR
+
+MLP flaggschiff portfolio:
+50,00 EUR
+
+MLP Modulares Vermögensmanagement:
+50,00 EUR
+
+MLP Individuelles Vermögensmanagement:
+5000,00 EUR
+
+Ferner ist ein Mindestbestand von 10% des Depotwertes, mindestens 250,00 EUR, im Portfolio erforderlich, sofern der Vertrag nicht aufgelöst wird. Erfassen Sie eine Auszahlung, welche einen größeren Verkauf als 90% des Depotbestandes vorsieht, wird der Betrag automatisch durch uns auf 90% reduziert. Hierüber informieren wir Sie schriftlich.
+
+Ausnahme: Im Vermögensdepot ist kein Mindestbestand erforderlich. Wird jedoch bei einem einzelnen Wertpapier mehr als 99% des vorhandenen Anteilsguthabens veräußert, findet automatisch ein Verkauf des Gesamtbestandes dieses Wertes statt.
+
+Auszahlungen sind börsentäglich möglich. Eingehende Serviceaufträge leiten wir binnen zwei Geschäftstagen an die Kapitalverwaltungsgesellschaft weiter. Die Abwicklung des Verkaufs nimmt nach Weiterleitung an die Emittentin zwischen zwei und fünf Bankarbeitstage in Anspruch. Danach wird der Auszahlungsbetrag auf das angegebene Konto überwiesen. Der Betrag kann durch anfallende Steuern, Entgelte, Kosten und Auslagen vom gewünschten Betrag abweichen.
+###
+Wie rufe ich meine Kontoauszüge und MLP-Reportings ab?
+
+Kontoauszüge
+
+Die Kontoauszüge sämtlicher MLP-Konten stellen wir standardmäßig als PDF kostenfrei im Postfach des MLP Financepilot Banking zur Verfügung. Die Bereitstellungsdauer im MLP Financepilot beträgt jeweils 36 Monate. Wünschen Sie die Auszüge per Post, verwenden sie bitte nachfolgendes Formular. Bitte beachten Sie, dass wir die verauslagten Portokosten für die Postzustellung erheben.
+
+Formular Vereinbarung Postversand
+
+Ausnahme: Für MLP-Sparkonten und alle vor dem 1.September 2009 eröffneten MLP Liquiditäts- und Tagesgeldkonten senden wir die Kontoauszüge standardmäßig kostenfrei per Post.
+
+Das MLP-Reporting stellen wir standardmäßig als PDF kostenfrei im Financepilot Report zur Verfügung.
+###

@@ -1,0 +1,96 @@
+###
+
+Wie kann ich eine offene WP-Order ändern oder löschen?
+
+Selbstverständlich haben Sie die Möglichkeit, eine noch nicht ausgeführte Order zu ändern oder zu löschen. Wählen Sie im Orderbuch den Status "offen" oder "alle". Betätigen Sie mit dem Aktionsbutton die Funktion "Ändern" oder "Löschen".
+
+Folgende Aktionen können Sie vornehmen:
+
+    Änderung der Limithöhe
+    Änderung des Gültigkeitsdatums
+    Löschung der Order
+
+
+Durch einen Klick auf den Button "Weiter" werden die Daten Ihrer Orderänderung bzw. -löschung überprüft. Sollte eine Eingabe in Ihrem Auftrag nicht plausibel oder nicht möglich sein, erhalten Sie einen entsprechenden Hinweis. Sie haben dann die Möglichkeit, Korrekturen vorzunehmen. Sind alle Eingaben ordnungsgemäß, so erscheint die nächste Maske, auf der Sie den Auftrag durch eine TAN bestätigen.
+
+Nach Ausführung der Änderung/Löschung bekommen Sie eine Annahmebestätigung sowie weitere Informationen über den Status Ihres Auftrages angezeigt. Für den Fall, dass Ihr Auftrag nicht weitergeleitet werden konnte, erhalten Sie eine entsprechende Fehlermeldung.
+
+Bitte beachten Sie, dass wir eine Orderänderung nur vorbehaltlich einer nicht zwischenzeitlich erfolgten Ausführung annehmen können.
+###
+Was bietet mir die Seite Depot-Übersicht?
+
+In der Depot-Übersicht werden Ihnen die Wertpapiere Ihres Depots gruppiert nach folgenden Kategorien angezeigt:
+
+– Aktien / Aktienfonds
+– Renten / Rentenfonds
+– Optionsscheine
+– Dach- und Mischfonds
+– Zertifikate
+– Geldmarktpapiere
+– Immobilienfonds
+– Sonstige Depotwerte
+
+Nach jeder Kategorie erfolgt eine Summierung; so wissen Sie immer genau, wie viel Ihres Vermögens beispielsweise in Aktien und Fonds investiert ist.
+
+Verfügen Sie über mehrere Depots, so können Sie durch Selektion im Auswahlmenü oben das Depot wählen, welches Sie anzeigen lassen wollen. Es werden immer die zuletzt ermittelten Kurse angezeigt (Near-Time). Bitte beachten Sie hierbei, dass nicht für jeden Wert ständig Kurse ermittelt werden, sondern dass z.B. bei Fonds in der Regel nur einmal täglich der Kurs festgestellt wird. In solchen Fällen weist die Depotansicht die Kurse aus, die zuletzt vom Kurslieferanten geliefert wurden.
+
+Über die Aktions-Buttons können Sie
+
+- detaillierte Informationen zu Ihrem Wertpapierbestand aufrufen
+- allgemeine Informationen über das Börseninformationssystem aufrufen
+- das Wertpapier erneut kaufen
+- den Wertpapierbestand verkaufen (auch teilweise)
+###
+Was ist ein Orderbuch?
+
+Das Orderbuch stellt Ihnen alle erteilten Orders Ihres Depots dar. Dabei wird unterschieden nach offenen und geschlossenen Orders. Zu den geschlossenen Orders gehören abgerechnete, ausgeführte und gestrichene Orders.
+
+Das Orderbuch zeigt zunächst die offenen Orders an. Über die Statusauswahl können Sie die Anzeige wechseln. Beachten Sie auch den Hilfe-Button.
+###
+Wie kann ich den Status meiner WP-Order einsehen?
+
+Über das Orderbuch stellen wir Ihnen alle erteilten Orders dar. Dabei wird unterschieden nach offenen und geschlossenen Orders. Zu den geschlossenen Orders gehören abgerechnete, ausgeführte und gestrichene Orders.
+
+Das Orderbuch zeigt zunächst die offenen Orders an. Über die Statusauswahl können Sie die Anzeige wechseln.
+
+Geschlossene und abgerechnete Orders halten wir 90 Tage für Sie vor. Wenn Sie über mehrere Depots verfügen, können Sie sich durch Selektion im Auswahlmenü das Orderbuch eines anderen Depots anzeigen lassen.
+
+Beachten Sie auch den Hilfe-Button.
+###
+Wie erfasse ich eine Wertpapierorder?
+
+Über die Auswahl "Kauf" oder "Verkauf" können Sie komfortabel Ihre Order einstellen. Beim Verkauf wird Ihnen zunächst Ihr Depotinhalt angezeigt. Wählen Sie das entsprechende Wertpapier aus. Es sind auch Teilverkäufe möglich.
+
+Hilfe zu den einzelnen Orderfeldern erhalten Sie über den Hilfe-Button.
+
+Sollte ein Verkauf aufgrund der Verwahrart nicht möglich sein, wenden Sie sich bitte an Ihren Berater.
+###
+
+Was ist eine Stop-Loss-Order?
+
+Die Stop-Loss-Order ist ein Verkaufsauftrag, der ausgeführt wird, sobald der Wertpapierkurs ein bestimmtes Limit erreicht bzw. unterschreitet. Die Wertpapierorder wird dann bestens (unlimitiert) zum nächsten gehandelten Kurs ausgeführt.
+
+Um eine Stop-Loss-Order zu erteilen, klicken Sie auf  "Verkauf" und wählen unter der Limiteingabe den Eintrag "Stop-Loss" aus.
+
+Beispiel:
+Sie erteilen uns eine Stop-Loss-Order mit einem Limit von 50,00 EUR. Erreicht der Börsenkurs 50,00 EUR oder sinkt er unter 50,00 EUR, wird das Wertpapier bestens (unlimitiert) verkauft.
+###
+Was ist eine Stop-Buy-Order?
+
+Die Stop-Buy-Order ist ein Kaufauftrag, der ausgeführt wird, sobald der Wertpapierkurs ein bestimmtes Limit erreicht bzw. überschreitet. Die Wertpapierorder wird dann billigst (unlimitiert) zum nächsten gehandelten Kurs gekauft.
+
+Um eine Stop-Buy-Order zu erteilen, klicken Sie auf  "Kauf" und wählen unter der Limiteingabe den Eintrag "Stop-Buy" aus.
+
+Beispiel:
+Sie erteilen uns eine Stop-Buy-Order mit einem Limit von 50,00 EUR. Erreicht der Börsenkuskurs 50,00 EUR oder steigt er über 50,00 EUR, wird das Wertpapier billigst (unlimitiert) gekauft.
+###
+Was bedeutet Best Execution?
+
+Bei Auswahl des Börsenplatzes 'Best Execution' wird Ihr Auftrag gemäß unseren 'Allgemeinen Grundsätzen zur Auftragsausführung' ausgeführt (https://www.ksk-koeln.de/unternehmen/rechtliches/agb-und-preise/agb-allgemeine-geschaeftsbedingungen.aspx).
+
+Bitte beachten Sie, dass es im Falle einer Auftragsausführung an der Börse zu Teilausführungen kommen kann und hierdurch zusätzliche Kosten entstehen können. Am besten informieren Sie sich vor Auftragserteilung über die aktuellen Kurse und Handelsvolumina an den jeweiligen Börsenplätzen oder lassen sich beraten.
+###
+Was bedeutet 'Tick Size'?
+
+In Abhängigkeit von der Wertpapiergattung und der gewählten Börse können die Notierungssprünge (Tick Sizes) bei einer limitierten Order variieren (mögliche Tick Sizes in EUR: 0,001 / 0,005 / 0,01 / 0,05). Gewählte Limits müssen in diesen Fällen einem Vielfachen des Notierungssprung entsprechen.
+###

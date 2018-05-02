@@ -1,0 +1,116 @@
+###
+
+Was ist die Mandatsreferenz?
+
+Außer durch die Gläubiger-Identifikations-Nummer ist jedes SEPA-Lastschriftmandat durch eine eindeutige Mandatsreferenz zu kennzeichnen, die es dem Zahlungspflichtigen ermöglicht, das Bestehen eines SEPA-Lastschriftmandats bei der Belastungsbuchung zu überprüfen. Die Mandatsreferenz kann dem Zahlungspflichtigen bereits bei der Mandatseinholung auf dem Mandatsformular mitgeteilt werden oder nachträglich bekannt gegeben werden.
+
+Als Lastschrifteinreicher kann Ihr Unternehmen die Länge (max. 35 Stellen) und den Aufbau der Mandatsreferenz individuell festlegen.
+###
+
+Was bedeutet in den Inkassovereinbarungen, dass ein Mandat "auch in einer anderen Weise vereinbart werden kann?
+
+Im SEPA-Lastschriftverahren sind derzeit drei Mandatsformen mögich:
+
+1.) schriftlich (papierbasiert)
+
+2.) elektronisches Mandat mit einer qualifizierten elektronischen Unterschrift
+
+3.) sogenanntes E-Mandat
+
+Die letzten beiden Varianten stehen derzeit nicht zur Verfügung bzw. sind nicht implementiert. Die Formulierung „auch in einer anderen Form“ ist daher als Platzhalter für andere Mandatsformen vorgesehen, die einen Nachweis der Autorisierung ermöglichen. Mit dieser Formulierung wird daher sichergestellt, dass ggf. nicht zwingend die Inkassovereinbarung geändert werden muss, sondern auch eine Nebenabrede getroffen werden kann.
+###
+
+Kann eine Mandatsreferenz mehrfach an einen Kunden vergeben werden?
+
+Eine Mandatsreferenz kann grundsätzlich für einen Kunden nur einmal vergeben werden, um im Falle von z.B. Erstattungsverlangen bzw. auch Sperren eine Rückgabe zu vermeiden.
+###
+Was muss ich bei der Vorabankündigung (Pre-Notifikation) beachten?
+
+Vor einem Lastschrifteinzug informieren Sie als Zahlungsempfänger den Zahlungspflichtigen über das Fälligkeitsdatum und den fälligen Betrag z. B. mittels Rechnung, Zahlungsplan oder Vertrag.
+
+Diese Information wird im SEPA-Lastschriftverfahren auch Vorabankündigung (Pre-Notification) genannt und sollte auch Ihre Gläubiger-Identifikationsnummer und die jeweiligen Mandatsreferenz enthalten. Soweit nicht eine andere Frist mit dem Zahlungspflichtigen vereinbart wurde, müssen Sie den Lastschrifteinzug spätestens 14 Tage vor Fälligkeit ankündigen.
+###
+Wann muss aufgrund von Änderungen an den Mandatsdaten ein neues Mandat eingeholt werden?
+
+Grundsätzlich sind Änderungen von Mandatsdaten ohne Vereinbarung und Unterzeichnung eines neuen Mandats möglich (z.B. Namensänderung durch Heirat, Änderung der Kontoverbindung, Änderung der Mandatsreferenz durch den Zahlungsempfänger). Diese Änderungen sind lediglich in der vereinbarten Art und Weise und im Datensatz mitzuteilen.
+
+Wenn sich allerdings die Person des Zahlungspflichtigen oder des Zahlungsempfängers ändert, muss der Zahlungspflichtige zwingend ein neues Mandat unterzeichnen.
+###
+Was geschieht mit dem vorgegebenen Buchungsdatum wenn es aufgrund der Cut-off-Zeiten nicht mehr erreicht werden kann?
+
+Unter Service-Aspekten wird der Datensatz hinsichtlich des Fälligkeits/-Ausführungsdatums auf das nächstmögliche Datum angepasst.
+###
+
+Können periodische Zeitangaben bei der Angabe des Fälligkeitsdatums in der Pre-Notification genutzt werden?
+
+Ja, periodische Zeitangaben (z.B. Der Kredit wird in 3 Raten à 100 EUR jeweils zum 1.Arbeitstag eines Monats beginnend ab 1.September 2014) sind in der Vorabinformation möglich.
+###
+Darf der Zahlungsempfänger die 14-Tage-Frist für die Versendung der Vorabankündigung verkürzen?
+
+Ja, eine kürzere Frist kann vereinbart werden. Eine Vereinbarung, die auf die Vorabankündigung verzichtet, ist nicht möglich.
+###
+Wo erhalte ich Mustermandate und darf ich diese um eigene Angaben ergänzen?
+
+Entsprechende Vorgaben und Muster finden Sie in der Inkassovereinbarung. Muster finden Sie auf der Seite der deutschen Kreditwirtschaft:
+
+https://die-dk.de/zahlungsverkehr/sepa/inhalte-der-sepa/sepa-lastschrift/
+
+Entsprechende Übersetzungen finden Sie auf den Seiten des EPC:
+
+www.europeanpaymentscouncil.eu
+###
+
+In welcher Sprache müssen SEPA-Lastschriftmandate erstellt werden?
+
+In einer Sprache des EWR, die der Zahlungspflichtige beherrscht bzw. als Vertragssprache dient. In allen anderen Fällen ist die englische Sprache zu verwenden.
+###
+Was versteht man unter dem Fälligkeitsdatum?
+
+Das Fälligkeitsdatum (= Belastungsdatum) ist der Tag, an dem das Konto des Zahlungspflichtigen belastet werden soll, und das entscheidende Datum für alle Fristenberechnungen, die beim SEPA-Lastschriftverfahren eine Rolle spielen.
+###
+Was bedeuten die Rückgabe-Codes bei Lastschriften bzw. welche gibt es?
+Eine Übersicht über die verschiedenen Rückgabe-Codes bei Lastschriften geben wir Ihnen hier.
+
+###
+
+Welche Einreichungsfristen bestehen für SEPA-Basis-Lastschriften?
+
+Einmal- und wiederkehrenden Lastschriften können frühestens 28 Kalendertage und
+
+spätestens 1 Geschäftstag bis 11.30 Uhr vor Fälligkeit eingereicht werden. Eine spätere Einreichung führt zur Anpassung der Fälligkeit.
+
+
+###
+Welche Einreichungsfristen bestehen für SEPA-Firmenlastschriften?
+
+Einmal- und wiederkehrenden Lastschriften können frühestens 28 Kalendertage und
+
+spätestens 1 Geschäftstag bis 9.30 Uhr vor Fälligkeit eingereicht werden. Eine spätere Einreichung führt zur Anpassung der Fälligkeit.
+###
+
+Gibt es Erstattungsansprüche im Rahmen der SEPA-Basis-Lastschrift?
+
+Der Zahlungspflichtige hat das Recht, innerhalb von acht Wochen nach der Belastung eine Erstattung des Lastschriftbetrages ohne Angabe von Gründen zu verlangen.
+
+Sollte ein Einzug erfolgen, ohne dass der Zahlungspflichtige ein SEPA-Lastschriftmandat erteilt hat, besteht der Erstattungsanspruch bis zu 13 Monate nach der Belastungsbuchung.
+###
+Gibt es Erstattungsansprüche im Rahmen der SEPA-Firmenlastschrift?
+
+Erstattungsansprüche des Zahlungspflichtigen gegenüber seinem Kreditinstitut sind nach erfolgter Einlösung ausgeschlossen. Dieser Verzicht wird im Text des SEPA-Firmenlastschrift-Mandats erklärt.
+###
+Wie lange ist ein SEPA-Lastschriftmandat gültig?
+
+SEPA-Lastschriftmandate sind grundsätzlich unbefristet gültig. Sofern 36 Monate seit dem letzten Lastschrifteinzug vergangen sind und kein erneuter Lastschrifteinzug erfolgt ist, verfällt das SEPA-Lastschriftmandat.
+###
+Welche Daten eines Lastschriftmandats können durch den Zahlungsempfänger geändert werden, ohne dass ein neues Mandat eingeholt werden muss?
+
+Grundsätzlich können bei Bedarf alle wesentlichen Mandatsdaten geändert werden, so lange dies zu keinem Wechsel in der Person des Zahlungsempfängers oder des Zahlungspflichtigen führt. Geändert werden können beispielsweise Adress- und Namensänderungen.
+###
+Bedarf eine Mandatsänderung der Schrift- bzw. Textform?
+
+Die Regelungen hierz finden Sie in Ihrer Inkassovereinbarung. Es Bedarf in Deutschland der schriftform. Rechts- und beweissicher sind:
+
+- eigenhändig unterschriebende Formulare
+
+- mit einer qualifizierten elektronischen Unterschrift versehene Dokumente
+###

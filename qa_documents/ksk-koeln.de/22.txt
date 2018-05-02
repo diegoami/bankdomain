@@ -1,0 +1,43 @@
+###
+
+Kann ich im Programm SPG-Verein mehrere Vereine verwalten?
+
+Sie können beliebig viele Vereine verwalten, sogar mit unterschiedlichen Bankverbindungen. Ihre Vereine werden in verschiedenen Beständen getrennt verwaltet.
+###
+
+Wie funktioniert die Beitragsänderung?
+
+Die Beiträge sind in den Stammdaten hinterlegt. Der neue Beitrag muss somit nur in den Stammdaten geändert werden, wobei sich diese Änderung sofort auf sämtliche Mitglieder auswirkt.
+###
+Wie erfolgt der Beitragseinzug?
+
+Wenn mit Vereins-Mitgliedern Lastschrifteinzug vereinbart wurde, werden die entsprechenden Beiträge in einer Zahlungsverkehrsdatei im SEPA-XML-Format gespeichert. Diese Datei kann mit dem Online-Banking der Kreissparkasse Köln direkt an die Sparkasse zum Einzug online übertragen werden.
+
+Alternativ ermöglichen auch die Programme StarMoney und SFirm den Import dieser Datei oder die anschließende Online-Übermittlung. Für Bar- und Rechnungszahler werden Rechnungen gedruckt.
+###
+Was mache ich, wenn ich mein Zugangspasswort für SPG-Verein vergessen habe?
+
+Wir benötigen nur zwei Dateien, die sich auf der Festplatte im Unterverzeichnis des Vereines befinden.
+
+Beispiel: Beim Vereinskennzeichen TST wären dies die Dateien "TSTPOOL.DAT" und "TSTPOOL.IDX". Diese sind dann auf der Festplatte im Verzeichnis "SPG\TST\" zu finden. Mit Hilfe dieser beiden Dateien können wir das momentan gültige Passwort rekonstruieren..
+###
+Warum funktioniert die Beitragserhebung nicht?
+
+Möglicherweise wurde bei der Beitragserhebung ein Testlauf anstatt dem Originallauf durchgeführt. Empfehlenswert ist auch, vor der Beitragserhebung einen Jahres-/ Periodenwechsel durchzuführen.
+###
+
+Wie führe ich eine Beitragserhebung durch?
+
+Gehen Sie über das Menü Beiträge > Beitragsverfahren > Beitragserhebung in das Fenster Beitragserhebung.
+Vor der eigentlichen Beitragserhebung sollten Sie unbedingt eine Datensicherung und einen Testlauf durchführen. Kontrollieren Sie bitte, ob Testlauf im Fenster Beitragserhebung ausgewählt ist. Klicken Sie dann auf die Schaltfläche  . Wählen Sie in den Optionen die Zahlungstermine aus, für die der Beitragslauf durchgeführt werden soll und bestätigen dies mit der Schaltfläche . Bestätigen Sie nun im Fenster Beitragserhebung die Auswahl mit der Schaltfläche .
+Es erscheint eine Bestätigungsabfrage, die mit der Schaltfläche  bestätigt werden muss. Dann wird der Testlauf durchgeführt, an dessen Ende eine Informationsabfrage mit der Schaltfläche bestätigt werden muss.
+Das Ergebnis des Testlaufs können Sie dann über das Menü Beiträge > Beitragsverfahren > Beitragserhebungsliste kontrollieren.
+
+Um nun die Originalbeitragserhebung durchzuführen, gehen Sie wie zuvor beschrieben vor, wählen allerdings jetzt den Originallauf aus. Nach dem Originallauf kann über das Menü Beiträge > Beitragsverfahren > Datenträgeraustausch die Zahlungsverkehrsdatei ("SEPA-Lastschriftdatei *.XML") erstellt werden. Hier sollten auch die Optionen bearbeitet werden, damit beim Mitglied ein aussagekräftiger Verwendungszweck auf dem Kontoauszug erscheint.
+
+###
+
+Es können keine Computerbriefe und/oder -listen ausgedruckt werden.
+
+Die Mitgliedsnummer ist bei Briefen und Listen ein "Muss"-Feld und muss in Tabellenform angegeben werden.
+###

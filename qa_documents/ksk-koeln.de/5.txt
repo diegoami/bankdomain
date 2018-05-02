@@ -1,0 +1,114 @@
+###
+Kann ich das chipTAN-Verfahren auch mit Softwareprodukten nutzen?
+
+Ja, die gängige Zahlungsverkehr-Software unterstützt zumindest das manuelle chipTAN-Verfahren. Unabhängig davon bietet unser kostenloses Online-Banking einen hohen Leistungsumfang, bei dem Sie in den meisten Fällen auf eine zusätzlich installierte Software verzichten können. Im Regelfall ist diese Software kostenpflichtig.
+
+
+###
+Funktioniert das chipTAN comfort Verfahren mit allen Grafikkarten und Bildschirmauflösungen?
+
+Das Verfahren funktioniert mit den gängigen Grafikkarten. Zur jeweiligen Abstimmung mit Ihrer Bildschirmauflösung können Sie die Größe jeweils über die angezeigte Grafik anpassen.
+###
+Warum muss ich die Auftragsdaten zusätzlich im Display des TAN-Generators bestätigen?
+
+Durch diese zusätzliche Anzeige der Auftragsdaten in Ihrem Display haben Sie die Möglichkeit, so genannte Echtzeit-Angriffe, bei denen die Daten während der Datenübertragung manipuliert werden, zu erkennen. Wenn Sie hier Abweichungen zu Ihren erfassten Daten feststellen, sollten Sie den Auftrag nicht ausführen.
+###
+Wird der Bildschirm verkratzt, wenn ich den TAN-Generator direkt auf den Bildschirm halte?
+
+Im Regelfall besitzen die TAN-Generatoren eine rückseitige Gummierung, die das direkte Aufliegen und damit eine mögliche Beschädigung verhindern. Wir können jedoch nicht ausschließen, dass bei unsachgemäßer Handhabung Schäden an empfindlichen Monitoren entstehen können.
+###
+Wo erhalte ich den TAN-Generator?
+
+Sie können den TAN-Generator für das chipTAN-Verfahren frei im Handel erwerben, wie zum Beispiel im Online-Shop der Firma REINER-SCT:
+
+https://www.ksk-koeln.de/online-banking/uebersicht/chipkartenleser/onlinebestellung.aspx
+###
+
+Kann ich auch fremde TAN-Generatoren, z.B. von anderen Banken oder Sparkassen, verwenden?
+
+Ja, wenn es sich um einen chipTAN-Generator handelt, der das SECCOS-Verfahren unterstützt, ist er in aller Regel mit unserem System kompatibel.
+
+Für das manuelle und optische chipTAN-Verfahren benötigt der TAN-Generator einen Einschub für eine Bankkarte. Für das optische chipTAN-Verfahren muss der TAN-Generator zusätzlich auf der Rückseite optische Sensoren besitzen.
+###
+Kann ich den TAN-Generator auch in der Filiale oder beim ServiceCenter bestellen?
+
+Bitte erwerben Sie Ihren TAN-Generator für das chipTAN-Verfahren im freien Handel, wie zum Beispiel im Online-Shop unseres Partners REINER-SCT:
+
+https://www.ksk-koeln.de/online-banking/uebersicht/chipkartenleser/onlinebestellung.aspx
+###
+Kann ich mit mehreren SparkassenCards den gleichen chipTAN-Generator verwenden?
+
+Ja. Mehrere Nutzer können mit verschiedenen SparkassenCards den TAN-Generator nutzen. Achten Sie aber darauf, dass Sie nur die SparkassenCard verwenden, die in Ihrem Online-Banking-Vertrag hinterlegt wurde.
+Sie können auch eine andere SparkassenCard, die auf Ihren Namen lautet, hinterlegen. Entweder nehmen Sie dies über das Online-Banking selbstständig vor oder wenden sich an Ihren Kundenberater.
+###
+Was soll ich tun, wenn die von mir eingetragene TAN im chipTAN-Verfahren nicht akzeptiert wird?
+
+Bitte überprüfen Sie vor der Bestätigung die TAN-Eingabe auf Tippfehler und Zahlendreher!
+
+Verwenden Sie den Internet-Browser Safari in einer Version 5 oder älter?
+Bitte aktualisieren Sie Ihren Safari-Browser - sofern möglich - oder wechseln Sie zu einem aktuellen Internet-Browser!
+
+Wurde für die Erzeugung der TAN die für das Online-Banking hinterlegte Karte verwendet?
+Wenn nein, bitte mit der richtigen Karte erneut versuchen!
+###
+Muss der TAN-Generator an meinen Computer angeschlossen werden?
+
+Nein, der TAN-Generator besitzt keine Anschlüsse. Die Datenübertragung erfolgt beim chipTAN comfort über die optische Schnittstelle vom Bildschirm an den TAN-Generator oder durch die Eingabe der Daten beim manuellen chipTAN-Verfahren.
+###
+
+Kann ich mit meiner Kundenkarte das chipTAN-Verfahren nutzen?
+
+Nein.
+Die Karte benötigt einen Chip zur TAN-Ermittlung. Unsere SparkassenCard verfügt über den erforderlichen Chip. Unsere Kundenkarte hingegen dient ausschließlich der Erstellung von Kontoauszügen und trägt keinen Chip.
+###
+Wie funktioniert die optische Übermittlung beim chipTAN-Verfahren?
+
+Durch Platzieren der optischen Sensoren Ihres TAN-Generators vor die Flicker-Grafik auf Ihrem Monitor, werden auftragsspezifische Daten an den TAN-Generator übermittelt. Zusammen mit der freigeschalteten SparkassenCard wird daraus eine gültige TAN erzeugt. Der chipTAN-Generator ist geeignet für Röhren- und Flach-Monitore. Bei Flachbildschirmen mit einem Hochglanz-Display kommt es auf Grund der Spiegelung vereinzelt zu Störungen bei der Übertragung. In diesem Fall bitte das manuelle chipTAN-Verfahren wählen.
+
+Auf unserer Hilfe-Seite zum chipTAN-Verfahren finden Sie eine Video-Anleitung zum genauen Ablauf:
+https://www.ksk-koeln.de/online-banking/service/hilfe/hilfe_zu_chiptan.aspx
+###
+
+Muss eine Software installiert werden, um den TAN-Generator nutzen zu können?
+
+Nein, es sind keine Treiber oder andere Software für die Nutzung notwendig.
+###
+Kann der TAN-Generator auch mit einem MAC verwendet werden?
+
+Ja, das ist grundsätzlich möglich.
+
+
+###
+
+Kann ich eine SparkassenCard für das chipTAN-Verfahren nutzen, die nicht auf meinen Namen lautet oder von einem anderen Kreditinstitut ist?
+
+Nein, Sie können beim Online-Banking nur eine SparkassenCard unseres Hauses nutzen, die auf Ihren Namen lautet.
+###
+Was muss ich tun wenn ich meine SparkassenCard verliere oder mir diese gestohlen wird?
+
+Bitte melden Sie den Verlust sofort der Notruf-Zentrale, im Inland unter der Rufnummer 116 116 bzw. aus dem Ausland unter +49 116 116.
+
+Für die Bestellung einer neuen Karte wenden Sie sich bitte an Ihre Filiale. Diese veranlasst auch, das die neue SparkassenCard im ChipTAN-Vertrag hinterlegt wird.
+###
+
+Auf was muss ich achten, wenn ich eine neue SparkassenCard erhalte?
+
+Wenn Sie eine neue SparkassenCard erhalten, muss diese vor der Nutzung für das chipTAN-Verfahren synchronisiert werden. Die Synchronisation können Sie im Online-Banking unter dem Punkt "Sicherheit" aufrufen.
+###
+Kann ich den TAN-Generator auch bei anderen Banken nutzen?
+
+Sie können den TAN-Generator auch für chipTAN-Verfahren anderer Banken nutzen.
+###
+
+Kann ich das chipTAN-Verfahren auch mit Softwareprodukten nutzen?
+
+Ja, die gängige Zahlungsverkehr-Software unterstützt zumindest das manuelle chipTAN-Verfahren. Unabhängig davon bietet unser kostenloses Online-Banking einen hohen Leistungsumfang, bei dem Sie in den meisten Fällen auf eine zusätzlich installierte Software verzichten können. Im Regelfall ist diese Software kostenpflichtig.
+###
+Kann ich das chipTAN-Verfahren auch für das S-direkt Brokerage nutzen?
+
+Ja, das ist bei uns möglich.
+###
+Funktioniert das chipTAN-Verfahren auch mit einem älteren Röhren-Monitor?
+
+Das chipTAN comfort-Verfahren funktioniert mit mehr als 99 % aller heute im Einsatz befindlichen PC-Monitore. Sollte das chipTAN-Verfahren mit Ihrem Monitor nicht funktionieren, haben Sie jederzeit die Möglichkeit, das manuelle chipTAN-Verfahren zu nutzen.
+###

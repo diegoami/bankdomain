@@ -1,0 +1,18 @@
+###
+Für wen ist die Gläubiger-ID zu beantragen?
+
+Die Gläubiger-Identifikationsnummer kennzeichnet grundsätzlich den formell Einziehenden, jedoch nicht zwingend den materiell Berechtigten. Im Mandat ist die Gläubiger-ID des Unternehmens bzw. der Person anzugeben,
+
+    zu dessen/deren Gunsten das Mandat ausgestellt wird und
+    das/die im Datensatz als Lastschriftgläubiger erscheint und
+    auf dessen/deren Namen das Konto lautet, über das der Lastschrifteinzug
+
+abgewickelt wird.
+
+###
+Was ist der Creditor-Identifier oder auch die Gläubiger-Identifikations-Nummer?
+
+Als Lastschrifteinreicher in den SEPA-Lastschriftverfahren benötigen Sie eine sogenannte Gläubiger-Identifikationsnummer (Creditor Identifier). Diese ist im SEPA-Lastschriftmandat und in allen SEPA-Lastschriften anzugeben. In Deutschland können Sie diese bei der Deutschen Bundesbank über das Internet beantragen:
+
+www.glaeubiger-id.bundesbank.de
+###

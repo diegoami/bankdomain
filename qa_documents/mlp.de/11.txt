@@ -1,0 +1,18 @@
+###
+Welche Wertpapiere können im MLP Online-Wertpapierdepot gehandelt werden?
+
+Zur Zeit können sämtliche Aktien, Renten, Zertifikate, Optionsscheine, Bezugsrechte, sowie Bundesschatzbriefe und Finanzierungsschätze, die an deutschen Börsen handelbar sind, im MLP Online-Wertpapierdepot gehandelt, d.h. gekauft, verkauft und eingeliefert werden.
+
+Investmentfonds können eingeliefert oder verkauft werden. Der Kauf von Investmentfondsanteilen über das MLP Online-Wertpapierdepot ist jedoch nicht möglich.
+###
+Wie erkenne ich, dass meine Order ausgeführt wurde?
+
+In der Orderliste ist die entsprechende Order mit dem Status "ausgeführt" und einem Ausführungskurs versehen.
+###
+Können Order-Limite geändert werden, bzw. können Wertpapierorders gestrichen werden?
+
+Order-Limite können geändert werden, allerdings nur so lange die Orders noch nicht ausgeführt wurden. Die Order gilt so lange als vorläufig geändert bis eine Limitänderungsbestätigung von der Börse kommt.
+
+Erteilte Orders können ebenfalls nur gestrichen werden, so lange sie noch nicht ausgeführt wurden. Die Order gilt so lange als vorläufig gestrichen bis eine Streichungsbestätigung von der Börse kommt.
+
+###

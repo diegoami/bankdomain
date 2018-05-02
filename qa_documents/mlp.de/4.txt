@@ -1,0 +1,110 @@
+###
+Wie ist eine Sortenbestellung über die MLP Banking AG möglich?
+
+Sorten bestellen Sie schriftlich bei der MLP Banking AG. Bitte senden Sie uns hierzu das Formular zur Sortenbestellung vollständig ausgefüllt und mit Ihrer Originalunterschrift versehen an die nachstehende Adresse der MLP Banking AG oder an die Faxnummer (06222) 3169 8611.
+
+Formular Sortenbestellung MLP-Konto
+
+MLP Banking AG
+Postfach 1328
+69154 Wiesloch
+
+Geht Ihre Bestellung werktags bis 13.00 Uhr bei uns ein, erfolgt die Auslieferung per Kurier im Regelfall am nächsten Bankarbeitstag (Montag bis Freitag). Bei Bestellungen nach 13.00 Uhr erfolgt diese spätestens am zweiten Bankarbeitstag nach der Bestellung.
+
+Die Kosten für Ihre Sortenbestellung entnehmen Sie bitte unserem Preis-und Leistungsverzeichnis
+###
+Wie lautet die Internationale Bank Account Number (IBAN) meines MLP-Girokontos?
+
+Die IBAN Ihres MLP Girokontos finden Sie rechts oben auf Ihrem Kontoauszug oder alternativ über Ihren MLP Financepilot Banking im linksbündigen Menüpunkt "Banking" -> "Kontoinformationen".
+Wie lautet der Internationale Bankcode (BIC) der MLP Banking AG ?
+
+Der BIC der MLP Banking AG lautet MLPBDE61.
+###
+Welche Daten benötige ich, um eine Überweisung aus dem Ausland auf mein MLP Konto zu bekommen?
+
+Bei Zahlungseingängen aus dem Ausland nutzen Sie bitte folgende Bankverbindung: Empfänger:
+
+Ihr Vor- und Zuname
+IBAN: Ihre persönliche IBAN (International Bank Account Number)*
+SWIFT Code: MLPBDE61 via GENODEFF
+
+*Ihre persönliche IBAN können Sie über den MLP Financepilot Banking im Menüpunkt „Banking“ –> "Kontoinformationen" abfragen oder dem Kontoauszug Ihres MLP-Kontos entnehmen.
+
+Die Voraussetzungen für eine günstigere EURO-Überweisung (SEPA) sind
+
+    Grenzüberschreitende Zahlungen in die Staaten der Europäischen Union und des Europäischen Wirtschaftsraumes sowie der Schweiz
+    Überweisungsbetrag in Euro
+    Angabe des BIC (Bank Identifier Code) der Empfängerbank. Der BIC (Bank Identifier Code) der MLP Banking AG ist ebenfalls auf Ihren Kontoauszügen vermerkt und lautet: MLPBDE61
+    Als Entgeltregelung muss SHARE (Entgeltteilung) vereinbart werden. Das bedeutet, dass die inländischen Gebühren der
+    Auftraggeber, die Gebühren im Ausland der Zahlungsempfänger übernimmt.
+
+Hinweis: Für vollständig und korrekt erfasste Überweisungsaufträge über die entsprechende Funktion "EURO-Überweisung (SEPA)" im MLP Financepilot Banking, berechnet die MLP Banking AG keine Gebühren.
+
+Aufgrund der vorgeschriebenen Kostenregelung "Entgeltteilung" können im Zielland Gebühren vom Überweisungsbetrag einbehalten werden, deren Höhe individuell geregelt und uns daher nicht bekannt sind.
+###
+Wie tätige ich eine Überweisung ins Ausland?
+
+Für eine Zahlung ins Ausland außerhalb der Staaten der Europäischen Union und des Europäischen Wirtschaftsraums sowie der Schweiz nutzen Sie im MLP Financepilot Report die Funktion "Auslandsüberweisung".
+
+Eine EURO-Überweisung (SEPA) (=Grenzüberschreitende Zahlung in die Staaten der Europäischen Union und des Europäischen Wirtschaftsraumes sowie der Schweiz) erfassen Sie im MLP Financepilot Banking in dem linksbündigen Menüpunkt „Banking“ -> „Überweisung Inland/EU“. Die Kriterien für EURO-Überweisungen (SEPA) entnehmen Sie bitte der zugehörigen Hilfeseite.
+###
+Was sind die Grundlagen für das SEPA-Verfahren?
+
+Einheitliche Verfahren für Europa
+
+Der von der europäischen Kreditwirtschaft 2002 gegründete European Payments Council (EPC) hat einheitliche Standards und Regelungen für europäische Überweisungen, Lastschriften sowie Kartenzahlungen entwickelt und verabschiedet.
+
+Die neuen SEPA-Produkte sollen vorrangig innerhalb der Europäischen Union (EU), den drei Mitgliedstaaten des Europäischen Wirtschaftsraumes (EWR) und der Schweiz gelten.
+
+Die 31 Länder im Überblick
+
+Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Großbritannien und Nordirland, Irland, Italien, Island (EWR), Lettland, Liechtenstein (EWR), Litauen, Luxemburg, Malta, Niederlande, Norwegen (EWR), Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechien, Ungarn, Zypern und die Schweiz (ab 2008 für Überweisungen, weitere Umsetzungen erfolgen Schrittweise).
+
+Nationale Verfahren existieren zunächst weiter
+
+Die neuen Zahlungs-Instrumente für den europäischen Binnenmarkt werden zunächst zusätzlich zu den nationalen Verfahren angeboten. Bei inländischen Zahlungen kann deshalb seit 2008 zwischen nationalen und europäischen Verfahren gewählt werden.
+###
+Was ist eine EURO-Überweisung (SEPA)?
+
+Die SEPA (Single Euro Payments Area) ist ein einheitlicher Euro-Zahlungsverkehrsraum, in dem alle Zahlungen wie inländische Zahlungen behandelt werden.
+
+Bereits in der Vergangenheit existierte in Deutschland mit der "EU-Standardüberweisung" ein vergleichbar standardisiertes Verfahren zur Abwicklung von Euro-Überweisungen bis 50.000 € in andere EU- und EWR-Staaten. Die entsprechenden Standards wurden vom EPC (European Payments Council) weiterentwickelt und sind auf alle EURO-Überweisungen (SEPA) anzuwenden. So werden Auftraggeber und Zahlungsempfänger, sowie deren Kreditinstitute durch IBAN und BIC identifiziert. Nach Umsetzung der PSD (EU Payment Services Directive) können Sie als Kunde nach einer maximalen Abwicklungszeit von drei Bankgeschäftstagen (seit dem Jahr 2012 nach einem Bankgeschäftstag) über den Überweisungsbetrag verfügen. Dies ist unabhängig davon, in welchem Land des SEPA-Raums das Empfänger-Konto unterhalten wird.
+Wie beauftrage ich eine EURO-Überweisung (SEPA) und was kostet sie?
+
+EURO-Überweisungen (SEPA) erfassen Sie im MLP Financepilot Banking unter „Überweisung Inland/EU“ im Menüpunkt "Banking". Wählen Sie das entsprechende Konto und die Überweisungsart „EURO-Überweisung" (SEPA) aus und erfassen Sie dort Ihre Überweisung.
+
+Die Angabe von BIC und IBAN des Zahlungsempfängers sind dabei zwingend erforderlich.
+
+Die MLP Banking AG berechnet für die Entgegennahme und Weiterleitung der EURO-Überweisungen keine Gebühr.
+###
+Was bedeuten die Abkürzungen rund um die SEPA?
+
+BIC
+
+Der BIC (Bank Identifier Code) ist die internationale Bankleitzahl. Bitte erfragen Sie die persönliche IBAN und den entsprechenden BIC immer direkt beim Zahlungsempfänger.
+
+EPC
+
+EPC (European Payments Council), frei übersetzt: "Europäischer-Zahlungsverkehrs-Ausschuss", ist das von der europäischen Kreditwirtschaft gegründete Gremium, das die einheitlichen Standards für SEPA entwickelt.
+
+EU
+
+Die Europäische Union besteht aus 28 Mitgliedsstaaten. Seit Januar 2008 haben insgesamt 19 EU-Mitgliedsstaaten den Euro als Währung eingeführt.
+
+EWR
+
+EWR steht für "Europäischer Wirtschaftsraum". Dazu gehören die 28 EU-Mitgliedsstaaten sowie Island, Liechtenstein und Norwegen.
+
+IBAN
+
+Die IBAN (International Bank Account Number) ist die internationale Kontonummer.
+Bitte erfragen Sie diese sowie den entsprechenden BIC immer direkt beim Zahlungsempfänger.
+
+SEPA
+
+Das Kürzel SEPA ("Single Euro Payments Area") bezeichnet das Projekt eines europaweit einheitlichen Zahlungsraums, in dem seit 2008 die neuen Standards gelten. Es nehmen 34 Länder an SEPA teil. Dazu gehören neben den Mitgliedern der Europäischen Union auch die drei Länder des Europäischen Wirtschaftsraumes (EWR), die Schweiz, Monaco und San Marino.
+
+SWIFT
+
+Die SWIFT ist die "Society for Worldwide Interbank Financial Telecommunications". Die Gesellschaft regelt den internationalen Datenaustausch zwischen Banken. Sie betreibt ein weltweites Leitungsnetz und definiert Nachrichten-Standards. Jede teilnehmende Bank bekommt eine eindeutige Kennung, den BIC.
+###

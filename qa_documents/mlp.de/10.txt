@@ -1,0 +1,23 @@
+###
+Wie und von wem kann ein Freistellungsauftrag gestellt werden?
+
+Jede natürliche Person (ab Geburt) kann einen Freistellungsauftrag einreichen und den gesamten Freistellungsbetrag dabei auf mehrere Kreditinstitute aufteilen. Die optimale und korrekte Verteilung obliegt dem Steuerpflichtigen selbst. Dabei dürfen die nachstehenden Höchstbeträge nicht überschritten werden:
+
+Höchstbeträge gültig seit 01.01.2009
+Ledige 801 EUR
+Verheiratete 1.602 EUR
+
+Ein Freistellungsauftrag kann nicht auf einzelne Konten / Depots beschränkt werden, sondern gilt generell für alle Konten und Depots, die bei einem Kreditinstitut bestehen.
+
+Bei Ehepartnern ist zudem eine gemeinschaftliche als auch eine getrennte Freistellung der Konten und Depots möglich. Ein gemeinsam erteilter Freistellungsauftrag hat den Vorteil, dass neben Gemeinschaftskonten und -depots auch die Einzelverträge freigestellt sind. Ferner erfolgt bei der gemeinschaftlichen Freistellung automatisch eine ehegattenübergreifende Verlustverrechnung.
+
+Sofern der Sparerpauschbetrag bereits ausgeschöpft wurde, ist im Rahmen des Freistellungsformulars auch nur die Beauftragung der ehegattenübergreifenden Verlustverrechnung möglich. Hierbei ist auf dem gemeinsamen Freistellungsauftrag der Betrag 0,00 EUR anzugeben.
+###
+Wie kann ich einen Freistellungsauftrag bei der MLP Banking AG einreichen?
+
+Ein Freistellungsauftrag muss generell mit dem entsprechenden Formular eingereicht werden. Freistellungsauftrag einschließlich Antrag auf ehegattenübergreifende Verlustrechnung
+###
+Wie hoch ist mein gestellter Freistellungsauftrag bei der MLP Banking AG ?
+
+Sie finden die Daten Ihres Freistellungsauftrags für Ihre Konten und Depots bei der MLP Banking AG im MLP Financepilot Banking im Menü "Banking" -> "Freistellungsauftrag".
+###

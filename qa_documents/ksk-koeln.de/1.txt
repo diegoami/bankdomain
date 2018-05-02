@@ -1,0 +1,80 @@
+###
+Warum gibt es die SEPA?
+
+SEPA vereinheitlicht im SEPA-Raum die Bezahlprozesse. Ziel ist es, Unterschiede zwischen nationalen und grenzüberschreitenden Zahlungen abzubauen und den Zahlungsverkehr zu vereinfachen. Jede SEPA-Transaktion basiert auf den gleichen Prozessen und technischen Standards. Dadurch ist es möglich, Zahlungen innerhalb der Teilnehmerländer schnell, einfach und kostengünstig abzuwickeln.
+###
+Was ist eine IBAN?
+
+Die internationale Bankkontonummer IBAN wird nicht nur für internationale sondern auch für alle nationalen Zahlungen eigesetzt.
+
+Völlig unbekannt ist Ihnen die IBAN nicht, denn sie setzt sich zusammen aus:
+
+    dem Ländercode (z.B. DE für Deutschland)
+    einer zweistelligen Prüfziffer
+    der Bankleitzahl
+    der Kontonummer
+
+Das heißt: Bis auf die ersten vier Zeichen ist die IBAN Ihnen bereits ganz vertraut.
+
+Die IBAN ist international nach einer einheitlichen Struktur aufgebaut, ihre Länge ist aber von Land zu Land unterschiedlich: So ist die IBAN auf maximal 34 alphanumerische Zeichen begrenzt. In Deutschland umfasst sie 22 Stellen.
+
+
+###
+Wie lautet der SWIFT-Code der Kreissparkasse Köln?
+
+Der SWIFT- Code ( = Society for Worldwide Interbank Financial Telecommunication), auch SWIFT-BIC  genannt ( = Bank Identifier Code ), der Kreissparkasse Köln lautet:
+
+COKSDE33XXX
+
+Der Code kann weltweit angewandt werden, um ein bestimmtes Kreditinstitut zu identifizieren.
+###
+Welche Länder nehmen an der SEPA teil?
+
+An der SEPA sind 34 Staaten beteiligt: die 28 EU-Länder, die drei weiteren Mitglieder des Europäischen Wirtschaftsraumes EWR, Island, Liechtenstein und Norwegen sowie die Schweiz, San Marino und Monaco. Die SEPA-Verfahren können jedoch ausschließlich für Zahlungen in Euro genutzt werden.
+###
+
+Was ändert sich durch SEPA beim Zahlungsverkehr mit Ländern außerhalb Europas?
+
+Nichts, denn die SEPA-Verfahren gelten nur für den bargeldlosen Zahlungsverkehr innerhalb der Teilnehmerländer in Euro. Sie können für Zahlungen in anderen Währungen nicht eingesetzt werden.
+###
+Wie steht es mit der Preisgestaltung bei SEPA? Gilt die EU-Preisverordnung 2560/2001 auch für SEPA-Zahlungen?
+
+Die EU-Verordnung 2560/2001 schreibt vor, dass Euro-Zahlungen bis zu einem Betrag von 50.000 Euro innerhalb der Europäischen Union mittels EU-Standardüberweisung nicht teurer sein dürfen als eine Inlandsüberweisung.
+Diese Vorgabe gilt auch für die SEPA-Überweisung. Die Preise werden jedoch von jedem Institut individuell festgelegt.
+Die Kreissparkasse Köln berechnet bei grenzüberschreitenden elektronischen Überweisungen, sofern diese im neuen SEPA-Datenformat erteilt wurden, seit dem 28.01.2008 innerhalb des gesamten SEPA-Gebiets (mit Ausnahme der Schweiz, San Marino und Monaco unabhängig von der Betragshöhe nur noch den Preis für eine elektronische Inlands-Überweisung.
+###
+
+Sind Schecks von SEPA betroffen?
+
+Für neue Scheckformulare ist seit November 2016 die IBAN statt Kontonummer und Bankleitzahl Pflicht. Alte Formulare dürfen jedoch aufgebraucht werden. Die elektronische Weiterleitung von Scheckzahlungen erfolgt zwingend im SEPA-Format (XML).
+###
+Wie erreiche ich, dass SEPA-Zahlungen als Einzelposten auf dem Kontoauszug dargestellt werden?
+Bei der Einreichung von SEPA-Sammelzahlungen können Sie als Kunde selbst entscheiden, ob die Buchung Ihrer eingereichten Sammeldatei im Kontoauszug als Einzelposten oder als Sammler dargestellt werden soll.
+Die Entscheidung können Sie für jede Datei variieren. Sie müssen sich nicht dauerhaft auf eine Einstellung festlegen.
+Im Online-Banking können Sie diese Einstellung in der Option "Kontoauszugsdarstellung" bei der Anlage eines Sammelauftrages auswählen.
+In SFirm wählen Sie in der Dialogmaske zur Abfrage des Ausführungsdatums die Option "Sammelbuchung".
+Wenn die Option gewählt wird, erfolgt die Darstellung als Sammelbuchung im Kontoauszug. Beachten Sie bitte, dass SFirm sich diese Einstellung anwenderbezogen merkt. Auch andere Softwareprodukte fragen diese Option meistens beim Versand oder der Erstellung des Sammlers ab.
+Bei der Erstellung einer Datei über eine eigene Anwendung steuert dies der Eintrag im sogenannten "Batchbooking"(Sammler)-Kennzeichen: true = Sammler, false = Einzelpostendarstellung.
+###
+Wo finde ich eine aktuelle Formatbeschreibung für SEPA-/XML-Dateien?
+Eine aktuelle Formatbeschreibung und Spezifikation für SEPA-/XML-Dateien finden Sie hier.
+###
+
+Was ändert sich durch SEPA bezogen auf Zahlungsverkehr über Service-Rechenzentren?
+
+Durch die Umstellung auf SEPA ändert sich grundsätzlich nichts hinsichtlich der Zahlungsverkehrsabwicklung über Service-Rechenzentren. Beachten Sie auch die zusätzlichen Informationen:
+
+    SEPA-Dateien, die über eine Service-Rechenzentrum (z.B. DATEV, KDZV etc.) eingereicht werden, können entweder per unterschriebenem Begleitzettel (einzureichen über die konfoführende Filiale) bzw. per Online-Freigabe im Online-Banking über den Menü-Punkt Zahlungsverkehr/Dateifreigabe zur Buchung freigegeben werden.
+    Über ein Service-Rechenzentrum eingereichte SEPA-Dateien bleiben ab dem Übertragungstermin an die Sparkasse bzw. das Rechenzentrum der Sparkasse einen Kalendermonat gespeichert. Werden diese in diesem Zeitraum nicht zur Buchung freigegeben, erfolgt die Löschung.
+    Wenn in der SEPA-Datei ein Ausführungstermin mitgegeben wurde und der Begleitzettel (oder die Online-Freigabe) rechtzeitig vor dem Ausführungstermin vorliegt, wird der enthaltene Ausführungstermin automatisch berücksichtigt. Eine manuelle Änderung des Termins, z.B. über den Begleitzettel, ist nicht möglich. Wurde in der Datei ein Ausführungstermin mitgegeben und liegt der Begleitzettel (oder die Online-Freigabe) erst nach dem Ausführungs-Termin vor, wird der Ausführungstermin automatisch hochgesetzt und die Buchung erfolgt zum Vorlagedatum des Begleitzettels in unserem Rechenzentrum (bzw. zum Datum der Online-Freigabe). Wurde in der Datei kein Ausführungstermin mitgegeben, erfolgt die Buchung zum Datum der Vorlage des Begleitzettels in unserem Rechenzentrum (bzw. zum Datum der Online-Freigabe). Bitte beachten Sie, dass der Begleitzettel am gewünschten Buchungstag bis 13.00 Uhr vorliegen muss.
+
+
+###
+Was ist das sogenannte Batch-Booking-Kennzeichen?
+
+Entscheiden Sie selbst, ob sie SEPA-Sammelaufträge als Sammel- oder Einzelposten dargestellt bekommen möchten. Das Batch-Booking-Kennzeichen in SEPA-Sammelaufträgen im Online-Banking als "Kontoauszugsdarstellung" dargestellt ermöglicht Ihnen diese Entscheidung Buchung für Buchung selbst zu treffen.
+
+So können Sie z.B. Löhne und Gehälter als Sammelbuchung, aber eine Sammlung von zu zahlenden Rechnungen als Einzelposten darstellen lassen.
+
+Die Benennung kann z.B. in Software-Programmen abweichen, ist aber in den meisten Fällen selbsterklärend.
+###

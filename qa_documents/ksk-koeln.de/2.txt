@@ -1,0 +1,30 @@
+###
+
+Wenn ich meinen bisherigen Anmeldenamen ändere, bleibt dann der alte Anmeldename trotzdem reserviert?
+
+Nein. Nach der Änderung wird der alte Anmeldename vom System nicht mehr erkannt und kann unmittelbar danach von einem anderen Benutzer verwendet werden.
+###
+Muss ich meinen Anmeldenamen nach der Erstanmeldung ändern?
+
+Nein. Es besteht für Sie keine Verpflichtung zur Änderung. Wenn Sie wünschen, können Sie jedoch jederzeit Ihren Anmeldenamen ändern.
+
+Wählen Sie dazu folgenden Link auf unserer Homepage: Online-Banking
+###
+Welche Zeichen darf ich bei meinem Anmeldenamen verwenden?
+
+Folgende Zeichen sind möglich:
+- Klein- und/oder Großbuchstaben von a-z bzw. A-Z
+- Ziffern (0-9), Leerzeichen
+- Sonderzeichen: " ' ! # $ & * + , - . / : ; = ? @ ^ _ % § ( )
+
+Am Anfang und am Ende des Anmeldenamens sind keine Leerzeichen und Unterstriche erlaubt. Ebenso darf der Anmeldename nicht nur aus Leerzeichen und Unterstrichen bestehen.
+###
+
+Wie melde ich mich erstmalig im Online-Banking an?
+
+Über den "Login"-Button oben rechts auf unserer Internetseite öffnet sich die Anmeldemaske für das Online-Banking. Bitte geben Sie hier Ihren Anmeldenamen und die Eröffnungs-PIN ein und folgen Sie den Anweisungen auf dem Bildschirm. Die Anmeldedaten entnehmen Sie bitte Ihrer Vereinbarung zum Online-Banking.
+
+smsTAN: Halten Sie Ihr Mobilfunkgerät bereit
+chipTAN: Halten Sie Ihren TAN-Generator und Ihre S-Card bereit
+pushTAN: Installieren Sie vorab die pushTAN-App auf Ihrem Smartphone oder Tablet. Öffnen Sie diese aber erst, wenn Sie während des Anmeldevorgangs im Online-Banking dazu aufgefordert werden. Halten Sie Ihren Registrierungsbrief bereit.
+###

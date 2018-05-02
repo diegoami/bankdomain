@@ -1,0 +1,7 @@
+###
+Wann kann meine Kreditkarte für das Online-Banking freigeschaltet werden?
+
+Dreimal monatlich (Monatsanfang, Monatsmitte und am Monatsende) werden neue Kreditkarten in das Online-Banking-System übertragen. Wird eine Kreditkarte im Finanzstatus angezeigt, kann diese mit Hilfe einer TAN für die Umsatzanzeige und die elektronische Kreditkartenabrechnung freigeschaltet werden.
+
+Nutzen Sie hierfür den Aktionsbutton hinter der Kreditkartennummer.
+###

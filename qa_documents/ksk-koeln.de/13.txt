@@ -1,0 +1,16 @@
+###
+
+Welche Bedeutung hat das Verfallsdatum auf der HBCI-Chipkarte?
+
+Auf der HBCI-Chipkarte ist ein Verfallsdatum angegeben, z.B. 12/14 oder 12/15. Dieses hat keine Bedeutung für die Nutzung der Karte im Online-Banking mit dem Sicherungsmedium HBCI. Die Karten sind unbegrenzt gültig.
+###
+Welche Kommunikationsadresse muss ich in meiner Software angeben?
+
+Die Adresse für das HBCI-Verfahren mit Chipkarte lautet: banking-rl6.s-fints-pt-rl.de
+
+I.d.R. wird Ihre Software diese automatisch hinterlegen.
+###
+Was muss ich tun, wenn meine HBCI-Karte gesperrt ist?
+
+Eine Entsperrung ist leider nicht möglich. Bitte beantragen Sie bei Ihrem Kundenberater eine neue HBCI-Karte. Daraufhin erhalten Sie auch eine neue Karten-PIN.
+###

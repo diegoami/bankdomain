@@ -1,0 +1,56 @@
+###
+
+Können ausländische Handynummern für smsTAN genutzt werden?
+
+Nein. Die Handynummer muss mit der deutsche Ländervorwahl +49 beginnen. Ein Empfang der TAN im Ausland auf die deutsche Handynummer ist möglich.
+
+Beachten Sie jedoch eine mögliche Verzögerung des sms-Empfangs.
+###
+Kann ich smsTAN und chipTAN parallel nutzen?
+
+Ja.
+Sie erhalten zwei unterschiedliche Anmeldenamen, mit denen Sie bei der Anmeldung entscheiden, welches Sicherungsmedium (smsTAN/chipTAN) Sie nutzen möchten. Bitte wenden Sie sich hierzu einen Berater in Ihrer Filiale.
+###
+Wenn ich bei einer Transaktion den "Weiter"-Button bestätige, erhalte ich dann automatisch eine TAN auf mein Handy?
+
+Ja.
+###
+
+Kann ich mehrere Handynummern hinterlegen?
+
+Ja, dies können Sie bei Ihrem Kundenberater beantragen.
+###
+Wie lange dauert der Versand der angeforderten TAN per SMS?
+
+In der Regel dauert die Übermittlung der SMS nur wenige Sekunden. Bei schlechter Empfangslage Ihres Handys kann sich der Empfang verzögern. Wenn Sie sich im Ausland befinden, kann sich der Empfang aufgrund des Roamings verzögern.
+###
+
+Was soll ich tun, wenn die von mir eingegebene TAN im smsTAN-Verfahren nicht akzeptiert wird?
+
+Bitte überprüfen Sie vor der Bestätigung die TAN-Eingabe auf Tippfehler und Zahlendreher!
+
+Gehört die eingegebene TAN zum vorliegenden Auftrag?
+Bitte vergleichen Sie die Überweisungs- und Sendedaten der sms mit Ihrem Auftrag!
+###
+
+Was soll ich - in Bezug auf das smsTAN-Verfahren - tun, wenn mein Handy entwendet wird beziehungsweise verloren geht?
+
+Bitte wenden Sie sich schnellstmöglich an Ihren Berater oder an die Hotline 0221 227-4200 um Ihren Zugang zum Online-Banking sperren zu lassen.
+
+Die Hinterlegung einer neuen Handynummer ist nur über einen Berater in Ihrer Filiale möglich.
+
+###
+
+Was kann / soll ich unternehmen, wenn ich keine TAN per SMS erhalte?
+
+Überprüfen Sie die Funkion - insbesondere die Netzanbindung- Ihres Mobilfunkgerätes.
+
+Überprüfen Sie den SPAM-Ordner Ihrer SMS-Anwendung.
+
+Testen Sie gegebenenfalls - ohne weitere Kosten zu verursachen - ob der SMS-Empfang auf Ihrem Endgerät grundsätzlich möglich ist.
+
+Bitte überprüfen Sie vor Anforderung der TAN die letzten Ziffern Ihrer angezeigten Mobilfunknummer. Haben Sie eine neue Mobilfunknummer, so ist diese möglicherweise noch nicht im Online-Banking hinterlegt. Bitte wenden Sie sich in diesem Fall an Ihre Filiale.
+Bemerken Sie neben Ihrer aktuellen Mobilfunknummer eine veraltete Mobilfunknummer, so können Sie diese unter den folgenden Menüpunkten deaktivieren:
+- "Sicherheit"
+- "Mobilfunkverbindung"
+###

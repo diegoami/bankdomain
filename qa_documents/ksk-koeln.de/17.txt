@@ -1,0 +1,90 @@
+###
+Können auch Kreditkartendaten ausgespäht werden?
+
+Ja, einige Betrüger haben es auch auf Kreditkartendaten abgesehen. Seien Sie deshalb stets kritisch,  wenn Sie per E-Mail oder Telefon aufgefordert werden, Ihre Kreditkartendaten (z.B. Kartennummer, Gültigkeitsdatum) anzugeben bzw. abzugleichen. Geben Sie niemals Auskunft über Ihre PIN! Weder Visa, MasterCard noch die Kreissparkasse Köln werden Sie per E-Mail auffordern, Ihre  Kreditkartennummer oder die dazugehörende PIN preiszugeben.
+
+Besonders dreiste Betrüger fordern Kreditkarteninhaber sogar auf, die Karte zum vermeintlichen Tausch an eine bestimmte Adresse zu senden.
+###
+Wie erkenne ich eine Phishing-Mail?
+
+    Falls Sie in einer E-Mail aufgefordert werden, Ihr Passwort oder TANs preiszugeben, können Sie davon ausgehen, dass die Mail nicht echt und der Absender ein Betrüger ist.
+    Die Kreissparkasse Köln wird nie per E-Mail oder Telefon nach Ihrer PIN oder Ihren TANs fragen (außer im Rahmen unseres Telefonbankings, das Sie jedoch zuvor aktiv anwählen müssen). Sollten Sie diesbezügliche E-Mails oder Anrufe erhalten, verweigern Sie stets die Auskunft. Wer Sie nach Ihrem Passwort oder TANs fragt, ist ein Betrüger.
+    Achten Sie auf Schreib- und Ausdrucksweise, die darauf hinweisen, dass der Absender keine deutsche Rechtschreibung beherrscht. E-Mails der Kreissparkasse Köln werden vor Versand mehrfach auf Fehler gesichtet.
+    Ihnen wird ein enges Zeitlimit vor einer vermeintlichen Sperrung ggf. mit Kosten zur Entsperrung vorgegeben.
+
+    Leiten Sie die Mail im Zweifelsfall an sicherheit(at)ksk-koeln.de weiter.
+
+###
+Ich habe eine Phishing-Mail erhalten - wie soll ich reagieren?
+
+Wenn Sie eine E-Mail erhalten, bei der Sie ausgehen, dass hier Bankdaten ausspioniert werden sollen, setzen Sie uns bitte umgehend davon in Kenntnis indem Sie die Mail an uns weiterleiten (E-Mail an sicherheit(at)ksk-koeln.de ). Anschließend löschen Sie bitte die Phishing-Mail.
+
+Erhalten Sie eine E-Mail, in der Sie aufgefordert werden eine Summe zu überweisen, obwohl Sie deren Herkunft nicht kennen, antworten Sie nicht, sondern  löschen diese einfach. Öffnen Sie auch keine Anhänge. Androhungen von Zwangsvollstreckungen u.ä. erfolgen postalisch, nicht per E-Mail.
+###
+Was ist Phishing und wie funktioniert es?
+
+Das Wort "Phishing" ist eine Kombination der englischen Begriffe "Password" und "Fishing". Hierbei handelt es sich um betrügerische Versuche, via E-Mail und gefälschter Internetseiten die Zugangsdaten von Online-Banking-Nutzern zu erspähen.
+
+Beispiele:
+
+    Man erhält eine E-Mail, in der man aufgefordert wird, persönliche Daten in einem fremden System einzugeben.
+    Man erhält eine E-Mail, in der man aufgefordert wird, eine bestimmte Telefonnummer anzurufen und dort persönliche Daten zu nennen.
+    Phisher geben sich als Mitarbeiter der Sparkasse aus und versuchen, nachdem Sie über andere Wege an Anmeldename und PIN gekommen sind, den Teilnehmer dazu zu bringen eine TAN für einen Auftrag zu nennen.
+    Man gelangt auf eine Internetseite, welche im Design der Homepage der Kreissparkasse Köln nachempfunden ist. In der Regel wird auf solchen Seiten die KSK Köln jedoch nicht genannt, sondern allgemein das "Sparkassen-S" und das Wort "Sparkasse" verwendet.
+    Häufig erfolgt auch eine Kombination der oben genannten Verfahrensweisen.
+    Siehe auch "Was versteht man unter Social-Engineering?"
+
+Wie Sie sich vor Phishing schützen, erfahren Sie auf https://www.ksk-koeln.de/online-banking/sicherheit/empfehlungen/sicherheit-hilfe-videos-zum-onlinebanking.aspx
+###
+Ich habe eine Phishing-Mail beantwortet. Was muss ich jetzt tun?
+
+Rufen Sie sofort das Online-Banking der Kreissparkasse Köln auf, ändern Sie Ihr Passwort und kontrollieren Sie Ihre Kontostände. Sperren Sie gegebenenfalls auch Ihren Online-Banking-Zugang mittels mehrmaliger PIN-Fehleingabe, um den Zugriff durch Betrüger zu verhindern. Setzen Sie sich danach umgehend mit uns in Verbindung.
+
+E-Mail sicherheit(at)ksk-koeln.de
+Holine 0221 227-4200
+###
+Auf mein Konto wurde zugegriffen - was soll ich jetzt tun?
+
+Sperren Sie sofort Ihr Konto durch absichtliche mehrmalige PIN-Falscheingabe und melden Sie uns den Sachverhalt. Erstatten Sie bei der Polizei Anzeige gegen Unbekannt.
+
+Da beim Phishing kein Bargeld fließt, sondern nur Geld auf andere Konten transferiert werden kann, lassen sich die Buchungen nachvollziehen. Dies erhöht die Chance, dem Betrüger auf die Spur zu kommen und das Geld zurückzuerhalten.
+
+Schnelle Reaktion ist hier das A und O.
+
+Kreissparkasse Köln: 0221-227 7000
+Hotline außerhalb Öffnungszeiten: 0221-227 4200
+###
+Wie schütze ich meine Passwörter?
+
+Benutzen Sie für verschiedene Anwendungen (z.B. Homebanking, ebay etc.) auch unterschiedliche Passwörter.
+
+Wählen Sie Passwörter, die schwer zu erraten sind - also keine sinnvollen Wörter, sondern besser sinnfreie Ziffern- und Buchstabenkombinationen. Ein Tipp: Denken Sie sich einen für Sie leicht zu merkenden Satz aus und wählen Sie als Passwort die Anfangsbuchstaben der einzelnen Wörter. Durch Einfügen von Ziffern oder Sonderzeichen kann das Passwort noch weiter verfremdet werden. (z.B.: Ihr Satz Lautet: "Ich wohne am Neumarkt 18 in Köln". Dann wäre Ihr Passwort beispielsweise: "IwaN18iK")
+
+Ändern Sie Ihr Passwort regelmäßig.
+
+Falls Sie Ihre Passwörter auf Ihrem Rechner gespeichert haben, benutzen Sie eine Verschlüsselungssoftware. Ansonsten können Ihre Sicherungsmedien mittels Trojanern, Viren oder Würmern aus dem Internet von Hackern ausspioniert werden.
+###
+Wie erkenne ich eine gesicherte Internetverbindung zum Online-Banking der Kreissparkasse Köln?
+
+Rufen Sie die Kreissparkasse Köln und unser Online-Banking nur unter dieser Internetadresse auf:
+
+https://www.ksk-koeln.de
+
+Sollten Sie aufgefordert werden, eine andere Adresse anzuwählen, um zur Kreissparkasse Köln zu gelangen, handelt es sich wahrscheinlich um einen Betrugsversuch. Geben Sie sicherheitshalber die obige Adresse von Hand ein und nutzen Sie keine Links von fremden Seiten oder E-Mails.
+
+Was bedeutet "http://" und was ist der Unterschied zu "https://"?
+FAQ
+
+Die Internetseiten der Kreissparkasse Köln sind über ein Zertifikat gesichert. Durch Anklicken des Schloss-Symbols oder der grünen Schrift in der Browser-Adresszeile können Sie sich dieses Zertifikat anzeigen lassen.
+###
+Was versteht man unter Social-Engineering?
+
+Unter Social-Engineering versteht man die Beeinflussung per persönlichem Kontakt. I.d.R. per Telefonat. In dem persönlichen Kontakt wird ein so großes Vertrauen zum Gegenüber aufgebaut, dass der "Ausspionierte" persönliche Daten von sich preisgibt.
+
+Im Online-Banking gibt sich der Anrufer häufig als eine Person aus, die er nicht ist (z.B. Sparkassen-Mitarbeiter oder Microsoft-Mitarbeiter u.ä.). Unter Umständen wurde Ihr PC auch zuvor mit einem Spionageprogramm infiziert, um an persönliche Daten zum Aufbau des Vertrauensverhältnisses zu kommen bzw. um an Ihre Anmeldedaten zu gelangen.
+
+Während des Telefonats wird Ihnen die Notwendigkeit einer Buchung suggeriert. Auch werden Gutscheinkäufe zur Bezahlung von angeblichen Dienstleistungen initiiert.
+
+Sein Sie vorsichtig bei Anrufen, die Sie nicht erwartet haben. Sparkassen-Mitarbeiter werden Sie nicht um Anmeldedaten bzw. die Erfassung einer TAN bitten.
+Beenden Sie das Gespräch sobald in dem unerwarteten Telefonat ein für Sie Fremder um Zugang zu Ihrem Rechner bittet bzw. Sie zu einer Zahlung auffordert.
+###

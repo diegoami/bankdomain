@@ -1,0 +1,161 @@
+###
+
+Ist die SparkassenCard mit girogo-Funktion sicher?
+
+Kontaktloses Bezahlen nutzt die gleichen hohen Sicherheitsstandards wie kontaktbehaftete Chip-Zahlungen aus der elektronischen Geldbörse. Chipkarte und ec-Terminal tauschen Informationen verschlüsselt nach einem bewährten und hochsicheren Verfahren aus, das speziell für die Zahlungssysteme der Deutschen Kreditwirtschaft (DK) zugelassen ist. Auch „aus Versehen“, etwa „im Vorbeigehen“ an einem kontaktlosen Lesegerät, lässt sich kein Geld von der Karte abbuchen. Schon der erforderliche geringe Abstand von wenigen Zentimetern zwischen Karte und ec-Terminal verhindert unbeabsichtigtes Bezahlen. Außerdem kann erst dann vom ec-Terminal ein Bezahlvorgang mit einer Karte ausgelöst werden, wenn das ec-Terminal vom Kassenmitarbeiter durch Übergabe oder Eingabe des Betrages aktiviert wurde. Kontaktlos-Terminals können also niemals selbstständig eine Zahlung initiieren. Im unwahrscheinlichen Fall eines Missbrauchs lässt sich über die in der elektronischen Geldbörse protokollierte Händlerkartennummer der Empfänger der Zahlung ermitteln.
+###
+Wie erfahre ich bei girogo und GeldKarte, wieviel Geld in meiner elektronischen Geldbörse liegt?
+
+Grundsätzlich wird das Restguthaben nach jedem Bezahlvorgang und nach jeder Ladeverfügung angezeigt. Darüber hinaus lässt sich jederzeit mit einem Taschenkartenleser, TAN-Generator oder Chipkartenleser das aktuelle Guthaben anzeigen. Dargestellt werden bei einer Abfrage auch die letzten 15 Bezahltransaktionen, unabhängig ob kontaktbasiert an herkömmlichen Kartenlesegeräten oder kontaktlos an den neuen kontaktlosen ec-Terminals durchgeführt. Zugleich lassen sich die letzten drei Ladevorgänge anzeigen. Am Ladeterminal, Geldautomat oder am ec-Terminal beim Einzelhändler kann das aktuelle Chipguthaben ebenfalls angezeigt werden.Für NFC-fähige Smartphones mit Android-Betriebssystem steht die „Sparkassen App“ (Verlinkung auf: https://play.google.com/store/search?q=Sparkasse&c=appskostenfrei) im Android Market von Google zum Download bereit. Mit der kostenlosen Sparkassen App haben Sie Ihre Finanzen auch unterwegs immer im Blick - ob Kontostände, Kontoumsätze - mit der Sparkassen App können Sie Ihre Sparkassen-Konten einfach verwalten. Mit dieser App kann man auch das aktuelle girogo-Guthaben, die letzten drei Ladetransaktionen sowie die letzten fünfzehn Bezahltransaktionen kontaktlos auslesen.   Damit wird der Informationsbedarf des Karteninhabers mit den Anforderungen des Datenschutzes in Einklang gebracht.
+###
+
+Werden die girogo- und GeldKarte-Zahltransaktionen auf dem Kontoauszug ausgewiesen?
+
+Nein.
+Auf Kontoauszügen werden nur Ladevorgänge angezeigt. Zusätzlich können an Geldautomaten auch Entladevorgänge durchgeführt werden, die als solche ebenfalls im Kontoauszug angedruckt werden.
+###
+Welche Vorteile bieten girogo und GeldKarte dem Händler?
+
+Die kontaktlose Bezahlfunktion "girogo" der Deutschen Kreditwirtschaft auf der SparkassenCard und anderen Bankkarten bringt dem Einzelhandel mehrere Vorteile, und das in verschiedenen Bereichen. Am Point of Sale (POS) beschleunigt sie den Bezahlvorgang, auf der Kostenseite punktet sie durch günstige Transaktionsgebühren, auf der Ertragsseite generiert sie zusätzliche Umsätze und unter Marketingaspekten befördert sie die Kundenbindung. Die SparkassenCard mit girogo ist das „Herzstück“ eines innovativen Zahlungsverfahrens der Deutschen Kreditwirtschaft (DK), an dem auch Kartenherausgeber aus anderen Verbandsbereichen teilnehmen.
+
+Im Detail zeichnet sich die neue SparkassenCard mit girogo durch folgendes aus:
+
+1. Messbar schnellerer Check-out
+
+Die Bezahltransaktion am POS geschieht offline und dauert dank Kontaktlos-Technologie nur noch Sekundenbruchteile. Das ist wesentlich schneller als eine Barzahlung und die klassische Kartenzahlung mit PIN oder Unterschrift. Tests mit Handelsketten lieferten durchweg positive Ergebnisse: mit der neuen Bezahlkarte reduziert sich die Wartezeit der Kunden durchschnittlich um rund 25 Prozent und die Chancen, zusätzliche Umsätze zu generieren, erhöhen sich. Kunden, die nicht lange vor der Kasse warten müssen, sind zufriedener und kommen schneller und kaufbereiter wieder!
+
+2. Erhöhte Wirtschaftlichkeit
+
+Der Einsatz von girogo ist für den Handel kostengünstiger als herkömmliche Kartenzahlungen, weil niedrigere Entgelt- und Processing-Gebühren anfallen. Erreicht wird dies unter anderem durch eine konsequente Bündelung der Transaktionen. Langfristig reduzieren sich die Bargeldhandlingkosten, weil Kleinbetragszahlungen immer häufiger effizient elektronisch abgewickelt werden. Mit der weiteren Verbreitung der SparkassenCard mit girogo sinkt das Falschgeldrisiko erheblich. Im Lebensmittelbereich ist der Einsatz der Karte zudem hygienischer. Einzelhändler, die die technische Infrastruktur für kontaktlose Kartenzahlung mit der SparkassenCard mit girogo einrichten, investieren in eine zukunftssichere Technologie. Mit der sukzessiven Umstellung aller 45 Millionen SparkassenCards auf die Kontaktlos-Technologie wird sich das innovative Zahlungsverfahren auf Dauer in Deutschland durchsetzen. Andere Kartenherausgeber werden hier sicherlich nachziehen. Die benötigte Hardware ist ebenfalls für andere kontaktlose NFC-Verfahren wie z. B. den Verfahren von MasterCard und VISA oder in Planung befindliche Mobile Payment-Verfahren geeignet.
+
+
+3. Positive Marketingeffekte
+
+Schnelle und komfortable Zahlungsvorgänge sorgen für Zufriedenheit auf Kundenseite und erhöhen somit die Kundenbindung. „Weil es so einfach und so bequem geht“ kommt ein Kunde bei nächster Gelegenheit gern wieder in dieses Geschäft. Händler und Dienstleister, die das berührungslose Zahlungssystem mit girogo akzeptieren, werden zudem als Wegbereiter von Innovationen gesehen. Ein positives Image, das sich bestimmt auszahlt. Die Einführung der SparkassenCard mit girogo kann auf Händlerseite steigende Umsätze generieren.
+###
+Was bietet die SparkassenCard mit girogo-Funktion?
+
+Die SparkassenCard mit girogo ist mit einer NFC-Schnittstelle (NFC = Near Field Communication) ausgestattet. Dies bedeutet, dass bestimmte Funktionen der Chipkarte auch kontaktlos ausgeführt werden können. Das sind zunächst die elektronische Geldbörse, das Jugendschutzmerkmal und der elektronische Marktplatz.
+###
+Wie funktioniert der Bezahlvorgang mit der girogo-Funktion der SparkassenCard?
+
+Beim kontaktlosen Bezahlen mit der SparkassenCard mit girogo nutzt der Kunde die Karte als elektronische Geldbörse. Im Unterschied zu bisherigen kontaktbasierten Zahlsystemen muss er die Kontaktlos-Karte jedoch nicht mehr in ein Lesegerät stecken. Es erfolgt auch keine Identifizierung durch Eingabe einer PIN. Zum Auslösen der Transaktion hält der Kunde die Karte nur kurz - rund 0,3 Sekunden - ans ec-Terminal, gewöhnlich auf eine Entfernung von wenigen Zentimetern. Alternativ sind auch Lesegeräte auf dem Markt, die das Ablegen der Karte auf einem Bezahlteller vorsehen. Das Terminal prüft, ob noch ausreichend Guthaben auf der Karte vorhanden ist. Ist dem so, dann wird das Guthaben um den Bezahlbetrag reduziert. Prüfung und Abbuchung dauern ebenfalls weniger als eine Sekunde, weil keine Abfrage auf dem Konto des Kunden notwendig ist. Je nach ec-Terminalausführung bestätigt ein optisches und/oder akustisches Signal die erfolgreiche Abbuchung. Der Bezahlvorgang ist damit bereits abgeschlossen, durchschnittlich innerhalb von 0,7 Sekunden. Für Kunden wie für das Personal läuft der Bezahlvorgang an der „hektischen“ Kasse künftig deutlich entspannter, aber zugleich auch wesentlich schneller ab. Insgesamt verspricht die SparkassenCard mit girogo dadurch kürzere Wartezeiten an der Kasse.
+###
+Welche Bedingungen gelten für das Bezahlen mit girogo?
+
+Aus Sicherheitsgründen ist der Zahlbetrag an ec-Terminals, die ebenfalls das PIN-gestützte girocard/electronic cash-Verfahren unterstützen, bei girogo auf 25,00 EUR begrenzt. Dieses Limit ist bewusst gewählt: Laut einer Studie der Deutschen Bundesbank haben 80 Prozent aller Transaktionen im Handel einen Umsatz kleiner als 20,00 Euro. Die neue SparkassenCard soll als elektronische Geldbörse häufige Kleinbetragszahlungen einfach, schnell und bequem am POS ermöglichen. Ihren zeitlichen „Wettbewerbsvorteil“ gegenüber anderen kontaktbasierten Zahlungsmitteln spielt die neue SparkassenCard mit girogo vor allem dadurch aus, dass umständliches Stecken der Karte in das ec-Terminal und zeitraubende PIN-Eingabe oder Unterschrift auf einem Beleg entfallen. Wie bei der Barbezahlung wird deshalb bei der elektronischen Geldbörse mit Kontaktlos-Funktion auf die Absicherung des Bezahlvorgangs bis zum Limitbetrag verzichtet. Durch die schnelle berührungslose Schnittstelle Lesegerät/Karte laufen die Zahlungsvorgänge sogar deutlich schneller und unkomplizierter als mit vorab abgezähltem Bargeld ab.
+
+Ab einem Zahlbetrag von mehr als 25,00 EUR ist an einem ec-Terminal eine kontaktbehaftete girocard/electronic cash Transaktion mit PIN-Eingabe erforderlich. Hierzu muss der bezahlende Kunde die Karte wie gewohnt in das Terminal stecken und die Transaktion mit PIN oder Unterschrift bestätigen.
+###
+Woran erkennt mein Kunde, ob er mit seiner Karte kontaktlos via girogo in meinem Geschäft bezahlen kann?
+
+Über das Akzeptanzlogo „girogo“ für das kontaktlose Bezahlen von Kleinbeträgen.
+Sein klares grafisches Design garantiert einen hohen Aussage- und Wiedererkennungswert. In einer Übergangsphase finden Karteninhaber ein generisches „Kontaktlos“-Logo oder ein „GeldKarte kontaktlos“-Logo bereits auf der Rückseite ihrer SparkassenCard oder Bankkarte abgebildet. Zusätzlich können Händler ihre Kunden am Point of Sale (PoS) mit ergänzenden Medien und Formaten auf das kontaktlose Bezahlen hinweisen.
+###
+
+Was passiert, wenn das Guthaben der Karte nicht zum Bezahlen via girogo ausreicht?
+
+Sofern der Händler an seinem ec-Terminal auch Zahlungen im girocard/electronic cash-System der Deutschen Kreditwirtschaft akzeptiert, kann zukünftig die elektronische Geldbörse bequem am POS aufgeladen werden - immer dann, wenn der Restbetrag in der elektronischen Börse nicht mehr zum Zahlen ausreicht. Für das Aufladen am POS gibt es zwei Möglichkeiten: Abo-Laden oder Laden gegen Konto mit PIN-Eingabe. Beides sichert dem Kunden die gewünschte Flexibilität beim Einkauf. Außerhalb der Akzeptanzstellen im Handel lässt sich die elektronische Geldbörse mit Kontaktlos-Funktion am Geldautomaten bis zu einem Betrag von 200,00 EUR auffüllen. Weitere Lademöglichkeiten sind auch online auf www.geldkarte-laden.de mit Chipkartenleser sowie an anderen Geldinstituten möglich. Mit weiterer Marktdurchdringung wird das Laden der SparkassenCard mit girogo auch über NFC-fähige Mobiltelefone möglich werden.
+###
+Wie funktioniert bei girogo das Abo-Laden am POS?
+
+Aus Sicht des Kunden lässt sich die elektronische Geldbörse am komfortabelsten durch das Abo-Laden am ec-Terminal auffüllen. Diese Ladefunktion ist grundsätzlich an allen ec-Terminals nutzbar, die auch girocard/electronic cash ermöglichen. Dabei lädt sich die elektronische Geldbörse automatisch um einen zuvor festgelegten Betrag (20,00 EUR bis 50,00 EUR) auf. Für das Abo-Laden muss der Karteninhaber zuvor seiner Sparkasse oder Bank eine Zustimmung zu diesem Verfahren erteilt und den Ladebetrag vereinbart haben. Der definierte Ladebetrag kann nur bei der kontoführenden Sparkasse geändert werden, nicht beim Händler. Aus Sicherheitsgründen ist der Ladevorgang einmal pro Kalendertag möglich.
+###
+
+Welche konkreten Vorteile bietet mir girogo und die neue elektronische Geldbörse?
+
+Hektisches Suchen nach Münzen und Scheinen im Geldbeutel, mühseliges Nachzählen des Wechselgeldes beim Bäcker nebenan? Das alles können Sie sich in Zukunft sparen! Denn die SparkassenCard mit girogo ist Ihre neue elektronische Geldbörse, aus der sich Einkäufe bis zu einem Betrag von 25,00 EUR komfortabel bezahlen lassen. Sie müssen nur Ihre Karte nah an ein Bezahlterminal halten oder auf einen Bezahlteller legen. In Sekundenbruchteilen ist Ihr Einkauf centgenau abgerechnet. Klingt einfach – ist es auch! Das Stecken der Karte ins Bezahlterminal entfällt. Auch die Eingabe einer PIN oder die Unterschrift auf dem Zahlungsbeleg ist nicht mehr erforderlich. Das beschleunigt den Zahlungsvorgang erheblich, Warteschlangen an den Kassen werden seltener. Mit der neuen innovativen elektronischen Geldbörse mit girogo-Funktion der Sparkassen zahlen Sie komfortabler!
+###
+Wie funktioniert bei girogo das Laden gegen Konto mit PIN-Eingabe am POS?
+
+Sofern der Restbetrag auf der Karte zum Bezahlen nicht ausreicht und kein Abo-Ladevertrag hinterlegt ist, kann eine elektronische Geldbörse am Point of Sale (POS) gegen Konto mit PIN-Eingabe geladen werden. Voraussetzung sind ec-Terminals, die girocard/electronic cash ermöglichen. Bei dieser Option wird dem Kunden angeboten, die Karte mit einem vorgegebenen Betrag (35,00 EUR) zu laden und dafür die PIN einzugeben. Die Ladung erfolgt zulasten des Kartenkontos.
+###
+Kann beim Laden am POS mit PIN-Eingabe (nicht Abo-Laden) der Ladebetrag verändert werden?
+
+Der vorgegebene Ladebetrag von 35,00 EUR kann vom Kunden oder vom Händler nicht geändert werden. Er ist zentral von der Deutschen Kreditwirtschaft (DK) als Parameter der Ladezentrale vorgegeben. Auch würde eine kundenindividuelle Lade-Betragsauswahl am POS aus Händlersicht zu lang dauern. Daher wurde ein fester einheitlicher Betrag auch im Sinne des Handels vorgegeben. Es vereinfacht zudem die Kommunikation gegenüber den Karteninhabern.
+###
+Ist bei girogo ein Entladen der elektronischen Geldbörse am POS möglich?
+
+Ein Entladen auf das Konto des Kunden ist am POS nicht möglich.
+Die SparkassenCard mit girogo kann der Kunde ausschließlich an einem Geldautomaten der Sparkassen-Finanzgruppe auf sein Konto entladen.
+###
+
+Könnte bei girogo mehrfach abgebucht werden, wenn die Karte aus Versehen mehr als einmal an das Ladegerät gehalten wird?
+
+Nein, es wird nur einmal eine Zahltransaktion durchgeführt.
+
+Der Händler bzw. das Kassensystem des Händlers muss das Terminal für jede Transaktion neu aktivieren. Fehlbuchungen sind also technisch ausgeschlossen.
+###
+Kann bei girogo die Karte „im Vorbeigehen“ entladen werden?
+
+Der Bezahlvorgang muss aktiv vom Kassenmitarbeiter am ec-Terminal aktiviert werden. Zahlungen können wiederum nur über autorisierte Händlerterminals mit speziellen Sicherheitsmodulen abgewickelt werden. Eine Terminal-Händlerkarte ist notwendig und beugt einer missbräuchlichen Verwendung vor. Der erforderliche geringe Abstand von wenigen Zentimetern zwischen Karte und ec-Terminal verhindert unbeabsichtigtes Bezahlen zusätzlich.
+###
+Mit welchen Sicherheitsmodulen wird die Kommunikation zwischen der SparkassenCard mit girogo und dem ec-Terminal abgewickelt?
+
+Die Kommunikation zwischen der SparkassenCard mit girogo-Funktion und dem ec-Terminal erfolgt nach Sicherheitsvorgaben und Spezifikationen der Deutschen Kreditwirtschaft (DK). Bestandteil ist als Sicherheitsmodul die Händlerkarte (HK), die zunächst physisch ins Terminal einzubringen ist. Eine virtuelle Händlerkarte ist geplant.
+###
+Was ist eine Händlerkarte und wofür wird sie bei girogo / GeldKarte benötigt?
+
+Für die Funktionalität eines Händlerterminals (ec-Terminal) im girogo- und GeldKarte-System ist neben der Software eine sogenannte Händlerkarte erforderlich. Diese ermöglicht unter anderem die Authentifikation und die Akzeptanz von Karten, die im girogo- und GeldKarte-System zugelassen sind. Bei Händlerkarten wird zwischen physischen und virtuellen Händlerkarten unterschieden. Bei der physischen Händlerkarte handelt es sich um eine Chipkarte im SIM-Format, ausgeführt als ein „Plug-in“-Modul, die der Händler selbst im Akzeptanzterminal einbringen kann. Eine virtuelle Händlerkarte  liegt nicht als körperliche Chipkarte vor, sondern lediglich als Datenblock (repräsentiert die gleiche Funktionalität). Die virtuelle Händlerkarte wird integriert in eine Software und in einen der Sicherheitsbausteine eines entsprechend ausgestatteten Chipkartenterminals geladen. Das Gerät muss nicht geöffnet werden, so dass die Hardware absolut unverändert bleibt. Das Einbringen der virtuellen Händlerkarte erfolgt über eine Online-Anbindung. Besitzen Sie ein ec-Terminal der Kreissparkasse Köln, können Sie auch über uns Ihre Händlerkarte beantragen.
+###
+Was passiert, wenn gleichzeitig zwei unterschiedliche Karten mit der gleichen girogo-Funktion in den Empfangsbereich des Terminals gehalten werden?
+
+Das ec-Terminal erkennt, dass mehr als eine Karte mit kontaktloser Bezahlfunktion im Empfangsbereich ist, und fordert den Karteninhaber auf, sich für eine Karte zu entscheiden. Der Zahlvorgang muss erneut angestoßen werden, es wird nur eine gültige Karte erwartet.
+###
+Was muss ich beim Verlust der Karte beachten? Was passiert mit dem Guthaben auf der elektronischen Geldbörse?
+
+Verliert man sein Portemonnaie, ist das darin befindliche Bargeld in der Regel weg. Ebenso verhält es sich mit dem in der elektronischen Geldbörse gespeicherten Geld. Bei Verlust der SparkassenCard mit girogo ist es deshalb wichtig, dass Sie umgehend die Karte bei Ihrem kartenausgebenden Institut sperren lassen.
+
+Sollten Sie einen Abo-Ladeauftrag1 vereinbart haben, so kann die Karte bis zu ihrer Entsperrung nicht mehr mittels Abo-Ladeverfahren aufgeladen werden. Das im Chip gespeicherte Guthaben kann nicht gesperrt werden.
+
+Alternativ können Sie die Sperrung der SparkassenCard über die zentrale Sperrnummer 116 116 vornehmen lassen.
+
+Darüber hinaus sollte ein Diebstahl der SparkassenCard immer zusätzlich der Polizei gemeldet werden. Allein die Sperrung eines für eine aktive Karte vorhandenen Abo-Ladeauftrages über die Sperrnummer ist nicht möglich. Wenn nur der Abo-Ladeauftrag gesperrt werden soll, wenden Sie sich bitte an Ihre Sparkasse.
+
+
+1 Mittels Abo-Laden können Sie Ihre SparkassenCard mit girogo maximal einmal am Tag mit bis zu 50,00 EUR aufladen. Dies erfolgt automatisch beim Bezahlvorgang,wenn Ihr gespeichertes Guthaben nicht mehr für die Zahlung ausreicht. Um am Abo-Laden teilzunehmen, müssen Sie Ihrer Sparkasse einen Abo-Ladeauftrag erteilen.
+###
+Was ändert sich bei girogo im Gegensatz zum bisherigen Bezahlen mit Karte?
+
+Der kontaktlose Bezahlvorgang an sich wird deutlich schneller, da einzelne Schritte entfallen. Die Karte muss nicht mehr in das ec-Terminal gesteckt werden. Bei Beträgen bis 25,00 EUR müssen Sie keine PIN eingeben und nicht unterschreiben. Die Zahlung erfolgt aus vorgeladenem Guthaben. Wenn nicht mehr genug Guthaben auf der Karte ist, können Sie auch an vielen ec-Terminals Ihre Karte aufladen. Sofern Sie bei Ihrer Sparkasse einen Abo-Ladevertrag vereinbart haben, erfolgt eine automatische Aufladung mit dem von Ihnen definierten Betrag.
+###
+Wo kann ich mit girogo bezahlen?
+
+Überall dort, wo Sie im Einzelhandel oder an Automaten das Akzeptanzlogo „girogo“ für das kontaktlose Bezahlen von Kleinbeträgen finden. Aktuell finden Karteninhaber noch ein generisches Logo „Kontaktlos“ auf ihrer Kartenrückseite, welches auf die neue Funktion hinweist. Seit 2013 wird das „girogo“-Logo auch auf den neu ausgegebenen Karten aufgebracht. Viele Einzelhändler unterstützen mit ergänzenden Hinweisen die Einführung der kontaktlosen elektronischen Geldbörse. Mit der zunehmenden Verbreitung der SparkassenCard mit girogo wird sich das Netz der teilnehmenden Händler und Dienstleister bundesweit schnell weiter verdichten.
+###
+
+Wie und wo kann ich meine SparkassenCard laden, um mit girogo oder GeldKarte bezahlen zu können?
+
+Keine Sorge, wenn mal kein Guthaben mehr auf Ihrer Karte vorhanden ist. Es gibt mehrere Möglichkeiten und Orte, eine SparkassenCard für die GeldKarte- oder girogo-Funktion aufzuladen. Die Höhe des aufladbaren Guthabens ist aus Sicherheitsgründen unterschiedlich:
+
+    Im Einzelhandel lässt sich die Karte an kontaktlosen Kartenlesegeräten (die auch girocard/electronic cash-Zahlungen ermöglichen) mittels Abo-Laden um einen mit Ihnen vorab bei Ihrer Kreissparkasse Köln vereinbarten Betrag (zwischen 20,00 EUR und 50,00 EUR) wieder aufladen. Diese Funktion ist ein Mal pro Kalendertag möglich.
+    Sofern Sie keinen Abo-Ladevertrag mit der Kreissparkasse Köln vereinbart haben, können Sie an den o.g. Terminals mit PIN-Eingabe um einen vorgegebenen Betrag (35,00 EUR) „nachladen“.Die Ladung erfolgt zulasten des Kartenkontos.
+    Aufladen lässt sich die SparkassenCard für die GeldKarte- oder girogo-Funktion auch am Geldautomaten bis zu 200,00 EUR.
+    Eine weitere Möglichkeit bietet das Internet - hier kann man mit einem Chipkartenleser unter www.girogo-laden.de seine SparkassenCard aufladen. In naher Zukunft kann die SparkassenCard auch an NFC-fähigen Mobiltelefonen über eine App aufgeladen werden, wenn ein Abo-Lade-Vertrag besteht.
+
+###
+Bis zu welchem Betrag kann die SparkassenCard mit girogo geladen werden?
+
+    Am Geldautomat bis zu 200,00 EUR.
+    Kontaktlos beim Händler per Abo-Laden um den zwischen Ihnen und der Kreissparkasse Köln vereinbarten Betrag (20,00 EUR bis 50,00 EUR), 1 x pro Kalendertag.
+    Kontaktbasiert beim Händler am ec-Terminal durch das Laden gegen Konto mit PIN-Eingabe um einen vorgegebenen Betrag (35,00 EUR).
+
+###
+
+Was bedeutet bei girogo und GeldKarte "Abo-Laden" und wie funktioniert es?
+
+Sofern Sie das "Abo-Laden" und die Höhe des Ladebetrages (20,00 EUR bis 50,00 EUR) mit der Kreissparkasse Köln vereinbart haben, wird bei nicht ausreichendem Guthaben für die Bezahlung beim Händler, z. B. im Supermarkt oder an der Tankstelle, die Karte automatisch im Hintergrund aufgeladen (an ec-Terminals, die auch girocard/electronic cash-Zahlungen ermöglichen). Die Abo-Aufladung kann kontaktbehaftet oder kontaktlos erfolgen und ist einmal pro Kalendertag möglich. Ein Beispiel: Herr Mustermann kauft auf dem Heimweg noch schnell etwas zum Knabbern und Trinken für einen gemütlichen Fernsehabend ein. An der Supermarktkasse schlagen Chips und Getränke mit 8,00 Euro zu Buche. Auf seiner SparkassenCard beträgt das Guthaben aber nur noch 5,00 Euro. Macht nichts. Herr Mustermann hat für solche Fälle die automatische Abo-Ladefunktion mit z. B. 50,00 Euro vereinbart. Seine Karte wird in Sekundenbruchteilen um diesen Betrag aufgeladen, der Rechnungsbetrag anschließend abgebucht. Einem gemütlichen TV-Abend steht somit nichts mehr im Wege.
+###
+Was muss ich als Kunde der Kreissparkasse Köln veranlassen, damit ich das Abo-Ladeverfahren von girogo nutzen kann?
+
+Es ist erforderlich, dass Sie mit der Kreissparkasse Köln vereinbaren, in welcher Höhe der Abo-Ladeauftrag ausgeführt werden soll. Dann können Sie künftig bequem an der Kontaktlos-Kasse (= am ec-Terminal) automatisch das Abo-Laden nutzen. Die Vereinbarung kann in jeder Filiale und über das Online-Banking veranlasst werden.
+###
+Wie lade ich Guthaben auf der Karte auf, wenn ich keinen Abo-Ladevertrag bei girogo vereinbart habe?
+
+Auch dann können Sie Ihre SparkassenCard mit girogo ganz einfach aufladen. Wenn kein Abo-Ladevertrag hinterlegt ist, bietet Ihnen das ec-Terminal an der Kasse im Einzelhandel an, die Karte mit einem vorgegebenen Betrag (35,00 EUR) zu laden. Sie müssen die Aufladung mit Ihrer PIN bestätigen. Die Ladung erfolgt zulasten Ihres Kartenkontos.
+###
+
+Was kann die SparkassenCard mit girogo-Funktion?
+
+Die girogo-Funktion ist die kontaktlose Bezahllösung der Deutschen Kreditwirtschaft (DK). Die  SparkassenCard mit girogo enthält eine innovative elektronische Geldbörse, mit der Sie auch Einkäufe kontaktlos bis zu einem Gesamtbetrag von 25,00 EUR schnell, sicher und bequem bezahlen können. Statt Bargeld greifen Sie in Geschäften, Betrieben der Gastronomie oder an der Tankstelle zu Ihrer SparkassenCard und bezahlen kontaktlos. Dank der neuen Kontaktlos-Funktion müssen Sie die Karte beim Bezahlen an der Kasse in den seltensten Fällen aus der Hand geben. Nah genug - typischerweise wenige Zentimeter - an ein spezielles Lesegerät gehalten, wird der Rechnungsbetrag in Sekundenbruchteilen vom gespeicherten Kartenguthaben abgebucht. Eine Gebühr fällt dabei nicht an. Gleich über mehrere Wege lässt sich eine „leere“ elektronische Geldbörse wieder auffüllen. Neues Guthaben aufbuchen können Sie gleich am ec-Teminal an der Kasse des Händlers, am Bankautomat oder auch über das Internet. Mit der SparkassenCard mit girogo können Sie selbstverständlich auch alle Funktionen nutzen, die Ihnen Ihre bisherige SparkassenCard bot. Größere Beträge (über 25,00 EUR) können Sie wie gewohnt an den ec-Terminals mit PIN bezahlen. Bei kontaktbehafteter Nutzung der elektronischen Geldbörse (GeldKarte), können im Handel weiterhin Beträge bis 200,00 EUR bezahlt werden.
+###
