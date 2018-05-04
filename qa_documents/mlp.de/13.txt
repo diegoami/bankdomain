@@ -1,0 +1,34 @@
+###
+Wie funktioniert die TAN per SMS?
+
+Sie erhalten eine TAN per SMS direkt an Ihre Mobilfunknummer. Dabei kann nach dem Zufallsprinzip eine ausschließlich Ihnen bekannte Sicherheitsfrage abgefragt werden. Das bedeutet für Sie noch mehr Sicherheit bei Bezahlvorgängen im Internet.
+###
+Was ist die Sicherheitsfrage?
+
+Die Sicherheitsfrage ist eine Erweiterung des bestehenden SMS-TAN-Verfahrens. In der Benutzerverwaltung können Sie Ihre bevorzugte Sicherheitsfrage auswählen und eine entsprechende Antwort hinterlegen. Als registrierter Karteninhaber gelangen Sie nach Eingabe der Kartennummer in die Benutzerverwaltung. Für den Zugriff auf die Benutzerverwaltung erhalten Sie eine TAN per SMS und Sie müssen Ihre Sicherheitsfrage beantworten.
+###
+Warum wird die SMS um die Sicherheitsfrage ergänzt?
+
+Die Sicherheitsfrage ist zusätzliche Absicherung des bestehenden SMS-TAN-Verfahrens.
+###
+Wie wechsle ich von der TAN per SMS auf die TAN per Push-Nachricht?
+
+Sie gelangen nach der Eingabe Ihrer Kreditkartennummer in die Benutzerverwaltung. Dort haben Sie über den im unteren Bereich der Benutzerverwaltung vorhandenen Link "TAN per Push-Nachricht" die Möglichkeit, das Zustellungsverfahren zu ändern. Hierzu ist der Download der eCOMTAN-App erforderlich.
+###
+Benötige ich für den Wechsel auf die App erneut einen Aktivierungscode per Post?
+
+Nein, ein Aktivierungscode per Post erfolgt nur bei erstmaliger Registrierung für das SecureCode-Verfahren und dient als zusätzliche Sicherheit, um Sie als berechtigten Nutzer zu bestätigen. Ein Wechsel des Verfahrens/der Rufnummer ist nach der Anmeldung mit dem bestehenden Sicherheitsverfahren möglich und löst keinen erneuten Brief aus.
+Ich habe mehrfach eine neue TAN per SMS angefordert. Diese SMS kam aber nicht auf meinem Handy an, obwohl ich Empfang habe.
+
+Bitte prüfen Sie in der Benutzerverwaltung Ihre hinterlegte Mobilfunknummer auf Korrektheit.
+
+Sofern diese nicht mehr aktuell ist, bitten wir um eine Aktualisierung.
+
+Bei weiteren Problemen steht Ihnen das MLP Card-Team unter nachstehender Servicenummer zur Verfügung. +49 (0) 721 66 499 500 (Auswahl 3)
+###
+Wie ändere ich meine hinterlegte Handynummer?
+
+Wechseln Sie die Handynummer und haben die alte Handynummer noch parallel in Betrieb, können Sie die hinterlegte Handynummer selbst über die Benutzerverwaltung abändern.
+
+Wechseln Sie die Handynummer und haben die alte Handynummer nicht mehr in Betrieb, müssen Sie sich direkt mit der neuen Handynummer neu registrieren. Sie bekommen den neuen Aktivierungscode mit der Post zugeschickt.
+###

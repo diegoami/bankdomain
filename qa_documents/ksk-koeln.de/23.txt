@@ -12,3 +12,19 @@ Benutzername: sfirm
 
 Kennwort:        sfirm
 ###
+Was ist bei dem Export der Umsatzdaten in Microsoft Excel als CSV-Datei zu beachten?
+
+Bei den meisten Versionen von Microsoft Excel genügt ein "Doppelklick" auf die zuvor gespeicherte CSV-Datei, um diese ordnungsgemäß unter Excel betrachten zu können. Sollten die Umsatzdaten hingegen unter Excel nicht korrekt dargestellt werden, befolgen Sie bitte die unten aufgeführten Schritte:
+
+ Für die Verarbeitung mit Microsoft Excel beachten Sie bitte folgende Schritte, um eine optimierte Darstellung zu erreichen:
+
+    Beim Download "Datei auf Datenträger speichern" wählen.
+    Datei unter dem gewünschten Pfad speichern.
+    Das Downloadfenster schließen.
+    Microsoft Excel starten.
+    Über "Arbeitsmappe / Datei öffnen" die zuvor gespeicherte Datei suchen und öffnen.
+    Zum Suchen bitte bei Dateityp die Option "alle Dateien" verwenden.
+    Anschließend erscheinen die gespeicherten Daten.
+    Im Feld "Verwendungszweck" werden mehrere Informationen dargestellt. Die Informationen sind zwar alle vorhanden, in der Regel ist in Excel aber nur die erste Zeile sichtbar. Um auch die anderen Zeilen sichtbar zu machen, markieren Sie bitte alle Zellen und wählen Sie unter "Format / Zellen / Ausrichtung" die Option "Zeilenumbruch".
+
+###

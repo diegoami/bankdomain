@@ -1,0 +1,26 @@
+###
+Ich habe den meine TAN dreimal falsch eingeben. Was kann ich tun?
+
+Ihre Karte ist leider für die das Verfahren gesperrt. Bitte setzen Sie sich mit unserer Hotline 0721/1209-66001 in Verbindung, um Ihre Karte wieder zu reaktivieren und einen neuen Aktivierungscode per Post zu erhalten.
+###
+Wer sind die Dienstleister CardProcess und Netcetera, auf die die Domain des 3D-Secure Browserfensters lautet bzw. die diese Domain registriert haben?
+
+Die CardProcess GmbH in Karlsruhe ist der Dienstleister für die technische Abwicklung der Kreditkartenprozesse. Hier werden ihre Kreditkartentransaktionen verarbeitet.
+
+Die Netcetera AG in Zürich betreibt als Spezialanbieter den 3D-Secure Server u.a. für die Cardprocess GmbH.
+###
+Was ist mit dem statischen Passwort?
+
+Das statische Passwort gibt es aus Sicherheitsgründen nicht mehr.
+Ich habe den Aktivierungscode nicht erhalten/verlegt.
+
+Bitte fordern Sie den Aktivierungscode erneut an. Wenn Sie über die Einstiegsseite Ihre Kartennummer eingeben, werden Sie zur Eingabe des Aktivierungscodes aufgefordert. Am unteren Ende des Fensters können Sie diesen aber auch erneut anfordern.
+###
+Ich habe den Aktivierungscode dreimal falsch eingeben. Was kann ich tun?
+
+Ihre Karte ist leider für die Registrierung gesperrt. Bitte setzen Sie sich mit unserer Hotline 0721/1209-66001 in Verbindung, um Ihre Karte wieder zu aktivieren und einen neuen Aktivierungscode per Post zu erhalten.
+###
+Ich habe eine SMS TAN bzw. eine Push Nachricht erhalten, ohne einen Einkauf getätigt oder eine TAN über die Benutzerverwaltung angefordert zu haben.
+
+Bitte setzen Sie sich umgehend mit unserer Hotline 0721/1209-66001 in Verbindung. Es kann sich hierbei um den Versuch einer betrügerischen Transaktion handeln.
+###

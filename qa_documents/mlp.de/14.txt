@@ -1,0 +1,33 @@
+###
+Was muss ich tun, um meine Kreditkarte für die TAN per Push-Nachricht zu registrieren?
+
+Über die eCom-TAN-App erhalten Sie eine Push-Nachricht mit der TAN direkt auf Ihr Endgerät. Die Übertragung der TAN erfolgt verschlüsselt über das Internet. Hierzu erzeugt die eCom-TAN App während des Registrierungsprozesses der App auf Ihrem Endgerät eine individuelle virtuelle Nummer. Diese virtuelle Nummer hinterlegen Sie bei der abschließenden Registrierung Ihrer Kreditkarte.
+###
+Ich habe ein neues Smartphone/Tablet. Wie übertrage ich die Installation der App inkl. virtueller Handynummer auf das neue Gerät?
+
+Möchten Sie die App auf einem neuen Endgerät benutzen, gehen Sie bitte wie folgt vor:
+
+1. Installieren Sie die App auf dem neuen Gerät und starten diese. Vergeben Sie noch kein Kennwort.
+
+2. Wählen Sie in der eCom-TAN-App auf dem alten Gerät: Einstellungen/Rufnummernmigration. Der angezeigte Code kann 60 Minuten für einen Gerätewechsel genutzt werden.
+
+3. Wählen Sie auf dem neuen Gerät den Button "Vorhandene virt. Handynummer übernehmen" beim ersten Start und der Kennwortvergabe. Geben Sie nach Aufforderung den in Schritt 2 erhaltenen Migrationscode ein.
+
+4. Bei erfolgreichem Abschluss wird ihre virtuelle Handynummer über den Server in die neue eCom-TAN-App Installation übertragen und die Installation auf dem alten Gerät zurückgesetzt.
+###
+Was ist der Unterschied zwischen eComTAN-App und der SecureGO-App?
+
+Die eComTAN-App dient zur Authentifizierung der Kreditkartenzahlungen. Die SecureGO-App dient zur Authentifizierung im MLP Financepilot.
+###
+Ich möchte die App gerne per Fingerabdruck entsperren. Wie geht das?
+
+Die Entsperrung per Fingerabdruck wird momentan nur auf Apple Endgeräten mit TouchID-Unterstützung angeboten. Nach Installation der App und Vergabe eines Kennworts werden Sie innerhalb der App gefragt, ob Sie die TouchID als Alternative zum Kennwort aktivieren möchten. Sie können diese Funktion auch später unter „Einstellungen“ in der App aktivieren.
+###
+Wie kann ich eine neue virtuelle Nummer ändern?
+
+Dies ist über die Benutzerverwaltung möglich. Die dort angezeigte Nummer kann einfach überschrieben werden. Sie erhalten zur Bestätigung dann eine TAN in die App mit der neuen virtuellen Nummer.
+###
+Ich kann den Bezahlvorgang bei einem an Mastercard® SecureCode™ teilnehmenden Händler nicht abschließen. Woran liegt das?
+
+Bitte überprüfen Sie, ob Ihr Internetbrowser Pop-Up-Fenster blockiert. Das Fenster für die Bezahlung mittels Mastercard® SecureCode™ wird separat geöffnet. Werden Pop-Up-Fenster blockiert, kann dieses Fenster nicht angezeigt und die Zahlung nicht abgeschlossen werden. Bei weiteren Problemen steht Ihnen das MLP Card-Team unter nachstehender Servicenummer zur Verfügung. +49 (0) 721 66 499 500 (Auswahl 3)
+###

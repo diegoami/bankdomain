@@ -1,0 +1,19 @@
+###
+Was ist Mastercard® SecureCode™?
+
+Mastercard® SecureCode™ ist ein von Mastercard® entwickelter Sicherheitsstandard für Kreditkartenzahlungen mit dem Ziel, die Gefahr des Kartenmissbrauchs erheblich zu reduzieren.
+
+Mastercard® SecureCode™ schützt Ihre Kreditkartenzahlung im Internet mit einem einzelumsatzbezogenem Passwort (TAN/SecureCode™) und soll damit verhindern, dass Unbefugte mit Ihren Kreditkartendaten im Internet einkaufen können.
+###
+Welche Vorteile habe ich durch Mastercard® SecureCode™?
+
+Sichere Internet-Zahlungen: Sichere Internet-Zahlungen: Dieser für Sie kostenlose Service sichert Ihre Kreditkartenzahlungen im Internet vor unbefugtem Zugriff. Alle Angaben (persönliche Daten, Bestellinformationen, Kreditkartendaten, Passwort) werden mittels SSL (Secure Socket Layer) verschlüsselt übertragen. Alle Beteiligten (Händler, Karteninhaber, etc.) werden als rechtmäßige Teilnehmer am jeweiligen Bezahlvorgang identifiziert.
+
+Hohe Flexibilität: Sie können von jedem PC aus rund um die Uhr weltweit im Internet einkaufen und sicher mit Ihrer MLP-Kreditkarte bezahlen.
+###
+Warum soll ich meine Kreditkarte jetzt gleich für Mastercard® SecureCode™ registrieren?
+
+Bisher konnten Sie Kreditkarten während des Einkaufs bei einem Internet-Händler, der am SecureCode-Verfahren teilnimmt, registrieren Dies ist aus Sicherheitsgründen nicht mehr möglich.
+
+Sie sollten daher Ihre Karte jetzt registrieren
+###
