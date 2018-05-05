@@ -1,0 +1,6 @@
+
+###
+Wo finde ich meine IBAN und BIC?
+
+Für SEPA-Überweisungen benötigen Sie Ihre IBAN (International Bank Account Number) und Ihren BIC (Business Identifier Code) sowie die Kontoverbindung des Zahlungsempfängers. Die internationale Kontonummer setzt sich aus dem jeweiligen Länderkennzeichen, einer Prüfziffer, Ihrer Bankleitzahl sowie Kontonummer zusammen. Ihre IBAN und BIC finden Sie auf Ihren Kontoauszügen, im Online-Banking und auf Ihrer Bankkarte.
+###

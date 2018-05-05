@@ -1,0 +1,53 @@
+###
+Was ist Multibankenfähigkeit?
+
+Sie haben Konten bei unterschiedlichen Banken? Kein Problem für die VR-BankingApp. Dank aktueller Zugriffsstandards können Sie Kontostände bei den meisten Banken in einer App abrufen. Auch Überweisungen vom Konto bei Ihrer Vereinigte Volksbank eG auf alle anderen eingebundenen Konten sind möglich. Um jedoch spezielle Funktionen wie den VR-ProfiBroker oder den Finanzmanager nutzen zu können, müssen Sie als Erstes Ihr Konto bei der Vereinigte Volksbank eG einbinden.
+###
+Wie kann ich neue Bankverbindungen hinzufügen?
+
+Sie können neue HBCI-fähige Bankverbindungen in den Einstellungen hinzufügen. Öffnen Sie im Menü den Punkt "Sonstiges". Wählen Sie "Bankverbindung hinzufügen". Ein Assistent führt Sie durch die Funktion.
+###
+Woher weiß ich, ob mein Konto HBCI-fähig ist?
+
+Falls Sie sich nicht mit Ihrem Konto anmelden können, fragen Sie bitte bei Ihrer Bank nach, ob diese HBCI unterstützt. Um die App nutzen zu können, benötigen Sie ein Konto, das HBCI-fähig ist. Dann können Sie beispielsweise Kontosalden abrufen oder Transaktionen durchführen.
+###
+Kann ich die VR-BankingApp auch offline, d. h. ohne Internetverbindung nutzen?
+
+Ja, Sie können die App auch offline nutzen. Bitte beachten Sie jedoch, dass dann nur die Umsätze von der letzten Aktualisierung angezeigt werden.
+###
+Welche Berechtigungen benötigt die VR-BankingApp auf Android-Geräten?
+
+Standort
+Die Banking-App VR-BankingApp beinhaltet einen Geldautomaten- und Filialfinder. Um hiermit schnell einen Geldautomaten bzw. eine Filiale in Ihrer direkten Nähe zu finden, wird der aktuelle Standort des Gerätes verwendet.
+
+Fotos / Medien / Dateien
+Bei Nutzung des VR-ProfiBrokers in der App werden ggf. Inhalte in PDF-Form auf dem Speicher Ihres mobilen Gerätes abgelegt.
+
+Kamera / Mikrofon
+Die Berechtigung "Bilder und Videos aufnehmen" wird für die Funktion GiroCode benötigt. Hierbei wird mithilfe der Smartphone- oder Tablet-Kamera ein zweidimensionaler Code abgescannt, mithilfe dessen eine vorausgefüllte Überweisungsmaske bereitgestellt werden kann.
+
+Sonstige
+Für das Abrufen der Kontoinformationen und -umsätze wird der Zugriff auf Netzwerkverbindungen benötigt.
+
+Mithilfe der Smartphone-Vibration kann Ihnen ein physisches Feedback beispielsweise bei der Erkennung eines GiroCodes geliefert werden.
+
+Da die Banking-App VR-BankingApp im Geldautomatenfinder Google Maps zur Kartendarstellung einbindet, werden die Google-Servicekonfigurationen ausgelesen. Diese werden zur Nutzung aller Google-In-App-Angebote benötigt.
+###
+Wie melde ich mich in der VR-BankingApp an?
+
+Sie melden sich mit Ihrem Anmeldekennwort oder mit dem Fingerprint-Login in der VR-BankingApp an. VR-NetKey, VR-Kennung oder Alias und PIN sind zum Start der App nicht mehr notwendig. Falls Sie bisher noch kein Anmeldekennwort vergeben haben, werden Sie mit der neuen Version der VR-BankingApp auf den Anmeldekennwort-Modus umgestellt. Zunächst zeigt ein Hinweis in der neuen Version der VR-BankingApp an, dass das Anmeldekennwort eingeführt wird. Bitte vergeben Sie anschließend Ihr Anmeldekennwort. Abschließend geben Sie bitte Ihre Online-Banking-Zugangsdaten ein und bestätigen die Kontoverbindung mittels Eingabe der PIN.
+###
+Welche Funktionen bietet mir das Postfach?
+
+Das Postfach bietet Ihnen die Funktionen eines klassischen E-Mail-Zugangs, wie Nachrichten schreiben, empfangen oder speichern. So können Sie sicher sein, dass ausschließlich Ihre Vereinigte Volksbank eG sowie Unternehmen der Genossenschaftlichen FinanzGruppe Volksbanken Raiffeisenbanken mit Ihnen kommunizieren. Zudem ist das Postfach der sichere Eingangskanal für die Zustellung von Dokumenten wie zum Beispiel Konto- oder Depotauszüge. Diese können Sie als gelesen markieren. Weitere Wertpapierdokumente wie beispielsweise Quellensteuerbelege oder Jahres-/Depotauszüge werden Ihnen ebenso im Postfach bereitgestellt.2
+###
+Wie kann ich die TAN-App VR-SecureGo als bevorzugtes TAN-Verfahren in der VR-BankingApp einrichten?
+
+    Wenn Sie die VR-BankingApp bereits mit den Sm@rt-TAN-Verfahren nutzen und die TAN-App VR-SecureGo freigeschaltet haben, können Sie VR-SecureGo in der App unter "Einstellungen > Ihre Bank >TAN-Verfahren" als bevorzugtes Verfahren auswählen.
+    Wenn Sie bereits ein TAN-Verfahren nutzen und anschließend die VR-BankingApp neu installieren, wird das TAN-Verfahren in den Einstellungen der App automatisch als bevorzugtes Verfahren gesetzt.
+    Wenn Sie bereits zwei TAN-Verfahren nutzen und anschließend die VR-BankingApp neu installieren, wird Ihnen nach Installation der App eine Auswahl der TAN-Verfahren angeboten. Sie können dann entscheiden, welches als bevorzugtes Verfahren eingestellt werden soll.
+
+    Mehr zur TAN-App VR-SecureGo
+
+ ###
+

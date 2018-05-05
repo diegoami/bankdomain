@@ -28,7 +28,7 @@ Ja, auch bei der girocard kontaktlos kann auf die sehr wenigen frei auslesbaren 
 
 ####
 
-Wie kann ich das Auslesen meiner durch Dritte verhinden?
+Wie kann ich das Auslesen meiner durch Dritte verhindern?
 
 Auch wenn die auslesbaren Daten kein echtes Datenschutz- oder Sicherheitsrisiko darstellen, können Sie ein ungewolltes Auslesen der Karte verhindern. Dies kann zum Beispiel über eine Kartenhülle oder spezielle Portemonnaies erfolgen. Es reicht jedoch teilweise auch schon, Kleingeld im Portemonnaie zu haben - durch mehrere Münzen hindurch kann die Karte nicht ausgelesen werden.
 ####

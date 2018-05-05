@@ -1,0 +1,81 @@
+###
+Ist das Online-Banking der BBBank sicher?
+
+Sicherheit hat für uns die oberste Priorität. Dafür sorgen ein modernes, mehrstufiges Sicherheitsverfahren sowie unsere IT-Spezialisten. Auch Sie können Ihr Konto schützen. Unter www.bbbank.de/sicherheit haben wir einige Sicherheitstipps für Sie zusammengestellt.
+
+Die Bank haftet außer bei Vorsatz und grober Fahrlässigkeit des Bankkunden.
+###
+
+Wie gelange ich zum Online-Banking der BBBank?
+
+Wenn Sie bereits für das Online-Banking freigeschaltet sind, gelangen Sie nach einem Klick auf "Online-Banking" auf der rechten Seite unserer Homepage direkt zur Anmeldemaske. Alternativ klicken Sie hier.
+###
+
+Wie kann ich den Zugang zum Online-Banking beantragen?
+
+In 3 Schritten zum Online-Banking - klicken Sie hier.
+###
+
+Welche Zugangsdaten benötige ich zur Anmeldung im Online-Banking?
+
+Für die Anmeldung im Online-Banking benötigen Sie Ihren persönlichen VR-NetKey/Alias und Ihre PIN.
+
+Bei Ihrer ersten Anmeldung muss zunächst, die von uns zugesandte PIN aus Sicherheitsgründen, geändert werden. Nach der Eingabe Ihrer Zugangsdaten werden Sie über die Schaltfläche "PIN ändern" durch das entsprechende Menü geführt.
+
+Bitte beachten Sie, dass bei der ersten Anmeldung lediglich VR-NetKey und PIN eingegeben werden. Der persönliche "Alias" kann erst nach einer erfolgreichen Anmeldung im Online-Banking vergeben werden.
+###
+
+Was ist ein "Alias" für den VR-NetKey ?
+
+Damit Sie sich den VR-NetKey nicht merken müssen, können Sie mit dem Alias eine eigene Benutzerkennung für Ihren Zugang zum Online-Banking vergeben. Der Alias muss zwischen 7 und 35 Stellen lang sein.
+###
+
+Wie kann ich einen "Alias" für den VR-NetKey anlegen/ändern/löschen?
+
+Die Anlage, Änderung oder Löschung eines Alias ist nach der Anmeldung im Online-Banking möglich. Klicken Sie unten auf den Link und Sie gelangen direkt zur gewünschten Funktion. Folgen Sie anschließend den Anweisungen des Bildschirms.
+
+ 
+
+    Zur Alias-Verwaltung im Online-Banking
+###
+
+Wie kann ich meine PIN ändern?
+
+Die Änderung Ihrer PIN ist nach der Anmeldung im Online-Banking möglich. Klicken Sie unten auf den Link und Sie gelangen direkt zur gewünschten Funktion. Folgen Sie anschließend den Anweisungen des Bildschirms.
+
+Ihre PIN muss zwischen 5 und 20 Stellen lang sein und darf sowohl Zahlen, Buchstaben wie auch einzelne Sonderzeichen enthalten.
+
+ 
+
+    Zur PIN-Verwaltung im Online-Banking
+###
+Warum ist meine PIN gesperrt?
+
+Sofern Sie 3 x in Folge eine fehlerhafte PIN verwendet haben, wird diese zu Ihrer Sicherheit vorübergehend gesperrt und kann durch Sie wieder entsperrt werden.
+###
+Wie kann ich die Sperre meiner PIN wieder aufheben?
+
+Die Aufhebung der Sperre ist möglich, wenn Sie bei der erneuten Anmeldung die korrekte PIN verwenden. Im Anschluss daran wird Ihnen ein Dialog zur Verfügung gestellt, welcher Sie auffordert, die Sperre durch die Eingabe einer gültigen TAN wieder aufzuheben.
+
+ 
+###
+Wie erhalte ich eine neue PIN zum Online-Banking?
+
+Sofern Ihnen die PIN zum Online-Banking nicht mehr vorliegt, können Sie uns gerne eine Mitteilung an info@bbbank.de zukommen lassen. Den Versand der neuen PIN werden wir daraufhin gerne umgehend für Sie veranlassen.
+###
+Welche technischen Voraussetzungen für das Online-Banking müssen gegeben sein?
+
+Um unser Online-Banking-Angebot nutzen zu können, benötigen Sie einen aktuellen Browser mit einer 128-Bit-SSL-Verschlüsselung und aktiviertem Java-Script.
+###
+Wie kann ich den Zugang zum Online-Banking/-Broking sperren?
+
+Führen Sie die Sperrung entweder online oder telefonisch durch.
+
+Den Zugang selbst online sperren:
+Klicken Sie bitte auf den untenstehenden Link.
+
+Den Zugang telefonisch sperren:
+Den SperrNotruf erreichen Sie rund um die Uhr, auch an Sonn- und Feiertagen unter der Telefonnummer (+49) 116 116. Der Anruf ist innerhalb Deutschlands gebührenfrei.
+
+Bitte beachten: Halten Sie zum Sperren der Zugangsdaten Ihren persönlichen VR-NetKey oder Alias bereit.
+###

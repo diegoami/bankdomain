@@ -1,0 +1,95 @@
+###
+    Was ist die Autorisierung und wofür wird sie benötigt?
+
+    Die Autorisierung stellt in der Regel den ersten Schritt des Bezahlvorgangs mit einer Mastercard/Maestro Karte dar. Es  handelt sich hierbei um eine Anfrage, ob der zu bezahlende Betrag über die vorgelegte  Kreditkarte erfolgen kann. Der Kartenherausgeber (Issuer) hat die Möglichkeit, diese  Autorisierungsanfrage zu genehmigen oder die Anfrage - wie z.B. im Falle einer gestohlenen Karte oder bei nicht ausreichendem verfügbaren Guthaben bzw. Bonität - abzulehnen.
+###
+    Geht mit der Autorisierung auch die Zahlung einher?
+
+    Bei den meisten Käufen ja. Bei bestimmten Geschäftsvorfällen werden Autorisierung und Transaktionseinreichung jedoch nicht in einem Schritt angestoßen, z.B. wenn zum Zeitpunkt der Autorisierungsanfrage der finale Kaufbetrag oder die Warenverfügbarkeit nicht feststeht oder die Leistung zu einem späteren Zeitpunkt erbracht wird. In diesen Fällen werden mehrheitlich Reservierungen eingesetzt.
+###
+    Was hat Mastercard bei Autorisierungen geändert?
+
+    Bislang boten der Autorisierungsprozess und die nachfolgende Transaktionseinreichung unterschiedliche Möglichkeiten der Abwicklung. Neben den Standard-Autorisierungen konnten mit Reservierungen Beträge ohne verpflichtende Einreichung auf dem Kartenkonto geblockt werden. Ab November 2014 setzt BS PAYONE die Änderungen von Mastercard um. Die Kreditkartenorganisation unterscheidet dabei zwischen  Reservierungen und sogenannten „Finalen Autorisierungen“. Parallel dazu führte Mastercard grundlegende Änderungen in den Abwicklungsprozessen ein.
+###
+    Worauf zielen die geänderten Vorgaben für Mastercard- und Maestro-Transaktionen?
+
+    Insbesondere bei Prepaid- und Debitkarten, bei denen die Kreditkarte mit einem Betrag durch den Karteninhaber aufgeladen wird, führten heterogene Verfahren regelmäßig dazu, dass Guthaben auf Kartenkonten doppelt, ohne Bedarf, mit überhöhten Beträgen oder zu lange Zeiträume geblockt wurden. Dem Karteninhaber stand dieser Betrag dann für einen - vom Kartenherausgeber festgelegten - Zeitraum nicht zur Verfügung, auch wenn eine Leistung zunächst nicht erbracht wurde.
+###
+    Wie sind Reservierungen künftig definiert und was sind die Vorteile?
+
+    Sie sind in Zukunft explizit zu Beginn der Kartenzahlung am Terminal über die Reservierungsfunktion auszuwählen. Diese Auswahl kann nachträglich nicht geändert werden. Die Transaktionseinreichung muss in einem zweiten Schritt ausgelöst werden (beispielsweise als UDK Datei).
+        Abweichende Beträge zwischen Reservierung und Transaktionseinreichung sind möglich.
+        Eine Transaktions-Einreichung muss nicht zwingend erfolgen.
+        Für reservierte Beträge liegt die Zahlungszusage der Kartenherausgeber bei 30 Tagen.
+        Flexiblere Handhabung gegenüber Finalen Autorisierungen.
+        BS PAYONE empfiehlt eine Umsatzeinreichung innerhalb von 6 Tagen.
+###
+    Wie sind Finale Autorisierungen künftig definiert und was sind die Vorteile?
+
+    Wird beim Bezahlvorgang nicht explizit eine Reservierung angestoßen, wird die Autorisierung immer als Finale Autorisierung durchgeführt. Sie werden nicht berechnet, sofern die nachfolgenden Kriterien einer Finalen Autorisierung erfüllt werden. Ist dies jedoch nicht der Fall, fällt für die jeweilige Autorisierung eine Prozessgebühr, die sog. Integrity Fee an (vgl. BS PAYONE Preis- und Leistungsverzeichnis).
+        Abweichende Beträge zwischen Finaler Autorisierung und Transaktionseinreichung sind nicht zulässig. D.h. der autorisierte  Betrag und der eingereichte Transaktionsbetrag müssen identisch sein.
+        Zwingende Transaktionseinreichung (innerhalb von 3 Arbeitstagen bei BS PAYONE).
+        Die Stornierung einer Finalen Autorisierung ist nicht zulässig.
+        Kartenherausgeber haften 7 Tage für final autorisierte Beträge.
+        Für Händler ist keine Verfahrensänderung erforderlich, da alle Autorisierungen, die nicht als Reservierung angestoßen werden, automatisch als Finale Autorisierungen gekennzeichnet werden.
+        Kostenfrei, sofern die oben genannten Kriterien erfüllt sind.
+###
+    Was sind die Besonderheiten bei Reservierungen über Maestro?
+
+    Bei Maestro sind Reservierungen ausschließlich für folgende Geschäftsvorfälle gestattet:
+        Fernabsatz-Transaktionen (E-Commerce, Mail-/Telephone-Order)
+        Bei Maestro Fernabsatz-Transaktionen muss der reservierte Transaktionsbetrag mit dem Betrag der eingereichten Umsatz-Transaktion identisch sein. Betragsabweichungen sind nicht zulässig.
+        Transaktionen an Tankautomaten (MCC 5542)
+
+    Der Haftungszeitraum des Kartenherausgebers liegt bei Maestro generell bei 7 Tagen für Reservierungen und Finale Autorisierungen. Darüber hinaus ist die Abwicklung und Gebührenberechnung analog zu den Mastercard Verfahren.
+###
+    Gibt es Alternativen zu Reservierungen und Finalen Autorisierungen?
+
+    Die sogenannte „Karten Status Anfrage“ bietet sich alternativ in bestimmten Geschäftsvorfällen an. So z.B. wenn ausschließlich der Kartenstatus (Existenz, Gültigkeit der Karte) abgefragt werden soll  oder der Zeitpunkt der Leistungserbringung (Buchungs-/Einreichungsdatum) über 30 Tage nach dem Autorisierungsdatum liegt. Eine finanzielle Transaktion wird bei Karten Status Anfragen nicht angestoßen. Die bisherigen „1-Cent-Buchungen“ ohne Transaktionseinreichung entfallen. Die Möglichkeit, Karten Status Anfragen einzusetzen, ist abhängig davon, ob das Terminal diese Funktionalität unterstützt.
+###
+    Wie funktionieren Karten Status Anfragen?
+
+    Neben den aufgeführten Autorisierungstypen kann die Validität der Karte mit Hilfe einer Status Anfrage geprüft werden. Bei diesen erfolgt eine Anfrage über den Betrag „0“. Diese löst die so genannten „1-Cent-Buchungen“ ab und bietet sich für folgende Geschäftsfälle an:
+        Abfrage des Kartenstatus auf Existenz und Gültigkeit
+        Zeitpunkt der Leistungserbringung (Einreichungsdatum)
+        ist später als 30 Tage
+
+    Der Einsatz von Karten Status Anfragen ist abhängig davon, ob das Terminal die Funktionalität unterstützt. BS PAYONE plant die Funktion an eigenen stationären Terminals noch im 1. Quartal 2015 zu aktivieren.
+
+    Hinweis: Bis zur Umsetzung können als Alternativen Reservierungen oder Finale Autorisierungen z.B. mit dem Betrag 0,01 EUR gewählt werden. Bitte beachten Sie dabei, dass auch alle Transaktionen unterhalb von 0,05 EUR künftig immer in den Zahlungsverkehr einfließen.
+###
+    Wie werden künftig die Händlerabrechnungen aufgebaut?
+
+    Die ab 01.11.2014 gültigen Gebühren werden in der Händlerabrechnung summiert nach den Kategorien „Reservierungen“, „Integrity Fees“, „Karten Status Anfragen“ ausgewiesen.  Aufstellungen auf Einzeltransaktionsbasis sind auf Wunsch erhältlich.
+ ###
+    Was versteht man bei Reservierungen unter dem Reversal Requirement?
+
+    Wird für einen reservierten Betrag keine Umsatz-Transaktion eingereicht (z.B. bei Stornierung eines Kaufs, Nicht-Lieferbarkeit, etc.) oder lag ein reservierter Betrag über dem Betrag der eingereichten Umsatz-Transaktion, ist der reservierte Betrag bzw. die Differenz spätestens 24 Stunden nach Einreichung der Umsatz-Transaktion zu stornieren, sofern:
+        die Transaktionseinreichung nicht innerhalb von 24 Stunden nach Reservierung erfolgt
+        und
+        die Transaktionseinreichung innerhalb von 30 Tagen nach Autorisierungsdatum stattfindet.
+
+    Hinweis: Dies gilt nicht für Transaktionen an Tankautomaten.
+###
+    Wie kann der Karteninhaber über Betragsreservierungen informiert werden?
+
+    Der Händler muss den Karteninhaber über die Höhe des Betrags, für den eine Reservierung getätigt wird, vorab schriftlich oder mündlich informieren und dessen Einverständnis einholen. Genannt werden kann der konkrete Betrag (z.B. 100 EUR) oder aber eine Darstellung der Kalkulationsbasis (z.B. Zimmerpreis plus 15 Prozent). Diese Information kann  beispielsweise  durch Anzeige des Betrages auf dem Terminaldisplay (bei PIN-Eingabe), auf dem Bildschirm bei Online-Buchungen, als Aufsteller oder Aushang in Terminalnähe, o.ä. erfolgen.
+###
+    Wie sind die neuen Abrechnungen aufgebaut?
+
+    Künftig erfolgt die Darstellung der Autorsierungsentgelte entsprechend der Vorgaben für die Autorisierung von Mastercard. Ein Beispiel für den Aufbau der neuen Gliederung kann der bereitgestellten Musterrechnung entnommen werden.
+
+    Musterrechnung "Mastercard"
+
+    Auf einen Blick: Änderungen der Autorisierungen durch Mastercard
+###
+    Sind bei Reservierungen Autorisierungserhöhungen und Verlängerung des Haftungszeitraums möglich?
+
+    Um den Gültigkeits- bzw. Haftungszeitraum zu verlängern, können zu einem späteren Zeitpunkt weitere Reservierungen für die jeweilige Transaktion vorgenommen werden. Sofern diese korrekt kodiert und vom Kartenherausgeber genehmigt sind, gelten sie als Ergänzung der ursprünglichen Autorisierung auf Basis der ursprünglichen Parameter der zuerst getätigten Reservierung.
+###
+    Wie verändern sich die Toleranzgrenzen?
+
+    Die Toleranzgrenzen (autorisierter Betrag < eingereichte Umsatz-Transaktion) für Hotels/Motels, Autovermietungen und Cruise Lines (bisher 15%) entfallen vollständig. Die Toleranzgrenze für Trinkgeld (bisher 20%) entfällt, wenn es sich um Chip/PIN, kontaktlose oder Fernabsatz-Transaktionen handelt. Für Vorort-Transaktionen, die nicht Chip/PIN oder kontaktlos sind, bleibt die 20% Trinkgeldregelung bestehen. Diese Autorisierungen müssen als Reservierung durchgeführt werden. Die Möglichkeit, Aufschläge für Trinkgelder und andere Nebenkosten direkt in den Autorisierungsbetrag einzurechnen, bleibt bestehen.
+
+    Hinweis: Gemäß der Mastercard Regularien ist es nicht gestattet, Aufschläge für potenzielle Verluste, Diebstahl oder sonstige Schäden in die Nebenkosten einzurechnen.
+###

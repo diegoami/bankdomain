@@ -1,0 +1,97 @@
+###
+Was ist SEPA ?
+
+SEPA (Single Euro Payments Area)
+
+Der von der Europäischen Union ins Leben gerufene Euro-Zahlungsverkehrsraum SEPA zielt darauf, den bargeldlosen Zahlungsverkehr zu vereinheitlichen. Derzeit setzen 33 Länder die Vorgaben um. In der aufgeführten Übersicht finden Sie aktuelle Antworten zu häufig gestellten Fragen.
+###
+    Was bedeutet die Ankündigung der verlängerten Übergangsfrist zum 01.08.2014?
+
+    Am 09.01.2014 hat die Europäische Kommission angekündigt, die SEPA-Übergangsfrist bis zum 01.08.2014 zu verlängern. Das bedeutet, dass bis zu diesem Stichtag weiterhin DTA-Lastschriften erstellt werden können. Auf die Projektplanung von BS PAYONE hat diese Ankündigung keinen Einfluss. BS PAYONE plant weiterhin, die Umstellung pünktlich und vollständig zum Ende des Monats Januar abzuschließen und die eigenen Kunden auf SEPA umzustellen.
+###
+    Was bedeutet SEPA?
+
+    SEPA ist die Abkürzung für Single Euro Payments Area, den einheitlichen Euro-Zahlungsverkehrsraum. Er besteht aus den 28 EU-Staaten sowie den drei Ländern des übrigen europäischen Wirtschaftsraums (Island, Liechtenstein, Norwegen) sowie der Schweiz und Monaco. Innerhalb der SEPA werden europaweit standardisierte Lastschriften, Überweisungen und Kartenzahlungen angeboten. Dadurch können Verbraucher und Unternehmen bargeldlose Zahlungen auch über die Ländergrenzen hinweg so einfach und bequem tätigen wie in ihrem Heimatland.
+
+    SEPA-Zahlungen können ausschließlich in Euro abgewickelt werden. Für Zahlungen in anderen europäischen Währungen sind die SEPA-Verfahren nicht einsetzbar. Hier bedarf es weiterhin einer Auslandsüberweisung.
+###
+    Ab wann wird auf SEPA umgestellt?
+
+    Ab 01.02.2014 werden die bisherigen inländischen Lastschriften und Überweisungen der SEPA-Länder durch einheitliche SEPA-Produkte abgelöst.
+
+    Ausgenommen ist das sogenannte kartengestützte Lastschriftverfahren, d.h. die an BS PAYONE Terminals durchgeführten Lastschrift-Zahlungen werden in der aktuellen Form noch bis 01.02.2016 zulässig sein.
+###
+    Was ist die IBAN?
+
+    Eine Neuerung für Bankkunden ist eine Kennziffer, die künftig die nationalen Kontoangaben (in Deutschland Kontonummer und Bankleitzahl) ersetzt: die IBAN (International Bank Account Number/internationale Bankkontonummer).
+
+    Die IBAN ist je nach Land unterschiedlich lang (in Deutschland immer 22 Stellen), vom Prinzip her aber immer gleich aufgebaut: Sie besteht aus einem internationalen Teil, der sich aus einem Länderkennzeichen und einer Prüfziffer zusammensetzt, und einem nationalen Teil, der individuelle Kontodetails enthält. In Deutschland sind das Bankleitzahl und Kontonummer.
+###
+    Was ist der BIC?
+
+    Der BIC (Business Identifier Code/ international standardisierter Bank-Code, vergleichbar mit der Bankleitzahl in Deutschland) identifiziert weltweit eindeutig den Zahlungsdienstleister. Die Angabe des BIC ist für inländische Überweisungen und Lastschriften bis Februar 2014 und bei grenzüberschreitenden Zahlungen bis Februar 2016 notwendig.
+###
+    Woher bekomme ich IBAN und BIC?
+
+    IBAN und BIC Ihrer kontoführenden Bank oder Sparkasse können Sie Ihrem Kontoauszug bzw. vielfach der entsprechenden Bankkundenkarte oder dem Internet-Banking entnehmen.
+###
+
+        Was ist ein SEPA-Lastschriftmandat?
+
+        Ein SEPA-Lastschriftmandat ist die rechtliche Legitimation für den Einzug von SEPA-Lastschriften. Ein Mandat umfasst bei BS PAYONE die Zustimmung des Vertragspartners zum Einzug der Zahlung per SEPA-Lastschrift. Sollten Sie als Vertragspartner Mandate bei Ihren eigenen Kunden einholen müssen, empfehlen wir Ihnen folgende Seiten:
+
+        www.sepadeutschland.de
+        www.die-deutsche-kreditwirtschaft.de
+        Was muss bei einer SEPA-Überweisung beachtet werden?
+
+        Die SEPA-Überweisung ersetzt das nationale Überweisungsformat aller SEPA-Länder. Das Besondere an der SEPA-Überweisung ist, dass sowohl Inlandsüberweisungen als auch internationale Überweisungen innerhalb der Teilnehmerländer möglich sind und sich nicht mehr unterscheiden. Für eine SEPA-Überweisung werden in Zukunft die IBAN und BIC benötigt, damit der Absender und Empfänger einer Überweisung eindeutig identifiziert werden können.
+###
+        Was ist eine Mandatsreferenz?
+
+        Die Mandatsreferenz ist ein vom Zahlungsempfänger individuell vergebenes Kennzeichen eines Mandats. BS PAYONE wird die Mandatsreferenz an ihre Vertragspartner automatisiert vergeben und mitteilen. Die Mandatsreferenz darf bis zu 35 alphanumerische Stellen lang sein und dient in Kombination mit der Gläubiger-ID (s.u.) der eindeutigen Identifizierung des dem Lastschrifteinzug zugrunde liegenden Mandats.
+###
+        Was ist die Gläubiger-ID?
+
+        Die Gläubiger-ID wird benötigt, um als Zahlungsempfänger Lastschriften auf Basis der SEPA-Lastschriftverfahren nutzen zu können. Die BS PAYONE Gläubiger-ID lautet: DE76ZZZ00000000056. Diese ID dient zur eindeutigen Identifikation von SEPA-Lastschriften der BS PAYONE.
+
+        Die GläubigerID ist ebenfalls verpflichtend in den neuen SEPA Formaten zur Abrechnung der ELV und electronic cash Transaktionen zu verwenden. Ohne die Gläubiger ID sind somit zukünftig (beginnend ab April 2015) keine Zahlungen mit ec Karten mehr durchführbar.
+
+        Ihre eigene GläubigerID können sie unter www.glaeubiger-id.bundesbank.de beantragen. Nach dem Erhalt müssen sie diese sowohl der BS PAYONE als auch ihrer Hausbank bekannt geben.
+###
+        Was verbirgt sich hinter der Vorabankündigung/Pre-Notification?
+
+        Die Vorabankündigung/Pre-Notification ist eine Mitteilung von BS PAYONE, die den Vertragspartner bereits im Vorfeld über eine künftige Belastung informiert. Die Vorabankündigung ist bei SEPA-Lastschriften verpflichtend und wird auf den Abrechnungsdokumenten integriert werden.
+        Was ändert sich am Verwendungszweck?
+
+        Die Länge des Verwendungszwecks für SEPA-Überweisungen und -Lastschriften ist auf 140 Zeichen begrenzt. Bisherige längere Inhalte werden von BS PAYONE gekürzt.
+
+        Beispiel:
+
+        RG-Nr 11119413935 / 31.07.13
+        MONAT* 07.2013 BETRAG 22000.60
+        MWST 100000.45 AUT.GEB* 120000.15
+        KD-NR 8000100200
+        VU-NR 455600745874
+        ZAHLUNGSBELEG 2053710191
+        Zur Info
+
+        *Diese Felder entfallen bei Materialbestellungen und Miete.
+
+        SEPA bei BS PAYONE
+        Werden meine bei BS PAYONE hinterlegten Kontodaten umgewandelt?
+
+        Ja, die in den BS PAYONE Systemen hinterlegten Kontodaten werden in IBAN und BIC umgewandelt.
+        Werden die Formulare von BS PAYONE angepasst?
+
+        Selbstverständlich werden im Zuge der SEPA-Umstellung auch Formulare, AGB, etc. angepasst.
+        Gibt es Änderungen bei SEPA-Überweisungseingängen?
+
+        BS PAYONE wird bis zum 01.02.2014 die bisherige nationale Überweisung an unsere Vertragspartner auf eine SEPA-Überweisung umstellen. Dies wird automatisch erfolgen und die Kreditinstitute werden die Gutschrift lediglich als SEPA-Überweisungseingang deklarieren.
+###
+        Wie erfolgt die "Migration" von Einzugsermächtigungen?
+
+        BS PAYONE wird bei Bestandskunden eine bestehende Einzugsermächtigung in ein Lastschriftmandat umwandeln bzw. bei Neukunden Lastschriftmandate einholen. Vertragspartner werden von BS PAYONE über die Migration der Einzugsermächtigung in ein SEPA-Mandat schriftlich informiert.
+        Wo finde ich IBAN und BIC der BS PAYONE GmbH?
+
+        IBAN und BIC der Konten von BS PAYONE GmbH sind auf jedem Geschäftsbrief oder jeder Rechnung zu finden.
+###

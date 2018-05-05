@@ -1,0 +1,88 @@
+###
+Was muss ich tun, um am Sm@rt-TAN plus teilzunehmen?
+
+Die Anmeldung können Sie bequem im MLP Financepilot Banking unter “Verwaltung“ vornehmen. Zur Sm@rt-TAN plus-Anmeldung benötigen Sie einen TAN-Generator und Ihre MLP Maestro-Girocard. Sofern Ihnen noch kein TAN-Generator nach dem HHD 1.4 Standard vorliegt, können Sie diesen über den Webshop direkt zu sich nach Hause bestellen (12,70 Euro, inkl. Versand).
+
+Optional haben Sie die Möglichkeit, sich zum mobileTAN-Service anzumelden. Hierfür benötigen Sie lediglich ein Handy mit deutscher Mobilfunknummer.
+###
+Wie beantrage ich das TAN-Verfahren?
+
+Zur Beantragung des TAN-Verfahrens nutzen Sie bitte unser
+
+Formular zur Beantragung des TAN-Verfahrens
+###
+Was kostet die Sm@rt-TAN plus?
+
+Das Sm@rt-TAN plus-Verfahren ist kostenfrei. Besitzen Sie keinen TAN-Generator, so fallen hierfür einmalig Beschaffungskosten an.
+
+    KOBIL TAN Optimus comfort der Firma KOBIL für 14,60 Euro (inklusive Versand)
+    REINERSCT tanJack® Bluetooth für 33,40 Euro (inklusive Versand)
+###
+Was benötigt man für die Sm@rt-TAN plus?
+
+    einen TAN-Generator, der den HHD 1.4 Standard unterstützt
+    ein MLP-Girokonto in Verbindung mit persönlichen MLP Maestro-Girocard
+    den MLP Financepilot oder die Financepilot App
+###
+Mit welcher Karte kann ich das Sm@rt-TAN plus-Verfahren verwenden?
+
+Für das Sm@rt-TAN plus-Verfahren benötigen Sie eine MLP Maestro-Girocard. Mit einer Kreditkarte ist das Verfahren nicht nutzbar.
+###
+Kann ich die Sm@rt-TAN plus und die mobileTAN parallel nutzen?
+
+Ja, Sie können beide Verfahren parallel nutzen.
+###
+Warum benötige ich eine MLP Maestro-Girocard für das Sm@rt-TAN plus-Verfahren?
+
+Beim Sm@rt-TAN plus-Verfahren benötigt man einen TAN-Generator, in den - wie beim Bezahlen mit der Karte im Handel - die MLP Maestro-Girocard als Legitimationsmittel gesteckt wird.
+###
+Ich habe meinen TAN-Generator verloren. Muss ich jetzt das Verfahren sperren?
+
+Nein, der TAN-Generator dient lediglich als Eingabe- und Ausgabemedium des Verfahrens. Es enthält keine sicherheitsrelevanten Daten. Sobald ein Ersatz-Gerät vorliegt, können Sie dies ohne erneute Anmeldung sofort nutzen.
+###
+Was ist das manuelle Sm@rt-TAN plus-Verfahren?
+
+Das manuelle Sm@rt-TAN plus-Verfahren verzichtet auf die optische Übertragung der Daten via blinkender Grafik auf den TAN-Generator. Stattdessen werden dabei die entsprechenden Transaktionsdaten sowie ein je nach Auftragsart variierender "Startcode" über die Tastatur des Generators eingegeben. Aus diesen Daten wird dann die passende TAN berechnet, mit deren Eingabe anschließend im MLP Financepilot der Auftrag bestätigt wird.
+###
+Was ist der ATC (Application Transaction Counter)?
+
+Wird auf dem Chip Ihrer MLP Maestro-Girocard eine Sm@rt-TAN berechnet, erhält diese auf dem Kartenchip eine fortlaufende interne Nummer, den sogenannten Application Transaction Counter (ATC). Bei jeder errechneten TAN erhöht sich dieser ATC also um eins. Auch bankseitig existiert ein solcher ATC, der Ihrer Girocard zugeordnet ist und der sich bei jeder im MLP Financepilot verwendeten TAN ebenfalls um eins erhöht.
+###
+Wird das Sm@rt-TAN plus-Verfahren nach dreimaliger TAN-Falscheingabe gesperrt?
+
+Nach dreimaliger Falscheingabe einer TAN wird das Sm@rt-TAN plus-Verfahren aus Sicherheitsgründen gesperrt. Ebenso erfolgt eine Sperre, wenn zuviele TANs erzeugt, aber nicht verbraucht werden. Wenden Sie sich in diesem Fall bitte an den MLP Kundenservice, der die Sperre wieder aufheben kann.
+
+Halten Sie dazu bitte Ihren TAN-Generator und die zugeordnete MLP Maestro-Girocard bereit, um den ATC-Zähler-Stand Ihres TAN-Generators zu ermitteln.
+Bitte beachten Sie: Wenn Sie zwei TAN-Verfahren parallel nutzen, werden bei dreimaliger TAN-Falscheingabe beide Verfahren gesperrt!
+###
+Welche TAN-Generatoren kann ich verwenden?
+
+Sie können jedes Lesegerät verwenden, das den HHD 1.4 Standard unterstützt. Sm@rt-TAN plus wurde bisher erfolgreich mit diesen Lesegeräten getestet:
+
+    KOBIL TAN optimus comfort
+    KOBIL opTAN touch
+    REINERSCT tanJack® optic SX
+    REINERSCT tanJack® optic SR
+    REINERSCT tanJack® optic SCT
+    REINERSCT tanJack® optic CX
+    REINERSCT tanJack® Bluetooth
+    gemalto Ezio TAN
+    VASCO DIGIPASS DP 835
+    VASCO DIGIPASS DP 836
+    VASCO DIGIPASS DP 836 A
+    VASCO DIGIPASS DP 840
+###
+An wen wende ich mich, wenn mein TAN-Generator defekt ist?
+
+Prüfen Sie zuerst, ob die Batterien leer sind. Ist dies nicht der Fall, wenden Sie sich während der Garantiezeit bitte direkt an den Betreiber unseres Online-Shops, die Firma Excelsis Informationssysteme GmbH. Die Kontaktdaten der Support-Hotline finden Sie in den FAQs des Webshops.
+###
+Muss man für jedes Konto eine Karte zur TAN-Generierung haben?
+
+Nein, es wird lediglich eine MLP Maestro-Girocard benötigt, die auf Ihren Namen ausgestellt ist. Mit dieser Karte können TANs für alle Transaktionen generiert werden.
+###
+Kann ein TAN-Generator für mehrere Banken verwendet werden?
+
+Ja, der TAN-Generator ist multibankingfähig. Je nach Bank muss die dementsprechende Maestro-Girocard verwendet werden.
+
+Financepilot Banking und Report, Financepilot App und das Haushaltsbuch sind Angebote der MLP Banking AG
+###

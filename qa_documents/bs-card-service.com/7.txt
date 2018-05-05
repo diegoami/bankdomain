@@ -1,0 +1,13 @@
+###
+    Was ist die Autorisierungsgebühr?
+
+    Bei diesem Posten, der auf Ihrer Rechnung ganz oben steht, handelt es sich um einen Betrag, den die Deutsche Kreditwirtschaft für electronic cash-Transaktionen mit der persönlichen Geheimzahl (PIN) erhebt. Wir als BS PAYONE leiten diese Gebühr lediglich an die Deutsche Kreditwirtschaft weiter. Dank der Zahlungsgarantie haben Sie als Händler bei diesen Transaktionen den Vorteil, dass die Zahlungen an Sie nicht "platzen" können, weder wegen mangelnder Deckung noch dadurch, dass der Käufer Widerspruch einlegt. Übrigens können Sie über das BS PAYONE Service-Portal Ihre Rechnungen und Salden jederzeit online abrufen.
+###
+    Warum werden keine ec-Umsätze auf meinem Konto gutgeschrieben?
+
+    Werden keine Gutschriften auf Ihr Konto verbucht, so liegt das meist daran, dass noch kein Kassenschnitt an Ihrem Terminal durchgeführt wurde. Eine weitere häufige Ursache ist zudem ein fehlender DTA-Vertrag (Datenübertragungsvertrag). Diesen müssen Sie vorab mit Ihrer Bank abschließen, damit Ihre Transaktionen bearbeitet werden können.
+###
+    Welche Zahlungsarten verlangen einen Kassenschnitt?
+
+    Ein Kassenschnitt ist nur für die Verfahren ec/girocard sowie Lastschriften nötig. Bei allen anderen Zahlungsarten wie VPAY oder Maestro sowie Kreditkarten ist er nicht notwendig – die Abrechnung wird von den jeweiligen Kreditkartenorganisationen mit dem vereinbarten Zahlungsziel automatisch gestartet.
+###

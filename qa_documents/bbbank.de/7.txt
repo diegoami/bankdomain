@@ -1,0 +1,23 @@
+###
+Ich will meine Kontoauszüge auf elektronischem Wege erhalten. Was muss ich tun?
+
+Die Umstellung auf den elektronischen Kontoauszug, wie auch weitere Dokumente in elektronischer Form, können Sie nach Anmeldung im Online-Banking in Ihrem "Postfach" durchführen. Über den untenstehenden Link gelangen Sie direkt zur Anmeldung für Ihr Postfach.
+
+Anschließend klicken Sie auf die Funktion "Anmelden". Nach der erfolgreichen Bestätigung mit einer TAN, wird Ihnen der elektronische Kontoauszug im angegebenen Turnus zur Verfügung gestellt.
+
+
+    Zur Postfach-Verwaltung im Online-Banking
+###
+Welche Voraussetzungen gibt es für den elektronischen Kontoauszug oder sonstige Dokumente in meinem Postfach?
+
+Der elektronische Kontoauszug und alle weiteren Dokumente werden Ihnen als PDF-Datei zur Verfügung gestellt.
+
+Hierfür benötigen Sie das Programm "Adobe Reader" in einer aktuellen Version. Falls Sie das Programm noch nicht installiert haben, können Sie den Adobe Reader hier kostenlos herunterladen .
+
+Sofern Sie für die Verwaltung Ihrer Konten eine separate Homebanking-Software einsetzen, können Sie die elektronischen Kontoauszüge nach der erfolgreichen Anmeldung auch auf diesem Wege verwalten. Bitte vergewissern Sie sich im Vorfeld, ob Ihre Homebanking-Software diesen Service umfassend unterstützt.
+###
+Kann ich meine Kontoauszüge elektronisch und per Kontoauszugsdrucker erhalten?
+
+Der Kontoauszug per Post oder über den Kontoauszugsdrucker entfällt nach der Aktivierung des Postfachs. Eine parallele Nutzung ist nicht möglich.
+
+###

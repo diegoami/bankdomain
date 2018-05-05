@@ -1,0 +1,55 @@
+###
+Was ist der Unterschied zwischen einer SEPA- und einer Auslandsüberweisung?
+
+SEPA-Überweisungen können nur in Euro abgewickelt werden und nur an die teilnehmenden Länder. Auslandsüberweisungen können weltweit, in Euro oder einer anderen Währung beauftragt werden.
+###
+Welche Angaben werden für eine SEPA-Überweisung benötigt?
+
+Folgende Angaben wurden auf europäischer Ebene für die SEPA-Überweisung festgelegt:
+
+    Vollständiger Name des Zahlungsempfängers
+    IBAN (International Bank Account Number) des Zahlungsempfängers
+    BIC (Bank Identifier Code) des Kreditinstituts mit 8 oder 11 Stellen des Zahlungsempfängers
+    Betrag in Euro
+    Vollständiger Name des Kontoinhabers/Zahlers
+    IBAN des Kontoinhabers/Zahlers
+###
+Wo finde ich IBAN und BIC?
+
+Sie finden Ihre IBAN und den BIC auf Ihrem Kontoauszug. Auch im Online-Banking können Sie IBAN und BIC finden. Zudem sind diese Angaben auf der Rückseite Ihrer BBBank-BankCard aufgedruckt. Wenn Sie einen Geldbetrag per SEPA-Überweisung auf ein anderes Zahlungskonto/Girokonto tätigen möchten, also beispielsweise eine Rechnung begleichen wollen, entnehmen Sie die erforderlichen Angaben zur Kontoverbindung (IBAN und BIC) bitte der Rechnung bzw. dem Briefkopf oder fragen Sie direkt beim Zahlungsempfänger nach.
+###
+Was passiert, wenn ich mich bei der IBAN verschreibe?
+
+Die IBAN wird durch eine zweistellige individuelle Prüfziffer abgesichert. Damit können Zahlendreher bei der IBAN erkannt werden.
+###
+Wie kann ich eine SEPA-Überweisung tätigen?
+
+SEPA-Überweisungen werden bereits seit Januar 2008 angeboten. Die BBBank eG stellt hierfür entsprechende Überweisungsvordrucke zur Verfügung. SEPA-Überweisungen können auch beleglos eingereicht werden (z. B. in Dateien als Datensätze). Auch im Online-Banking sind entsprechende Eingabemasken für SEPA-Überweisungen eingerichtet.
+###
+Wo finde ich die Regelwerke für eine SEPA-Überweisung?
+
+Das Regelwerk mit den genauen Vorgaben für die Ausführung einer SEPA-Überweisung (SEPA Credit Transfer) hat der European Payments Council aufgestellt.
+###
+Benötige ich für die SEPA-Überweisung einen neuen Zahlungsverkehrsvordruck?
+
+Ja, für SEPA-Überweisungen benötigen Sie SEPA-Überweisungsvordrucke, die wir Ihnen gerne zur Verfügung stellen.
+###
+Wie kann ich die IBAN des Empfängers in meinem Kartenlesegerät eingeben (manuelles Sm@rt-TAN plus-Verfahren)?
+
+Da mit den Tasten des Kartenlesers keine Buchstaben eingegeben werden können, wird bei der Überweisung lediglich die Eingabe bestimmter Zahlen der IBAN gefordert (Punkt 4: Geben Sie die mit einem 'x' markierten Stellen der Empfänger-IBAN DExx1234567800000123xxxx ein und drücken auf "OK".)
+
+Folgen Sie anschließend den Angaben unter Punkt 5 (s. Bild) um eine TAN zu erhalten.
+###
+Warum kann ich die Felder "Verwendungszweck" und "Kundenreferenz" nicht parallel benutzen?
+
+Damit der Zahlungsempfänger die Zahlung eindeutig zuordnen kann, stehen Ihnen die beiden genannten Eingabefelder zur Verfügung. Sofern Sie lediglich eine Referenznummer seitens des Zahlungsempfängers mitgeteilt bekommen haben, können Sie gerne das Feld Kundenreferenz benutzen. Andernfalls nutzen Sie bitte das Feld Verwendungszweck. Eine Aufteilung der Daten in beide Eingabefelder ist nicht möglich.
+###
+Können noch beleghafte Überweisungsträger mit Kontonummer und Bankleitzahl eingereicht werden?
+
+Ab dem 1. Februar 2016 dürfen nur noch SEPA-Überweisungen mit Angabe der IBAN ausgeführt werden. Die bisherigen Überweisungsvordrucke mit Kontonummer und BLZ können auf Grund gesetzlicher Bestimmungen nicht mehr verarbeitet werden.
+###
+Ich habe Geld auf ein bereits aufgelöstes Konto überwiesen. Bekomme ich das Geld automatisch zurück?
+
+In der Regel wird das Geld automatisch zurückgebucht.
+
+###

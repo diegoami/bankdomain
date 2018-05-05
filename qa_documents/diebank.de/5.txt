@@ -1,0 +1,25 @@
+###
+Was ist PIN und TAN?
+
+PIN ist die persönliche Identifikationsnummer oder Geheimzahl. TAN steht für Transaktionsnummer – eine Art Einmal-Passwort, das häufig im Online-Banking genutzt wird.
+###
+Was bedeutet FinTS?
+
+Im Jahr 2002 ist HBCI im "Financial Transaction Service" (FinTS) aufgegangen. Dieser Standard bietet gegenüber den HBCI-Vorgängern zusätzliche Möglichkeiten: Online-Überweisungen können seitdem nicht nur mit der elektronischen Signatur, sondern auch mit dem Sicherheitsverfahren PIN/TAN beauftragt werden. Das HBCI wurde jedoch technisch nachgerüstet und ist seit geraumer Zeit ebenfalls PIN/TAN-fähig.
+###
+Wie funktioniert so eine Überweisung mit FinTS?
+
+Wenn der Nutzer mit dem Banking-Programm eine Überweisung an seine Bank sendet, schickt er ihr zeitgleich mit dem Auftrag einen digitalen Schlüssel. Das ist eine Zahlenkolonne, die nur die Bank entschlüsseln kann. Auch die Bank sendet während des Banking-Dialogs dem Kunden einen Schlüssel, so dass sich beide Partner gegenseitig als vertrauenswürdig authentifizieren. Erst wenn dies gewährleistet ist, wird der Auftrag ausgeführt.
+###
+Wie sieht dieser digitale Schlüssel aus bzw. wo ist er gespeichert?
+
+Bei Ihnen ist der Schlüssel zur Authentifizierung entweder in einer Datei oder auf einer Chipkarte, der VR-NetWorld-Card, gespeichert.
+###
+Was ist die VR-NetWorld-Card?
+
+Die VR-NetWorld-Card ähnelt optisch der girocard (Debitkarte), hat allerdings eine ganz andere Funktion. Im Chip dieser Karte ist die Signatur gespeichert, die für die Verschlüsselung der Kommunikation zwischen dem PC des Kunden und dem Rechner der Bank notwendig ist. Da die wenigsten Computer ein entsprechendes Laufwerk haben, ist für die Benutzung der Banking-Software ein Kartenlesegerät notwendig.
+###
+Wie installiere ich die mobile Version vom VR-NetWorld Software?
+
+Nehmen Sie zunächst eine Datensicherung vor. Laden Sie sich dann die aktuelle Version der Software über den Link "VR-NetWorld Software – Download mobile Version" herunter. Entpacken Sie diese auf einem neuen USB-Stick. Dann starten Sie die VR-NetWorld Software-exe-Datei und nehmen abschließend eine Datenrücksicherung Ihrer alten Daten vor.
+###

@@ -1,0 +1,75 @@
+###
+Wo kann ich mit der girocard V PAY kontaktlos im Inland bezahlen?
+
+Immer mehr Händler akzeptieren die kontaktlose girocard unter anderem im Lebensmitteleinzelhandel und in Drogerien. Achten Sie auf das Logo von girocard kontaktlos und probieren Sie es einfach aus.
+###
+Wo kann ich mit der girocard V PAY im Ausland bezahlen oder Bargeld beziehen?
+
+Sie können mit der girocard V PAY bei jedem Händler im europäischen Ausland bezahlen, der das Zahlen mit V PAY akzeptiert. Kontaktloses Bezahlen mit V PAY im Ausland wird noch nicht unterstützt. Bargeldverfügungen sind europaweit möglich. Achten Sie auf das V PAY-Logo. Bei Reisen ins Ausland sollten Sie in jedem Fall ein ergänzendes Zahlungsmittel dabeihaben. Profitieren Sie von den zusätzlichen Leistungen der Mastercard® und/oder Visa Kreditkarte. Zudem können Sie mit der Kreditkarte bei vielen Online-Händlern weltweit einkaufen.
+###
+Was ist eigentlich mit dem Begriff "ec-Karte"? Gibt es den nicht mehr?
+
+Seit 2007 stellen Banken unter der Marke girocard an Geldautomaten mit dem Geldautomatensystem der deutschen Kreditwirtschaft Geld zur Verfügung. Mit girocard ermöglichen sie auch das vormals unter electronic cash bekannte Bezahlen im Handel.
+
+Bereits 2002 entfiel die ec-Garantie und damit die Bezeichnung ec-Karte. Im Volksmund hat sich der Begriff ec-Karte jedoch erhalten. Seit 2016 wird der Begriff girocard für die Karte und das Zahlen im Handel stärker vermarktet. Damit löste er die seit 2002 genutzte Bezeichnung VR-BankCard ab.
+###
+Wie kann ich mich vor Betrug schützen?
+
+Die wichtigsten Grundregeln, die Sie unbedingt beachten sollten:
+
+    Prägen Sie sich Ihre PIN gut ein und vernichten Sie den PIN-Mitteilungsbrief. Einfacher wird es, wenn Sie Ihre PIN direkt am Geldautomaten in eine für Sie gut zu merkende Wunsch-PIN ändern.
+    Schreiben Sie die PIN nicht auf. Sollten Sie sie doch notieren müssen, bewahren Sie Ihre Bankkarte und Ihre PIN niemals am gleichen Ort auf.
+    Kontrollieren Sie Ihre Kontoauszüge regelmäßig, um widerrechtliche Abbuchungen rechtzeitig zu bemerken.
+###
+Was ist die NFC-Technologie?
+
+Das kontaktlose Bezahlen basiert auf der NFC-Technologie. NFC steht für "Near Field Communication" und hat sich als weltweiter Verbindungsstandard für kontaktlose Zahlungen etabliert.
+###
+Wie kann ein Auslesen von Daten verhindert werden?
+
+Der geringe erforderliche Abstand zwischen Terminal und Bankkarte verhindert, dass eine Zahlung unbeabsichtigt erfolgt. Falls das System mehrere Bankkarten erkennt, wird die Transaktion automatisch abgebrochen. Allein durch Vorbeigehen an einem Lesegerät lässt sich kein Geld mit der kontaktlosen girocard V PAY  abbuchen. Eine geeignete Schutzhülle für die kontaktlose girocard V PAY – zum Beispiel eine Aluminium-Kartenhülle – verhindert jegliche Kommunikation über die NFC-Schnittstelle und somit auch das Auslesen von Daten.
+###
+Was muss ich bei Verlust oder Diebstahl der girocard V PAY kontaktlos tun?
+
+Bei Verlust Ihrer girocard müssen Sie diese umgehend bei Ihrem kartenausgebenden Institut sperren lassen. Wenden Sie sich hierzu an Ihren Berater. Alternativ können Sie die Sperrung über die zentrale Sperrnummer 116 116 unter Angabe Ihrer IBAN veranlassen (international +49 116 116 – ggf. abweichende Ländervorwahl). Darüber hinaus sollten Sie einen Diebstahl immer zusätzlich der Polizei melden. Es gelten die grundsätzlichen Sicherheitstipps: Bewahren Sie Ihre Karte sorgfältig auf, überlassen Sie sie niemals Dritten, lernen Sie die Geheimzahl (PIN) auswendig und notieren Sie diese nirgends.
+###
+Wo erhalte ich einen Überblick über meine Transaktionen mit der kontaktlosen girocard V PAY?
+
+Die Abrechnung der kontaktlosen Transaktionen erfolgt wie gewohnt über Ihr Girokonto. Auf dem Kontoauszug sind alle Kontobewegungen aufgelistet – auch die Zahlungen mit der kontaktlosen girocard V PAY.
+###
+Was ist bei Auslandseinsatz die "Sofortumrechnung in Euro"?
+
+Geldautomaten im Ausland bieten unter anderem die sogenannte DCC (Dynamic Currency Conversion) an, wie die Sofortumrechnung in Euro in der Fachsprache heißt. Die Sofortumrechnung in Euro wird auch beim Bezahlen an ausländischen Ladenkassen angeboten. Die einfache Währungsumrechnung beim Einsatz Ihrer girocard V PAY in Fremdwährung gehört bereits zum Leistungsumfang Ihrer girocard. Eine gesonderte Währungsumrechnung in Euro gegen zusätzliche Gebühr über den Kartenakzeptanten (hier: DCC) ist daher nicht notwendig.
+
+Das könnte Sie auch interessieren
+
+    Karte und Online-Banking sperren
+    Schutz vor Skimming
+    Kreditkarten
+
+    Drucken
+
+Kontakt
+
+    07031 864-0
+    Schreiben Sie uns
+    Wir rufen Sie zurück
+    Vereinbaren Sie einen Termin
+
+Service
+
+    15.03: Aktueller Sicherheitshinweis
+    Telefon-Hotline für Sicherheitsfragen rund um das Online-Banking
+    PIN / TAN für Online-Banking gesperrt. Was ist zu tun?
+    Karte und Online-Banking sperren
+    Karten-PIN selber wählen
+    Kontomodell wechseln
+    SEPA
+
+Vorteile der VR-BankCard
+V PAY für Sie als Karteninhaber
+
+    hier Infoblatt öffnen (PDF -761 KB)
+
+Deutschland- und europaweit immer flüssig ...
+###

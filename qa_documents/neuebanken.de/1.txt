@@ -1,0 +1,30 @@
+###
+Was ist der Unterschied zwischen einem klassischen Bankkonto und den Konten von N26, Hufsy, Kontist, Holvi und Penta?
+
+Obgleich es erhebliche Unterschiede zwischen den hier vorgestellten Konto-Anbietern gibt, grenzen sie sich deutlich von klassischen Bank ab. Der Hauptunterschied liegt darin, dass die hier vorgestellten Anbieter Bankenkonzepte anbieten, die auf die eine oder andere Weise auf Freelancer, Selbständige, kleine Unternehmen und Privatpersonen abzielen, für die klassische Banken nur wenig attraktiv sind. Im Gegensatz zur klassischen Bank verbinden die Anbieter die gängigen Kontofunktionen mit Buchungsführungssystemen, Tools zur Rechnungserstellung oder sogar ganzen Modulen, mit denen du deine Produkte online verkaufen kannst, wie im Fall von Holvi. Derlei Angebote findest du bei keiner alt-hergebrachten Bank.
+###
+Welche Voraussetzungen muss ich mitbringen, um ein Konto zu eröffnen?
+
+Da es sich auch bei den hiesigen Angeboten um Bankkonten handelt, musst du in jedem Fall 18 Jahre alt sein. Und sollte der Anbieter keinen Webzugang zu seinem Konto anbieten, wie etwa N26, dann brauchst du natürlich auch noch ein Smartphone oder Tablet, um das Konto zu bedienen. Je nach Anbieter kommen dann individuelle Kriterien hinzu, wie etwa einen Wohnsitz in Deutschland oder einem anderen meist europäischen Land, die mit einer Anmeldebestätigung bewiesen werden muss. Die spezifischen Voraussetzungen finden sich in den FAQ und natürlich den AGBs der Anbieter.
+###
+Wird bei der Eröffnung eine Schufa-Abfrage vorgenommen?
+
+Teilweise. Bei einigen Anbietern wird deine Bonität vor Kontoeröffnung geprüft oder spätestens dann, wenn du einen Kredit aufnimmst, wie das bei N26 möglich ist. Dies ist aber nicht immer der Fall und hängt von dem Anbieter ab. Kontist beispielsweise fragt nicht an deinem Schufa-Score.
+###
+Wie wird meine Identität beim Eröffnen eines Kontos überprüft?
+
+Alle hiesigen fünf Unternehmen bieten eine Online-Identifizierung an. Entweder wird diese mittels eines Video-Chats durchgeführt, für den du deinen Pass und andere Dokumente bereithalten musst, oder du lädst einen Scan deines Ausweises und weitere Dokumente online auf deine Kontoplattform. N26 bietet zusätzlich eine Verifizierung an der Postfiliale an.
+###
+Ist eine Start-up-Bank überhaupt sicher?
+
+Natürlich spielt die Sicherheitsfrage eine gewichtige Rolle, gerade wenn die Bankgeschäfte über das Smartphone abgewickelt werden. Dies gilt für die hier vorgestellten neuen Banken genauso wie für das Online-Banking bei deiner Hausbank. Prinzipiell haben alle Anbieter hohe Sicherheitsstandards, arbeiten mit SSL-Verschlüsselung und diversen anderen Standards. Da Betrüger aber viele Wege kennen, um sich Zugang zu deinem Konto zu verschaffen (Phishing, Virus, etc.) solltest du immer auf der Hut sein und bei Verdacht dein Konto sperren und den Kundenservice kontaktieren.
+Was der Schutz deines Geldes vor dem Bankrott der Bank angeht, gilt für alle hier vorgestellten Anbieter die deutsche bzw. europäische Gesetzgebung. Konkret heißt das, dass für alle Anbieter – gleich ob mit eigener Banklizenz oder in Partnerschaft mit einer anderen Bank – eine Einlagensicherung bis 100 0000 € obligatorisch ist. Darüber hinaus ist es ohnehin nicht ratsam das Geld auf einem Bankkonto zu lagern, das keine oder nur geringe Zinsen abwirft, wie dies bei den hier vorgestellten Konten der Fall ist.
+###
+Wo rufe ich an, wenn ich meine Karte oder mein Konto sperren lassen will?
+
+Dies kannst du einerseits über den Kundenservice des Anbieters machen. Sollte dieser nicht erreichbar sein, steht dir wie bei jeder anderen Bank auch eine 24 Stunden erreichbare Banken-übergreifende Servicenummer zu Verfügung, mit der Karten und Konten gesperrt werden können. Die zwei wichtigsten sind: +49 116 116 und +49 30 4050 4050.
+###
+Was mache ich, wenn ich eine Einzahlung vornehmen will? Ist dies überhaupt möglich?
+
+Eine Bareinzahlung ist nicht bei allen hier untersuchten Banken möglich. N26 bietet dies als einzige hier vorgestellte Bank explizit an, verlangt aber Gebühren, wenn du mehr als 100 € im Monat einzahlst.
+###

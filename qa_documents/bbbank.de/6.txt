@@ -1,0 +1,70 @@
+###
+Wie lange kann ich im Online-Banking die Kontoumsätze sehen?
+
+In der Funktion "Umsatzanzeige" im Online-Banking werden Ihnen standardgemäß zunächst nur die Umsätze der letzten Woche angezeigt.
+
+Durch eine Auswahl im Feld "Umsätze im Zeitraum:" können Sie die Anzeige entsprechend erweitern. Individuelle Darstellungen sind mit der Funktion "Erweiterte Suche" möglich.
+
+Als maximaler Umsatzzeitraum sind seitens unseres Rechenzentrums, der Fiducia & GAD IT AG, die letzten 90 Tage zzgl. des kompletten Kontoauszugs der Buchung, mit der dieser 90-Tage-Zeitraum beginnt, definiert.
+###
+Bis wieviel Uhr muss ich online überweisen, damit noch am selben Tag gebucht wird?
+
+Damit die Buchung noch am selben Tag bearbeitet und zur weiteren Veranlassung an die Empfängerbank weitergereicht werden kann, ist die Eingabe und Bestätigung vor 16:30 Uhr notwendig.
+
+Jede Transaktion ab 16:30 Uhr wird zur Buchung am Folgearbeitstag vorgemerkt.
+###
+Wo kann ich mein Limit für Online-Transaktionen ändern?
+
+Die Änderung des Limits für Online-Transaktionen ist aus Sicherheitsgründen ausschließlich seitens der Bank möglich.
+
+Gerne können Sie uns für die gewünschte Änderung einen Auftrag zukommen lassen. Die Funktionen zur Limitänderung stehen Ihnen nach Anmeldung im Online-Banking zur Verfügung.
+
+
+    Überweisungslimit Inland (SEPA)
+    Überweisungslimit Ausland (SEPA)
+###
+Kann ich bereits durchgeführte Überweisungen nachträglich bearbeiten/stornieren?
+
+Nach der Bestätigung einer Transaktion durch die Eingabe einer TAN, wird der Auftrag ohne Verzögerung an die Empfängerbank weitergeleitet. In diesem Zusammenhang haben wir keine Möglichkeit die durchgeführte Transaktion nachträglich zu bearbeiten/stornieren.
+
+Bitte setzen Sie sich bezüglich einer Regulierung direkt mit dem Zahlungsempfänger in Verbindung.
+
+Bei einer fehlerhaften Angabe der IBAN und/oder des BIC des Empfängers halten wir bei Bedarf gerne Rücksprache mit der Empfängerbank bezüglich der Korrektur/Rückbuchung des Auftrages.
+###
+Wie kann ich Terminüberweisungen ändern/löschen?
+
+Um Terminüberweisungen ändern bzw. löschen zu können, klicken Sie bitte innerhalb der Funktion "Terminüberweisung" auf die gewünschte Aktion. Diese werden Ihnen in der Spalte "Aktionen" zur Verfügung gestellt. Alternativ klicken Sie unten auf den Link.
+
+Bitte beachten Sie, dass die Änderung/Löschung nur bis zum Tag vor der Ausführung einer Terminüberweisung zur Verfügung steht. Eine Korrektur nach Ausführung der Terminüberweisung ist nicht möglich.
+
+
+    Zur Terminüberweisung im Online-Banking
+###
+Warum wird meine Überweisung aufgrund der Doppelverarbeitungsprüfung abgelehnt?
+
+Sofern Sie die Fehlermeldung "Überweisung bereits ausgeführt." erhalten, ist dies auf die zur Sicherheit unserer Kunden eingerichteten Doppelverarbeitungsprüfung zurück zu führen.
+
+Bei der Doppelverarbeitungskontrolle wird übergreifend geprüft, ob zwei oder mehrere Aufträge eingereicht wurden, die in allen Prüfkriterien identisch sind. Der Vergleichszeitraum beträgt 2 Kalendertage. Nur wenn alle zwölf folgenden Kriterien in beiden Aufträgen identisch sind, erkennt das System eine Doppeleinreichung.
+
+Sofern Sie Ihre Eingabe in einem dieser Felder leicht variieren (z.B. Verwendungszweck), kann die Transaktion ohne weiteres durchgeführt werden.
+###
+Warum kann ich die Felder "Verwendungszweck" und "Kundenreferenz" nicht parallel benutzen?
+
+Damit der Zahlungsempfänger die Zahlung eindeutig zuordnen kann, stehen Ihnen die beiden genannten Eingabefelder zur Verfügung.
+
+Im Gegensatz zum Verwendungszweck können im Feld Kundenreferenz jedoch nur bestimmte Zeichen erfasst werden. Sofern Sie lediglich eine Referenznummer seitens des Zahlungsempfängers mitgeteilt bekommen haben, können Sie diese gerne im Feld Kundenreferenz einfügen.
+
+Andernfalls nutzen Sie bitte das Feld Verwendungszweck.
+###
+Wie kann ich Überweisungsvorlagen bearbeiten/löschen?
+
+Um Überweisungsvorlagen anlegen, bearbeiten oder löschen zu können, klicken Sie nach der Anmeldung im Online-Banking im Menüpunkt "Zahlungsaufträge" auf "Überweisungsvorlagen".
+
+Alternativ klicken Sie unten auf den Link.
+
+In der Spalte "Aktionen" stehen Ihnen die gewünschen Möglichkeiten zur Verfügung. Neue Vorlagen legen Sie mit einem Klick auf die Schaltfläche "Neue Vorlage" an.
+
+
+    Zu den Überweisungsvorlagen im Online-Banking
+
+###

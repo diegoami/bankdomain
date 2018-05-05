@@ -1,0 +1,10 @@
+###
+Werden die BS PAYONE E-Commerce Produkte SEPA-fähig?
+
+Die Zahlungsart ELV-Lastschrift muss zum 1. Februar 2014 auf SEPA-Lastschrift umgestellt werden. Im November 2013 erhalten Vertragspartner im E-Commerce mit der Zahlungsart ELV-Lastschrift die Schnittstellenspezifikation für die Umstellung von der Zahlungsart ELV auf SEPA. Die Änderungen für die Zahlungsart im E-Commerce umfassen neben der Einreichung von IBAN/BIC auch Aspekte aus "SEPA-Lastschriften" in der Geschäftsbeziehung zwischen Ihnen als Händler und Ihren Kunden, die bei der SEPA-Lastschrift gefordert werden (z.B. Mandatsreferenz).
+###
+
+Welchen Status hat das elektronische Mandat (e-Mandat)?
+
+In der aktuellen Diskussion hinsichtlich des Schriftformerfordernisses für SEPA-Mandate wird verbreitet die Zulassung eines elektronischen Mandats (e-Mandats) gefordert, d.h. der rechtsgültige Abschluss eines Mandats unter Nutzung elektronischer Medien. Nach unserem Kenntnisstand ist derzeit die Umsetzung des elektronischen Mandats (e-Mandats) in Deutschland nicht geplant. Ein Mandat kann zurzeit ausschließlich in Schriftform (wie bereits heute bei einer ELV-Lastschrift vertraglich gefordert) erstellt werden. Bei weiteren Fragen empfehlen wir Ihnen, sich an Ihre Hausbank oder die Deutsche Kreditwirtschaft zu wenden.
+###

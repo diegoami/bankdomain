@@ -1,0 +1,38 @@
+###
+Was ist ein SEPA-Lastschriftmandat?
+
+Ein SEPA-Lastschriftmandat ist die rechtliche Legitimation für den Einzug von SEPA-Lastschriften. Ein Mandat umfasst sowohl die Zustimmung des Zahlers zum Einzug der Zahlung per SEPA-Lastschrift an den Zahlungsempfänger als auch den Auftrag an den eigenen Zahlungsdienstleister (Bank) zur Einlösung der Zahlung.
+###
+Was ist unter „Vorabinformation“ zu verstehen?
+
+Als Vorabinformation („Pre-Notification“) ist jede Mitteilung (z. B. Rechnung, Police, Vertrag) des Lastschrifteinreichers an den Zahler geeignet, die eine Belastung mittels SEPA-Lastschrift ankündigt. Die Vorabinformation kann auch mehrere Lastschrifteinzüge ankündigen, wenn die Fälligkeitsdaten und Beträge bereits feststehen. Sie muss dem Zahler spätestens 14 Kalendertage vor Fälligkeit zugegangen sein. Andere Fristen können bilateral vereinbart werden.
+###
+Was ist die Gläubiger-Identifikationsnummer (Creditor-Identifier oder Gläubiger-ID)?
+
+Mit der Gläubiger-Identifikationsnummer kann der Einreicher von SEPA-Lastschriften europaweit und unabhängig von seiner Bankverbindung eindeutig identifiziert werden. Die 16-stellige alphanumerische Nummer benötigen SEPA-Lastschrifteinreicher zwingend; ohne Angabe dieser Nummer erfolgt keine Bearbeitung der eingereichten Transaktionen. Die Gläubiger-Identifikationsnummer kann nur online bei der Deutschen Bundesbank beantragt werden: www.glaeubiger-id.bundesbank.de
+###
+Was ist die Mandatsreferenz?
+
+Die Mandatsreferenz ist ein vom Zahlungsempfänger individuell vergebenes Kennzeichen eines Mandats (z. B. Rechnungsnummer oder Mitgliedsnummer).
+###
+Muss ein neues SEPA-Lastschriftmandat für eine bereits existierende Einzugsermächtigung erteilt werden?
+
+Nein. Bereits erteilte Einzugsermächtigungen – sofern sie originalschriftlich vorliegen und vor dem 1. Februar 2014 ausgestellt wurden  - können für das SEPA-Basis-Lastschriftverfahren genutzt werden. Bei einer bestehenden Einzugsermächtigung ist mit den Änderungen vom 9. Juli 2012 , der Sonderbedingungen für den Lastschrifteinzug bzw. für den Lastschriftverkehr, eine Umdeutung der Einzugsermächtigung in ein Mandat möglich. Der Lastschrifteinreicher hat den Zahler vor dem ersten SEPA-Basis-Lastschrifteinzug über den Wechsel auf dieses Verfahren zu informieren.
+###
+Muss bei Änderung der Mandatsdaten ein neues Mandat mit Unterschrift des Kunden eingeholt werden?
+
+Ja, sofern sich die Mandatsreferenznummer, oder sich der Zahlungsempfänger bzw. der Zahlungspflichtige ändert.
+###
+Wie lange gilt das SEPA-Lastschriftmandat?
+
+Generell gilt das SEPA-Lastschriftmandat unbefristet bis zum Widerruf durch den Zahlungspflichtigen. Werden jedoch binnen 36 Monaten seit letztem Einzug keine Folgelastschriften vom Zahlungsempfänger eingereicht, verfällt dieses Lastschriftmandat.
+###
+Gibt es eine Sonderregelung für Vereine?
+
+Nein.
+###
+Kann ich eine Lastschrift zurückgeben und wie lange?
+
+Eine Lastschrift kann innerhalb von 8 Wochen nach Belastung zurückgegeben werden, d.h. eine entsprechende Kontobelastung wird rückgängig gemacht. Eine unautorisierte SEPA-Basis-Lastschrift, kann vom Zahler innerhalb von 13 Monaten nach der Kontobelastung zurückgegeben werden.
+
+###

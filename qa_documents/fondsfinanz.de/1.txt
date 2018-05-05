@@ -1,0 +1,60 @@
+###
+Können Sie vorab telefonisch mitteilen, ob der Kunde einen Kredit erhält?
+Wir können vorab leider keine telefonische Auskunft geben, ob ein Kredit gewährt
+werden kann, da die Kreditentscheidung von vielen Faktoren abhängig ist. Bitte
+geben Sie die Anfragedaten auf unserer Internetplattform ein und starten Sie damit
+eine Anfrage bei den gewünschten Banken. Sie erhalten dann schnellstmöglich
+direktes Feedback über unsere Plattform.
+###
+Erhalte ich für meinen Kunden Angebote oder wird direkt ein Vertrag abgeschlossen?
+
+Über Procheck24 fordern Sie ein oder mehrere Angebot(e) für Ihren Kunden an. Für
+einen Vertragsabschluss muss das gewünschte Angebot dann vom Kunden
+unterzeichnet und über das PostIdent-Verfahren an die Bank zurückgeschickt
+werden. Erst nach Ablauf einer 14-tägigen Widerrufsfrist ist der Kreditvertrag
+verbindlich abgeschlossen. Sofern kein Vertragsabschluss auf der Grundlage
+unserer Angebote gewünscht wird, brauchen Sie nichts weiter zu unternehmen. Die
+Anfrage wird dann automatisch abgelegt. An die Angebote halten sich die Banken in
+der Regel mindestens 10 Tage lang gebunden.
+###
+Welche Voraussetzungen müssen erfüllt sein, dass ein Kreditantrag überhaupt genehmigt werden kann?
+
+Grundsätzlich muss Ihr Kunde folgende Voraussetzungen erfüllen:
+Volljährigkeit
+Mind. seit 6 Monaten beim derzeitigen Arbeitgeber unbefristet angestellt
+Er handelt auf eigene Rechnung
+ständiger Wohnsitz bzw. Bankverbindung in Deutschland
+keine negativen SCHUFA-Einträge
+keine Selbständigkeit
+###
+Wie lange ist die Bearbeitungszeit bei einer Kreditanfrage?
+
+Sie erhalten von uns schnellstmöglich eine Information über den Bearbeitungsstand
+Ihrer Kundenanfrage über unsere Internetplattform. Ergänzend erhalten Sie die
+Antragsunterlagen per E-Mail. Abhängig von der gewählten Bank beträgt die
+Bearbeitungszeit zwischen wenigen Sekunden bis hin zu einigen Stunden. Die
+Auszahlung des Kredites erfolgt in der Regel innerhalb von einem bis fünf
+Bankarbeitstagen nach dem Eingang der vollständigen Unterlagen bei der Bank.
+###
+Ist die Vorabauskunft verbindlich?
+Nein, die Vorabauskunft stellt eine erste Einschätzung auf der Grundlage der über
+die Plattform eingegebenen Kundendaten dar. Diese Angaben werden von der Bank,
+z.B. auf der Grundlage der danach vom Kunden zugeschickten Gehaltsnachweisenoder Kontoauszügen, überprüft. Oftmals erfolgt erst mit der abschließenden Prüfung
+eine umfassende SCHUFA-Abfrage. Erst nach der abschließenden Prüfung erfolgt
+die definitive Kreditentscheidung und nachfolgend die Auszahlung des Kreditbetrags.
+###
+Wird eine Anfrage bei der SCHUFA gestellt und wie wirkt sich eine Anfrage aus?
+Procheck24 selbst ist Kreditvermittler und führt keine SCHUFA-Anfragen durch.
+Unsere Partnerbanken fragen in der Regel bei der SCHUFA an. In nahezu allen
+Fällen erfolgt die Anfrage als sogenannte Konditionenanfrage, die für andere Banken
+nicht ersichtlich ist und sich auch nicht auf den SCHUFA-Scorewert auswirkt. Oder
+es wird erst im Zuge der abschließenden Antragsprüfung von der Bank angefragt.
+Erst bei Abschluss eines Kreditvertrages wird dieser dann der SCHUFA gemeldet.
+Sofern kein Kreditvertrag zustande kommt, wird die Kreditanfrage nach 10 Tagen
+automatisch wieder gelöscht.
+###
+Werden die Daten vertraulich behandelt und verschlüsselt weitergegeben?
+Ja, die Daten werden nur an die zur Finanzierung von Ihnen ausgewählten Banken
+weitergegeben. Die Übermittlung der Daten erfolgt verschlüsselt über SSL-
+Verbindungen.
+###

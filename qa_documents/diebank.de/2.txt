@@ -1,0 +1,44 @@
+###
+Kann der TAN-Generator von mehreren Personen genutzt werden?
+
+Ja, der TAN-Generator ist nicht personalisiert und kann daher von mehreren Personen genutzt werden. Die benutzerabhängigen Daten stehen auf der girocard (Debitkarte).
+###
+
+Erhalte ich den TAN-Generator auch in den Filialen?
+
+In unseren Filialen können Sie die TAN-Generatoren erhalten oder diese können dort für Sie bestellt werden.
+
+Die Pfeile auf meinem Bildschirm sind zu weit auseinander bzw. zu eng beisammen für mein Kartenlesegerät. Was muss ich tun?
+
+Mit den Buttons "-" bzw. "+" kann das sogenannte Flicker-Feld im Online-Banking oder Ihrer Zahlungsverkehr-Software auf die passende Größe gebracht werden. Diese Einstellung können Sie auch speichern.
+###
+
+Warum erhalte ich den Hinweis "TAN falsch"?
+
+Der Hinweis "TAN falsch" kann bei Nutzung der Sm@rt-TAN-Verfahren verschiedene Gründe haben. Zum einen besteht die Möglichkeit, dass Sie sich bei der Eingabe der TAN vertippt haben. Es kann aber auch sein, dass der sogenannte Transaktionszähler auf Ihrer verwendeten Bankkarte zu stark von dem Transaktionszähler im Banksystem abweicht. In diesem Fall werden Sie zur Synchronisation der Bankkarte aufgefordert. Eine weitere Fehlerursache könnte sein, dass Sie die falsche Bankkarte in den TAN-Generator gesteckt haben. D. h. Sie haben entweder die Bankkarte einer fremden Bank oder die nicht dem jeweiligen Sm@rt-TAN-Verfahren zugeordnete Bankkarte in den TAN-Generator gesteckt.
+###
+
+Mit welchen Smartphone-Systemen ist die Bluetooth-Datenübertragung möglich?
+
+Die Datenübertragung via Bluetooth kann aktuell mit der VR-BankingApp für iPhone, iPad und Android genutzt werden.
+###
+
+Welche Voraussetzungen sind für Sm@rt-TAN Bluetooth notwendig?
+
+Voraussetzung für Sm@rt-TAN Bluetooth ist ein bluetooth-fähiger TAN-Leser (HHD 1.4 Standard mit Bluetooth 4LE Funktion) und die Installation der VR-BankingApp auf einem bluetooth-LE-fähigen mobilen Endgerät (ab iPhone 4S und höher oder ab iPad 3 und bei Android-Betriebssystemen ab Version 4.4). Bluetooth muss in den Einstellungen des mobilen Endgerätes aktiviert sein. Zudem muss Bluetooth am Lesegerät eingeschaltet sein. Sie können dies am TAN-Leser unter "Menü/Bluetooth" prüfen.
+###
+
+Welche Unterschiede bestehen zwischen Sm@rt-TAN plus mit der optischen Methode und Sm@rt-TAN photo?
+
+Bei Sm@rt-TAN photo werden im Vergleich zu Sm@rt-TAN plus mit der optischen Methode keine blinkende Balken sondern ein stehendes Bild (Farbmatrix-Code ähnlich eines QR-Code) zur Datenübertragung aus dem Online-Banking auf den TAN-Generator eingesetzt. Dadurch sind bei Sm@rt-TAN photo keine Größenanpassungen der Grafik oder weitere Einstellungen notwendig.
+###
+
+Wie kann ich Sm@rtTAN photo als bevorzugtes TAN-Verfahren festlegen?
+
+Sm@rt-TAN photo wird Ihnen zusätzlich optional angeboten. Im Online-Banking ist per Default Sm@rt-TAN plus bzw. Sm@rt-TAN optic mit der optischen Methode voreingestellt. Unter "Banking > Service > Online-Banking > My eBanking > Bevorzugtes TAN-Verfahren festlegen" können Sie dauerhaft das für Sie präferierte TAN-Verfahren festlegen.
+###
+
+Kann ich mit meinem bestehenden TAN-Generator auch den Farbcode bei Sm@rt-TAN photo lesen?
+
+Um den Farbmatrix-Code bei Sm@rt-TAN photo lesen zu können, benötigen Sie einen photofähigen TAN-Generator. Herkömmliche TAN-Generatoren können den Farbmatrix-Code nicht lesen. Photofähige TAN-Generatoren können die bisherige Darstellung der blinkenden Balken nicht erkennen, eine Unterstützung der manuellen Methode ist jedoch möglich.
+###

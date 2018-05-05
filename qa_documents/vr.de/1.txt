@@ -1,0 +1,14 @@
+###
+Was ist der VR-NetKey bzw. die VR-Kennung?
+
+Der VR-NetKey/Alias bzw. die VR-Kennung/Alias ist Ihr persönlicher Benutzername, den Sie für das Online-Banking benötigen. Mit diesem Benutzernamen und einer PIN können Sie auf Ihre gesamten Konten zugreifen und diese online verwalten. Der VR-NetKey bzw. die VR-Kennung ermöglicht Ihnen auch einen sicheren Zugang zu Ihrem Wertpapierdepot. Mit Online-Brokerage handeln Sie Wertpapiere an nationalen oder internationalen Börsenplätzen – jederzeit bequem von Ihrem PC aus.
+###
+VR-NetKey bzw. VR-Kennung bei Ihrer Bank anfordern
+
+Wenn Sie ein neues Konto eröffnen, können Sie direkt Zugang zum Online-Banking erhalten. Ihre Anmeldedaten fordern Sie dazu einfach bei Ihrer Volksbank Raiffeisenbank vor Ort an. Die Unterlagen werden Ihnen per Post zugeschickt. Den enthaltenen VR-NetKey bzw. die VR-Kennung können Sie nach der ersten Anmeldung im Online-Banking in einen persönlichen Benutzernamen oder Alias ändern. Bei Fragen steht Ihnen ein Mitarbeiter Ihrer Volksbank Raiffeisenbank gerne zur Verfügung.
+###
+VR-NetKey bzw. VR-Kennung sperren und entsperren
+
+Sie können Ihren Zugang zum Online-Banking auch selbst sperren. Die Sperre gilt dann für den VR-NetKey bzw. die VR-Kennung und den Alias. Das Entsperren ist nur über Ihre Bank möglich. Ihre PIN verliert dann ihre Gültigkeit. Sie müssen also eine neue Identifikationsnummer bei Ihrer Volksbank Raiffeisenbank anfordern.
+
+Wenn Sie Ihre PIN beim Log-in dreimal falsch eingegeben haben, wird diese vorerst gesperrt. Sie können die PIN jedoch selbst wieder entsperren, indem Sie sie bei der Online-Anmeldung zusammen mit einer gültigen TAN korrekt eingeben.

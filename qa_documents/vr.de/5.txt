@@ -1,0 +1,17 @@
+###
+Welche Länder umfasst SEPA?
+
+SEPA umfasst aktuell 34 Länder. Neben den 19 Euro-Staaten sind auch alle weiteren EU-Mitgliedsstaaten beteiligt. Auch die Kreditinstitute in den drei weiteren Staaten des Europäischen Wirtschaftsraumes (EWR) Island, Liechtenstein und Norwegen sowie in Monaco, San Marino und der Schweiz nutzen die SEPA-Zahlverfahren.
+###
+Reicht bei grenzübergreifenden SEPA-Zahlungen die Angabe der IBAN aus?
+
+Bei grenzübergreifenden Zahlungen im EU/EWR-Raum reicht die Angabe der IBAN aus. Nur bei Zahlungen in Staaten außerhalb des EWR-Gebietes (z. B. Schweiz, Monaco oder San Marino) ist die Angabe von IBAN und BIC notwendig.
+###
+Woher bekomme ich meine IBAN und meinen BIC bzw. die IBAN und den BIC meines Geschäftspartners?
+
+Ihre IBAN und den BIC Ihrer Volksbank Raiffeisenbank finden Sie auf Ihren Kontoauszügen, im Online-Banking und auf Ihrer VR-BankCard. Wenn Sie eine Rechnung bezahlen, können Sie die IBAN und den BIC Ihres Geschäftspartners der Rechnung oder seinem Briefpapier entnehmen.
+###
+Was ist die Gläubiger-Identifikationsnummer und wo kann ich diese beantragen?
+
+Die Gläubiger-Identifikationsnummer (auch Credit Identifier bzw. CI genannt) ist eine eindeutige Kennung, die Sie als Lastschrifteinreicher identifiziert. In Deutschland können Sie Ihre Gläubiger-Identifikationsnummer bei der Deutschen Bundesbank beantragen. Um als Lastschrifteinreicher eines der SEPA-Lastschriftverfahren nutzen zu können, benötigen Sie diese Nummer. Voraussetzung für die Durchführung von Lastschrifteinzügen ist der Abschluss einer Lastschriftinkassovereinbarung. Gerne berät Sie dazu Ihre Volksbank Raiffeisenbank vor Ort.
+###

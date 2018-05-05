@@ -1,0 +1,102 @@
+###
+    Was genau ist girogo?
+
+    girogo ist eine kontaktlose Bezahlmöglichkeit auf Prepaid-Basis. Mit ihr lassen sich Beträge bis 25 Euro kontaktlos bequem und schnell bezahlen. Hierfür hält der Kunde seine Karte nur kurz ans Terminal, fertig. Das Stecken der Karte oder die Eingabe einer PIN ist nicht erforderlich. Und das bei unverändert hohen Sicherheitsstandards der Deutschen Kreditwirtschaft.
+###
+    Was sind die Hauptvorteile für Händler?
+
+    Ihre Kunden freuen sich über kürzere Wartezeiten an der Kasse und den äußerst komfortablen Bezahlvorgang, da sowohl die Kramerei nach Kleingeld als auch die Eingabe einer PIN wegfällt. Sie als Händler freuen sich über die wirtschaftlichen Vorzüge. Denn neben einem schnelleren Abverkauf und dem reduzierten Bargeldhandling profitieren Sie vor allem vom deutlich günstigeren Händlerentgelt im Vergleich zur Buchung mit Karte und electronic cash Transaktionen.
+###
+    Wie hoch wird das Händlerentgelt künftig sein?
+
+    Künftig werden folgende Staffeln mit girogo bei den Händlerentgelten angewendet. Je Transaktion gilt:
+        Umsätze bis einschließlich 4,99 €: kostenfrei
+        ab 5,00 €: 0,2 %
+
+    Hinzu kommt das Netzbetreiberentgelt.
+    So funktioniert das Bezahlen mit girogo
+        Sie erfassen den Einkauf Ihrer Kunden wie gewohnt.
+        Bei Beträgen bis 25 € hält der Kunde seine Bank- oder Sparkassenkarte mit girogo kurz an das Kartenlesegerät.
+        Ein optisches / akustisches Signal zeigt an, dass alle Daten der Karte vollständig erfasst wurden.
+        Die Zahlung wird autorisiert und Sie erhalten Ihr Geld.
+###
+    Welche Terminals wird es geben und wie aufwendig ist die technische Nachrüstung?
+
+    An Multifunktions-Terminals (u.a. auch electronic cash) können Beträge bis 25 EUR mit der elektronischen Geldbörse bezahlt werden. Bei Beträgen über 25 EUR führt das Terminal dann eine electronic cash Transaktion (mit PIN-Eingabe des Kunden) durch. An reinen girogo Terminals sind Kontaktlos-Transaktionen bis 200 EUR möglich.
+
+    In den meisten Fällen können Sie ein Kontaktlos-Lesegerät einfach an Ihr bestehendes Terminal anschließen.
+
+    Oder Sie nutzen ein Multifunktions-Terminal, das Ihnen alle Bezahlwege anbietet.
+###
+    Wird es Terminals mit unterschiedlichen Akzeptanzabläufen parallel im Handel geben?
+
+    Die Akzeptanzabläufe für girogo sind überall identisch. Voraussetzung ist, dass das Händlerterminal auch die kontaktlose Bezahlfunktion unterstützt. An vielen anderen Terminals kann kontaktbehaftet bezahlt werden.
+###
+    Können Händler girogo auch an Terminals akzeptieren, die schon andere kontaktlose Zahlungsverfahren unterstützen?
+
+    Ja, sofern diese Terminals auch für die kontaktlose Transaktion mit girogo ausgerüstet sind. Grundsätzlich sind die bereits im Handel installierten Terminals, z.B. für MasterCard kontaktlos oder Visa kontaktlos, auf das Verfahren nachrüstbar. Verbindliche Informationen können bei den Herstellern eingeholt werden.
+###
+    Wie erhält der Händler die Bezahlbeträge auf seinem Konto gutgeschrieben?
+
+    Die Bezahlbeträge werden auf einer Händlerkarte, die der Händler über seine Hausbank erhält, gesammelt und auf seinem Händlerkonto mit jeder Einreichung gutgeschrieben.
+###
+    Wie sicher ist das Bezahlen mit girogo?
+
+    Bei girogo handelt es sich um eine Prepaid-Lösung. Daher ist es für den Kunden und für den Händler besonders sicher. Es kann nur der Betrag bezahlt werden, der zuvor auch auf den Chip geladen wurde. Auch löst das Terminal nur einmal eine Transaktion aus, sollte die Karte versehentlich mehr als einmal davor gehalten werden. girogo entspricht zudem den hohen Sicherheitsstandards der Deutschen Kreditwirtschaft.
+###
+    Welche Lademöglichkeiten hat der Karteninhaber?
+
+    girogo erlaubt auf der Karte einen maximalen Ladebetrag von 200 Euro
+        an jedem Geldautomat
+        an speziellen Terminals
+        im Internet mit einem Chipkartenleser
+        im teilnehmenden Einzelhandel am POS1 gegen Ladevormerkung/ Abo-Laden2 oder gegen Konto mit PIN (nur SparkassenCards)
+        künftig auch über NFC-fähige Smartphones mit entsprechender App3
+
+    Für jeden Ladevorgang (Ausnahme: Abo-Laden) ist die Eingabe der PIN erforderlich.
+
+    1 Nur in Verbindung mit einem Einkauf
+    2 Sofern der Kunde seiner Sparkasse einen Auftrag für das automatische Laden (Abo-Laden) erteilt hat.
+    3 Nicht über die girogo-App möglich. Wird aber vereinzelt durch Sparkassen/VfL Wolfsburg App angeboten.
+###
+    Wie funktioniert Abo-Laden?
+
+    Reicht der Restbetrag des auf dem Karten-Chip gespeicherten Guthabens nicht aus, prüfen Terminals, die gleichzeitig auch electronic cash Transaktionen verarbeiten können, ob Abo-Laden hinterlegt ist. In diesem Fall wird der Chip automatisch und ohne PIN-Eingabe direkt am Terminal nachgeladen. Dieser Vorgang ist aus Sicherheitsgründen nur einmal am Tag möglich. Wichtig: Abo-Laden wird vom Kunden bei seiner teilnehmenden Sparkasse gesondert beantragt.
+###
+    Woher weiß der Kunde, wie viel Geld noch auf seiner Karte ist?
+
+    Bei jedem Lade- oder Bezahlvorgang zeigt das Lesegerät den verbleibenden Restbetrag auf dem Kartenchip an. Weitere Möglichkeiten bieten Taschenkartenleser, TAN-Generatoren, Chipkartenleser oder NFC-fähige Smartphones mit entsprechender App. Einige der genannten Lesegeräte zeigen zusätzlich bis zu 15 Bezahltransaktionen an, ganz gleich ob kontaktlos oder kontaktbasiert durchgeführt.
+###
+    Welche Vorteile bringt girogo insgesamt?
+
+    girogo ist sowohl für Sie als Händler von Vorteil als auch für Ihre Kunden:
+        funktioniert als elektronische Geldbörse mit Prepaid-Lösung und bietet Ihnen daher eine Zahlungsgarantie des kartenausgebenden Kreditinstituts (auch im Offline-Modus der Kasse)
+        Gutschrift der Einnahmen auf Ihr Konto innerhalb eines Bankarbeitstages nach Einreichung
+        beschleunigter Abverkauf, da doppelt so schnell wie Bargeld und um bis zu 25% schneller als herkömmliche Kartenverfahren
+        unterliegt unverändert den hohen Sicherheitsstandards der Deutschen Kreditwirtschaft
+        Umsatzsteigerung und zufriedenere Kunden
+        Reduzierung des Kleingeldaufkommens
+        deutlich wirtschaftlicher als andere Kartenverfahren, egal ob kontaktbehaftet oder kontaktlos
+        komfortabler, moderner Bezahlservice, der sich positiv auf Ihr Image als Händler auswirkt
+        hygienischer, da Karte in der Hand des Kunden verbleibt (besonders interessant beim Bezahlen in Kantinen und bei Verpflegungsständen)
+###
+    Was sagen die Verbraucher?
+
+    Am kontaktlosen Bezahlen schätzen Verbraucher vor allem, dass es so schnell und bequem geht. Deutlich wurde auch, dass dem kontaktlosen Bezahlen mit der Bank- oder Sparkassenkarte ein höheres Vertrauen entgegengebracht wird als dem Bezahlen z.B. mit dem Smartphone.
+    Nutzungsbereitschaft
+        43% der Befragten können sich vorstellen, in Zukunft kontaktlos zu bezahlen.
+        57% der Befragten können sich das unter bestimmten Umständen vorstellen.
+        0% - also keiner - konnte sich in Zukunft nicht vorstellen, einmal kontaktlos zu bezahlen.
+    Präferierte Einsatzorte
+        „beim Parken“  (58%)
+        „ÖPNV"  (55%)
+        „Tankstelle“  (54%)
+        „beim Shopping“  (42%)
+        „Supermarkt“  (37%)
+    Sicherheit
+        „sehr sicher“  (26%)
+        „relativ sicher“  (48%)
+        „Handy ist sicherer“  (16%)
+
+    Quelle: EURO Kartensysteme
+###

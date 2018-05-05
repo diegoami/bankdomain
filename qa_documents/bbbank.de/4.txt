@@ -1,0 +1,113 @@
+###
+Wo kann ich mit meiner BankCard bargeldlos bezahlen?
+
+Überall in Deutschland und Europa, wo Sie diese beiden Symbole im Handel oder an Geldautomaten sehen, wird Ihre BBBank-BankCard V PAY akzeptiert.
+###
+Wie hoch ist das Tageslimit der BBBank-BankCard?
+
+Mit der BankCard können Sie täglich bis zu 1.000,- Euro verfügen, sofern zwischen Karteninhaber und der BBBank keine anderen Vereinbarungen getroffen wurden.
+###
+Gibt es bei der BankCard eine Jugendschutz-Eingrenzung?
+
+Die BBBank-BankCard beinhaltet das elektronische Jugendschutz-Merkmal. Dies bedeutet, dass in der Karte verschlüsselt gespeichert ist, ob der Karteninhaber volljährig oder minderjährig ist. Wird die GeldKarte zum Beispiel in den Zigaretten-Automaten gesteckt, wird dort übermittelt, ob der Kunde das 18. Lebensjahr erreicht hat. Ein Verkauf an Jugendliche wird verhindert.
+###
+Wie kann ich meine BankCard sperren?
+
+Bei Verlust oder Diebstahl können Sie unter folgenden Telefonnummern Ihre Karte sperren.
+
+    Während unserer Geschäftszeiten von montags bis freitags von 8.00 - 18.00 Uhr: (07 21) 141-0
+    Rund um die Uhr, auch an Sonn- und Feiertagen:  0 180 5/021 021 (0,14 Euro/Minute Festnetzpreis; Mobilfunkhöchstpreis: 0,42 Euro/Minute)
+    oder über den SperrNotruf (+49) 116 116
+###
+Wie kann ich meine gesperrte BankCard entsperren lassen?
+
+Den Auftrag zur Entsperrung Ihrer BankCard können Sie persönlich in Ihrer Filiale erteilen oder schriflich an: BBBank eG, Herrenstraße 2-10, 76133 Karlsruhe
+
+Im Online-Banking haben Sie zudem die Möglichkeit online die Entsperrung zu beauftragen.
+Hierzu benötigen Sie das SecureGo- oder das mobile-TAN-Verfahren.
+
+Melden Sie sich im Online-Banking an und klicken Sie auf folgende Navigationpunkte.
+
+Zahlungsaufträge -> Serviceauftrag -> BankCard - Entsperrung
+
+    Zum Online-Banking
+
+Ich habe die PIN meiner BankCard vergessen. Was kann ich tun?
+
+Bitte wenden Sie sich in dem Fall an Ihren Kundenberater oder an unser Kunden-Center (0721/141-0) während unserer Geschäftszeiten von montags bis freitags von 8.00 - 18.00 Uhr.
+
+Im Online-Banking haben Sie zudem die Möglichkeit online einen neuen PIN zu bestellen.
+Melden Sie sich im Online-Banking an und klicken Sie auf folgende Navigationpunkte.
+
+Zahlungsaufträge -> Serviceauftrag -> BankCard - Bestellung einer neuen PIN
+
+Hinweis: Sofern Sie Ihre aktuelle PIN mehrfach falsch eingegeben haben, löschen Sie die Fehleingaben mit dem Serviceauftrag "BankCard - Löschung der PIN-Fehlversuche".
+
+    Zum Online-Banking
+###
+Wie kann ich die PIN meiner BankCard oder Kreditkarte ändern?
+
+An jedem Geldautomat einer Genossenschaftsbank ist die Änderung einer vorgegebenen PIN in eine selbst gewählte PIN möglich. Einfach am Geldautomaten den Menüpunkt "PIN verwalten" auswählen und den Anweisungen auf dem Display folgen. Nach erfolgreicher PIN-Änderung erhalten Sie eine Bestätigung.
+###
+Was sollte ich im Umgang mit einer BankCard oder Kreditkarte beachten?
+
+    Tragen Sie die PIN niemals bei sich und achten Sie darauf, dass Dritte niemals von Ihrer persönlichen Geheimnummer erfahren, denn Karte und PIN sind zusammen wie Bargeld!
+    Melden Sie den Verlust immer umgehend.
+    Im Falle eines Diebstahls erstatten Sie bitte immer Anzeige bei der Polizei.
+    Notieren Sie sich die jeweiligen Kartennummern, die IBAN oder die Bankleitzahl und Ihre Kontonummer sowie die Sperr-Telefon Nummern und führen Sie diese stets bei sich.
+
+Ich habe die BankCard V PAY und möchte z.B. in USA (oder Asien) Urlaub machen. Welche Kreditkarte soll ich beantragen: Visa oder MasterCard oder beide?
+
+Grundsätzlich sind beide Karten an rund 30 Mill. Akzeptanzstellen weltweit vergleichbar akzeptiert. Detailliertere Informationen zur Akzeptanz der Kreditkarte - auch an Geldautomaten - bieten die Homepages von Visa und Mastercard®.
+
+    Zur VISA Card Geldautomatensuche
+    Zur Mastercard®-Geldautomatensuche
+###
+Wie kann ich meine Kreditkarte sperren?
+
+Rund um die Uhr, auch an Sonn- und Feiertagen
+
+    über die Sperr-Nummer für Ihre Kreditkarte: 0721/1209-66001
+    über den allgemeinen SperrNotruf: (+49) 116 116 (in Deutschland gebührenfrei)
+
+ ###
+
+Während unserer Geschäftszeiten von montags bis freitags von 8.00 - 18.00 Uhr
+
+     auch unter 07 21/141-0
+###
+Was ist 3D Secure?
+
+3D Secure ist der technische Begriff für die von Visa und Mastercard® entwickelten Sicherheitsstandards Verified by Visa und Mastercard® SecureCode (TM), die Kreditkartenzahlungen im Internet sicherer machen.
+
+> Mehr Informationen zu 3D Secure
+###
+Wo kann ich meine Kreditkarte für 3D Secure registrieren?
+
+Hierfür stehen Ihnen zwei Möglichkeiten zur Verfügung: über www.bbbank.de/3d-secure oder während des Kaufvorgangs im Internet.
+###
+Wie funktioniert das Bezahlen mit der BBBank-BankCard V PAY mit Kontaktlos-Funktion?
+
+Die BBBank-BankCard V PAY mit Kontaktlos-Funktion ermöglicht Ihnen das Bezahlen von Einkäufen, ohne dass Sie Ihre Karte aus der Hand geben müssen. Zur Bezahlung halten Sie die Karte in einer Entfernung von nur wenigen Zentimetern an das Lesegerät, das sich an der Kasse befindet. Handelt es sich um einen Kleinstbetrag von weniger als 25,– Euro, bestätigt ein Signal in weniger als einer Sekunde, dass die Zahlung genehmigt ist. Bei Beträgen über 25,– Euro wird eine Authentifizierung mit PIN-Eingabe erforderlich.
+###
+Welche Vorteile hat das kontaktlose Bezahlen?
+
+Kontaktloses Bezahlen ist deutlich schneller als herkömmliche Kartenzahlungen oder das Bezahlen mit Bargeld.
+###
+Kann ich mit meiner BankCard V PAY mit Kontaktlos-Funktion bereits jetzt bei allen Händlern kontaktlos bezahlen?
+
+Nein, dies ist leider noch nicht bei allen Händlern möglich. Die Infrastruktur zur Akzeptanz der Girocard kontaktlos wird seitens des Handels erst im Laufe des Jahres 2017 aufgebaut.
+###
+Welche Daten sind bei der BBBank-BankCard V PAY mit Kontaktlos-Funktion frei auslesbar?
+
+Bei der Abwicklung einer Zahlungstransaktion werden über eine kontaktlose Schnittstelle bestimmte Daten übermittelt, die zur Abwicklung der Kartentransaktion notwendig sind. Die Transaktionsdaten umfassen keine persönlichen Daten, wie etwa den Namen des Karteninhabers oder dessen Adresse.
+###
+Wo kann ich die Kontaktlos-Funktion abschalten?
+
+Falls Sie die Kontaktlos-Funktion Ihrer Karte abschalten wollen, können Sie die Abschaltung an allen Geldautomaten der BBBank sowie des genossenschaftlichen Verbundes vornehmen.
+###
+Kann jemand unbefugt Geld von meiner BBBank-BankCard V PAY mit Kontaktlos-Funktion abbuchen?
+
+Nein, "aus Versehen", etwa "im Vorbeigehen" an einem kontaktlosen Lesegerät, lässt sich kein Geld von der Karte abbuchen. Schon der erforderliche geringe Abstand von wenigen Zentimetern zwischen Karte und Terminal erwschwert unbemerktes Bezahlen deutlich.
+
+###

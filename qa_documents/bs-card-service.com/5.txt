@@ -1,0 +1,51 @@
+###
+Welche sind die Änderungen des Lastschrifttexts in Zusammenhang mit SEPA?
+Mit der Umstellung des kartenbasierten Lastschriftverfahrens nach SEPA-Vorgaben ergeben sich
+Änderungen im vorgedruckten Lastschrifttext auf der Rückseite der Bonrollen sowie im
+Lastschrifttext, der über das Terminal oder das Kassensystem auf der Vorderseite des Beleges
+ausgegeben wird (siehe Mustertext auf Seite 2).
+###
+Bis wann muss die Umstellung des Lastschrifttextes abgeschlossen sein?
+Händler, die über den 01.02.2016 hinaus die Lastschriftverarbeitung über Ihr Terminal anbieten, sind
+verpflichtet Ihren Kunden ab Zeitpunkt der Umstellung auf das SEPA-Lastschriftverfahren den
+geänderten Lastschrifttext anzuzeigen.
+###
+
+Wird es neue Terminal-Bonrollen geben? Wo und wann kann ich diese bestellen?
+Ja, B+S wird neue Bonrollen anbieten, die nach unserer rechtlichen Prüfung ein SEPA-
+Lastschriftmandat beinhalten. Nach derzeitigem Kenntnisstand bietet dieser Text die größtmögliche
+Rechtssicherheit. Für das korrekte Einholen des Lastschriftmandates sind Sie als Händler weiterhin
+verantwortlich. Die neuen Bonrollen stehen ab 01.07.2015 zur Verfügung und werden automatisch
+ab diesem Zeitpunkt ausgeliefert. Die Bonrollen können Sie wie gewohnt auch über unseren
+Webshop unter www.bs-card-service.com/de/kundenservice/web-shop bestellen.
+###
+
+Was ist zu tun, wenn ich eigene Bonrollen von Drittanbietern nutze?
+Achten Sie darauf, dass Ihr Bontext ein korrektes SEPA-Lastschriftmandat enthält. Bitte beauftragen
+Sie Ihren Drittanbietern frühzeitig mit der Änderung des Mandatstextes. Wir empfehlen jedoch die
+Verwendung unserer Bonrollen.
+###
+
+Was ist zu tun, wenn ich den Lastschrifttext über das Kassensystem ausdrucken lasse?
+Sofern der Lastschrifttext über das Kassensystem auf der Vorderseite des Beleges ausgedruckt wird,
+stimmen Sie die Texte bitte rechtzeitig mir Ihrem Kassenintegrator ab. Gerne können Sie hierzu den
+Mandatstext der B+S Bonrolle in der jeweils aktuellen Fassung übernehmen.
+Den Lastschrifttext, der vom Terminal an das Kassensystem übertragen wird und welcher für den
+Druck verwendet werden kann, stellen wir automatisiert durch ein Softwareupdate bis zum
+01.02.2016 bei allen aktuellen Terminals um.
+Bei Ausgabe des Lastschrifttextes über das Kassensystem achten Sie bitte darauf, dass die
+Abkürzung „umseitig“ durch „o. g.“ ersetzt wird.
+###
+
+Was passiert, wenn ich als Händler den Lastschrifttext nicht nach SEPA-Vorgaben aktualisiere?
+Sie müssen – wie bisher – eine Vereinbarung mit Ihrem Kreditinstitut abschließen, dass Sie
+Lastschriften einreichen dürfen. Diese Vereinbarung sieht in der Regel vor, dass Sie gültige SEPA-
+Mandate einholen. Tun Sie das nicht, kann das Kreditinstitut z. B. die Verarbeitung ablehnen.
+###
+
+Was ändert sich, wenn ich Lastschriftverarbeitung mit Sperrlistenprüfung verwende?
+In diesem Fall müssen Sie – wie bisher – die verantwortliche Stelle für das Führen der Sperrlisten und
+datenschutzrechtliche Informationen unterhalb des SEPA-Lastschriftmandates aufführen. Die
+Datenschutzinformation ändert sich durch die SEPA-Umstellung nicht. Bei der B+S Bonrolle wird auf
+den Hinweis zum Datenschutz verzichtet, da diese für die Mehrzahl der Kunden nicht relevant ist.
+###

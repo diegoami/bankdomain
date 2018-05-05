@@ -1,0 +1,61 @@
+###
+Gibt es geographische Einschränkungen für die Nutzung der VR-SecureGo-App?
+
+Nein, VR-SecureGo kann weltweit genutzt werden. Es ist lediglich eine Internetverbindung erforderlich.
+###
+Kann ich die VR-SecureGo-App nur über das Mobilfunknetz nutzen?
+
+Für die Nutzung der VR-SecureGo-App ist lediglich eine Internetverbindung erforderlich. Ob diese über das Mobilfunknetz oder über WLAN zustande kommt, ist dabei unerheblich.
+
+Mit welchen Betriebssystemen kann ich die TAN-App VR-SecureGo nutzen?
+
+Sie können die VR-SecureGo-App mit den Betriebssystemen iOS ab Version 8 oder Android ab Version 4.1 nutzen.
+###
+Warum steht die TAN nicht in der Push-Nachricht?
+
+Die TAN steht nicht in der Push-Nachricht, da diese unverschlüsselt über die Server der Anbieter Apple oder Google übertragen wird. Zudem wird die Push-Nachricht je nach Einstellung Ihres Gerätes direkt in der Vorschau angezeigt. Die TAN wird aus diesen Gründen ausschließlich in der speziell gesicherten VR-SecureGo-App angezeigt. Dabei erfolgt die Übertragung der TAN verschlüsselt.
+###
+Kann ich die VR-SecureGo-App auch mit einem Mobilfunkvertrag mit einem ausländischen Provider nutzen?
+
+Ja, das ist möglich. Zum Abruf der TAN ist nur eine bestehende Internetverbindung notwendig. Diese kann über das Mobilfunknetz oder über WLAN zustande kommen.
+###
+Ich habe mehrere VR-NetKeys. Kann ich die VR-SecureGo-App mehrfach installieren?
+
+Mehrfache Installation der VR-SecureGo-App ist nicht erforderlich, da Sie innerhalb dieser App auch weitere VR-NetKeys registrieren können.
+###
+Was kann ich tun, wenn ich das Anmeldekennwort für die VR-SecureGo-App vergessen habe?
+
+Wenn Sie das Anmeldekennwort für die VR-SecureGo-App vergessen haben, müssen Sie diese App zuerst löschen, dann neu installieren, registrieren und abschließend den neuen Freischaltcode im Online-Banking bestellen. Wir empfehlen Ihnen vor dem Start der neu installierten VR-SecureGo-App in den App-Einstellungen des Betriebssystems "Alle Daten und Cache löschen" vorzunehmen. Selbstverständlich hilft Ihnen Ihre Vereinigte Volksbank eG auch dabei.
+###
+Wie kann ich den optionalen Login mittels Touch ID bzw. Fingerabdruck aktivieren?
+
+Die Nutzung der Touch ID bzw. des Fingerabdruckes ist optional und muss von Ihnen selbst in der VR-SecureGo-App unter den Einstellungen aktiviert werden. Mit der Aktivierung des entsprechenden Schalters können Sie die VR-SecureGo-App zukünftig mit dem Fingerabdruck öffnen.
+###
+Ist eine Änderung der Erst-PIN auch über mein Smartphone möglich?
+
+Ja, mit der VR-BankingApp kann auch eine Erst-PIN-Änderung durchgeführt werden. Sie werden direkt nach der Anmeldung in der VR-BankingApp zu dem Bereich weitergeleitet, in dem sich die Erst-PIN ändern lässt. Mit der TAN-App VR-SecureGo ist dies jedoch nicht möglich.
+
+Was passiert, wenn ich die TAN-App VR-SecureGo auf einem anderen Gerät über ein Back-up zurücksichere?
+
+Die TAN-App VR-SecureGo ist in diesem Fall nicht einsatzfähig. Sie muss für das andere Gerät neu registriert werden.
+###
+Was muss ich tun, wenn ich mein Smartphone gewechselt habe?
+
+Der Prozess bei einem Gerätewechsel und der für die erstmalige Installation bzw. Registrierung sind nahezu identisch. Detaillierte Informationen dazu finden Sie auf dieser Seite im Reiter "So schalten Sie sich frei".
+
+Bitte beachten Sie, dass die VR-SecureGo-App nur auf einem Gerät aktiv sein kann. Nach Freischaltung der VR-SecureGo-App auf dem neuen Gerät wird die App auf dem bisherigen Gerät deaktiviert. Um die Registrierung des neuen Gerätes im Rahmen des Gerätewechsels abschließen zu können (Bestellung Freischaltcode), wird die Eingabe einer TAN benötigt. Dies kann eine TAN aus der bislang genutzten und noch aktiven VR-SecureGo-App oder eines anderen aktiven TAN-Verfahrens (Sm@rt-TAN plus) sein. Sollten Sie gegebenenfalls für den Gerätewechsel keine TAN benutzen, ist eventuell eine Freigabe durch Ihre Vereinigte Volksbank eG erforderlich. Die Erstellung des Freischaltcodes erfolgt erst nach TAN-Eingabe bzw. Freigabe durch Ihre Vereinigte Volksbank eG. Für weitere Fragen wenden Sie sich bitte an Ihren Berater.
+
+    Kurzbeschreibung Gerätewechsel (1 MB)
+###
+Wie viele Fehlversuche sind bei der Eingabe des Anmeldekennworts möglich?
+
+Es sind maximal fünf Fehlversuche möglich. Nach der fünften Falscheingabe wird die App zurückgesetzt. Dann ist eine Neuregistrierung erforderlich.
+###
+Was ist zu tun, wenn ich die Meldung erhalte, dass auf meinem Smartphone ein Rooting oder Jailbreak vorhanden ist?
+
+Da die Sicherheitsmaßnahmen Ihres Smartphones außer Kraft gesetzt sind, kann die TAN-App VR-SecureGo aus Sicherheitsgründen nicht mehr genutzt werden. Die Tan-App VR-SecureGo wird in diesem Fall auf Ihrem Smartphone nicht mehr unterstützt. Erst wenn Rooting oder Jailbreak auf Ihrem Smartphone wieder rückgängig gemacht wurden, ist eine Nutzung der TAN-App VR-SecureGo wieder möglich.
+###
+Ich habe einen Freischaltcode bestellt. Warum habe ich diesen immer noch nicht erhalten?
+
+Sobald die Freischaltcode-Bestellung angestoßen wurde, wird der Code erzeugt und in den Postversand gegeben. Auf die Postlaufzeit haben wir leider keinen Einfluss.
+###

@@ -1,0 +1,20 @@
+###
+Wie funktioniert das e-Banking bei der ProCredit Bank?
+
+E-Banking funktioniert einfach und Sie können damit Ihre Bankgeschäfte flexibel und unkompliziert rund um die Uhr erledigen. Nachdem Sie ein Privatkonto oder ein Tagesgeldkonto beantragt haben, erhalten Sie von uns ein Bestätigungsschreiben mit Ihrer Kontonummer und Ihrem e-Banking-Alias sowie einige Tage später Ihre e-Banking-PIN in einem separaten Brief. Über unsere Website www.procreditbank.de gelangen Sie zur Startseite des e-Bankings (oben rechts "Login e-Banking"). Hier melden Sie sich mit Ihrem e-Banking-Alias sowie Ihrer PIN (der e-Banking-PIN) an. Bei der ersten Anmeldung zum e-Banking ist die PIN, die Sie von uns erhalten haben, in eine PIN Ihrer Wahl zu ändern. Ihre neue PIN muss aus einer 8-stelligen Zahlen-Buchstaben-Mischung (keine Sonderzeichen) bestehen – entweder einer Kombination aus drei Zahlen und fünf Buchstaben (wie zum Beispiel 628bcstu oder 8gfHM62b) oder einer Kombination aus drei Buchstaben und fünf Zahlen (wie zum Beispiel 7pc98B51 oder 57981pcB). Bitte beachten Sie bei der Eingabe Ihrer PIN die Groß- und Kleinschreibung. Ab jetzt können Sie das e-Banking mit allen seinen Funktionen nutzen.
+###
+
+Wie kann ich meine e-Banking-PIN ändern?
+
+Die e-Banking-PIN können Sie jederzeit in Ihrem persönlichen Bereich im e-Banking ändern. Hier gibt es unter dem Menüpunkt Einstellungen die Möglichkeit, die PIN unter Angabe Ihrer aktuellen e-Banking-PIN zu ändern. Bitte beachten Sie bei Änderung der PIN, dass diese immer acht Zeichen und eine Mischung aus Zahlen und Buchstaben enthalten muss. Drei Zeichen müssen sich von den anderen fünf unterscheiden, Beispiel 12345pcB, 7pc98B51 oder 628bcstu.
+###
+
+Was mache ich, wenn ich meine e-Banking-Anmeldedaten vergessen habe?
+
+Wenn Sie Ihre e-Banking-PIN vergessen oder verlegen sollten, erstellen wir Ihnen gerne eine neue PIN. Aus Sicherheitsgründen können Sie die neue PIN nur telefonisch bei unserem Kundenservice unter 069 719129-100 unter Angabe Ihrer Telefon-PIN oder formlos schriftlich anfordern. Wir senden Ihnen dann umgehend per Post eine neue PIN zu. Beim ersten Log-in mit der neuen PIN ist diese dann, wie bei der ersten Anmeldung zum e-Banking, in eine PIN Ihrer Wahl zu ändern.
+###
+
+Was mache ich bei Sperrung meiner e-Banking-PIN?
+
+Aus Sicherheitsgründen können Sie die PIN nur telefonisch unter 069 719129-100 unter Angabe Ihrer Telefon-PIN oder formlos schriftlich anfordern. Wir senden Ihnen dann umgehend per Post eine neue PIN zu. Beim ersten Log-in mit der neuen PIN müssen Sie diese dann, wie bei der ersten Anmeldung zum e-Banking, ändern.
+###

@@ -1,0 +1,14 @@
+###
+Was kostet ein Geschäftskonto bei der Volksbank Raiffeisenbank?
+
+Konkrete Angebote, Konditionen und Informationen zum Geschäftskonto finden Sie in einer unserer über 10.000 Filialen oder auf der Internetseite Ihrer Volksbank Raiffeisenbank vor Ort. Geben Sie einfach Ihre Postleitzahl oder einen Ort in die Filialsuche ein und Ihnen werden alle Informationen zur Volksbank Raiffeisenbank in Ihrer Nähe angezeigt.
+###
+Wo kann ich Geld abheben?
+
+Mit über 18.300 Geldautomaten deutschlandweit ist das BankCard ServiceNetz der Genossenschaftlichen FinanzGruppe breit aufgestellt. Über 99 Prozent aller Volksbanken und Raiffeisenbanken nehmen daran teil. Achten Sie auf das BankCard ServiceNetz-Logo.
+###
+Welche Übertragungsverfahren stehen mir für die Banking-Software zur Verfügung?
+
+Unsere Banking-Software bietet zwei Übertragungsverfahren: FinTS (Financial Transaction Services Standard) und EBICS (Electronic Banking Internet Communication Standard) für die schnellere Übertragung von größeren Datenmengen. FinTS ist eine Weiterentwicklung von HBCI (Homebanking Computer Interface).
+
+###

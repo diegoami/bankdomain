@@ -1,0 +1,45 @@
+###
+Muss das Konto, das ich für die Funktion "Geld senden & anfordern" nutze, bei einer Volksbank Raiffeisenbank sein?
+
+Ja, das Konto muss von einer Volksbank Raiffeisenbank sein.
+###
+Wie lange dauert es, bis das Geld beim Empfänger ist?
+
+Wenn der Empfänger sein Konto bei derselben Volksbank Raiffeisenbank wie Sie hat, erhält er es sofort nachdem Sie es gesendet haben. Ist das Empfängerkonto bei einer anderen Volksbank Raiffeisenbank oder bei einer Sparkasse, dann dauert es genauso lange wie bei einer normalen Überweisung.
+###
+Kann ich die beiden Funktionen "Geld senden & anfordern" und "Kwitt" parallel nutzen?
+
+Sie können die Funktionen nicht mit der gleichen Mobilfunknummer in beiden Apps parallel nutzen. Sollten Sie schon in beiden Apps registriert sein, so wurde das ältere Benutzerkonto bereits deaktiviert. Sie können diesen Vorgang beispielsweise in der VR-BankingApp jederzeit wieder rückgängig machen.
+###
+Kann ich auch ablehnen, wenn jemand Geld von mir anfordert?
+
+Ja, Sie können eine Anforderung auch ablehnen. Der Anfordernde erhält in diesem Fall eine entsprechende Nachricht. Eine Anforderung läuft nach 21 Tagen ab. So lange haben Sie Zeit für die Antwort.
+###
+Welche Auswirkungen hat es, wenn ich einen Kontakt blockiere?
+
+Wenn Sie einen Kontakt blockieren, kann dieser Ihnen keine Anforderungen mehr schicken oder Geld senden. In Ihrer Kontaktliste in der Funktion "Geld senden & anfordern" wird der blockierte Kontakt auch nicht mehr angezeigt. Sie können die Blockierung jederzeit wieder aufheben.
+###
+Was bedeutet die Funktion "Unbekannte blockieren"?
+
+In den Einstellungen der VR-BankingApp ist festgelegt, dass Sie die Funktion "Geld senden & anfordern" nur mit Kontakten aus Ihrem Adressbuch nutzen können. Wenn Sie die Funktion auch mit Kontakten nutzen möchten, die sich für "Geld senden & anfordern" registriert haben und nicht in Ihrem Adressbuch gespeichert sind, können Sie das in den Einstellungen der VR-BankingApp unter "Unbekannte blockieren" ändern.
+###
+Was muss ich tun, wenn ich ein neues Smartphone habe?
+
+Wenn Sie ein Backup Ihres alten Smartphone erstellt haben, dann übertragen Sie bitte die Daten auf Ihr neues Gerät. Anschließend rufen Sie die Funktion "Geld senden & anfordern" in der VR-BankingApp auf. Auf der Startmaske wählen Sie bitte "Freischalten" aus. Mit Eingabe einer TAN bzw. einem Verifikations-Code (Versand per SMS) schließen Sie die App-Freischaltung nach Neuinstallation oder Gerätewechsel ab.
+###
+Was muss ich tun, wenn sich meine Mobilfunknummer geändert hat?
+
+Bitte ändern Sie in der VR-BankingApp in den Einstellungen der Funktion "Geld senden & anfordern" Ihre Mobilfunknummer. Nach Eingabe der Mobilfunknummer erhalten Sie einen Code per SMS. Geben Sie diesen in der VR-BankingApp ein. Die bisherige Historie Ihrer Daten bleibt erhalten.
+###
+Wie kann ich mein Konto für "Geld senden & anfordern" wechseln?
+
+Bitte wählen Sie in der VR-BankingApp in den Einstellungen der Funktion "Geld senden & anfordern" "Konto ändern" aus.
+###
+Handelt es sich um eine Lastschrift, wenn ich Geld bei einem Kontakt anfordere?
+
+Nein, wenn Sie Geld anfordern "überweist" Ihnen der Kontakt das Geld.
+
+Wie werden Transaktionen, die ich über "Geld senden & anfordern" durchgeführt habe, in meinen Kontoauszügen oder Umsatzlisten ausgewiesen?
+
+Bei diesen Transaktionen stehen die Namen des Zahlenden und des Zahlungsempfängers sowie das Datum und die Uhrzeit der Zahlung im Verwendungszweck.
+###

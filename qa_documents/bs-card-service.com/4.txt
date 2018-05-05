@@ -1,0 +1,40 @@
+###
+    Gibt es Veränderungen bei Kartenzahlungen an BS PAYONE Terminals bezüglich SEPA?
+
+    Nach der erfolgreichen Umstellung von Lastschriften und Überweisungen werden nun auch
+    die kartenbasierten Bezahlverfahren umgestellt. Betroffen sind electronic cash und das
+    Elektronische Lastschriftverfahren (ELV). Bei beiden muss gemäß der EU-Verordnung künftig
+    zwingend im Buchungstext Ihrer Kunden die Gläubiger-Identifikationsnummer übermittelt
+    werden.
+###
+
+    Ich habe noch keine Gläubiger-ID – wie und wo erhalte ich diese?
+
+    Ihre eigene Gläubiger-ID können Sie bequem online beantragen:
+
+     www.glaeubiger-id.bundesbank.de
+###
+    Was benötigt meine Sparkasse / Bank für SEPA?
+
+    Auch Ihrer Sparkasse / Bank muss die Gläubiger-ID bekanntgegeben werden. Durch die Migration des „Datenträgeraustauschverfahrens“ auf das nun aktuelle SEPA-Format, bedarf es zum Teil auch Anpassungen Ihrer „Vereinbarung über die Abwicklung von Zahlungen aus elektronischen Zahlungssystemen, (inkl. der Nutzung des OPT-Verfahrens) unter Einschaltung von Netzbetreibern“. Auf Grund der Vielzahl verschiedener Regelungen können wir keine detaillierte Informationen zur Vorgehensweise Ihrer Sparkasse / Bank geben. Wir raten Ihnen, sich zu diesem Thema mit Ihrer Sparkasse / Bank in Verbindung zu setzen.
+###
+    Was ändert sich bei den Bonrollen für das elektronische Lastschriftverfahren (ELV)?
+
+    Mit der Umstellung des kartenbasierten Lastschriftverfahrens nach SEPA-Vorgaben ergeben sich Änderungen im vorgedruckten Lastschrifttext auf der Rückseite der Bonrollen sowie im Lastschrifttext, der über das Terminal oder das Kassensystem auf der Vorderseite des Beleges ausgegeben wird. Alle Fragen rund um diese Änderung haben wir für Sie im nachfolgenden Dokument zusammengefasst. Weiter finden Sie dort den künftigen Text zur Lastschriftakzeptanz.
+
+    Wichtig: Bitte verwenden Sie für Ihre Zahlungssicherheit ab dem 1. Februar 2016 ausschließlich Bonrollen mit dem modizierten Belegtext.
+###
+    Gibt es Veränderungen bei der Auszahlung?
+
+    Durch die Umstellung auf das SEPA-Format werden girocard und ELV-Transaktionen in unterschiedlichen Verfahren verarbeitet. Somit erfolgt die Einreichung zur Verarbeitung bei Ihrer Sparkasse / Hausbank mittels getrennter Datenträger. Daraus resultieren getrennte Gutschriften. Zusätzlich ist auch eine Aufteilung nach bankinternen Karten und Fremdbankkarten möglich.
+
+    Aufgrund der SEPA-Lastschriftregularien erfolgt der Einzug von ELV-Transaktionen (SDD) frühestens 1 Werktag nach Einreichung, so dass auch eine zeitliche Differenz zwischen den verschiedenen Gutschriften aus einem Kassenschnitt liegt.
+###
+    Gibt es Veränderungen beim Verwendungszwecktext?
+
+    Der Kontoauszugstext wird sich verändern, da anstatt 358 Zeichen nur noch die im SEPA-Standard üblichen 140 Zeichen zur Verfügung stehen. BS PAYONE liefert regelkonform alle standartmäßigen Informationen mit den Datenträgern an die Banken.
+
+    Die endgültige Gestaltung des Kontoauszugtextes liegt ausschließlich im Verantwortungsbereich Ihrer Sparkasse / Hausbank.
+
+    Auch der Kontoauszugstext beim Karteninhaber kann sich ändern.
+###

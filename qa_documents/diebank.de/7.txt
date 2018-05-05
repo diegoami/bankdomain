@@ -1,0 +1,9 @@
+###
+Was ist ein GiroCode?
+
+Ein GiroCode ist ein QR-Code (englisch "Quick Response": schnelle Antwort). Es handelt sich hierbei um einen zweidimensionalen Code, der über die Kamera der meisten Smartphones und Tablets ausgelesen werden kann. Die Software auf dem mobilen Endgerät dekodiert die gespeicherten Daten. Alle Daten werden automatisch zur Zahlung in das Überweisungsformular Ihrer VR-BankingApp übertragen.
+###
+Welcher Standard liegt dem GiroCode zugrunde?
+
+Der GiroCode-Aufbau folgt dem European Payments Council-Standard (EPC). Alle notwendigen Informationen wie zum Beispiel Empfängerdaten, Betrag und Kundenreferenz für eine SEPA-Überweisung sind enthalten.
+###

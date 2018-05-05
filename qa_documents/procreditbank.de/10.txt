@@ -1,0 +1,25 @@
+###
+Ist jede Änderung im Handelsregister der Bank mitzuteilen?
+
+Nein, nur Änderungen, die eine Veränderung in der Kontobeziehung nach sich ziehen, z.  B. ein neuer Firmensitz oder eine Veränderung bei den Vertretungsberechtigten etc.
+###
+
+Was bedeutet die Alleinzeichnungsberechtigung?
+
+Die Alleinzeichnungsberechtigung ist eine Spezialvollmacht, die allein gegenüber der Bank wirkt. Der Alleinzeichnungsberechtigte kann gegenüber der Bank alle banküblichen Geschäfte im Namen und auf Rechnung des Unternehmens ausführen. Das umfasst vor allem die Verfügungsberechtigung über das jeweilige Kontoguthaben und die Eröffnung von Anlagekonten. Jedoch umfasst die Alleinzeichnungsberechtigung nicht die Kündigung von Konten. Die Alleinzeichnungsberechtigung wirkt so lange, bis der Bank schriftlich eine Änderung mitgeteilt wird.
+###
+
+Was passiert, wenn der Alleinzeichnungsberechtigte das Unternehmen verlässt?
+
+Das Unternehmen muss der Bank schriftlich mitteilen, dass die Alleinzeichnungsberechtigung sich ändert, also die bisherige Person herausgenommen und eine neue hinzugefügt werden muss. Solange dies der Bank nicht schriftlich mitgeteilt wird, wirkt die Alleinzeichnungsberechtigung weiter. Das Management bzw. der gesetzliche Vertreter des Unternehmens kann jedoch jederzeit den Zugang des Unternehmens zum e-Banking insgesamt sperren lassen. Dies hat in schriftlicher Form zu erfolgen.
+###
+
+Was passiert, wenn die NV-Bescheinigung abgelaufen ist?
+
+Nach Ende der Gültigkeitsdauer der NV-Bescheinigung berechnet die Bank Kapitalertragsteuer auf ausgezahlte Zinsen und führt diese auch an das Finanzamt ab. Die Bescheinigung selbst verbleibt bei der Bank, sofern der Kunde sie nicht ausdrücklich zurückfordert. Eine automatische Benachrichtigung über den Ablauf der Gültigkeitsdauer der NV-Bescheinigung durch die Bank erfolgt nicht, die Überwachung der Gültigkeitsdauer obliegt der Buchhaltung des Unternehmens.
+###
+
+Wer kann per Online-Banking gegenüber der Bank Geschäfte tätigen?
+
+Per Online-Banking kann ausschließlich der im Kontoeröffnungsantrag genannte Alleinzeichnungsberechtigte verfügen, an den auch die dafür erforderliche e-Banking-PIN versandt wurde. Das Management, also die Vertretungsberechtigten des Unternehmens, können alle Geschäfte mit der Bank jederzeit in Schriftform tätigen.
+###

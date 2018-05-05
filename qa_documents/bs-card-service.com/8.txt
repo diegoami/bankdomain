@@ -1,0 +1,86 @@
+###
+    Was ist eine Rückbelastung?
+
+    Eine Rückbelastung (Chargeback) entsteht, wenn ein Kreditkarteninhaber bzw. dessen kartenausgebende Bank eine bereits abgerechnete Transaktion reklamiert und das Geld zurückfordert.
+
+    Die Regeln für die Abwicklungen dieser Reklamationen werden von den Kartenorganisationen (z.B. Visa oder Mastercard) definiert. Sowohl die kartenausgebende Bank, welche das Chargeback einleitet, als auch der Acquirer (BS Payone), müssen die festgelegten Regeln und Fristen der Reklamationsabwicklung beachten.
+###
+    Welche Gründe führen zu einem Chargeback / einer Rückbelastung?
+
+    Die Gründe für Rückbelastungen können sehr vielfältig sein. Außer den Reklamationsgründen, die auch bei anderen Zahlungsmitteln vorkommen können (z.B. Kunde ist unzufrieden mit der erhaltenen Ware bzw. Dienstleistung) kommen kreditkartenspezifische Reklamationsgründe, die auf Kartenmissbrauch oder Bearbeitungsfehler zurückzuführen sind.
+###
+    Welche Fristen müssen bei Chargebacks beachtet werden?
+
+    Die Karten ausgebenden Banken (Issuer) haben in der Regel 120 Kalendertage (ab dem Zeitpunkt der Transaktionsabrechnung → „processing date“), um eine Kreditkartentransaktion zu reklamieren. Bei Transaktionen, die mit Warenversand verbunden sind, kann sich diese Frist unter Umständen verlängern. BS PAYONE empfiehlt daher, alle Transaktionsunterlagen mindestens 18 Monate nach der Transaktionseinreichung aufzubewahren.
+
+    Den Beleganforderungen können Sie die jeweiligen für die Chargeback-Bearbeitung relevanten Antwortfristen entnehmen. BS PAYONE Kunden, die die Beleganforderungen postalisch oder via Fax erhalten, haben i.R. insgesamt mindestens 14 Tage Zeit (verteilt auf zwei Schreiben).
+###
+    Ich habe eine Genehmigungsnummer erhalten. Wieso wird der Betrag zurückgefordert?
+
+    Eine Genehmigungsnummer bedeutet keine Zahlungsgarantie. Der Autorisierungscode bestätigt lediglich, dass das Kartenkonto zum Zeitpunkt der Autorisierungsanfrage nicht gesperrt ist und über genügend Kreditrahmen verfügt.
+
+    Auch basieren viele Chargebacks gar nicht auf fehlenden Autorisierungen, z. B. wenn es bei der Reklamation um die Qualität der Ware/Dienstleistung oder um Verarbeitungsfehler geht.
+    Insbesondere im Fernabsatzgeschäft ist es wichtig, sich nie ausschließlich auf erfolgreiche Online-Autorisierungsanfragen zu beschränken. Hierzu sind weitere Informationen auf unserer Homepage zu finden: https://www.bs-card-service.com/de/kundenservice/download-center/sicherheit/
+###
+    Warum hat mich der Karteninhaber vor dem Chargeback nicht direkt kontaktiert?
+
+    Der Karteninhaber hat das Recht, die Transaktionen unmittelbar bei der kartenausgebenden Bank zu reklamieren. Bitte bedenken Sie, dass Kreditkarten global eingesetzt werden. Sprachbarrieren sowie unterschiedliche Zeitzonen erschweren häufig eine direkte Reklamationsabwicklung zwischen den Händlern und Karteninhabern. Bei Kartenmissbrauch ist der Karteninhaber zudem nicht Ihr Kunde.
+###
+    Ich bin mit der Rückbelastung nicht einverstanden. Was muss / kann ich dagegen tun?
+
+    Zunächst werden zu einer strittigen Transaktion aussagekräftige Unterlagen benötigt. Diese müssen immer fristgerecht (gemäß Beleganforderungsschreiben) eingereicht werden. Mitarbeiter des Chargeback & Retrieval Teams sind bemüht, unter Einhaltung der Regeln der Kartenorganisationen Rückbelastungen für BS PAYONE Kunden abzuwenden.
+###
+    Wieso wurde mein Händler-Konto erst Wochen nach Einreichung der Transaktionsunterlagen belastet?
+
+    Die Abwicklung eines Chargebacks kann sich über mehrere Wochen erstrecken. Der Ablauf verlängert sich insbesondere dann, wenn BS PAYONE die Unterlagen an die kartenausgebende Bank weiterreicht (→ Representment). Damit wird das Chargeback im ersten Schritt abgewendet. Die kartenausgebende Bank kann die Reklamation jedoch unter bestimmten Voraussetzungen auf die nächste Eskalationsstufe heben (Pre-Arbitration Chargeback). Gegebenenfalls muss BS PAYONE den Streitfall nach erneuter Prüfung akzeptieren und das Vertragspartnerkonto entsprechend belastet.
+###
+    Welche Gebühren fallen wann an?
+
+    Die Chargeback-Bearbeitungsgebühren sowie alle anderen Gebühren sind im aktuellen Preis-Leistungs-Verzeichnis (PLV) zu finden. Die Gebühren werden erst mit der Belastung Ihres Händler-Kontos fällig.
+###
+    Kann ich nach Erhalt einer Beleganforderung eine Gutschrift buchen, um eine Rückbelastung zu vermeiden?
+
+    Um doppelte Belastung Ihres Händlerkontos zu vermeiden, raten wir von einer Gutschrift nach Erhalt von Beleganforderungen ab.
+
+    Im Falle eines Chargebacks hat die kartenausgebende Bank dem Karteninhaber bereits eine vorläufige Gutschrift bis zur endgültigen Klärung des Widerspruchs erteilt. Daher sollten Sie keine Gutschrift mehr durchführen, um im Zweifelsfall eine doppelte Erstattung zu vermeiden.
+###
+    Warum wurde mein Konto trotz zuvor erfolgter Gutschrift belastet?
+
+    Es kann passieren, dass sich die Reklamation des Karteninhabers bei seiner Bank mit der Gutschrift des Händlers zeitlich überschneidet oder die Karten ausgebende Bank die Gutschrift nicht der richtigen Transaktion zuordnen kann, wenn der Karteninhaber z.B. mehrere Käufe bei einem Händler getätigt hat.
+
+    Ferner sollten Gutschriften an den Karteninhaber stets nur an die gleiche Kreditkarte der
+ Ursprungstransaktion erfolgen, denn nur auf diese Weise kann die kartenausgebende Bank und BS PAYONE die Gutschriften zuordnen und berücksichtigen. Bei Gutschriften auf andere Kreditkarten, Banküberweisungen oder Barzahlungen besteht die Gefahr, dass im Falle von Chargebacks kein ausreichender Nachweis erbracht werden kann und das Händlerkonto belastet werden muss.
+###
+    Wieso akzeptiert BS PAYONE Reklamationen von Karteninhabern, obwohl ich alle Unterlagen fristgemäß vorgelegt habe und einer Rückbelastung ausdrücklich widersprochen habe?
+
+    BS PAYONE muss die gültigen Regularien der Kartenorganisationen anwenden und die eingegangenen Unterlagen darauf prüfen. Gerade bei Kartenmissbrauch im Fernabsatzgeschäft sind die verfügbaren Unterlagen meistens nicht ausreichend, um eine Rückbelastung abwenden zu können.
+###
+    Darf ich bei Warenrückgabe dem Karteninhaber statt Gutschriften auch Gutscheine ausstellen?
+
+    Nein, dies sehen die Regularien der Kartenorganisationen nicht vor. D.h. der Karteninhaber kann sein Recht auf eine Gutschrift über die Einleitung eines Chargebacks einfordern.
+###
+    Wie kann ich mich generell vor Chargebacks schützen?
+
+    Stellen Sie sicher, dass alle Transaktionen für den Karteninhaber transparent und gemäß unserer AGB durchgeführt werden.
+
+    Wichtig im Vor-Ort-Geschäft ist, dass Sie stets auf den höchsten technischen Standard der vorgelegten Karte zurückgreifen, d.h. ggf. den Chip der Karte auslesen, den Karteninhaber via PIN verifizieren und eine Online-Autorisierung einholen.
+
+    Wichtig: bei manuellen Eingaben der Kartendaten am Terminal übernehmen Sie die volle Haftung im Falle von Kartenmissbrauch.
+
+    Im Fernabsatzgeschäft (Mail-Order bzw. Telefon-Order) sollten Sie zusätzlich zu den AGB auch unsere Sicherheitshinweise beachten, die Sie unter dem folgenden Link finden: https://www.bs-card-service.com/de/kundenservice/download-center/sicherheit/.
+
+    Wichtig: Im Fernabsatzgeschäft haften Sie im Falle von Kartenmissbrauch zu 100%.
+    Für das E-Commerce Geschäft (Online Vertrieb) kann allerdings das 3D-Secure Verfahren die Zahl der Chargebacks, die auf Kartenmissbrauch zurückzuführen sind, nahezu komplett eliminieren.
+###
+    Kann ich die Chargeback-Unterlagen der kartenausgebenden Bank bekommen?
+
+    Nur in bestimmten Fällen muss die Kartenorganisation zum Chargeback überhaupt einen Karteninhaberbrief schicken. Bei Kartenmissbrauch unterliegen diese Unterlagen jedoch strengen datenschutzrechtlichen Auflagen und können nur zum internen Gebrauch bei BS PAYONE verwendet werden. Sie dürfen also nicht an den Händler geschickt werden.
+
+    Für Chargebacks, die die Qualität der Ware oder Dienstleistung betreffen, wird unser Chargeback-Team die relevanten Passagen bei Bedarf gerne an Sie weiterleiten.
+###
+    Was ist eine „Doppelbelastung“?
+
+    Als Doppelbelastung wird ein Sachverhalt verstanden, bei dem die Kreditkarte zweimal belastet wurde, obwohl nur eine Transaktion vorlag. Dazu kann es kommen, wenn die Karte zweimal in das Terminal gesteckt wurde, weil z.B. das Gerät eine Fehlermeldung anzeigte und der Händler davon ausgegangen ist, dass die erste Transaktion nicht gebucht wurde.
+
+    Eine Doppelbelastung liegt NICHT vor, wenn der Kunde zwei unterschiedliche Einkäufe für den gleichen Betrag gemacht hat. Diesen Sachverhalt muss der Händler ggf. erläutern/belegen können.
+###

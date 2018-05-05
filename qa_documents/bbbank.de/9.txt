@@ -1,0 +1,19 @@
+###
+Was bedeutet SEPA?
+
+SEPA ist die Abkürzung für „Single Euro Payments Area“, dem einheitlichen Euro Zahlungsverkehrsraum. Dieser besteht aus den EU-/EWR-Staaten sowie Monaco, San Marino und der Schweiz. Ziel ist es, europaweit standardisierte Überweisungen, Lastschriften und Kartenzahlungen bereitzustellen, so dass Verbraucher und Unternehmer bargeldlose Zahlungen auch über die Ländergrenzen hinweg so einfach und bequem tätigen können wie in ihrem Heimatland. Schecks sind von der Standardisierung ausgenommen.
+
+###
+Wen betrifft SEPA?
+
+Jeder Kontoinhaber ist von der Umstellung auf SEPA betroffen.
+###
+Kann ich SEPA-Zahlungen auch in anderen Währungen als Euro abwickeln?
+
+Nein. SEPA-Zahlungen können nur in Euro abgewickelt werden. Für Zahlungen in anderen europäischen Währungen können die SEPA-Verfahren nicht genutzt werden. Hier bedarf es weiterhin einer Auslandsüberweisung.
+###
+Wie werden Verrechnungsschecks im Zusammenhang mit der SEPA-Einführung behandelt?
+
+Schecks sind nicht von der SEPA-Verordnung erfasst und damit außerhalb des Geltungsbereichs.
+
+###
