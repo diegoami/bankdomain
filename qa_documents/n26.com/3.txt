@@ -1,0 +1,216 @@
+###
+N26 Mastercard: Wie und wo du deine Karte einsetzen kannst
+
+Deine N26 Mastercard ist eine Debitkarte, die überall in der Welt, wo das Mastercard-Symbol sichtbar ist, an Geldautomaten und beim Einkauf akzeptiert wird.
+
+Abhebungen und Kartenzahlungen gibst du mit der Eingabe deiner Karten-PIN frei, Online-Shops erfragen oft zusätzlich die Kartenprüfnummer (CVV). Diese dreistellige Nummer findest du neben deiner Unterschrift auf der Rückseite deiner Mastercard.
+
+Falls du beim Einsatz deiner Mastercard Probleme hast, überprüfe bitte zunächst in den Karten-Einstellungen, ob deine Karte für diesen Transaktionstyp gesperrt ist. Wenn nicht, wende dich am besten via Chat an den Customer Service.
+
+###
+Datenschutz: Was NFC an den Händler überträgt
+
+Die neueste Serie der N26 Karten bietet die Möglichkeit der NFC (Near Field Communication) zur Abwicklung kontaktloser Zahlungen. Du kannst diese Funktion im stationären Handel für Beträge bis zu 25,00 EUR ohne Eingabe der PIN nutzen. Beträge über 25,00 EUR musst du mit der persönlichen PIN bestätigen.
+
+Um die Funktion zu aktivieren, musst du die Karte zuerst einmal an einem Geldautomaten oder Bezahlterminal benutzen.
+
+Während des Bezahlprozesses werden lediglich die Kreditkartennummer sowie das Fälligkeitsdatum der Karte an das Terminal übertragen. Weder sicherheitsrelevante noch personenbezogene Daten wie dein Name, dein Geburtstag oder deine Adresse können abgeleitet werden. Eine funktionierende Kartenkopie lässt sich mit der Funktion nicht erstellen. Zudem ist das Auslesen der Daten nur möglich, wenn die Karte direkt an das NFC-fähige Kartenterminal gehalten wird.
+
+Einzige Ausnahme: In den App-Stores gibt es Anwendungen, die es ermöglichen, sie mit dem Smartphone auszulesen.
+
+###
+Apple Pay: Wie du direkt mit deinem Smartphone bezahlst
+
+(Gilt nur für Frankreich, Italien, Spanien und Finnland)
+
+Mit Apple Pay kannst du alle Mastercard-Zahlungen direkt über dein Smartphone abwickeln. In Geschäften sagst du an der Kasse, dass du mit Karte zahlen möchtest, und hältst dein iPhone in die Nähe eines Terminals mit NFC (Near Field Communication). Dein Gerät aktiviert automatisch Apple Pay, und einen Moment später kannst du die Zahlung per Touch ID oder mit deinem Passcode autorisieren.
+
+Oder: Du klickst bei gesperrtem Bildschirm zweimal den Homebutton, bestätigst die Zahlung per Touch ID oder Passcode und hältst dein Gerät erst dann in die Nähe des NFC-fähigen Terminals. Du kannst auch zunächst die Apple Wallet App öffnen und deine N26 Mastercard auswählen - oder auch deine Apple Watch entsperren, den seitlichen Knopf doppelklicken, deine N26 Mastercard auswählen und das Display nahe ans Terminal führen. Für In-App Einkäufe oder Onlinezahlungen bei Händlern, die Apple Pay unterstützen, wähle auf deinem iPhone einfach Apple Pay beim Checkout, wähle dann deine N26 Karte aus und autorisiere die Zahlung per Touch ID oder Passcode. Bei Zahlungen mit deiner Apple Watch autorisierst du die Zahlung nicht per Touch ID, sondern durch einen Doppelklick auf den seitlichen Knopf.
+
+Um auf deinem Mac in Safari online zu bezahlen, wähle Apple Pay als Zahlungsmethode und nutze Touch ID über die Touch Bar in der rechten oberen Ecke deiner Tastatur. Sollte dein Mac keine Touch Bar haben, überprüfe bitte, ob du diese technischen Voraussetzungen erfüllst:
+
+    Mac von 2012 oder neuer mit macOS Sierra
+    iPhone/Apple Watch SE mit dem aktuellsten Betriebssystem
+    Bluetooth (aktiviert?)
+    Alle Gerät mit demselben iCloud-Konto angemeldet
+
+Weitere technischen Voraussetzungen für Apple Pay:
+Gerät 	in Apps 	in Geschäften 	online
+iPhone 6 oder neuer, iPhone SE 	Ja 	Ja 	Ja
+Apple Watch verknüpft mit iPhone 5 oder neuer 	Ja 	Ja 	Nein
+iPad Pro, iPad Air 2, iPad mini 3, iPad mini 4 	Ja 	Nein 	Ja
+Macs von 2012 oder neuer (Macs, abgesehen vom MacBook Pro mit Touch Bar und Touch ID müssen mit einem iPhone oder Apple Watch verknüpft sein) 	Nein 	Nein 	Ja
+
+Für weitere Informationen besuche die offizielle Website von Apple.
+###
+Sicherheit: Wann und wie du deine N26 Karte sperrst
+
+Du kannst deine Karte für Geldabhebungen, Online-Zahlungen oder Zahlungen im Geschäft vorübergehend sperren und wieder entsperren. Das solltest du beispielsweise tun, wenn du Zahlungen oder Auslands-Abhebungen auf deinem Konto feststellst, die du dir nicht erklären kannst. Gehe dazu in der N26 App ins Control Center ⚙ und wähle “Karten”.
+
+Falls du eine Abbuchung beauftragt hast, aber mit der Leistung des Händlers nicht zufrieden bist oder die Warenlieferung vermisst, versuche bitte zuerst, dich direkt mit dem Händler zu einigen. Auch ein höherer oder niedrigerer Abbuchungsbetrag ist nicht notwendig ein Hinweis auf Betrug. Manche Händler blockieren einen Betrag, der sich von dem letztendlich abgebuchten Betrag unterscheidet, zum Beispiel wenn es sich um eine Kaution oder Anzahlung handelt.
+
+Wenn du sicher weißt, dass deine Karte missbräuchlich verwendet wurde, reicht eine einfache Sperrung nicht aus. In diesem Fall solltest du die Karte direkt in der App als gestohlen melden. Wir senden dir sofort eine neue Karte zu.
+
+Falls du dich um Rückerstattung betrügerischer Abbuchungen bemühst, kann dir vielleicht unser Customer Service helfen. Ruf uns dazu am besten kurz an, die Nummer findest du unten.
+###
+Sicherheit: Wie du einen PIN für deine N26 Karten festlegst
+
+Eine vierstellige Karten-PIN brauchst du, wenn du mit deiner Karte Bargeld am Automaten abheben oder in Geschäften bezahlen willst. Was deine Mastercard betrifft, so kannst du diese PIN festlegen, sobald du dein Smartphone zum ersten Mal mit deinem Konto verknüpft hast. Die PIN für deine Maestro-Karte kannst du festlegen, sobald du sie bestellt hast.
+
+Aus Sicherheitsgründen werden keine PINs akzeptiert, die Elemente deines Geburtsdatums oder deiner Adresse, Zahlenwiederholungen wie 1111, 111 oder auch nur 11 oder Zahlenfolgen wie 1234 oder 4321 enthalten. Falls die von dir gewählte Nummer nicht akzeptiert wird, versuche bitte eine andere Kombination. Du kannst aber dieselbe Nummer für deine Karten und deinen Überweisungscode verwenden.
+
+Du kannst deine PINs jederzeit in der N26 App ändern:
+
+    Melde dich dazu bei der N26 App an und gehe zum Control Center ⚙
+    Wähle “Karten” aus und wische zu der Karte, deren PIN du ändern möchtest
+    Wähle “PIN ändern” aus
+    Gib nach Aufforderung die zehnstellige Nummer auf deiner Karte ein
+    Gib deinen neue PIN ein und bestätige sie
+
+In der Web App sehen die Schritte etwas anders aus:
+
+    Gehe zur Sektion Karten-Info
+    Klicke unter der Karte, deren PIN du ändern möchtest, auf “PIN-Code ändern”
+    Gib nach Aufforderung die zehnstellige Nummer auf deiner Karte ein
+    Gib deine neuen PIN ein und bestätige sie
+
+Bitte beachte: Deine PIN muss am Bargeldautomaten bestätigt/ aktiviert werden.
+###
+Mögliche Problemen und ihre Lösung bei der Festlegung des PINS in deiner N26 Karten:
+
+    Wenn dreimal in Folge eine falsche PIN eingegeben wurde, wird deine Karte aus Sicherheitsgründen blockiert. Um den PIN-Zähler zurückzusetzen, wende dich am besten per Chat an den Customer Service.
+    In einigen Ländern wie Frankreich, Irland, Griechenland und der Slovakei funktionieren die Kartenlesegeräte überwiegend mit einem Offline-PIN auf dem Chip. Damit deine Karte hier funktioniert, musst du deine Online-PIN mit diesem Offline-PIN synchronisieren. Das machst du einfach, indem du Geld an einem Automaten abhebst.
+###
+
+Debitkarte: Was du mit deiner N26 Mastercard machen kannst
+
+Deine N26 Mastercard ist eine sogenannte Debitkarte: Alle Transaktionen finden in Echtzeit statt. Zumal wir dir auch Push-Nachrichten schicken, hast du jederzeit die Kontrolle über deinen Kontostand.
+
+Deine N26 Mastercard wird weltweit an Geldautomaten und in Geschäften sowie online akzeptiert, überall, wo du das Mastercard-Logo siehst. Sie ist durch deine persönliche PIN geschützt, die du am Geldautomaten und bei Zahlungen in Geschäften eingeben musst. Durch selbst verfügte Kartenlimits begrenzt du jeden Betrugsschaden.
+
+Falls du einen Missbrauch befürchtest, kannst du deine N26 Mastercard ganz oder teilweise (für Geldautomaten, online, im Ausland) und in Echtzeit sperren. Einen Kartendiebstahl kannst du direkt in der N26 App oder in der Sektion Karten-Infos der Web App melden.
+
+Mit der N26 Mastercard kannst über die NFC-Technik (Near Field Communication) bei vielen Händlern kontaktlos zahlen. Je nach Region existieren allerdings unterschiedliche Limitierungen.
+
+Wenn deine Mastercard abgelaufen ist oder du sie nicht länger verwendest, solltest du sie in einem kartenfähigen Aktenvernichter oder mit einer Schere unbrauchbar machen. Vor allem den Chip, die NFC-Antenne und den Magnetstreifen solltest du zerschneiden und in unterschiedlichen Papierkörben entsorgen.
+
+###
+Sicherheit: Was für Limits du einrichten kannst
+
+(Gilt in Griechenland nur mit Einschränkungen)
+
+Du kannst, um den Schaden im Betrugsfall zu begrenzen, in den Karteneinstellungen Tageslimits für Kartenzahlungen einrichten.
+
+Dabei betragen die maximalen Tageslimits für Überweisungen:
+
+    MoneyBeam an N26-Kunden: 1.000,00 EUR
+    MoneyBeam an Nicht-N26-Kunden: 100,00 EUR
+    Ausgehende Zahlungen: 50.000,00 EUR täglich
+
+Die maximalen Tageslimits (Gesamtsumme) für Kartenzahlungen:
+
+    Bargeldauszahlungen: bis zu 2.500,00 EUR täglich
+    In Geschäften oder Online: bis zu 5.000,00 EUR täglich
+
+Darüber hinaus gibt es ein maximales Monatslimit (Gesamtsumme) für Kartenzahlungen in einer Höhe von 20.000,00 EUR.
+###
+Lieferung: Wie lange deine Karte zu dir braucht
+
+Sobald du dein N26 Konto eröffnet und eine neue Karte bestellt hast, wird sie produziert und in die Post gegeben. Darum ist es wichtig, dass die Adresse stimmt. Um sie zu ändern, geh bitte ins Control Center der N26 App ⚙ und wähle unter “Konto” den Menüpunkt “Lieferadresse” aus. Sollte deine Anschrift Sonderzeichen enthalten, die nicht akzeptiert werden, wende dich bitte am besten via Chat an unseren Customer Support.
+
+Tragen Sie bitte keine Leerzeichen bei der Hinterlegung der Postleitzahl bei der Lieferadresse ein.
+
+Je nach Bestimmungsland dauert der Versand zwischen 4 und 14 Tagen. Falls die Karte sich nicht ausliefern lässt und darum zu uns zurückkommt, melden wir uns bei dir.
+
+Falls du schon länger als 14 Tage auf deine Karte wartest und noch nichts von uns gehört hast, prüfe noch einmal deine Versandadresse. Achte dabei auf möglicherweise fehlende Informationen (Name am Briefkasten, Treppenhaus, Wohnungstür usw.)
+
+Sollten alle Angaben stimmen: Bestelle bitte in der N26 App eine neue Karte.
+
+Solange deine Karte auf dem Weg zu dir ist, kann niemand sie verwenden. Du bist also vor Missbrauch geschützt, bis du die Karte in der N26 App aktivierst - erst dann solltest du gut auf sie aufpassen.
+
+Falls deine Karte mehrfach nicht ankam oder du sie besonders schnell brauchst, kommt vielleicht unsere Express-Lieferung für dich in Frage.
+
+###
+Autorisierung: Warum Händler Beträge blockieren, ohne sie einzuziehen
+
+Da wir dir Echtzeit-Banking anbieten, siehst du auch Vorgänge im Hintergrund deines Kontos, die andere nicht sehen - wie zum Beispiel Anfragen zur Validierung deiner N26 Mastercard. Händler oder andere Leistungsanbieter blockieren mit solchen Anfragen einen Betrag, ohne ihn wirklich einzuziehen. Spätestens nach sieben bis zehn Tagen verfällt die Autorisierung, und das Geld wird deinem Guthaben wieder gutgeschrieben.
+
+###
+Express-Lieferung: Wie du deine Karte schnell und sicher bekommst
+
+Die Express-Lieferung per UPS kostet 25 €. Sie lohnt sich, falls du deine Karte sehr schnell brauchst oder der Versand per Brief mehrmals nicht funktioniert hat.
+
+Sobald deine Karte an UPS übergeben wurde, erhältst du eine E-Mail mit dem Tracking-Link. Am nächsten Werktag zwischen 8 Uhr morgens und 12 Uhr Mittag wird deine neue N26 Karte geliefert.
+Lösungen bei den häufigsten Problemen:
+
+    Falls deine Karte zwei Werktage nach der Bestellung noch nicht angekommen ist, prüfe bitte den Tracking-Link, um die Sendung nachzuverfolgen.
+    Über den Tracking-Link kannst du UPS auch direkt über weitere Details deiner Versandadresse informieren oder die Sendung umleiten, falls du zum Lieferzeitpunkt nicht vor Ort sein kannst.
+
+Der Versand per UPS Express funktioniert übrigens in jedem Land Europas, in dem es N26 gibt. Außerhalb dieser Länder ist ein Versand derzeit nicht möglich.
+
+###
+Sicherheit: Wie du mit 3D Secure online einkaufst
+
+3D Secure ist die weltweit beste Methode, Betrugsfälle bei Kartenzahlungen im Internet zu verhindern. Der Name kommt daher, dass hier drei Parteien zusammen arbeiten: der Händler, seine Bank und der Aussteller der Karte - in unserem Falle N26. Bei jeder deiner Zahlungen mit der N26 Mastercard prüft 3D Secure, ob du die Transaktion innerhalb von 5 Minuten zusätzlich über eine Push-Nachricht bestätigen musst.
+
+Kaufst du über dein Smartphone ein, siehst du in diesem Fall eine ausstehende Transaktion in deiner Umsatzübersicht. Klicke links auf das Glocken-Symbol, dann erscheint die Push-Mitteilung, die du bestätigen kannst, um deinen Einkauf abzuschließen. Im nächsten Moment erhältst du auf der Website des Händlers die Mitteilung, dass dein Einkauf erfolgreich war.
+
+Um den 3D Secure Service anbieten zu können, hat N26 hat eine Partnerschaft mit der Touchtech Payments Ltd. geschlossen, spezialisiert auf Online-Authentifizierungen für Finanzdienstleister. Die Produkte dieses Dubliner Unternehmens sind nach Industriestandard zertifiziert und erfüllen alle bestehenden regulatorischen Anforderungen, inklusive der Payment Services Directive 2 (PSD2) und die darin vor kurzem festgelegten technischen Voraussetzungen.
+
+###
+Einige Hinweise und Lösungen zu 3D Secure
+
+
+
+    3D Secure ist automatisch aktiviert.
+    Du brauchst für 3D Secure bei N26 keine zusätzlichen Passwörter.
+    Wenn du die Push-Mitteilung nicht innerhalb von 5 Minuten bestätigen konntest, stoße den Zahlungsvorgang auf der Website des Händlers einfach noch einmal an.
+    Wenn du keine Push-Mitteilung erhältst, stelle bitte sicher, dass dein Smartphone verknüpft ist und Push-Nachrichten auf deinem Smartphone aktiviert sind. Zudem ist eine stabile Internetverbindung erforderlich. Solltest du ein iOS-Gerät nutzen, sorge dafür, dass du den “Nicht stören”-Modus deaktivierst.
+    Wenn auf der Seite des Händlers ein anderer Betrag steht als in der Push-Mitteilung, kann das an der bereits erfolgten Umrechnung einer Fremdwährung in Euro liegen.
+    Wenn deine App die Zahlung nicht unterstützt, lade bitte die technisch notwendige App-Version 3.5. herunter.
+
+###
+N26 Metal: Welche Vorteile dir unsere Metallkarte bietet
+
+(Gilt nur für Deutschland, Österreich, Frankreich und Italien)
+
+Als N26 Metal Mitglied hast du Zugang zu allen Vorteilen des Girokontos von N26 und der N26 Black. Darüber hinaus erhältst du eine sichere und NFC-fähige Mastercard mit Metallkern, einen besonderen App-Bereich, einen bevorzugten Customer Support über die App und Push-Nachrichten in Echtzeit zu jeder Transaktion auf deinem Konto. Auf der Rückseite sind deine Kartennummer, die Kartenprüfnummer (CVV) und deine persönliche zehnstellige Kartenkennnummer (Token) aufgedruckt.
+
+Genau wie bei N26 Black wird dein Versicherungspaket von Allianz Global Assistance Europe* bereitgestellt:
+
+    Reiseversicherungen: Erstattung von medizinischen Kosten im Ausland, für Reisestornierungen nach einem medizinischen Notfall, von Aufwendungen während einer Flugverzögerung von mehr als 4 Stunden, von Aufwendungen bei Verspätungen des eingecheckten Gepäcks von mehr als 6 Stunden und von Kosten für den Krankenrücktransport aus dem Ausland.
+    Garantieverlängerung: Verlängerung einer bestehenden Herstellergarantie um bis zu ein Jahr für versicherte Geräte.
+    Bargeldschutz: Entschädigung eines Überfalls bis zu 4 Stunden nach Abhebung mit deiner N26 Metal an einem Geldautomaten.
+    Handydiebstahl-Versicherung: Entschädigung für den Fall eines Diebstahls deines Smartphones im In- oder Ausland.
+    Käuferschutz: Erstattung von Artikeln oder Reparaturkosten für entwendete bzw. beschädigte Artikel, die mit einer N26 Metal gekauft wurden, sofern es sich bei dem Diebstahl bzw. dem Unfallschaden um einen versicherten Vorfall im In- oder Ausland handelt.
+
+Erfahre hier, wie du einen Versicherungsanspruch geltend machen kannst. Die vollständigen Allgemeinen Geschäftsbedingungen und Vorteile findest du hier.
+
+In den ersten Wochen erhalten ausgewählte N26 Black Kunden über PULSE eine Einladung zum Upgrade. Solltest du zu ihnen gehören, kannst du dich über deine App-Einstellungen für N26 Metal anmelden. Solltest du zuvor N26 Black Kunde gewesen sein, bleiben alle Kaufvorgänge und Reisen, die du mit deiner N26 Black Mastercard gebucht hast, weiterhin versichert.
+
+Die Mindestlaufzeit für N26 Metal beträgt ein Jahr. Sie verlängert sich automatisch für ein weiteres Jahr, sofern du nicht mindestens einen Monat vor Ablauf der Mitgliedschaft kündigst. Wann das ist, siehst du im App-Bereich von N26 Metal. Die Mitgliedsgebühr von 14,90 € wird je nach Datum deiner Anmeldung bei N26 Metal monatlich von deinem N26 Konto abgebucht.
+
+Bitte beachte, dass neben den Mitgliedsgebühren weitere Gebühren für das Abheben an Geldautomaten anfallen können. Dies erfolgt im Einklang mit unseren Richtlinien für die angemessene Nutzung.
+###
+N26 Maestro-Karte: Wie und wo du deine Karte einsetzen kannst
+
+(Gilt nur für Deutschland, Österreich und Niederlande)
+
+Deine N26 Maestro-Karte ist eine Debitkarte, die überall in der Welt, wo das Mastercard-Symbol sichtbar ist, an Geldautomaten und beim Einkauf akzeptiert wird.
+
+Du kannst deine Maestro-Karte im Control Center ⚙ deiner App bestellen.
+
+Abhebungen und Kartenzahlungen gibst du mit der Eingabe deiner Karten-PIN frei, Online-Shops erfragen oft zusätzlich die Kartenprüfnummer (CVV). Diese dreistellige Nummer findest du neben deiner Unterschrift auf der Rückseite deiner Maestro-Karte.
+
+Falls du beim Einsatz deiner Mastercard Probleme hast, überprüfe bitte zunächst in den Karten-Einstellungen, ob deine Karte für diesen Transaktionstyp gesperrt ist. Wenn nicht, wende dich am besten via Chat an den Customer Service.
+
+Bitte beachte, dass deine N26 Maestro-Karte nicht in das deutsche Electronic Cash- oder girocard-System eingebunden ist.
+
+###
+Karteneinstellungen: Wie du die Möglichkeiten deiner Karte verändern kannst
+
+Die Einstellungen für deine N26-Karten findest du über die Mobile App im Control Center ⚙ oder in der Web App unter Karteninfo. Hier kannst du deine Karten-PIN oder die Kartenlimits ändern sowie die Möglichkeit von Auslandszahlungen, Onlinezahlungen oder Bargeldabhebungen aktivieren oder deaktivieren. Jede Veränderung, die du vornimmst, ist sofort gültig und bezieht sich auf alle deine N26-Karten.
+
+Außerdem kannst du über Karteninfo im Falle des Verlusts oder eines Diebstahls auch eine Karte sperren und eine Ersatzkarte anfordern. Hierzu musst du nur die Lieferadresse überprüfen und die Bestellung mit deiner Überweisungs-PIN bestätigen.
+
+###

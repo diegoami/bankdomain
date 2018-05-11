@@ -1,0 +1,399 @@
+###
+Was genau ist Bonität?
+
+Was genau ist Bonität?Grundsätzlich beschreibt die Bonität (Kreditwürdigkeit) die Fähigkeit eines Schuldners, seine Schulden zurückzuzahlen. Schuldner sind dabei bewusst allgemein gehalten, denn je nach Situation kann dieser aus ganz unterschiedlichen Bereichen stammen.
+
+Privatpersonen: Es gibt sehr viele Arten von Verträgen, bei denen der Anbieter dem Kunden einen Kredit einräumt oder sich auf dessen dauerhafte Zahlungsfähigkeit und Kreditwürdigkeit verlassen muss.
+
+Unternehmen: Ob Unternehmen Kredite aufnehmen oder Anleihen ausgeben - in beiden Fällen spielt die Bonität der jeweiligen Firma eine wichtige Rolle.
+
+Staaten: Staaten geben Anleihen aus und nehmen somit indirekt Kredite auf. Ratingagenturen bewerten dabei auch die Bonität von Staaten.
+Persönliche und wirtschaftliche Bonität - die zwei Bestandteile der Kreditwürdigkeit
+
+Wirtschaftliche BonitätDie Bonität setzt sich im Wesentlichen aus zwei verschiedenen Teilaspekten zusammen. Dabei handelt es sich zum einen um die persönliche Bonität und zum anderen um die wirtschaftliche Bonität. Doch was unterscheidet diese beiden Bonitätsarten?
+Persönliche Bonität - die Zahlungswilligkeit
+
+Die persönliche Bonität behandelt die Zahlungswilligkeit und Zuverlässigkeit eines Schuldners. Es geht also um die Frage, ob der Kreditnehmer stets alles dafür tut, seine Verbindlichkeiten zu bezahlen. Das Zahlungsverhalten einer Person oder eines Unternehmens spielt dabei eine wichtige Rolle. Folgende Fragen sind dabei besonders wichtig:
+
+    Bezahlt der Schuldner seine Rechnungen pünktlich?
+    Wurden in der Vergangenheit Verbindlichkeiten stets komplett getilgt?
+    Gab es Zahlungsschwierigkeiten und starke Verzögerungen?
+
+Wirtschaftliche Bonität - Rückzahlungsfähigkeit
+
+Dieser Teilaspekt beschreibt hingegen die wirtschaftlichen Möglichkeiten eines Schuldners. Somit stellt sich also die Frage, ob ein Kreditnehmer oder ein Emittent finanziell dazu in der Lage, seinen wirtschaftlichen Verpflichtungen voll und ganz nachzukommen. Dabei spielen folgende Fragestellungen eine besondere Rolle:
+
+    Wie sieht die Vermögenssituation des Schuldners aus?
+    Wie sieht Einnahmesituation des Schuldners aus?
+    Wie sieht die Ausgabensituation des Schuldners aus?
+    Wie werden sich die obigen Situationen in der Zukunft verändern?
+
+Bonität von Privatpersonen - Zusammenarbeit von Auskunfteien und Unternehmern
+
+Bonität bei PrivatperseonenWenn es um die Bonitätseinstufung von Privatpersonen geht, arbeiten Unternehmen mit sogenannten Auskunfteien zusammen. Der Prozess läuft in zwei Stufen ab.
+
+    Unternehmen melden Vertragsabschlüsse und Zahlungsschwierigkeiten an Auskunfteien.
+    Auskunfteien geben vor einer Kreditentscheidung oder anderen Vertragsabschlüssen passende Daten an das jeweilige Unternehmen weiter.
+
+Die Bonitätseinstufung von Privatpersonen erfolgt dabei auf der Basis von zwei verschiedenen Aspekten. Zum einen die sogenannten Positiv- und Negativmerkmale und zum anderen das Scoring über die Ausfallwahrscheinlichkeit von Forderungen.
+Bonität von Unternehmen und Staaten - veröffentlichte Einstufungen von Ratingagenturen
+
+Bonität von Unternehmen und StaatenDie Bonität von Unternehmen und auch Staaten wird hingegen durch sogenannte Ratingagenturen bewertet. Dabei ist zwischen zwei verschiedenen Ratingprozessen zu unterscheiden.
+
+Mandatierte Ratings: In diesem Fall beauftragt ein Schuldner, Investor oder ein Gläubiger eine Ratingagentur, die Bonität eines bestimmten Unternehmens zu bewerten. Hierbei können neben öffentlich zugänglichen Informationen häufig auch Unternehmensinterna miteinbezogen werden, die der Auftraggeber zur Verfügung stellt. Beispiele für solche Interna sind Informationen über die Kundenstruktur sowie die Finanzpläne.
+
+Sekundär-Ratings: Diese Ratings finden ohne direktes Mandat statt und werten lediglich die Informationen aus, die sich öffentlich beschaffen lassen. Aus diesem Grund sind Sekundär-Ratings bei weitem nicht so aussagekräftig wie mandatierte Ratings.
+
+Welche Faktoren am Ende mit einbezogen und wie gewichtet werden, trägt eine Ratingagentur nicht nach außen. Es handelt sich dabei um das jeweils zentrale Geschäftsgeheimnis. Für Unternehmen und Staaten nutzen die bekanntesten Ratingagenturen jeweils eigene Bewertungsschemata. Die größten und bekanntesten Ratingagenturen sind Moody’s, Standard & Poor’s (S&P) und Fitch. Sie werden auch die „Big Three“ der Ratingagenturen genannt.
+
+Sie alle nehmen eine ähnliche Klassifizierung der Bonitätsstufen vor. So ergeben sich jeweils über 20 verschiedene Abstufungen der Bonitäts-Scores, von AAA absteigend bis C bzw. D. Ohne komplett auf die einzelnen feinen Nuancen der Abstufungen einzugehen, ergeben sich folgende Bewertungen.Bonitätseinstufungen für Unternehmen
+
+    Höchste Bonitätsstufe; Ausfallrisiko ist auch langfristig zu vernachlässigen
+    Sehr sicherer Schuldner; so gut wie kein Anlagerisiko; langfristig etwas schwieriger einzuschätzen
+    Sichere Geldanlage; geringe Gefahr durch überraschende Ereignisse in der Gesamtwirtschaft oder der Branche
+    Durchschnittliche Anlagemöglichkeit; Verschlechterungen der Gesamtwirtschaft könnten Zahlungsprobleme auslösen
+    Spekulative Anlage; Sollte sich die wirtschaftliche Lage verschlechtern, könnten Zahlungsausfälle drohen
+    Hochspekulative Anlage; bei Verschlechterung der Wirtschaftslage sind Zahlungsausfälle wahrscheinlich
+    Nur bei sehr günstiger Entwicklung sind keine Zahlungsausfälle zu erwarten.
+    Hohe Wahrscheinlichkeit eines Zahlungsausfalls oder Insolvenzverfahrens, aber noch nicht im Zahlungsverzug
+    Im Zahlungsverzug
+
+Wobei jede hier erwähnte Bewertungsstufe - je nach Ratingagentur - weiterhin noch Abstufungen aufweisen kann. Auf Basis dieser Einstufung nehmen Anleger Investments vor und treffen Banken Kreditentscheidungen. Diese Bonitätseinstufung kann sowohl für Unternehmen als auch für Staatsanleihen angewendet werden.
+###
+Wann wird eine Bonitätsprüfung durchgeführt?
+
+
+Eine Bonitätsprüfung bei Privatpersonen ist immer dann wichtig, wenn es darum geht, ob ein Schuldner Verbindlichkeiten tilgen kann. Dabei geht es nicht nur um die Kreditvergabe, sondern auch um die Gewährung von Leistungen, die im Nachhinein bezahlt werden. Die folgenden Beispiele zeigen typische Situationen auf, in denen Unternehmen oder andere Gläubiger eine Bonitätsbewertung von Schuldnern vornehmen.
+Kreditvergabe durch Banken
+
+Bevor ein Kreditinstitut einer Privatperson ein Darlehen einräumt, benötigt es Informationen über die Ausfallwahrscheinlichkeit der Rückzahlung. Schließlich ist es für Banken essenziell, am Ende nicht auf den Forderungen sitzenzubleiben.
+
+Wann kommt es zu einer Bonitätsprüfung?
+Eröffnung eines Girokontos
+
+
+Wer ein normales Girokonto eröffnen möchte, muss zwar keine Vermögens- und Einkommensauskunft vorlegen. Es wird jedoch eine Bonitätsauskunft zu seinem bisherigen Zahlungsverhalten eingeholt. Diese ist vor allem für die Gewährung von geduldeter Überziehung und der Einräumung eines Dispositionskredits wichtig. Wer darauf verzichten möchte, kann ein reines Guthabenkonto führen, welches sich auch problemlos als Pfändungsschutzkonto nutzen lässt.
+Abschluss eines Mobilfunk- oder Telefonvertrags
+
+Da es in der Telekommunikationsbranche üblich ist, die gewährten Leistungen im Nachhinein auf Rechnung zu bezahlen, benötigen die Anbieter bereits vorher Informationen zur Bonität der jeweiligen Verbraucher. Aus diesem Grund wird im Normalfall eine SCHUFA-Auskunft eingeholt, um das bisherige Zahlungsverhalten zu ermitteln.
+Bonitätsauskunft durch den Vermieter
+
+Da ein Mietvertrag durch die Gesetzeslage in Deutschland eine starke rechtliche Bindung für Vermieter bedeutet, haben diese ein berechtigtes Interesse an Informationen über die Bonität potenzieller Mieter. Sollten die Mietzahlungen ausfallen, bedeutet es für Vermieter nämlich großen juristischen Aufwand, die offenen Forderungen einzutreiben und den säumigen Mieter zu einem Auszug zu bewegen. Vermieter holen jedoch häufig nicht selbst eine Bonitätsauskunft ein, sondern erwarten deren Vorlage durch den Mieter.
+Ratenzahlung in Versandhäusern
+
+Wer bei einem Versandhaus oder bei einem großen Online-Händler eine Ratenzahlung in Anspruch nehmen möchte, erhält auf diesem Weg einen Kredit. Wie bei anderen Krediten wird auch hier die Bonität des Kunden abgefragt, um letztlich die Wahrscheinlichkeit eines Zahlungsausfalls zu ermitteln.
+###
+Wie läuft eine Bonitätsprüfung ab?
+
+Wenn die Bonität eines Verbrauchers ermittelt werden soll, hängt der Ablauf der Bonitätsprüfung stark vom jeweiligen Vertragstyp ab. Da insbesondere vor einer Kreditentscheidung ausführliche Bonitätsbewertungen vorgenommen werden, erfolgt nun eine genauere Ablaufbeschreibung:
+Ermittlung der wirtschaftlichen Bonität
+
+Wie bereits beschrieben, wird bei der Ermittlung der wirtschaftlichen Bonität ermittelt, ob ein Kreditnehmer rein wirtschaftlich in der Lage ist, die Kreditraten ordnungsgemäß zu bezahlen. In diesem Bereich ist natürlich die Mithilfe des Kreditnehmers gefragt, denn er muss folgende Auskünfte erteilen.
+1. Auskunft über die Einnahmen
+
+Ermittlung der wirtschaftlichen Bonität - Auskunft über die EinnahmenUm regelmäßig Kreditraten zu bedienen, muss ein Kreditnehmer entsprechende Einnahmen vorweisen können. Aus diesem Grund sind folgende Fragen zu beantworten:
+Wie hoch ist das regelmäßige Einkommen?
+
+Die Fragen zeigen bereits sehr detailliert, worum es bei der Auskunft über die Einnahmen geht. So sollte das Einkommen von der Höhe her mindestens die gesetzlichen Pfändungsfreigrenzen übertreffen, da es nur von Banken als Sicherheit akzeptiert werden kann. Darüber hinaus muss es alle Ausgaben decken und darüber hinaus auch noch finanziellen Spielraum für die Kreditrückzahlung bieten.
+
+Hinweis: Um die Höhe des eigenen Einkommens nachzuweisen, müssen Schuldner einem Kreditinstitut in der Regel aktuelle Verdienstbescheinigungen vorlegen. Von Selbstständigen werden hingegen die Einkommensteuerbescheide der letzten Jahre als Einkommensnachweis gefordert.
+Wie sicher ist das regelmäßige Einkommen?
+
+Wie sicher ist das regelmäßige Einkommen?Die Sicherheit des Einkommens ist hierbei sehr eng mit der Sicherheit des jeweiligen Arbeitsplatzes verbunden. Aus diesem Grund erhalten beispielsweise Personen mit befristeten Arbeitsverhältnissen oder Angestellte in der Probezeit oftmals keinen Kredit. Darüber hinaus haben es selbstständige mitunter sehr schwer, ein Darlehen zu erhalten. Dies liegt an der Tatsache, dass weder der Arbeitsplatz noch das Einkommen von Selbstständigen sicher ist. Die Einnahmen schwanken stets und das eigene kleine Unternehmen kann zudem jederzeit komplett vom Markt verschwinden.
+
+Hinweis: Um trotz schwankender Einnahmen ein Bild von der generellen Gewinnsituation zeichnen zu können, müssen Selbstständige im Rahmen einer Bonitätsprüfung häufig auch eine betriebswirtschaftliche Auswertung (BWA) vorlegen. Diese zeigt die künftige wirtschaftliche Perspektive auf und zeichnet somit wahrscheinliche Szenarien für die Zukunft.
+Auf welche Weise wird es erwirtschaftet?
+
+Kreditinstitute möchten von einem Kreditnehmer zudem eine klare Auskunft über seine Erwerbssituation. Zunächst ist der Erwerbsstatus wichtig:
+
+    Angestellte
+    Selbstständige
+    Beamte
+    Studenten
+    Rentner
+
+Darüber hinaus möchte die Bank bei Angestellten wissen, wer der Arbeitgeber des potenziellen Kreditnehmers ist. Regelmäßige Einnahmen können zudem natürlich auch aus anderen Quellen generiert werden. Dazu gehören zum Beispiel Mieteinnahmen oder Einkünfte aus Kapitalvermögen.
+2. Auskunft über die regelmäßigen Ausgaben
+
+Auskunft über regelmäßige AusgabenEin weiterer Teil der wirtschaftlichen Bonitätsprüfung besteht in einer Auskunft über die regelmäßigen Ausgaben. Dazu gehören also die Kostenpunkte, die regelmäßig wiederkehren und damit relativ gut planbar sind:
+
+    Miete
+    Strom/Heizung/Wohnnebenkosten
+    Kosten für Telekommunikation (Telefon, Internet, Smartphone)
+    Versicherungskosten
+    Ausgaben für die Lebenshaltung (Ernährung, Hygiene)
+    Kosten für Clubs und Vereine
+    Kfz-Kosten (Kfz-Steuern, Versicherung, Benzin)
+    Zu zahlender Unterhalt
+
+3. Auskunft über den Vermögensstand
+
+Vermögen kann sich sehr positiv auf die Bonität eines Kreditnehmers auswirken und insbesondere bei einer Kreditaufnahme als Sicherheit dienen. Dazu gehört unter anderem:
+
+    Immobilien und Grundstücke
+    Sparguthaben
+    Wertpapiere und Fondsanteile
+    Edelmetall
+
+4. Auskunft über die Schulden
+
+Auch der Schuldenstand hat einen Einfluss auf die wirtschaftliche Bonität eines Kreditnehmers. Zu bedienende Kredite bringen nämlich zusätzliche regelmäßige Zinskosten mit sich. Darüber hinaus muss ein Kreditnehmer in der Lage sein, seine Schulden auf absehbare Zeit auch wieder tilgen zu können. Wächst der Schuldenstand also auf ein zu hohes Level, droht die Überschuldung, die mit hoher Wahrscheinlichkeit in einem Zahlungsausfall endet.
+5. Mit der Haushaltsrechnung wird die mögliche Kreditrate errechnet
+
+Je nach Kreditart fällt die Ermittlung der wirtschaftlichen Bonität mehr oder weniger umfangreich aus. Insbesondere bei der Finanzierung von Immobilien wird in diesem Zusammenhang jedoch auch eine Haushaltsrechnung vorgenommen, um die maximal mögliche Kreditrate zu ermitteln. Eine solche Rechnung könnte mitunter so aussehen:
+
+Einkünfte
+
+Einkommen 1. Person im Haushalt (netto): 2.200 Euro pro Monat
+
+Einkommen 2. Person im Haushalt (netto): 1.900 Euro pro Monat
+
+Einkünfte aus Zinsen: 25 Euro pro Monat
+
+Einkünfte gesamt: 4.125 Euro pro Monat
+
+Ausgaben
+
+Miete (warm): 690 Euro pro Monat
+
+Stromkosten: 79 Euro pro Monat
+
+Kosten für Telekommunikation (Telefon und Internet sowie 2 Handyverträge): 100 Euro pro Monat
+
+Kosten für die Lebenshaltung: 750 Euro pro Monat
+
+Kosten für Versicherungen: 160 Euro pro Monat
+
+Kfz-Kosten: 250 Euro pro Monat
+
+Kosten für Clubs, Abos und Vereine: 80 Euro pro Monat
+
+Budget für Freizeit: 150 Euro pro Monat
+
+Einzahlungen in Kapitalanlagen: 150 Euro pro Monat
+
+Sicherheitsreserve (Ersatzanschaffungen, Reparaturen, Kosten für Reisen): 300 Euro pro Monat
+
+Ausgaben gesamt: 2.709 Euro pro Monat
+
+Mögliche Kreditrate: 1.416 Euro pro Monat
+
+Die wirtschaftliche Bonität der beiden Kreditnehmer wäre in diesem Fall sehr gut und es könnte eine Kreditrate von ca. 1.400 Euro pro Monat gestemmt werden. Dies ließe sich auch für die Finanzierung von Immobilien als gute Grundlage bezeichnen.
+Ermittlung der persönlichen Bonität
+
+Ermittlung der persönlichen BonitätDie persönliche Bonität eines Kreditnehmers wird heute hauptsächlich durch die Einholung einer SCHUFA-Auskunft oder einer Bonitätsauskunft von anderen Auskunfteien ermittelt. Diese spiegelt das Zahlungsverhalten der betroffenen Person in den letzten Jahren wider. Negativmerkmale sorgen gerade bei einer Kreditaufnahme dafür, dass die Kreditentscheidung der Bank im Regelfall negativ ausfällt. Darüber hinaus können zudem auch persönliche Erfahrungen der Bank mit einem Kunden die Bonität beeinflussen. Weist der Bankkunde beispielsweise regelmäßig Rückbuchungen mangels Deckung auf seinem Girokonto auf, kann dies die Kreditentscheidung der Bank ebenfalls negativ beeinflussen.
+Scoring - die Zusammenfassung aller Bonitätsmerkmale
+
+Bonitätsermittlung - ScoringUm die Bonitätseinstufung von Kreditnehmern in der Praxis gut umsetzbar zu gestalten, werden alle Bonitätsmerkmale heute in einem Scoring-System zusammengefasst. Auf diesem Weg kann jedem Schuldner ein bestimmter Score zugeordnet werden, der die jeweilige Ausfallwahrscheinlichkeit und damit die Rückzahlungsfähigkeit ausdrückt. Ein Scoring-System ist jedoch nicht festgelegt, sondern kann von der jeweiligen Bank selbst gestaltet werden. Dabei existieren auch bei der Gewichtung einzelner Faktoren Spielräume, so dass die Bonitätseinstufung einer Person längst nicht bei jedem Kreditinstitut gleich ausfällt. Als Beispiel soll nun ein Scoring-System der SCHUFA aufzeigen, wie so etwas grundsätzlich aussieht.
+
+Scoring-System der Schufa
+Ratingstufe 	Punktzahl 	Risikoquote
+A 	9.863 - 9.999 	0,80%
+B 	9.772 - 9.862 	1,64%
+C 	9.709 - 9.771 	2,47%
+D 	9.623 - 9.708 	3,10%
+E 	9.495 - 9.622 	4,38%
+F 	9.282 - 9.494 	6,21%
+G 	8.774 - 9.281 	9,50%
+H 	8.006 - 8.773 	16,74%
+I 	7.187 - 8.005 	25,97%
+K 	6.391 - 7.186 	32,56%
+L 	4.928 - 6.390 	41,77%
+M 	1 - 4.927 	60,45%
+N 	4.112 - 9.999 	48,47%
+O 	1.107 - 4.111 	77,57%
+P 	1 - 1.106 	96,08%
+
+Bei den Ratingstufen N, O und P liegen offene Negativmerkmale wie Daten aus Schuldnerverzeichnissen vor. Wie sich unschwer erkennen lässt, legt das Scoring-System mit der Risikoquote eine Ausfallwahrscheinlichkeit der jeweiligen Forderung fest. Während die Ratingstufe A nur einen Ausfall von 0,80% aller Forderungen mit sich bringt ist dies in Stufe P bei 96,08% aller Forderungen der Fall. Diese Durchschnittswerte helfen einer Bank letztlich bei einer Kreditentscheidung.
+Exkurs: Pfändungsfreigrenzen bei der Kreditvergabe
+
+Die PfändungsgrenzeWie bereits beschreiben, ist eine Kreditaufnahme nur dann erfolgreich, wenn die Bonität des Kreditnehmers eine Rückzahlung auch ermöglicht. Die Höhe des Einkommens spielt dabei eine wichtige Rolle. Dieses muss mindestens oberhalb der Pfändungsfreigrenzen liegen, damit die Bank bei Zahlungsschwierigkeiten tatsächlich auch Teile des Einkommens pfänden kann. Je nach Größe der Finanzierung verlangen die Banken jedoch häufig sogar ein Einkommen, welches deutlich oberhalb der Grenzen liegt, um entsprechenden finanziellen Spielraum bieten zu können. Die Pfändungsfreigrenzen sehen hierzulande folgendermaßen aus:
+Anzahl unterhalteberechtigte Personen 	Pfändungsfreibetrag
+Keine (nur der Schuldner) 	1.079,99 Euro pro Monat
+1 	1.479,99 Euro pro Monat
+2 	1.709,99 Euro pro Monat
+3 	1.929,99 Euro pro Monat
+4 	2.159,99 Euro pro Monat
+5 	2.379,99 Euro pro Monat
+
+Eine Mutter mit 2 Kindern ohne Ehepartner muss also erst eine Pfändung ab einem Einkommen von mehr als 1.709,99 Euro netto pro Monat fürchten. Und auch dann steigert sich der pfändbare Betrag nur langsam. Somit dürfte eine Kreditaufnahme auch bei einem Einkommen von beispielsweise 1.800 Euro pro Monat noch schwierig ausfallen.
+###
+Wie wirkt sich die Bonitätseinstufung aus?
+
+Die Bonität einer Person beschreibt für ein Unternehmen die Ausfallwahrscheinlichkeit nach dem Vertragsabschluss. Es wird also versucht, eine Prognose über den wahrscheinlichen Verlauf der Geschäftsbeziehung zu wagen. Als Folge dieser Bonitätsbewertung kommen folgende Möglichkeiten in Betracht:
+
+Ein Vertragsabschluss kommt gar nicht zustande.
+
+Wenn die Bonität einer Person negativ bewertet wird, kann es dazu kommen, dass ein Unternehmen den Vertragsabschluss mit dem potenziellen Kunden verweigert. Dies ist vor allem bei einer negativen Bonitätsauskunft von der SCHUFA oder anderen Auskunfteien der Fall. Negatives Zahlungsverhalten in der Vergangenheit wird von vielen Unternehmen als schwerwiegend angesehen, so dass diese keinen Vertrag abschließen möchten.
+
+Konditionen in Abhängigkeit von der Bonität
+
+Konditionen der BonitätseinstufungScoring-Werte sind vor allem für die Kreditvergabe oder Ratenkäufe wichtig, denn hier hängt nicht nur der Vertragsabschluss an der Bonität des Kunden. Zusätzlich beeinflusst die wirtschaftliche Bonität nämlich die Konditionen entsprechender Verträge. Bei Kreditangeboten lässt sich dies besonders einfach beobachten, wie eine typische Konditionenbeschreibung zeigt. Da wird für einen Effektiven Jahreszins zum Beispiel keine konkrete Prozentangabe, sondern eine Spanne angegeben.
+
+Beispiel: Effektiver Jahreszins - Ab 1,99% p.a. (1,99-10,99% p.a.)
+
+Die angegebene Zinsspanne ist der Zinssatz in Abhängigkeit von der Bonität eines Kreditnehmers. Sie sagt also aus, dass Schuldner mit Top-Bonität ein Darlehen zu einem Zinssatz von 1,99% erhalten, während Personen mit eher schlechter Bonität bis zu 10,99% Zinsen pro Jahr zahlen müssen. Um Kreditkunden einen Anhaltspunkt zu geben, wo das jeweilige Kreditinstitut die normale Bonität verortet, schreibt der Gesetzgeber in §6a Abs. 4 Preisangabenverordnung (PangV) vor, dass jede Bank ein repräsentatives Beispiel veröffentlicht muss. Der dort verwendete Zinssatz soll so gewählt werden, dass er durchschnittlich für zwei Drittel aller potenziellen Kunden gelten könnte. Zum obigen Angebot könnte das repräsentative Beispiel also folgendermaßen aussehen:
+
+    Effektiver Jahreszins (für 2/3 aller Kunden): 4,99% p.a.
+    Kreditsumme: 10.000 Euro
+    Laufzeit: 84 Monate
+    Gesamtkosten: 11.824,94 Euro
+    Monatliche Rate: 140,77 Euro
+
+Vertragstypen und die Auswirkungen der Bonität
+
+Vertragstypen und deren Einfluss auf die BonitätJe nach Vertragstyp wirkt sich die Bonität eines Schuldners also unterschiedlich auf den jeweiligen Vertrag aus. Im Folgenden sollen die Auswirkungen kurz erklärt werden.
+Kreditverträge
+
+Wer einen Kredit von einer Bank aufnehmen möchte, ist von seiner Bonität gleich doppelt abhängig. Existieren Negativmerkmale in der SCHUFA-Auskunft, kommt ein Vertragsabschluss gar nicht erst zustande. Darüber hinaus beeinflusst die Bonität auch die Höhe der Zinsen. Je besser das Scoring also ausfällt, desto geringer sind die Zinskosten für das Darlehen.
+Girokonto
+
+Bei einem Girokonto erstreckt sich die Bonitätsprüfung lediglich auf die SCHUFA-Auskunft. Liegen keine negativen Merkmale vor, kann der Interessent das Konto eröffnen. Ansonsten ist nur die Eröffnung eines Guthabenkontos möglich.
+Mietverträge
+
+Vermieter verlangen heute immer häufiger eine Bonitätsauskunft, bevor sie eine Wohnung vermieten. Dies passiert unter anderem, um sich vor Mietnomaden zu schützen und späteren juristischen Streitigkeiten aus dem Weg zu gehen. Die Konditionen des Mietvertrags werden durch die Bonität des Mieters allerdings nicht beeinflusst. Zudem holt der Vermieter die Auskunft im Normalfall nicht selbst ein, sondern verlangt von Mietern eine entsprechende Selbstauskunft.
+Telefon- und Mobilfunkverträge
+
+Telefon- und MobilfunkverträgeAuch bei Mobilfunk- und Telefonverträgen beschränkt sich die Bonitätsprüfung auf eine SCHUFA-Auskunft oder die Nachfrage bei einer anderen Auskunftei. Negativmerkmale sorgen dafür, dass ein herkömmlicher Telekommunikationsvertrag nicht abgeschlossen werden kann. In solchen Fällen müssen Interessenten auf Prepaid-Tarife ausweichen, bei denen zunächst ein Guthaben eingezahlt wird, welches der Nutzer später verbrauchen kann.
+Ratenkäufe in Versandhäusern
+
+Da ein Versandhaus bei einer Ratenzahlung quasi einen Kredit vergibt, gelten hierbei auch ähnliche Regelungen. Somit kann die SCHUFA-Auskunft bei Negativmerkmalen dafür sorgen, dass die Ratenzahlung nicht möglich ist. Darüber hinaus nutzen zumindest große Versandhäuser heute ein Scoring und koppeln somit häufig auch die Zinskonditionen der Ratenzahlung an die Bonität des jeweiligen Kunden.
+Auswirkung der Bonität auf Anleihen von Unternehmen und Staaten
+
+Auswirkungen auf Unternehmen und StaatenUnternehmen und vor allem Staaten beschaffen sich Fremdkapital durch die Ausgabe von entsprechenden Anleihen. Auch hier spielt die Bonität eine sehr wichtige Rolle, wobei der Zusammenhang etwas anders ausfällt:
+
+    Ein Unternehmen setzt eine Anleihe mit bestimmten Zinskonditionen auf und emittiert sie am Kapitalmarkt.
+    Die Anleger prüfen die Bonität des Unternehmens und setzen diese mit den Zinskonditionen ins Verhältnis.
+    Ist die Anleihe für Anleger attraktiv, wird sie gekauft und ihr Preis steigt. Dies sorgt im Umkehrschluss für sinkende Zinsen.
+    Ist die Anleihe hingegen unattraktiv, weil die Zinsen im Vergleich zum Ausfallrisiko (Bonität) zu niedrig ausfallen, sinkt die Nachfrage und damit der Kurs. Sinkende Kurse sorgen für steigende Zinsen.
+
+Somit lässt sich also festhalten, dass eine schlechte Bonität tendenziell mit steigenden Zinsen für das Unternehmen verbunden ist. In der Praxis bedeutet dies zunächst, dass sich eventuell gar nicht die komplette Anleihe platzieren lässt, weil sich niemand zu den gegebenen Konditionen dafür interessiert. In solchen Fällen müsste das Unternehmen nachbessern und die Zinsen erhöhen oder auf einen Teil des damit zu generierenden Fremdkapitals verzichten. Staaten stehen vor ähnlichen Situationen, so dass auch deren Bonität die Konditionen in erheblichem Maße mitbestimmt.
+
+###
+Auskunfteien und Scoring-Agenturen: Wer erteilt Auskünfte?
+
+Die Begriffe Bonität und Scoring haben in den letzten Jahren weiter an Bedeutung gewonnen. Aus diesem Grund existieren mittlerweile auch recht viele Auskunfteien, die sich mit der Zahlungsfähigkeit von Verbrauchern beschäftigen. Nachfolgend werden einige bekannte Vertreter auf dem Markt etwas genauer vorgestellt:
+Schutzgemeinschaft für Allgemeine Kreditsicherung (SCHUFA)
+
+Die SCHUFA ist ganz klar die bekannteste Auskunftei in Sachen Bonität. Sie wurde im Jahr 1927 in Berlin gegründet und hat heute ihren Hauptsitz in Wiesbaden. Mit Daten zu über 67 Millionen Privatpersonen und 5,3 Millionen Unternehmen kann die heutige SCHUFA Holding AG auf eine sehr breite Datenbasis vertrauen und somit den über 9.000 Vertragspartnern wichtige Informationen zu potenziellen Kunden und Geschäftspartnern zur Verfügung stellen.
+
+    Datensätze: 813 Millionen
+    Natürliche Personen mit Daten bei der SCHUFA: 67,2 Millionen
+    Unternehmen mit Daten bei der SCHUFA: 5,3 Millionen
+    Vertragspartner: 9.000
+
+Deltavista GmbH (jetzt CRIF GmbH)
+
+Die Deltavista GmbH war in Deutschland vor allem durch ihre große Datenbank im Bereich der Bonitätsauskünfte bekannt. Darüber hinaus ist die einprägsame Ampel (grün = alles ok, gelb = weiche Negativmerkmale, rot = harte Negativmerkmale) für viele Gläubiger eine große Hilfe. Mittlerweile wurde die Auskunftei von der global agierenden CRIF-Gruppe aus Italien übernommen, die mittlerweile 44.000 Unternehmenskunden in zahlreichen Ländern mit entsprechenden Daten versorgt.
+Bürgel Wirtschaftsinformationen GmbH & Co. KG
+
+Bürgel wurde bereits im Jahr 1885 in Berlin gegründet und gehört in die Gruppe der größten Wirtschaftsauskunfteien in Deutschland. Mittlerweile hat die italienische CRIF-Gruppe die Auskunftei übernommen, so dass Bürgel seine internationale Präsenz weiter ausbauen kann. Jährlich vermittelt das Unternehmen ca. 6 Millionen Auskünfte an seine Vertragspartner.
+Arvato Infoscore
+
+Das Unternehmen Arvato Financial Services gehört zur Bertelsmann Se & CO. KGaA und kann auf über 10.000 Kunden in Europa verweisen. Mit über 68 Millionen Bonitätsabfragen pro Jahr gehört Arvato ganz klar zu den 3 größten Auskunfteien in Europa. Neben harten Negativmerkmalen verwendet Infoscore wie Bürgel auch weiche Negativmerkmale in ihrer Bonitätsauskunft, wenn diese aus eigenen Inkassoverfahren stammen.
+Boniversum (Creditreform)
+
+Die Creditreform kann auf eine lange Tradition verweisen, da sie bereits 1879 in Mainz gegründet wurde. Heute hat das Unternehmen mehr als 155.000 Mitglieder in aller Welt. Von Einzelauskünften über die Adressvalidierung bis hin zum Scoring bietet die Creditrefom Boniversum GmbH zahlreiche Dienstleistungen. Darüber hinaus übernimmt sie auch klassische Inkassodienstleistungen für Unternehmen.
+###
+Welche Daten werden gesammelt und gespeichert? Welche Daten sammeln die Auskunfteien über Verbraucher?
+
+Die Daten der Auskunfteien sollen potenziellen Kunden die Möglichkeit einräumen, sich ein Bild über die Bonität ihrer Kunden zu verschaffen. Trotzdem kann die Datenbasis im Normalfall keine vollständige Aussage über die finanziellen Verhältnisse sowie die Zahlungswilligkeit eines Verbrauchers treffen. Dies liegt an der Tatsache, dass Banken und Unternehmen bei weitem nicht alles an die Auskunfteien melden dürfen. Der Datenschutz spielt hierbei nämlich ebenfalls eine sehr wichtige Rolle. Eine Bonitätsauskunft besteht im Normalfall aus positiven sowie negativen Merkmalen und kann bei Bedarf durch ein Scoring ergänzt werden.
+Was sind Positivmerkmale?
+
+Was sind Positivmerkmale? Positive Merkmale in einer Bonitätsauskunft bestehen fast immer aus erfolgreichen Vertragsabschlüssen. Schließt ein Verbraucher einen Handyvertrag ab oder eröffnet ein Girokonto, ist dies im Normalfall mit folgenden Schritten verbunden:
+
+    Das Unternehmen hat eine Bonitätsprüfung erfolgreich durchgeführt.
+    Die wirtschaftlichen Verhältnisse des Verbrauchers sind offenbar ausreichend, um einen solchen Vertrag abschließen zu können.
+
+Somit sorgen entsprechende Einträge für die Bildung von Vertrauen in die Zahlungsfähigkeit des Betroffenen. Sie wirken sich auf diese Weise positiv auf das Scoring eines Verbrauchers aus.
+Was sind Negativmerkmale?
+
+Negativmerkmale bezeichnen alle Bestandteile der Bonitätsauskunft, die sich negativ auf die Bonität des Betroffenen auswirken. Dabei geht im Normalfall um folgende Aspekte:
+
+    Nicht vertragsgemäßes Verhalten bei Zahlungen
+    Außerordentliche Kündigungen von Verträgen
+    Eintragungen in öffentliche Schuldnerverzeichnisse
+    Privatinsolvenzverfahren
+
+Was sind Negativmerkmale? Anhand dieser Merkmale erkennen Unternehmen schnell, dass es in der Vergangenheit Zahlungsschwierigkeiten gegeben hat oder der Verbraucher sogar finanziell nicht in der Lage ist, seinen Verpflichtungen nachzukommen. Solche Negativmerkmale sind bei einer Kreditaufnahme oder dem Abschluss eines Handyvertrags im Normalfall K.o.-Kriterien.
+
+Hinweis: Ein Unternehmen darf eine offene Forderung nicht ohne weiteres an eine Auskunftei melden. §28a des Bundesdatenschutzgesetzes (BDSG) legt hierzu fest, dass gewisse Kriterien für eine Meldung erfüllt sein müssen_
+
+    Vorliegen eines Schuldtitels
+    Ausdrückliche Anerkennung der Forderung durch den Schuldner
+    Zweimalige schriftliche Mahnung nach Fälligkeit der Forderung
+    Zeitraum von 4 Wochen zwischen der ersten und zweiten Mahnung
+    Benachrichtigung über bevorstehende Meldung an die SCHUFA (rechtzeitig, aber frühestens bei der ersten Mahnung)
+    Fristlose Vertragskündigung aufgrund von Zahlungsrückständen
+
+Wie unterscheiden sich weiche und harte Negativmerkmale?
+
+Wie unterscheiden sich weiche und harte Negativmerkmale?Bei einigen Auskunfteien wird zwischen harten und weichen Negativmerkmalen im Zuge Bonitätsauskunft unterschieden. Darüber hinaus lässt sich mitunter sogar eine Dreiteilung von harten, mittleren und weichen Negativmerkmalen finden. Doch was hat es damit auf sich? Die folgende Tabelle zeigt die einzelnen Merkmale auf:
+
+Harte Negativmerkmale:
+
+    Daten aus den Schuldnerverzeichnissen der Amtsgerichte (eidesstattliche Versicherungen und Haftbefehl zur Erzwingung einer Eidesstattlichen Versicherung, Eintragungen nach § 882c Abs. 1 Nr. 1-3 ZPO)
+    Nichtabgabe der Vermögensauskunft
+    Eröffnung und Abweisung eines Privatinsolvenzverfahren
+    Ankündigung, Erteilung oder Versagung einer Restschuldbefreiung
+
+Weiche und mittlere Negativmerkmale:
+
+    Fällige und titulierte Forderungen, die nicht ordnungsgemäß gezahlt wurden (Inkassoüberwachungsverfahren) (mittel)
+    Inkassoverfahren (weich)
+
+Der Unterschied zwischen harten und weichen Negativmerkmalen liegt vor allem im Fortschritt des Mahnverfahrens. Ein Inkassoverfahren beinhaltet lediglich folgende Aspekte:
+
+    Ein Verbraucher hat eine Rechnung nicht rechtzeitig bezahlt und oft auch eine oder mehrere Mahnungen des Unternehmens verstreichen lassen.
+    Die Forderung wurde zur Beitreibung an ein Inkassounternehmen übergeben, welches nun den Schriftverkehr mit dem Betroffenen führt.
+
+In einer SCHUFA-Auskunft werden solche weichen Negativmerkmale im Normalfall nicht oder selten erwähnt. Andere Auskunfteien beziehen solche weichen Auskünfte immer dann mit ein, wenn sie aus dem eigenen Inkassowesen stammen. Anders sieht es bei einem Inkassoüberwachungsverfahren aus, welches im Normalfall eine titulierte Forderung als Grundlage hat. In diesem Fall war das Inkassoverfahren also fruchtlos und es wurde ein vollstreckbarer Titel beim Gericht erwirkt. Solche Forderungen werden im Normalfall bei nahezu allen Auskunfteien als Negativmerkmal geführt.
+
+Harte Negativmerkmale entstehen, wenn trotz titulierter Forderung keine Einigung erzielt werden konnte und betroffene Schuldner zur Abgabe einer Vermögensauskunft aufgefordert werden. Die letzte Konsequenz ist in diesem Fall ein Verbraucherinsolvenzverfahren, welches eröffnet wird, wenn das Vermögen nicht ausreicht, um eine offene und titulierte Forderung im Rahmen der Zwangsvollstreckung zu bezahlen. Je nach Verlauf des Insolvenzverfahrens kann eine Restschuldbefreiung erteilt oder versagt werden.
+Wie lange werden negative Merkmale gespeichert?
+
+Merkmale in einer Bonitätsauskunft bleiben nicht für immer bestehen, sondern werden nach einer gewissen Zeit gelöscht. Beispielhaft sollen nun die Löschfristen der SCHUFA für verschiedene Arten von Einträgen aufgezeigt werden:
+Art des Eintrags 	Löschfrist
+Vertragsanfragen (z.B. Kreditanfragen) 	Tagesgenau 12 Monate (Anzeige in der Auskunft: 10 Tage)
+Kredite 	Tagesgenau 3 Jahre nach dem Jahr der Rückzahlung
+Informationen über fällige Forderungen 	3 volle Kalenderjahre nach Rückzahlung (4 Jahre unerledigten Sachverhalten)
+Girokonten Telekommunikationsverträge 	Zum Datum der Vertragsauflösung
+Versandhauskonten 	Wenn die Forderung beglichen wurde
+Kreditkartenkonten 	Tagesgenau 3 Jahre nach Ende der Geschäftsbeziehung
+Eidesstattliche Versicherungen, Haftbefehle zur Erzwingung der eidesstattlichen Versicherung, Eintragungen nach § 882c Abs. 1 Satz 1 Nr. 1 - 3 ZPO 	Tagesgenau 3 Jahre (vorzeitige Löschung möglich, wenn Nachweis über die Löschung durch das zuständige Gericht vorliegt)
+Eröffnung eines Insolvenzverfahrens 	Nach 6 vollen Kalenderjahren
+Abweisung eines Insolvenzantrags oder Einstellung des Verfahrens mangels Masse 	Tagesgenau nach 3 Jahren
+Ankündigung einer Restschuldbefreiung 	Spätestens nach 10 Jahren oder mit dem Hinweis über Erteilung oder Versagung
+Erteilung der Restschuldbefreiung 	Nach 3 vollen Kalenderjahren
+Versagung der Restschuldbefreiung 	Tagesgenau nach 3 Jahren
+Aufhebung des Insolvenzverfahrens 	Nach 3 vollen Kalenderjahren
+Gibt die Möglichkeit, negative Einträge vorzeitig löschen zu lassen?
+
+Verbraucher haben tatsächlich die Möglichkeit, einige Einträge zu ihrer Bonität vorzeitig aus ihrer Bonitätsauskunft löschen zu lassen. Dies ist bei der SCHUFA zum Beispiel für zweierlei Arten von Einträgen möglich:
+1. Daten aus den Schuldnerverzeichnissen der Amtsgerichte
+
+Lassen sich negative Einträge wieder löschen?Hat ein Gerichtsvollzieher aufgrund einer titulierten Forderung Einträge in öffentlichen Schuldnerverzeichnissen vornehmen lassen, können diese vorzeitig gelöscht werden, wenn der SCHUFA ein Nachweis über die Löschung durch das zuständige Gericht vorgelegt wird. Im Normalfall werden entsprechende Löschungen veranlasst, wenn die Forderung beglichen ist.
+2. Vorzeitige Löschung von Forderungen aus der SCHUFA-Auskunft
+
+Auch für diesen Fall hat die SCHUFA die Möglichkeit einer vorzeitigen Löschung eröffnet. Dafür müssen allerdings einige Voraussetzungen erfüllt sein:
+
+    Die Forderung darf der SCHUFA erstmals vor dem 01.07.2012 mitgeteilt worden sein.
+    Die Forderung darf sich maximal auf 2.000 Euro belaufen.
+    Die Forderung wurde innerhalb von 6 Wochen beglichen und die Erledigung wurde der SCHUFA vom Gläubiger mitgeteilt.
+    Die Forderung ist nicht tituliert (kein Vollstreckungsbescheid).
+
+Tipp: Wenn erledigte Vorfälle über offene Forderungen nur noch einige Monate vor der Löschung stehen, zeigen sich Auskunfteien mitunter kulant. Steht also beispielsweise eine Kreditaufnahme an, könnte der betroffene Verbraucher bei der Auskunftei wegen einer Löschung anfragen. In Einzelfällen kann dieses Vorgehen durchaus erfolgreich sein.
+Wer darf Bonitätsinformationen abfragen?
+
+Damit ein Unternehmen Bonitätsdaten zu einer Person abfragen kann, muss es laut §29 Abs. 2 BDSG ein berechtigtes Interesse erklären. Ein direkter Nachweis ist allerdings nicht erforderlich. Die Auskunfteien müssen lediglich die Art und Weise der Darlegung des berechtigten Interesses dokumentieren und stichprobenartig deren Richtigkeit überprüfen. Das Gesetz soll sicherstellen, dass nur die Unternehmen Daten zur Bonität bestimmter Verbraucher einholen, mit denen auch eine Geschäftsanbahnung ansteht.
+
+###
+Selbstauskunft über die eigene Bonität - das ist wichtig
+
+Bonität - SelbstauskunftAuch wenn Auskunfteien sich bemühen, die Daten von Verbrauchern stets auf einem aktuellen Stand zu halten, passieren doch immer wieder Fehler. Leider können falsche Negativeinträge für die Betroffenen jedoch erheblich Folgen haben, wenn plötzlich Handyverträge nicht mehr abgeschlossen werden können auch die Kreditaufnahme nahezu unmöglich wird. Aus diesem Grund ist es wichtig, die eigenen Daten regelmäßig einer Kontrolle zu unterziehen. Nach §34 BDSG darf aus diesem Grund jeder Verbraucher eine Datenübersicht anfordern, die die über ihn gespeicherten Daten und Informationen enthält. Auch die Konditionen dafür sind gesetzlich geregelt:
+
+    einmal jährlich muss die Datenauskunft in Textform unentgeltlich erfolgen (§34 Abs. 8 BDSG)
+    weitere Abfragen können mit Gebühren belegt werden, die jedoch lediglich die Kosten für Erstellung der Auskunft decken dürfen.
+
+Sollten Betroffenen bei der Überprüfung ihrer Daten falsche Einträge auffallen, können sie von der Auskunftei die Löschung dieser Einträge verlangen. Im Normalfall wird die jeweilige Auskunftei eine Löschungsanfrage jedoch zunächst prüfen und die Löschung nur dann durchführen, wenn die Prüfung dies auch ergibt.
+###

@@ -1,0 +1,48 @@
+###
+Warum sollte ich an KUNO teilnehmen?
+KUNO ist ein wirksames und erfolgreiches Mittel, um eine betrügerische Verwendung verlorener und gestohlener sowie betrügerisch erlangter (Kontoeröffnungsbetrug) Debitkarten zu verhindern. Wenn Sie Zahlungen im elektronischen Lastschriftverfahren, also mit Unterschrift abwickeln, bietet KUNO Ihnen die Möglichkeit, sich vor Betrug zu schützen.
+###
+Nutze ich vielleicht schon KUNO?
+Die unten aufgeführten Netzbetreiber/ Finanzdienstleister haben sich bereits der zentralen Meldestelle des EHI angeschlossen und gleichen somit ihre Zahlungstransaktionen mit KUNO Daten ab. Wenn Sie Kunde der hier aufgeführten Dienstleister sind, brauchen Sie sich nicht mehr separat beim EHI als Empfänger registrieren, dies hat dann bereits der Dienstleister übernommen.
+
+    „Real“ Inform GmbH
+    AFC Rechenzentrum GmbH
+    arvato infoscore Consumer Data GmbH
+    Douglas Informatik&Service GmbH
+    easycash GmbH
+    HIT Hanseatische Inkasso-Treuhand GmbH
+    Hobex AG
+    ICP GmbH
+    InterCard AG
+    montrada GmbH
+    Telecash GmbH & Co. KG
+    TL1 GmbH
+    Transact Elektronische Zahlungssysteme GmbH
+###
+
+Was muss ich tun, wenn ich meine Kartenzahlung von einem speziellen Netzbetreiber abwickeln lasse?
+Fragen Sie bei Ihrem Netzbetreiber nach, ob er Ihre Zahlungen mit KUNO absichert. Manche Anbieter bieten dies als Standardservice, bei anderen ist es eine Zusatzleistung.
+###
+
+
+Ich nutze keinen Netzbetreiber, sondern reiche die Kartenzahlung selbst bei der Bank ein. Wie hilft mir KUNO?
+Gerade für den Fall, dass Sie keinem Netzbetreiber/ Finanzdienstleister angeschlossen sind, sondern ihre Zahlungstransaktionen eigenständig mit ihrer Bank abwickeln, ist KUNO ein interessantes und notwendiges Instrument, um sich vor Betrug zu schützen. Hierzu ist eine eigenständige Registrierung beim EHI notwendig. Aufgrund des hohen Meldevolumens von über 10.000 Meldungen pro Monat, ist ein Übertrag per Hand in Ihre eigene Sperrdatei nicht praktikabel. Bitte sprechen Sie gezielt den Hersteller ihres Warenwirtschaftssystems an, ob seine Produkte KUNO-tauglich sind.
+###
+
+Welche Warenwirtschaftsanbieter unterstützen KUNO?
+Die folgenden Unternehmen bieten ihren Kunden die Möglichkeit, KUNO Meldungen in die eigenen Sperrdateien einzupflegen:
+
+    Hiltes Software GmbH, 26789 Leer [http://www.hiltes.de]
+    Höltl Retail Solutions GmbH, 36251 Bad Hersfeld, [http://www.hoeltl.com]
+    prohandel GmbH , 33739 Bielefeld [http://www.prohandel.de]
+    TL1 GmbH Software-Entwicklung, 79104 Freiburg [http://www.tl1.de]
+
+###
+
+Was für Kosten bereitet KUNO den registrierten Empfängern?
+Bei einem Außenumsatz von bis zu 75 Mio. Euro berechnen wir für Ihre Teilnahme eine feste Jahrespauschale von 120,00 Euro. Bei einem höheren Außenumsatz verwenden wir einen Kostenumlageschlüssel, der jährlich neu kalkuliert wird. Genauere Informationen hierzu finden Sie im KUNO Infopaket, welches Sie kostenfrei und unverbindlich anfordern können.
+###
+
+Wie melde ich mich bei KUNO an?
+Nutzen Sie bitte das Kontaktformular unter dem Menüpunkt "Info anfordern", damit wir Ihnen unverbindlich und kostenfrei alle wichtigen Informationen inkl. Registrierungsformular zuschicken können. Mit Rücksendung des ausgefüllten Registrierungsformulars steht einer Teilnahme an KUNO nichts mehr im Wege.
+###

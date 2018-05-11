@@ -1,0 +1,32 @@
+###
+Was ist der Mastercard® SecureCode?
+
+Der Mastercard® SecureCode™ ist ein Sicherheitsverfahren, welches gewährleistet, dass Ihre Kreditkarte auch nur von Ihnen persönlich im Internet eingesetzt wird.
+###
+
+Hat die Advanzia Bank das Verfahren geändert?
+
+Advanzia hat den Mastercard SecureCode Service für Sie optimiert: Wie gewohnt gehen Sie zum Abschluss Ihres Interneteinkaufs auf die Bezahlseite des Händlers. Im Hintergrund wird geprüft, ob bei diesem Einkauf weitere Informationen von Ihnen benötigt werden (sog. risikobasierte Einschätzung). Sollte das der Fall sein, werden Ihnen während des Bezahlvorgangs automatisch drei persönliche Fragen gestellt, bevor der Einkauf abgeschlossen werden kann.
+###
+
+Woran erkenne ich einen teilnehmenden Händler?
+
+Teilnehmende Händler erkennen Sie an folgendem Symbol:
+###
+
+Ist für die Nutzung eine Softwareinstallation notwendig?
+
+Nein, Sie benötigen keine weitere Software-Installation auf Ihrem PC.
+###
+
+Sind mit der Nutzung des Mastercard® SecureCode? Kosten für mich verbunden?
+
+Nein, dieser Service wird selbstverständlich kostenfrei zur Verfügung gestellt.
+###
+
+Ich habe Schwierigkeiten mit dem Mastercard® SecureCode?. Was kann ich tun?
+
+Unser Kundenservice ist rund um die Uhr kostenlos unter der Nummer 0800 880 1120 (dt. Festnetz) erreichbar und wird Ihnen gerne behilflich sein. Wenn Sie unser Serviceteam aus dem Ausland oder mobil erreichen möchten, so wählen Sie bitte die Rufnummer
+
++49 (0) 345 - 21 97 30 30.
+###

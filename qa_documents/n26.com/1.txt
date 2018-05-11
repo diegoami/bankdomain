@@ -1,0 +1,152 @@
+###
+Sicherheit: Wie du ein Passwort vergibst
+
+Wenn du dich das erste Mal für dein N26 Konto registrierst, wirst du aufgefordert, dein Passwort festzulegen - eine Kombination aus Zeichen und Ziffern, die du für dein Login in die N26-App oder ins Online-Banking benötigst.
+
+Ein Passwort muss eine zufällige Kombination aus mindestens 7 Zeichen sein, darüber hinaus eine Ziffer, ein Sonderzeichen sowie einen Großbuchstaben enthalten. Es darf weder Elemente deines Geburtsdatums noch deines Namens enthalten.
+
+Du kannst dein Passwort jederzeit ändern. Öffne deine N26 App oder dein N26 Online-Banking:
+
+    Wähle "Passwort vergessen?"
+    Du erhältst eine Email von N26
+    Folge dem Link in der E-Mail zur Neuvergabe deines Passworts
+    Wähle ein neues Passwort und bestätige es
+
+Falls du dein Passwort sechsmal nacheinander falsch eingibst, wird der Zugriff auf dein Konto vorübergehend blockiert. Nach 30 Minuten kannst du dich wieder wie gewohnt anmelden.
+
+Postleitzahl Fehlermeldung: Trag bitte keine Leerzeichen bei der Hinterlegung der Postleitzahl bei der Lieferadresse ein.
+
+###
+Anspruch auf ein Basiskonto
+
+Bei N26 hast du die Möglichkeit, ein N26 Girokonto zu eröffnen, indem du auf unserer Website den Button “Konto eröffnen” klickst, oder die N26 App herunterlädst.
+
+Seit Einführung des Zahlungskontengesetzes (kurz ZKG) im Juni 2016 hat jeder Verbraucher mit rechtmäßigem Aufenthalt in der Europäischen Union grundsätzlich den Anspruch auf ein Zahlungskonto, das grundlegende Funktionen zur Erfüllung der täglichen Zahlungsgeschäfte bietet. Dieses Konto nennt sich Basiskonto, die Eröffnung erfolgt über den unten beschriebenen Prozess. Voraussetzung dafür ist, dass du nicht schon ein Zahlungskonto bei N26 oder einer anderen Bank in Deutschland hast. Antragsberechtigt sind bspw. Personen ohne festen Wohnsitz und Asylsuchende. Das bedeutet, ein Wohnsitz im Sinne des Meldegesetzes ist nicht erforderlich und die postalische Erreichbarkeit über Angehörige, Freunde oder eine Beratungsstelle reicht demnach zur Kontoeröffnung aus.
+###
+Funktionen und Kosten des Basiskontos
+
+Folgende Leistungen beinhaltet das Basiskonto bei N26 Bank GmbH:
+
+    Girokonto auf Guthabenbasis
+    SEPA-Überweisungen
+    Teilnahme am SEPA-Lastschriftverkehr
+    Ein- und Auszahlungen von Bargeld mit CASH26
+    Kartenzahlungen und Bargeldauszahlungen mit einer Debit Mastercard und optional einer Maestro-Karte
+    Zugriff auf Online-Banking über my.n26.com
+    Zugriff auf Smartphone-Banking mit der N26 App (bitte beachte die jeweiligen technischen Anforderungen der N26 App)
+    Elektronische Kontoauszüge, die im Online-Banking oder über die N26 App zur Verfügung gestellt werden
+
+Für die Kontoführung fällt monatlich eine Kontoführungsgebühr von 6,00 EUR an.
+
+Etwaige weitere Kosten für die Nutzung der Debit Mastercard und Maestro-Karte kannst du unserer Preisliste entnehmen.
+
+Bitte beachte, dass diverse Funktionen wie der N26 Dispokredit), N26 Credit oder auch unser Premiumprodukt N26 Black für das N26 Basiskonto nicht zur Verfügung stehen.
+###
+Beantragen eines Basiskontos
+
+Um ein Basiskonto bei N26 zu beantragen, erledige bitte die folgende Schritte:
+
+    Lade dir den Antrag zur Eröffnung eines Basiskontos hier herunter
+    Fülle den Antrag aus und unterschreibe diesen händisch
+    Mit deinem ausgedruckten und unterschriebenen Antrag kannst du eine nächstgelegene Filiale der Deutschen Post aufsuchen, um mit dem angehängten PostIdent Coupon deine persönliche Verifizierung durchzuführen
+    Die Verifizierungsunterlagen werden gemeinsam mit deinem Antrag postalisch an N26 Bank GmbH, Kundendienst, Klosterstraße 62, 10179 Berlin gesendet
+    Nach Erhalt deines Antrags, werden wir diesen prüfen und dir per E-Mail mitteilen, ob du dich für die Eröffnung eines Basiskontos qualifizierst. Trifft das zu, wirst du ebenfalls per E-Mail den Basiskontovertrag, die allgemeinen Geschäftsbedingungen, grundlegende vorvertragliche Informationen sowie den Informationsbogen für Einleger erhalten erhalten
+    Sende den unterschrieben Vertrag postalisch an die oben genannte Adresse
+    Nach Erhalt des Vertrags wird dein Konto innerhalb von 10 Tagen eröffnet, über den Kartenversand und die Zugangsdaten zu deinem Konto wirst du separat informiert
+
+###
+Ablehnung des Basiskontoantrags
+
+N26 kann den Abschluss eines Basiskontovertrags nur unter bestimmten Voraussetzungen ablehnen. Das ist der Fall, wenn:
+
+    Du bereits bei einer anderen Bank in Deutschland ein Zahlungskonto hast und du dieses Konto tatsächlich nutzen kannst,
+    Du innerhalb der letzten drei Jahre vor Antragstellung wegen einer vorsätzlichen Straftat gegen die Bank oder einen ihrer Mitarbeiter oder einen ihrer Kunden verurteilt worden bist,
+    Du bereits Inhaber eines Basiskontos bei uns warst und wir den Basiskontovertrag wegen Zahlungsverzug oder wegen Nutzung des Kontos zu verbotenen Zwecken berechtigt gekündigt haben, oder
+    wir durch die Aufnahme und Unterhaltung einer Geschäftsbeziehung zu dir gegen unsere Allgemeinen Sorgfaltspflichten aus dem Geldwäschegesetz und aus dem Kreditwesengesetz oder bei der Begründung der Ablehnung gegen ihre Verschwiegenheitspflichten verstoßen würden.
+
+###
+N26 Empfehlungsprogramm: Wie du Freunde einladen kannst
+
+Du kannst Freunde per SMS oder E-Mail einladen, indem du in der N26 App auf das Papierflugzeug-Symbol klickst und Kontakte aus deiner Kontaktliste auswählst oder indem du in der Web App auf "Freunde einladen" in der Menüleiste klickst. Eröffnet einer von ihnen über den versendeten Einladungs-Link ein N26 Konto und veranlasst über seine Karte eine Zahlung von mindestens 15,- €, schreiben wir dir bis zu zehnmal eine Prämie von 15,-€ gut.
+
+Bitte beachte, dass diese Gutschrift zwei bis drei Werktage dauern kann und das N26 Empfehlungsprogramm gemäß unseren Nutzungsbedingungen nur für private Zwecke genutzt werden darf.
+###
+Lieferung: Wie lange deine Karte zu dir braucht
+
+Sobald du dein N26 Konto eröffnet und eine neue Karte bestellt hast, wird sie produziert und in die Post gegeben. Darum ist es wichtig, dass die Adresse stimmt. Um sie zu ändern, geh bitte ins Control Center der N26 App ⚙ und wähle unter “Konto” den Menüpunkt “Lieferadresse” aus. Sollte deine Anschrift Sonderzeichen enthalten, die nicht akzeptiert werden, wende dich bitte am besten via Chat an unseren Customer Support.
+
+Tragen Sie bitte keine Leerzeichen bei der Hinterlegung der Postleitzahl bei der Lieferadresse ein.
+
+Je nach Bestimmungsland dauert der Versand zwischen 4 und 14 Tagen. Falls die Karte sich nicht ausliefern lässt und darum zu uns zurückkommt, melden wir uns bei dir.
+
+Falls du schon länger als 14 Tage auf deine Karte wartest und noch nichts von uns gehört hast, prüfe noch einmal deine Versandadresse. Achte dabei auf möglicherweise fehlende Informationen (Name am Briefkasten, Treppenhaus, Wohnungstür usw.)
+
+Sollten alle Angaben stimmen: Bestelle bitte in der N26 App eine neue Karte.
+
+Solange deine Karte auf dem Weg zu dir ist, kann niemand sie verwenden. Du bist also vor Missbrauch geschützt, bis du die Karte in der N26 App aktivierst - erst dann solltest du gut auf sie aufpassen.
+
+Falls deine Karte mehrfach nicht ankam oder du sie besonders schnell brauchst, kommt vielleicht unsere Express-Lieferung für dich in Frage.
+
+###
+Sicherheit: Wie du für andere N26 Nutzer sichtbar oder unsichtbar wirst
+
+Zur Durchführung von Echtzeit-Transaktionen wie MoneyBeams oder MoneyRequests per iMessage prüft N26, ob der Empfänger der Transaktion ebenfalls N26 Nutzer ist. Dazu wird die Telefonnummer oder E-Mail-Adresse des Empfängers mit deinem Adressbuch abgeglichen. Alle darin enthaltenen Kontakte, die ebenfalls ein N26 Konto besitzen, werden in deiner N26 Kontaktliste angezeigt und mit einem blauen Punkt markiert. Nach einer Echtzeit-Überweisung erscheinen Name und IBAN des Empfängers in deiner Umsatzübersicht.
+
+Diese Informationen werden unter Beachtung des Datenschutzes und sicher gespeichert. Wenn du trotzdem nicht möchtest, dass du für andere N26 Nutzer, die dich als Kontakt in ihrem Adressbuch führen, im beschriebenen Rahmen sichtbar wirst, kannst du dein Einverständnis bei der Anmeldung verweigern oder es jederzeit widerrufen. Gehe dazu in deinen Einstellungen auf “persönliche Daten”.
+
+Die Echtzeit-Funktionen werden dadurch allerdings eingeschränkt. So erkennen deine Freunde nicht mehr, ob sie dir einen MoneyBeam senden können. Zudem kannst du bei eigenen MoneyBeams nicht erkennen, ob sie in Echtzeit ausgeführt werden.
+
+###
+Sicherheit: Wie du dein Smartphone mit deinem N26 Konto verknüpfst
+
+Damit du dein N26 Konto verwenden kannst, brauchst du ein Smartphone - und zwar entweder ein iPhone (4S und neuer, mindestens iOS 9) oder ein Android Smartphone (4.4. und neuer).
+
+Falls noch kein Smartphone mit deinem N26 Konto verknüpft ist, starte einfach die App auf deinem Smartphone. Sobald du deine Mobilfunknummer bestätigt, einen vierstelligen Code per SMS erhalten und eingegeben hast, verfügst du über alle Funktionen deines Kontos.
+
+Falls du ein anderes Telefon mit deinem N26 Konto verknüpfen möchtest, musst du zuerst dein altes Telefon im Control Center ⚙ deiner App entknüpfen. Du erhältst dann eine E-Mail mit weiteren Informationen.
+
+Falls du die Entknüpfung nicht durchführen kannst, weil dein Gerät verloren oder gestohlen ist, wende dich bitte unten per Chat an den Customer Service.
+
+Wir verknüpfen übrigens dein Gerät, nicht deine Telefonnummer oder deine SIM-Karte. Zu unserer dreistufigen Sicherheitsarchitektur siehe hier.
+
+Wenn du sicherheitsrelevante Einstellungen änderst oder das Telefon komplett ausschaltest, kann es auf einigen Android-Geräten passieren, dass eine bestehende Verknüpfung aufgehoben wird. Für diesen seltenen Fall führe bitte die Verknüpfung noch einmal durch.
+
+Verknüpfungsfehler: Starte den Prozess noch einmal und wähle bei der Frage "Ist das deine Nummer?" die Antwort "nein" aus. Gib nun deine Telefonnummer manuell ein und bestätige sie, um den Code per SMS zu erhalten.
+
+###
+Identifikation: Wie du dich uns gegenüber ausweist
+
+(Gilt für Frankreich gegebenenfalls nur unter zusätzlichen Anforderungen)
+
+Als Bank müssen wir wissen, wer du bist, und uns darum von dir deinen Ausweis zeigen lassen.
+
+Wir achten auf bestimmte Einträge - vor allem auf deine persönlichen Daten sowie auf einige Sicherheitsmerkmale deines Ausweises.
+
+So finden wir zusammen, nachdem du deine E-Mail-Adresse bestätigt hast:
+
+    Du startest einen Videoanruf direkt aus der N26 App
+    oder du machst ein Bild von deinem Ausweis und ein Selfie in der N26 App (nicht in Deutschland)
+    oder du gehst zur nächsten Postfiliale, um deinen Ausweis dort zu zeigen (nur in Deutschland)
+
+Nachdem du uns mitgeteilt hast, mit welchem Dokument du dich ausweisen möchtest, wählen wir den einfachsten Weg für dich aus.
+
+Welchen Ausweis du verwenden kannst, erfährst du hier:
+
+    Ich lebe in Deutschland.
+    Ich lebe außerhalb von Deutschland
+
+Je nach gesetzlicher Bestimmung können wir einige Ausweise nicht akzeptieren. Falls dein Ausweisdokument nicht auf der Liste oben zu finden ist, bedeutet das, dass er die Minimalanforderungen für keinen der drei von uns angebotenen Verifizierungsmethoden erfüllt.
+
+Das bedeutet leider auch, dass wir dir kein Konto anbieten können, zumindest nicht, bis wir deinen Ausweis akzeptieren. Wir erweitern die Liste unterstützter Dokumente ständig, behalte diese Liste also gerne im Auge, falls sich was ändert.
+
+Wir müssen die Verifizierung unserer Kunden sehr ernst nehmen. Falls dein Ausweis nicht unterstützt ist, kann unser Customer Service dir leider nicht helfen oder eine Ausnahme für dich machen.
+###
+Lösungen bei den häufigsten Problemen bei der Verifizierung der Identität
+
+
+    Der Videoanruf kann an schlechten Lichtverhältnissen oder mangelnder Bildqualität scheitern. Bitte stelle sicher, dass du bei hellem Licht eine gute Kamera und eine schnelle Internetverbindung verwendest
+    Stelle sicher, dass du den Zugriff auf die Kamera und die Standortdienste erlaubt hast.
+    Wenn du ein Bild deines Ausweises und ein Selfie machst und der erste Versuch nicht klappt, starte bitte noch einmal von vorne. Sollte auch das nicht möglich sein, bemerken wir das und schicken dir eine E-Mail, sobald es weitergeht. Das kann allerdings einige Tage dauern.
+
+Sobald wir sicher sind, wer du bist, schicken wir dir deine N26 Mastercard, und du kannst dein Smartphone mit deinem Konto verknüpfen.
+###

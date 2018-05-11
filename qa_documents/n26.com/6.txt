@@ -1,0 +1,147 @@
+###
+Echtzeit-Features: Wie du Push-Nachrichten bekommst
+
+Zu unseren Echtzeit-Features gehören neben Angeboten wie MoneyBeam oder CASH26 auch unsere Push-Nachrichten an dein Smartphone oder deine Email-Adresse.
+
+In den Kontoeinstellungen des Online-Bankings kannst du festlegen, ob und ab welchen Beträgen du Mitteilungen zu Bewegungen auf deiner Karte oder deinem Konto erhalten möchtest.
+
+###
+Mögliche Lösungen, falls du keine Push-Nachrichten erhältst:
+
+Du verwendest ein IOS-Smartphone?
+
+    Bitte prüfe, ob dein Smartphone wirklich verknüpft ist, und verknüpfe es gegebenenfalls erneut
+    Stelle sicher, dass du in deiner N26 App eingeloggt bist.
+    Stelle sicher, dass in den allgemeinen Einstellungen deines Smartphones die Mitteilungen für die N26 App aktiviert sind
+
+Du verwendest ein Android-Smartphone?
+
+    Rufe die Einstellungen für Karten- und Bank-Mitteilungen in den Kontoeinstellungen, aktiviere den Versand von Mitteilungen und setze den Schwellenwert auf 0,00 EUR
+    Lösche die N26 app und starte dein Smartphone neu. Öffne anschließend den Google PlayStore und installiere die aktuelle Version unserer N26 App.
+    Stelle sicher, dass deine Google Play-Services auf dem neuesten Stand sind.
+    Besteht das Problem noch immer, verknüpfe dein Smartphone bitte erneut.
+
+###
+N26 Fixed Savings: Wer unsere Partner sind
+
+(Gilt nur für Deutschland und Österreich)
+
+Mit N26 Fixed Savings kannst du ein Festgeld-Sparkonto direkt in der N26 App eröffnen und von Zinssätzen bis zu 1,64 % p.a. profitieren. Dieses Produkt wird durch die enge Zusammenarbeit von drei Unternehmen und verschiedener Partnerbanken ermöglicht. Wenn du ein Sparkonto eröffnest, wirst einen Vertrag mit allen drei Unternehmen sowie einer weitere Partnerbank abschließen. Um volle Transparenz zu gewährleisten und sicherzustellen, dass du N26 Fixed Savings umfassend verstehst, haben wir hier eine Liste all unserer Partner zusammengestellt, inklusive der Leistungen, die diese Partner sowie N26 erbringen.
+
+    N26 Bank GmbH (N26) – N26 agiert über die N26-App als Vermittler und leitet deinen Kontoeröffnungsantrag und sämtliche benötigten Informationen sowie den zu sparenden Geldbetrag über Raisin an MHB Bank weiter.
+
+    Raisin GmbH – Das in Berlin ansässige FinTech Raisin ist unser Technologiepartner und sorgt für die nötige Infrastruktur für die angebotenen Sparpläne inklusive des Kontoeröffnungsprozesses bei der Partnerbank MHB Bank und der Einrichtung deines Sparkontos bei den übrigen Partnerbanken.
+
+    MHB Bank AG – MHB Bank ist Raisin’s lizensierte Partnerbank, die als Vermittler agiert und die Überweisungen von deinen Ersparnissen von und zu weiteren Partnerbanken ermöglicht.
+
+    Partnerbanken – Raisin sowie MHB Bank führen eine vertragliche Partnerschaft mit verschiedenen Partnerbanken, sowohl national als auch international. Diese Banken führen die über Raisin und für N26 Fixed Savings eröffneten Sparkonten. Wenn du ein Sparkonto in der N26 App eröffnest, kannst du zwischen mehreren dieser Partnerbanken wählen und Details über diese erfahren.
+
+
+###
+Features: Wie du mit uns über PULSE26 kommunizieren kannst
+
+Über PULSE26 erhältst du personalisierte und interaktive Nachrichten im oberen Bereich deiner Transaktionsliste in der N26 App. Diese “Impuls” geben dir z.B. Informationen zu deinem Konto und Einblicke in deine Finanzen, personalisierte Tipps und Neuigkeiten zu N26. Du kannst direkt reagieren:
+
+    Like - Wenn du einen Impuls gut findest, tippe auf das Herz-Symbol. So erfahren wir auch, welche Informationen und Einblicke für dich wichtig sind.
+    Löschen - Wenn ein Impuls für dich unwichtig ist, kannst du ihn löschen, indem du auf das X tippst. Hast du aus Versehen einen Impuls gelöscht, kannst du ihn im darauf folgenden Dialogfeld wieder zurückholen.
+    Details - Wenn du mehr erfahren möchtest, tippe auf “Detail”. Du bekommst dann z.B. interessante Statistiken oder Links zu neuen Features in der N26 App.
+
+Falls du Anregungen zu PULSE26 hast, sende uns gerne dein Feedback.
+###
+Apple Pay: Wie du Apple Pay einrichtest, verwaltest und notfalls sperrst
+
+(Gilt nur für Frankreich, Italien, Spanien und Finnland)
+
+Um Apple Pay in deiner N26 App einzurichten, rufe einfach die Karteneinstellungen auf und klicke auf "Zu Apple Wallet hinzufügen". Bitte beachte: Es ist notwendig, dass deine iPhone Region (Geräteeinstellungen > Allgemein > Sprache & Region) mit dem Land übereinstimmt, in dem deine Mastercard ausgestellt wurde.
+
+Um Apple Pay über Apple Wallet einzurichten, klicke "+" in der rechten oberen Ecke deines iPhone Homescreens, aktiviere deine Kamera, scanne deine Kartendetails, bestätige sie, lies und akzeptiere die Apple Pay Geschäftsbedingungen, lasse dich zur abschließenden Bestätigung in deine N26 App leiten oder fordere eine SMS an.
+
+Um deine Mastercard zu Apple Watch Wallet hinzuzufügen, öffne die Apple Watch App auf deinem iPhone, klicke "Wallet & Apple Pay" und folge den weiteren Anweisungen. Auf einem Mac schließlich richtest du Apple Pay ein, indem du die Systemeinstellungen über dein Dock öffnest, "Wallet & Apple Pay" wählst, auf "Karte hinzufügen" klickst und dann ebenfalls den Anweisungen folgst. Um deine Kartendetails zu scannen, kannst du einfach die Frontkamera deines Mac nutzen.
+
+Technische Voraussetzungen für Apple Pay:
+
+    iPhone 6 oder neuer
+    iPhone SE
+    Apple Watch verknüpft mit iPhone 5 oder neuer
+    iPad Pro, iPad Air 2, iPad mini 3, iPad mini 4
+    Macs von 2012 oder neuer (Macs, abgesehen vom MacBook Pro mit Touch Bar und Touch ID müssen mit einem iPhone oder Apple Watch verknüpft sein)
+
+Wenn du deine Karte wieder entfernen willst:
+
+    Rufe die Pass Details in Apple Wallet auf, klicke "Info" und wähle "Karte entfernen"
+    oder klicke in den Geräteeinstellungen deines Mac auf "Wallet & Apple Pay”, wähle die Karte aus und bestätige mit "Karte entfernen".
+    oder gehe in die Geräteeinstellungen auf einem MacBook Pro mit Touch ID, wähle "Wallet & Apple Pay", dann die und klicke auf "-".
+###
+Probleme und Lösungen bei der Einrichtung von Apple Pay:
+
+    Falls du dein iPhone verloren und vielleicht auch über “Mein IPhone finden” nicht wiedergefunden hast, kannst du jederzeit über den Webbrowser eines Mac oder PC auf deine iCloud zugreifen und sämtliche Apple Pay Geräte entfernen. Zudem solltest du den "Verloren-Modus" aktivieren, um deine Mastercard für Apple Pay zu sperren. Zahlungen mit deiner physischen Karte sind trotzdem weiterhin möglich.
+    Falls deine N26 Mastercard überraschend aus Apple Wallet entfernt ist, kann es daran liegen, dass du dich aus deiner iCloud ausgeloggt, Passcode oder Touch ID deaktiviert, dein Gerät per iTunes auf Werkseinstellungen zurückgesetzt oder sämtliche Inhalte und Einstellungen auf deinem Gerät gelöscht hast. In allen Fällen kannst du deine Karte natürlich wieder hinzufügen. Die Karte wird übrigens nicht entfernt, wenn du dein Betriebssystem aktualisierst, deine persönlichen Geräteeinstellungen zurücksetzt oder “Mein iPhone finden” deaktivierst.
+
+Für weitere Informationen besuche die offizielle Website von Apple.
+###
+Karteneinstellungen: Wie du die Möglichkeiten deiner Karte verändern kannst
+
+Die Einstellungen für deine N26-Karten findest du über die Mobile App im Control Center ⚙ oder in der Web App unter Karteninfo. Hier kannst du deine Karten-PIN oder die Kartenlimits ändern sowie die Möglichkeit von Auslandszahlungen, Onlinezahlungen oder Bargeldabhebungen aktivieren oder deaktivieren. Jede Veränderung, die du vornimmst, ist sofort gültig und bezieht sich auf alle deine N26-Karten.
+
+Außerdem kannst du über Karteninfo im Falle des Verlusts oder eines Diebstahls auch eine Karte sperren und eine Ersatzkarte anfordern. Hierzu musst du nur die Lieferadresse überprüfen und die Bestellung mit deiner Überweisungs-PIN bestätigen.
+###
+Systemvoraussetzungen: Was du für die N26 App technisch brauchst
+
+Du kannst die N26 App im Apple App Store oder im Google Play Store herunterladen.
+
+Wenn du IOS nutzt, brauchst du mindestens die App-Version 3.9.3., mindestens das iPhone 4s und mindestens IOS 9. Deine IOS-Version findest du unter Einstellungen > Allgemein > Info.
+
+Nutzt du Android, brauchst du die App-Version 3.9.3. und mindestens Android 4.4. Deine Android-Version findest du unter Einstellungen > Über dein Gerät.
+
+###
+Statistik: Wie du deine Ausgaben genauer analysieren kannst
+
+Jede Transaktion wird automatisch einer der festgelegten und jederzeit änderbaren Kategorien wie “Einkäufe” oder “Weiterbildung” zugewiesen. Dazu verwenden wir beispielsweise Händlerinformationen und Verwendungszwecke. Wenn du zum Beispiel einen MoneyBeam mit dem Verwendungszweck "Mittagessen" schickst, wird dieser automatisch der Kategorie "Bars & Restaurants" zugewiesen.
+
+Je mehr du dein Konto und deine Karte verwendest, desto präziser wird die darauf aufbauende Statistik. Sie ermöglicht dir mit Graphen in der N26 und Web App, deine Ausgaben auch über mehrere Monate zu analysieren.
+
+###
+Features: Wie du Überweisungsempfänger speicherst und verwaltest
+
+werden die Details wie Name und Bankverbindung automatisch in deiner Kontaktliste gespeichert. Dann kannst du auch Kontakte löschen oder dir euren gemeinsamen Transaktionsverlauf anzeigen lassen:
+
+    iOS: Wische einen Kontakteintrag nach links, um ihn zu bearbeiten. Tippe auf den Papierkorb, um den Eintrag zu löschen, und auf das Zeit-Symbol, um den Transaktionsverlauf anzuzeigen.
+    Android: Drücke und halte auf einen Kontakteintrag, um die Optionen zum Löschen oder zum Betrachten des Transaktionsverlaufs anzuzeigen.
+
+Bitte beachte, dass das Löschen eines Kontakts nicht die Einträge für gemeinsame Transaktionen löscht.
+
+Um die Kontaktverwaltung zu benutzen, benötigst du Version 2.5 oder neuer auf deinem iOS oder Android-Gerät.
+
+###
+Features: Wie du mit Hashtags deine Transaktionen sortierst
+
+Du kannst deine Transaktionen nicht nur nach Kategorien, sondern auch mit Hashtags sortieren. Voreingestellt sind Tags zum Zeitpunkt der Transaktion, zur Art oder zum Ort deines Einkaufs, beispielsweise #wochenende, #bücher und #berlin. In der Detailansicht einer Transaktion kannst aber auch eigene Tags hinzufügen, wie beispielsweise #reise_portugal oder #jedenmonat, und falsche Tags entfernen.
+###
+N26 Fixed Savings: Wie du über N26 ein Festgeld-Sparkonto einrichtest
+
+(Gilt nur für Deutschland und Österreich)
+
+Mit N26 Fixed Savings kannst du kostenfrei über die N26 App ein Sparkonto eröffnen und einen festen Betrag von 2.000 € bis zu 100.000 € zurückzulegen. Dein Geld wird bei einer unserer Partnerbanken aufbewahrt, dabei kannst du Zinssätze von bis zu 1,64 % genießen. Abhängig von der ausgewählten Partnerbank, kannst du Sparpläne von 3 bis 60 Monaten anlegen, sobald dein Sparplan fällig wird, erhältst du die Auszahlung des gesamten Einzahlungsbetrag plus die angelaufenen Zinsen direkt auf dein N26 Konto.
+
+Um ein Festgeld-Sparkonto zu eröffnen, streiche in deiner Transaktionsliste einfach nach rechts und tippe hier, um einen neuen Sparplan anzulegen:
+
+    Wähle den einmaligen Einzahlungsbetrag aus, den du sparen möchtest
+    Wähle die Dauer deines Sparplans aus
+    Als nächstes Zeigen wir dir ein Angebot einer unserer Partnerbanken, das zu dir passen könnte
+    Klicke auf „alle Optionen zeigen“ um die Angebote anderer Partnerbanken zu vergleichen und das für dich beste Angebot zu finden
+    Sobald du dich für ein Angebot entschieden hast und damit zufrieden bist, klicke „mit diesem Plan fortfahren“
+    Abhängig von der zuvor ausgewählten Partnerbank, werden wir dir jetzt verschiedene Fragen zu deinem Sparplan stellen
+    Aus regulatorischen Gründen benötigen wir im nächsten Schritt unter Umständen Informationen über deinen Steuerstatus. Bitte beantworte die Fragen und halte deine Steuernummer bereit für den Fall, dass wir sie benötigen (du findest die Steuernummer in der Regel auf deiner Gehaltsabrechnung). Bitte beachte: Falls du in den Vereinigten Staaten steuerpflichtig sein könntest, können wir dir momentan leider keinen Zugang zu unserem Spar-Produkt ermöglichen.
+    Im nächsten Bildschirm kannst du deinen Sparplan noch einmal überprüfen und erneut die Details zu der ausgesuchten Partnerbank einsehen. Bitte beachte: Da es sich um ein Festgeld-Sparkonto handelt, kannst du auf den Einzahlungsbetrag bis zur Fälligkeit nicht mehr zugreifen.
+    Fast geschafft! Um fortzufahren, musst du die Informationen für Einleger und die Geschäftsbedingungen aller vier teilnehmenden Vertragspartner akzeptieren: N26 Bank, Raisin, MHB Bank und die der Partnerbank. Klicke hier um mehr über die Vertragspartner zu erfahren. Du erhältst alle relevanten Dokumente zusätzlich per Email, nimm dir aber bitte die Zeit, alle Unterlagen zu prüfen. Hier die Kurzfassung: Bitte nimm zur Kenntnis, dass N26 lediglich als Vermittler agiert und nicht als Berater. Weder N26 Bank GmbH noch N26 GmbH nehmen eine Bewertung der Eignung oder Angemessenheit in Hinsicht auf deinen Sparplan vor.
+    Sobald du mit allem zufrieden bist, kannst du dein Sparkonto eröffnen, indem du deinen Transaktionscode eingibst. Du erhältst eine Push-Benachrichtigung mit einer kurzen Zusammenfassung deines Plans. Überprüfe nochmals, dass alles deinen Wünschen entspricht, und tippe dann auf Bestätigen. Das war’s!
+    In einem letzten optionalen Schritt kannst du an dein Zukunfts-Ich einen Brief verfassen, vielleicht darüber was du mit dem gesparten Geld machen möchtest oder eine Erinnerung von heute. Deiner Kreativität sind keine Grenzen gesetzt. Mit der Auszahlung wird dir dieser Brief per E-Mail zurückgeschickt.
+
+Sobald du dein Sparkonto beantragt hast, wird deinem Girokonto der einmalige Betrag belastet. Bitte beachte, dass es bis zu sieben Werktage dauern kann, bis dein Sparkonto eröffnet ist.
+
+Du kannst jederzeit aus der Transaktionsliste nach rechts streichen, um die Details zu deinem Sparkonto einzusehen. Du kannst deinem Sparkonto einen Namen geben, herausfinden in wie vielen Tagen die Rückzahlung erfolgt und den aktuellen Stand der verdienten Zinsen einsehen. Bitte beachte, dass du bis zur Fälligkeit deines Sparplans keinen Zugriff auf das angelegte Geld hast. Festgeld-Sparkonten bedeuteten auch, dass du der kontoführenden Partnerbank die vertragliche Versicherung gibst, dass dein Geld bis zur Fälligkeit zur Verfügung steht. Das ist auch der Grund dafür, dass du von höheren Zinssätzen für dein Sparkonto profitieren kannst.
+
+Abhängig von der ausgewählten Laufzeit deines Sparplans, wirst du dein Geld nach 3 bis 60 Monaten zurückerhalten. Bei Fälligkeit deines Sparplans erhältst du den ursprünglichen Einzahlungsbetrag plus die angelaufenen Zinsen innerhalb von zwei Tagen auf dein N26 Konto. Sofern zutreffend (abhängig von der Partnerbank), wird die Kapitalertragssteuer vom Gesamtbetrag abgezogen.
+
+Das europäische Recht verpflichtet alle Mitgliedsstaaten dazu, für eine gesetzliche Absicherung von einem Betrag bis zu 100.000 € pro Person pro Bank zu sorgen, um deine Einlagen im Falle von wirtschaftlichen Schwierigkeiten zu schützen. Einlagen in anderen nicht-Euroländern unterliegen dem Wechselkursrisiko, das im direkten Vergleich zur Absicherung im europäischen Inland steht. Die nationalen Finanzbehörden legen eine Absicherung über einen Festbetrag in der vorherrschenden Währung innerhalb der Gesetzgebung fest, die in der Regel in einem 1-3-jährigen Interval aktualisiert wird. Sollte die lokale Währung während dieses Zeitraums abfallen, könnte ebenso die Einlagensicherung unter den Betrag von 100.000 € fallen. Aus diesem Grund richten wir eine zusätzliche Obergrenze für Sparkonten bei Banken ein, die nicht in Euroländern ansässig sind. Sämtliche Limits sind entsprechend in der N26 App während der Eröffnung eines Sparkontos ersichtlich.
+###

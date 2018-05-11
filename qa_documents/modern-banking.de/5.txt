@@ -1,0 +1,79 @@
+###
+Was ist ein Depot?
+In einem Depot werden Wertpapiere durch Kreditinstitute aufbewahrt und verwaltet. Depotsammelstellen verwahren Wertpapiere i. d. R. in einem Depot bei einer Bank nicht gegenständlich, sondern es wird nur das Eigentum an Wertpapieren verzeichnet.
+###
+Welche Vorteile hat ein Depot bei Direktbrokern?
+Die hohen Transaktionskosten für Filialkunden von meist 1,00% der Ordersumme rechtfertigen die Banken mit aufwendiger Beratung bei der Auswahl passender Anlagen. Aber nicht jeder Anleger möchte diese Beratung in Anspruch nehmen. Wer sich lieber selbst informiert, kann beim Direct Brokerage zu wesentlich günstigeren Konditionen Wertpapiere handeln. Das Leistungsangebot der Online-Broker ist umfassend. Aktuelle News zu Börsenwerten, Charts, Communitys, Watchlists u. Testdepots ergänzen das umfangreiche Orderangebot an in- und ausländischen Wertpapieren. Fast alle Online-Broker bieten darüber hinaus Fonds zu deutlich reduzierten Ausgabeaufschlägen an. Bei einer Anlagesumme von EUR 20.000 spart man im Schnitt 2,50%, das sind EUR 500,00 an Kaufgebühren.
+###
+Was ist das Verrechnungskonto?
+Über das Verrechnungskonto werden die Wertpapiergeschäfte (Gutschriften und Belastungen aus Wertpapierkäufen und -verkäufen) abgerechnet. Es bietet auch die Möglichkeit, Überweisungen vom Verrechnungskonto auf das Referenzkonto zu tätigen und umgekehrt. Darüber hinaus verzinsen die Anbieter i. d. R. das Guthaben.
+###
+Was ist ein Referenzkonto?
+Für das Verrechnungskonto legt man immer auch ein Referenzkonto fest. Das Referenzkonto ist ein auf den eigenen Namen lautendes Girokonto bei einer beliebigen Bank, das zur Zahlungsabwicklung (Einzahlungen, Rücküberweisungen) dient. Die Nutzung des Referenzkontos dient der Sicherheit, da Rücküberweisungen nur auf dieses Konto erfolgen. Zur Änderung des Auszahlungskontos ist i. d. R. ein schriftlicher Auftrag nötig.
+###
+Welche Möglichkeiten der Auftragserteilung gibt es?
+Aufträge können i. d. R. über das Internet und per Telefon platziert werden. Für Wertpapier-Aufträge über Telefon werden meist höhere Gebühren berechnet.
+###
+Wie funktioniert Mobile Brokerage?
+Beim Mobile Brokerage nutzt der Kunde ein mobiles Endgerät wie Smartphone, PDA oder Tablet-PC, um Depotbestände abzufragen oder Wertpapierorders durchzuführen. Ergänzende Funktionalitäten sind beispielsweise Börseninfos, Charts und Watch-Listen. Per Watch-List kann man sich ein Wertpapierdepot zusammenstellen und wird so per SMS oder E-Mail zeitnah über wichtige Kursentwicklungen informiert.
+Die Anwendungen können meist über den Webbrowser von mobilen Endgeräten genutzt werden. Dabei unterscheidet sich Mobile Brokerage kaum noch von Brokerage über den PC. Die Darstellung passt sich automatisch der Größe des Displays an und viele Funktionen stehen auch unterwegs zur Verfügung. Um sich beim Mobile Brokerage über den Webbrowser einzuloggen, muss man lediglich über die zum Online-Brokerage notwendigen Zugangsdaten verfügen. Wegen der starken Marktstellung von Apple haben mehrere Banken zunächst Applikationen (Apps) speziell für iPhone und iPad entwickelt. Für Geräte mit anderen Betriebssystemen wie Android stehen mittlerweile aber ebenso zahlreiche Apps zur Verfügung. Die Apps sind meist nicht webbasierend, sondern eine Software zum Download.
+###
+Was ist ein Musterdepot?
+Das Musterdepot ist ein virtuelles Depot. Es ist ideal, um sich mit der Börse vertraut zu machen und um bestimmte Wertpapiere zu beobachten. Auch Nichtkunden haben die Möglichkeit, kostenlos ein Musterdepot einzurichten.
+###
+Wie setzen sich die Kosten für eine Wertpapier-Order zusammen?
+Die Kosten für eine Wertpapier-Order setzen sich aus den Gebühren des Online-Brokers und von Dritten berechneten Auslagen/fremden Kosten zusammen.
+Welche Gebühren für eine Online-Order über Xetra Frankfurt bei den Online-Brokern anfallen, geben wir im Vergleich unter "Gebührberechnung" an. Zu beachten ist dabei, dass einige Anbieter eine Mindest- bzw. Höchstprovision festsetzen. Hinzu kommen eventuell zusätzliche Gebühren für Limits, Eintragungen ins Aktienbuch bei Namensaktien oder bei Teilausführungen der Order.
+Unter von Dritten berechnete Auslagen/fremde Kosten fallen an deutschen Parkettbörsen die Maklercourtage, eventuelle Schlussnotengebühren und sonstige Börsenspesen. Beim elektronischen Handel über Xetra Frankfurt wird keine Maklercourtage berechnet.
+###
+Was ist eine Limit-Order?
+Mit einer limitierten Order legt man bei einem Kauf die Preisobergrenze fest, zu der man Wertpapiere erwerben möchte. Während bei einem Verkauf der Mindestkurs bestimmt wird, den man erzielen möchte. Die Order kann nur ausgeführt werden, wenn zu diesem Preis oder darunter (Kauf) bzw. darüber (Verkauf) eine Nachfrage besteht. Die Limit-Order ist für einen wählbaren Zeitraum gültig. Es gibt diverse Zusätze, die die Weisung des Auftraggebers näher bestimmen können.
+###
+Was ist die Maklercourtage?
+Die Maklercourtage ist eine Gebühr, die der Makler für Vermittlung von Angebot und Nachfrage erhält. Die Höhe dieser Courtage ist abhängig von der Ordergröße und dem gehandelten Wertpapier. Sie wird in Promille des Kurswertes bei Aktien, Fonds sowie Anlage- und Hebelprodukten bzw. in Promille des Nennwertes bei einigen festverzinslichen Wertpapieren angegeben. Die Courtage beträgt z. B. bei Aktien für DAX-Werte 0,04%, für Nicht-DAX-Werte 0,08% vom Kurswert, mindestens jedoch EUR 0,75. Maklercourtage fällt an den deutschen Parkettbörsen an, nicht jedoch beim Handel über Xetra Frankfurt.
+###
+Was ist die Börsenplatzgebühr?
+Neben der Maklercourtage fallen bei einigen Instituten "börsenplatzabhängige Entgelte" an. So berechnet die comdirect bei einer Order über Xetra: 0,0015% vom Ordervolumen, mindestens EUR 1,50. Bei allen anderen deutschen Börsen: 0,0025%, mindestens EUR 2,50.
+###
+Wo können Neuemissionen gezeichnet werden?
+Die Chance, bei der Zuteilung berücksichtigt zu werden, ist erheblich größer, wenn der Broker oder ein Partnerunternehmen des Brokers im Konsortium vertreten sind. comdirect, DAB Bank, maxblue, S Broker und Postbank sind hier im Vorteil, da sie Gründungen von Banken sind, die häufig Börsengänge begleiten.
+###
+Wo können Fonds preisgünstig erworben werden?
+Neben dem Bezug über Online-Broker oder Online-Fondsvermittler zu häufig reduzierten Ausgabeaufschlägen besteht die Möglichkeit, Fonds über die Fondsbörsen Berlin, Düsseldorf, Frankfurt (Xetra), Hamburg-Hannover, München und Stuttgart zu ordern. Während der gesamten Börsenzeit werden regelmäßig Geld- und Briefkurse zu den gehandelten Investmentfonds gestellt, ein Ausgabeaufschlag fällt nicht an. Die Order-Erteilung funktioniert wie bei anderen Wertpapieren, es besteht die Möglichkeit zur Limitierung und Befristung der Fondsorder. In Abhängigkeit von der Anlagesumme, der Geld- und Briefspanne und dem Provisionsmodell des Online-Brokers (über den der Handel ausgeführt wird) kann der Fondserwerb über die Fondsbörsen wesentlich günstiger sein.
+###
+Was ist der Vorteil eines Fonds-Sparplans?
+Die Einrichtung eines Fonds-Sparplans mit einer festgelegten Sparrate führt zu einer überdurchschnittlichen Rendite, da bei sinkenden Anteilswerten mehr und bei höheren Anteilswerten weniger Anteile erworben werden (Cost-Average-Effekt).
+###
+Benötige ich für einen Fonds-Sparplan ein zusätzliches Depot?
+Über einen Fonds-Sparplan können regelmäßig Anteile von einem bestimmten Investmentfonds gekauft werden. Viele der Fonds sind sparplanfähig. In den meisten Fällen kann ein Fonds-Sparplan in dem gleichen Wertpapierdepot eingerichtet werden, in dem z. B. auch Ihre Aktien geführt werden.
+###
+Welche Anbieter bieten Sparpläne auf ETFs und Zertifikate an?
+Nur wenige Anbieter bieten solche Sparpläne an. Mit comdirect, Consorsbank, DAB Bank, maxblue, Postbank und S Broker ermöglichen dies zumindest die großen Online-Broker. Dabei sind die Preise hier auf den ersten Blick gering, liegen die Mindestgebühren doch im einstelligen Euro-Bereich. Doch bei prozentualer Betrachtung stellt man fest, dass z. B. maxblue für die Ausführung eines Sparplans über EUR 50,00 5,4% der Rate an Gebühren berechnet (Gebührberechnung: EUR 2,50 pro Transaktion + 0,40% vom Kurswert). Geringe Sparraten würden sich in diesem Fall für den Anleger nicht lohnen.
+Bei Aktien-Sparplänen scheint sich die Sache nicht mal für die Banken zu lohnen. Denn nur ganze drei Banken machen hier ein Angebot: Consorsbank, DAB Bank und Volkswagen Bank.
+###
+Was geschieht, wenn ein Online-Broker insolvent wird?
+Wertpapiere von Kunden werden bei der Bank gesondert von den eigenen Beständen verwahrt. Das Sondervermögen haftet nicht für Verbindlichkeiten der Bank. Die Wertpapieranteile verbleiben im Besitz des Anlegers, die Bank übernimmt lediglich die Verwaltung. Im Falle einer Insolvenz kann bei der depotführenden Bank die Herausgabe der Anteile in Form eines Wertpapierübertrages gefordert werden.
+Guthaben auf Konten fallen unter die Einlagensicherung. Informationen zur individuellen Einlagensicherung können den Anbieterinformationen entnommen werden. Diese finden Sie in den Vergleichen jeweils über die Anbietergrafik.
+###
+Wie werden die Kapitalerträge besteuert?
+Zur Besteuerung von Zins- und Aktienanlagen durch die Abgeltungssteuer finden Sie hier einen ausführlichen Artikel.
+###
+Wie kann ein Depot eröffnet werden?
+Ein Depot kann online über die Internetseite des Anbieters eröffnet werden, die Informationsunterlagen mit einem Depotantrag können in vielen Fällen alternativ auch per Post zugeschickt werden.
+###
+Können auch Depots für Minderjährige eröffnet werden?
+Die meisten Direct Broker bieten Depots auch für Minderjährige an. In den Vergleichsübersichten ist dieser Punkt enthalten. Die gesetzlichen Vertreter haben bis zur Vollendung des 18. Lebensjahres des Kindes die alleinige Verfügungsgewalt über das Depot. Erst mit der Volljährigkeit kann das Kind entscheiden, was mit dem Geld passieren soll. Der Gesetzgeber schreibt außerdem vor, dass riskante Geschäfte, die das Vermögen von Kindern gefährden, nicht erlaubt sind. Daher ist der Handel von Optionsscheinen sowie die Beantragung eines Effektenkredites nicht möglich.
+###
+Wozu dient der Analysebogen?
+Das Wertpapieraufsichtsgesetz schreibt vor, dass Banken für Wertpapiergeschäfte mit Kunden detaillierte Angaben über deren finanziellen Status und die bisherigen Anlageerfahrungen einholen müssen. Der sogenannte Analysebogen dient dem Schutz beider Seiten. Der Kunde gibt darin Auskunft, in welchem Rahmen er bisher Wertpapiergeschäfte getätigt hat und welches Risiko er bereit ist einzugehen. Die Angaben sind Grundlage für eine fundierte Beratung. Die Bank darf einem Anleger, der konservativ anlegen möchte, beispielsweise kein risikobehaftetes Wertpapier empfehlen bzw. muss ihn ausdrücklich auf die Risiken hinweisen. Bei Online-Brokern handeln die Kunden eigenverantwortlich und verzichten auf Beratung, dennoch ist auch hier der Analysebogen notwendig. Das handelbare Wertpapierangebot ist aufgrund der Vorgaben eingeschränkt.
+###
+Wie erfolgt ein Depotübertrag?
+Der Auftrag wird mit einem Formular zum Depotübertrag gegeben. Das Formular liegt den Informationsunterlagen des Online-Brokers bei oder kann auch von dessen Internetseite heruntergeladen werden. Dieses wird vollständig ausgefüllt und unterschrieben an die bisherige Depotbank geschickt. Die bisherige Depotbank berechnet i. d. R. für den Übertrag Gebühren, bei gleichzeitiger Depotauflösung ist eine Gebühr für den Depotwechsel innerhalb Deutschlands jedoch unzulässig. Kosten können aber entstehen, wenn Wertpapiere nicht über Clearstream verwahrt werden oder im Ausland deponiert sind. Erfahrungsgemäß dauert ein Wertpapierübertrag etwa ein bis drei Wochen.
+###
+Ist ein Depotübertrag mit steuerlichen Nachteilen verbunden?
+Wenn Sie Wertpapiere oder das gesamte Wertpapierdepot übertragen und die Papiere dabei in Ihrem Besitz bleiben, drohen keine Nachteile. Unter inländischen Banken werden nämlich auch die Anschaffungsdaten der Wertpapiere übermittelt. Komplizierter wird es, wenn das aufnehmende Depot nicht auf den gleichen Inhaber lautet - sondern beispielsweise auf den Ehepartner, gemeinsam mit diesem oder gar von einem Dritten geführt wird. Der Übertrag wird dann dem Finanzamt gemeldet. Unter Eheleuten wird der Übertrag nicht als Verkauf gewertet. Der Übertrag auf einen Dritten wird steuerlich nur dann nicht als Verkauf behandelt, wenn er eindeutig als Schenkung deklariert ist. Bei einer Wertung als Verkauf sind eventuelle Kursgewinne von Papieren, die ab 2009 gekauft wurden, zu versteuern und steuerfreie Altbestände wandeln sich im Depot des neuen Besitzers zu Neuanschaffungen.
+Wenn die Wertpapiere auf ein eigenes Depot übertragen werden, können auch der Verlustverrechnungstopf für die Abgeltungssteuer und der Verrechnungstopf für ausländische Quellensteuer mitgenommen werden. Dafür ist der Bank ausdrücklich der Auftrag zu erteilen.
+###
+Können Produktdaten einzelner Brokerage-Angebote ausgedruckt werden?
+Hierzu haben wir ein für den Druck optimiertes Format ohne grafische Elemente entwickelt. Die gewünschten Produktdaten können im 1-zu-1-Vergleich aufgerufen werden. Über das Druckersymbol unterhalb der aufgerufenen Daten wechselt man zum Druck-Format und kann anschließend über die Druck-Funktion des Browsers ausdrucken.
+###

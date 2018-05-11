@@ -1,0 +1,74 @@
+###
+Was ist KUNO?
+KUNO ist die Abkürzung für "Kriminalitätsbekämpfung im unbaren Zahlungsverkehr unter Nutzung nichtpolizeilicher Organisationsstrukturen" und stellt ein simples aber wirkungsvolles Sperrsystem dar, welches von Polizeibehörden und Wirtschaft entwickelt wurde, um Zahlungen per Debitkarte im elektronischen Lastschriftverfahren - also mit Unterschrift - sicherer zu gestalten.
+Hierzu melden die Polizeibehörden des Bundes und der Länder relevante Kontoinformationen polizeilich angezeigter Kartendiebstähle/-verluste an eine zentrale Meldestelle, von der aus Betreiber des EC-Lastschriftverfahrens zeitnah vor der Akzeptanz der gemeldeten Karten gewarnt werden.
+###
+
+
+Was muss ich tun, um meine Girokarte über KUNO sperren zu lassen?
+Da KUNO ein Bürgerservice der Polizei ist, kann eine KUNO-Sperrung ausschließlich dort veranlasst werden. Sollte Ihre Girocard (ehemals ec-Karte) abhandengekommen sein, suchen Sie daher bitte die örtliche Polizeidienststelle auf. Dort wird nicht nur eine Anzeige, sondern auf Ihren Wunsch hin auch eine KUNO-Meldung erfasst. Hierzu werden Ihre Kontodaten (Kontonummer, BLZ und – wenn bekannt – Kartenfolgenummer) aufgenommen und an die zentrale Sperrdatei beim EHI übermittelt. Von dort aus werden die Daten an die an KUNO angeschlossenen Handelsunternehmen weitergegeben, sodass diese Zahlungen mit den gemeldeten Karten anschließend ablehnen können.
+
+Sofern Sie im Rahmen der KUNO-Meldung bei der Polizei keine Kartenfolgenummer angeben konnten, werden die o.g. Unternehmen zunächst einmal alle Girocards, die Ihrem Konto angeschlossen sind, von Zahlungen ausschließen. Diese Sperrung ist jedoch zeitlich befristet und erlischt, sollten Sie keine Kartenfolgenummer nachmelden. Erst bei (Nach-)Meldung der Kartenfolgenummer bezieht sich die KUNO-Sperrung ausschließlich auf die gestohlene/verlorene Karte und ist unbefristet gültig. Der Einsatz weiterer Karten des Girokontos – inklusive neu ausgegebener Karten – ist dann ohne Einschränkung möglich.
+###
+
+Was ist eine Kartenfolgenummer und wo finde ich diese?
+Da zu einem Girokonto mehrere Karten ausgestellt werden können (beispielsweise zur Nutzung des gleichen Kontos durch Ehepartner), wird für jede der Karten eine einstellige Nummer vergeben. Zahlungen können so den unterschiedlichen Karten zugeordnet werden. Damit nur Ihre verlorene/gestohlene Girocard gesperrt ist, ist es erforderlich, dass Sie die Kartenfolgenummer bei der KUNO-Meldung mit angeben, oder später nachmelden.
+Die Kartenfolgenummer ist allerdings nicht auf Ihrer Karte angegeben und kann daher nicht einfach abgelesen werden. Hinweise auf die Kartenfolgenummer finden Sie stattdessen zum Beispiel auf Kontoauszügen oder Kassenbelegen (siehe Foto). Selbstverständlich kann ihnen auch Ihr Bank oder Sparkasse Auskunft über die Kartenfolgenummer erteilen.
+###
+
+
+Wie melde ich die Kartenfolgenummer nach?
+Nachdem Sie im Rahmen der Anzeigenerstattung bei der Polizei einer Übermittlung Ihrer Bank- und Kontodaten an die zentrale KUNO-Meldestelle zugestimmt haben, erhalten Sie von der Polizei das so genannte "KUNO Merkblatt". Auf diesem sind relevante Informationen zur Nachmeldung vermerkt – beispielsweise Hinweise zur Nachmeldefrist und die für die Nachmeldung erforderliche Sperrbestätigungsnummer.
+Die Nachmeldung selbst können Sie entweder selbstständig hier bei uns auf der Website vornehmen, oder über unser Call Center veranlassen (Tel.: 0800 – 10 444 03; werktags 9-16h; kostenlos aus dem dt. Fest- und Mobilfunknetz).
+Bitte halten Sie in beiden Fällen Kontonummer, Bankleitzahl, Kartenfolgenummer und Sperrbestätigungsnummer bereit.
+###
+
+Was ist eine Sperrbestätigungsnummer?
+Die Sperrbestätigungsnummer ist eine fünfstellige, persönliche Ziffernfolge, die Sie im Rahmen der KUNO-Meldung bei der Polizei erhalten. Durch die Nummer können Sie sich anschließend auch hier auf der Website oder bei einem Anruf im Call Center als rechtmäßiger Kontobesitzer authentifizieren. Um auszuschließen, dass unberechtigte Dritte auf Ihre Daten zugreifen (also beispielsweise der Finder Ihrer Karte die Sperrung aufhebt), ist die Angabe der Sperrbestätigungsnummer unbedingt erforderlich um Ihre Daten einzusehen oder Änderungen vorzunehmen. Sollte Ihnen die Nummer nicht bekannt sein, wenden Sie sich bitte an Ihre Polizeidienststelle.
+
+###
+
+Muss ich den Verlust meiner Girocard auch meiner Bank/Sparkasse melden?
+Ja! Melden Sie den Kartenverlust umgehend Ihrer kontoführenden Bank oder Sparkasse. Ein schneller Weg führt hier über den Sperr-Notruf 116 116.
+
+Da eine missbräuchliche Nutzung Ihrer Girocard nicht vollständig ausgeschlossen werden kann, kontrollieren Sie bitte auch Ihre Kontoauszüge. Sollten sie dort Zahlungen bemerken, die Sie nicht getätigt haben melden Sie dies bitte Ihrem Kreditinstitut.
+
+###
+
+
+Warum sind mehrere Sperrmeldungen notwendig?
+In Deutschland existieren zwei unterschiedliche Zahlungsverfahren, die bei der Zahlung mit Girocard (ehemals EC-Karte) zum Einsatz kommen können. Zum einen die Zahlung mit PIN-Eingabe (Girocard-, ehemals ec-Cash-Verfahren) und zum anderen die Zahlung mit Unterschrift (elektronisches Lastschriftverfahren). Während ec-Cash das offizielle Verfahren der deutschen Kreditwirtschaft darstellt und die Nutzung für Händler mit entsprechenden Gebühren verbunden ist, wurde das ELV-Verfahren als kostengünstige und von der Kreditwirtschaft unabhängige Alternative von deutschen Handels- und Dienstleistungsunternehmen entwickelt.
+Banken und Sparkassen machen dem Einzelhandel seit 2006 Informationen über gesperrte Karten jedoch nur noch bei Nutzung des PIN-basierten Girocard-Verfahrens zugänglich. Das wesentlich stärker verbreitete und bei Kunden beliebte Lastschriftverfahren ist seitdem von dieser Seite weitgehend ungeschützt. KUNO schließt diese Sicherheitslücke, um Kunden des Einzelhandels weiterhin eine bequeme und schnelle Möglichkeit des Bezahlens bieten zu können. Da KUNO somit als zusätzlicher, von Banken und Sparkassen unabhängiger Bürgerservice der Polizei angeboten wird, ist der Gang zur örtlichen Polizeibehörde unerlässlich, um eine Sperrung zu veranlassen.
+###
+
+
+Entstehen mir für die Nutzung von KUNO Kosten?
+Nein. Für Sie als Kontoinhaber ist die Nutzung von KUNO kostenfrei.
+###
+
+
+Sind Daueraufträge und mein Online-Banking von einer KUNO-Sperre betroffen?
+Nein. Über KUNO wird lediglich die physische Karte gesperrt. Daueraufträge und Einzugsermächtigungen bleiben von der Sperre unberührt. Und auch Ihr Online-Banking können Sie weiterhin wie gewohnt nutzen.
+###
+
+
+Meine Girocard wurde der KUNO-Plattform gemeldet, trotzdem wurde von meinem Konto abgebucht – warum und was nun?
+Zahlungen mit Ihrer verlorenen oder gestohlenen Girocard können nur dann von den an KUNO angeschlossenen (Handels-) Unternehmen abgelehnt werden, wenn sowohl die Kontodaten als auch die Kartenfolgenummer der gestohlenen/verlorenen Karte korrekt in der Sperrdatei hinterlegt sind.
+Sollte es trotz KUNO-Meldung zu Abbuchungen von Ihrem Konto gekommen sein, überprüfen Sie bitte (am besten durch Anmeldung hier auf der Website), ob die hinterlegten Daten korrekt sind und ob Sie innerhalb der vorgegeben First die entsprechende Kartenfolgenummer nachgemeldet haben.
+
+Grundsätzlich kann eine missbräuchliche Nutzung ihrer Girocard nicht vollständig ausgeschlossen werden. Sollten von unbefugten Dritten tatsächlich Zahlungen mit Ihrer Karte getätigt werden, melden Sie dies bitte umgehend Ihrer Bank oder Sparkasse.
+###
+
+Meine Karte ist wieder aufgetaucht – was nun?
+Wenn Ihre über KUNO gesperrte Karte wieder auftaucht, können Sie diese wieder entsperren lassen. Da die KUNO-Sperrung an eine Anzeige gebunden ist, die ansonsten weiter verfolgt würde, ist es wichtig, dass auch die Polizei über das Wiederauftauchen der Karte informiert wird. In den meisten Bundesländern ist es daher auf Wunsch der Polizei notwendig, noch einmal die örtliche Polizeiwache aufzusuchen, um dort die Löschung der KUNO-Sperrung zu beantragen. In einigen Bundesländern ist es jedoch auch möglich, dass Sie die Löschung selber durchführen. Wenn diese Möglichkeit in Ihrem Bundesland besteht, wird Ihnen nach der Anmeldung hier auf der Website der Menüpunkt „Ich möchte diese Sperrmeldung löschen“ angeboten.
+###
+
+
+Wer erhält meine Daten?
+Ihre Kontodaten werden zur Sperrung an diejenigen (Handels-) Unternehmen weitergeleitet, die sich dem KUNO-Sperrdienst angeschlossenen haben. Wir weisen Sie ausdrücklich darauf hin, dass nicht alle Unternehmen an diesem System teilnehmen und eine missbräuchliche Nutzung Ihrer Girocard somit nicht vollständig ausgeschlossen werden kann.
+###
+
+
+Was wird zum Schutze meiner Daten getan?
+Die Kommunikation zwischen der Polizei und der KUNO-Plattform sowie zwischen der KUNO-Plattform und den angeschlossenen Händlern verläuft signiert und verschlüsselt.
+###

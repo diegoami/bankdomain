@@ -1,0 +1,215 @@
+###
+Fair-Use Policy: Wie oft du kostenlos Geld abheben kannst
+
+(Gilt nur bei ursprünglicher Versandadresse in Deutschland)
+
+In Deutschland betragen die Transaktionsgebühren pro Bargeldabhebung bis zu 2 €. Wenn du bei Kontoeröffnung eine Versandadresse in Deutschland hattest und dein N26 Konto als Hauptkonto führst, übernehmen wir diese Kosten gemäß unserer Fair-Use Policy bis zu 5mal im Monat. Darüber hinaus kannst du bei 6.000 teilnehmenden Geschäften des CASH26-Netzwerkes kostenfrei und unbegrenzt Bargeld abheben.
+
+Dein N26 Konto gilt als Hauptkonto, wenn du regelmäßig dein Gehalt, deine Rente, dein Bafög oder deine Sozialleistungen auf deinem N26 Konto in einem Umfang von mindestens 1.000 € pro Monat erhältst. Bei Nutzern unter 26 Jahren übernehmen wir so oder so die Gebühren für bis zu 5 Abhebungen pro Monat.
+
+Wenn du N26 als dein Zweitkonto verwendest, kannst du bis zu 3 mal pro Monat kostenfrei Bargeld an deutschen Geldautomaten abheben. Zudem erhält jeder neue Kunde 5 kostenlose Abhebungen während der ersten drei Monate.
+
+Bitte beachte, dass einige Geldautomatenbetreiber zusätzliche Gebühren zur Transaktionsgebühr erheben, die wir weder beeinflussen noch ersetzen können.
+
+Um die Zahl deiner Bargeldabhebungen einzuschränken, solltest du so oft wie möglich mit deiner Mastercard bezahlen und weniger häufig, dafür größere Beträge abheben.
+
+Informationen zur Fair Use Policy für den Rest Europas gibt es hier.
+###
+Stammdaten: Wie du deine Daten ändern kannst
+
+Deine persönlichen Daten stehen in direktem Zusammenhang mit den technischen und persönlichen Services deines N26 Kontos. Darum ist es wichtig, dass du diese Daten immer aktuell hältst.
+
+Deine Versandadresse, dein Passwort sowie deine Steuerinformationen kannst du jederzeit allein in der N26 App im Control Center ⚙ unter dem Menüpunkt “Konto” ändern.
+
+Änderungen deiner Telefonnummer oder deiner E-Mail-Adresse können wir nur gemeinsam vornehmen. Bitte melde dich dazu bitte am besten via Chat bei unserem Customer Service.
+
+Den bei uns hinterlegten Namen kannst du nur schriftlich und unter Vorlage einer Bestätigung der Namensänderung ändern - etwa durch eine Heiratsurkunde sowie zusätzlich durch eine Kopie deines neuen Personalausweises oder Reisepasses.
+
+Auch wenn sich deine Nationalität geändert hat, schicke uns bitte eine Kopie deines neuen Personalausweises oder Reisepasses.
+
+Und wenn sich dein Geschlecht geändert hat, schicke uns bitte zusätzlich zu einer Kopie deines neuen Personalausweises oder Reisepasses eine Kopie deiner geänderten Geburtsurkunde.
+
+Wo immer der schriftliche Weg notwendig ist, können wir deine Anfrage am schnellsten via E-Mail bearbeiten. Die Kopien der erforderlichen Dokumente kannst du uns dann einfach als Anhang an support@n26.com schicken. Du erreichst uns aber auch postalisch (Klosterstraße 62, 10179 Berlin) oder per Fax (+49 30 364285082).
+
+###
+Flexibilität: Wie du einen N26 Dispokredit bekommst
+
+(Gilt nur für Deutschland und Österreich)
+
+Einen Dispokredit kannst du in den Kontoeinstellungen unter “Dispo” in der N26 App beantragen. Das Ergebnis wird sofort berechnet und angezeigt. Es hängt unter anderem von deinem SCHUFA/CRIF Kredit-Rating sowie der Dauer und Höhe regelmäßiger Geldeingänge auf deinem N26 Konto ab. Wir können es persönlich weder ändern noch aufheben.
+
+Können wir dir momentan keinen Dispo gewähren, schicken wir dir eine E-Mail, sobald du die Voraussetzungen erfüllst. Jede Anfrage wird separat und vorübergehend bei der SCHUFA bzw. CRIF hinterlegt.
+
+Du kannst deinen Dispo zu jeder Zeit wieder kündigen oder im gewährten Rahmen verändern.
+
+Der Zinssatz beträgt 8,9%. Die angefallenen Zinsen werden dir jederzeit in den Kontoeinstellungen deiner N26 App angezeigt. Eine entsprechende Rechnung senden wir dir am Ende jedes Quartals per E-Mail.
+
+Weitere Informationen erhältst du in den Dispo-AGB.
+###
+MoneyBeam: Wie du ohne Bankverbindung Geld überweist
+
+Über MoneyBeam kannst du Geld an deine Telefonbuch-Kontakte senden, ohne deren Bankverbindung zu kennen. Ist der Empfänger ein N26-Kunde, geht das sogar in Echtzeit.
+
+Um einen MoneyBeam auszuführen, logge dich in deiner N26 App ein:
+
+    Klicke auf “+” und wähle MoneyBeam
+    Wähle einen Kontakt aus deinem Telefonbuch; N26 Kontakte sind mit einem blauen Punkt markiert
+    Gib den Betrag und, wenn du willst, eine Nachricht ein
+    Gib deine Überweisungs-PIN ein
+    Bestätige den MoneyBeam aus der empfangenen Push-Nachricht
+
+Ist der Empfänger ebenfalls N26-Kunde, erhält er den Betrag direkt gutgeschrieben*.
+
+Ist er kein N26-Kunde, erhält er als Offline-MoneyBeam einen Link per SMS oder E-Mail, unter dem er seine Bankverbindung angeben kann. Das Geld wird dem Bankkonto dann innerhalb von zwei Bankarbeitstagen gutgeschrieben.
+
+Ruft der Empfänger seinen Offline-MoneyBeam nicht innerhalb von sieben Tagen ab, wird die Transaktion storniert und wieder dem Konto des Senders gutgeschrieben.
+###
+Lastschriften: Wie du das Recht zu Abbuchungen gibst und entziehst
+
+Mit Lastschriften erteilst du einem Leistungsanbieter das Recht, dein Konto mit fälligen Beträgen ohne weitere Rücksprache zu belasten. Du kannst dieses Mandat jederzeit selbst oder durch uns schriftlich wieder entziehen.
+
+Auch wenn eine Lastschrift deiner Auffassung nach fehlerhaft oder unrechtmäßig ausgeführt wurde, kann du den Betrag direkt in deiner N26 App bis zu acht Wochen nach Kontobelastung wieder zurückbuchen lassen. Wähle die Lastschrift in der Übersicht aus und klicke auf die Option ''Rücklastschrift'' am unteren Ende der Zahlungsdetails. Der Betrag wird deinem Konto dann innerhalb von vier Bankwerktagen gutgeschrieben.
+
+Allerdings ist die Zahl der Lastschriften, die so rückgebucht werden können, begrenzt. Sobald du dieses Limit erreicht hast, ist die Option nicht mehr in der App sichtbar. Kontaktiere dann bitte unseren Support via Chat, um eine Lastschrift rückzubuchen.
+
+Sollte eine Lastschrift auf deinem Konto wegen fehlender Deckung zurückgewiesen werden, schaue bitte hier, was du tun kannst.
+###
+Bankverbindung: Wie man dein N26 Konto findet
+
+Sobald wir deine Identität überprüft haben, steht dein N26 Girokonto für dich bereit. Details zu deiner Bankverbindung findest du im Control Center der N26 App oder in der Web App.
+
+Um eine SEPA-Überweisung auf deinem N26 Konto zu erhalten, brauchst du nichts weiter als deine IBAN. Falls aber doch einmal eine Bank zusätzlich nach dem Namen oder der Adresse der Empfängerbank fragt: N26 Bank GmbH, Klosterstraße 62, 10179 Berlin, Deutschland.
+
+###
+Fremdwährungen: Wie du über die SEPA-Grenzen hinaus überweist
+
+Du kannst von deinem N26 Konto nicht nur im SEPA-Raum und in Euro, sondern auch über den SEPA-Raum hinaus in anderen Währungen überweisen - dank unserem Partner TransferWise zu einem Preis, der bis zu sechsmal niedriger ist als bei traditionellen Banken. Die Umrechnung des Kurses erfolgt in Echtzeit.
+
+Zur Zeit unterstützen wir Überweisungen in diesen Fremdwährungen:
+
+    Britisches Pfund (GBP)
+    Schwedische Kronen (SEK)
+    Polnische Zloty (PLN)
+    Schweizer Franken (CHF)
+    Dänische Kronen (DKK)
+    Norwegische Kronen (NOK)
+    U.S. Dollar (USD)
+    Tschechische Kronen (CZK)
+    Chinesischer Yuan (CNY)
+    Indische Rupie (INR)
+    Kanadischer Dollar (CAD)
+    Australischer Dollar (AUD)
+    Neuseeländischer Dollar (NZD)
+    Vereinigte Arabische Emirate Dirham (AED)
+    Ukrainische Hrywnja (UAH)
+    Ungarischer Forint (HUF)
+    Bulgarischer Lew (BGN)
+    Georgischer Lari (GEL)
+    Rumänischer Leu (RON)
+
+Für eine Beschwerde beachte bitte, dass durch den Hauptsitz unseres Partners in London zusätzliche Bedingungen gelten, genauer: die Nutzungsbedingungen für den TransferWise-Service sowie den TransferWise Nutzungsbedingungen für Kunden von Partnern.
+
+Um eine Überweisung in einer Fremdwährung auszuführen, Drücke in der N26 App auf “+” und wähle bei "Überweisung" die gewünschte Zielwährung aus.
+
+Die Gebühren werden dir in der N26 App beim Erstellen der Überweisung angezeigt und bei Auslösung des Auftrages abgezogen. Sie setzen sich aus einer Grundgebühr und einer prozentualen Gebühr zusammen. Eine genaue Aufschlüsselung findest du im Support Center von TransferWise.
+
+###
+N26 Invest: Mit was für Gebühren und Steuern du rechnen musst
+
+(Gilt nur für Deutschland) Für deinen Investment-Plan fällt eine monatliche Gebühr an, die quartalsweise abgerechnet und direkt mit dem Guthaben in deinem Investment-Plan verrechnet wird. Je nach Höhe deiner Gesamteinlagen wird dir entweder eine fixe Gebühr oder eine prozentuale Gebühr berechnet: Durchschnittlicher Wert der Gesamteinlagen | N26 Invest Servicegebühr -----|------ 0 € bis 29.999 €|0,99 % 30.000 € bis 49.999 €|0,79 % 50.000 € und mehr|0,49 % *
+
+*jährlich als % der Gesamteinlagen. Mindestgebühr von 1,90 € pro Monat. Darüber hinaus werden die Betriebskosten der angebotenen Investment-Fonds direkt mit den Einlagen in deinem Investment-Plan verrechnet. Sie richten sich nach der Fonds-Strategie:
+Fonds-Strategie 	Betriebskosten
+Invest 80 	0,44 % p.a.
+Invest 60 	0,40 % p.a.
+Invest 40 	0,36 % p.a.
+
+N26 Invest berechnet weder Performance-, Transaktions- noch Rücknahmegebühren. Ausführliche Informationen zur Berechnung der Gebühren findest du hier.
+
+Ein Investment am Kapitalmarkt kann jedoch zu Kapitalerträgen oder zu Erträgen aus Dividenden einzelner Fonds führen. Erträge, die über dem Freibetrag für Kapitalerträge liegen, sind in Deutschland steuerpflichtig. Zusätzlich zu Kapitalertragsteuern unterliegen Investments dem Solidaritätszuschlag sowie der Kirchensteuer.
+
+Sofern du in Deutschland steuerpflichtig bist, zieht die depotführende Bank automatisch alle anfallenden Steuern von deinen Gesamteinlagen ab - so dass deine möglichen Erträge immer den Netto-Betrag nach Steuern abbilden. Falls du nicht in Deutschland steuerpflichtig bist, erhältst du den Brutto-Betrag deiner Erträge, und du bist selbst verantwortlich, im Land deiner Steuerheimat deine Kapitalertragsteuern anzumelden.
+
+Die depotführende Bank erstellt jedes Jahr im Februar automatisch Steuerbescheinigungen, die du direkt in der N26 App erhältst. Darüber hinaus können wir dir für deine Steuererklärung auch Freistellungsaufträge und Verlustbescheinigungen zur Verfügung stellen.
+###
+N26 Business BETA: Was wir Selbstständigen und Freiberuflern bieten
+
+Das N26 BusinessBETA Konto ist speziell für selbstständige und freiberufliche Nutzer gedacht - nicht für Firmen und andere juristische Personen. Mit diesem Konto kannst du unter deinem Namen sowohl deine geschäftlichen als auch privaten Ausgaben an einem einzigen Ort verwalten.
+
+Wenn du das Konto schon während der Entwicklungsphase (= BETA) ausprobieren möchtest, klicke einfach auf den Button "Girokonto eröffnen" in der oberen rechten Ecke oder starte die Kontoeröffnung in der N26 Mobile App. Beachte allerdings, dass der Wechsel von der Standard N26 Mastercard noch nicht möglich ist.
+
+Mit dem N26 BusinessBETA Konto kannst du Zahlungen deiner Kunden empfangen, geschäftliche Reise- und Materialkosten bezahlen oder die Miete bezahlen. Zudem stehen dir alle Features und Vorteile des N26 Kontos zur Verfügung - mit einer einzigen Ausnahme: Überweisungen in Fremdwährungen sind mit dem N26 BusinessBETA Konto nicht möglich.
+
+Die N26 Business Mastercard ist ausschließlich für die geschäftliche Nutzung konzipiert, ansonsten aber mit denselben Leistungen ausgestattet wie die Standard N26 Mastercard. Zusätzlich erhalten Nutzer vierteljährlich einen Cash-Back-Bonus von 0,1 % auf alle Ausgaben mit der N26 Business Mastercard.
+
+Falls du zusätzlich eine Karte für private Ausgaben benötigst, empfehlen wir dir eine Maestro-Karte (verfügbar in Deutschland, Österreich und den Niederlanden).
+
+Die Eröffnung des N26 BusinessBETA Kontos ist kostenlos. Wie beim N26 Konto übernehmen wir die Gebühren für Bargeldabhebungen im Rahmen unserer Fair-Use Policy und geben Gebühren unserer Partner gegebenenfalls weiter. Wir fügen dem N26 BusinessBETA Konto während der Entwicklung weitere Funktionen hinzu und freuen uns darum über dein Feedback!
+
+###
+N26 Invest: Wer dir dieses Angebot macht
+
+Mit N26 Invest kannst du einfach und unkompliziert deine Investments einrichten und verwalten. Dieses Produkt wird durch die enge Zusammenarbeit von 4 Unternehmen ermöglicht. Um volle Transparenz zu gewährleisten und sicherzustellen, dass du N26 Invest umfassend verstehst, haben wir hier eine Liste all unserer Partner zusammengestellt, inklusive der Leistungen, die diese Partner sowie N26 erbringen.
+N26 Invest Partner
+
+    N26 Bank GmbH (N26) – N26 agiert über die N26-App als Anlagevermittler und leitet deinen Depoteröffnungsantrag und deine Kauf- und Verkaufsaufträge über vaamo an die FFB weiter.
+    Vaamo Finanz AG (vaamo) –vaamo ist unser Technologiepartner und prüft deine Dokumente und Aufträge und leitet diese weiter an die FFB. Zudem hat vaamo initial die Gewichtung der Fonds für die einzelnen Investment-Pläne entwickelt und stellt die Logik hinter der Prognoserechnung zur Verfügung. Es besteht kein direktes Vertragsverhältnis zwischen vaamo und dem Endnutzer. 2013 gegründet, ist vaamo ein führender Anbieter von Online-Investments in Deutschland.
+    FIL Fondsbank GmbH (FFB) – FFB übernimmt die Rolle der depotführenden Bank bei N26 Invest, das bedeutet, dass Endnutzer ein Depot bei der FFB eröffnen und somit in ein direktes Vertragsverhältnis eintreten. In dem von dir eröffneten Depot bei der FFB liegen die dir von der N26 vermittelten Fondsanteile. Zudem führt FFB deine Kauf- und Verkaufsaufträge aus und ist außerdem verantwortlich für das regelmäßige Rebalancing. Bei einem Verkauf von Fondsanteilen überweist die FFB den entsprechenden Betrag auf dein N26 Konto zurück. Quartalsweise verkauft die FFB Fondsanteile für dich und zieht damit die anfallenden Gebühren direkt von deinem Depotbestand ein. FFB ist eine der drei größten depotführenden Banken in Deutschland. Die Gruppe hat mehr als 15 Milliarden Euro unter Management
+    Dimensional Fund Advisors Ltd. (DFA) – DFA ist die Kapitalverwaltungsgesellschaft der Dimensional Fund plc, ein von der Zentralbank Irland genehmigtes Investmentvermögen mit verschiedenen Teilfonds, welche ihrerseits getrennte Rechnungskreise bilden, in die du über die Investment-Pläne bei N26 Invest investierst. Hauptaufgabe von DFA ist die Vermögensverwaltung für eine Vielzahl von Anlegern. Mit mehr als 315 Milliarden Euro unter Management und 33 Jahren Erfahrung ist DFA eine der größten Wealth Management-Firmen der Welt. Zwischen DFA und dem Endnutzer besteht kein direktes vertragliches Verhältnis.
+
+###
+SEPA-Lastschriften: Wie du bei mangelnder Kontodeckung Kosten vermeiden kannst
+
+Wenn eine Lastschrift wegen unzureichender Deckung auf deinem N26 Konto zurückgewiesen wird, entstehen bei uns Bearbeitungskosten, die wir gemäß Preisliste mit einer Gebühr von 3 € pro Zurückweisung an dich weitergeben. Zusätzlich musst du bei einem negativen Kontostand mit Überziehungszinsen von 8,9% rechnen.
+
+Sowohl die Gebühr als auch die Überziehungszinsen kannst du jedoch vermeiden, indem du per MoneyBeam, in Deutschland auch per CASH26 oder über die Beantragung eines Dispo-Kredits dafür sorgst, dass dein N26 Konto bis 18 Uhr desselben Geschäftstages wieder ausreichend gedeckt ist.
+
+Wenn du eine Lastschrift nicht anerkennst und manuell zurückbuchen willst, klicke hier.
+
+###
+Sparen und anlegen: Wie du Steuern zahlst und dich vielleicht davon befreist
+
+Abhängig vom Land, in dem die kontoführende Partnerbank ansässig ist, ist diese gesetzliche dazu verpflichtet, Steuern abzuführen (z.B. Kapitalertragssteuer, Sozialabgaben) und die entsprechenden Beträge direkt zu den zuständigen Finanzbehörden zu übermitteln. Aktuell trifft dieser Umstand nur auf Partnerbanken in Deutschland zu und nur dann, wenn du selbst in Deutschland steuerpflichtig bist. Alle benötigten steuerlichen Informationen werden von den Partnerbanken zur Verfügung gestellt und können unter den Dokumenten deines Savings-Dashboards in der N26 App gefunden werden.
+
+Wenn du mit N26 Fixed Savings ein Sparkonto eröffnest, kannst du einen Antrag stellen, um von Kapitalsteuern und Kirchensteuern befreit zu werden. Wenn du eine Befreiung beantragen möchtest, öffne bitte deine N26-App und streiche mit dem Finger zum Tab „Savings“. Die erforderlichen Dokumente findest du im Abschnitt Dokumente. Sende uns das ausgefüllte Dokument in einer E-Mail zu. Wir werden deine Anfrage an die entsprechende Partnerbank weiterleiten, welche dann prüfen wird, ob du berechtigt für eine Steuerbefreiung bist. Bitte beachte, dass weder N26 Bank GmbH, noch N26 GmbH Einfluss auf diese Entscheidung haben.
+
+Ein Investment am Kapitalmarkt kann zu Kapitalerträgen oder zu Erträgen aus Dividenden einzelner Fonds führen. Erträge, die über dem Freibetrag für Kapitalerträge liegen, sind in Deutschland steuerpflichtig. Zusätzlich zu Kapitalertragsteuern unterliegen Investments dem Solidaritätszuschlag sowie der Kirchensteuer.
+
+Die depotführende Bank zieht automatisch alle anfallenden Steuern von deinen Gesamteinlagen ab, sofern du in Deutschland steuerpflichtig bist. Das bedeutet, dass die möglichen Erträge auf dein Investment immer den Netto-Betrag nach Steuern abbilden. Falls du nicht in Deutschland steuerpflichtig bist, erhältst du den Brutto-Betrag deiner Erträge, und du bist selbst verantwortlich, im Land deiner Steuerheimat deine Kapitalertragsteuern anzumelden.
+
+Die depotführende Bank erstellt jedes Jahr im Februar automatisch Steuerbescheinigungen für dich, die du direkt in der N26 App erhältst. Falls du weitere Unterlagen für deine Steuererklärung benötigst, können wir dir folgende Dokumente zur Verfügung stellen:
+
+    Freistellungsauftrag für N26 Invest
+    Verlustbescheinigung
+
+Auch in diesem Fall können weder N26 Bank GmbH, noch N26 GmbH Einfluss auf die Entscheidung nehmen.
+
+###
+SEPA-Überweisungen: Woran es liegen kann, wenn Überweisungen nicht ankommen
+
+Jeder, der dir über SEPA Geld auf dein N26 Konto überweisen möchte, braucht deine Bankverbindung, das heißt deinen vollständigen Namen - wie auf deinem Ausweis - sowie deine IBAN.
+
+Du findest die Bankverbindung auf deinen Kontoauszügen, auf der Rückseite deiner N26 Mastercard sowie im Control Center deiner N26 App. Von hier aus kannst du sie auch teilen, indem du oben auf das entsprechende Symbol klickst, die Angaben in die Zwischenablage kopierst und per E-Mail oder Textnachricht weiterleitest.
+
+Falls dein Name vom Namen im Überweisungsauftrag abweicht, die IBAN nicht stimmt oder ein falscher Verwendungszweck erkennbar ist, sind Banken verpflichtet, die Gutschrift abzuweisen oder weitere Informationen über den wirtschaftlichen Hintergrund einzuholen. Das kann dazu führen, dass die Gutschrift sich verspätet oder gar nicht stattfindet.
+
+Falls du ein N26 Business BETA Konto nutzt, das ausschließlich Freiberuflern und Selbständigen zur Verfügung steht, solltest du darauf achten, dass die SEPA-Überweisung dich als Empfänger aufführt. Sollte hier der Name eines Unternehmens eingetragen sein, müssen wir sie zurückweisen.
+
+Informationen zum regulären Zeitablauf von Transaktionen findest du außerdem hier.
+
+###
+Sicherheit: Wie du deine Überweisungs-PIN festlegst und änderst
+
+Für Überweisungen, MoneyBeams, Daueraufträge und CASH26 brauchst du eine Überweisungs-PIN. Diese vierstellige Zahl kannst du selbst festlegen. Wir fordern dich dazu auf, sobald du dein Smartphone mit deinem Konto verknüpft hast.
+
+Aus Sicherheitsgründen akzeptieren wir keine PINs, die Elemente deines Geburtsdatums oder deiner Adresse, Zahlenwiederholungen wie 1111, 111, 11 oder auch Zahlenfolgen wie 1234 und 4321 enthalten. Falls die von dir gewählte Nummer abgewiesen wird, versuche bitte eine andere Kombination. Du kannst aber dieselbe Nummer für deinen Überweisungs-PIN und für deine Karten verwenden.
+
+Du kannst die Überweisungs-PIN außerdem jederzeit ändern. Gehe dazu in die Kontoeinstellungen im Control Center deiner N26 App oder in die Einstellungen deines Online Bankings:
+
+    Wähle “Überweisung-PIN ändern”
+    Trage den Token, d.h. die 10-stellige Nummer deiner Mastercard ein
+    Wähle und bestätige eine neue Überweisungs-PIN
+
+Solltest du sechsmal in Folge einen falschen Überweisungs-PIN eingeben, wird der PIN aus Sicherheitsgründen gesperrt. Du kannst ihn wieder freigeben, indem du ihn änderst wie beschrieben.
+
+###

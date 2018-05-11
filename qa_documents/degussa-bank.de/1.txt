@@ -1,0 +1,566 @@
+###
+    Wie werde ich Nutzer des InternetBanking?
+
+    Für das InternetBanking können Sie sich ganz bequem hier registrieren. Ihre Zugangsdaten erhalten Sie binnen drei bis vier Werktagen auf dem Postweg.
+
+    Bitte bestätigen Sie den Erhalt durch Rücksendung des beigefügten, von Ihnen unterschriebenen Bestätigungsabschnitts. Erst danach erfolgt die Freischaltung zur Nutzung.
+###
+    Welchen Komfort bietet die App im Vergleich zum Internet Banking?
+
+    Unterstützung des Logins durch den Fingerabdruckscanner (ab Android 6.0) und (ab iOS 9.0).
+    Abfotografieren von Rechnungen und Überweisungsträgern (Fotoüberweisung) und Übertrag aller relevanten Zahlungsdaten in die Überweisungsmaske.
+###
+    Welche Funktionen stehen in der App zur Verfügung?
+
+    Überweisungen, Umsatzauskünfte, Wertpapiertransaktionen, der Abruf von PostBox-Dokumenten für Kontoauszüge, Bank- und Wertpapiermitteilungen, die Fotoüberweisung und die Smart Paste-Überweisung für die einfache und schnelle Bezahlung von digitalen Rechnungen werden unterstützt.
+###
+    Wozu dient der Fingerabdruckscanner?
+
+    Nach dem einmaligen Erfassen der Zugangsdaten in den Einstellungen der App ersetzt der Fingerabdruck bequem das Ausfüllen der Login-Felder.
+###
+    Werden auch die Konten von Bevollmächtigen angezeigt?
+
+    Ja, dazu tippen Sie in der Kontoübersicht auf Ihre Kundennummer und Sie erhalten ein Auswahlfenster zur Ansicht aller Kundennummern.
+###
+    Welche Konten werden unterstützt?
+
+    Es werden alle onlinefähigen Kontoarten der Degussa Bank unterstützt.
+
+###
+    Wie heißt die App?
+
+    Die App heißt „Degussa Bank Banking+Brokerage“. Hier erfahren Sie mehr.
+###
+    Kann ich in der App das mTAN-Verfahren verwenden?
+
+    Sie können das, sofern sich in dem Endgerät keine SIM-Karte befindet und wir so ausschließen können, dass die generierte SMS von uns an dieses Gerät gesendet wird. Das bedeutet also, dass z.B. Tablet-Nutzer, deren Gerät keine SIM-Karte hat und dieses nur im WLAN daheim verwendet wird, durchaus eine mTAN anfordern kann und diese dann auf dem Handy / Smartphone erhalten wird.
+###
+    Wie sind die Regeln rund um das App-Passwort?
+
+    Das Passwort muss mindestens 12 Zeichen haben, davon mindestens ein Buchstabe, eine Zahl und ein Sonderzeichen. Der Nutzer hat fünf Versuche, um das App-Passwort im Betrieb korrekt einzugeben. Gibt er es fünf mal falsch ein werden die hinterlegten persönlichen Daten (Kundennummer, PIN, Geburtsdatum) aus der App gelöscht. Danach kann der Nutzer seine persönlichen Daten mit einem neuen App-Passwort neu hinterlegen. Das hat keinen Einfluss auf den Login im InternetBanking!
+###
+    Für welche Betriebssystemversionen ist die neue App optimiert?
+
+    Bei iOS ist es 9.0 und höher. Für Android empfehlen wir 5.0 oder höher (aus Stabilitätsgründen). Der Fingerabdruckscanner ist grundsätzlich erst ab Android 6.0 nutzbar.
+###
+    Kann ich mit meiner Kreditkarte auch Bargeld abheben?
+
+    Ja. Sie können an allen Mastercard und VISA Karte-Geldautomaten (erkennbar an den Mastercard und VISA Karte-Logos) weltweit damit Bargeld abheben. Bitte beachten Sie, dass dabei Gebühren anfallen. Diese finden Sie im Preis- und Leistungsverzeichnis.
+###
+    Was ist 3-D Secure (Verified by Visa/Mastercard® SecureCode™) bzw. Mein-Transakt?
+
+    3-D Secure ist ein Sicherheitsverfahren, das von Visa als "Verified by Visa" und von Mastercard als "Mastercard® SecureCode™" betrieben wird. Es dient zur eindeutigen Identifizierung eines Karteninhabers bei Kreditkartenzahlungen im Internet. Erfolgte dieser Nachweis bisher über ein vom Karteninhaber selbst festgelegtes Passwort/SecureCode, wird er von nun an über die App Transakt bei teilnehmenden Händlern um eine aktive Bestätigung gebeten, dass die gerade ausgelöste Zahlung ausgeführt werden soll. Durch die eindeutige Verknüpfung zwischen Kreditkarte, App und mobilem Endgerät (Smartphone oder Tablet) ist eine noch größere Sicherheit gegeben, dass es tatsächlich der Karteninhaber selbst ist, der die Karte gerade nutzt.
+###
+    Was muss ich tun, wenn meine Kreditkarte gestohlen oder beschädigt wurde?
+
+     Die Sperrnummer für Ihre Mastercards- und VISA Karten lautet: 0681 / 9376 4599 (24-Stunden-Hotline bei der PLUSCARD). Oder Sie wenden sich an die auf der Rückseite der Karte befindliche Telefonnummer. Unter dieser Nummer erhalten Sie auch kurzfristigen Ersatz für Ihre Karte.
+###
+    Wie beantrage ich eine Kreditkarte?
+
+    Ihre Mastercard- oder VISA Karte können Sie ganz bequem hier beantragen.
+###
+    Wie hoch sind die Gebühren für eine Kreditkarte?
+
+    Eine Mastercard bekommen Sie bereits ab 20 Euro pro Jahr, eine VISA Karte ab 18 Euro pro Jahr. Alle Preise und Gebühren finden Sie im aktuellen Preis- und Leistungsverzeichnis.
+###
+    Wie registriere ich mich für 3-D Secure (Verified by Visa/Mastercard® SecureCode™)?
+
+    Sie registrieren sich ganz einfach unter www.mein-transakt.de.
+
+    Bitte beachten Sie: auch Karteninhaber, die in der Vergangenheit bereits eine 3-D Secure Registrierung durchgeführt haben, müssen sich noch einmal über die Mein-Transakt neu registrieren.
+
+    Ausführliche Informationen zu 3-D Secure, bzw. Mein-Transakt finden Sie in den FAQ des Mein-Transakt Portals.
+###
+    Wie kann ich das InternetBrokerage nutzen?
+
+    Für die Nutzung des InternetBrokerage ist ein aktiver InternetBanking Zugang erforderlich. Die Beantragung muss separat zum InternetBanking erfolgen. Die entsprechenden Antragsunterlagen finden Sie in unserem Formularcenter. Bitte schicken Sie uns diese unterschrieben im Origial zu. Wir informieren Sie über die erfolgte Freischaltung dann per Post.
+###
+    Kann ich mit einer ausländischen Handynummer mTAN-Verwenden?
+
+    Ja, das geht. Wir übernehmen jedoch nicht die anfallenden Roaming-Kosten bei Nutzung im Ausland. Die Erreichbarkeit der ausländischen Mobilfunktnetze ist abhängig vom Roaming-Abkommen zwischen den deutschen und ausländischen Mobilfunknetzbetreiber. Die Zustellung der Nachrichten kann nicht garantiert werden.
+###
+    Wie viele Überweisungsvorlagen kann ich im Internetbanking anlegen?
+
+    Sie können bis zu 100 Überweisungsvorlagen anlegen.
+    Wie lautet die Zugangsadresse für das HBCI-Verfahren?
+
+    Die Kommuniktionsadresse für den Zugang über HBCI PIN/TAN lautet https://fints.degussa-bank.de.
+###
+    Können PostBox-Dokumente über Starmoney abgerufen werden?
+
+
+    Ja.
+
+    Der Abruf von PostBox-Dokumenten über Starmoney ist möglich.
+
+    In Version 9 findet sich die Funktion unter "Kontenliste -> Details -> Postfach -> Bestand".
+    In Verson10 unter "Kontenliste -> Postfach -> Bestand".
+###
+    Welche HBCI-Version wird unterstützt?
+
+    Wir bieten HBCI mit PIN/TAN in der Verson FinTS 3.0 an.
+
+###
+    Welchen Support leistet die Degussa Bank bezüglich Finanzsoftwares?
+
+    Leider können wir keinen spezifischen Softwaresupport anbieten. Für die Produkte Starmoney und Quicken leiten wir aber bei Problemen rund um Degussa Bank Konten Ihre Anfrage gerne an den Kundendienst des jeweiligen Herstellers weiter.
+###
+    Wie registriere ich mich für das mTAN-Verfahren?
+
+    Eine ausführliche Anleitung finden Sie hier.
+###
+    Wo finde ich Formulare zum Thema "girocard/Maestro-Karte" (früher: EC-Karte)?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wie beantrage ich eine girocard / Maestro-Karte (früher: EC-Karte)?
+
+    Ihre girocard / Maestro-Karte können Sie hier beantragen.
+###
+    Wo finde ich Formulare zum Thema "Dispokredit"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wie hoch sind die aktuellen Kreditzinsen?
+
+    Den aktuellen Zinssatz finden Sie auf der Produktseite oder im Preis- und Leistungsverzeichnis.
+###
+    Wie beantrage ich einen Dispokredit?
+
+    Einen Dispokredit können Sie ganz bequem hier beantragen.
+
+###
+    Wo finde ich Formulare zum Thema "Kreditkarte"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wie hoch sind die Gebühren für eine Kreditkarte?
+
+    Eine MasterCard bekommen Sie bereits ab 20 Euro pro Jahr, eine VISA-Karte ab 18 Euro pro Jahr. Alle Preise und Gebühren finden Sie im aktuellen Preis- und Leistungsverzeichnis.
+###
+    Welche Kreditkarten bietet die Degussa Bank an?
+
+    Unser Kreditkartenportfolio umfasst Master- und VISA-Karten, unsere Global CashCard und die Globetrotter Karte. Details zu diesen Karten erfahren Sie auf den Produktseiten. Alle Karten können Sie ganz bequem hier beantragen.
+###
+    Wo finde ich einen Bank-Shop in meiner Nähe?
+
+    Dazu können Sie bequem unsere Bank-Shop-Suche nutzen.
+###
+    Wie viele Bank-Shops gibt es in Deutschland?
+
+    Zurzeit gibt es rund 280 Bank-Shops in ganz Deutschland. Wo Sie diese finden erfahren Sie hier.
+###
+    Wo finde ich Formulare zum Thema "Versicherungen"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wo finde ich Formulare zum Thema "InternetBanking"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wie erteile ich eine Vollmacht über mein Depot?
+
+    Dieser Vorgang muss über den Bank-Shop abgewickelt werden. Das Formular dazu finden Sie hier.
+###
+    Wo finde ich Formulare zum Thema "Depot"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wo finde ich Informationen zu Gebühren der Degussa Bank?
+
+    Alle Gebühren finden Sie im Preis- und Leistungsverzeichnis.
+###
+    Wie eröffne ich ein Depot?
+
+    Für ein Depot benötigen Sie ein Verrechnungskonto (zum Beispiel ein Girokonto) bei uns. Beides können Sie ganz bequem hier beantragen.
+###
+    Wie eröffne ich ein Girokonto?
+
+    Ihr Girokonto können Sie hier bequem online eröffnen.
+###
+    Wo finde ich Formulare zum Thema "Girokonto"?
+
+    Alle Formulare finden Sie in unserem Formularcenter.
+###
+    Wie beantrage ich eine Kreditkarte?
+
+    Ihre MasterCard- oder VISA-Karte können Sie ganz bequem hier beantragen.
+###
+    Wie melde ich mich für das chipTAN-Verfahren an?
+
+    Eine ausführliche Anleitung finden Sie hier.
+###
+    Kann ich mit meiner Kreditkarte auch Bargeld abheben?
+
+    Ja. Sie können an allen Master- und VISACard-Geldautomaten (erkennbar an den MasterCard und VISACard-Logos) weltweit damit Bargeld abheben. Bitte beachten Sie, dass dabei Gebühren anfallen. Diese finden Sie im Preis- und Leistungsverzeichnis.
+###
+    Was muss ich tun, wenn meine Kreditkarte gestohlen oder beschädigt wurde?
+
+     Die Sperrnummer für Ihre MasterCards- und VISA-Karten lautet: 0681 / 9376 4599 (24-Stunden-Hotline bei der PLUSCARD). Oder Sie wenden sich an die auf der Rückseite der Karte befindliche Telefonnummer. Unter dieser Nummer erhalten Sie auch kurzfristigen Ersatz für Ihre Karte.
+###
+    Wie sicher ist meine Kreditkarte?
+
+    Für Einkäufe im Internet bieten wir für MasterCards und VISA-Karten das 3D-Secure-Verfahren an, mit dem die Karte durch ein zusätzliches Passwort geschützt wird.
+###
+    Wann werden meine Zahlungsaufträge ausgeführt?
+
+    Ihre Online-Zahlungsaufträge werden umgehend gebucht. Wenn Sie eine Überweisung vor 13:00 Uhr aufgeben, wird diese noch taggleich zur Bundesbank überstellt.
+###
+    Welche anderen Kontoarten bietet die Degussa Bank zusätzlich an?
+
+    Wir bieten eine reiche Bandbreite an Konten an, vom Girokonto und Tagesgeldkonto über verschiedene Anlage- und Sparkonten bis hin zum Mietkautionskonto. Sehen Sie sich auf unserer Webseite um, oder sprechen Sie Ihren Berater im Bank-Shop an. Wir sind sicher, dass wir auch für Sie das passende Produkt bereithalten.
+###
+    An welchen anderen Geldautomaten kann ich außerdem kostenfrei Bargeld abheben?
+
+    In Deutschland können Sie zusätzlich zu unseren Automaten an circa 1.000 Geldautomaten der ING-DiBa und an circa 2.500 Geldautomaten des CashPools kostenfrei Geld abheben.
+###
+    Wie erhalte ich Benachrichtigungen, wenn neue Dokumente in meiner PostBox liegen?
+
+    Sie können in Ihrem Profil eine E-Mail-Adresse hinterlegen. Diese Adresse wird benachrichtigt, wenn neue Dokumente verfügbar sind. Ansonsten erhalten Sie einen Hinweis, sobald Sie sich eingeloggt haben.
+###
+    Wie hoch sind die jeweiligen Prämien bei Versicherungen?
+
+    Die Prämien entnehmen Sie bitte der PRINAS-Website.
+###
+    Welche Versicherungen werden angeboten?
+
+    Das Gesamtangebot der PRINAS-Versicherungen finden sie auf der PRINAS-Website.
+###
+    Wo erhalte ich weitere Informationen zur PRINAS?
+
+    Weitere Informationen erhalten Sie in Ihrem Bank-Shop oder auf der PRINAS-Website.
+###
+    Gibt es auch Bank-Shops im Ausland?
+
+    Nein, zurzeit gibt es unsere Bank-Shops nur in Deutschland.
+###
+    Wo erhalte ich weitere Informationen zu INDUSTRIA WOHNEN?
+
+    In unseren Bank-Shops erhalten Sie weitere Informationen zu Produkten der INDUSTRIA WOHNEN.
+###
+    Wie registriere ich mich für die PostBox?
+
+    Wenn Sie die PostBox nutzen möchten, loggen Sie sich mit Kundennummer und PIN in das InternetBanking ein. Dort sehen Sie ganz rechts in der Navigation den Menüpunkt "PostBox". Klicken Sie darauf - wenn Sie noch nicht für die PostBox registriert sind, gelangen Sie in den geleiteten Registrierungsprozess.
+###
+    Wer ist die PRINAS?
+
+    Die PRINAS ist ein Versicherungsvermittler und 100-%ige Tochter der Degussa Bank AG.
+###
+    Wie schließe ich Versicherungen bei der PRINAS ab?
+
+    Über die Website der PRINAS können Sie viele Versicherungen direkt abschließen oder Anträge herunterladen. Beratung erhalten Sie auch im Bank-Shop, über unseren Kundendialog (069 / 3600 3312) oder in den PRINAS-Filialen deutschlandweit.
+###
+    Ich interessiere mich für Produkte der INDUSTRIA WOHNEN. Wie trete ich mit ihr in Kontakt?
+
+    Das können Sie ganz bequem über die Webseite der INDUSTRIA, z.B. hier.
+###
+    Welche Finanzsoftwares sind mit der Degussa Bank kompatibel?
+
+    Unser InternetBanking kann aktuell mit den Softwares "Quicken" von Lexware und "StarMoney" von StarFinanz angesprochen werden. Andere Anbieter werden in naher Zukunft dazukommen.
+
+###
+
+    Auf welche Arten kann ich Orders aufgeben?
+
+    Sie können sowohl über unsere Brokerage-Anwendung Orders platzieren als auch über unsere DiscountBrokerage-Hotline unter 069 / 3600 3613 (Montag bis Freitag 09.00 - 18.00 Uhr).
+###
+    Welche Dokumente werden in die PostBox gestellt?
+
+    Kontoauszüge, Rechnungsabschlüsse und Saldenmitteilungen zu Ihrem Girokonto, Darlehenskonto, Telegeld- / TOPZinskonto, Spar- und FestZins-Konto, Anlagebestätigungen und Abrechnungen für Sparbriefe, Mitteilungen über Anlage, Änderung und Löschung von Daueraufträgen, sowie Order- und Ertragsabrechnungen für Ihr Depot.
+###
+    Welche Gebühren fallen für die Nutzung des InternetBanking an?
+
+    Unser Girokonto ist gebührenfrei. Voraussetzung ist die Registrierung für die PostBox.
+    In dieser werden Ihnen unter anderem Ihre Kontoauszüge zur Verfügung gestellt. Kosten für eine etwaige Zusendung der Kontoauszüge an Ihre Privatadresse sind im Preis- und Leistungsverzeichnis festgehalten.
+###
+    Welche Mehrwertdienste sind auf meiner Karte verfügbar?
+
+    Ihre girocard / Maestro-Karte verfügt über eine Geldkartenfunktion. Mit dieser können Sie zum Beispiel an Automaten bargeldfrei Käufe tätigen.
+###
+    Wie kann ich mein InternetBanking noch sicherer machen?
+
+    Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat zum Thema "Sicherheit im InternetBanking" umfangreiches Material zusammengestellt. Dort können Sie sich unter anderem zu den Themen Betrugsprävention und sicheres Online Banking informieren.
+###
+    Meine PIN für das InternetBanking wurde gesperrt. Was nun?
+
+    In diesem Fall wenden Sie sich bitte an unseren Telefonischen Kundendialog unter 069 / 3600 5555.
+###
+    Welche TAN-Verfahren werden angeboten?
+
+    Um Aufträge im Internet (zum Beispiel Überweisung, Adressänderung) im Online-Banking freigeben zu können, haben Sie verschiedenen Möglichkeiten.
+
+    Welche Sie wählen, richtet sich nach Ihren Banking-Gewohnheiten, also danach, ob Sie alles am heimischen PC erledigen oder ob Sie auch unterwegs tätig werden möchten. Wichtig ist auch, dass Sie technisch passend zum gewählten Verfahren ausgestattet sind.
+
+    iTAN: Das ist die papierhafte TAN-Liste.
+
+    chipTAN: Wir bieten Ihnen, neben dem bewährten iTAN-Verfahren, als Alternative das chipTAN-Verfahren für sicheres InternetBanking an. Mit dem chipTAN-Verfahren generieren Sie mit Ihrer Degussa Bank Maestro-Karte und Ihrem TAN-Generator Ihre TAN ganz einfach selbst.
+
+    mTAN: Bei diesem Verfahren erhalten Sie Ihre TAN per SMS. Es ist aus Sicherheitsgründen nicht über mobile Apps nutzbar.
+    Wie eröffne ich ein Gemeinschaftskonto?
+
+    Ein Gemeinschaftskonto können Sie genauso einfach eröffnen wie ein Girokonto für eine Person. In diesem Fall erstreckt sich die Legitimationsprüfung auf zwei Kontoinhaber, und zwei PostIdent-Verfahren müssen durchgeführt werden.
+###
+    Welche Funktionen stehen mir für Zahlungsvorgänge zur Verfügung?
+
+     Sie können SEPA-, Inlands-, Auslands- und Terminüberweisungen vornehmen. Natürlich können Sie ebenso Daueraufträge sowie auch Überweisungsvorlagen einrichten und innerhalb Ihrer Konten Umbuchungen vornehmen. Ebenfalls möglich ist das Erteilen eines Freistellungsauftrags (für Einzelkundenstämme bei ledigen / geschiedenen / verwitweten Kunden) und eine Erhöhung des Tageslimits.
+###
+    Welche Browserversionen werden unterstützt?
+
+    Unser InternetBanking können Sie mit allen gängigen Browsern (wie Microsoft Internet Explorer, Mozilla Firefox, Apple Safari oder Google Chrome) benutzen. Bitte beachten Sie, dass Ihr Browser für eine optimale Darstellung JavaScripte und Pop-ups erlauben muss. Des Weiteren empfiehlt sich ein regelmäßiges Update auf die jeweils aktuelle Version. Um PDF-Dokumente anzeigen zu können, benötigen Sie den Adobe Acrobat Reader.
+###
+    Meine TAN-Liste ist aufgebraucht. Wie erhalte ich eine neue?
+
+     Nachdem die 70. TAN verbraucht wurde, senden wir Ihnen eine neue TAN-Liste zu. Sollte Ihnen die aktuelle Liste nicht mehr vorliegen wenden Sie sich bitte an Ihren Kundenberater oder unseren Telefonischen Kundendialog unter 069 / 3600 3877.
+###
+    Was muss ich tun, wenn meine Maestro-Karte gestohlen oder beschädigt wurde?
+
+    Die Sperrnummer für Ihre girocard / Maestro-Karte lautet: 01805 / 021021. Unter dieser Nummer erhalten Sie auch kurzfristigen Ersatz für Ihre Karte.
+###
+    Kann ich mehrere girocards / Maestro-Karten haben?
+
+    Jeder Verfügungsberechtigte eines Girokontos kann eine zugehörige girocard / Maestro-Karte haben.
+###
+    Wie kann ich eine neue Maestro-Karte bestellen oder eine Karte nachbestellen?
+
+     Neue Karten oder Ersatzkarten erhalten Sie über unseren Telefonischen Kundendialog unter 069 / 3600 5555.
+###
+    Welche Gebühren fallen für meine Maestro-Karte an?
+
+    Für die girocard / Maestro-Karte wird eine Jahresgebühr von 5 Euro fällig. Alle Preise finden Sie im aktuellen Preis- und Leistungsverzeichnis.
+###
+    Unterstützt das System Daytrading?
+
+    Das System unterstützt grundsätzlich Daytrading, wenn es sich um Brokerage-Depots mit entsprechendem Vertrag handelt. Berater-Depots sind dazu über das InternetBanking nicht befähigt.
+###
+    Kann ich Dokumente sowohl per Post als auch in die PostBox erhalten?
+
+    Nein, das geht leider nicht. Die Anmeldung zur PostBox gilt global für alle Konten und Depots einer Kundennummer.
+###
+    Kann ich die Dokumente in der PostBox an eine E-Mail-Adresse weitersenden lassen?
+
+    Nein, das ist leider nicht möglich.
+###
+    Welche Informationen benötigen wir, um Sie bei Finanzsoftwares unterstützen zu können?
+
+    Abhängig von der jeweiligen Software stehen verschiedene Protokoll- bzw. Exportmöglichkeiten von Logfiles zur Verfügung.
+###
+    Meine Karte wurde am Automat eingezogen. Was muss ich jetzt tun?
+
+    In diesem Fall hilft Ihnen unser Telefonischer Kundendialog unter 069 / 3600 5555.
+###
+    Meine TAN-Liste wurde gestohlen / habe ich verloren. Was muss ich tun?
+
+    In diesem Fall deaktivieren Sie Ihre TAN-Liste bitte im Menüpunkt TAN-Management. Wenden Sie sich bitte umgehend an unseren Telefonischen Kundendialog unter 069 / 3600 5555.
+###
+    Wie lange dauert die Aktivierung des InternetBanking-Zugangs?
+
+    In der Regel steht Ihnen Ihr InternetBanking-Zugang innerhalb einer Woche zur Verfügung.
+
+###
+    Wo kann ich meine PIN ändern?
+
+    Ihre PINs und TANs können Sie im Menüpunkt PIN-Management bzw. TAN-Management verwalten.
+###
+    Ich glaube, dass ich Opfer eines Betrugs geworden bin. An wen wende ich mich?
+
+    In diesem Fall wenden Sie sich bitte umgehend an unseren Kundendialog unter 069 / 3600 3877.
+###
+    Was ist das HBCI-Verfahren?
+
+    Homebanking Computer Interface (HBCI) ist ein offener Standard für den Bereich Electronic Banking und Kundenselbstbedienung. Er wurde von verschiedenen Bankengruppen in Deutschland entwickelt und vom Zentralen Kreditausschuss beschlossen. HBCI ist eine standardisierte Schnittstelle für das Homebanking. Dabei werden Übertragungsprotokolle, Nachrichtenformate und Sicherheitsverfahren definiert.
+###
+    Was sind "Schwebende Umsätze?"
+
+    Dabei handelt es sich um Zahlungen, die zur Ausführung vorgemerkt sind. Diese stehen noch nicht in der Umsatzanzeige, werden aber beim Tagesverfügungshöchstbetrag bereits berücksichtigt. Das gilt zum Beispiel bei Auslandszahlungen.
+###
+    Wie lange dauert die Aktivierung des IB-Zugangs?
+
+    In der Regel steht Ihnen Ihr InternetBanking-Zugang innerhalb einer Woche zur Verfügung.
+###
+    Wie hoch ist das Standardlimit?
+
+    Das Standardlimit beträgt 5.000 Euro pro Monat (nach Bonitätsprüfung).
+###
+    Was ist das PostIdent-Verfahren?
+
+    Beim PostIdent-Verfahren wird die Identität des Unterzeichners oder der Unterzeichnerin eines Dokuments durch einen Mitarbeiter der Deutschen Post AG verifiziert. Diese Maßnahme soll Identitätsdiebstahl und Geldwäsche vorbeugen. Das Verfahren kommt zur Anwendung, wenn Sie die Eröffnung nicht über einen Degussa Bank-Shop vornehmen, sondern zum Beispiel per Internet ein Girokonto bei uns eröffnen.
+###
+Welche Gebühren fallen für das InternetBanking an?
+
+    Die Nutzung des InternetBanking ist an sich gebührenfrei. Sollten Sie eine postalische Zustellung Ihrer Kontoauszüge wünschen, sind diese Gebührenpflichtig
+###
+    Was ist ein Bündelrabatt?
+
+    Der Bündelrabatt ist ein attraktiver Nachlass bei Abschluss mehrerer HDI-Versicherungen über PRINAS.
+###
+    Wer ist INDUSTRIA WOHNEN?
+
+    INDUSTRIA WOHNEN ist eine Tochtergesellschaft der Degussa Bank AG und im Verbund mit der M.M. Warburg als Asset Manager spezialisiert auf wohnwirtschaftliche Investitionen in Deutschland.
+    Sie erschließt privaten und institutionellen Anlegern Immobilien-Investitionen als Kapitalanlage an wirtschaftsstarken Standorten in ganz Deutschland. Ein umfassendes, in dieser Form einzigartiges Paket im Asset und Property Management, rundet das Angebot als Komplettanbieter in diesem Bereich ab.
+###
+    Was ist das Archiv?
+
+    Im Archiv können Sie alle gelesenen Dokumente ablegen. Dort stehen Ihnen auch Funktionalitäten wie Filtern und Sortieren zur Verfügung.
+###
+    Welche Umsätze oder Umsatzdetails werden an meine Finanzsoftware übertragen?
+
+    Abhängig von der jeweiligen Software werden Buchungstag, Art der Buchung, Empfänger und Verwendungszweck sowie Betrag übertragen.
+###
+    Worin besteht der Unterschied zwischen "Benutzerkennung" und "Kundennummer"?
+
+    Die Aufteilung der Zugangsdaten in "Benutzerkennung" und "Kundennummer" ist HBCI-Standard. Um Ihre Finanzsoftware auf unsere Konten einzurichten, tragen Sie bitte Ihre Degussa Bank-Kundennummer in das Feld "Benutzerkennung" ein und lassen das Feld "Kundennummer" leer.
+
+    Wenn Sie die Degussa Bank-App benutzen, ist die Einrichtung noch komfortabler. Dort werden Sie nur nach Ihrer Kundennummer gefragt.
+    Ich habe meine PIN vergessen. Was muss ich tun?
+
+    In diesem Fall hilft Ihnen unser Telefonischer Kundendialog unter 069 / 3600 5555. Bitte beachten Sie, dass wir in einem solchen Fall keine neue PIN generieren. Es erfolgt ein Austausch der Karte.
+###
+    Wie kann ich im InternetBanking Gemeinschaftskonten führen?
+
+    Sie können bei der Kontoeröffnung mehrere Verfügungsberechtigte angeben. Bei einem bestehenden Konto können Sie hier einen Verfügungsberechtigten hinzufügen.
+###
+    Welche Gebühren fallen für Depot und Brokerage an?
+
+    Das Führen des Depots ist kostenlos. Alle anderen Gebühren finden Sie im Preis- und Leistungsverzeichnis.
+###
+    Welche HBCI-Geschäftsvorfälle stehen mir zur Verfügung?
+
+    Statusprotokoll anfordern - HKPRO
+
+    Zwei-Schritt-TAN-Einreichung - HKTAN
+
+    TAN-Generator/Liste anzeigen Bestand - HKTAB
+
+    TAN-Generator an- bzw. ummelden - HKTAU
+
+    TAN-Generator Synchronisierung - HKTSY
+
+    TAN-Medium deaktivieren oder löschen - HKTML
+
+    Mobilfunkverbindung registrieren - HKMTR
+
+    Mobilfunkverbindung freischalten - HKMTF
+
+    TAN-Liste anfordern - HKTLA
+
+    TAN-Liste freischalten - HKTLF
+
+    TAN-Liste löschen - HKTSP
+
+    TAN-Verbrauchsinformationen anfordern - HKTAZ
+
+    PIN ändern - HKPAE
+
+    PIN sperren - HKPSP
+
+    SEPA-Kontoverbindung anfordern - HKSPA
+
+    Freistellungsdaten abfragen - HKFRD
+
+    Saldenabfrage - HKSAL
+
+    Kontoumsätze anfordern/Zeitraum - HKKAZ
+
+    Dokumentliste anfordern - HKFDL
+
+    Dokument anfordern - HKFDA
+
+    Vorbereitete SEPA-Überweisung anlegen - HKCVE
+
+    Bestand vorbereiteter SEPA-Überweisungen abfragen - HKCVB
+
+    Vorbereitete SEPA-Überweisung ändern - HKCVA
+
+    Vorbereitete SEPA-Überweisung löschen - HKCVL
+
+    Auslandsüberweisung - HKAUB
+
+    SEPA Einzelüberweisung - HKCCS
+
+    Bestand der möglichen Empfaengerkonten abrufen - HKCUB
+
+    SEPA Umbuchung - HKCUM
+
+    SEPA-Dauerauftrag einrichten - HKCDE
+
+    SEPA-Dauerauftragsbestand anfordern - HKCDB
+
+    SEPA-Dauerauftrag löschen - HKCDL
+
+    SEPA-Dauerauftrag ändern - HKCDN
+
+    Terminierte SEPA-Überweisung einreichen - HKCSE
+
+    Bestand terminierter SEPA-Überweisungen anfordern - HKCSB
+
+    Terminierte SEPA-Überweisung löschen - HKCSL
+
+    propritär / div. XML Formate ohne TAN Freigabe - XKXML
+
+    propritär / div. XML Formate mit TAN Freigabe - XKXMT
+
+    Und weitere tech. Transaktionen.
+
+    Mit XKXML wird genutzt:
+
+    AMD (Account Master Data) Stammdaten
+
+    BRC (BusinessRuleCheck) Fachl. Prüfungen
+
+    Mit XKXMT wird genutzt:
+
+    TAN entwerten
+###
+    Welche Funktionalitäten stehen mir an einem Geldserviceterminal zur Verfügung?
+
+    Neben Bargeldabhebungen können Sie Ihren Kontostand erfragen, Ihre Umsätze einsehen, Ihre PIN ändern und sich Überweisungsformulare zusenden lassen.
+###
+    Wie erteile ich eine Vollmacht für mein Girokonto?
+
+    Dieser Vorgang muss über Ihren Bank-Shop abgewickelt werden. Das zugehörige Formular finden Sie hier.
+###
+    Wo bekomme ich die Degussa Bank App?
+
+    Die Degussa Bank App bekommen Sie im Google Play Store in der Android-Version und im Apple Store in der iOS-Version.
+###
+    Was bedeutet es, wenn ein Bank-Shop "nicht öffentlich zugänglich" ist?
+
+    Das bedeutet, dass der Bank-Shop auf einem Werksgelände liegt, der für die Öffentlichkeit nicht ohne Weiteres zugänglich ist. Ob Sie gegebenenfalls mit einem Besucherausweis Zutritt erhalten, erfahren Sie vor Ort.
+###
+    Welches Institut ist der Abwickler für die Wertpapiergeschäfte?
+
+    Wertpapierorders werden über die dwp Bank abgewickelt.
+###
+    Wohin wende ich mich im Schadensfall?
+
+    Ihren jeweiligen Ansprechpartner finden Sie hier.
+###
+    Wann kann ich nach einem Verkauf über mein Geld verfügen?
+
+    Sie können in der Regel zwei Tage nach Verkauf über den Verkaufserlös verfügen. Ausnahmen gelten bei einigen ausländischen Wertpapieren und Fonds. Für Ihre Gelddisposition bei weiteren Wertpapierkäufen wird der Verkaufserlös sofort berücksichtigt.
+###
+    Welche Arten von Wertpapieren kann ich handeln?
+
+    Ihnen stehen alle Wertpapiere zur Verfügung, die Sie an einer deutschen Börse handeln können.
+###
+    Kann ich mich in meinem Bank-Shop zu Versicherungen beraten lassen?
+
+    Ja, in unseren Bank-Shops erhalten Sie eine Beratung zu Versicherungsprodukten der PRINAS.
+###
+    Was ist die PostBox?
+
+    Die PostBox ist ein elektronischer Briefkasten. Wenn Sie diesen Service nutzen, werden Ihnen dort Dokumente wie zum Beispiel Kontoauszüge, Wertpapierabrechnungen oder Urkunden eingestellt. Die Nutzung der PostBox ist kostenfrei.
+###
+    Wo finde ich Geldservice-Terminals der Degussa Bank?
+
+    In Deutschland finden Sie in jedem Bank-Shop ein Geldservice-Terminal von uns.
+###
+    Welche Handelsplätze stehen mir zur Verfügung?
+
+    Ihnen stehen alle deutschen Handelsplätze zur Verfügung. Ein Handel an ausländischen Börsen ist nicht möglich.
+###
+    Wie lange werden Dokumente in der PostBox vorgehalten?
+
+    Alle Dokumente stehen Ihnen in der PostBox für drei Jahre zur Verfügung.
+
+###

@@ -1,0 +1,25 @@
+###
+Wie eröffne ich ein O2 Banking Konto?
+
+Du bist mindestens 18 Jahre alt, wohnst in Deutschland, hast ein Android (Android OS 4.4 oder höher) oder iPhone (iOS 9 oder höher), dann lade dir die O2 Banking App aus dem iOS App Store oder Google Play Store und eröffne in 7 Minuten dein neues O2 Banking Konto.
+###
+Was ist die Bezahl-PIN?
+
+Während der Registrierung legst du selbst eine 4-stellige PIN fest, deine Bezahl-PIN. Damit bestätigst du Zahlungen: Das Kartenlesegerät im Laden fordert dich auf, deine „PIN“ oder bei manchen Geräten auch deine „Geheimzahl“ einzugeben. Überweist oder sendest du Geld mit der App bestätigst du den Vorgang auch mit der Bezahl-PIN. Möchtest du die Details deiner Mastercard® anzeigen, um z.B. deine Kartennummer bei Amazon zu hinterlegen, fragt die App dich danach. Für manche Änderungen bei den Einstellungen, z.B. bei deinen Kartenlimits, gibst du deine Bezahl-PIN ein.
+
+Behalte deine Bezahl-PIN für dich. Wenn du deine Bezahl-PIN vergessen hast, kannst du sie dir – nach der Abfrage einiger Sicherheitsmerkmale – in der App anzeigen lassen.
+###
+Wie bestätige ich meine Identität durch ein Video-Telefonat?
+
+Nach der Registrierung kannst du in der App deine Identität in 5 Minuten durch ein Video-Telefonat in der O2 Banking App bestätigen. Dazu brauchst du einen gültigen Personalausweis oder Reisepass. Wir akzeptieren gerne auch ausländische Dokumente solange unser Partner IDnow Informationen zu den Sicherheitsmerkmalen der Ausweisdokumente des entsprechenden Landes hat. Dazu stellt die App eine Verbindung zu einem Agenten her – in dem Video-Gespräch siehst du deinen Gegenüber während sie oder er mit dir deinen Ausweis anschaut und ein Foto von dir und von deinem Ausweis macht. Du brauchst eine gute Internet-Verbindung, einen ruhigen Ort und deinen Ausweis.
+###
+Wie funktioniert die Bestätigung meiner Identität durch das PostIdent-Verfahren?
+
+Alternativ kannst du deine Identität in der nächsten Postfiliale durch das PostIdent-Verfahren bestätigen lassen. Dazu brauchst du dein Ausweisdokument und den PostIdent-Coupon.
+###
+Was passiert nach der erfolgreichen Kontoeröffnung?
+
+Du bekommst nach erfolgreicher Bestätigung deiner Identität deine O2 Banking Karte in 3-5 Werktagen zugeschickt. In der App aktivierst du die Karte mit deiner bei der Registrierung selbst gewählten Bezahl-PIN.
+
+Bei der Kontoeröffnung ist dein Konto noch leer. Lade z.B. durch eine Überweisung von einem anderen Konto Geld auf dein neues O2 Banking Konto. Die IBAN findest du in der O2 Banking App auf deiner Profilseite.
+###

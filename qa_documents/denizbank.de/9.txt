@@ -1,0 +1,58 @@
+###
+Was ist eine TAN
+
+Eine TAN (Transaktionsnummer) ist ein Einmalpasswort, dass im Internet Banking zur Verifikation von Transaktionen verwendet wird.
+###
+Wie funktioniert das smsTAN Verfahren
+
+Das smsTAN Verfahren ist ein 2-Weg Autorisierungsverfahren, bei dem Sie Ihre TANs ausschließlich im Bedarfsfall, d.h. nur wenn Sie einen Auftrag zeichnen, per SMS direkt auf Ihr Mobiltelefon übermittelt bekommen. Diese ist nur wenige Minuten und nur für diese eine Überweisung gültig. Nachdem die TAN in das vorgegebene Feld eingetragen wurde, ist die Transaktion abgeschlossen.
+###
+Warum ist das smsTAN Verfahren sicherer als das Papier-TAN Verfahren
+
+Sie erhalten die smsTAN nur im Bedarfsfall auf ein zweites, vom PC unabhängiges Gerät. Dadurch bietet dieses Verfahren einen sehr hohen Schutz vor Phishing- und Trojanerangriffen.
+
+Die in der SMS übermittelte TAN ist zusätzlich immer untrennbar mit den vorher im Internet Banking eingegebenen Auftragsdaten verbunden, für die sie angefordert wurde. Sie ist nicht für andere Transaktionen verwendbar. Die für den SMS-Versand verwendete Mobiltelefonnummer kann auch nicht durch Dritte manipuliert werden, weil diese direkt im hochsicheren Banksystem der DenizBank AG abgespeichert ist.
+
+In der TAN-SMS werden zusätzlich Daten Ihres Auftrages angezeigt. Vergleichen Sie vor der Eingabe der TAN die in der SMS angezeigten Daten mit den im Internet Banking eingegebenen Daten. Nur wenn alle Daten übereinstimmen, sollten Sie die Transaktion zeichnen.
+###
+Was sind die Vorteile des smsTAN Verfahres
+a. Einfach
+
+Sie bekommen Ihre TAN direkt auf Ihr Handy.
+b. Sicher
+
+Jede smsTAN gilt nur für einen bestimmten Auftrag und ist zeitlich beschränkt. Die SMS enthält auch die wichtigsten Auftragsdaten und bietet Ihnen dadurch eine zusätzliche Kontrollmöglichkeit.
+c. Bequem
+
+Die Verwahrung von TAN-Listen und Freischaltung von Nachfolgelisten ist nicht mehr erforderlich.
+###
+Was sind die Kosten des smsTAN Verfahres
+
+Die Zustellung der SMS ist kostenlos. Bitte beachten Sie, dass bei einer Zustellung der smsTAN im Ausland unter Umständen eine Roaming-Gebühr von Ihrem Provider verrechnet wird.
+###
+Wie steige ich auf smsTAN um
+
+Den Umstieg auf das smsTAN Verfahren können Sie auf eine von drei Arten durchführen:
+a. Per Post
+
+Schicken Sie einfach einen formlosen Brief unterschrieben an DenizBank AG, Zweigniederlassung Frankfurt Münchener Strasse 7, 60329 Frankfurt/Main, in dem Sie uns Ihre Absicht umzusteigen, mitteilen.
+b. Per Fax
+
+Wenn Sie bei der Kontoeröffnung angegeben haben, dass Sie auch Aufträge per Fax aufgeben wollen, können sie auch auf diese Weise auf das smsTAN-Verfahren umsteigen.
+c. In einer Filiale
+
+Sie können uns auch jederzeit in einer unserer 16 Filialen in ganz Deutschland besuchen. Unsere Mitarbeiter helfen Ihnen gerne beim Umstieg.
+###
+Wie kann ich meine Telefonnummer für die smsTAN ändern
+
+Die  Änderung der Handynummer können Sie auf eine von drei Arten durchführen:
+a. Per Post Schicken
+
+Schicken Sie einfach einen formlosen Brief unterschrieben an DenizBank AG, Zweigniederlassung Frankfurt Münchener Strasse 7, 60329 Frankfurt/Main mit Ihrer neuen Nummer.
+b. Per Fax
+
+Wenn Sie bei der Kontoeröffnung angegeben haben, dass Sie auch Aufträge per Fax aufgeben wollen, können sie auch auf diese Weise uns Ihre neue Nummer bekanntgeben.
+c. In einer Filiale
+
+Sie können uns auch jederzeit in einer unserer 16 Filialen in ganz Deutschland besuchen. Unsere Mitarbeiter helfen Ihnen gerne weiter.
+###

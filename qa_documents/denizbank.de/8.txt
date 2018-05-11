@@ -1,0 +1,112 @@
+###
+    Bis zu welchem Betrag sind meine Einlagen gesichert?
+
+    Die DenizBank AG ist Mitglied der österreichischen Einlagensicherung. Die Einlagen natürlicher und nicht natürlicher Personen sind bis zu einem Höchstbetrag von EUR 100.000 gesichert (pro Einleger und Kreditinstitut).
+    Für bestimmte Sonderfälle, sogenannte „zeitlich begrenzt gedeckte Einlagen“ (z.B. Einlagen aus Immobilientransaktionen privat genutzter Wohnimmobilien; Auszahlungen von Versicherungsleistungen oder Entschädigungen wegen Straftaten; Einzahlungen, die gesetzlich vorgesehene Zwecke erfüllen – genauere Informationen sind der Homepage der Einlagensicherung www.einlagensicherung.at zu entnehmen) kann innerhalb von 12 Monaten nach Eintritt des Sicherungsfalls bei der Sicherungseinrichtung der Antrag gestellt werden, dass die Einlage bis zu einem Betrag von EUR 500.000 zu erstatten ist.
+###
+    Gilt die Einlagensicherung pro Konto/Sparbuch oder pro Person?
+
+    Die Einlagensicherung gilt immer pro Einleger (natürliche bzw. nicht-natürliche Person), unabhängig davon, wie viele Konten oder Sparbücher dieser bei dem betroffenen Institut besitzt.
+    Ich habe ein Konto/Sparbuch bei der Bank X und eines bei der Bank Y. Was ist im Fall eines Konkurses von beiden Banken?
+
+    Für natürliche und nicht natürliche Personen gilt die Einlagensicherung für Einlagen bei jeder Bank bis zu EUR 100.000 pro Einleger und pro Bank.
+###
+    Gibt es einen Selbstbehalt?
+
+    Bei der Einlagensicherung gibt es keinen Selbstbehalt (weder bei natürlichen Personen noch bei nicht natürlichen Personen). Bei der Anlegerentschädigung besteht ein Selbstbehalt in Höhe von 10% der Forderung aus Wertpapiergeschäften für nicht natürliche Personen. Nähere Informationen zum Thema Anlegerentschädigung sind den gesetzlichen Bestimmungen (§§ 44 ff ESAEG) und der Homepage der Einlagensicherung https://www.einlagensicherung.at zu entnehmen.
+###
+    Welche Einlagen sind von der Einlagensicherung umfasst?
+
+    Alle Guthaben auf Konten oder Sparbüchern, wie z.B. Gehalts- und Pensionskonten, sonstige Girokonten, Festgelder, Kapital- oder täglich fällige Sparbücher, die auf Euro bzw. eine Währung eines EWR-Mitgliedstaates (d.h. EU-Staaten und Island, Liechtenstein und Norwegen) lauten, sind von der Einlagensicherung umfasst. Somit fallen z.B. USD-Konten nicht unter die Einlagensicherung. Betreffend Schweizer Franken (CHF): Die Schweiz ist zwar kein EWR-Mitglied, da der CHF aber die amtliche Währung in Liechtenstein (EWR-Mitglied) ist, fallen Einlagen in CHF ebenfalls unter die Einlagensicherung.
+###
+    Was ist mit den Einlagen Minderjähriger?
+
+    Auch die Einlagen minderjähriger Personen unterliegen der gesetzlichen Einlagensicherung. Hier kann der gesetzliche Vertreter den Anspruch für den Minderjährigen gegenüber der Sicherungseinrichtung erheben. Allerdings kann die Sicherungseinrichtung in diesen Fällen auf eine Auszahlung auf ein Mündelkonto bestehen.
+###
+    Was ist mit Geldern auf Anderkonten?
+
+    Bei Anderkonten, auf denen Einlagen für Rechnung anderer Personen vorliegen, ist die Auszahlung nach Legitimierung und Nachweis des Anspruches zu gewährleisten, d.h. der Höchstbetrag kommt pro wirtschaftlich Berechtigtem zur Anwendung. Unter die Berufsgruppen, die Anderkonten eröffnen können, fallen: Anwälte, Notare, Wirtschaftstreuhänder, Immobilienverwalter und -makler.
+###
+    Kann eine Bank aus der Sicherungseinrichtung austreten?
+
+    Nein, ein Austritt aus der jeweiligen Sicherungseinrichtung ist nur zulässig, wenn das betreffende Institut gleichzeitig einer anderen Sicherungseinrichtung beitritt, etwa, wenn es den Sektor wechselt. Die gesetzlich vorgeschriebene Sicherung der Einlagen muss jedenfalls ohne Unterbrechung gewährleistet sein, da ansonsten die Konzession der Bank erlischt.
+###
+    Welche Sicherungseinrichtungen gibt es in Österreich?
+
+    Bis zum Ablauf der Übergangsfrist (31.12.2018) werden die derzeit bestehenden Sicherungseinrichtungen beibehalten. Bis zum Ablauf der Übergangsfrist wird gem. § 1 Abs. 1, 2 und 3 ESAEG die Wirtschaftskammer Österreich die einheitliche Sicherungseinrichtung in Form einer Haftungsgesellschaft einrichten. Derzeit bestehen fünf Sicherungseinrichtungen:
+        Sparkassen-Haftungs Aktiengesellschaft
+        Einlagensicherung der Banken & Bankiers Gesellschaft m.b.H.
+        Österreichische Raiffeisen-Einlagensicherung eGen
+        Volksbank Einlagensicherung eG
+        HYPO-Haftungs Gesellschaft m.b.H.
+###
+    Welche Einlage ist nicht gesichert?
+
+    Nicht gesichert sind beispielsweise (Details siehe § 10 Abs. 1 ESAEG):
+        Schuldverschreibungen eines Kreditinstitutes und Verbindlichkeiten aus eigenen Akzepten. Einlagen von Pensions- und Rentenfonds sowie von Versicherungsunternehmen und Rückversicherungsunternehmen.
+        Einlagen, bei denen bis zum Eintritt des Sicherungsfalls die Identität des Inhabers niemals festgestellt wurde, es sei denn, der Inhaber holt dies innerhalb von 12 Monaten nach Eintritt des Sicherungsfalls nach.
+        Einlagen von Staaten sowie Einlagen regionaler und örtlicher Gebietskörperschaften (z.B. Länder und Gemeinden).
+###
+    Was geschieht mit den Wertpapieren in einem Depot im Falle der Insolvenz des depotführenden Kreditinstitutes?
+
+    Als Eigentümer der in seinem Depot befindlichen Wertpapiere (Aktien, Anleihen, Investmentfondsanteile ...) kann der Kunde im Fall des Konkurses des depotführenden Kreditinstituts einen Aussonderungsanspruch auf diese Wertpapiere geltend machen (in voller Höhe), d.h. die ihm gehörenden Wertpapiere fallen nicht in die Konkursmasse des depotführenden Kreditinstituts. Die in einem Depot befindlichen Wertpapiere selbst sind aber nicht gesichert (es besteht das Konkursrisiko des Emittenten)
+###
+    Welche Guthaben fallen unter die Anlegerentschädigung?
+
+    Sämtliche Forderungen des Anlegers gegen das Kreditinstitut, insbesondere aus:
+        Verwaltung und Verwahrung von Wertpapieren (Depotgeschäft).
+        Handel des Kreditinstitutes mit Finanzmarktinstrumenten.
+
+    Rückflüsse aus der Wertpapierverrechnung (Dividendenerträge, Verkaufserlöse, Kuponauszahlungen, Tilgungen, etc.) sind als Guthaben auf einem Kundenkonto im Rahmen der Einlagensicherung bis zu einem Auszahlungshöchstbetrag von EUR 100.000 gesichert.
+
+    Kein Anspruch auf Doppelentschädigung. Forderungen, die sowohl als gedeckte Einlage als auch als sicherungspflichtige Forderung aus Wertpapiergeschäften entschädigt werden könnten, sind nach der Einlagensicherung zu entschädigen (§ 51 Abs. 1 ESAEG).
+    Unterschiede zwischen Einlagensicherung und Anlegerentschädigung:
+        Unterschiedliche Sicherungshöchstbeträge
+        Die Anlegerentschädigung beträgt unverändert EUR 20.000,- pro Anleger (natürlicher oder nicht-natürlicher Person) pro Kreditinstitut (siehe Pkt. 1)
+        Der Selbstbehalt
+        Nur bei der Anlegerentschädigung bei nicht-natürlichen Personen, unverändert in Höhe von 10% der Forderung
+        Unterschiedliche Auszahlungsfristen
+        In der Anlegerentschädigung binnen 3 Monaten, in der Einlagensicherung binnen 20 Arbeitstagen (bis 31.12.2018); 15 Arbeitstagen (zwischen 01.01.2019 – 31.12.2020); 10 Arbeitstagen (zwischen 01.01.2021 – 31.12.2023) und 7 Arbeitstagen (ab 01.01.2024).
+        Bei Eintritt des Sicherungsfalls hat die Sicherungseinrichtung die gedeckten Einlagen zu erstatten ohne dass es eines Antrages des Einlegers hierzu bedarf (Ausnahme Anlegerentschädigung und zeitlich begrenzt gedeckte Einlagen gem. § 12 ESAEG).
+###
+    Was ist, wenn die Sicherungseinrichtung nicht genügend Mittel hat?
+
+    Jede Sicherungseinrichtung (einheitliche Sicherungseinrichtung und institutsbezogene Sicherungssysteme) hat einen Einlagensicherungsfond in Höhe von 0,8% der Gesamtsumme der gedeckten Einlagen einzurichten und so lange den Mitgliedsinstituten jährliche Beiträge und Sonderbeiträge vorzuschreiben bis dieser Zielbetrag erreicht ist. Sollte die betroffene Sicherungseinrichtung feststellen, dass sie die Erstattung der gedeckten Einlagen aus dem Fondsvermögen nicht innerhalb der gesetzlichen Auszahlungsfristen (siehe Pkt. 13) sicherstellen kann, so sind die anderen Sicherungseinrichtungen unverzüglich zu informieren und haben diese für die Deckung des Fehlbetrages aufzukommen (§§ 18 ff ESAEG)..
+###
+    Wie schnell komme ich an mein Geld?
+
+        Die gedeckten Einlagen betragen maximal EUR 100.000,-
+
+        Die Sicherungseinrichtung zahlt die gedeckten Einlagen grundsätzlich innerhalb der gesetzlichen Frist von 20 Arbeitstagen (ab 1.1.2019: 15 Arbeitstage; ab 1.1.2021: 10 Arbeitstage; ab 1.1.2024: 7 Arbeitstage) aus. Ein Antrag Ihrerseits ist nicht erforderlich. Allerdings ist der Sicherungseinrichtung das Konto bekannt zu geben, auf das ausgezahlt werden soll.
+
+        Zu einer Überschreitung dieser Frist kann es beispielsweise kommen, wenn
+            Ihr Anspruch auf Erstattung strittig ist
+            die Einlage Gegenstand einer Rechtsstreitigkeit ist
+            es sich um eine Einlage im Zusammenhang mit einer Treuhandschaft handelt
+
+        Details zu diesen Ausnahmen entnehmen Sie bitte § 14 Abs. 2 ESAEG.
+
+        Die gedeckten Einlagen betragen mehr als EUR 100.000,-
+
+        Falls Ihre Einlage eine zeitlich begrenzt gedeckte Einlage im Sinne des § 12 ESAEG ist, müssen Sie innerhalb von 12 Monaten ab Eintritt des Sicherungsfalls bei der Sicherungseinrichtung einen Antrag auf Erstattung stellen; der Sicherungseinrichtung nachweisen, dass sämtliche Voraussetzungen des § 12 ESAEG erfüllt sind.
+
+        Die Auszahlung erfolgt nach Überprüfung Ihres Anspruches durch die Sicherungseinrichtung. Für die Antragstellung wird im Sicherungsfall auf der Website der Sicherungseinrichtung ein entsprechendes Formular abrufbar sein.
+###
+    Was geschieht mit meinen Einlagen und Krediten im Falle des Konkurses eines Kreditinstitutes?
+
+    Im Falle eines Konkurses eines Kreditinstitutes kann der Kunde seine Forderungen gegen die Bank (z.B. aus Einlagen) mit seinen Verbindlichkeiten gegenüber der Bank (z.B. aus Krediten) kompensieren, z.B. einem Kredit in Höhe von EUR 50.000 steht eine Einlage in Höhe von EUR 50.000 gegenüber. Somit erleidet der Kunde in einem solchen Fall keinen Schaden, da sich Forderung und Verbindlichkeit durch Kompensation ausgleichen. Mangels Ausfalls hätte der Kunde in obigem Beispiel keine Forderung gegen die Einlagensicherung.
+###
+    Wo erfährt man, welcher Sicherungseinrichtung ein Kreditinstitut angehört?
+
+    Die Kreditinstitute sind in Deutschland gemäß § 23a Abs. 1 Satz 3 KWG verpflichtet, mit dem „Informationsbogen für den Einleger“ über die gesetzliche Einlagensicherung zu informieren. Der „Informationsbogen für den Einleger“ ist auf der Homepage der DenizBank (Wien) AG zu finden.
+###
+    Wie funktioniert die Einlagensicherung für Gemeinschaftskonten?
+
+    Die Einlagensicherung gilt je Kunde (Einleger), nicht je Konto. Bei einem gemeinschaftlich geführten Konto hat somit grundsätzlich jeder (legitimierte) Kontoinhaber Anspruch auf Entschädigung. Grundsätzlich wird bei der Zuordnung der Guthaben auf Gemeinschaftskonten von einer 1:1 Aufteilung ausgegangen. Den Kontoinhabern steht es jedoch frei, dem Kreditinstitut noch vor Eintritt des Sicherungsfalles eine schriftliche Regelung zu übergeben, die von der 1:1 Aufteilung abweicht. Bei Eintritt eines Sicherungsfalles ist der gewählte Aufteilungsschlüssel für die Zuordnung heranzuziehen.
+
+    Einlagen auf Konten von offenen Gesellschaften (OG), Kommanditgesellschaften (KG) oder Gesellschaften bürgerlichen Rechts (GesbR) sowie von diesen Gesellschaftsformen entsprechenden ausländischen Gesellschaften werden immer nur als Einlagen einer Person behandelt, auch wenn mehrere Personen als Gesellschafter darüber verfügen können. Der Auszahlungshöchstbetrag beträgt daher in diesem Fall EUR 100.000 in Summe.
+###
+    Wertpapierdepots
+
+    Die von der Bank verwahrten Wertpapiere fallen nicht in die Konkursmasse der Bank. Sie werden dem Anleger ausgefolgt und auf das Wertpapierdepot einer anderen Bank überwiesen.
+###

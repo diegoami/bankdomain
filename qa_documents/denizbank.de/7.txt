@@ -1,0 +1,21 @@
+###
+    Was ist ein Verrechnungskonto?
+
+    Dieses Konto dient zur Abwicklung Ihrer Festgeldanlagen. Neben dem Verrechnungskonto können Sie ein Tagesgeldkonto sowie beliebig viele Festgeldanlagen führen. Vom Verrechnungskonto aus kann nur an eine externe Referenzkontonummer Geld überwiesen werden. Die externe Referenzkontonummer geben Sie bei Kontoeröffnung an. Sie wird dann bei uns für Sie hinterlegt.
+###
+    Wie kann ich ein Verrechnungskonto eröffnen?
+
+    Das Verrechnungskonto wird mit der Beantragung des Classic Sparen Kontos automatisch für Sie angelegt.
+###
+    Wie hoch sind die Gebühren für das Verrechnungskonto?
+
+    Die DenizBank stellt ihren Kunden das Verrechnungskonto gebührenfrei zur Verfügung. Überweisungen erfolgen ausschließlich auf das Referenzkonto und sind kostenlos.
+###
+    Wie hoch ist die Verzinsung auf dem Verrechnungskonto?
+
+    Das Verrechnungskonto wird nicht verzinst, da es nur als Abwicklungskonto für Transaktionen dient.
+###
+    Wie kann ich mein Referenzkonto ändern?
+
+    Durch eine schriftliche Mitteilung per Post kann das Referenzkonto geändert werden.
+###

@@ -1,0 +1,37 @@
+###
+Was ist mit Mastercard SecureCode gemeint?
+
+Dieser Service gibt Ihnen Sicherheit vor unberechtigter Nutzung Ihrer Online Mastercard® beim Online Shopping, wenn der Händler an dem Verfahren Mastercard SecureCode teilnimmt.
+###
+Wie funktioniert der Service Mastercard SecureCode?
+
+Sie können sich zu diesem Service über Ihr Online Banking anmelden oder während eines Bezahlvorganges bei einem teilnehmenden Händler registrieren lassen. Zur Bestätigung Ihrer Anmeldung bzw. bei der Registrierung während einer Online Bestellung erhalten Sie eine mTAN (mobile TAN) per SMS geschickt, die Sie zur Bestätigung an die Consors Finanz übermitteln. Dies dient dazu, Sie als Karteninhaber zu identifizieren.
+###
+Welchen Schutz bietet mir Mastercard SecureCode?
+
+Wenn Sie bei einem teilnehmenden Online Händler eine Bestellung tätigen, bestätigen Sie mit einer mTAN, dass Sie der Besitzer der Online Karte sind. Wenn eine nicht existente mTAN eingegeben wird, wird der Kaufvorgang nicht durchgeführt.
+###
+Benötige ich für den Mastercard SecureCode Service eine neue Online Karte?
+
+Nein, Sie können Ihre jetzige Online Karte für diesen Service registrieren lassen.
+###
+Was mache ich, wenn die Registrierung fehlschlägt bzw. ich keine mTAN erhalte?
+
+Bitte überprüfen Sie, ob Sie Ihre richtige Mobilnummer angegeben haben, und kontaktieren Sie unseren Kundenservice.
+###
+Was passiert, wenn ich meine Karte verliere und/oder eine neue Online Karte mit einer neuen Kartennummer bekomme?
+
+In diesem Fall müssen Sie sich erneut mit Ihrer neuen Online Karte registrieren.
+###
+Wie erkennt ein Online Händler, der am Mastercard SecureCode Service teilnimmt, dass meine Online Karte für den Service registriert ist?
+
+Wenn Sie eine Karte benutzen, die für den Mastercard SecureCode Service zugelassen ist, erhält der Online Händler diese Information automatisch, sobald eine Bestellung mit der Kartennummer getätigt wird.
+###
+Behindert das Verfahren den Prozess der Online Bestellung?
+
+Nein, Sie werden als teilnehmender Kunde identifiziert und erhalten eine mTan, die Sie zur Verifizierung im Bezahlprozess angeben. Danach kann die Bestellung abgeschlossen werden.
+###
+Kann ich künftig auch Bestellungen bei einem Händler veranlassen, der nicht am Mastercard SecureCode Service teilnimmt?
+
+Ja, Sie können auch weiterhin Ihre Online Karte bei jedem Händler einsetzen.
+###

@@ -1,0 +1,31 @@
+###
+Hat Ginmon Zugriff auf mein Vermögen?
+
+Als Inhaber eines eigenen Wertpapierdepots haben nur Sie alleine Zugriff auf Ihr Vermögen. Ginmon hat weder rechtlich noch technisch zu irgendeinem Zeitpunkt Zugriff auf Ihr Vermögen. Da es sich bei Ihren Wertpapieren um Sondervermögen handelt, ist dieses selbst im Insolvenzfall unserer Partnerbank DAB Bank stets voll geschützt.
+###
+Wo liegt das Geld meiner Geldanlage bei Ginmon genau?
+
+Die Sicherheit Ihrer Geldanlage liegt uns besonders am Herzen. Ihre Geldanlage liegt sicher in Ihrem eigenen Wertpapierdepot bei unserem Partner, der DAB Bank. Rechtlich liegen die Vermögen unserer Kunden damit gesichert im Sondervermögen der Depotbank. Von einer Insolvenz unserer Partnerbank oder von Ginmon bliebe Ihr Geld also unberührt.
+
+Zusätzlich setzen wir nur auf voll-replizierende ETFs und Indexfonds, um mögliche Kontrahentenrisiken zu vermeiden. Mit Ginmon gehen Sie also keine unnötigen Risiken ein – der erste und wichtigste Schritt zu einer erfolgreichen Geldanlage.
+###
+Unterliegt mein Vermögen bei Ginmon der europäischen Einlagensicherung?
+
+Die Einlagensicherung stellt Rückzahlungsansprüche von Kunden gegenüber Kreditinstituten sicher. Als Wertpapierdepotinhaber ist Ihr Anlagekapital als Sondervermögen zu 100 % vor Fremdzugriff, z.B. im Insolvenzfall der Partnerbank, geschützt.
+
+Zudem unterliegt Ihr Guthaben auf dem Verrechnungskonto der DAB Bank als deutsches Kreditinstitut der EU Einlagensicherung. Bezüglich der Sicherheit Ihrer Geldanlage müssen Sie sich also keine Sorgen machen.
+###
+Wie sieht der Datenschutz bei Ginmon aus?
+
+Der Schutz im Umgang mit Daten des Kunden ist für Ginmon von höchster Bedeutung. Ginmon unterliegt den geltenden gesetzlichen Bestimmungen des Bundesdatenschutzgesetzes (BDSG), den Datenschutzbestimmungen der Europäischen Union sowie sonstigen datenschutzrechtlichen Richtlinien.
+
+Ginmon ist dem gesetzeskonformen und verantwortungsbewussten Umgang mit Kundendaten verpflichtet.
+###
+Nutzt Ginmon eine sichere Verbindung zur Übertragung meiner Daten?
+
+Um eine sichere Datenübermittlung zu garantieren, setzen wir bei der Nutzung unserer Technologieplattform auf modernste Verschlüsselungsverfahren. Mittels einer 256 Bit SSL-Verschlüsselung (Secure Socket Layer) übermitteln Sie Ihre Daten per Internet an unsere Server und umgekehrt. Diese Verschlüsselung entspricht denselben hohen Standards, die bei Banken üblich sind. In der Statusleiste Ihres Browsers können Sie dies durch das geschlossene Schloss-Symbol sowie die Adresszeile beginnend mit https:// erkennen.
+###
+Versendet Ginmon Emails, in denen ich aufgefordert werde meine Zugangsdaten und/oder mein Passwort einzugeben?
+
+Nein, Sie werden niemals von uns aufgefordert in einer Email Ihre Zugangsdaten einzugeben. Hierbei handelt es sich vermutlich um Betrug. Bitte melden Sie diesen umgehend an unseren Kundenservice.
+###

@@ -1,0 +1,79 @@
+###
+    Was sind Festgeldkonten?
+
+    Ein Festgeldkonto ist ein Online Sparkonto bei der DenizBank. Dabei wird ein bestimmter Betrag (ab € 1.000) auf einem Festgeldkonto angelegt und die Anlagedauer fixiert. Nach Ablauf der Anlagedauer werden Ihnen die Zinsen gutgeschrieben. So können Sie Ihr Geld bei der DenizBank zu attraktiven Konditionen für sich arbeiten lassen.
+    Wie kann ich online ein Festgeldkonto eröffnen?
+
+    Für die Eröffnung eines Festgeldkontos müssen Sie bereits über ein Stammkonto bei der DenizBank verfügen. Sie loggen sich auf der Internet Banking Plattform der DenizBank ein und gehen auf “Konten & Sparen“. Sie wählen “Online Sparen“ und “Festgeldkonto“. Sie geben die Anlagesumme, das Abbuchungskonto (Stammkonto oder Tagesgeldkonto der DenizBank) und die Modalität bei der Fälligkeit ein und bestätigen Ihre Eingaben mit einer TAN.
+
+    Zu beachten ist, dass das der Anlagebetrag zuvor auf Ihrem Stammkonto sein muss, um ein Festgeldkonto zu eröffnen.
+###
+    Wie lange ist die Laufzeit bei Festgeldkonten?
+
+    Die DenizBank bietet bei Festgeldkonten folgende Laufzeiten an:
+        3 Monate
+        6 Monate
+        9 Monate
+        12 Monate
+        18 Monate
+        24 Monate
+        32 Monate
+        48 Monate
+        60 Monate
+        72 Monate
+        84 Monate
+        96 Monate
+        108 Monate
+        120 Monate
+###
+    Wie hoch ist die Mindesteinlage bei Festgeldkonten?
+
+    Die Mindesteinlage beträgt  1.000,- €.
+###
+    Wie zahle ich meinen Anlagebetrag ein?
+
+    Sie überweisen Ihren Anlagebetrag auf Ihr Stammkonto und eröffnen online das Festgeldkonto.
+###
+    Wohin werden die Zinsen gutgeschrieben?
+
+    Die Zinsen werden auf Ihr Festgeldkonto abzüglich allfälliger Steuern am Ende der Laufzeit gutgeschrieben. Sofern nicht schriftlich anders vereinbart, werden die Zinsen abzüglich Steuern bei überjährigen Laufzeiten nach jeweils einem Laufzeitjahr kapitalisiert.
+###
+    Was muss ich bei der Eröffnung eines Festgeldkontos beachten?
+
+    Für die Eröffnung eines Festgeldkontos müssen Sie über ein Stammkonto bei der DenizBank verfügen. Der Anlagebetrag, den Sie auf dem Festgeldkonto veranlagen möchten, muss sich zuvor auf Ihrem Stammkonto befinden.
+
+    Darüber hinaus ist zu beachten, dass Sie die Modalität bei der Fälligkeit (d.h. mit Ablauf der Laufzeit) angeben müssen. Zur Auswahl stehen:
+        Bei Fälligkeit zurückzahlen
+        Der Betrag wird bei Fälligkeit auf Ihr Stammkonto überwiesen.
+        Zinsen & Kapital wiederveranlagen
+        Es werden die Ihnen zustehenden Zinsen und das Kapital für die gleiche Laufzeit mit dem zum Zeitpunkt der Fälligkeit gültigen Zinssatz wiederveranlagt.
+        Kapital wiederveranlagen
+        Es werden die Ihnen zustehenden Zinsen auf Ihr Stammkonto übertragen. Das Kapital wird für die gleiche Laufzeit mit dem zum Zeitpunkt der Fälligkeit gültigen Zinssatz wiederveranlagt.
+###
+    Wie viele Festgeldkonten kann ich eröffnen?
+
+    Sie können beliebig viele Festgeldkonten bei der DenizBank eröffnen.
+    Was muss ich am Ende der Laufzeit tun?
+
+    Prinzipiell werden Festgelder inklusive der Zinsen bei Fälligkeit (d.h. am Ende der Laufzeit) auf Ihr Stammkonto überwiesen.
+
+    Im Fall “Zinsen & Kapital wiederveranlagen“ werden die Ihnen zustehenden Zinsen und das Kapital für die gleiche Laufzeit mit dem zur Fälligkeit gültigen Zinssatz wieder veranlagt. Im Fall “Kapital wiederveranlagen“ werden die Ihnen zustehenden Zinsen auf Ihr Stammkonto übertragen. Das Kapital wird dann für die gleiche Laufzeit mit wiederveranlagt.
+
+    Möchten Sie keine Wiederveranlagung, ist eine schriftliche Mitteilung an uns erforderlich.
+ ###
+    Sind die Zinsen garantiert?
+
+    Der vereinbarte Zinssatz der Festgeldkonten ist für die gesamte Laufzeit garantiert.
+###
+    Welche Gebühren fallen bei Festgeldanlagen an?
+
+    Bei der DenizBank fallen für Festgeldkonten keine Gebühren an.
+###
+    Wie kann ich vorzeitig mein Festgeldkonto auflösen?
+
+    Vorzeitige Auflösungen sind schriftlich per Post an das Service Center der DenizBank (Münchener Straße 7, 60329 Frankfurt am Main) zu richten oder persönlich in einer unserer Filialen vorzunehmen.
+###
+    Wie hoch ist die Verzinsung bei vorzeitiger Festgeldkontoauflösung?
+
+    Bei vorzeitiger Festgeldauflösung verfällt der komplette Zinsertrag der Anlage und es wird zusätzlich eine Gebühr von 10,-  € berechnet.
+###

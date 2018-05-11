@@ -1,0 +1,332 @@
+###
+Welche Unterlagen werden für die Eröffnung eines Kontos für Minderjährige benötigt?
+Bitte bringen Sie zur Kontoeröffnung die Geburtsurkunde des Minderjährigen mit. Außerdem müssen sich die gesetzlichen Vertreter persönlich mit ihrem Personalausweis oder Pass legitimieren. Sofern ein besonderes Sorgerecht besteht, abweichend zum gemeinsamen Sorgerecht beider Eltern, z.B. nach Ehescheidung, ist ein Nachweis darüber notwendig.
+###
+Wo kann ich Münzgeld einzahlen?
+In nur sechs kurzen Schritten zur erfolgreichen Abgabe Ihres Safebags:
+
+    Leeren Safebag aus einem PrivatkundenCenter mitnehmen
+    Beutelvorderseite inkl. Abrissbeleg ausfüllen
+    Münzgeld einfüllen (keine Banknoten/Scheine, ausländ. Währungen, sonst. Gegenstände)
+    Beutel mit vorgesehene Klebestreifen verschließen
+    Passende Filiale zur Safebag-Abgabe direkt online suchen
+    Safebag in PrivatkundenCenter abgeben und Abrissbeleg als Quittung aufbewahren
+###
+Ich will mein Kontomodell ändern. Wie kann ich das?
+Möchten Sie das Preismodell für Ihr privates Girokonto ändern, können Sie dies hier bequem online beauftragen.
+###
+Welchen Internet-Browser kann ich für die Video-Legitimation nutzen?
+Sie können die Video-Legitimation am PC/Notebook mit Firefox, Chrome, Opera oder Safari durchführen. Wichtig ist, dass der Browser das Protokoll 'WebRTC' beherrscht. Der Internet Explorer kann das bisher nicht. Wir empfehlen allerdings, die Video-Legitimation mit Ihrem Smartphone und der IDnow-App durchzuführen. Das ist wesentlich komfortabler für Sie.
+###
+Wie viel Geld kann ich an einem Geldautomaten abheben?
+Sie können an den Automaten der Berliner Sparkasse mit Ihrer Sparkassen-Card täglich bis zu 1.000 EUR abheben. An fremden Geldautomaten im Inland und europäischen Ausland können Sie bis zu 500 EUR abheben. Grundsätzlich empfiehlt sich die Kreditkarte der Berliner Sparkasse für Bargeldabhebungen im Ausland.
+
+Bitte beachten Sie, dass an einigen Geldautomaten der Auszahlungsbetrag auch darunter liegen kann.
+###
+Welche Kosten entstehen bei der Verfügung an Automaten im In- und Ausland?
+Verfügungen mit der Sparkassen-Card an über 25.000 Sparkassen-Automaten im Inland sind kostenfrei. Bei Verfügungen an Automaten anderer deutscher Banken wird Ihnen vor Abhebung das Entgelt angezeigt. Dieses legt der jeweilige Automatenbetreiber fest.
+Die genauen Preise für Verfügungen im Ausland und Verfügungen mit der Kreditkarte finden Sie im Kapitel B unseres Preis- und Leistungsverzeichnisses.
+Bitte beachten Sie, dass Sie als Nutzer unserer Kreditkarten im Ausland am Geldautomaten kostenfrei verfügen können.
+###
+Meine Karte wurde am Automaten eingezogen. Was kann ich jetzt tun?
+Bitte setzen Sie sich unter unserer Hotline 030/869 869 69 persönlich mit uns in Verbindung.
+###
+Was bedeutet V PAY?
+Im europäischen Ausland profitieren Sie von dem europaweit einheitlichen Kartensystem V PAY. Überall dort, wo V PAY akzeptiert wird, ist der Einsatz der Sparkassen-Card möglich.
+###
+Kann ich mit der Visa Card auch Bargeld abheben?
+Im Inland können Sie auch mit der Visa Card am Geldautomaten Bargeld abheben. Dies ist allerdings mit einem entsprechenden Entgelt verbunden. Insbesondere im Ausland sollten Sie für Bargeldabhebungen am Automaten Ihre Visa Card statt Ihrer Sparkassen-Card ("girocard") verwenden.
+###
+Wie kann ich das Online-Banking mit HBCI-Chipkarte nutzen?
+Zum Online-Banking mit HBCI-Chipkarte mit einer an Ihrem PC installierten Software brauchen Sie einen geeigneten Chipkartenleser (Sicherheitsklasse 3). In unserem SparkassenShop (Angebot des
+Deutschen Sparkassenverlags) finden Sie das TÜV-geprüfte StarMoney und auch den geeigneten Chipkartenleser. Mit einer HBCI-Karte schaffen Sie alle Voraussetzungen für Komfort und Sicherheit. Diese Wertkarte ist kontoungebunden und kann unbefristet gebraucht werden.
+###
+Was kann ich tun, wenn ich nicht alle meine Konten sehe?
+Hier ist es wahrscheinlich, dass die automatische Freischaltung neuer Konten nicht vereinbart wurde. Um diese Freischaltung nachzuholen wenden Sie sich bitte persönlich an Ihren Berater vor Ort.
+###
+
+Warum kann ich auf dem Smartphone die smsTAN nicht nutzen?
+Die Verwendung des smsTAN-Verfahrens für Geldtransaktionen über ein Smartphone ist aus Sicherheitsgründen nicht möglich.
+Für Transaktionen über mobile Endgeräte empfehlen wir das pushTAN-Verfahren mit einer speziell abgesicherten App.
+Weitere Informationen dazu finden Sie hier.
+###
+Mit welchem Namen melde ich mich im Online-Banking an (auch nach Entsperrung)?
+Für jedes TAN-Verfahren das Sie nutzen, haben Sie eine eine Legitimations-ID und ggf. einen Anmeldenamen angelegt. Beides können Sie für die Anmeldung nutzen. Haben Sie Online-Banking neu beantragt oder wurden Sie nach einer Sperrung wieder freigeschaltet, nutzen Sie bitte Ihren Anmeldenamen bzw. Ihre Legitimations-ID für die erste Anmeldung. Anschließend ist es erforderlich, Ihre Start-PIN in eine eigene, nur Ihnen bekannte PIN zu ändern. Nach erfolgtem Login können Sie über 'Sicherheit' - 'Anmeldename' Ihren persönlichen Anmeldenamen festlegen. Bitte wählen Sie eine Bezeichnung zwischen 5 und 15 Zeichen und bedenken Sie, dass diese nur einmal vorkommen darf.
+###
+Weshalb steht auf dem Button zum Abschluss eines Produktes "kostenpflichtig..."?
+Wir verwenden die Buttonaufschrift "kostenpflichtig..." immer dann, wenn ein Produkt erworben wird, das für Sie nicht kostenfrei ist, also z.B. ein Kontoführungspreis oder Kreditzinsen anfallen. Über diese Kosten informieren wir Sie immer im Vorhinein, versteckte Kosten gibt es nicht.
+###
+Die SMS mit der TAN kommt nicht an. Was tun?
+Prüfen Sie zunächst, ob Sie eine Mobilfunk-Netzverbindung haben. Falls nein, stellen Sie diese her. Ferner kann es sein, dass im Netz Ihres Providers eine Störung vorliegt, die die Auslieferung der SMS verzögert. Warten Sie ggf. noch einen Moment länger oder erkundigen Sie sich bei Ihrem Provider nach einer aktuellen Störung.
+Prüfen Sie, ob Sie für den Empfang der smsTAN die richtige Handynummer angegeben haben. Hat sich Ihre Telefonnummer evtl. vor kurzem geändert?
+Starten Sie Ihr Handy ggf. neu, so dass es sich neu mit dem Mobilfunknetz verbindet.
+###
+Wo kann ich in der Sparkassen-App meine Kreditkartenumsätze sehen?
+Wählen Sie im Menü 'Angebote & Services' und dann 'Bankingangebote'. Dort gelangen Sie über 'Kreditkartensalden' auch zu den Umsätzen.
+
+###
+Wie kann ich beim chipTAN-Verfahren eine neue Karte aktivieren?
+Das können Sie hier tun.
+###
+Wie kann ich auf chipTAN umstellen?
+Das chipTAN-Verfahren können Sie hier beantragen?
+###
+Wo sind meine Überweisungsvorlagen?
+Ihre Vorlagen finden Sie im Online-Banking unter: Banking - Vorlagen
+###
+Wie kann ich nach speziellen Umsätzen suchen?
+Lassen Sie sich die Umsätze für den Zeitraum anzeigen, den Sie durchsuchen wollen und geben Sie im Feld 'Umsätze durchsuchen' Ihren Suchbegriff ein. Das Suchfeld wirkt als Volltextsuchfeld. Weitere Hinweise zur Suche bekommen Sie hinter dem Fragezeichen rechts oben auf der Umsatzübersicht (Link zum Glossar).
+###
+Meine Handynummer hat sich geändert. Wie kann ich diese neu für das smsTAN Verfahren hinterlegen?
+Hier können Sie die neue Handynummer hinterlegen.
+###
+Mein TAN-Generator erzeugt plötzlich keine TAN. Warum?
+Vermeiden Sie Bildschirmreflexionen, evtl. durch eine Lampe oder Sonnenlicht.
+Prüfen Sie außerdem:
+Sind evtl. die Sensoren des TAN-Generators verschmutzt?
+Sind die Batterien noch frisch?
+Zeigen beide Pfeile auf Bildschirm und TAN-Generator aufeinander?
+Wenn alles nichts hilft, können Sie auch vorübergehend auf das manuelle Verfahren umschalten.
+###
+Wenn ich das Online-Banking sperre, ist dann auch meine Karte gesperrt?
+Nein, die Sperren des Online-Banking, der Sparkassen-Card und der Kreditkarte sind voneinander unabhängig. Wenn Sie also, vielleicht versehentlich, das Online-Banking  gesperrt haben, können Sie Ihre Karte(n) weiter benutzen.
+
+Wollen Sie Ihre Karte wegen Verlust oder Diebstahl sperren, beachten Sie bitte unsere Hinweise dazu.
+###
+Wie kann ich meinen Anmeldenamen ändern?
+Nach der Anmeldung im Online-Banking wählen Sie im Menü "Service" den Eintrag "Anmeldename" und hinterlegen den gewünschten Anmeldenamen. Bitte beachten Sie, dass ein Anmeldename nur einmal vergeben werden kann.
+
+###
+Wie richte ich das pushTAN-Verfahren ein?
+Eine ausführliche Hilfe dafür bekommen Sie hier.
+###
+Auf welchen Geräten und mit welchen Betriebssystemen funktioniert das Mobile-Banking?
+Per Internet-Browser (z.B. Chrome, Firefox, Safari) können Sie ohne weitere Systemvoraussetzungen Online-Banking betreiben. Bitte achten Sie dabei jeweils auf die aktuellsten Versionen von Betriebssystem und Browser.Komfortabler geht es mit unserer App. Diese ist für Android und iOS verfügbar. Weitere Informationen hier.
+
+###
+Welche Limits gibt es im Online-Banking und wie kann ich diese ändern?
+Für Überweisungen im Online-Banking gilt ein kontenübergreifendes Tageslimit. Als Kontoinhaber können Sie Ihr Limit im Online-Banking unter dem Menüpunkt Service / Limitänderung an Ihren Bedarf anpassen. Sollte eine sofortige Änderung aus Sicherheitsgründen nicht möglich sein, steht Ihnen ein Änderungsformular zum Ausdruck zur Verfügung.
+###
+Ich bekomme im Online-Banking eine Fehlermeldung bei Betragsangaben, was mache ich falsch?
+Bitte geben Sie den Überweisungsbetrag linksbündig OHNE Leerzeichen UND Beträge über 999,99 EUR OHNE Punkt ein (Richtig: 1000 ; Falsch: 1.000).
+###
+Warum erscheint meine Sammelüberweisung als Einzelposten auf dem Kontoauszug?
+Sammelüberweisungen werden im Kontoauszug und in der Umsatzliste ohne gesonderte Vereinbarung als eine Buchung ausgewiesen. Sofern wir Ihnen die Sammelüberweisungen als Einzelpositionen auf Ihrem Kontoauszug anzeigen sollen, veranlassen Sie rechtzeitig eine Umstellung bei Ihrem Berater. Je nach genutzter Software kann diese Einstellung einzeln auch über den Auftrag selbst veranlasst werden. Beachten Sie dabei bitte, dass jeder Posten aus einem Sammelauftrag im Falle einer Aufschlüsselung so berechnet wird, als wäre er als Einzelauftrag erteilt worden. Dies führt, je nach Kontomodell, unter Umständen zu einem höheren Buchungspreis.
+###
+Wie erkenne ich, ob meine Überweisung vom Banksystem angenommen wurde?
+Sie bekommen am Ende Ihres Auftrags, also nach der Eingabe der TAN, eine direkte Bestätigung angezeigt.
+###
+
+Warum kann ich nur maximal 3000 Euro überweisen?
+Um die Sicherheit des Online-Bankings weiter zu erhöhen, haben wir die Betragsgrenze für Überweisungen begrenzt. Sie können dieses Limit Ihrem Bedarf entsprechend individuell festlegen.
+Limit anpassen
+###
+Wo sehe ich, wie viel ich online überweisen kann?
+Rufen Sie dazu im Online-Banking den Menüpunkt Online-Banking - Service - Limitänderung auf. Dort können Sie das Limit bei Bedarf auch ändern.
+###
+Warum kann ich bei Überweisungen nicht das heutige Datum eingeben?
+Für einen sofortige Überweisung lassen Sie bitte das Datumsfeld leer. Ein Datum müssen Sie nur dann angeben, wenn Ihre Überweisung später ausgeführt werden soll (sog. Terminüberweisung).
+###
+Ich will einen Dauerauftrag ändern bzw. löschen und soll dort ein Datum eingeben. Welches ist richtig?
+Bei der Änderung beachten Sie bitte das angegebene Datum für die "nächste Ausführung". Dieses Datum zeigt an, zu wann die Änderung wirksam wird. Für die Löschung eines Dauerauftrages können Sie den Monat angeben, wann der Auftrag gelöscht werden soll.  Lassen Sie das Datumsfeld leer, wird der Dauerauftrag vor dem nächsten Ausführungstermin gelöscht.
+###
+Warum wird der von mir gelöschte Dauerauftrag noch angezeigt?
+Die technische Löschung erfolgt bei uns im System am Tag vor dem vorgesehenen Löschungstermin. Der Dauerauftrag ist zwar bis dahin noch zu sehen, durch Sie jedoch nicht mehr bearbeitbar.
+###
+Wie kann ich einer Lastschriftabbuchung widersprechen?
+Rufen Sie die Umsätze auf. Klicken Sie neben der Lastschrift, die Sie zurückgeben wollen auf das Symbol mit dem Eurozeichen und dem Pfeil. Sollen darüber hinaus keine weiteren Abbuchungen durch den Zahlungsempfänger erfolgen, müssen Sie diesem gegenüber Ihr Lastschriftmandat widerrufen.
+###
+Ich habe Fragen zu Kwitt. Wo finde ich Antworten dazu?
+Alle Antworten auf Ihre Fragen zu Kwitt finden Sie auf den Seiten von Sparkasse.de.
+###
+Warum unterstützt die S-pushTAN-App den Fingersensor nicht?
+Um eine höchstmögliche Sicherheit bei Bankgeschäften zu gewährleisten, unterstützt die S-pushTAN Fingerabdrucksensoren nicht.
+Unabhängige Datenschützer warnen davor, für mehr Bequemlichkeit biometrische Merkmale preiszugeben: es sind Informationen, die wir ein Leben lang behalten werden.
+###
+
+Wie kann ich Kwitt mit einem Tablet ohne SIM nutzen?
+Die Nutzung von Kwitt ist an eine Mobilfunknummer in Verbindung mit der installierten App Sparkasse / Sparkasse+ gebunden.
+
+Eine Mobilfunknummer kann nur einmalig registriert werden. Soweit Sie Kwitt auf einem Tablet ohne SIM nutzen wollen, müssen Sie hierfür eine Mobilfunknummer besitzen. Den Code, den Sie bei der Registrierung Ihres Tablets auf die angegebene Mobilfunknummer erhalten, können Sie auf dem Tablet eingeben.
+
+Bitte beachten Sie, dass Ihre Freunde diese Mobilfunknummer in Ihrem Gerät ebenfalls gespeichert haben müssen.
+###
+Ist die App in ausländischen App Stores verfügbar?
+Ja, die APPs können weltweit runtergeladen werden.
+###
+Kann ich in der pushTAN-App auch mehrere Verbindungen verwalten?
+Die S-pushTAN-App kann (beliebig) viele Verbindungen, auch unterschiedlicher Sparkassen, verwalten.
+So geht's:
+1. S-pushTAN-App öffnen.
+2. Nachdem die automatische Prüfung auf vorliegende TAN’s abgeschlossen wurde, auf den Butten „Einstellungen“ (iOS: „Maulschlüssel“ oben links; Android: „Schieberegler“ oben rechts) klicken.
+3. „Weitere pushTAN-Verbindung“ auswählen. Anschließend die neue Verbindung hinzufügen.
+###
+Ich kann mich bei der Sparkasse-App nicht mit meiner PIN anmelden. Was kann ich tun?
+Zum Öffnen der App benutzen Sie Ihr selbst vergebenes App-Passwort. Das ist NICHT Ihre 5-stellige Online-Banking-PIN. Diese  verwenden Sie erst IN der App für die Aktualisierung Ihrer Konten. Falls Sie das App-Passwort vergessen haben, muss die App neu installiert werden.
+###
+Ich habe mein Passwort für die S-App vergessen. Was muss ich jetzt tun?
+Unter iOS: Rufen Sie in den Einstellungen Allgemein/Speicher & iCloud/Speicher verwalten die Einstellungen der S-App auf und löschen dort "Daten & Dokumente" anschließend kann die App neu eingerichtet werden.
+Beim Betriebssystem Android wählen Sie unter 'Einstellungen' - 'Apps' App "Sparkasse" bzw. "Sparkasse+" aus. Nach Antippen von 'Daten löschen' können Sie die App neu einrichten.
+###
+
+In meiner App kommt die Meldung: "..ist mit dem von Ihnen gewählten TAN-Verfahren nicht möglich.."). Wie kann ich mit der App Überweisungen durchführen?
+Wir haben das smsTAN-Verfahren für Geldtransaktionen per Smartphone aus Sicherheitsgründen nicht zugelassen.
+Für Transaktionen über mobile Endgeräte empfehlen wir das pushTAN-Verfahren mit einer speziell abgesicherten App.
+Weitere Informationen dazu.
+###
+Ist eine fünfstellige PIN noch sicher? Warum haben PINs bei Ihnen nicht acht oder mehr Stellen?
+Die PIN wird nach drei Fehlversuchen gesperrt. Ein Erraten der PIN durch ausprobieren ist dadurch kaum möglich. Dafür bleibt die PIN leicht merkbar und die Chance sich zu vertippen ist geringer als bei langen Zeichenreihen.
+
+###
+Mein Online-Banking-Zugang ist gesperrt, was kann ich tun?
+Schnelle Hilfe bei gesperrtem Zugang bekommen Sie hier.
+###
+Ich habe ein neues Handy bzw. mein Handy auf Werkseinstellungen zurückgesetzt. Wie kann ich meine S-pushTAN-App wieder aktivieren?
+Nach dem Zurücksetzen der S-pushTAN-App muss auch die pushTAN-Verbindung neu eingerichtet werden. Rufen Sie im Online-Banking unter "Service / PIN/TAN-Verwaltung" die Funktion "pushTAN verwalten" auf. Wählen Sie dann "zurücksetzen" hinter der zurückzusetzenden Verbindung aus. Auf Wunsch erhalten Sie ihre neuen Registrierungsdaten per SMS oder per Post.
+Weitere Hinweise finden Sie hier
+###
+Ich habe das Passwort für meine pushTAN-App vergessen. Wie kann ich meine S pushTAN-App wieder aktivieren?
+Geben Sie so lange das falsche App-Passwort ein, bis die App zurückgesetzt wird. Im Anschluss können Sie über das Online-Banking neue Registrierungsdaten anfordern.
+Rufen Sie im Online-Banking unter "Service / PIN/TAN-Verwaltung" die Funktion "pushTAN verwalten" auf. Wählen Sie dann "zurücksetzen" hinter der zurückzusetzenden Verbindung aus. Auf Wunsch erhalten Sie ihre neuen Registrierungsdaten per SMS oder per Post.
+Weitere Hinweise finden Sie hier
+###
+Ich habe meine PushTAN-App neu installiert. Wie kann ich meine S pushTAN-App wieder aktivieren?
+Rufen Sie im Online-Banking unter "Service / PIN/TAN-Verwaltung" die Funktion "pushTAN verwalten" auf. Wählen Sie dann "zurücksetzen" hinter der zurückzusetzenden Verbindung aus. Auf Wunsch erhalten Sie ihre neuen Registrierungsdaten per SMS oder per Post.
+Weitere Hinweise finden Sie hier
+###
+Warum bekomme ich keine pushTAN?
+Prüfen Sie zunächst, ob Ihr Handy mit dem Internet verbunden ist. Berücksichtigen Sie auch Folgendes: Haben Sie Ihr Handy gewechselt oder haben Sie die S-pushTAN-App neu installiert? Dann müssen Sie diese Verbindung neu registrieren. Auf Wunsch erhalten Sie ihre neuen Registrierungsdaten per SMS oder per Post.
+Weitere Hinweise finden Sie hier
+###
+
+Wie wechsele ich in der Sparkasse(+) App auf das pushTAN-Verfahren
+Das kommt darauf an, wie Sie zur pushTAN gewechselt sind:
+a) Ihr TAN-Vertrag wurde einfach umgestellt. Anmeldename und PIN sind dabei erhalten geblieben: Einfach den Finanzstatus aktualisieren. Das pushTAN-Verfahren wird dabei automatisch geladen.
+b) Sie haben neue Zugangsdaten erhalten. Dann bitte im Finanzstatus der App die Einstellungen aufrufen und ein "Bankkonto" hinzufügen. Geben Sie dort Ihre neuen Zugangsdaten ein. Am Ende des Vorgangs wird bei Ihren Konten das neue pushTAN-Verfahren hinterlegt. In den Kontodetails können Sie die Einstellungen einsehen und ggf. umstellen.
+###
+Warum erhalte ich an meinem Desktop-Computer die Meldung 'mobiles Gerät', keine Überweisung mit smsTAN möglich?
+Dies liegt ggf. an der eingestellten Darstellung des Displays. Ihr Computer wird vom Online-Banking-System als Mobilgerät erkannt. Von einem mobilen Endgerät sind aus Sicherheitsgründen keine Zahlungsaufträge zugelassen. Lösung: Ändern Sie die Display-Darstellung.
+###
+Kann mein TAN-Generator durch verschiedene Personen auch mit unterschiedlichen Bankverbindungen genutzt werden?
+Beim chipTAN-Verfahren werden die TANs auf dem TAN-Generator  in Verbindung mit dem Chip der Bank-/SparkassenCard generiert. Da der TAN-Generator selbst nicht auf den Kunden personalisiert ist, kann er durch unterschiedliche Personen mit verschiedenen Bankverbindungen genutzt werden. Jeder Nutzer benötigt dazu lediglich seine eigene SparkassenCard. In unserem SparkassenShop können Sie einen TAN-Generator  bestellen.
+###
+
+
+Fehlermeldung "Zertifikat ungültig". Was nun?
+Die Sicherheitszertifikate im Online-Banking müssen regelmäßig ausgetauscht werden. Sofern Sie bei der Abfrage Ihrer Konten die Meldung "Zertifikat ungültig" erhalten, aktualisieren Sie bitte Ihr StarMoney bzw. StarMoney Business über die integrierte Update-Funktion.
+
+Für ältere Versionen von StarMoney werden seitens des Herstellers StarFinanz keine Updates mit neuen Zertifikaten mehr zur Verfügung gestellt. Eine aktuelle Version von StarMoney bieten wir für Sie preiswert über den SparkassenShop an.
+
+Selbstverständlich können Sie auch auf unserer Webseite unser Online-Banking-Angebot via PIN/TAN-Verfahren nutzen.
+###
+Was bedeutet die automatische Ausgleichszahlung?
+Ein automatischer Ausgleich erfolgt in StarMoney immer dann, wenn nicht alle Umsätze eingelesen wurden. Bitte rufen Sie Ihre Umsätze erneut ab. Verändern Sie dazu vorab ggf. das Abrufdatum. Bei weiteren Fragen zu StarMoney wenden Sie sich bitte direkt an den Hersteller StarFinanz. Bitte beachten Sie, dass wir die Umsätze für rückwirkend 300 Werktage zur Verfügung stellen. Sollte der automatische Ausgleich bereits länger zurückliegen, entnehmen Sie bitte die fehlenden Buchungen Ihren Kontoauszügen.
+
+###
+
+Wie kann ich mein Online-Banking nach Eingabe einer falschen PIN bzw. nach Eingabe einer falschen TAN entsperren?
+Durch die dreimalige Eingabe einer falschen PIN (Geheimzahl) wird Ihr Online-Banking gesperrt. Diese Sperre kann von Ihnen durch Eingabe Ihrer gültigen PIN und einer gültigen TAN wieder aufgehoben werden. Voraussetzung hierfür ist, dass Sie sich mit Ihrer gültigen 5stelligen PIN zum Online-Banking anmelden. Sofern Sie Ihre PIN nicht mehr kennen, benötigen Sie neue Erstzugangs-PIN. Diese können Sie bequem und schnell online oder über unsere Hotline 030/869 869 57 bestellen.
+###
+Was sollte ich tun, damit mein Computer sicher genug fürs Online-Banking ist?
+Alles, was Sie zum Thema Sicherheit im Online-Banking wissen und beachten sollten, haben wir auf dieser Seite für Sie zusammengefasst. Der Computercheck hilft Ihnen bei der Prüfung Ihres Computers.
+
+###
+Kann ich die Funktion „Autovervollständigen“ bzw. „Kennwörter speichern“ für das Online-Banking ohne Sicherheitsverlust nutzen?
+Auf diese Funktionen sollten Sie für das Online-Banking besser verzichten
+###
+Was mache ich, wenn ich feststelle, dass jemand unberechtigt auf mein Konto zugegriffen hat?
+Sperren Sie sofort Ihren Zugang und wenden sich an uns: +49 30 869 86957
+Weitere Hinweise zur Sicherheit.
+###
+Was mache ich, wenn ich auf meinem Computer Schadsoftware entdeckt habe ("Trojaner" etc.)?
+Sperren Sie sofort Ihren Zugang und wenden sich an uns: +49 30 869 86957
+Weitere Hinweise zur Sicherheit.
+###
+Welchen Virenscanner empfehlen Sie?
+Einen konkreten Virenscanner können wir Ihnen nicht empfehlen. Lesen Sie am besten die Tests von Computerzeitschriften. Es gibt auch kostenfreie Angebote, die Sie aus vertrauenswürdiger Quelle beziehen können.
+###
+Kann ich das pushTAN-Verfahren auch nutzen, wenn mein Smartphone "gerootet" ist?
+Nein, das ist aus Sicherheitsgründen nicht möglich. Sie können stattdessen das chipTAN-Verfahren zur Absicherung Ihrer Aufträge verwenden.
+###
+In den Sicherheitshinweisen steht, dass ich keinesfalls eine TAN für eine Rücküberweisung eingeben soll. Kann ich dann aber keine Abbuchung stornieren?
+Bei unserem Hinweis zu einer "Rücküberweisung" handelt es sich um eine Sicherheitswarnung bzgl. arglistiger Täuschungen durch Dritte. Dies hat mit einer durch Sie veranlassten Rückgabe einer Lastschrift nichts zu tun. Wenn Sie im Zweifel sind, was richtig ist, rufen Sie uns am besten an. Wir helfen Ihnen.
+###
+Wie erkenne ich, dass ich auf der richtigen Sparkassen-Seite bin?
+Die Internet-Adresse der Berliner Sparkasse lautet: https://www.berliner-sparkasse.de. Tippen Sie diese am besten selbst ein anstatt sie z.B. aus einer Mail aufzurufen. Für wiederholte Aufrufe richten Sie sich einen Favoriten bzw. ein Lesezeichen im Browser ein. Wichtig: Achten Sie auf das https:// am Anfang. Ihr Browser wird, i.d.R. durch ein Schloss-Symbol, anzeigen, dass die Verbindung sicher ist.
+###
+Was empfehlen Sie in punkto Sicherheit?
+Umfassende Sicherheitshinweise haben wir auf dieser Seite zusammengefasst.
+
+###
+Ist das Online-Banking sicher?
+Unabhängige Gutachter schätzen die Sicherheit unserer Online-Banking-Verfahren als gut ein. Wie Sie selbst zu Ihrer Sicherheit beitragen können und sollten, lesen Sie hier.
+###
+Welches ist das sicherste TAN-Verfahren?
+Alle unsere TAN-Verfahren sind prinzipiell sicher. Sie unterscheiden sich hinsichtlich der persönlichen Bedürfnisse des Comforts.
+Die Online-Banking-Sicherheit hängt auch davon ab, wie Sie sich diesbezüglich verhalten. Lesen Sie dazu unsere Hinweise.
+
+###
+
+Kann ich meine Kontoauszüge im Elektronischen Postfach löschen?
+Die Kontoauszüge im Postfach stehen Ihnen unbefristet zur Verfügung. Soweit Sie Kontoauszüge löschen, können diese nur kostenpflichtig nacherstellt werden.
+###
+Kann ich alte Kontoauszüge in mein Elektronisches Postfach einstellen lassen?
+Kontoauszüge die noch nicht in Ihr Elektronisches Postfach eingestellt wurden, können kostenpflichtig nacherstellt werden, soweit sie nicht älter als ein Jahr sind. Der aktuelle Preis für die Erstellung einer Zweitschrift wird Ihnen angezeigt.
+###
+Werde ich über neue Dokumente automatisch informiert?
+Um die Benachrichtigungsfunktion zu aktivieren, wählen Sie im Online-Banking 'Postfach-Einstellungen'. Sie können eine oder mehrere E-Mailadresse hinterlegen, um über neue Dokumente informiert zu werden.
+###
+Kann ich das Elektronische Postfach auch mit meiner Finanzsoftware/App nutzen?
+Das Elektronische Postfach steht derzeit nur im browserbasiertem Online-Banking zur Verfügung. Über die App Sparkasse / Sparkasse + oder StarMoney wird Ihnen ein Link in das Online-Banking angeboten, damit Sie direkt auf Ihr Postfach zugreifen können.
+###
+Wie kann ich meine Kontoauszüge online abrufen?
+Registrieren Sie Ihr Konto für das Elektronische Postfach. Anschließend erhalten Sie automatisch Ihre Auszüge im vereinbarten Rhythmus ins Elektronische Postfach. Sie werden dort dauerhaft gespeichert. Ein Download,  Ausdruck und das Löschen der Auszüge ist jederzeit möglich. Kontoauszüge online bekommen
+###
+Komme ich an meine Kontoauszüge noch ran, wenn ich mein Konto aufgelöst habe?
+Solange die Teilnahmevereinbarung am Online-Banking gültig ist, stehen auch Kontoauszüge von geschlossenen Konten zur Verfügung. Eine Nacherstellung von Kontoauszügen ist online für diese Konten nicht möglich. Wir empfehlen dennoch, die Kontoauszüge bei Bedarf herunterzuladen.
+###
+Wie lange werden Kontoauszüge im Postfach aufbewahrt?
+Kontoauszüge werden unbegrenzt im Elektronischen Postfach gespeichert. Sie können durch Aktivieren von Löschregeln Ihr Postfach automatisch aufräumen lassen. Alle Möglichkeiten können Sie unter 'Postfach-Einstellungen' einsehen und anpassen.
+
+###
+Sind die Kontoauszüge im Elektronischen Postfach für Dritte sichtbar?
+Das Elektronische Postfach entspricht Ihrem Briefkasten. Nur Sie können auf den Kontoauszug zugreifen. Bei Bedarf können Sie ein Duplikat des Kontoauszuges in das Elektronische Postfach eines Bevollmächtigten einstellen lassen.
+###
+Kann ich die elektronischen Kontoauszüge auch ausdrucken?
+Ja, Sie können die Auszüge drucken oder auch auf Ihrer Festplatte speichern. Im Elektronischen Postfach bleiben sie gespeichert, bis Sie sie löschen.
+
+###
+Wie stelle ich ein, dass ich meine Auszüge online erhalte?
+Im Menü 'Postfach-Einstellungen' können Sie Ihre Kontoauszüge auf die Zustellung im Elektronischen Postfach umstellen. Wir empfehlen, zusätzlich die Benachrichtigung über neue Nachrichten  zu aktivieren, damit Sie immer sofort informiert werden.
+Jetzt Kontoauszüge umstellen
+###
+Wo sind meine Kontoauszüge?
+Ihre aktuellen und zurückliegenden Kontoauszüge finden Sie nach Anmeldung im Online-Banking unter: Online-Banking - Postfach - Übersicht - Kontoauszüge.
+
+###
+Wie kann ich den Kontoauszug als PDF öffnen? Beim Klick auf das Download-Symbol bekomme ich eine Excel-Datei.
+Klicken Sie direkt auf die Betreffzeile des Kontoauszugs.
+###
+
+Ich habe Fragen zu paydirekt Wo finde ich Antworten dazu?
+Alle Antworten auf Ihre Fragen zu paydirekt finden Sie hier.
+###
+Wie viel kann ich von meinem Sparkonto abheben?
+Pro Monat können Sie 2.000 Euro vom Sparkonto abheben.
+Benötigen Sie eine höhere Summe, müssen Sie den Betrag rechtzeitig vorher kündigen.
+Andere Regelungen gibt es bei Sparverträgen und  bei Tagesgeldkonten. Genaue Informationen erhalten Sie von Ihrer Beraterin oder Ihrem Berater.
+###
+Wie kann ich meine Adresse ändern?
+Die Adressänderung können Sie im Online-Banking unter 'Service - Adressänderung' vornehmen und mit einer TAN bestätigen.
+Bitte beachten Sie, dass eine Änderung ohne TAN oder per E-Mail aus Sicherheitsgründen nicht möglich ist, da der Absender nicht einwandfrei identifiziert werden kann.
+###
+Wie kann ich der Nutzung meiner Daten für Werbezwecke widersprechen?
+Selbstverständlich haben Sie die Möglichkeit, sämtliche Werbung Ihrer Sparkasse abzulehnen. Dazu reicht es, wenn Sie uns dies kurz mitteilen - per Post an: Berliner Sparkasse, 10889 Berlin sowie online oder telefonisch unter 030/869 869 69. Lesen Sie hierzu bitte auch unsere Hinweise zu Ihrer Privatsphäre
+###
+Wie kann ich festlegen, ob mich die Sparkasse anrufen oder mir eine E-Mail schicken darf, um mich auf Angebote aufmerksam zu machen?
+Mit Ihrer Einwilligungserklärung zur Kontaktaufnahme können Sie uns mitteilen, auf welchen Wegen Sie von uns kontaktiert werden möchten und auf welchen lieber nicht. Lesen Sie hierzu unsere Hinweise zur Achtung  Ihrer Privatsphäre
+###
+Ist der Datenschutz beim Live-Chat gewährleistet?
+Ja. Die Mitarbeiter des Live-Chats sitzen in einem  abgeschlossen Bereich ohne Publikumsverkehr. Dadurch sind Diskretion und  Datenschutz immer gewährleistet.
+Die gesamte Kommunikation zwischen Ihnen und dem  Mitarbeiter wird per SSL verschlüsselt übertragen. Die Server befinden sich in  Deutschland. Achten Sie selbst bei der Nutzung des Live-Chats auf Ihre Umgebung  und auf mögliche unerwünschte Zuhörer.
+###

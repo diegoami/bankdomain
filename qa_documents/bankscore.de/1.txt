@@ -1,0 +1,5 @@
+###
+Welche Daten darf meine Bank (Bankauskunft) weitergeben?
+
+Eine Bankauskunft enthält allgemein gehaltene Feststellungen und Bemerkungen über die wirtschaftlichen Verhältnisse des Kunden, seine Kreditwürdigkeit und Zahlungsfähigkeit. Angaben über Kontostände, Sparguthaben, Depot- oder sonstige der Bank anvertraute Vermögenswerte sowie Angaben über die Höhe von Krediten werden nicht gemacht.
+###

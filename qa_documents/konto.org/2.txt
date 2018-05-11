@@ -1,0 +1,42 @@
+###
+Was umfasst eine Bankauskunft ?
+Eine Bankauskunft umfasst alle Informationen über die wirtschaftlichen Verhältnisse eines Kunden, z.B. seine Kreditwürdigkeit und Zahlungsfähigkeit.
+
+Dies ist in den AGBs der Banken unter Nr. 2 Abs. 2 geregelt, in dem es heißt: Bankauskünfte sind „allgemein gehaltene Feststellungen und Bemerkungen über die wirtschaftlichen Verhältnisse des Kunden, seine Kreditwürdigkeit und Zahlungsfähigkeit; betragsmäßige Angaben über Kontostände, Sparguthaben, Depot- oder sonstige der Bank anvertraute Vermögenswerte sowie Angaben über Höhe von Kreditinanspruchnahmen werden nicht gemacht“.
+###
+Wer erhält eine Bankauskunft?
+
+    Eigene Kunden, sowie andere Kreditinstitute für eigene Zwecke und die ihrer Kunden
+    Der Anfragende muss ein berechtigtes Interesse an der gewünschten Information glaubhaft darlegen, dies wäre z.B. anzunehmen, wenn die erbetene Auskunft den Anfragenden vor einem ihm sonst drohenden Schafen im Geschäftsverkehr bewahren soll
+    Bei Anfrage über Kreditwürdigkeit besteht bereits ein berechtigtes Interesse, wenn der Anfragende im Rahmen bestehender oder sich anbahnender geschäftlicher Beziehungen beabsichtigt, an den Kunden Kreditleistungen zu erbringen (glaubhafte Darlegung einer möglichen Schädigung, etwa einem Forderungsausfall bei einer sich anbahnenden geschäftlichen Beziehung mit dem Kunden, reicht hierfür aus
+    Über Geschäftskunden (juristische Personen und Kaufleute), die im Handelsregister eingetragen sind, ist das Kreditinstitut berechtigt Bankauskünfte zu erteilen, sofern ihm keine anderslautende Weisung des Kunden vorliegt.
+    Über Privatpersonen werden nur Auskünfte erteilt, wenn der Kunde allgemein oder im Einzelfall ausdrücklich zugestimmt hat.
+###
+Von wem und warum werden Bankauskünfte angefordert?
+
+    Bei Privatpersonen: Wenn ein Kunde das Institut gewechselt hat und bei der neuen Bank direkt einen Kredit beantragen will, in diesem Fall sichert sich das neue Kreditinstitut mit einer Bankauskunft ab.
+    Leasinggesellschaften holen i.d.R. auch Bankauskünfte ein, ehe sie Kunden einen Vertrag genehmigen, dies dient auch zur Absicherung.
+###
+Anfrage und Erteilung von Bankenauskünften
+
+    Die Anfragen sind grundsätzlich schriftlich zu stellen.
+    Es muss angegeben werden, ob die Anfrage im Eigen- oder im Kundeninteresse erfolgt.
+    Die übermittelten Informationen sollten möglichst allgemein gehalten werden.
+    Die Kreditinstitute sind dem Anfragenden gegenüber, bei unrichtiger Auskunft, schadensersatzpflichtig.
+    Der Empfänger der Bankenauskunft ist ausdrücklich darauf hinzuweisen, dass er die Informationen nur für den angegebenen Zweck verwenden und nicht an Dritte weitergeben darf.
+    Liegt bei Privatkunden keine Einwilligung zur Übermittlung der Daten vor oder hat ein Geschäftskunde die Erteilung einer Auskunft untersagt, ist die Auskunftsverweigerung so zu formulieren, dass sie nicht negativ interpretiert werden kann. Wenn die angefragte Stelle keinen Einblick in die wirtschaftlichen Verhältnisse des Kunden hat, ist dies in der Antwort klar zum Ausdruck zu bringen.
+    Die Kreditinstitute müssen gegenüber ihren Kunden das Bankgeheimnis bewahren.
+###
+Was steht in einer Bankenauskunft?
+
+Der Inhalt und die Form der Bankenauskunft sind deutschlandweit weitgehend gleich. Für die Erteilung der Bankenauskunft gibt es einen Vordruck, der in leicht abgewandelter Form bei allen Kreditinstituten verwendet und vor allem durch Ankreuzen ausgefüllt wird. Aufgrund des ausgefüllten Formulars kann die Bank Rückschlüsse auf die Bonität eines Kunden ziehen. Wurden zum Beispiel verschiedene Formulierungen nicht angekreuzt oder gibt es Hinweise auf Rücklastschriften oder auf nicht absprachegemäße Kontoführung, ist die Bankauskunft negativ.
+###
+Welche sind die Gesetzlichen Ausnahmen vom Bankgeheimnis?
+Auskunft erhält… 	Hintergrund 	Rechtsgrundlage
+Finanzamt 	Auskunftspflicht der Bank bei hinreichendem Anlass zur Annahme von Steuerhinterziehung 	Abgabenordnung (§§ 30a und 93 AO)
+Finanzamt (Erbschaftssteuerstelle) 	Umfassende Auskunftspflicht der Bank bei Tod des Bankkunden, sofern der Gesamtwert aller Konten- und Depotbestände zu Beginn des Todestages 5.000,00 Euro übersteigt oder der Verstorbene ein Schrankfach oder ein Verwahrstück beim Kreditinstitut hat 	Erbschaftssteuergesetz(§ 33 ErbStG)
+Staatsanwaltschaft, Strafgerichte 	Uneingeschränkte Auskunftspflicht der Bank bei Strafverfahren 	Strafprozessordnung (§161a StPO)
+Aufsichtsbehörden 	Anzeige von Groß- und Millionenkrediten an die Deutsche Bundesbank, auf Verlangen Auskünfte über alle Geschäftsangelegenheiten an Bundesbank und Finanzaufsicht Bafin 	Kreditwesengesetz (§§ 13 bis 13b, 14 und 44 KWG)
+Bundeszentralamt für Steuern 	Standardisierte Weitergabe des genutzten Freistellungsbetrags 	Einkommenssteuergesetz (§45d EStG)
+BAföG-Amt / Agentur für Arbeit 	Prüfung der Angaben der Antragsteller druch Zugriff auf die Daten des Bundeszentralamtes für Steuern 	Bundesausbildungsförderungsgesetz (§ 41 Abs. 4 BAföG) / Sozialgesetzbuch (§ 315 Abs. 2 und 5 SGB III)
+###

@@ -1,0 +1,43 @@
+###
+Wie sicher ist O2 Banking?
+
+Unser Partner Fidor Bank AG ist eine in Deutschland lizenzierte Direktbank und bietet dir ein vollwertiges Girokonto mit einer Absicherung deiner Gelder durch die gesetzliche Einlagensicherung von 100.000 € pro Kunde.
+
+O2 Banking verfügt über ein mehrstufiges Sicherheitsverfahren:
+
+    Bei der Registrierung wird das O2 Banking Konto an dein Smartphone gekoppelt: Nur mit diesem Gerät kannst du die App nutzen. Steigst du auf ein neues Gerät um, wird die O2 Banking App auf dem neuen Gerät nach dem Login zunächst durch eine SMS aktiviert.
+    Der Zugriff auf die O2 Banking App ist mit einem Passwort bzw. Fingerabdruck geschützt.
+    Du bestätigst jede Transaktion mit einer von dir selbst gewählten Bezahl-PIN (Geheimzahl).
+    Du kannst die Limits deiner O2 Banking Karte frei definieren und z. B. Bargeldabhebungen bei Bedarf ganz ausschließen.
+    MastercardⓇ Secure Code Verfahren: Händler verwenden das Secure Code Verfahren, um die Sicherheit bei Online-Zahlungen zu erhöhen. Du gibst zunächst – wie gewohnt – deine MastercardⓇ Daten zur Online-Zahlung ein. Im Anschluss erhältst eine Push auf dein Handy und gibst die Zahlung in der O2 Banking App frei.
+
+Push-Nachrichten informieren dich in Echtzeit über alle Kontobewegungen. Damit hast du die volle Kontrolle über dein Geld.
+###
+Karte verlegt, verloren oder gestohlen?
+
+Deaktiviere deine Karte in der O2 Banking App. Vor dem nächsten Einsatz nicht vergessen: Karte in der App wieder aktivieren, sonst wird der Vorgang abgelehnt, teilweise mit einer merkwürdigen Meldung wie: Karte nicht zugelassen.
+
+Alternativ kannst du dich auch im Web einloggen und die Karte deaktivieren.
+
+Von Mo–Fr, 8–18 Uhr kannst du die Karte auch bei der O2 Banking Kundenbetreuung unter +49 (89) 189 085 502 deaktivieren lassen, rund um die Uhr stehen dir die Kollegen vom allgemeinen Sperr-Notruf unter +49 116 116 zur Verfügung.
+###
+Handy verloren oder gestohlen?
+
+Wir empfehlen: Schütze dein Handy durch eine Gerätesperre. Die O2 Banking App ist zusätzlich durch dein Login geschützt. Die Daten deiner Mastercard® und die Funktionen Geld senden / überweisen sind zusätzlich durch deine Bezahl-PIN geschützt.
+
+Wenn dein Handy weg ist, logge dich auf unserer Webseite ein und deaktiviere die App samt Mobile Banking. Alternativ rufe bei der O2 Banking Kundenbetreuung unter +49 (89) 189 085 502 an, um den Zugriff auf dein Konto zu sperren. Ist die Karte auch weg, dann lasse die Karte ebenfalls deaktivieren.
+
+Bei Möglichkeit: Rufe deinen Mobilfunkbetreiber an und lasse deine SIM sperren.
+###
+Kann ich mein O2 Banking Konto überziehen?
+
+Mit dem O2 Banking Konto kannst du deinen Finanzrahmen für die kurzfristige Überbrückung deines Geldbedarfs erweitern.
+
+Leihe schnell und einfach dir 100,00 € für 30 Tage. Den Geld-Notruf erhältst du in Echtzeit, ohne SCHUFA-Anfrage sobald die Überprüfung durch die Fidor Bank erfolgreich war. Dafür wichtig: Lade hin und wieder Geld aufs Konto, nutze deine Karte, z.B. auch bei Online-Bestellungen und Konto aktiv.
+
+Nachdem wir dich noch etwas besser kennengelernt haben, kannst du in der App einen Dispo beantragen. Wichtig für die Genehmigung des Dispos und die Höhe – zwischen 250 und 3.000 € – ist, dass du regelmäßig mehrere Monate lang Geld, z.B. dein Gehalt oder einen Dauerauftrag auf dein Konto erhältst.
+###
+Wie kann ich O2 Banking erreichen?
+
+Die O2 Banking Kundenbetreuung erreichst du telefonisch unter +49 (89) 189 085-502, Mo–Fr, 8–18 Uhr oder per E-Mail unter der service@o2banking.de unter der Angabe deiner Handynummer oder IBAN. Den allgemeinen Sperr-Notruf, für die Sperrung der O2 Banking Karte bei Verlust oder Diebstahl erreichst du rund um die Uhr unter +49 116 116.
+###

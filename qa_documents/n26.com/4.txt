@@ -1,0 +1,131 @@
+###
+Bargeld: Wie du mit CASH26 Geld abhebst und einzahlst
+
+(Gilt nur für Deutschland)
+
+Mit CASH26 kannst du Bargeld einzahlen oder abheben. Du erstellst einen Barcode in der N26 App und zeigst ihn an der Kasse eines der mehr als 6.000 Geschäfte unserer Partner REWE, Penny, real, Budni, Ludwig, Eckert, ON, Adam’s oder Barbarino. Das nächste Partnergeschäft findest du samt Öffnungszeiten und Wegbeschreibung auf der Umgebungskarte von CASH26 in deiner N26 App.
+
+Um den Barcode zu erstellen, melde dich in der N26 App an:
+
+    Drücke auf “+” zum Erstellen einer neuen Transaktion, und wähle CASH26
+    Wähle aus, ob du Bargeld einzahlen oder abheben möchtest
+    Gib den Betrag und deinen Überweisungs-PIN ein
+    Bestätige die Push-Nachricht
+
+Abhebungen über CASH26 werden direkt von deinem Guthaben abgezogen, sobald du den Barcode erstellst. Wenn du es dir anders überlegst, kannst du den Code wieder löschen, und der Betrag wird deinem Kontostand sofort wieder gutgeschrieben. Lässt du den Barcode ungenutzt, wird der Betrag nach 24 Stunden wieder gutgeschrieben. Einzahlungen über CASH26 sind sofort auf deinem Konto verfügbar.
+
+Innerhalb von 24 Stunden kannst du höchstens 999,00 € einzahlen (mindestens 50,00 €) und insgesamt höchstens 999,00 € abheben (300,00 € pro Transaktion).
+
+Abhebungen mit CASH26 sowie Einzahlungen bis zu 100,00 € pro Monat sind kostenlos. Bei Einzahlungen über 100,00 € hinaus entstehen Gebühren von 1,5 % des eingezahlten Betrags.
+###
+Service: Wie lange Überweisungen dauern
+
+Alle Überweisungen innerhalb des SEPA-Systems, ob national oder international, werden vereinbarungsgemäß innerhalb eines Bankarbeitstages abgeschlossen. Je nach Öffnungszeiten der teilnehmenden Institute kann so ein Bankarbeitstag allerdings bis zu zwei Werktage dauern.
+
+Mit MoneyBeams kannst du anderen N26-Kunden Geld in Echtzeit überweisen und mit CASH26 Bargeld in Echtzeit auf dein Konto einzahlen. Den Status der Transaktion siehst du immer sofort in deiner N26-App.
+
+Auch Kartentransaktionen werden sofort von deinem Konto veranlasst und mit einer Push-Nachricht bestätigt. Allerdings kann es trotzdem leichte Abweichungen geben:
+
+    Obwohl du die Zahlung bereits freigegeben hast, kann es sein, dass der Händler den Betrag erst nach einigen Tagen abbucht.
+    Hat ein Händler zunächst eine höhere Summe auf deinem Konto autorisieren lassen, bekommst du die Differenz auf deinem Konto gutgeschrieben.
+    Nachdem du über eine Rückerstattung informiert wurdest, kann es einen vollen Bankarbeitstag dauern, bis der Betrag deinem Konto tatsächlich gutgeschrieben ist.
+    Die Beträge von Transaktionen in Fremdwährungen können je nach Wechselkursschwankung zwischen den Zeitpunkten der Autorisierung und des Abschlusses leicht variieren.
+
+###
+Features: Wie du Listen deiner Transaktionen exportierst
+
+Du kannst deine Transaktionsliste im CSV-Format exportieren, indem du die Transaktions-Übersicht in der N26 Web App öffnest, einen Zeitraum wählst, bei Bedarf nach Datum sortierst und auf den CSV-Button klickst. In der exportierten Datei selbst kannst du zusätzlich nach Kategorien filtern.
+
+Wenn du eine große Anzahl an Transaktionen herunterladen möchtest, kann es vorkommen, dass der Download länger dauert oder mit einer Fehlermeldung abbricht. Dann grenze die Zahl der Transaktionen bitte mit der Auswahl eines kleineren Zeitraumes oder mit der Suchfunktion ein.
+###
+Produkte: Wie du dein Geld mit N26 Invest anlegst
+
+(Gilt nur für Deutschland)
+
+Mit N26 Invest kannst du direkt in der N26 App einen eigenen Investmentplan erstellen.
+
+    Streiche in deiner Transaktionsliste nach rechts, um dein Investment-Konto anzuzeigen. Tippe, um einen neuen Investment-Plan hinzuzufügen
+    Gib einen monatlichen und/ oder einmaligen Betrag ein, den du sparen und anlegen möchtest
+    Wähle deine Investment-Strategie. Du hast die Wahl zwischen Invest 80, der die höchsten potentiellen Erträge bietet, Invest 60 mit einer Balance von Risiko und Renditepotential, und Invest 40, der geringere potentielle Erträge bei niedrigerem Risiko bietet.
+    Betrachte als nächstes die Prognose deines Plans. Verändere deine einmaligen oder wiederkehrenden Beträge, um zu sehen, wie die Prognose sich ändert.
+    Sobald du mit deinem Plan zufrieden bist, wird dir die Fonds-Zuweisung angezeigt, ein Mix breit gefächerter Aktien und Anleihen in fünf Fonds, die deinem gewählten Plan entsprechen. Weitere Informationen findest du hier.
+    Im nächsten Schritt kannst du die Details deines Plans prüfen. Hier findest du auch weitere Informationen über die Gebühren für deinen Plan.
+    Aus regulatorischen Gründen brauchen wir jetzt vielleicht Informationen zu deinem Steuerstatus. Bitte beantworte die Fragen und halte deine Steuernummer bereit. Bitte beachte: Falls du in den Vereinigten Staaten steuerpflichtig sein könntest, können wir dir momentan leider keinen Zugang zu unseren Investment-Produkten bieten.
+    Im nächsten Bildschirm siehst du die Allgemeinen Geschäftsbedingungen von N26 und unseren Partnern. Zusätzlich erhältst du alle relevanten Dokumente zusätzlich per E-Mail. Wichtig dabei: N26 agiert hier lediglich als Investitionsvermittler und nicht als Investitionsberater. Weder N26 Bank GmbH noch N26 GmbH bewerten, ob deine Investitionsentscheidung geeignet oder angemessen ist.
+    Du eröffnest deinen Investment-Plan, indem du deinen Transaktionscode eingibst.
+    Danach erhältst du eine Push-Benachrichtigung mit einer kurzen Zusammenfassung deines Plans. Überprüfe nochmals, dass alles deinen Wünschen entspricht, und tippe dann auf “Bestätigen”.
+
+Sobald du deinen Plan beantragt hast, wird dein Girokonto mit dem einmaligen Betrag belastet. Bitte beachte, dass es bis zu sechs Werktage dauern kann, bis dein Investment-Konto angelegt ist. Du kannst bis zu drei Investment-Pläne anlegen, jeweils einen pro Risikokategorie.
+
+Du kannst jederzeit aus der Transaktionsliste nach rechts streichen, um deinen Investment-Plan und die Performance deines Investments zu überprüfen. Du kannst monatlich wiederkehrende Zahlungen anpassen, pausieren oder stoppen sowie eine weitere einmalige Einzahlungen auslösen. Der Graph zeigt dir die bisherige Performance deines Investments sowie eine Prognose für die Zukunft.
+
+Du kannst zu jedem Zeitpunkt Geld von deinem Investment-Konto abziehen, der verfügbare Betrag wird dir direkt in der N26 App angezeigt. Falls du dein gesamtes Guthaben von deinem Investment-Konto abheben möchtest, schließe bitte dein Investment-Konto im Bildschirm “Plan-Details” und bestätige die Deaktivierung mit deinem Transaktionscode. Nachdem du die Push-Nachricht bestätigt hast, wird dir dein Guthaben auf dein N26 Bankkonto überwiesen.
+
+Im Laufe eines Jahres können einzelne Anlageklassen entsprechend ihrer relativen Performance eine stärkere Gewichtung in deinem Portfolio erlangen. Jeweils im Januar werden darum Anlageklassen so gekauft und verkauft, dass der ursprüngliche Mix deines Portfolios wieder hergestellt wird. Damit dir durch dieses Rebalancing nur geringe steuerpflichtige Erträge entstehen, wird auch jede von dir getätigte Einzahlung auf dein Investment-Konto intelligent zugewiesen.
+
+Die Gebührenstruktur für N26 Invest ist einfach und unkompliziert: Je nach Höhe deiner Gesamteinlagen berechnen wir dir quartalsweise entweder einen fixen monatlichen Betrag oder einen monatlichen Prozentbetrag deiner Einlagen. Hier findest du hierzu Details sowie weitere Informationen zu Dividenden, Steuern und unseren Partnern.
+
+Bitte beachte: N26 Invest ist ein Investment-Produkt, das mit dem Risiko des Kapitalverlusts verbunden ist, inklusive der ursprünglichen Einlage.
+
+###
+Produkte: Warum du einzelne Services vielleicht nicht nutzen kannst
+
+Dein N26 Bankkonto bietet dir alle Vorteile eines Girokontos. Darüber hinaus arbeiten wir mit Partnern zusammen, um dir den Zugang zu innovativen Finanzservices wie Überweisungen in Fremdwährungen oder zu Investment-Produkten zu eröffnen.
+
+Da einige dieser Partner ebenso wie N26 deine Identität überprüfen müssen, geben wir ihnen die uns vorliegenden Angaben zu deiner Identität mit deinem Einverständnis weiter. Manchmal genügen diese Angaben jedoch nicht den Anforderungen unserer Partner - beispielsweise, wenn der verwendete Ausweis inzwischen abgelaufen ist oder technische Formate nicht kompatibel sind. Zudem können einzelne Angaben Hinweise auf einen steuerlichen Status oder eine Staatsangehörigkeit enthalten, die eine Nutzung einzelner Partner-Services ausschließen. Sobald wir eine Möglichkeit gefunden haben, dir trotzdem Zugang zu diesem Service zu geben, informieren wir dich.
+
+###
+Features und Produkte: Wie du uns helfen kannst, besser zu werden
+
+Was wir tun, tun wir für unsere Kunden - und nur unsere Kunden wissen, ob wir damit Erfolg haben. Darum kann es vorkommen, dass wir dich fragen, ob unsere Produkte so eingerichtet sind, wie du sie brauchst, oder unsere Features so funktionieren, wie du es dir wünschst.
+
+In der Regel versenden wir dazu kurze Umfragen, die Teilnahme daran ist freiwillig und anonym, so dass wir auch keine persönlichen Fragen beantworten können. Wir sind dir einfach dankbar, wenn du dir ein oder zwei Minuten nimmst, um uns dabei zu helfen, noch besser zu werden.
+
+Darüber hinaus kannst du uns jederzeit dein Feedback in einer E-Mail an ideas@n26.com schicken.
+
+###
+IBAN: Wie du dich gegen eine Ablehnung wehren kannst
+
+Wenn du ein N26 Konto eröffnest, bekommst du eine deutsche IBAN (International Bank Account Number), die dein Girokonto eindeutig und vollständig identifiziert - mit dem Ländercode (DE), einer zweistelligen Prüfziffer, der achtstelligen Bankleitzahl und deiner zehnstelligen Kontonummer. Die Teilnehmerländer des sogenannten SEPA-Raums (Single Euro Payments Area / Einheitlicher Euro-Zahlungsverkehrsraum) haben sich auf das IBAN-System geeinigt, um nationale und internationale Zahlungen zu vereinfachen und das Fehlerrisiko bei der Kommunikation und Verarbeitung von Transaktionen zu reduzieren.
+
+Wer IBANs aus anderen Mitgliedsländern des Europäischen Wirtschaftsraums nicht akzeptiert, verstößt seit 1. Februar 2016 gegen europäisches Recht (Art. 9 der Verordnung Nr. 260/2012). Solltest du jemals von einer sogenannten “IBAN-Diskriminierung” betroffen sein, bitten wir dich, direkt deine zuständige nationale Behörde zu kontaktieren und sie über den Vorfall durch einen Bericht in Kenntnis zu setzen. Dieser Bericht sollte neben deinen Kontaktdaten und dem Namen dessen, der deine IBAN nicht akzeptiert hat, auch eine kurze Beschreibung des Hergangs, einen Screenshot der Ablehnung und eine Dokumentation der Kommunikation enthalten. Bitte sende uns eine Kopie deines Berichts über das unten stehende Kontaktformular, damit wir dich bestmöglich unterstützen können.
+
+###
+Was bedeutet es, mein Bankkonto zu N26 umzuziehen?
+
+Wir unterstützen dich dabei, deine täglichen Zahlungsgeschäfte zu N26 Bank umzuziehen. Das bedeutet, wir helfen dir dabei deine Zahlungspartner zu informieren, welche beispielsweise monatlich Lastschriften von deinem Konto einziehen, sei es dein Stromanbieter oder ein Fitnessstudio. Außerdem können wir natürlich auch Zahlungspartner informieren, welche dir Geld auf dein Konto überweisen, zum Beispiel dein Arbeitgeber. Auch deine Daueraufträge kannst du in diesem Zuge kannst einfach bei uns aufsetzen.
+###
+Wie funktioniert der Kontowechsel?
+
+Bei N26 hast du drei verschiedene Möglichkeiten, den Wechsel zu beginnen:
+
+    Starte online den automatischen Kontowechsel, unterstützt durch FinReach
+    Die kostenlose Kontenwechselhilfe
+    Die vorgeschriebene Kontenwechselhilfe nach dem Zahlungskontengesetz (ZKG)
+###
+Kontowechselservice mit unserem Partner FinReach
+
+Gemeinsam mit unserem Partner FinReach stellen wir eine Platform zur Verfügung, über die du bequem online den Kontowechsel anstoßen kannst. Dazu ist es lediglich nötig, dass du dich mit deinen bisherigen Login-Daten deiner alten Bank einloggst und auswählst, welche Leistungen du wahrnehmen möchtest. Dazu gehören:
+
+    Zahlungspartner informieren
+    Die Schließung deines alten Kontos beauftragen
+    Dein Guthaben von deinem alten Konto auf dein N26 Konto übertragen
+
+Dieser Service ist kostenfrei für dich. Starte den Vorgang einfach, indem du n26.kostenwechsel.de aufrufst. Nachdem du die dort beschriebenen Schritte erledigt hast, dauert es in der Regel 5-7 Werktage, bis alle Informationen an deine Zahlungspartner übertragen wurden. Bitte bedenke, dass manche Zahlungspartner noch zusätzlich etwas Zeit benötigen könnten, deine Bankdaten in deren Buchungssystemen umzustellen.
+###
+Die kostenlose Kontenwechselhilfe
+
+Wenn du es bevorzugst, deine Zahlungspartner eigenständig über deine neue Kontoverbindung zu informieren, stellen wir dir verschiedene Dokumente zur Verfügung, die dich dabei unterstützen. Diese musst du lediglich ausfüllen, drucken und versenden.
+
+    Vorlage zur Änderung deiner Kontoverbindung und Schließung deines alten Bankkontos
+
+Solltest du weitere Unterstützung benötigen oder Fragen haben, kontaktiere gerne unseren Customer Service.
+###
+Kontenwechselhilfe nach dem Zahlungskontengesetz
+
+Nach §§21 Zahlungskontengesetz (ZKG) sind alle lizensierten Banken in Deutschland dazu verpflichtet, Verbraucher beim Wechsel ihrer Konten zu unterstützen. Dazu gehört das Informieren aller Zahlungspartner, das Anlegen der Daueraufträge sowie die Schließung des bisherigen Bankkontos. Um diesen Service in Anspruch zu nehmen, lade dir bitte die Ermächtigung zur Kontenwechselhilfe herunter, drucke das Formular aus und schicke es ausgefüllt und unterschrieben an folgende Adresse:
+
+N26 Bank GmbH Kundenservice Klosterstraße 62 10179 Berlin
+
+Sobald wir deinen Antrag erhalten haben, wird dieser bei uns sowie bei deiner bisherigen Bank innerhalb von 7 Werktagen bearbeitet. Bitte bedenke, dass innerhalb der 7 Werktage all deine Zahlungspartner informiert werden, das Umstellen deiner Kontoverbindung bei den einzelnen Partnern könnte jedoch etwas mehr Zeit in Anspruch nehmen. Für diesen Service berechnen wir abhängig von deiner Anfrage eine Gebühr von bis zu 20 €. Weitere Informationen kannst du dem oben verlinkten Formular entnehmen.
+###

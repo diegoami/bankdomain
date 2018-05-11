@@ -1,0 +1,118 @@
+###
+Wie hoch ist die Mindestanlage bei Ginmon?
+
+Die Mindestanlage beträgt 1.000 € mit einem Sparplan (ab 50 € / Monat).
+
+Die Mindestanlage ohne Sparplan beträgt 5.000 €.
+###
+Was sind ETFs?
+
+ETFs sind Fonds mit geringer jährlicher Kostenbelastung durch Verzicht auf einen Fondsmanager. Im Vergleich zu traditionellen Investmentfonds mit einem aktiven Fondsmanager sind ETFs und andere Indexfonds aufgrund der niedrigen Kosten und der hohen Rentabilität durch die genaue Abbildung der Marktrendite deutlich besser für einen langfristigen Vermögensaufbau geeignet.
+###
+Auf welche Fonds setzt Ginmon?
+
+Jedes Ginmon-Portfolio enthält folgende ETFs und Indexfonds, um die weltweiten Aktien- und Anleihenmärkte so genau wie möglich abzubilden.
+
+Beschreibung
+
+
+Bezeichner
+
+
+ISIN
+
+Aktien Industrieländer
+
+
+UBS-ETF SICAV MSCI World UCITS ETF
+
+
+LU0340285161
+
+Aktien Wachstumsmärkte
+
+
+UBS-ETF SICAV Emerging Markets UCITS ETF
+
+
+LU0480132876
+
+Aktien kleinerer Unternehmen weltweit
+
+
+Dimensional Global Small Companies Fund
+
+
+IE00B3XNN521
+
+Anleihen Staaten und Unternehmen weltweit
+
+
+Dimensional Global Short Fixed Income Fund
+
+
+IE00B3QL0Y14
+
+Anleihen europäischer Unternehmen
+
+
+iShares Core Euro Corporate Bond UCITS ETF
+
+
+IE00B3F81R35
+
+Der Anteil jedes Fonds variiert je nach Risikoklasse, wobei der Aktienanteil mit der Risikoklasse ansteigt und der Anleihenanteil analog fällt.
+###
+Warum investiere ich bei Ginmon ausschließlich in Indexfonds?
+
+Zahlreiche wissenschaftliche Studien haben ergeben, dass traditionelle Investmentfonds mit aktiven Fondsmanagement langfristig hinter der Marktrendite zurückbleiben und gleichzeitig deutlich höhere Kosten verursachen.
+
+Daher setzen wir bei Ginmon ausschließlich auf ETFs und andere Indexfonds und sichern Ihnen damit die langfristig rentabelste Geldanlage.
+###
+Wie wähle ich die richtige Anlagestrategie für mich?
+
+Die Entscheidung für eine Anlagestrategie hängt von Ihren persönlichen Präferenzen bezüglich der erwarteten Rendite sowie der möglichen Wertschwankung der Geldanlage ab. Dabei haben Anlagestrategien mit höherem Aktienanteil eine höhere erwartete Rendite, können jedoch auch mehr im Wert schwanken als Anlagestrategien mit niedrigeren Aktienanteil.
+
+Sollten Sie Schwierigkeiten bei der Wahl Ihrer Anlagestrategie haben, so empfehlen wir Ihnen zunächst die Ermittlung Ihres Anlagetyp über unser hierfür eigens entwickelten Interview durchzuführen. In 7 kurzen Fragen gelangen Sie in weniger als 2 Minuten zu Ihrem individuellen Anlagetyp.
+###
+Kann ich meine Anlagestrategie ändern?
+
+Im Kundencenter finden Sie im Menü “Übersicht” über den Button “Anlagestrategie ändern” die Möglichkeit diese anzupassen.
+
+Bitte beachten Sie hier stets, dass Sie mit Ginmon eine langfristige Anlagephilosophie verfolgen. Deren Grundgedanke ist es, der eigenen Anlagestrategie sowohl in starken als auch schwachen Marktphasen treu zu bleiben – von kurzfristigen Reaktionen raten wir demzufolge ab. Sogenanntes Market Timing durch eine häufige Änderung der Anlagestrategie führt erwiesenermaßen zu schlechteren Resultaten.
+
+Sollten Sie trotzdem eine Änderung vornehmen wollen, können Sie zur Evaluierung natürlich jederzeit wieder das Risiko-Interview nutzen.
+###
+Wieso investiere ich bei Ginmon nicht in Rohstoffe?
+
+Mit Ginmon investieren Sie mithilfe kostengünstiger Anlageprodukte wie ETFs und anderer Indexfonds in eine Vielzahl von produktiven Unternehmen und Volkswirtschaften. Bei Rohstoffen handelt es sich hingegen nicht um Produktivkapital, denn Rohstoffe generieren für sich alleine keinen ökonomischen Mehrwert. Die mögliche Preissteigerung entsteht lediglich durch eine Verschiebung von Angebot und Nachfrage. Bei dieser Art der Wertsteigerungen handelt es sich um Spekulationsgewinne, die sich nicht für eine langfristige Anlagestrategie eignen.
+
+Ein häufig genanntes Argument für die Nutzung von Rohstoffen in einer Anlagestrategie ist die in der Vergangenheit beobachtete niedrige Korrelation zu Aktien, die das Risiko des Gesamtportfolios reduzieren könnte. Da sich in den letzten Jahren keine solche Korrelationseigenschaften mehr beobachten ließen, verzichten wir bei Ginmon jedoch auf jegliche Rohstoffinvestments.
+###
+Wieso investiere ich bei Ginmon nicht in Immobilien?
+
+Ein Investment in Immobilienfonds ist zur Zeit noch mit sehr hohen laufenden Managementgebühren der Produktanbieter verbunden, die den möglichen Mehrwert für unsere Anlagestrategie zunichte machen. Bis wir im deutschen Markt Zugang zu kostengünstigeren und transparenteren Immobilienfonds erhalten, verzichten wir bei Ginmon daher auf Immobilieninvestments.
+###
+Was bedeutet Rebalancing?
+
+Rebalancing bedeutet die kontinuierliche Anpassung Ihres Wertpapierportfolios an die vordefinierte Zusammensetzung Ihrer Anlagestrategie. Durch unterschiedliche Wertentwicklungen der beinhalteten Anlageklassen ändert sich die relative Zusammensetzung mit der Zeit. Um eine konsistente Abbildung Ihrer Anlagestrategie sicherzustellen, erhalten Sie einmal jährlich die Option, ein automatisches Rebalancing innerhalb Ihres Login-Bereiches durchführen. Sie werden hierzu separat per Email hingewiesen, sobald diese Option zur Verfügung steht.
+###
+Wie prognostiziert Ginmon die Wertentwicklungen der Strategieportfolios?
+
+Die prognostizierte Wertentwicklung des gewählten Strategieportfolios basiert auf historischen Daten und einem statistischen Simulationsmodell. Die im Geldanlage-Planer dargestellten Flächen beschreiben die Ergebnisse des Simulationsmodells für alle Szenarien mit einer Eintrittswahrscheinlichkeit von 90 %.
+
+Als Datengrundlage der Renditesimulation dienen die historischen monatlichen Renditen der zugrundeliegenden Indizes (MSCI World, MSCI Emerging Markets, Dimensional International Small Cap Index) seit 1988. Aufgrund der besseren Datenverfügbarkeit wird die Renditeprognose der Anleihenklasse grundsätzlich über die historischen Daten der Euro Short Term Rate (Dimensional Returns Programm) simuliert.
+
+Die jeweils gewichteten historischen Wertentwicklungen der zugrundeliegenden Indizes stellt dabei die Berechnungsbasis für die erwartete Wertentwicklung sowie Schwankungsbreiten der einzelnen Anlagestrategien dar. Dabei berücksichtigt die prognostizierte Wertentwicklung bereits die anfallenden Servicegebühren von Ginmon mit einer Grundgebühr von 0,39 % p. a. und einer Erfolgsbeteiligung von 1/10 des Gewinns. Zudem werden die anfallenden externen Gebühren der Produktanbieter berücksichtigt. Die prognostizierte Wertentwicklung geht dabei von einer monatlichen Wiederanlage der Dividendenerträge sowie einer fortlaufenden Wiederherstellung der zugrundeliegenden Allokation der Anlageprodukte aus.
+###
+Welches Anlagekonzept verfolge ich mit Ginmon?
+
+Das Anlagekonzept von Ginmon basiert auf wissenschaftlichen Erkenntnissen der modernen Portfoliotheorie (Effizienzmarkthypothese von Prof. Eugene Fama).
+
+Mit Ginmon haben wir eine Anlagestrategie entwickelt, die frei von Prognosen und Spekulation die langfristig jeweils höchste Rendite für jedes Risikolevel erzielen soll. Bei Ginmon investieren Sie nämlich nicht in einzelne Aktien oder Wertpapiere, sondern investieren breit gestreut über tausende Unternehmen in die gesamte Weltwirtschaft. So profitieren Sie unabhängig von der Entwicklung einzelner Weltregionen von einem stetigen Wachstum der Weltwirtschaft. Zusätzlich werden die Anlageklassen der Aktien und Anleihen durch eine Mischung verschiedener Indexfonds auf Ihr persönliches Anlageprofil angepasst.
+
+Unser Anlagekonzept basiert dabei auf einer Buy-and-Hold Strategie. Das bedeutet, dass wir nicht versuchen in gewissen Phasen zu kaufen oder zu verkaufen, sondern stattdessen möglichst lange in dem Weltmarkt investiert bleiben. Zahlreiche Studien belegen, dass auf diese Weise in der Vergangenheit die höchsten Renditen erwirtschaftet werden konnten.
+
+Zudem kann Ginmon durch die Automatisierung der Technologieplattform signifikante Kostenvorteile erreichen, welche direkt an die Kunden weitergeben werden. Bei Ginmon sparen Sie so bis zu 60 % der Gebühren gegenüber klassischen Fondsprodukten.
+
+###

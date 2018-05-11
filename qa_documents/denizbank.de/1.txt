@@ -1,0 +1,84 @@
+###
+    Was bietet mir das Internet Banking der DenizBank an?
+
+    Mit dem Internet Banking haben Sie jederzeit Zugang zu Ihrem Konto und können Ihre Geldgeschäfte sicher und bequem online von zu Hause abwickeln.
+
+    Folgende Funktionen stehen Ihnen zur Verfügung:
+        Elektronische Kontoauszüge und Belege
+        Kostenlose Inlands- und EU-Überweisungen
+        Elektronisches Ansparen (Tagesgeldkonto und Festgeldkonten)
+        Hohe Sicherheit durch mobile TAN
+        Auslandsüberweisungen
+        Vorlagenverwaltung für wiederkehrende Zahlungen
+        Erweiterte Umsatzsuche
+        Kontostands-Abfragen
+        Aktualisierung der Kontaktdaten
+###
+    Wie kann ich mich für das Internet Banking der DenizBank anmelden?
+
+    Neukunden müssen sich unter "Jetzt Konto eröffnen" registrieren Mit der erfolgreichen Anmeldung und Legitimation erhalten Sie Ihre Zugangsdaten per E-Mail. Bestehende Kunden müssen das Internet Banking Antrag von der DenizBank Homepage herunterladen und dieses unterschrieben per Post  retournieren.
+    Welche Voraussetzungen gelten für das Internet Banking?
+        Stamm- bzw. Tagesgeldkonto bei der DenizBank
+        E-Mail Adresse
+        Internet-Zugang
+        Mobiltelefon-Nummer
+###
+    Wie kann ich mich in das Online Banking System einloggen?
+
+    Auf unserer Homepage können Sie sich beim Punkt "Login Internet Banking" unter "Privat" mit Ihrer Kundennummer und PIN einloggen. Gemeinschaftskontoinhaber müssen sowohl die gemeinsame als auch die private Kundennummer eingeben.
+###
+    Wann bekomme ich meine Zugangsdaten?
+
+    Neukunden bekommen Ihre Zugangsdaten dann, wenn alle Unterlagen vollständig bei der DenizBank aufliegen. Bei Kunden, die sich online registriert haben, muss die DenizBank auf die Bestätigung der Legitimation (den von Ihnen unterschriebenen Rückschein der Deutschen Post AG) warten.
+###
+    Wie bekomme ich meine PIN?
+
+    Ihre PIN wird Ihnen per SMS an die von Ihnen bekanntgegebene Mobiltelefonnummer zugesandt.
+###
+    Was muss ich beim ersten Login beachten?
+
+    Verwenden Sie für die Eingabe Ihrer Zugangsdaten Ihre eigene Tastatur und beachten Sie dabei die Groß- und Kleinschreibung. Zusätzlich müssen Sie beim ersten Login Ihre von uns erhaltene PIN auf eine persönliche PIN ändern.
+###
+    Welche Kriterien muss ich bei einer PIN-Änderung beachten?
+        Mindestens 1 Großbuchstabe
+        Mindestens 1 Kleinbuchstabe
+        Mindestens 2 Ziffern
+        Keine Sonderzeichen
+        Keine Ähnlichkeit mit dem Vor- und Nachnamen bzw. der Kundennummer
+###
+    Wie kann ich neue Zugangsdaten für mich bestellen?
+
+    Bitte verwenden Sie dafür das Internet-Banking-Antragsformular auf der Homepage unter "Kundenservice" und "Dokumente". Sie können Ihren ausgefüllten Antragsformular per Post an die DenizBank senden oder direkt eine unserer Filialen besuchen.
+###
+    Kann ich auch per Fax neue Zugangsdaten anfordern?
+
+    Nur Kunden, die eine Faxermächtigung erteilt haben, können mittels Fax auch neue Zugangsdaten anfordern. Alle anderen Aufträge müssen schriftlich per Post erfolgen.
+###
+    Was ist der Eigenübertrag?
+
+    Mittels Eigenübertrag können Sie zwischen Ihrem Stamm- und Tagesgeldkonto Ihre Veranlagung disponieren. Diese Funktion finden Sie im DenizBank Internet Banking Portal unter "Überweisungen".
+###
+    Kann ich auch mit der Funktion "Eigenübertrag" eine Überweisung auf mein Referenzkonto bei der Fremdbank überweisen?
+
+    Nein, ein Eigenübertrag ist nur für Bewegungen zwischen Ihren Denizbank Konten möglich.
+###
+    Wie kann ich Inlands- bzw. EU-Überweisungen tätigen?
+
+    Im dem DenizBank Internet Banking Portal steht Ihnen die Funktion "Überweisungen" zur Verfügung. Bitte beachten Sie, dass Überweisungen nur von Ihrem Stammkonto aus möglich sind.
+###
+    Sind Inlands- bzw. EU-Überweisungen kostenpflichtig?
+
+    Die DenizBank bietet ihren Kunden diesen Service kostenlos an, wenn die Transaktion online getätigt wird.
+###
+    Kann ich auch außerhalb der EU Überweisungen tätigen?
+
+    Mit der Funktion "Auslandsüberweisung" können Sie auch Überweisungen außerhalb der EU tätigen.
+###
+    Sind Auslandsüberweisungen kostenpflichtig?
+
+    Ja, Auslandsüberweisungen sind kostenpflichtig. Bitte entnehmen Sie die aktuellen Preise für Auslandsüberweisungen dem Preisaushang.
+###
+    Kann ich auch Überweisungen von meinem Tagesgeldkonto tätigen?
+
+    Externe Überweisungen können Sie von Ihrem Stammkonto aus tätigen. Dafür führen Sie von Ihrem Tagesgeldkonto einen Eigenübertrag auf Ihr Stammkonto aus. Der Übertrag erfolgt innerhalb weniger Minuten und steht Ihnen zur Durchführung weiterer Überweisungen zur Verfügung.
+###

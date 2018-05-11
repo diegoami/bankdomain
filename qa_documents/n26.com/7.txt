@@ -1,0 +1,83 @@
+###
+
+
+War dieser Artikel hilfreich?
+Nein
+Ja
+Vielen Dank für dein Feedback.
+
+    Starte einen ChatNachricht schreiben
+
+Kategorien
+
+    Anmeldung
+    Produkt
+        Karten
+        Konto
+        Apps
+        Sicherheit
+
+Verwandte Artikel
+
+    Sicherheit: Was für Limits du einrichten kannst
+    Datenschutz: Warum deine Daten bei N26 sicher sind
+    Sicherheit: Wie du ein Passwort vergibst
+    Sicherheit: Wie du für andere N26 Nutzer sichtbar oder unsichtbar wirst
+    Sicherheit: Wie du dein Smartphone mit deinem N26 Konto verknüpfst
+###
+
+Einlagensicherung: Wie wir dein Geld schützen und versichern
+
+N26 Bank ist mit einer Banklizenz ausgestattet und unterliegt somit der Regulierung durch die deutsche Finanzregulierungsbehörde. Alle Einlagen in allen Mitgliedsstaaten der Europäischen Union sind unabhängig vom Wohnsitz und bis zu einer Höhe von 100.000 EUR durch die deutsche Einlagensicherung geschützt.
+
+###
+Sicherheit: Was du selbst tun kannst
+
+Die Sicherheit deines Kontos und deiner Daten haben für uns höchste Priorität. Darum entwickeln wir unsere Sicherheitsarchitektur ständig weiter und kooperieren dabei auch mit externen Spezialisten und Beratern.
+
+Darüber hinaus kannst du selbst einiges für die Sicherheit deines N26 Kontos tun:
+
+    Stelle sicher, dass du die jeweils aktuellste Version der N26 App für dein Smartphone installiert hast.
+    Bewahre dein Passwort, deine Karten-PINs oder deinen Überweisungscode sicher und getrennt voneinander auf.
+    Werde misstrauisch, wenn dich irgend jemand nach einer Kombination deines Passwortes oder deiner PIN fragt, egal ob per E-Mail, in der N26 App, am Telefon oder per Chat - N26 wird das niemals tun.
+    Falls du dein Smartphone verlierst, logge dich bitte sofort in dein Online-Banking über unsere Website ein und entknüpfe es. Dein Smartphone ist ein wichtiger Bestandteil unserer dreistufigen Sicherheitsarchitektur.
+
+Zudem haben wir eine dedizierte E-Mail-Adresse eingerichtet, über die du uns ausschließlich Vermutungen über Sicherheitsschwachstellen mitteilen kannst: security@n26.com.
+
+Bei dieser Gelegenheit:
+
+N26 wurde von dem Sicherheitsexperten Vincent Haupert kontaktiert, der uns über eine theoretische Schwachstelle in unserer öffentlichen API unterrichtete. In Zusammenarbeit mit dem Experten haben unsere Tech- und Sicherheitsteams sofort damit begonnen, das Ausmaß und die Auswirkungen der von ihm demonstrierten Methode zu untersuchen.
+
+Unsere umfassenden Tests haben ergeben, dass die persönlichen Informationen unserer Kunden in den untersuchten Szenarien zu keinem Zeitpunkt dritten Parteien zugänglich waren. Wir konnten außerdem keine Nachweise für nicht autorisierte Transaktionen finden, die mit dieser Methode in Zusammenhang stehen.
+
+Personenbezogene Daten und Geldmittel von N26 Nutzern wurden durch die demonstrierte Schwachstelle folglich nicht beeinträchtigt. N26 Nutzer müssen nichts weiter tun, um ihre Konten zu schützen.
+
+Nach unserer Untersuchung haben wir zudem alle potenziellen, durch diese Methode demonstrierten Schwachstellen identifiziert und behoben:
+
+    Wir haben die Datenübermittlung durch die Spezifizierung der Sicherheitszertifikate für jede Verbindung noch sicherer gemacht (sog. Certificate Pinning)
+    Wir haben die Informationen, die über unsere API zugänglich sind, signifikant reduziert
+    Wir haben eine weitere Verschlüsselungsebene für den Informationsaustausch über unsere API hinzugefügt
+    Wir haben Reaktionsverzögerungen und Zeitüberschreitungen eingeführt, die verhindern, dass Bots und Skripte mit Transaktions-Calls interferieren können.
+
+
+###
+Über N26: Wer wir sind
+
+N26 ist eine Marke der N26 GmbH mit Sitz in Berlin. Im Januar 2015 als NUMBER26 gestartet, haben sich seitdem mehr als 800.000 Kunden bei N26 angemeldet. Ein Team von Finanzexperten, Partnern und Investoren hilft uns bei der Umsetzung unserer Vision, Europas einfachstes und bestes Banking-Erlebnis zu schaffen.
+
+Die N26 Bank GmbH ist eine hundertprozentige Tochtergesellschaft der N26 GmbH. Sie hat im Juli 2016 von der Europäischen Zentralbank die Banklizenz erhalten.
+
+###
+Datenschutz: Warum deine Daten bei N26 sicher sind
+
+Damit deine Daten bei uns sicher sind, haben wir eine dreistufige Sicherheitsarchitektur aufgebaut und alle Services mit einer SSL-Verschlüsselung sowie OAuth v2 ausgestattet. Wir nutzen auf allen Seiten unserer Webpräsenz HTTPS und hinterlegen alle kontorelevanten Daten auf deutschen Servern.
+
+Wenn du ein Bankkonto bei uns eröffnest, sind wir gesetzlich verpflichtet, deine Identität zu überprüfen, und hinterlegen dazu deinen Namen, dein Geburtsdatum und deinen Geburtsort, deine E-Mail-Adresse, Nationalität, Anschrift und Telefonnummer sowie einen Ausweis mit Ausstellungsdatum, Ausweisnummer und ausstellender Behörde.
+
+Wenn du Kontakt zu uns aufnimmst, gleichen wir einzelne dieser Daten ab, um sicherzustellen, dass wir wirklich mit dir sprechen - vor allem, wenn du uns um transaktionsbezogene Informationen bittest oder deine Stammdaten ändern willst. Wir fragen dich aber niemals nach deiner Kreditkartennummer oder Prüfnummer (CVV), nach deinem N26 Passwort oder nach deinen Karten- oder Überweisungs-PINs.
+
+Nach dem deutschem Finanzdienstleistungsaufsichtsgesetz (FinDAG) und dem Geldwäschegesetz (GwG) sind wir dazu verpflichtet, auch nach Kontoschließung eine Aufzeichnung deiner persönlichen Daten für weitere fünf Jahre aufzubewahren. Sobald diese gesetzliche Frist abgelaufen ist, werden wir deine Daten löschen.
+
+In unserer Datenschutzerklärung findest du eine genaue Übersicht über alle Daten, die wir hinterlegen und verarbeiten.
+
+###

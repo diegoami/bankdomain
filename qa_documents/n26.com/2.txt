@@ -1,0 +1,52 @@
+###
+Systemvoraussetzungen: Was du für die N26 App technisch brauchst
+
+Du kannst die N26 App im Apple App Store oder im Google Play Store herunterladen.
+
+Wenn du IOS nutzt, brauchst du mindestens die App-Version 3.9.3., mindestens das iPhone 4s und mindestens IOS 9. Deine IOS-Version findest du unter Einstellungen > Allgemein > Info.
+
+Nutzt du Android, brauchst du die App-Version 3.9.3. und mindestens Android 4.4. Deine Android-Version findest du unter Einstellungen > Über dein Gerät.
+###
+Europa: Wo du ein N26 Konto eröffnen kannst
+
+Als N26 Bank können wir unser Konto in ganz Europa anbieten: in Deutschland, Österreich, Irland, Frankreich, Spanien, Italien, Niederlande, Belgien, Portugal, Finnland, Litauen, Lettland, Luxemburg, Slowenien, Estland, Griechenland und der Slovakei.
+
+Hier siehst du, unter welchen Voraussetzungen du ein Konto bei uns eröffnen kannst. Beachte allerdings, dass dir nicht in allen Ländern alle Funktionen und Services von N26 zur Verfügung stehen.
+
+###
+Gebühren: Was das N26 Bankkonto kostet
+
+Das N26 Bankkonto selbst ist gebührenfrei.
+
+Für zusätzliche Services können je nach Region allerdings Gebühren anfallen:
+
+    Preise in Deutschland
+    Preise in Österreich
+    Preise in Frankreich
+    Preise in Spanien
+    Preise in Italien
+    Preise im Rest Europas
+
+*Bonität für N26 Bankkonto vorausgesetzt. Nutzer, die die Bonitätsanforderungen nicht erfüllen, können ein N26 Flex Konto eröffnen.
+###
+Gebühren: Womit du bei Abhebungen an Geldautomaten rechnen musst
+
+Sowohl mit deiner N26 Mastercard als auch mit deiner Maestro-Karte kannst du weltweit an jedem Automaten, der das entsprechende Logo zeigt, Geld von deinem N26 Konto Geld abheben. Dabei übernehmen wir pro Monat und je nach der Lieferadresse, die du zur Kontoeröffnung angegeben hast, unterschiedliche Gebühren:
+Region 	Fair Use Policy
+Deutschland 	3 - 5 kostenlose Transaktionen an Geldautomaten (€) innerhalb Deutschlands, unbegrenzte kostenlose Transaktionen an Geldautomaten im Ausland (beachte unsere Fair Use Policy für weitere Informationen), 2 € pro Bargeldabhebung mit der Maestro-Karte
+Österreich 	Unbegrenzte kostenlose Transaktionen an Geldautomaten (€) sowohl in Österreich als auch im Ausland, 2 € pro Bargeldabhebung mit der Maestro-Karte
+Frankreich 	5 kostenlose Transaktionen an Geldautomaten (€) daheim und im Ausland mit unserer Fair Use Policy
+Spanien 	5 kostenlose Transaktionen an Geldautomaten (€) daheim und im Ausland mit unserer Fair Use Policy
+Italien 	Unbegrenzte kostenlose Transaktionen an Geldautomaten (€) sowohl in Italien als auch im Ausland
+Niederlande 	Unbegrenzte kostenlose Transaktionen an Geldautomaten (€) sowohl in den Niederlanden als auch im Ausland, 2 € pro Bargeldabhebung mit der Maestro-Karte
+Rest Europas 	5 kostenlose Transaktionen an Geldautomaten (€) daheim und im Ausland mit unserer Fair Use Policy
+
+Über die Zahl kostenloser Transaktionen hinaus berechnen wir bis zum Ende des jeweiligen Monats eine Gebühr von 2 € für jede weitere Abhebung.
+
+Sollten einzelne Automatenbetreiber weitere, von uns nicht übernommene Gebühren erheben, erhältst du noch vor der Beendigung deiner Transaktion einen Hinweis und kannst den Vorgang abbrechen. In einigen Regionen der Welt wie Südostasien und Nordamerika berechnen Automatenbetreiber flächendeckend diese zusätzlichen Gebühren. Du kannst die Mastercard-Geldautomatensuche verwenden, um zu überprüfen, ob es in deiner Nähe einen gebührenfreien Automaten gibt.
+
+Geldabhebungen in Euro sind kostenfrei. Für Geldabhebungen an Automaten mit anderen Währungen verwenden wir den Mastercard-Wechselkurs und behalten uns einen Aufschlag von 1,7 % vor. Bei der Verwendung von N26 Black Mastercards entfällt auch diese Gebühr.
+
+Weitere Informationen findest du in unserer Preisliste.
+
+###

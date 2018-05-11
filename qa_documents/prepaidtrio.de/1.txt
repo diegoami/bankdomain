@@ -1,0 +1,101 @@
+###
+
+
+Wie kann ich das Prepaid Trio der Wirecard Bank beantragen?
+
+Bitte klicken Sie auf www.prepaidtrio.de auf einen der Buttons „Jetzt bestellen“ und geben Sie Ihre persönlichen Angaben ein. Anschließend erhalten Sie eine E-Mail mit weiteren Informationen.
+
+Bevor wir Ihr Konto eröffnen können, müssen Sie sich über das POSTIDENT-Verfahren der Deutschen Post legitimieren. Bitte klicken Sie auf den Link zur Online-Legitimierung, den Sie von uns per E-Mail erhalten und entscheiden Sie dann, welches POSTIDENT-Verfahren Sie nutzen möchten. Sie können sich entweder direkt online legitimieren oder in einer Filiale der Deutschen Post.
+###
+
+
+Wie kann ich ein Pfändungsschutzkonto beantragen oder meinen Grundfreibetrag erhöhen?
+
+Zum 1. Januar 2012 sind neue Regelungen zum Kontopfändungsschutz in Kraft getreten. Ein wirksamer Pfändungsschutz ist nur mit einem Pfändungsschutzkonto (P-Konto) gewährleistet: Sozialleistungen und Kindergeld können bei laufender Pfändung nicht mehr innerhalb von zwei Wochen nach Eingang abgehoben oder auf ein Ausweichkonto überwiesen werden.
+
+Jeder Kontoinhaber hat einen Anspruch darauf, dass auf seinen Antrag hin sein bestehendes Girokonto in ein P-Konto umgewandelt wird. Sie dürfen allerdings nur ein Konto als P-Konto führen.
+
+Wird das Konto gepfändet, erhalten Sie automatischen Pfändungsschutz in Höhe des festgelegten Grundfreibetrags, soweit Ihr Konto ein entsprechendes Guthaben aufweist.
+
+Den Antrag zur Umwandlung Ihres Girokontos in ein P-Konto können Sie bequem auf www.prepaidtrio.de im Bereich „Kundenservice“ unter „Formular-Center“ herunterladen. Bitte lassen Sie uns den ausgefüllten und unterschriebenen Antrag (Seite 1) per Post an folgende Adresse zukommen:
+
+Wirecard Bank AG
+Serviceteam
+Postfach 31 05 44
+04163 Leipzig
+
+Der Grundfreibetrag kann erhöht werden, wenn Sie z. B. Anspruch auf Kindergeld oder Unterhalt haben. Sollte dies für Sie zutreffen, lassen Sie sich diese Angaben bitte von der zuständigen Behörde bestätigen und senden Sie diese zusammen mit Seite 1 des Antrags an oben genannte Adresse.
+
+Weitere Informationen dazu finden Sie auf Seite 3 des Antrags.
+
+###
+
+
+Wie kann ich meine Adresse oder meine Kontaktdaten ändern?
+
+Sie können uns Ihre neue Adresse, Telefon-, Faxnummer oder E-Mail-Adresse aus dem Postkorb oder über die eBanking-Option „Service & Verwaltung“ > „Kundendaten und Vollmachten“ > „Persönliche Daten ändern“ zukommen lassen.
+
+Alternativ können Sie Ihre Kontaktdaten telefonisch ändern lassen. Dazu stehen wir Ihnen montags bis freitags in der Zeit von 8 bis 20 Uhr und samstags von 8 bis 15 Uhr zur Verfügung. Halten Sie zu diesem Zweck bitte Ihr aktuelles Ausweisdokument zur Identifizierung bereit. Sollten Sie ein neues Ausweisdokument haben, senden Sie uns bitte die Kopie des Dokumentes per E-Mail im Anhang, aus dem Postkorb als Anhang oder per Fax zu.
+
+###
+
+
+Wie kann ich meine VR-Kennung ändern?
+
+Sie haben die Möglichkeit, für Ihr Konto einen „Alias“ (Benutzernamen) anzulegen. Diesen können Sie zukünftig beim Login statt der VR-Kennung mit Ihrer persönlichen PIN eingeben. Ihren „Alias“ können Sie jederzeit im eBanking unter „Service & Verwaltung“ > „Online-Banking-Zugang“ > „VR-Kennung (Alias/Benutzername)“ einsehen oder ändern.
+###
+
+
+Mein eTAN-Generator funktioniert nicht, wie muss ich vorgehen?
+
+    Haben Sie versucht, die Batterien auszuwechseln?
+    Zeigt der eTAN-Generator den Fehler 09 an?
+
+Der Fehler 09 bei den eTAN-Generatoren tritt auf, wenn Sie eine PIN für den eTAN-Generator bzw. die Karte vergeben haben und diese dann falsch eingeben bzw. sperren.
+
+Falls Sie die PIN noch wissen, können Sie diese wie folgt deaktivieren:
+
+    Drücken Sie die Taste „Menü“ zweimal.
+    Drücken Sie nun die Taste „6“ für fünf Sekunden und die Taste „8“ einmal.
+    Drücken Sie die grüne Taste „ok“ einmal.
+    Geben Sie die selbstgewählte PIN ein und bestätigen Sie die Eingabe mit der grünen Taste „ok“.
+
+Erscheint die Meldung „PIN-Schutz aufgehoben“, wurde die PIN-Abfrage für den eTAN-Generator erfolgreich deaktiviert. Ist Ihr eTAN-Generator dennoch nicht funktionsbereit, hilft Ihnen unser Serviceteam gern weiter. Einen Kobil Sm@rt TAN Plus Generator können Sie einfach und günstig im Fachhandel erwerben.
+
+###
+
+
+Wie kann ich einen Verrechnungsscheck einreichen?
+
+Wir möchten Sie bitten, Verrechnungsschecks unterschrieben sowie unter Angabe von Ort, Datum und Ihrer Kontonummer an folgende Adresse zu senden:
+
+Wirecard Bank AG
+Einsteinring 35
+85609 Aschheim
+
+Die Einreichung von Schecks erfolgt über die Deutsche Bundesbank und kann je nach Banklaufzeit zwischen zwei und vier Wochen betragen. Für die Bearbeitung erheben wir Gebühren in Höhe von EUR 25,00.
+
+Bitte beachten Sie auch, dass unsere Geschäftspolitik die Einreichung von Auslandsschecks nicht vorsieht und nur Verrechnungsschecks, die auf Ihren Namen ausgestellt sind, auf Ihrem Girokonto eingelöst werden können.
+###
+
+
+Besteht die Möglichkeit, als Privatkunde einen Kredit bei der Wirecard Bank AG zu beantragen?
+
+Das Prepaid Trio ist ein Konto auf Guthaben-Basis. Somit können wir Ihrem Wunsch nach einem Dispositionskredit bedauerlicherweise nicht entsprechen.
+
+###
+
+
+Wie kann ich mein Konto kündigen?
+
+Die Kündigung Ihres Prepaid Trios ist jederzeit möglich. Bitte senden Sie uns eine mit Ort, Datum und Unterschrift versehene formlose Kündigung per Fax oder per Post an folgende Adresse:
+
+Wirecard Bank AG
+Serviceteam
+Postfach 31 05 44
+04163 Leipzig
+Fax: +49 (0) 30/300 110 650
+
+Selbstverständlich können Sie uns Ihre Kündigung auch als E-Mail-Anhang an service@wirecardbank.com senden. Bitte geben Sie auf dem Schreiben Ihre neue Bankverbindung an, damit wir ein eventuell vorhandenes Restguthaben überweisen können.
+
+###

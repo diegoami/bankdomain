@@ -1,0 +1,72 @@
+###
+Was ist das O2 Banking Konto?
+
+Dein O2 Banking Konto ist ein vollwertiges Girokonto. Die Bankfiliale ist dein Smartphone. Mit der App siehst du überall und sofort, was mit deinem Geld passiert, mit wenigen Handgriffen kannst du durch einen Geld-Notruf und / oder einen Dispo deinen Spielraum erweitern.
+
+Durch die Push-Nachrichten behältst du den Überblick über alle deine Kontobewegungen.
+
+Online kannst du dein Guthaben und deine Umsätze einsehen. Zusätzlich kannst Du hier deine Karte und den Zugang zum Mobile Banking mit der App deaktiveren.
+
+Bei der Eröffnung des Kontos wird keine SCHUFA-Anfrage gestellt.
+###
+Wie kann ich am besten Geld auf mein O2 Banking Konto einzahlen?
+
+Mit der o2 Banking App kannst du Bargeld in über 6.000 Partnerfilialen einzahlen. Direkt an der Kasse im Super- oder Drogeriemarkt. In der App erstellst du einen Barcode und zeigst ihn an der Kasse vor. Zu den dir bekannten Öffnungszeiten. Ohne Mindesteinkauf.
+
+Welche Filialen machen mit? REWE, Penny, real, BUDNI, Ludwig, Eckert, ON Express, Adam’s, Barbarino.
+###
+Wie erstelle ich einen Einzahl-Barcode?
+
+1. Öffne die O2 Banking App und wähle Geldservice (Menüpunkt rechts) > Bargeld Service
+
+2. Wähle Einzahlen und den Einzahl-Betrag – die App erstellt einen Einzahl-Barcode (gültig für 24h)
+
+3. Zeige den Barcode an der Kasse eines teilnehmenden Einzelhändler vor und zahle das Geld ein
+
+
+Die eingezahlte Betrag landet sofort auf deinem Konto und du kannst direkt darüber verfügen.
+
+Innerhalb von 24 Stunden kannst du höchstens 999 € einzahlen. Mindestbetrag: 50 €.
+
+Beim Einzahlen sind die ersten 100 € im Monat kostenlos. Für Beträge, die 100 € im Monat übersteigen, zahlst du eine Gebühr von 1,75%.
+
+
+
+Wir sind dran: Demnächst kannst du auch in unseren Partnergeschäften auch Geld abheben …
+###
+Wie funktioniert das Geldsenden an eine Handynummer oder E-Mail Adresse?
+
+IBAN mal nicht zur Hand? Sende Geld an die E-Mail-Adresse oder Handynummer des Empfängers. Gut zu wissen: Das funktioniert nicht nur zwischen O2 Banking Kunden sondern auch bei Empfängern, die ihr Konto bei einer beliebigen anderen Bank im SEPA Raum haben.
+
+Die App führt dich durch den Prozess: Erst wählst du einen Empfänger aus dem Adressbuch aus, dann dessen Handynummer oder E-Mail-Adresse – oder du gibst eine neue Handynummer oder E-Mail ein, füge deiner Geldsendung eine Nachricht hinzu und den Betrag, bestätige den Vorgang mit deiner Bezahl-PIN und schon ist das Geld unterwegs.
+
+Hat der Empfänger ein O2 Banking oder Fidor Konto erhält sie oder er den Betrag augenblicklich. Ist der Empfänger bei einer anderen Bank erhält sie oder er eine Nachricht per SMS oder E-Mail, tippt oder klickt auf den Link darin, gibt dann ihre oder seine IBAN an und erhält das Geld ganz normal auf ihrem/seinem Konto in 1-2 Bankarbeitstagen gutgeschrieben.
+
+Natürlich kannst du alternativ auch eine ganz normale Standard Überweisung mit IBAN durchführen.
+###
+Kann ich mit O2 Banking Daueraufträge anlegen?
+
+Mit O2 Banking kannst du in der App Lastschriften anlegen oder löschen. Der erste mögliche Ausführungstag für einen neuen Dauerauftrag ist der nächste Bankarbeitstag.
+
+Fällt der Ausführungstag auf einen Nicht-Bankarbeitstag, führen wir den Dauerauftrag am letzten Bankarbeitstag davor aus.
+
+Wenn du einen Dauerauftrag löschen möchtest, lösche einen laufenden Dauerauftrag spätestens am Tag vor der Ausführung.
+###
+Unterstützt O2 Banking Lastschriften?
+
+Wenn du ein SEPA Lastschriftmandat erteilt hast, kann die Bank eines Dritten Geld von deinem O2 Banking Konto einziehen. Lastschriften kannst du über einen Anruf bei der Kundenbetreuung rückgängig machen. (Wir arbeiten daran, dass du demnächst auch direkt in der App eine Lastschrift rückgängig machen kannst) Die Kosten für die Rücklastschrift trägt im ersten Schritt derjenige, der die Lastschrift veranlasst hat. Bei einer rechtmäßig erfolgten Lastschrift stellt dir der Veranlasser der Lastschrift ggf. eine Gebühr für die Rücklastschrift laut dessen Gebührenverzeichnis in Rechnung.
+
+Widerrufe ein bestehendes SEPA-Lastschriftmandat durch schriftliche Erklärung gegenüber dem Zahlungsempfänger. Du kannst ein Lastschrift Mandat zusätzlich oder nur bei unserer Kundenbetreuung widerrufen. Bedenke bitte in jedem Fall das Mandat beim Zahlungsempfänger zu widerrufen, um den weiteren Einzug von Lastschriften zu vermeiden.
+###
+Gibt es in O2 Banking SEPA- oder Überweisungsvorlagen?
+
+Die Empfängerdaten von jeder getätigten Überweisung werden automatisch gespeichert und können für die nächste Transaktion verwendet werden: Suche unter ‚Mein Konto’ – z.B. auch durch Tippen auf die Lupe rechts oben – den gewünschten Empfänger in deinen Transaktionen. Unter jeder Transaktion findest du den Link „Verwenden“. Tippe auf den Link und übernehme den Empfänger und die IBAN für eine neue Überweisung. Betrag und Zweck ergänzen und fertig.
+###
+Wer ist unser Partner, die Fidor Bank AG?
+
+Telefónica Deutschland bietet O2 Banking zusammen mit der Fidor Bank AG an.
+
+Die Fidor Bank AG gilt als innovativste Bank Deutschlands. Sie wurde mehrfach ausgezeichnet, unter anderem auch vom Weltwirtschaftsforum (WEF) als “Global Growth Company”. Die Fidor Bank besitzt eine deutsche Vollbanklizenz und unterliegt der Regulierung durch die BaFin, der Finanzaufsicht in Deutschland. Deine Einlagen sind durch die gesetzliche Einlagensicherung abgesichert.
+
+Seit 2017 gehört die Fidor Bank zur zweitgrößten französischen Bankengruppe BPCE, einem Zusammenschluss aus französischen Volksbanken (Banque Populaire) und Sparkassen (Caisse d’Epargne).
+###
