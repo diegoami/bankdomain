@@ -1,0 +1,13 @@
+###
+Was bedeutet der Status „ausgefallen“ in meiner Investitionsübersicht?
+Befindet sich ein Kreditprojekt in Ihrer Investitionsübersicht im Status „ausgefallen“, liegt eine Insolvenz des Kreditnehmers vor. Die noch offenen Forderungen der als „ausgefallen“ markierten Projekte sind daher leider als Ausfall der Investition zu werten.
+###
+Was geschieht, wenn ein Kreditnehmer seiner Zahlungsverpflichtung nicht nachkommt?
+Zuerst wird der Kreditnehmer dreimal im Abstand von je zwei Wochen von unserer Partnerbank gemahnt, da seine Rate nicht eingezogen werden konnte und er den Rückstand nicht ausgeglichen hat. Reagiert der Kreditnehmer nicht auf diese Mahnungen, erfolgt vier Wochen nach der dritten Mahnung die Kündigung und Fälligstellung der Forderung. Nach der Kündigung des Kredits hat der Kreditnehmer zwei Wochen Zeit, den gesamten ausstehenden Betrag zu begleichen. Geschieht dies nicht, wird die Kreditforderung ans Forderungsmanagement übergeben, welches alle weiteren Schritte zur Beitreibung einleitet und das gesamte Verfahren überwacht. Durch die Kreditkündigung werden uns Rechtsräume geschaffen, die es uns ermöglichen, den ausstehenden Kreditbetrag vom Schuldner einzufordern. Etwaige Sicherheiten werden berücksichtigt.
+###
+Was bedeutet der Status „Mahnung“ in meiner Investitionsübersicht?
+Befindet sich ein Kreditprojekt im Status „Mahnung“ liegt eine Rücklastschrift vor. Der Kreditnehmer wird in so einem Fall zeitnah von unserem Forderungsmanagement zum Ausgleich der säumigen Rate aufgefordert.
+###
+In welchen Fällen kommt es nicht zur Auszahlung meiner Rückflüsse?
+Sollte es bei Ihnen zu Auszahlungsausfällen kommen, können hierfür bspw. Rücklastschriften und Inkassofälle die Gründe sein. In diesen Fällen agiert unser Forderungsmanagement sofort und leitet Maßnahmen bis hin zur Zwangsvollstreckung ein. Ein weiterer Grund kann sein, dass der Kreditnehmer noch nicht mit seinen Rückzahlungen begonnen hat.
+###
