@@ -1,0 +1,15 @@
+###
+Sind ETFs nur für langfristige Investitionen sinnvoll?
+ETFs eigenen sich sowohl für langfristige als auch für kurzfristige Investitionen. Da sie durch die Möglichkeit des Kaufs und Verkaufs innerhalb eines Tages sehr flexibel sind, können ETFs sowohl für kurzfristige als auch für langfristige Investitionsziele eingesetzt werden. So kann mit ETFs beispielsweise kurzfristig von einer Marktbewegung profitiert werden, aber auch langfristig bieten ETFs einen soliden Ertrag, der sich durchaus mit dem von aktiv gemanagten Fonds messen kann.
+###
+
+Bieten ETFs einen signifikanten Kostenvorteil gegenüber Fonds?
+Die Kosten beim Handel mit ETFs liegen in der Regel unter den Kosten für konventionelle Fonds. Da ETFs nicht aktiv gemanagt werden, fallen die Gebühren für ein aktives Management weg. Die jährliche Verwaltungsgebühr, die die Fondsgesellschaft erhebt, liegt unter der von aktiv gemanagten Fonds und wird direkt vom Nettoinventarwert abgezogen. Die jährlichen Verwaltungs- und Fixgebühren, auch TER (Total Expense Ratio) genannt, können bei ETFs auf besonders liquide Indizes sogar bei 0 Prozent liegen. Außerdem fallen bei ETFs in der Regel keine Ausgabeaufschläge oder Rücknahmegebühren an, sondern nur die üblichen Transaktionskosten für einen Kauf oder Verkauf über die Börse. Bei Investitionen über einen längeren Zeitraum hinweg, können sich die niedrigeren Kosten für ETFs durchaus deutlich in der Rendite widerspiegeln.
+
+###
+Können ETFs ungünstige Marktbewegungen ausgleichen?
+ETFs sind darauf ausgelegt, die Entwicklung eines Index so genau wie möglich nachzubilden. Dies gilt auch bei fallenden Märkten. Im Gegensatz zu Fonds mit einem aktiven Management, kann die Zusammensetzung des Index bei fallenden Kursen also nicht verändert werden. ETFs folgen also immer ihrem Referenzindex, im Bullenmarkt genau wie im Bärenmarkt.
+###
+Bilden ETFs einen Index exakt nach?
+Je nach Art der Indexnachbildung werden zwei Arten von ETFs unterschieden: ETFs mit direkter Replikation und ETFs mit indirekter Replikation. ETFs mit direkter Replikation halten alle Aktien des Referenzindex in dem Verhältnis, in dem sie auch im Index gewichtet sind. Diese Indexnachbildung ist allerdings relativ aufwendig und kostenintensiv. Viele ETFs setzen daher auf die indirekte Indexnachbildung mittels Swaps. In diesem Fall hält der ETF Wertpapiere, die nichts mit dem zugrundeliegenden Index zu tun haben müssen. Mit einem Swap-Partner, meistens der Muttergesellschaft, wird die Performance dieser Wertpapiere dann gegen die Performance des Referenzindex getauscht. Oft setzen ETFs auch auf eine optimierte Aktienauswahl, vor allem bei der Nachbildung von Indizes mit sehr vielen Bestandteilen. Dabei werden Aktien mit einer sehr geringen Gewichtung im Index vollständig außen vor gelassen, da ihre Wertentwicklung ohnehin keinen Einfluss auf die Wertentwicklung des Index hat.
+###

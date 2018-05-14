@@ -1,0 +1,34 @@
+###
+Wie kann ich ein Konto bei der bankdirekt.at der Raiffeisenlandesbank OÖ AG eröffnen?
+
+Die Kontoeröffnung bei der bankdirekt.at der Raiffeisenlandesbank OÖ AG erfolgt über den Postweg. Sie müssen uns einfach den Kontoeröffnungsantrag mit einer Ausweiskopie (Reisepass, Personalausweis, Führerschein) von Ihnen übermitteln. Für die Eröffnung eines Wertpapierdepots bzw. eines Gehaltskontos benötigen wir noch zusätzlich das jeweilige Zusatzpaket. Sie finden alle notwendigen Formulare hier.
+###
+Wie bekomme ich meinen Online Banking-Zugang?
+
+Wir senden Ihnen diesen mittels Einschreiben-Rückschein zu, dh. Sie müssen diesen Brief persönlich vom Postbediensteten übernehmen. So werden Sie legitimiert.
+###
+Ich bekomme beim Ersteinstieg die Meldung: "Verfügernummer gesperrt". Was ist zu tun?
+
+Aus Sicherheitsgründen versenden wir die Zugangsdaten für Ihr Online Banking in gesperrtem Zustand. Im Eröffnungsbrief liegt eine PIN-Übernahmebestätigung bei. Erst wenn wir diese inkl. dem Originalantrag erhalten haben (möglich per Fax, Scan oder Post), werden wir den Zugang freischalten.
+###
+Wie lange dauert die Kontoeröffnung?
+
+Die Kontoeröffnung ist abgeschlossen, wenn wir von Ihnen den Originalantrag samt Ausweiskopie vorliegen haben und Sie auch den Rückscheinbrief persönlich übernommen haben. Die Eröffnung kann innerhalb einer Woche abgeschlossen werden.
+###
+Was ist der Unterschied zwischen einem zweiten Kontoinhaber und einem Zeichnungsberechtigten?
+
+Der Zeichnungsberechtigte darf keine weiteren Kontoinhaber oder Zeichnungsberechtigten bestellen, das Konto nicht schließen und auch keine Karten beantragen. Im Ablebensfall des Kontoinhabers wird das Konto gesperrt bis zum Ende der Verlassenschaft. Wäre der Zeichnungsberechtigte jedoch als zweiter Kontoinhaber definiert, so würde das Konto nicht gesperrt und er kann weiter verfügen.
+###
+Wozu benötige ich ein Referenzkonto?
+
+Das Referenzkonto ist in der Regel Ihr Hausbankkonto und muss auf Ihren Namen lauten. Dieses Konto ist das einzige auf das Sie von unseren Veranlagungskonten retour überweisen können. Sollten Sie auch ein Girokonto bei uns führen ist die Angabe eines Referenzkontos nicht erforderlich.
+###
+Welchen Unterschied gibt es zwischen der smsTAN und der cardTAN?
+
+Wenn Sie bei der smsTAN einen Wertpapierauftrag oder eine Überweisung absenden möchten, fordern Sie über den Button "smsTAN anfordern" eine Transaktionsnummer an, diese kommt dann innerhalb weniger Sekunden als SMS auf Ihr Handy.
+Bei Verwendung der cardTAN müssen Sie nach Erfassung eines Auftrages die (cardTAN- oder Maestro-)Karte in den cardTAN-Generator stecken, den PIN eingeben und anschließend den Generator zum Flickern an den Bildschirm halten. Mit diesem Vorgang werden die Daten des Auftrags auf den Generator übertragen und eine TAN wird produziert. Ein weiterer Unterschied besteht im Überweisungslimit beim Girokonto. Mit der smsTAN können mit einer TAN max. Aufträge mit einer max. Gesamtsumme von 10.000,-- EUR unterfertigt werden. Im Gegensatz dazu beträgt das Überweisungslimit mit der cardTan 73.000,-- EUR.
+###
+Kann im Zuge des Kontowechsels die bestehende Kreditkarte übernommen werden?
+
+Die Übernahme einer Gold- bzw. Classic Kreditkarte (Mastercard bzw. Visa) von Raiffeisen Card Service ist möglich.
+###

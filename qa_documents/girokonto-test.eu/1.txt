@@ -1,0 +1,230 @@
+###
+Was versteht man unter einem Girokonto?
+
+Beim klassischen Girokonto, auch Sachkonto genannt, handelt es sich um die am weitesten verbreitete Kontoform. Das Girokonto wird als Kontokorrentkonto geführt und dient der Abwicklung laufender Zahlungseingänge und –ausgänge.
+###
+Was ist ein Basis-Girokonto?
+
+Das Basis Girokonto oder Jedermann Konto wurde 2014 im EU-Parlament beschlossen. Es handelt sich um ein Konto, das von jedem EU-Bürger, unabhängig von Einkommen oder Wohnsitz, eröffnet werden kann. Überziehungen sind allerdings nicht möglich.
+
+Der Grund für die diesen gesetzlichen Anspruch liegt darin, jedem Bürger die Teilnahme am modernen, sozialen und wirtschaftlichen Leben zu ermöglichen.
+###
+Was versteht man unter dem PostIdent Verfahren?
+
+Das PostIdent Verfahren dient zur Identifizierung des Antragstellers im Zuge eines Vertragsabschlusses. Das PostIdent Verfahren wird unter anderem auch von Direktbanken im Rahmen der Eröffnung eines Kontos genutzt. Eine wichtige Rolle spielt die Deutsche Post. Sie führt das PostIdent Verfahren als Service durch.
+
+Für das PostIdent Verfahren ist es notwendig, dass Sie als Antragsteller mit allen Unterlagen für die Eröffnung des Girokontos bei der nächsten Postfiliale vorstellig werden. Nachdem Sie sich dort ausgewiesen haben, bestätigt der Postmitarbeiter Ihre Identität auf einem hausinternen Formular und übermittelt dieses samt der Unterlagen an die Bank.
+###
+Was ist ein Automatenverbund?
+
+Unter einem Automatenverbund versteht man eine Vereinigung zur gemeinsamen Nutzung von Geldautomaten. Die Mitglieder eines Automatenverbundes können ihren Kunden ein größeres Automatennetz anbieten. Die Abhebungen von Bargeld an einem bankexternen Automaten sind jedoch in den meisten Fällen empfindlich teurer, als an den eigenen Automaten der Bank.
+
+Die meisten Banken in Deutschland sind Mitglieder eines der folgenden Verbünde:
+
+    Bankcard Servicenetz
+    Sparkassen Finanzgruppe
+    CashPool
+    Cash Group
+###
+Was versteht man unter Online Banking?
+
+Beim Online Banking bzw. Internet Banking handelt es sich um ein Portal zur Selbstverwaltung der Konten über das Internet. Online Banking wird vor allem von Direktbanken angeboten. Auch Filialbanken bieten Online Banking meist auf Wunsch an. Um Online Banking nutzen zu können, erhält man nach einem entsprechenden Antrag eine Verfügernummer, ein Passwort und eine PIN. Mit Hilfe der Eingabe dieser Daten kann man die Online-Maske zur Übersicht seiner Konten öffnen. Anschließend können die verschiedenen Services in Anspruch genommen und zum Beispiel Transaktionen getätigt werden.
+
+Folgende Möglichkeiten finden Sie beim Online Banking vor:
+
+    Kontrolle des aktuellen Kontostandes
+    Überprüfung der Geldeingänge und Geldausgänge
+    Durchführung von Überweisungen
+    Einrichtung und Kündigung von Daueraufträgen
+    Umbuchungen in Auftrag geben
+
+Überweisungen, Umbuchungen oder Daueraufträge können nur mit Hilfe eines TAN Codes, der sogenannten Transaktionsnummer, eingerichtet bzw. durchgeführt werden.
+###
+Was ist ein TAN Code und welche Arten gibt es?
+
+Beim TAN Code handelt es sich um die sogenannte Transaktionsnummer. Sie besteht in der Regel aus insgesamt sieben Stellen und übernimmt die Funktion einer elektronischen Unterschrift. TAN Codes werden in Form einer Liste ausgehändigt. Jeder TAN Code kann nur einmal verwendet werden. Wurde ein TAN Code mehrmals falsch eingegeben, wird das Verfügerkonto im Online Banking für einen bestimmten Zeitraum gesperrt. Um für noch mehr Sicherheit zu sorgen, beschränken viele Banken die TAN-erforderlichen Transaktionen pro Login auf eine bestimmte Menge.
+
+Als Alternative zur TAN-Liste gibt es auch den SMS-TAN. Per Knopfdruck wird ein automatisch generierter TAN-Code an eine der Bank bekanntgegebene Handynummer geschickt. Der SMS-TAN Code ist nur für wenige Minuten gültig. Mit der Eingabe des TANs oder der Überschreitung der Zeit, wird der TAN Code ungültig.
+###
+Was versteht man unter Dispo?
+
+Der Begriff Dispo ist die Abkürzung für die Bezeichnung Dispositionskredit. Der Dispo beschreibt den Überziehungsrahmen, den die Bank im Rahmen des Girokontos gewährt. In der Regel beträgt der Dispo ein Monatsgehalt des Kontoinhabers. In Ausnahmefällen kann der Dispositionskredit auf drei Monatsgehälter erweitert werden. Der Dispositionskredit kann von der Bank jederzeit unter Einhaltung einer Frist von 30 Tagen gekündigt werden.
+
+Mit Hilfe des Dispos, für den Sie übrigens keinerlei Sicherheiten darlegen müssen, können Sie kleinere Engpässe ausgleichen. Wer seinen Dispo über einen längeren Zeitraum ausnutzt, sollte sich aufgrund der hohen Sollzinsen über eine Umschuldung auf einen Verbraucherkredit Gedanken machen.
+###
+Was ist eine EC-Karte bzw. Girokarte?
+
+Für die bargeldlose Bezahlung und Barabhebung werden von den Banken sogenannte EC-Karten oder Girokarten ausgehändigt. Je nachdem, ob Sie das Konto alleine oder zu zweit nutzen, wird zur EC-Karte auch noch eine zusätzliche Partnerkarte ausgestellt. Die EC-Karte ermöglicht nicht nur innerhalb Deutschlands, sondern weltweite Bargeldabhebungen und bargeldlose Käufe.
+
+Für die Transaktionen und Abhebungen ist eine vierstellige Geheimzahl notwendig, die von der kontoführenden Bank ausgehändigt wird. Um im Falle eines Diebstahls größere finanzielle Schäden zu vermeiden, sind EC-Karten standardmäßig mit einem täglichen Limit ausgestattet. Dieses kann jedoch auf Kundenwunsch hin und mit dem Einverständnis der Bank abgeändert werden.
+###
+Was ist eine Kreditkarte?
+
+Die Kreditkarte ermöglicht die bargeldlose Bezahlung sowie die Bargeldabhebung am Bargeldautomaten. Während Bargeld nur mit Hilfe einer vierstelligen Geheimzahl abgehoben werden kann, kann die bargeldlose Bezahlung ohne Geheimzahl durchgeführt werden. Der Karteninhaber muss allerdings auf dem jeweiligen Rechnungsbeleg unterschreiben. Die Buchungen der Kreditkarte werden am Ende des Monats abgerechnet und anschließend als Abbuchung vom Girokonto ausgewiesen. Auch bei Kreditkarten ist aus Sicherheitsgründen ein tägliches Limit für Barabhebungen eingerichtet. Zusätzlich ist es sinnvoll, die Kreditkarte gegen Diebstahl zu versichern.
+###
+Was sind Kontoführungsgebühren?
+
+Die Kontoführungsgebühren werden in der Regel pauschal eingehoben und betragen zwischen 1,50 und 10 Euro. Einige Banken bieten für bestimmte Kundengruppen, wie zum Beispiel für Studenten, Minderjährige oder für Arbeitslose, eine Freistellung für dieser Gebühren an.
+###
+Filialbanken – Direktbanken: Worin liegen die Unterschiede?
+
+
+Direktbanken (Onlinebank, Internetbank)
+
+
+Filialbanken
+
+Filialnetz
+
+
+Nein
+
+
+Ja
+
+Service
+
+
+Beratung findet in der Regel nur per Telefon, Mail oder Post statt.
+
+
+Direkter Kontakt am Schalter
+
+Leistungen
+
+
+Keine Unterschiede zu den Filialbanken.
+
+Übliche Produkte:
+
+    Girokonten
+    Tagesgeldkonten
+    Festgeld Konten
+    Devisen- und Aktiendepots
+    Kredite
+    Kreditkarten
+
+
+
+Keine Unterschiede zu den Direktbanken
+
+Vertriebskanäle
+
+
+    Internet
+    Fax
+    Telefon
+    Briefpost
+
+
+
+    Internet
+    Fax
+    Telefon
+    Briefpost
+    Werbeevents
+
+Vorteile
+
+
+    Geringere Kosten durch niedrige Gebühren für Dienstleistungen
+    Rund um die Uhr Zugriff auf die Verwaltung der eigenen Konten
+
+
+
+    Direkte Beratung am Schalter möglich
+    Einzahlungen direkt vor Ort möglich
+    Überweisungen und Schecks können als Beleg eingereicht werden
+    Onlinebanking wird meist zusätzlich angeboten
+
+Nachteile
+
+
+    persönlicher Kontakt am Schalter fehlt
+
+
+
+    meist höhere Kosten
+    an die Öffnungszeiten der Bankfiliale gebunden
+###
+Wer darf ein Girokonto eröffnen?
+
+Seit April 2014 darf grundsätzlich jeder EU-Bürger ein Girokonto eröffnen. Voraussetzungen, wie zum Beispiel ein fester Wohnsitz, ein geregeltes Einkommen oder ähnliches, müssen nicht erfüllt werden. Bei diesem sogenannten Basis-Konto handelt es sich um ein Girokonto auf Guthaben Basis. Eine Überziehung ist nicht möglich. Auch in Bezug auf das Alter des Antragsstellers gibt es bei der Eröffnung eines klassischen Girokontos keine Vorgaben. Minderjährige benötigen jedoch die schriftliche Zustimmung sowie eine Ausweiskopie des gesetzlichen Vertreters.
+###
+Welche Unterlagen benötigt man für eine Kontoeröffnung?
+
+Um ein Girokonto zu eröffnen, ist ein gültiger Personalausweis oder Reisepass notwendig. Handelt es sich um einen Minderjährigen, sind zudem die Zustimmung und der Personalausweis oder Pass des gesetzlichen Vertreters notwendig. Außerdem muss ein entsprechender Antrag ausgefüllt und eingereicht werden.
+
+Handelt es sich um ein Girokonto mit Kreditkarte bzw. Dispokredit, muss in der Regel auch ein Nachweis des monatlichen Einkommens erbracht werden. Hierfür ist die Vorlage der letzte drei Abrechnungen bzw. eine Kopie des Arbeitsvertrages ausreichend.
+###
+Aus welchen Gründen kann ein Kontoeröffnungsantrag abgelehnt werden?
+
+Seit April 2014 hat jeder EU-Bürger das Recht auf ein Basis-Girokonto. Ein Kontoeröffnungsantrag kann daher nur aus besonderen Gründen von der Bank abgelehnt werden. Dazu gehört zum Beispiel der Fall, dass der Kunde vorsätzlich falsche Angaben zu seiner Person gemacht hat. Außerdem wäre zum Beispiel ein tätlicher Angriff oder eine ausgesprochene Drohung des Antragsstellers an einen Bankangestellten ein möglicher Grund für eine rechtlich zulässige Ablehnung.
+###
+Wie schnell kann das neue Girokonto genutzt werden?
+
+Wie schnell das neue Girokonto voll genutzt werden kann, hängt davon ab, wo und auf welche Art und Weise Sie Ihr neues Konto eröffnen. Grundsätzlich dauert die Eröffnung eines Kontos in einer Filialbank meist deutlich kürzer, da Sie die Unterlagen bereits vollständig mitnehmen können. Sollte ein Bankangestellter Ihre Kontoeröffnung sofort bearbeiten, ist eine Nutzung des Kontos in der Regel noch am selben Tag möglich.
+
+Bei Onlinebanken dauert die Abwicklung meist etwas länger, da die Identität zuerst mittels PostIdent-Verfahren bestätigt muss und die Unterlagen anschließend postalisch oder digital an die Direktbank übermittelt werden.
+
+Grundsätzlich ist es jedoch empfehlenswert, beide Konten mindestens ein bis zwei Monate parallel aktiv zu lassen, um wirklich alle Daueraufträge und laufenden Zahlungen auf das neue Konto transferieren zu können.
+###
+Wer überträgt die Lastschriftverfahren auf das neue Girokonto?
+
+Wenn man mit seinem Girokonto zu einer andere Bank wechselt, übernimmt diese in der Regel kostenlos die Übertragung aller laufenden Daueraufträge und Lastschriftverfahren. Es handelt sich hierbei jedoch um einen üblichen Service und nicht um eine verpflichtende Leistung.
+###
+Erhält man als Arbeitsloser ein Girokonto?
+
+Ja. Nach dem, im April 2014 erlassenen EU-weiten Gesetz hat jeder Bürger das Recht auf ein Girokonto (Basis-Konto ohne Überziehungsmöglichkeit). Dazu gehören unter anderem auch Menschen ohne regelmäßiges Einkommen.
+###
+Kann man trotz negativer Schufa ein Girokonto eröffnen?
+
+Ja. Auch mit einer negativen Schufa kann man ein Girokonto eröffnen. Es handelt sich hierbei jedoch meist um ein sogenanntes Guthabenkonto. Dieses inkludiert weder Disporahmen noch Kreditkarte.
+###
+Gibt es Girokonten für Minderjährige?
+
+Ja. Die Eröffnung eines Girokontos ist in Bezug auf das Alter des Antragstellers nicht beschränkt. Allerdings können Minderjährige nur mit Zustimmung und unter Vorlage einer Ausweiskopie eines gesetzlichen Vertreters ein Konto eröffnen. Zudem handelt es sich bei Konten für Minderjährige meist um sogenannte Guthabenkonten, die eine Überziehung nicht möglich machen.
+###
+Darf ich ohne deutschen Wohnsitz ein Girokonto eröffnen?
+
+Nach dem EU-Parlamentsbeschluss im April 2014 hat jeder EU-Bürger das Recht auf ein Girokonto (Basis-Konto). Das trifft auch dann zu, wenn der Antragsteller kein festes Einkommen oder keinen festen Wohnsitz hat. Unverzichtbar bei der Eröffnung eines Basis-Kontos ist jedoch dennoch die Legitimation durch einen Reisepass oder Personalausweis.
+###
+Welche laufenden Kosten fallen bei einem Girokonto an?
+
+Die laufenden Kosten bei einem Girokonto sind unter anderem davon abhängig, ob es sich um ein privates oder um ein geschäftsmäßig geführtes Konto handelt. Ersteres wird heute bereits von vielen Banken “kostenlos” angeboten. Wobei auch hier in der Regel bestimmte Leistungen wie Überweisungen oder Barabhebungen kostenpflichtig sind.
+
+Girokonten für Geschäftskunden sind meist um einiges kostspieliger und werden je nach Nutzung abgerechnet. So fallen hier beispielsweise Kosten für Transaktionen, wie Umbuchungen oder Überweisungen, Daueraufträge, Abhebungen, die Bearbeitung und ähnliches an. Die Abrechnung der Kontogebühren erfolgt bei den meisten Banken quartalsweise.
+###
+Welche Arten von Girokonten gibt es?
+
+Unterschieden wird zwischen Girokonten für Geschäftskunden und Girokonten für Privatkunden.
+
+Bei den Privatkonten bieten die Banken in der Regel verschiedene Produkte für spezielle Zielgruppen an. Dazu gehören zum Beispiel Konten für Minderjährige, Konten mit Tagesgeld-Funktion, Gemeinschaftskonten, Konten auf Guthabenbasis oder das P-Konto zum Schutz vor Pfändung.
+###
+Welche Zinsen gibt es beim Girokonto?
+
+Wenn Sie ein Girokonto abschließen, sollten Sie auf zwei Arten von Zinsen achten:
+
+    Sollzinsen
+    Habenzinsen
+
+Bei den Sollzinsen handelt es sich um den Zinssatz, der im Falle einer Überziehung Ihres Kontos anfallen würden. Die Habenzinsen hingegen, werden von der Bank für Guthabenbeträge gutgeschrieben, sind jedoch meist deutlich geringer.
+###
+Muss am Girokonto regelmäßig Geld eingehen?
+
+Bei einem klassischen Girokonto handelt es sich um ein sogenanntes Gehaltskonto. Es sieht einen regelmäßigen Zahlungseingang vor. Oftmals muss der Antragsteller auch einen oder mehrere Gehaltsnachweise vorlegen. Wer kein regelmäßiges Einkommen vorweisen kann, kann alternativ dazu ein Guthabenkonto eröffnen. Hier ist allerdings keine Überziehung möglich.
+###
+Gibt es bei der Girokonto Kündigung Fristen?
+
+Ein Girokonto kann sowohl vom Kontoinhaber als auch von der Bank gekündigt werden. Der Kontoinhaber muss im Falle einer Kündigung keine Fristen einhalten. Wird das Girokonto von der kontoführenden Bank gekündigt, muss dem Kunden allerdings eine mindestens 2-monatige Frist eingeräumt werden. Ausnahmen gibt es nur in besonderen Fällen, wie etwa bei Betrug oder der Angabe falscher Daten.
+
+Anders verhält es sich beim Dispositionskredit. Dieser kann von der Bank nach einer 30-tägigen Frist jederzeit gekündigt werden.
+###
+Kann man das Girokonto trotz Minus wechseln?
+
+Ein Wechsel des Girokontos ist trotz überzogenem Dispo grundsätzlich möglich, allerdings wird der in Anspruch genommenen Dispositionskreditbetrag in der Regel anschließend von der alten Bank eingefordert. Ob die neue Bank zur Begleichung dieser Schulden einer neuerlichen Überziehung des Dispos zustimmt, hängt von deren Kulanz und Ihrer Bonität ab.
+###
+Ist der Girokonto Wechsel kostenpflichtig?
+
+Der Wechsel des Girokontos an sich ist kostenlos.
+###

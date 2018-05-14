@@ -53,7 +53,7 @@ Welche SEPA-Produkte gibt es?
 Mit Hilfe von SEPA können die Mitglieder
 
 a)      SEPA-Überweisungen
-b)      SEPA- Direktabbuchungen
+b)      SEPA-Direktabbuchungen
 
 verarbeiten.
 

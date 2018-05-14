@@ -1,0 +1,38 @@
+###
+Wie steige ich in das Online Banking ein?
+
+Wir empfehlen den Einstieg in das Online Banking über den Login-Button unserer Homepage www.bankdirekt.at. Alternativ dazu können Sie die Url banking.raiffeisen.at in der Browserleiste eingeben und bei "Bundesland" Oberösterreich/bankdirekt auswählen.
+###
+Für welche Browser ist das Online Banking optimiert?
+
+Raiffeisen ELBA-internet wurde mit verschiedenen Browsern getestet. Eine Übersicht finden Sie in der Browserkonfiguration.
+
+Bei Verwendung eines anderen Browsers kann es zu Beeinträchtigungen kommen (eingeschränkter Funktionsumfang, Anzeigeprobleme etc.). Wir empfehlen die Verwendung einer der angeführten, getesteten Browserversionen. Nähere Informationen dazu finden Sie auf der Login-Seite im Menüpunkt “Browserkonfiguration“.
+
+Kein Login mit veralteten Browsern
+Veraltete Browser entsprechen nicht den aktuellen Sicherheitsstandards. Auch die gängigen modernen Internet-Technologien werden nicht mehr ausreichend unterstützt.
+
+Um höchst mögliche Sicherheit und Funktionalität zu gewährleisten, wird der Login mit veralteten Browsern vom Online Banking Sicherheitssystem abgelehnt.
+
+Unter „Browserkonfiguration“ finden Sie neben den für das Online Banking empfohlenen Browsereinstellungen auch die Internet-Adressen zum Download aktueller Browserversionen (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, Safari)
+###
+Was ist PIN, Verfüger und TAN?
+
+PIN (Persönliche Identifikations Nummer) und Verfüger sind Legitimierungscodes (bestehend aus Buchstaben und/oder Zahlen) für den Zugang zu Ihrem Konto und Depot. TANs (Trans Aktions Nummern) dienen als elektronische Unterschrift bei der Aufgabe von Werpapierorders und Überweisungen sowie diversen Änderungen. Sie dienen, zusätzlich zu PIN und Verfüger, Ihrer Sicherheit. TANs können nur einmal verwendet werden.
+###
+Wer kann mir bei technischen Problemen helfen?
+
+Wenden Sie sich bitte an die technische Hotline unter der Nummer: +43 (0)5999 34000 900 - 4
+###
+Was mache ich wenn ich die PIN vergessen habe?
+
+In diesem Fall treten Sie bitte mit dem Kontoservice (Tel.: +43 (0)5999 34000 900 - 2) in Kontakt. Hier wird eine neue PIN für Sie bestellt und per Post an Sie versendet. Für die Freischaltung müssen Sie uns die Übernahmebestätigung unterschrieben retour senden.
+###
+Kann ich bei bankdirekt.at die Digitale Signatur verwenden?
+
+Ja, das ist möglich. Sie müssen Ihre Signaturkarte nur einmalig bei uns registrieren lassen, danach können Sie mit dieser im Online Banking arbeiten. Details zur Digitalen Signatur finden Sie hier.
+###
+Kann ich auch über das Handy Bankgeschäfte tätigen?
+
+Sie können über das Handy in das Online Banking einsteigen - das System erkennt, dass der Einstieg über ein Handy erfolgt und die Seiten werden optimiert für den Handy-Bildschirm ausgegeben. Selbstverständlich können Sie auch über den App-Store von iOS sowie den google play-Store für Android-Geräte unsere kostenlose bankdirekt-App mit vielen interessanten Zusatzfeatures downloaden.
+###

@@ -1,0 +1,98 @@
+###
+Ab wann gilt die KESt-Erhöhung und was ist davon betroffen?
+
+Die Erhöhung der österreichischen Kapitalertragssteuer tritt mit 1.1.2016 in Kraft. Folgendes ist davon betroffen:
+
+    Kursgewinne von Aktien, Anleihen und Fonds Neubestand unterliegen einer Kursgewinnsteuer von 27,5 %
+    Erträge (Zinsen, Dividenden) aus Wertpapieren (Neubestand und Altbestand) unterliegen der KESt von 27,5 %
+    Die Kapitalertragssteuer auf Sparbücher und Girokonten bleibt bei 25 %
+    Die BESt-KESt (Beschränkte Steuerpflicht-KESt) erhöht sich bei österreichischen Wertpapieren ebenfalls auf 27,5 %
+
+ACHTUNG: Keine Abgrenzung der KESt - volle Belastung mit 27,5 % bei Zuflüssen (Dividenden, Zinsen, Kursgewinnen) ab 1.1.2016
+###
+
+Wer ist von der Kursgewinnsteuer betroffen?
+
+Die KESt auf Kursgewinne betrifft alle in Österreich unbeschränkt steuerpflichtigen Privatanleger. Ausgenommen sind Depots von Kapitalgesellschaften mit Abgabe einer KESt-Befreiungserklärung und Privatdepots mit Abgabe einer Wohnsitzerklärung.
+###
+
+Welche Wertpapiere sind von der Kursgewinnsteuer betroffen?
+
+Aktien und Investmentfonds mit Kaufdatum ab 01.01.2011 und Anleihen, Zertifikate und Optionsscheine, mit Kaufdatum ab 01.04.2012.
+###
+
+Was passiert mit Wertpapieren, die vor diesen Stichtagen erworben wurden?
+
+Aktien und Investmentfonds die vor 1.1.2011 gekauft wurden sind sogenannter Altbestand. Es erfolgt somit kein automatischer KESt-Abzug beim Verkauf. Gleiches gilt auch für Anleihen, Zertifikate und Optionsscheine welche bis 1.4.2012 gekauft wurden.
+
+Liegt der Kauf bei Anleihen, Zertifikaten oder Optionsscheinen zwischen 1. Oktober 2011 und 1. April 2012 und der Verkauf nach 1. April 2012 sind die realisierten Kursgewinne (bei Zertifikaten die realisierten Kursgewinne unter dem Emissionspreis) im Rahmen der Einkommenssteuererklärung UNABHÄNGIG VON DER BEHALTEDAUER selbstständig mit dem Sondersteuersatz von 27,5 % zu versteuern. Die 1- jährige Spekulationsfrist verliert ihre Geltung.
+###
+
+Was ist Alt- bzw. Neubestand?
+
+Altbestand sind Aktien und Fonds welche vor 1.1.2011 bzw. Anleihen, Zertifikate und Optionsscheine welche bis 31.3.2012 gekauft wurden. Als Neubestand werden Anschaffungen nach dem jeweiligen Zeitpunkt bezeichnet.
+###
+
+Wie erfolgt die Anzeige von Alt- bzw. Neubestand?
+
+In der Positionsübersicht steht Ihnen über den Aktionsbutton die Wahlmöglichkeit "Details anzeigen" zur Verfügung. Hier wird Ihnen angezeigt, wie viele Stücke Alt- bzw. Neubestand sind. Weiters ist ersichtlich, welchen steuerlichen Anschaffungswert die Position hat.
+###
+
+Mit welchem Kurs werden Aktien- und Fondskäufe zwischen 1.1.2011 und 1.4.2012 bewertet?
+
+Die Bewertung erfolgt zum "Gemeinen Wert". Dieser Wert ist der Schlusskurs des Wertpapiers vom 30. März 2012 bzw. der letzt verfügbare Schlusskurs der Hauptbörse.
+
+Wichtig: Die KESt-Berechnung erfolgt anhand der Differenz vom "Gemeinen Wert" zu Ihrem Verkaufskurs. Ihr tatsächlicher Kaufkurs wird diesbezüglich nicht herangezogen!
+
+Diesbezügliche Korrekturen sind im Wege der Veranlagung beim Finanzamt zu beantragen, wobei es nicht erforderlich ist, alle Kapitaleinkünfte offenzulegen.
+###
+
+Wie werden die steuerlichen Anschaffungsdaten bei Käufen ab 1.4.2012 ermittelt?
+
+Steuerliche Anschaffungskosten sind ohne Kaufspesen und Gebühren. Die Berechnung der steuerlichen Anschaffungskosten erfolgt stets in Euro. Bei Erwerb in zeitlicher Aufeinanderfolge von Wertpapieren mit derselben Wertpapierkennnummer ist der gleitende Durchschnittspreis anzusetzen. Bestandstrennende Merkmale, wie z.B. unterschiedliche Lagerstellen, werden nicht berücksichtigt.
+###
+
+Kommt es zu einer nachteiligen Doppelbesteuerung bei Fonds-Veranlagungen?
+
+Es kommt zu keiner Doppelbesteuerung. Vielmehr werden alle auf Fondsebene bezahlten Steuern dem Privatanleger bei Verkauf des Fonds angerechnet. Weiters gibt es drei wesentliche Gestaltungsmöglichkeiten in Fondsportfolios:
+
+Automatischer Verlustausgleich im Fonds: Gewinne und Verluste werden innerhalb des Fonds automatisch über alle Assetklassen hinweg ausgeglichen.
+Unbeschränkter Verlustvortrag: Realisierte Verluste können zur späteren Gegenverrechnung in folgende Geschäftsjahre vorgetragen werden.
+Gegenrechnung von Aufwändungen (Kosten): Im Fonds anfallende Kosten können den Erträgen gegengerechnet werden und verringern damit die KESt-Berechnungsbasis.
+###
+
+Werden auch realisierte Verluste angerechnet?
+
+Ja, auch realisierte Verluste bei Neubestandspositionen werden angerechnet. Seit 1. Jänner 2013 werden realisierte Verluste fortlaufend mit realisierten Kursgewinnen gegenverrechnet. Auch Zinsen aus Anleihen-Neubeständen und Dividenden von Alt- und Neubeständen werden berücksichtigt. Zinsen aus Sparguthaben fließen nicht in den automatischen Verlustausgleich ein!
+###
+
+Für welche Depots erfolgt der automatische Verlustausgleich?
+
+Der Verlustausgleich erfolgt nur bei Depots von österreichischen Privatpersonen. Bei Einzeldepots werden sämtliche Depots eines Depotinhabers bei der Raiffeisenlandesbank Oberösterreich AG berücksichtigt. Gemeinschaftsdepots und Depots im Betriebsvermögen sind vom automatischen Verlustausgleich durch das Kreditinstitut ausgenommen.
+###
+
+Werden im Zuge des Verlustausgleichs Personendaten an das Finanzamt gemeldet?
+
+Nein.
+###
+
+Werden Spesen bei der Steuerberechnung berücksichtigt?
+
+Handelsspesen und Depotgebühren stellen Anschaffungs-Nebenkosten dar. Diese Kosten werden bei der Steuerberechnung nicht berücksichtigt.
+###
+
+Was ist eine Steuerinformation?
+
+Die Steuerinformation wird von uns für alle Einzeldepotinhaber erstellt und Anfang April des Folgejahres für das vorangegangene Steuerjahr im Wertpapier Downloadcenter bereitgestellt. In der Steuerinformation sind alle realisierten Kursgewinne/-verluste, Erträge (Dividenden und Zinsen) und erteilte KESt-Gutschriften aus dem Verlustausgleich aufsummiert ausgewiesen. Bei Einzeldepots stellt dies für Sie nur eine Information dar. Sollten Sie auch noch bei einer anderen Bank Depots führen, können Sie anhand der Daten der Steuerinformation einen bankübergreifenden Verlustausgleich über das Finanzamt beantragen.
+
+Wir erstellen auch für Gemeinschaftsdepots eine Steuerinformation, welche jedoch nicht automatisch zum Download bereitsgestellt wird. Sollten Sie diese benötigen, fordern Sie sie einfach per E-Mail an service@bankdirekt.at an.
+###
+
+Werden bei einem Depotübertrag die steuerlichen Anschaffungsdaten mitübertragen?
+
+Einen Depotübertrag müssen Sie mit einem Depotübertragungsformular beauftragen. Diese enthalten in der Regel auch einen Auftrag dazu, die steuerlichen Daten mitzuübertragen und die alte Bank vom Bankgeheimnis zu entbinden. Sofern Sie dieser Option zustimmen, werden sowohl die Altbestandseigenschaft als auch die steuerlichen Anschaffungsdaten mitübertragen.
+
+WICHTIG dabei ist, dass es sich um keinen Besitzwechsel handelt, dh. der/die Inhaber müssen bei der alten und neuen Bank völlig ident sein. Gibt es Abweichungen bei den Inhabern, kontaktieren Sie uns bitte vorab um die weitere Vorgehensweise zu klären. Wichtig dabei ist die Information, ob Sie nur Alt- oder auch Neubestand übertragen möchten.
+
+Ein Übertrag des bisherigen Verlusttopfes (alle realtisierten Kursgewinne bzw. -verluste) ist nicht möglich.
+###

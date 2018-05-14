@@ -26,7 +26,7 @@ IDnow ist stolz darauf, das Video-Identifikationsverfahren mit der höchsten Con
 
 Sind bei einer Video-Identifikation die Daten meiner Kunden sicher?
 
-Ja. Ihre Kundendaten liegen sicher verschlüsselt auf Hochverfügbarkeits-Servern in Deutschland. IDnow vertraut dafür auf das Hochsicherheits-Rechenzentrum der Noris Network AG in Nürnberg. IDnow hält strengste Datenschutzrichtlinien ein und wurde hierfür durch das Institut für IT-Recht zertifiziert. Sämtliche Daten werden sicher verschlüsselt übertragen. Auf Wunsch können beliebige Datenfelder der aufgenommenen Ausweise geschwärzt werden, um nach dem Grundsatz der Datensparsamkeit zu agieren. Gerne arbeiten wir darüber hinaus auch im Rahmen einer Auftragsdatenverarbeitungsvereinbarung (ADV) mit Ihnen zusammen.
+    Ja. Ihre Kundendaten liegen sicher verschlüsselt auf Hochverfügbarkeits-Servern in Deutschland. IDnow vertraut dafür auf das Hochsicherheits-Rechenzentrum der Noris Network AG in Nürnberg. IDnow hält strengste Datenschutzrichtlinien ein und wurde hierfür durch das Institut für IT-Recht zertifiziert. Sämtliche Daten werden sicher verschlüsselt übertragen. Auf Wunsch können beliebige Datenfelder der aufgenommenen Ausweise geschwärzt werden, um nach dem Grundsatz der Datensparsamkeit zu agieren. Gerne arbeiten wir darüber hinaus auch im Rahmen einer Auftragsdatenverarbeitungsvereinbarung (ADV) mit Ihnen zusammen.
 ###
 
 Kann ich auch Agenten aus meinem eigenen Call Center einsetzen?

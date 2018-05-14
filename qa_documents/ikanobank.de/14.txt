@@ -24,7 +24,7 @@ Wie benutze ich 3D Secure?
 
 Wenn Du bei einem teilnehmenden Händler im Internet einkaufen möchtest, erscheint ein Eingabefenster. Hier wirst Du zur Eingabe einer mTAN aufgefordert. Nachdem Du Deine Bestellung und Deine angezeigte Mobilfunknummer überprüft hast, gibst Du die per SMS erhaltene mTAN ein, um den Bezahlvorgang zu autorisieren und durchzuführen.
 ###
-Kann ich bei Händlern einkaufen, die nicht am 3D Secure -Verfahren teilnehmen?
+Kann ich bei Händlern einkaufen, die nicht am 3D Secure Verfahren teilnehmen?
 
 Ja, aber Du wirst bei diesen Händlern nicht nach einer mTAN gefragt. Der Kaufvorgang kann wie gewohnt durchgeführt werden.
 ###

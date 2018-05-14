@@ -1,0 +1,63 @@
+###
+Wie erteile ich Aufträge mit meinem Depot?
+
+Ganz einfach! Der Zugang für Aufträge läuft über www.bankdirekt.at. Klicken Sie in der Hauptmenüleiste den LOGIN-Button und geben Sie anschließend Ihre Zugangsdaten (Verfügernummer und PIN) ein. Nach erfolgter Anmeldung erscheint Ihnen das Online Banking. Hier wählen Sie für einen Kauf den Menüpunkt Wertpapiere/Auftrag. Einen Verkaufsauftrag erteilen Sie über die Positionsübersicht, indem Sie beim gewünschten Wertpapier auf den Aktionsbutton in der rechten Spalte klicken und verkaufen wählen. In der Kauf-/Verkaufmaske können Sie nun alle Daten für Ihren Auftrag eingeben. Anschließend klicken Sie auf Auftrag prüfen. Falls alles in Ordnung ist, bekommen Sie eine positive Quittierung, und Sie können Ihren Auftrag mit einer TAN oder dem Transaktionspasswort als Unterschrift freigeben. Nach der Freigabe geht der Auftrag sofort an die Börse.
+###
+An welchen Börsenplätzen kann gehandelt werden?
+
+Aktien können Sie an allen EU-Börsen, der Schweiz, 4 Osteuropabörsen, in Nordamerika und auch an ausgewählten asiatischen Börsen kaufen. Das sind dzt. 65 Börsen. Über 95 % der Aufträge an die Hauptbörsen aus dieser Liste werden realtime (vollautomatische Weiterleitung an den Börsecomputer ohne Verzögerung) weitergeleitet. Alle anderen Aufträge werden binnen weniger Minuten weitergeleitet. Für Anleihenaufträge gilt die gleiche Regelung. Fondsaufträge nehmen wir für alle handelbaren Fonds der Welt entgegen. Weit über 2.500 Fonds davon bieten wir mit bis zu 60 % Rabatt an.
+###
+Zu welchen Zeiten kann ich handeln?
+
+Je nach Börse sind unterschiedlich lange Handelszeiten vorgesehen. Aufträge, die uns außerhalb dieser Börsezeiten erreichen, werden mit Aufnahme des Börsehandels an die gewünschte Börse weitergeleitet. Eine Übersicht finden Sie in den Orderrichtlinien.
+###
+Was ist Intradayhandel?
+
+Von Intradayhandel spricht man, wenn ein Wertpapier am gleichen Tag ge- und verkauft wird. Dies ist bei uns möglich, da an die meisten Börsen die Auftragsweiterleitung realtime erfolgt.
+###
+Sind Limits möglich und sind diese mit Kosten verbunden?
+
+Ja, es sind zahlreiche Limitarten, darunter auch das Stop Loss-Limit - abhängig von der Börse - möglich. Bitte informieren Sie sich genau über die Usancen [hier]. Bei der Erfassung Ihres Auftrages werden diesbezüglich die wichtigsten Konstellationen geprüft, jedoch nicht alle! Es werden Ihnen weder für die Limiterteilung, -änderung oder -stornierung Kosten in Rechnung gestellt. Es fallen nur Handelsspesen an, wenn der Auftrag auch durchgeführt wurde.
+
+###
+Welche Wertpapierarten können gehandelt werden?
+
+Über uns können Sie alle gängigen Wertpapierarten wie Fonds, Anleihen, Aktien, Optionsscheine und Zertifikate handeln. Options- und Futureaufträge werden von uns jedoch nicht entgegengenommen.
+###
+Wofür kann ich das Transaktionspasswort verwenden bzw. einrichten?
+
+Sie können dieses Passwort in Ihrem Online Banking unter Einstellungen/ELBA-services/Transaktions-PW festlegen. Mit diesem Passwort können Sie jeden Wertpapierauftrag unterzeichnen, somit sind für all Ihre Wertpapieraufträge keine TAN-Nummern nötig. Überweisungen müssen jedoch nach wie vor mit TANs unterschrieben werden.
+###
+Kann ich einen Auftrag stornieren?
+
+Solange ein Auftrag an der Börse noch nicht durchgeführt wurde, können Sie über das Orderbuch Ihres Online Bankings den Auftrag stornieren. Dieses Storno wird in der Folge an die Börse weitergeleitet.
+Ein Stornoauftrag wird vorbehaltlich eines bereits durchgeführten Auftrages an die Börse weitergeleitet. Aufgrund eines erteilten Stornoauftrages kann nicht auf eine tatsächliche Stornierung geschlossen werden. Es ist durchaus möglich, dass, da der ursprüngliche Auftrag bereits ausgeführt wurde, eine Stornierung nicht mehr möglich ist, obwohl im Orderbuch keine Durchführungsbestätigung angezeigt wird. Aus abwicklungstechnischen Gründen ist ein Storno für Aufträge zu Wertpapierfonds nicht zulässig.
+###
+Was tun wenn das Wertpapier nicht im Online Banking verfügbar ist?
+
+Teilweise ist es möglich - insbesondere bei Optionsscheinen und Zertifikaten - dass eine Kennnummer noch nicht für einen Kauf freigeschaltet ist. In diesem Fall können Sie auf www.bankdirekt.at unter Kennnummernanlage die Kennnummer anlegen lassen.
+###
+Warum wurde mein Auftrag nicht durchgeführt obwohl das Limit erreicht wurde?
+
+Die Börse führt eine Reihung der Aufträge durch. Als erstes werden Bestens-Aufträge durchgeführt anschließend werden Limitaufträge abgewickelt. Bei Aufträgen mit gleichem Limit wird der zuerst durchgeführt, der zuerst erteilt wurde.
+###
+Kann ich auch Kurse in Echtzeit beziehen?
+
+Grundsätzlich werden auf unserer Homepage die Kurse kostenlos, jedoch 15 Minuten zeitverzögert, angeboten. Sie können bei uns auch über Ihr Online Banking Realtime-Kurse abonnieren, für diese wird je nach Börse eine monatliche Gebühr verrechnet.
+###
+Was ist das Musterdepot?
+
+Sie können mit Hilfe dieses kostenlosen Services bestimmte Wertpapiere gesondert und auf einen Blick beobachten. Das Musterdepot finden Sie in Ihrem Online Banking unter Wertpapiere/Informationen. Mehr Informationen zu diesem Service finden Sie hier.
+###
+Was beinhaltet der ca. Kursgegenwert der nach Auftragserteilung angezeigt wird?
+
+Dieser ca. Wert beinhaltet bei Limitaufträgen den Auftragswert mit Ihrem Limit samt Spesen. Wenn Sie ein Produkt handeln, das Zinsen ausbezahlt, werden auch diese eingerechnet. Bei Verkäufen wird zusätzlich die KESt auf Kursgewinne berücksichtigt.
+###
+Ist der aktuelle Auftragsstatus bzw. die Abrechnung online einsehbar?
+
+Ja, im Orderbuch in Ihrem Online Banking können Sie jederzeit den aktuellen Status Ihres Auftrags mitverfolgen. Weiters wird Ihnen nach Auftragsdurchführung auch die Detailabrechnung zur Verfügung gestellt. Ihnen stehen im Orderbuch die Daten der letzten beiden Jahre zur Verfügung.
+###
+Warum wurde mir die Dividende noch nicht gutgeschrieben bzw. die Kapitalmaßnahme noch nicht abgerechnet?
+
+Damit Sie eine Dividende erhalten bzw. an einer Kapitalmaßnahme teilnehmen können, müssen Sie das Wertpapier am Abend vor dem Ex-Tag nach Börsenschluss in Ihrem Depot haben. Die Fälligkeit wird jedoch durch den Zahlbarkeitstag bestimmt. Dieser kann vom Ex-Tag abweichen. Abwicklungsbedingt können wir die Abrechnungen erst erstellen, sobald wir von unseren Lagerstellen die Geldbeträge bzw. Wertpapiere vollständig erhalten haben. Erst dann wird die Verbuchung auf Ihrem Depot/Konto vorgenommen. Wenn es zu Verzögerungen von unseren Lagerstellen kommt, kann die tatsächliche Abrechnung daher später als der Zahlbarkeitstag erfolgen.
+###

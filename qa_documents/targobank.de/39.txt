@@ -24,7 +24,7 @@ Warum kann ich easyTAN nicht für das Mobile-Banking nutzen?
 Diese Funktion wird folgen. Im ersten Schritt ist die easyTAN lediglich für das Online-Banking nutzbar.
 
 ###
-Wie sicher sind die TAN -Verfahren?
+Wie sicher sind die TAN-Verfahren?
 
 iTAN
 
